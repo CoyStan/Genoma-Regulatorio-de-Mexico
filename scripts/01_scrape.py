@@ -2,23 +2,28 @@
 """
 01_scrape.py — Scrape all federal laws from diputados.gob.mx/LeyesBiblio
 
-Output: data/raw/<law_id>.json for each law scraped.
+The site no longer serves HTML versions of individual laws.
+Each law is available as a .doc (Word) and .pdf file.
 
-Each output file contains:
-    {
-        "id": "ley-federal-del-trabajo",
-        "name": "Ley Federal del Trabajo",
-        "source_url": "https://...",
-        "scraped_at": "2024-01-15T10:30:00Z",
-        "html_checksum": "sha256:...",
-        "html": "...",   # raw HTML of the law page
-    }
+This script:
+  1. Fetches the index page and parses the law table.
+  2. Extracts metadata per law (number, name, DOF dates, abrogation status).
+  3. Downloads the .doc file for each law.
+  4. Saves a JSON metadata file alongside each .doc.
+
+Output layout in data/raw/:
+    CPEUM.doc          — raw Word document
+    CPEUM.json         — metadata + index info
+    LFT.doc
+    LFT.json
+    ...
+    _index.json        — full scraped index (all laws, even if download failed)
 
 Design principles:
-    - Idempotent: skips laws already scraped (by checksum).
-    - Polite: 1-2 second delay between requests.
-    - Transparent: logs every success/failure.
-    - Graceful degradation: if HTML fails, falls back to PDF URL.
+    - Idempotent: skips .doc files already downloaded (SHA-256 checksum).
+    - Polite: configurable delay between downloads.
+    - Transparent: every skip/fail/success logged.
+    - Resilient: exponential backoff on transient errors.
 """
 
 import hashlib
@@ -37,24 +42,26 @@ from bs4 import BeautifulSoup
 # Configuration
 # ---------------------------------------------------------------------------
 
-BASE_URL = "https://www.diputados.gob.mx"
-INDEX_URL = f"{BASE_URL}/LeyesBiblio/index.htm"
-FALLBACK_INDEX_URL = "https://mexico.justia.com/federales/leyes/"
+BASE_URL     = "https://www.diputados.gob.mx"
+INDEX_URL    = f"{BASE_URL}/LeyesBiblio/index.htm"
+DOC_BASE_URL = f"{BASE_URL}/LeyesBiblio/doc"
+PDF_BASE_URL = f"{BASE_URL}/LeyesBiblio/pdf"
 
 RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 
-REQUEST_DELAY_SECONDS = 1.5  # Be respectful to the server
-REQUEST_TIMEOUT = 30
-MAX_RETRIES = 3
+REQUEST_DELAY_SECONDS = 1.5   # Polite delay between file downloads
+REQUEST_TIMEOUT       = 60    # .doc files can be large
+MAX_RETRIES           = 3
 
+# Use a browser-like User-Agent so the server doesn't reject us,
+# plus identify the project for transparency.
 HEADERS = {
     "User-Agent": (
-        "GenomRegulatorioMX/1.0 (civic tech; open data; "
-        "https://github.com/quetzali-rg/genoma-regulatorio-mx; "
-        "contact: open-source@example.com)"
+        "Mozilla/5.0 (compatible; GenomRegulatorioMX/1.0; "
+        "+https://github.com/quetzali-rg/genoma-regulatorio-mx)"
     ),
-    "Accept-Language": "es-MX,es;q=0.9,en;q=0.8",
+    "Accept-Language": "es-MX,es;q=0.9",
 }
 
 # ---------------------------------------------------------------------------
@@ -66,258 +73,265 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(message)s",
     handlers=[
         logging.StreamHandler(sys.stdout),
-        logging.FileHandler(RAW_DIR.parent / "scrape.log", mode="a"),
+        logging.FileHandler(RAW_DIR.parent / "scrape.log", mode="a", encoding="utf-8"),
     ],
 )
 log = logging.getLogger(__name__)
 
 
 # ---------------------------------------------------------------------------
-# Utility functions
+# Utility helpers
 # ---------------------------------------------------------------------------
 
-def sha256_checksum(content: str | bytes) -> str:
-    if isinstance(content, str):
-        content = content.encode("utf-8")
-    return "sha256:" + hashlib.sha256(content).hexdigest()
+def sha256_of_file(path: Path) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return "sha256:" + h.hexdigest()
 
 
 def slugify(name: str) -> str:
-    """Convert a law name to a filesystem-safe slug."""
+    """Convert a law name to a filesystem-safe lowercase slug with hyphens."""
     name = name.lower().strip()
-    name = re.sub(r"[áàä]", "a", name)
-    name = re.sub(r"[éèë]", "e", name)
-    name = re.sub(r"[íìï]", "i", name)
-    name = re.sub(r"[óòö]", "o", name)
-    name = re.sub(r"[úùü]", "u", name)
-    name = re.sub(r"ñ", "n", name)
-    name = re.sub(r"[^a-z0-9\s-]", "", name)
-    name = re.sub(r"\s+", "-", name)
-    name = re.sub(r"-+", "-", name)
+    for src, dst in [
+        ("á","a"),("à","a"),("ä","a"),
+        ("é","e"),("è","e"),("ë","e"),
+        ("í","i"),("ì","i"),("ï","i"),
+        ("ó","o"),("ò","o"),("ö","o"),
+        ("ú","u"),("ù","u"),("ü","u"),
+        ("ñ","n"),
+    ]:
+        name = name.replace(src, dst)
+    name = re.sub(r"[^a-z0-9\s\-]", "", name)
+    name = re.sub(r"[\s\-]+", "-", name)
     return name.strip("-")
 
 
-def fetch_with_retry(url: str, session: requests.Session) -> requests.Response | None:
-    """Fetch a URL with exponential backoff retry logic."""
+def fetch_with_retry(url: str, session: requests.Session, stream: bool = False):
+    """GET with exponential-backoff retry. Returns Response or None."""
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            response = session.get(url, timeout=REQUEST_TIMEOUT, headers=HEADERS)
-            response.raise_for_status()
-            return response
-        except requests.HTTPError as e:
-            log.warning(f"HTTP {e.response.status_code} for {url} (attempt {attempt}/{MAX_RETRIES})")
-        except requests.RequestException as e:
-            log.warning(f"Request failed for {url}: {e} (attempt {attempt}/{MAX_RETRIES})")
+            resp = session.get(url, timeout=REQUEST_TIMEOUT, stream=stream)
+            resp.raise_for_status()
+            return resp
+        except requests.HTTPError as exc:
+            code = exc.response.status_code if exc.response is not None else "?"
+            log.warning(f"HTTP {code} — {url}  (attempt {attempt}/{MAX_RETRIES})")
+        except requests.RequestException as exc:
+            log.warning(f"Request error — {url}: {exc}  (attempt {attempt}/{MAX_RETRIES})")
 
         if attempt < MAX_RETRIES:
             wait = 2 ** attempt
-            log.info(f"Retrying in {wait}s...")
+            log.info(f"  Retrying in {wait}s …")
             time.sleep(wait)
 
-    log.error(f"All {MAX_RETRIES} attempts failed for {url}")
+    log.error(f"All {MAX_RETRIES} attempts failed: {url}")
     return None
 
 
-def already_scraped(law_id: str, checksum: str | None = None) -> bool:
-    """
-    Return True if this law has already been scraped.
-    If checksum is provided, also verify the content hasn't changed.
-    """
-    output_path = RAW_DIR / f"{law_id}.json"
-    if not output_path.exists():
-        return False
-    if checksum is None:
-        return True
-    try:
-        with open(output_path) as f:
-            existing = json.load(f)
-        return existing.get("html_checksum") == checksum
-    except Exception:
-        return False
-
-
-def save_law(data: dict) -> None:
-    """Save a scraped law to data/raw/<law_id>.json."""
-    output_path = RAW_DIR / f"{data['id']}.json"
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    log.info(f"Saved: {output_path.name} ({len(data.get('html', ''))//1024}KB)")
-
-
 # ---------------------------------------------------------------------------
-# Index scraping
+# Index parsing
 # ---------------------------------------------------------------------------
 
-def scrape_law_index(session: requests.Session) -> list[dict]:
+def parse_index_html(html: str) -> list[dict]:
     """
-    Scrape the law index from diputados.gob.mx/LeyesBiblio.
-    Returns a list of dicts: [{name, url, pdf_url, ...}, ...]
+    Parse the LeyesBiblio index page into a list of law records.
+
+    The page has a table with columns:
+        No. | LEY / Página de Reformas | Última Reforma | TEXTO VIGENTE
+                                                          (PDF icon, DOC icon, mobile icon)
+
+    Strategy: find every <a href="...doc/XXX.doc"> link in the table,
+    then walk up to the parent <tr> to extract the other columns.
     """
-    log.info(f"Fetching law index from {INDEX_URL}")
-    response = fetch_with_retry(INDEX_URL, session)
-    if response is None:
-        log.error("Could not fetch law index. Aborting.")
-        sys.exit(1)
+    soup = BeautifulSoup(html, "lxml")
+    laws: list[dict] = []
+    seen_file_ids: set[str] = set()
 
-    soup = BeautifulSoup(response.text, "html.parser")
-    laws = []
+    # Find all links to .doc files anywhere in the page
+    doc_links = soup.find_all("a", href=re.compile(r"/doc/[^/]+\.doc$", re.IGNORECASE))
+    log.info(f"Found {len(doc_links)} .doc links on index page")
 
-    # The diputados.gob.mx index page lists laws in a table.
-    # Each row has: law name (link to HTML), DOC link, PDF link.
-    for row in soup.find_all("tr"):
-        cells = row.find_all("td")
-        if len(cells) < 2:
-            continue
+    for doc_link in doc_links:
+        href = doc_link["href"].strip()
 
-        # First cell: law name and HTML link
-        name_cell = cells[0]
-        link = name_cell.find("a", href=True)
-        if not link:
-            continue
-
-        name = link.get_text(strip=True)
-        if not name or len(name) < 5:
-            continue
-
-        href = link["href"]
-        # Normalize URL
+        # Normalise to absolute URL
         if href.startswith("http"):
-            html_url = href
+            doc_url = href
         else:
-            html_url = f"{BASE_URL}/LeyesBiblio/{href.lstrip('/')}"
+            doc_url = BASE_URL + ("" if href.startswith("/") else "/") + href
 
-        # Look for PDF link in other cells
-        pdf_url = None
-        for cell in cells[1:]:
-            pdf_link = cell.find("a", href=re.compile(r"\.pdf$", re.IGNORECASE))
-            if pdf_link:
-                pdf_href = pdf_link["href"]
-                if pdf_href.startswith("http"):
-                    pdf_url = pdf_href
-                else:
-                    pdf_url = f"{BASE_URL}/LeyesBiblio/{pdf_href.lstrip('/')}"
-                break
+        # Extract the file identifier, e.g. "CPEUM" from ".../doc/CPEUM.doc"
+        file_id_match = re.search(r"/doc/([^/]+)\.doc$", doc_url, re.IGNORECASE)
+        if not file_id_match:
+            continue
+        file_id = file_id_match.group(1)          # e.g. "CPEUM"
+        if file_id in seen_file_ids:
+            continue
+        seen_file_ids.add(file_id)
 
-        law_id = slugify(name)
-        if law_id:
+        pdf_url = f"{PDF_BASE_URL}/{file_id}.pdf"
+
+        # Walk up to the parent <tr> to grab other columns
+        row = doc_link.find_parent("tr")
+        if row is None:
+            # Fallback: build a minimal record
             laws.append({
-                "id": law_id,
-                "name": name,
-                "html_url": html_url,
-                "pdf_url": pdf_url,
+                "file_id":        file_id,
+                "id":             file_id.lower(),
+                "name":           file_id,
+                "number":         "",
+                "dof_published":  "",
+                "dof_last_reform": "",
+                "is_abrogated":   False,
+                "abrogation_note": None,
+                "doc_url":        doc_url,
+                "pdf_url":        pdf_url,
             })
+            continue
 
-    log.info(f"Found {len(laws)} laws in index")
+        cells = row.find_all("td")
+
+        # ---- Column 0: row number (001, 002, …) ----
+        number = cells[0].get_text(strip=True) if cells else ""
+
+        # ---- Column 1: law name + DOF publication date ----
+        name      = ""
+        dof_pub   = ""
+        is_abrogated  = False
+        abrogation_note = None
+
+        if len(cells) >= 2:
+            name_cell = cells[1]
+
+            # Law name is in <b> or <strong>
+            bold = name_cell.find(["b", "strong"])
+            if bold:
+                name = bold.get_text(strip=True)
+            else:
+                # Fall back to all text in the cell, minus child links
+                name = name_cell.get_text(" ", strip=True).split("\n")[0]
+
+            # DOF publication date: look for "DOF DD/MM/YYYY" pattern
+            cell_text = name_cell.get_text(" ", strip=True)
+            dof_match = re.search(r"DOF\s+\d{2}/\d{2}/\d{4}", cell_text)
+            if dof_match:
+                dof_pub = dof_match.group(0)
+
+            # Abrogation notice: "(Abrogado …)" or "Abrogada"
+            abroga_match = re.search(
+                r"\(Abroga[dr][ao][^)]*\)|Abrogad[ao]\s+[^(]+",
+                cell_text,
+                re.IGNORECASE,
+            )
+            if abroga_match:
+                is_abrogated = True
+                abrogation_note = abroga_match.group(0).strip()
+
+        # ---- Column 2: Última Reforma date ----
+        dof_reform = ""
+        if len(cells) >= 3:
+            reform_cell = cells[2]
+            reform_text = reform_cell.get_text(" ", strip=True)
+            # May say "DOF 03/03/2026" or "Notificación 17/06/2025 Sentencia SCJN"
+            dof_reform = reform_text.strip()
+
+        # Derive a slug from the file_id for use as the canonical law id.
+        # We keep file_id in uppercase as the primary key (matches lookup.py short names).
+        slug_id = slugify(name) if name and name != file_id else file_id.lower()
+
+        laws.append({
+            "file_id":         file_id,       # "CPEUM" — used to build download URLs
+            "id":              slug_id,        # "constitucion-politica" style slug
+            "name":            name,
+            "number":          number,
+            "dof_published":   dof_pub,
+            "dof_last_reform": dof_reform,
+            "is_abrogated":    is_abrogated,
+            "abrogation_note": abrogation_note,
+            "doc_url":         doc_url,
+            "pdf_url":         pdf_url,
+        })
+
+    # Sort by row number for deterministic ordering
+    laws.sort(key=lambda x: x.get("number", "999"))
     return laws
 
 
 # ---------------------------------------------------------------------------
-# Law page scraping
+# .doc download
 # ---------------------------------------------------------------------------
 
-def scrape_law_page(law_info: dict, session: requests.Session) -> dict | None:
+def doc_already_downloaded(file_id: str) -> tuple[bool, str | None]:
     """
-    Scrape a single law's HTML page.
-    Returns structured data or None if scraping failed.
+    Return (already_done, existing_checksum).
+    Checks both the .doc file and its metadata JSON.
     """
-    url = law_info["html_url"]
-    response = fetch_with_retry(url, session)
-    if response is None:
-        return None
-
-    # Detect encoding (diputados.gob.mx sometimes serves Latin-1)
+    doc_path  = RAW_DIR / f"{file_id}.doc"
+    meta_path = RAW_DIR / f"{file_id}.json"
+    if not doc_path.exists() or not meta_path.exists():
+        return False, None
     try:
-        html = response.content.decode("utf-8")
-    except UnicodeDecodeError:
-        try:
-            html = response.content.decode("latin-1")
-        except UnicodeDecodeError:
-            html = response.text
+        with open(meta_path, encoding="utf-8") as f:
+            meta = json.load(f)
+        return True, meta.get("doc_checksum")
+    except Exception:
+        return False, None
 
-    checksum = sha256_checksum(html)
 
-    # Skip if already scraped with same content
-    if already_scraped(law_info["id"], checksum):
-        log.info(f"Skipping {law_info['id']} (unchanged)")
-        return None
+def download_doc(law: dict, session: requests.Session) -> bool:
+    """
+    Download the .doc file for a law.
+    Returns True on success, False on failure.
+    Skips if the file already exists with the same content.
+    """
+    file_id  = law["file_id"]
+    doc_url  = law["doc_url"]
+    doc_path = RAW_DIR / f"{file_id}.doc"
 
-    return {
-        "id": law_info["id"],
-        "name": law_info["name"],
-        "source_url": url,
-        "pdf_url": law_info.get("pdf_url"),
-        "scraped_at": datetime.now(timezone.utc).isoformat(),
-        "html_checksum": checksum,
-        "html": html,
+    # Quick existence check (without re-downloading)
+    already, _ = doc_already_downloaded(file_id)
+    if already:
+        log.info(f"  → Already downloaded, skipping")
+        return True
+
+    log.info(f"  Downloading {doc_url}")
+    resp = fetch_with_retry(doc_url, session, stream=True)
+    if resp is None:
+        return False
+
+    # Stream to disk
+    bytes_written = 0
+    try:
+        with open(doc_path, "wb") as f:
+            for chunk in resp.iter_content(chunk_size=65536):
+                if chunk:
+                    f.write(chunk)
+                    bytes_written += len(chunk)
+    except OSError as exc:
+        log.error(f"  Write error for {doc_path}: {exc}")
+        doc_path.unlink(missing_ok=True)
+        return False
+
+    checksum = sha256_of_file(doc_path)
+    size_kb   = bytes_written // 1024
+
+    log.info(f"  → {file_id}.doc saved ({size_kb} KB, {checksum[:20]}…)")
+
+    # Save metadata JSON alongside the .doc
+    meta = {
+        **law,
+        "scraped_at":   datetime.now(timezone.utc).isoformat(),
+        "doc_checksum": checksum,
+        "doc_size_bytes": bytes_written,
+        "doc_path":     str(doc_path.relative_to(RAW_DIR.parent)),
     }
+    meta_path = RAW_DIR / f"{file_id}.json"
+    with open(meta_path, "w", encoding="utf-8") as f:
+        json.dump(meta, f, ensure_ascii=False, indent=2)
 
-
-# ---------------------------------------------------------------------------
-# Manual law list (fallback / supplement)
-# ---------------------------------------------------------------------------
-
-KNOWN_LAWS_MANUAL = [
-    {
-        "id": "constitucion-politica",
-        "name": "Constitución Política de los Estados Unidos Mexicanos",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/CPEUM.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
-    },
-    {
-        "id": "ley-federal-del-trabajo",
-        "name": "Ley Federal del Trabajo",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/LFT.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf",
-    },
-    {
-        "id": "ley-del-seguro-social",
-        "name": "Ley del Seguro Social",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/LSS.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
-    },
-    {
-        "id": "codigo-fiscal-federacion",
-        "name": "Código Fiscal de la Federación",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/CFF.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
-    },
-    {
-        "id": "ley-isr",
-        "name": "Ley del Impuesto sobre la Renta",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/LISR.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
-    },
-    {
-        "id": "codigo-penal-federal",
-        "name": "Código Penal Federal",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/CPF.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
-    },
-    {
-        "id": "ley-general-salud",
-        "name": "Ley General de Salud",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/LGS.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
-    },
-    {
-        "id": "codigo-civil-federal",
-        "name": "Código Civil Federal",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/CCF.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
-    },
-    {
-        "id": "lgeepa",
-        "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/LGEEPA.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf",
-    },
-    {
-        "id": "lgtaip",
-        "name": "Ley General de Transparencia y Acceso a la Información Pública",
-        "html_url": "https://www.diputados.gob.mx/LeyesBiblio/htm/LGTAIP.htm",
-        "pdf_url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
-    },
-]
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -325,56 +339,102 @@ KNOWN_LAWS_MANUAL = [
 # ---------------------------------------------------------------------------
 
 def main():
-    log.info("=== 01_scrape.py — Genoma Regulatorio de México ===")
-    log.info(f"Scrape date: {datetime.now(timezone.utc).isoformat()}")
-    log.info(f"Output directory: {RAW_DIR}")
+    log.info("=" * 60)
+    log.info("01_scrape.py — Genoma Regulatorio de México")
+    log.info(f"Date : {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}")
+    log.info(f"Index: {INDEX_URL}")
+    log.info(f"Out  : {RAW_DIR}")
+    log.info("=" * 60)
 
     session = requests.Session()
     session.headers.update(HEADERS)
 
-    # Try to get the full index from diputados.gob.mx
-    law_list = scrape_law_index(session)
+    # ------------------------------------------------------------------
+    # Step 1: Fetch and parse the law index
+    # ------------------------------------------------------------------
+    log.info(f"Fetching law index …")
+    resp = fetch_with_retry(INDEX_URL, session)
+    if resp is None:
+        log.error("Cannot fetch index. Check your internet connection.")
+        sys.exit(1)
 
-    # Merge with manual list (dedup by id, manual takes precedence for URL)
-    manual_ids = {law["id"] for law in KNOWN_LAWS_MANUAL}
-    law_list = [law for law in law_list if law["id"] not in manual_ids]
-    law_list = KNOWN_LAWS_MANUAL + law_list
+    # Detect encoding
+    try:
+        html = resp.content.decode("utf-8")
+    except UnicodeDecodeError:
+        html = resp.content.decode("latin-1")
 
-    log.info(f"Total laws to scrape: {len(law_list)}")
+    laws = parse_index_html(html)
+    if not laws:
+        log.error(
+            "No laws found in the index. The page structure may have changed.\n"
+            "Open the index in a browser and inspect the .doc download links."
+        )
+        sys.exit(1)
 
-    success_count = 0
-    skip_count = 0
-    fail_count = 0
+    log.info(f"Found {len(laws)} laws in the index")
 
-    for i, law_info in enumerate(law_list, 1):
-        log.info(f"[{i}/{len(law_list)}] {law_info['name'][:60]}")
+    # Save the full index to disk for inspection / downstream use
+    index_path = RAW_DIR / "_index.json"
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(
+            {
+                "scraped_at": datetime.now(timezone.utc).isoformat(),
+                "source_url": INDEX_URL,
+                "total_laws": len(laws),
+                "laws": laws,
+            },
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
+    log.info(f"Index saved → {index_path}")
 
-        # Quick check: skip if already scraped
-        if already_scraped(law_info["id"]):
-            log.info(f"  → Already scraped, skipping")
-            skip_count += 1
+    # ------------------------------------------------------------------
+    # Step 2: Download .doc files
+    # ------------------------------------------------------------------
+    success = skip = fail = 0
+
+    for i, law in enumerate(laws, 1):
+        file_id = law["file_id"]
+        name_short = law["name"][:55] if law["name"] else file_id
+        log.info(f"[{i:03d}/{len(laws)}] {file_id:12s}  {name_short}")
+
+        already, _ = doc_already_downloaded(file_id)
+        if already:
+            log.info("  → cached")
+            skip += 1
             continue
 
-        result = scrape_law_page(law_info, session)
-        if result is None:
-            # Could be unchanged (checksum match) or a failure
-            if (RAW_DIR / f"{law_info['id']}.json").exists():
-                skip_count += 1
-            else:
-                fail_count += 1
+        ok = download_doc(law, session)
+        if ok:
+            success += 1
         else:
-            save_law(result)
-            success_count += 1
+            fail += 1
+            # Write a stub JSON so we know this law was seen but download failed
+            stub = {**law, "scraped_at": None, "doc_checksum": None, "download_failed": True}
+            stub_path = RAW_DIR / f"{file_id}.json"
+            with open(stub_path, "w", encoding="utf-8") as f:
+                json.dump(stub, f, ensure_ascii=False, indent=2)
 
-        # Polite delay between requests
-        if i < len(law_list):
+        # Polite delay (skip after last item)
+        if i < len(laws):
             time.sleep(REQUEST_DELAY_SECONDS)
 
-    log.info(f"\n=== Scraping complete ===")
-    log.info(f"  Scraped: {success_count}")
-    log.info(f"  Skipped (cached): {skip_count}")
-    log.info(f"  Failed: {fail_count}")
-    log.info(f"  Output: {RAW_DIR}")
+    log.info("")
+    log.info("=" * 60)
+    log.info("Scraping complete")
+    log.info(f"  Downloaded : {success}")
+    log.info(f"  Skipped    : {skip}  (already cached)")
+    log.info(f"  Failed     : {fail}")
+    log.info(f"  Output     : {RAW_DIR}")
+    log.info("=" * 60)
+
+    if fail:
+        log.warning(
+            f"{fail} downloads failed. Check scrape.log for details. "
+            "You can re-run the script — it will retry only failed files."
+        )
 
 
 if __name__ == "__main__":
