@@ -277,7 +277,18 @@ def extract_text_libreoffice(doc_path: Path) -> tuple[str, str] | None:
             txt_path = Path(tmp_dir) / (doc_path.stem + ".txt")
             if not txt_path.exists():
                 return None
-            text = txt_path.read_text(encoding="utf-8", errors="replace")
+            # LibreOffice on Windows outputs CP1252 by default, not UTF-8.
+            # Try encodings in order: UTF-8 with BOM, UTF-8, CP1252, Latin-1.
+            raw_bytes = txt_path.read_bytes()
+            text = None
+            for enc in ("utf-8-sig", "utf-8", "cp1252", "latin-1"):
+                try:
+                    text = raw_bytes.decode(enc)
+                    break
+                except UnicodeDecodeError:
+                    continue
+            if text is None:
+                text = raw_bytes.decode("latin-1")  # never fails
             if len(text.strip()) > 100:
                 return text, "libreoffice"
             return None
