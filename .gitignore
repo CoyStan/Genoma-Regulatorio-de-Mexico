@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Data files (large — not tracked in git)
+data/raw/
+data/processed/
+data/graph/graph.json
+data/graph/graph.graphml
+
+# Logs
+*.log
+scrape.log
+
+# Jupyter notebooks (checkpoints)
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Keep data directory structure (but not contents)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/citations/.gitkeep
+!data/definitions/.gitkeep
+!data/graph/.gitkeep
+!data/lookup/.gitkeep

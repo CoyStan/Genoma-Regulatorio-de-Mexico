@@ -1,0 +1,18 @@
+# Genoma Regulatorio de México — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# HTTP scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0          # faster HTML parser for BeautifulSoup
+
+# Graph analysis
+networkx>=3.2.0
+python-louvain>=0.16  # community detection (import as: from community import best_partition)
+
+# Testing
+pytest>=7.4.0
+
+# Optional: spaCy for NLP-based entity resolution (Phase 2)
+# spacy>=3.7.0
+# Run: python -m spacy download es_core_news_lg
