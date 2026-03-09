@@ -204,7 +204,7 @@ Las contribuciones son bienvenidas. Áreas prioritarias:
 
 ---
 
-## Autora
+## Autor
 
 [Quetzali Ramírez Guillén](https://twitter.com/QuetzalRG)
 CIDE · Harvard MPA/ID · IMF
