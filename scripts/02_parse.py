@@ -100,12 +100,85 @@ def extract_text_pywin32(doc_path: Path) -> tuple[str, str] | None:
         return None
 
 
+def _scan_utf16le_runs(data: bytes, min_run: int = 30) -> str:
+    """
+    Scan raw bytes for UTF-16-LE encoded text runs.
+
+    Word 97-2003 .doc stores text as UTF-16-LE (2 bytes per char).
+    Spanish legal text is mostly ASCII + Latin Extended (á é í ó ú ñ ü etc.).
+    In UTF-16-LE those all have a 0x00 high byte, so we look for
+    sequences of (printable_byte, 0x00) pairs.
+
+    We try both even and odd byte alignment because the FIB at the
+    start of the stream may be an odd number of bytes.
+    """
+    WORD_NEWLINES = {0x0A, 0x0D, 0x0B, 0x0C, 0x07}  # 0x0B = soft return in Word
+    collected: list[str] = []
+
+    for offset in (0, 1):  # try both byte alignments
+        run: list[str] = []
+        i = offset
+        while i < len(data) - 1:
+            lo, hi = data[i], data[i + 1]
+
+            if hi == 0x00:
+                if 0x20 <= lo <= 0x7E:          # printable ASCII
+                    run.append(chr(lo))
+                    i += 2
+                    continue
+                if lo in WORD_NEWLINES:          # newline / page break
+                    run.append("\n")
+                    i += 2
+                    continue
+                if 0xC0 <= lo <= 0xFF:           # Latin Extended (áéíóúñü…)
+                    run.append(chr(lo))
+                    i += 2
+                    continue
+            elif 0x00 < hi <= 0x05:             # higher BMP plane (rare but valid)
+                try:
+                    ch = bytes([lo, hi]).decode("utf-16-le")
+                    if ch.isprintable() or ch in "\n\r":
+                        run.append(ch)
+                        i += 2
+                        continue
+                except Exception:
+                    pass
+
+            # Non-text byte — flush run if long enough
+            if len(run) >= min_run // 2:
+                collected.append("".join(run))
+            run = []
+            i += 1
+
+        if len(run) >= min_run // 2:
+            collected.append("".join(run))
+
+    # Keep runs that look like real words (>40% alpha chars, has spaces)
+    good: list[str] = []
+    for part in collected:
+        if len(part) < 20 or " " not in part:
+            continue
+        alpha_ratio = sum(1 for c in part if c.isalpha()) / len(part)
+        if alpha_ratio > 0.35:
+            good.append(part)
+
+    # Deduplicate (both alignments may find the same run)
+    seen: set[str] = set()
+    unique: list[str] = []
+    for part in good:
+        key = part[:40]
+        if key not in seen:
+            seen.add(key)
+            unique.append(part)
+
+    return "\n".join(unique)
+
+
 def extract_text_olefile(doc_path: Path) -> tuple[str, str] | None:
     """
     Pure-Python OLE2 reader — no Word or external tools needed.
-    Extracts text from the Word Binary Format text stream.
+    Scans the WordDocument stream for UTF-16-LE text runs.
     Install: pip install olefile
-    Output may include some noise but captures the bulk of the text.
     """
     try:
         import olefile  # type: ignore
@@ -115,38 +188,11 @@ def extract_text_olefile(doc_path: Path) -> tuple[str, str] | None:
 
         ole = olefile.OleFileIO(str(doc_path))
         try:
-            # Word stores the full document text in the WordDocument stream.
-            # The text begins after a 768-byte FIB (File Information Block).
-            # We read the entire stream and pull out runs of Latin-1 printable chars.
             if not ole.exists("WordDocument"):
                 return None
             raw = ole.openstream("WordDocument").read()
-
-            # Word Binary Format: text characters are stored as 16-bit little-endian
-            # Unicode code points interspersed with formatting bytes.
-            # Heuristic: decode as UTF-16-LE and filter printable chars.
-            try:
-                text_u16 = raw.decode("utf-16-le", errors="ignore")
-                # Keep printable Unicode + newlines, strip control chars
-                chars = [
-                    c for c in text_u16
-                    if c.isprintable() or c in "\n\r\t"
-                ]
-                text = "".join(chars).strip()
-            except Exception:
-                text = ""
-
-            # Fallback: Latin-1 single-byte printable run extraction
-            if len(text) < 200:
-                chars = []
-                for b in raw:
-                    if 32 <= b < 127 or b in (10, 13, 9):
-                        chars.append(chr(b))
-                    elif chars and chars[-1] != " ":
-                        chars.append(" ")
-                text = "".join(chars).strip()
-
-            if len(text) > 200:
+            text = _scan_utf16le_runs(raw)
+            if len(text.strip()) > 200:
                 return text, "olefile"
             return None
         finally:
