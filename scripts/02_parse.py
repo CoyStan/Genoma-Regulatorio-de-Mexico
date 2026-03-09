@@ -1,41 +1,50 @@
 #!/usr/bin/env python3
 """
-02_parse.py — Parse raw scraped HTML into structured law JSON.
+02_parse.py — Convert downloaded .doc files into structured law JSON.
 
-Reads: data/raw/<law_id>.json
-Writes: data/processed/<law_id>.json
+Reads : data/raw/<FILE_ID>.doc  +  data/raw/<FILE_ID>.json  (metadata)
+Writes: data/processed/<slug_id>.json
 
-Each processed file contains:
+Text extraction strategy (in priority order):
+  1. python-docx   — works when the .doc is actually a .docx renamed to .doc
+                     (common for files served by diputados.gob.mx post-2020).
+  2. antiword      — CLI tool for genuine legacy .doc (Word 97-2003 format).
+                     Install: sudo apt install antiword  (Linux)
+                              brew install antiword      (macOS)
+  3. LibreOffice   — converts .doc → .txt via headless mode.
+                     Install: sudo apt install libreoffice
+  4. Fallback stub — records the law metadata but marks text as unavailable.
+
+Each output file contains:
     {
-        "id": "ley-federal-del-trabajo",
-        "name": "Ley Federal del Trabajo",
-        "short_name": "LFT",
-        "year_enacted": 1970,
-        "year_last_reform": 2023,
-        "category": "trabajo",
-        "source_url": "https://...",
-        "full_text": "...",  # cleaned plaintext, no HTML
+        "id":              "ley-federal-del-trabajo",
+        "file_id":         "LFT",
+        "name":            "Ley Federal del Trabajo",
+        "short_name":      "LFT",
+        "year_enacted":    1970,
+        "year_last_reform": 2024,
+        "category":        "trabajo",
+        "source_url":      "https://...",
+        "full_text":       "...",
         "articles": [
-            {
-                "number": "1",
-                "title": "Artículo 1",
-                "text": "...",
-            },
+            {"number": "1", "title": "Artículo 1", "text": "..."},
             ...
         ],
-        "num_articles": 1010,
-        "processed_at": "2024-01-15T11:00:00Z",
+        "num_articles":    1010,
+        "extraction_method": "python-docx",
+        "processed_at":    "2024-01-15T11:00:00Z",
     }
 """
 
 import json
 import logging
 import re
+import shutil
+import subprocess
 import sys
+import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
-
-from bs4 import BeautifulSoup, NavigableString, Tag
 
 # Add project root to sys.path
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -45,7 +54,7 @@ from scripts.utils.lookup import CANONICAL_LAWS
 # Configuration
 # ---------------------------------------------------------------------------
 
-RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
+RAW_DIR       = Path(__file__).parent.parent / "data" / "raw"
 PROCESSED_DIR = Path(__file__).parent.parent / "data" / "processed"
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -56,243 +65,326 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
+
 # ---------------------------------------------------------------------------
-# Article parsing
+# Text extraction from .doc
 # ---------------------------------------------------------------------------
 
-# Patterns for detecting article headings in Mexican legal text
-ARTICLE_HEADING_PATTERNS = [
-    re.compile(r"^Art[ií]culo\s+(\d+[\w\-]*)\s*[.\-–]?\s*(.*)$", re.IGNORECASE | re.MULTILINE),
-    re.compile(r"^ARTÍCULO\s+(\d+[\w\-]*)\s*[.\-–]?\s*(.*)$", re.MULTILINE),
-    re.compile(r"^Art\.\s+(\d+[\w\-]*)\s*[.\-–]?\s*(.*)$", re.IGNORECASE | re.MULTILINE),
+def extract_text_python_docx(doc_path: Path) -> tuple[str, str] | None:
+    """
+    Try to extract text using python-docx.
+    Works when the file is actually a .docx (ZIP-based) with a .doc extension.
+    Returns (full_text, method_name) or None if not a valid docx.
+    """
+    try:
+        from docx import Document  # type: ignore
+        doc = Document(str(doc_path))
+        paragraphs = [p.text for p in doc.paragraphs if p.text.strip()]
+        if not paragraphs:
+            return None
+        return "\n".join(paragraphs), "python-docx"
+    except Exception:
+        return None
+
+
+def extract_text_antiword(doc_path: Path) -> tuple[str, str] | None:
+    """
+    Try to extract text using the antiword CLI.
+    Works for genuine Word 97-2003 .doc files.
+    Returns (full_text, method_name) or None if antiword is not available.
+    """
+    if not shutil.which("antiword"):
+        return None
+    try:
+        result = subprocess.run(
+            ["antiword", "-w", "0", str(doc_path)],
+            capture_output=True,
+            timeout=60,
+        )
+        if result.returncode == 0 and result.stdout:
+            text = result.stdout.decode("utf-8", errors="replace")
+            if len(text.strip()) > 100:
+                return text, "antiword"
+        return None
+    except (subprocess.TimeoutExpired, OSError):
+        return None
+
+
+def extract_text_libreoffice(doc_path: Path) -> tuple[str, str] | None:
+    """
+    Convert .doc -> .txt using LibreOffice headless mode.
+    Works as a universal fallback for any Word format.
+    Returns (full_text, method_name) or None if libreoffice is not available.
+    """
+    lo_cmd = shutil.which("libreoffice") or shutil.which("soffice")
+    if not lo_cmd:
+        return None
+    try:
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            result = subprocess.run(
+                [
+                    lo_cmd, "--headless", "--convert-to", "txt:Text",
+                    "--outdir", tmp_dir, str(doc_path),
+                ],
+                capture_output=True,
+                timeout=120,
+            )
+            if result.returncode != 0:
+                return None
+            txt_path = Path(tmp_dir) / (doc_path.stem + ".txt")
+            if not txt_path.exists():
+                return None
+            text = txt_path.read_text(encoding="utf-8", errors="replace")
+            if len(text.strip()) > 100:
+                return text, "libreoffice"
+            return None
+    except (subprocess.TimeoutExpired, OSError):
+        return None
+
+
+def extract_text_from_doc(doc_path: Path) -> tuple[str, str]:
+    """
+    Try all extraction methods in priority order.
+    Always returns (text, method_name) — text may be empty string if all methods fail.
+    """
+    for extractor in [
+        extract_text_python_docx,
+        extract_text_antiword,
+        extract_text_libreoffice,
+    ]:
+        result = extractor(doc_path)
+        if result is not None:
+            text, method = result
+            if text and len(text.strip()) > 50:
+                return text, method
+
+    log.warning(f"  All extraction methods failed for {doc_path.name}")
+    log.warning(
+        "  Install python-docx (pip install python-docx), antiword, or LibreOffice "
+        "to enable text extraction."
+    )
+    return "", "none"
+
+
+# ---------------------------------------------------------------------------
+# Text cleaning
+# ---------------------------------------------------------------------------
+
+def clean_doc_text(raw_text: str) -> str:
+    """Clean extracted text: normalize whitespace, remove control chars, etc."""
+    text = raw_text.replace("\r\n", "\n").replace("\r", "\n")
+    text = text.replace("\f", "\n\n")
+    text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", text)
+    text = re.sub(r"[ \t]{2,}", " ", text)
+    text = re.sub(r"\n{4,}", "\n\n\n", text)
+    return text.strip()
+
+
+# ---------------------------------------------------------------------------
+# Article extraction
+# ---------------------------------------------------------------------------
+
+ARTICLE_PATTERNS = [
+    re.compile(r"^Art[ií]culo\s+(\d+[\w\-]*)[.\s\-\u2013]*(.*)$", re.IGNORECASE),
+    re.compile(r"^ART[IÍ]CULO\s+(\d+[\w\-]*)[.\s\-\u2013]*(.*)$"),
+    re.compile(r"^Art\.\s+(\d+[\w\-]*)[.\s\-\u2013]*(.*)$", re.IGNORECASE),
 ]
 
-# Year patterns for detecting enactment/reform dates
-YEAR_PATTERN = re.compile(r"\b(19[4-9]\d|20[0-2]\d)\b")
-REFORM_PATTERN = re.compile(
-    r"Última\s+reforma\s+publicada.*?(\d{1,2}\s+de\s+\w+\s+de\s+\d{4})",
+YEAR_PATTERN      = re.compile(r"\b(19[4-9]\d|20[0-2]\d)\b")
+REFORM_PATTERN    = re.compile(
+    r"[ÚU]ltima\s+reforma\s+publicada[^0-9]*(\d{1,2}\s+de\s+\w+\s+de\s+\d{4})",
     re.IGNORECASE,
 )
 PUBLISHED_PATTERN = re.compile(
-    r"publicada?\s+en\s+el\s+D\.O\.F\.\s+.*?(\d{1,2}\s+de\s+\w+\s+de\s+\d{4})",
+    r"publicad[ao]\s+en\s+el\s+D\.?O\.?F\.?[^0-9]*(\d{1,2}\s+de\s+\w+\s+de\s+\d{4})",
     re.IGNORECASE,
 )
 
-MONTHS_ES = {
-    "enero": 1, "febrero": 2, "marzo": 3, "abril": 4,
-    "mayo": 5, "junio": 6, "julio": 7, "agosto": 8,
-    "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12,
-}
-
-
-def parse_spanish_date(date_str: str) -> int | None:
-    """Extract year from a Spanish date string like '1 de enero de 1970'."""
-    match = re.search(r"\b(\d{4})\b", date_str)
-    return int(match.group(1)) if match else None
-
-
-def html_to_text(html: str) -> str:
-    """
-    Convert HTML to clean plaintext, preserving article structure.
-    Removes navigation, scripts, styles, and other non-content elements.
-    """
-    soup = BeautifulSoup(html, "html.parser")
-
-    # Remove non-content elements
-    for tag in soup(["script", "style", "nav", "header", "footer",
-                     "meta", "link", "noscript", "iframe"]):
-        tag.decompose()
-
-    # Remove common navigation patterns in diputados.gob.mx
-    for tag in soup.find_all(class_=re.compile(r"nav|menu|header|footer|breadcrumb", re.IGNORECASE)):
-        tag.decompose()
-
-    # Get text, preserving newlines at block elements
-    lines = []
-    for element in soup.find_all(["p", "div", "td", "li", "h1", "h2", "h3", "h4", "br"]):
-        text = element.get_text(separator=" ", strip=True)
-        if text:
-            lines.append(text)
-
-    full_text = "\n".join(lines)
-
-    # Clean up excessive whitespace
-    full_text = re.sub(r"[ \t]+", " ", full_text)
-    full_text = re.sub(r"\n{3,}", "\n\n", full_text)
-    full_text = full_text.strip()
-
-    return full_text
-
 
 def extract_articles(text: str) -> list[dict]:
-    """
-    Parse the full text into individual articles.
-    Returns list of {number, title, text} dicts.
-    """
-    articles = []
-    current_article = None
-    current_lines = []
+    articles: list[dict] = []
+    current: dict | None = None
+    current_lines: list[str] = []
 
-    lines = text.split("\n")
-
-    for line in lines:
+    for line in text.split("\n"):
         line = line.strip()
         if not line:
             if current_lines:
                 current_lines.append("")
             continue
 
-        # Check if this line starts a new article
-        article_match = None
-        for pattern in ARTICLE_HEADING_PATTERNS:
-            m = pattern.match(line)
+        match = None
+        for pat in ARTICLE_PATTERNS:
+            m = pat.match(line)
             if m:
-                article_match = m
+                match = m
                 break
 
-        if article_match:
-            # Save previous article
-            if current_article is not None:
-                article_text = "\n".join(current_lines).strip()
+        if match:
+            if current is not None:
                 articles.append({
-                    "number": current_article["number"],
-                    "title": current_article["title"],
-                    "text": article_text,
+                    "number": current["number"],
+                    "title":  current["title"],
+                    "text":   "\n".join(current_lines).strip(),
                 })
-
-            article_num = article_match.group(1)
-            article_title = article_match.group(2).strip() if article_match.lastindex >= 2 else ""
-            current_article = {
-                "number": article_num,
-                "title": f"Artículo {article_num}" + (f" — {article_title}" if article_title else ""),
+            num   = match.group(1)
+            title = (match.group(2).strip() if match.lastindex >= 2 else "")
+            current = {
+                "number": num,
+                "title":  f"Artículo {num}" + (f" — {title}" if title else ""),
             }
             current_lines = [line]
-        else:
-            if current_article is not None:
-                current_lines.append(line)
+        elif current is not None:
+            current_lines.append(line)
 
-    # Don't forget the last article
-    if current_article is not None and current_lines:
+    if current is not None and current_lines:
         articles.append({
-            "number": current_article["number"],
-            "title": current_article["title"],
-            "text": "\n".join(current_lines).strip(),
+            "number": current["number"],
+            "title":  current["title"],
+            "text":   "\n".join(current_lines).strip(),
         })
 
     return articles
 
 
-def extract_metadata(text: str, law_id: str) -> dict:
-    """
-    Extract metadata (year enacted, year last reform, etc.) from the law text.
-    Falls back to the canonical lookup table for known laws.
-    """
-    metadata = {}
+def extract_dates(text: str, meta: dict) -> dict:
+    """Extract year_enacted and year_last_reform from text + index metadata."""
+    result: dict = {}
 
-    # Try to extract year of last reform
-    reform_match = REFORM_PATTERN.search(text)
-    if reform_match:
-        year = parse_spanish_date(reform_match.group(1))
-        if year:
-            metadata["year_last_reform"] = year
+    m = REFORM_PATTERN.search(text[:3000])
+    if m:
+        year_m = re.search(r"\b(\d{4})\b", m.group(1))
+        if year_m:
+            result["year_last_reform"] = int(year_m.group(1))
 
-    # Try to extract publication year
-    published_match = PUBLISHED_PATTERN.search(text)
-    if published_match:
-        year = parse_spanish_date(published_match.group(1))
-        if year:
-            metadata["year_enacted"] = year
+    m = PUBLISHED_PATTERN.search(text[:3000])
+    if m:
+        year_m = re.search(r"\b(\d{4})\b", m.group(1))
+        if year_m:
+            result["year_enacted"] = int(year_m.group(1))
 
-    # Find all years in the text, take the earliest as enactment year
-    if "year_enacted" not in metadata:
-        years_found = [int(y) for y in YEAR_PATTERN.findall(text[:2000]) if 1917 <= int(y) <= 2024]
-        if years_found:
-            metadata["year_enacted"] = min(years_found)
+    # Supplement from index metadata (DOF dates on the index page)
+    if "year_enacted" not in result:
+        dof_pub = meta.get("dof_published", "")
+        year_m = re.search(r"\b(\d{4})\b", dof_pub)
+        if year_m and 1917 <= int(year_m.group(1)) <= 2030:
+            result["year_enacted"] = int(year_m.group(1))
 
-    # Supplement with canonical lookup data
-    canonical = CANONICAL_LAWS.get(law_id, {})
-    metadata["short_name"] = canonical.get("short", "")
-    metadata["category"] = canonical.get("sector", "")
+    if "year_last_reform" not in result:
+        dof_ref = meta.get("dof_last_reform", "")
+        year_m = re.search(r"\b(\d{4})\b", dof_ref)
+        if year_m and 1917 <= int(year_m.group(1)) <= 2030:
+            result["year_last_reform"] = int(year_m.group(1))
 
-    return metadata
+    if "year_enacted" not in result:
+        years = [int(y) for y in YEAR_PATTERN.findall(text[:2000]) if 1917 <= int(y) <= 2030]
+        if years:
+            result["year_enacted"] = min(years)
+
+    return result
 
 
 # ---------------------------------------------------------------------------
-# Main processing function
+# Main processing per law
 # ---------------------------------------------------------------------------
 
-def process_law(raw_path: Path) -> dict | None:
-    """
-    Process a single raw law JSON file into structured format.
-    Returns the processed dict or None if processing failed.
-    """
+def process_law(meta_path: Path) -> dict | None:
+    """Parse a single raw law (.doc + metadata JSON) into structured output."""
     try:
-        with open(raw_path, encoding="utf-8") as f:
-            raw = json.load(f)
-    except (json.JSONDecodeError, OSError) as e:
-        log.error(f"Cannot read {raw_path}: {e}")
+        with open(meta_path, encoding="utf-8") as f:
+            meta = json.load(f)
+    except (json.JSONDecodeError, OSError) as exc:
+        log.error(f"Cannot read {meta_path}: {exc}")
         return None
 
-    law_id = raw.get("id", raw_path.stem)
-    html = raw.get("html", "")
-
-    if not html:
-        log.warning(f"No HTML content for {law_id}")
+    if meta.get("download_failed"):
+        log.warning(f"  Skipping {meta_path.stem}: download previously failed")
         return None
 
-    log.info(f"Processing {law_id} ({len(html)//1024}KB HTML)")
+    file_id  = meta.get("file_id", meta_path.stem)
+    slug_id  = meta.get("id", file_id.lower())
+    law_name = meta.get("name", "")
 
-    # Convert HTML to text
-    full_text = html_to_text(html)
-    if not full_text:
-        log.warning(f"Empty text after parsing for {law_id}")
+    doc_path = RAW_DIR / f"{file_id}.doc"
+    if not doc_path.exists():
+        log.warning(f"  .doc file not found: {doc_path}")
         return None
 
-    # Extract articles
-    articles = extract_articles(full_text)
-    log.info(f"  → {len(articles)} articles extracted")
+    log.info(f"  Extracting text from {doc_path.name}")
+    raw_text, method = extract_text_from_doc(doc_path)
 
-    # Extract metadata
-    metadata = extract_metadata(full_text, law_id)
+    canonical  = CANONICAL_LAWS.get(slug_id, {})
+    short_name = canonical.get("short", "") or file_id
+    category   = canonical.get("sector", "")
 
-    processed = {
-        "id": law_id,
-        "name": raw.get("name", ""),
-        "short_name": metadata.get("short_name", ""),
-        "year_enacted": metadata.get("year_enacted"),
-        "year_last_reform": metadata.get("year_last_reform"),
-        "category": metadata.get("category", ""),
-        "source_url": raw.get("source_url", ""),
-        "pdf_url": raw.get("pdf_url"),
-        "full_text": full_text,
-        "articles": articles,
-        "num_articles": len(articles),
-        "char_count": len(full_text),
-        "processed_at": datetime.now(timezone.utc).isoformat(),
-        "scrape_checksum": raw.get("html_checksum", ""),
+    if not raw_text:
+        log.warning(f"  No text extracted — saving stub for {file_id}")
+        return {
+            "id":              slug_id,
+            "file_id":         file_id,
+            "name":            law_name,
+            "short_name":      short_name,
+            "year_enacted":    None,
+            "year_last_reform": None,
+            "category":        category,
+            "source_url":      meta.get("doc_url", ""),
+            "pdf_url":         meta.get("pdf_url", ""),
+            "full_text":       "",
+            "articles":        [],
+            "num_articles":    0,
+            "char_count":      0,
+            "is_abrogated":    meta.get("is_abrogated", False),
+            "abrogation_note": meta.get("abrogation_note"),
+            "extraction_method": "none",
+            "doc_checksum":    meta.get("doc_checksum"),
+            "processed_at":    datetime.now(timezone.utc).isoformat(),
+        }
+
+    full_text = clean_doc_text(raw_text)
+    articles  = extract_articles(full_text)
+    dates     = extract_dates(full_text, meta)
+    log.info(f"  -> {len(articles)} articles  ({len(full_text):,} chars, method={method})")
+
+    return {
+        "id":              slug_id,
+        "file_id":         file_id,
+        "name":            law_name,
+        "short_name":      short_name,
+        "year_enacted":    dates.get("year_enacted"),
+        "year_last_reform": dates.get("year_last_reform"),
+        "category":        category,
+        "source_url":      meta.get("doc_url", ""),
+        "pdf_url":         meta.get("pdf_url", ""),
+        "full_text":       full_text,
+        "articles":        articles,
+        "num_articles":    len(articles),
+        "char_count":      len(full_text),
+        "is_abrogated":    meta.get("is_abrogated", False),
+        "abrogation_note": meta.get("abrogation_note"),
+        "extraction_method": method,
+        "doc_checksum":    meta.get("doc_checksum"),
+        "processed_at":    datetime.now(timezone.utc).isoformat(),
     }
 
-    return processed
+
+def already_processed(slug_id: str, doc_checksum: str | None) -> bool:
+    out = PROCESSED_DIR / f"{slug_id}.json"
+    if not out.exists():
+        return False
+    if doc_checksum is None:
+        return True
+    try:
+        with open(out, encoding="utf-8") as f:
+            return json.load(f).get("doc_checksum") == doc_checksum
+    except Exception:
+        return False
 
 
 def save_processed(data: dict) -> None:
-    output_path = PROCESSED_DIR / f"{data['id']}.json"
-    with open(output_path, "w", encoding="utf-8") as f:
+    path = PROCESSED_DIR / f"{data['id']}.json"
+    with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
-    log.info(f"  → Saved: {output_path.name}")
-
-
-def already_processed(law_id: str, scrape_checksum: str) -> bool:
-    """Return True if this version of the law has already been processed."""
-    output_path = PROCESSED_DIR / f"{law_id}.json"
-    if not output_path.exists():
-        return False
-    try:
-        with open(output_path) as f:
-            existing = json.load(f)
-        return existing.get("scrape_checksum") == scrape_checksum
-    except Exception:
-        return False
+    log.info(f"  -> Saved: {path.name}")
 
 
 # ---------------------------------------------------------------------------
@@ -300,50 +392,66 @@ def already_processed(law_id: str, scrape_checksum: str) -> bool:
 # ---------------------------------------------------------------------------
 
 def main():
-    log.info("=== 02_parse.py — Genoma Regulatorio de México ===")
+    log.info("=" * 60)
+    log.info("02_parse.py — Genoma Regulatorio de México")
+    log.info("=" * 60)
 
-    raw_files = sorted(RAW_DIR.glob("*.json"))
-    if not raw_files:
-        log.error(f"No raw files found in {RAW_DIR}. Run 01_scrape.py first.")
+    # Process laws in the order they appear in the index
+    index_path = RAW_DIR / "_index.json"
+    if index_path.exists():
+        with open(index_path, encoding="utf-8") as f:
+            index = json.load(f)
+        file_ids = [law["file_id"] for law in index.get("laws", [])]
+    else:
+        file_ids = [p.stem for p in sorted(RAW_DIR.glob("*.json")) if p.stem != "_index"]
+
+    if not file_ids:
+        log.error(f"No laws found in {RAW_DIR}. Run 01_scrape.py first.")
         sys.exit(1)
 
-    log.info(f"Found {len(raw_files)} raw law files to process")
+    log.info(f"Processing {len(file_ids)} laws")
 
-    success = 0
-    skip = 0
-    fail = 0
+    success = skip = fail = 0
 
-    for i, raw_path in enumerate(raw_files, 1):
-        log.info(f"[{i}/{len(raw_files)}] {raw_path.name}")
-
-        # Load just enough to check checksum
-        try:
-            with open(raw_path) as f:
-                raw_meta = json.load(f)
-        except Exception as e:
-            log.error(f"Cannot read {raw_path}: {e}")
+    for i, file_id in enumerate(file_ids, 1):
+        meta_path = RAW_DIR / f"{file_id}.json"
+        if not meta_path.exists():
+            log.warning(f"[{i}/{len(file_ids)}] No metadata for {file_id}, skipping")
             fail += 1
             continue
 
-        law_id = raw_meta.get("id", raw_path.stem)
-        checksum = raw_meta.get("html_checksum", "")
+        try:
+            with open(meta_path, encoding="utf-8") as f:
+                meta = json.load(f)
+        except Exception:
+            fail += 1
+            continue
 
-        if already_processed(law_id, checksum):
-            log.info(f"  → Skipping (already processed, checksum match)")
+        slug_id   = meta.get("id", file_id.lower())
+        checksum  = meta.get("doc_checksum")
+        law_name  = meta.get("name", file_id)[:55]
+
+        log.info(f"[{i:03d}/{len(file_ids)}] {file_id:12s}  {law_name}")
+
+        if already_processed(slug_id, checksum):
+            log.info("  -> Already processed, skipping")
             skip += 1
             continue
 
-        result = process_law(raw_path)
+        result = process_law(meta_path)
         if result:
             save_processed(result)
             success += 1
         else:
             fail += 1
 
-    log.info(f"\n=== Parsing complete ===")
-    log.info(f"  Processed: {success}")
-    log.info(f"  Skipped: {skip}")
-    log.info(f"  Failed: {fail}")
+    log.info("")
+    log.info("=" * 60)
+    log.info("Parsing complete")
+    log.info(f"  Processed : {success}")
+    log.info(f"  Skipped   : {skip}  (cached)")
+    log.info(f"  Failed    : {fail}")
+    log.info("=" * 60)
 
 
 if __name__ == "__main__":
