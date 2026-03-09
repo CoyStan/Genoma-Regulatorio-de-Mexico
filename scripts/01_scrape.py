@@ -138,125 +138,154 @@ def parse_index_html(html: str) -> list[dict]:
     """
     Parse the LeyesBiblio index page into a list of law records.
 
-    The page has a table with columns:
-        No. | LEY / Página de Reformas | Última Reforma | TEXTO VIGENTE
-                                                          (PDF icon, DOC icon, mobile icon)
+    Table columns (current structure, 2025-2026):
+        No. | LEY / Página de Reformas | Última Reforma | TEXTO VIGENTE (empty)
 
-    Strategy: find every <a href="...doc/XXX.doc"> link in the table,
-    then walk up to the parent <tr> to extract the other columns.
+    The TEXTO VIGENTE column no longer contains direct .doc links.
+    Each law name is now an <a href="/LeyesBiblio/ref/xxx.htm"> link.
+    The actual .doc download link lives on that ref page (fetched in pass 2).
+
+    Strategy:
+      1. Scan rows for <a href=".../ref/xxx.htm"> or <a href=".../abro/xxx.htm">
+      2. Derive file_id from the stem (e.g. "cpeum.htm" → "CPEUM")
+      3. Record ref_url for the second-pass .doc URL resolution
     """
     soup = BeautifulSoup(html, "lxml")
     laws: list[dict] = []
     seen_file_ids: set[str] = set()
 
-    # Find all links to .doc files anywhere in the page
-    doc_links = soup.find_all("a", href=re.compile(r"/doc/[^/]+\.doc$", re.IGNORECASE))
-    log.info(f"Found {len(doc_links)} .doc links on index page")
+    # Find the main law table — look for a table that has a "No." or "LEY" header
+    table = None
+    for t in soup.find_all("table"):
+        headers = [th.get_text(strip=True) for th in t.find_all("th")]
+        if any("No" in h or "LEY" in h for h in headers):
+            table = t
+            break
 
-    for doc_link in doc_links:
-        href = doc_link["href"].strip()
+    rows = table.find_all("tr") if table else soup.find_all("tr")
+    log.info(f"Scanning {len(rows)} table rows for law links …")
 
-        # Normalise to absolute URL
-        if href.startswith("http"):
-            doc_url = href
-        else:
-            doc_url = BASE_URL + ("" if href.startswith("/") else "/") + href
-
-        # Extract the file identifier, e.g. "CPEUM" from ".../doc/CPEUM.doc"
-        file_id_match = re.search(r"/doc/([^/]+)\.doc$", doc_url, re.IGNORECASE)
-        if not file_id_match:
+    for row in rows:
+        cells = row.find_all("td")
+        if len(cells) < 2:
             continue
-        file_id = file_id_match.group(1)          # e.g. "CPEUM"
+
+        name_cell = cells[1]
+
+        # Law name links to /ref/xxx.htm (active) or /abro/xxx.htm (abrogated)
+        ref_link = name_cell.find(
+            "a", href=re.compile(r"/(ref|abro)/[^/]+\.htm$", re.IGNORECASE)
+        )
+        if ref_link is None:
+            continue
+
+        href = ref_link["href"].strip()
+        stem_match = re.search(r"/(ref|abro)/([^/]+)\.htm$", href, re.IGNORECASE)
+        if not stem_match:
+            continue
+
+        file_id = stem_match.group(2).upper()   # e.g. "CPEUM", "LFT"
         if file_id in seen_file_ids:
             continue
         seen_file_ids.add(file_id)
 
+        # Absolute ref URL
+        if href.startswith("http"):
+            ref_url = href
+        elif href.startswith("/"):
+            ref_url = BASE_URL + href
+        else:
+            ref_url = f"{BASE_URL}/LeyesBiblio/{href}"
+
+        # Classic download URLs — still tried as fallback if ref page lookup fails
+        doc_url = f"{DOC_BASE_URL}/{file_id}.doc"
         pdf_url = f"{PDF_BASE_URL}/{file_id}.pdf"
 
-        # Walk up to the parent <tr> to grab other columns
-        row = doc_link.find_parent("tr")
-        if row is None:
-            # Fallback: build a minimal record
-            laws.append({
-                "file_id":        file_id,
-                "id":             file_id.lower(),
-                "name":           file_id,
-                "number":         "",
-                "dof_published":  "",
-                "dof_last_reform": "",
-                "is_abrogated":   False,
-                "abrogation_note": None,
-                "doc_url":        doc_url,
-                "pdf_url":        pdf_url,
-            })
-            continue
-
-        cells = row.find_all("td")
-
-        # ---- Column 0: row number (001, 002, …) ----
+        # ---- Column 0: row number ----
         number = cells[0].get_text(strip=True) if cells else ""
 
-        # ---- Column 1: law name + DOF publication date ----
-        name      = ""
-        dof_pub   = ""
-        is_abrogated  = False
-        abrogation_note = None
+        # ---- Law name ----
+        bold = name_cell.find(["b", "strong"])
+        name = bold.get_text(strip=True) if bold else ref_link.get_text(strip=True)
 
-        if len(cells) >= 2:
-            name_cell = cells[1]
+        # ---- DOF publication date ----
+        cell_text = name_cell.get_text(" ", strip=True)
+        dof_match = re.search(r"DOF\s+\d{2}/\d{2}/\d{4}", cell_text)
+        dof_pub = dof_match.group(0) if dof_match else ""
 
-            # Law name is in <b> or <strong>
-            bold = name_cell.find(["b", "strong"])
-            if bold:
-                name = bold.get_text(strip=True)
-            else:
-                # Fall back to all text in the cell, minus child links
-                name = name_cell.get_text(" ", strip=True).split("\n")[0]
+        # ---- Abrogation notice ----
+        abroga_match = re.search(
+            r"\(Abroga[dr][ao][^)]*\)|Abrogad[ao]\s+[^(]+",
+            cell_text, re.IGNORECASE,
+        )
+        is_abrogated    = bool(abroga_match)
+        abrogation_note = abroga_match.group(0).strip() if abroga_match else None
 
-            # DOF publication date: look for "DOF DD/MM/YYYY" pattern
-            cell_text = name_cell.get_text(" ", strip=True)
-            dof_match = re.search(r"DOF\s+\d{2}/\d{2}/\d{4}", cell_text)
-            if dof_match:
-                dof_pub = dof_match.group(0)
+        # ---- Column 2: Última Reforma ----
+        dof_reform = cells[2].get_text(" ", strip=True).strip() if len(cells) >= 3 else ""
 
-            # Abrogation notice: "(Abrogado …)" or "Abrogada"
-            abroga_match = re.search(
-                r"\(Abroga[dr][ao][^)]*\)|Abrogad[ao]\s+[^(]+",
-                cell_text,
-                re.IGNORECASE,
-            )
-            if abroga_match:
-                is_abrogated = True
-                abrogation_note = abroga_match.group(0).strip()
-
-        # ---- Column 2: Última Reforma date ----
-        dof_reform = ""
-        if len(cells) >= 3:
-            reform_cell = cells[2]
-            reform_text = reform_cell.get_text(" ", strip=True)
-            # May say "DOF 03/03/2026" or "Notificación 17/06/2025 Sentencia SCJN"
-            dof_reform = reform_text.strip()
-
-        # Derive a slug from the file_id for use as the canonical law id.
-        # We keep file_id in uppercase as the primary key (matches lookup.py short names).
         slug_id = slugify(name) if name and name != file_id else file_id.lower()
 
         laws.append({
-            "file_id":         file_id,       # "CPEUM" — used to build download URLs
-            "id":              slug_id,        # "constitucion-politica" style slug
+            "file_id":         file_id,
+            "id":              slug_id,
             "name":            name,
             "number":          number,
             "dof_published":   dof_pub,
             "dof_last_reform": dof_reform,
             "is_abrogated":    is_abrogated,
             "abrogation_note": abrogation_note,
-            "doc_url":         doc_url,
+            "ref_url":         ref_url,   # /ref/xxx.htm — used to find the real .doc link
+            "doc_url":         doc_url,   # classic URL kept as fallback
             "pdf_url":         pdf_url,
         })
 
-    # Sort by row number for deterministic ordering
     laws.sort(key=lambda x: x.get("number", "999"))
+    log.info(f"Parsed {len(laws)} laws from index")
     return laws
+
+
+# ---------------------------------------------------------------------------
+# Resolve the actual .doc URL from a law's ref page  (pass 2)
+# ---------------------------------------------------------------------------
+
+def resolve_doc_url(law: dict, session: requests.Session) -> str:
+    """
+    Fetch the law's /ref/xxx.htm page and extract the real .doc download link.
+
+    Falls back to the classic constructed URL
+    (e.g. /LeyesBiblio/doc/CPEUM.doc) if:
+      - the ref page is unreachable, or
+      - the ref page contains no .doc link.
+    """
+    ref_url  = law.get("ref_url", "")
+    fallback = law["doc_url"]
+
+    if not ref_url:
+        return fallback
+
+    resp = fetch_with_retry(ref_url, session)
+    if resp is None:
+        log.warning(f"  Could not fetch ref page {ref_url} — using classic URL")
+        return fallback
+
+    try:
+        html = resp.content.decode("utf-8")
+    except UnicodeDecodeError:
+        html = resp.content.decode("latin-1")
+
+    soup = BeautifulSoup(html, "lxml")
+    doc_link = soup.find("a", href=re.compile(r"\.doc$", re.IGNORECASE))
+    if doc_link:
+        href = doc_link["href"].strip()
+        if href.startswith("http"):
+            return href
+        if href.startswith("/"):
+            return BASE_URL + href
+        return f"{BASE_URL}/LeyesBiblio/{href}"
+
+    log.warning(f"  No .doc link found on {ref_url} — using classic URL")
+    return fallback
 
 
 # ---------------------------------------------------------------------------
@@ -287,7 +316,6 @@ def download_doc(law: dict, session: requests.Session) -> bool:
     Skips if the file already exists with the same content.
     """
     file_id  = law["file_id"]
-    doc_url  = law["doc_url"]
     doc_path = RAW_DIR / f"{file_id}.doc"
 
     # Quick existence check (without re-downloading)
@@ -295,6 +323,11 @@ def download_doc(law: dict, session: requests.Session) -> bool:
     if already:
         log.info(f"  → Already downloaded, skipping")
         return True
+
+    # Resolve the real .doc URL from the law's ref page (two-pass scrape)
+    doc_url = resolve_doc_url(law, session)
+    # Store resolved URL back so it ends up in the metadata JSON
+    law = {**law, "doc_url": doc_url}
 
     log.info(f"  Downloading {doc_url}")
     resp = fetch_with_retry(doc_url, session, stream=True)
@@ -368,7 +401,8 @@ def main():
     if not laws:
         log.error(
             "No laws found in the index. The page structure may have changed.\n"
-            "Open the index in a browser and inspect the .doc download links."
+            "Open the index in a browser and look for <a href='/ref/xxx.htm'> links\n"
+            "in the law name column. Update parse_index_html() if the pattern changed."
         )
         sys.exit(1)
 
