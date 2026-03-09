@@ -226,13 +226,40 @@ def extract_text_antiword(doc_path: Path) -> tuple[str, str] | None:
         return None
 
 
+def _find_libreoffice() -> str | None:
+    """Return the soffice/libreoffice executable path, or None if not found."""
+    # First try PATH (works on Linux/macOS and Windows if PATH was updated)
+    cmd = shutil.which("soffice") or shutil.which("libreoffice")
+    if cmd:
+        return cmd
+
+    # Windows: LibreOffice is NOT added to PATH by default.
+    # Check standard installation directories.
+    if sys.platform == "win32":
+        import os
+        candidates = [
+            r"C:\Program Files\LibreOffice\program\soffice.exe",
+            r"C:\Program Files (x86)\LibreOffice\program\soffice.exe",
+        ]
+        # Also check PROGRAMFILES / PROGRAMFILES(X86) env vars
+        for env_var in ("PROGRAMFILES", "PROGRAMFILES(X86)", "PROGRAMW6432"):
+            pf = os.environ.get(env_var)
+            if pf:
+                candidates.append(os.path.join(pf, "LibreOffice", "program", "soffice.exe"))
+        for path in candidates:
+            if os.path.isfile(path):
+                return path
+
+    return None
+
+
 def extract_text_libreoffice(doc_path: Path) -> tuple[str, str] | None:
     """
     Convert .doc -> .txt using LibreOffice headless mode.
     Works as a universal fallback for any Word format.
     Returns (full_text, method_name) or None if libreoffice is not available.
     """
-    lo_cmd = shutil.which("libreoffice") or shutil.which("soffice")
+    lo_cmd = _find_libreoffice()
     if not lo_cmd:
         return None
     try:
@@ -265,9 +292,9 @@ def extract_text_from_doc(doc_path: Path) -> tuple[str, str]:
     """
     for extractor in [
         extract_text_pywin32,      # Windows COM (best quality, needs Word)
-        extract_text_olefile,      # Pure Python OLE2 (no Word needed)
+        extract_text_libreoffice,  # Any platform (if LibreOffice installed) — best without Word
         extract_text_antiword,     # Linux/macOS CLI
-        extract_text_libreoffice,  # Any platform (if LibreOffice installed)
+        extract_text_olefile,      # Pure Python OLE2 fallback (no external tools)
     ]:
         result = extractor(doc_path)
         if result is not None:
