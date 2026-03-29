@@ -287,16 +287,25 @@ def extract_article_number(text: str) -> str | None:
     return match.group(1) if match else None
 
 
+import re
+
 def clean_law_name(raw_name: str) -> str:
-    """Normalize a raw extracted law name."""
+    if not raw_name:
+        return ""
     name = raw_name.strip()
-    # Remove trailing common words that bleed into matches
-    name = re.sub(
-        r"\s+(?:y\s+sus|en\s+materia|así\s+como|entre\s+otros|entre\s+otras|vigente|aplicable).*$",
-        "",
-        name,
-        flags=re.IGNORECASE,
-    )
-    # Remove trailing whitespace and punctuation
+    stop_patterns = [
+        r"\s+(?:y\s+sus|en\s+materia|as[ií]\s+como|entre\s+otros|entre\s+otras|vigente|aplicable).*$",
+        r"\s+publicad[ao]\s+en\s+el\s+diario.*",
+        r"\s+publicad[ao]\s+el.*",
+        r"\s+de\s+fecha\s+\d+.*",
+        r"\s+en\s+vigor\b.*",
+        r"\s+y\s+esta\s+ley\b.*",
+        r"\s+y\s+la\s+presente\s+ley\b.*",
+        r"\s+y\s+dem[aá]s\s+disposiciones\b.*",
+        r"\s+reglamentaria\s+del\s+.*" 
+    ]
+    for pattern in stop_patterns:
+        name = re.sub(pattern, "", name, flags=re.IGNORECASE)
+    name = re.sub(r"\s+y$", "", name, flags=re.IGNORECASE)
     name = name.rstrip(".,;: \t\n")
     return name

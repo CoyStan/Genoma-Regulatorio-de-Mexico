@@ -5,15 +5,19 @@
 Reads : data/raw/<FILE_ID>.doc  +  data/raw/<FILE_ID>.json  (metadata)
 Writes: data/processed/<slug_id>.json
 
+All 319 files are OLE2 legacy Word 97-2003 .doc format.
+python-docx cannot read OLE2 .doc (it only handles .docx / ZIP-based files).
+
 Text extraction strategy (in priority order):
-  1. python-docx   — works when the .doc is actually a .docx renamed to .doc
-                     (common for files served by diputados.gob.mx post-2020).
-  2. antiword      — CLI tool for genuine legacy .doc (Word 97-2003 format).
-                     Install: sudo apt install antiword  (Linux)
-                              brew install antiword      (macOS)
-  3. LibreOffice   — converts .doc → .txt via headless mode.
-                     Install: sudo apt install libreoffice
-  4. Fallback stub — records the law metadata but marks text as unavailable.
+  1. pywin32 COM   — opens the file via Microsoft Word automation (Windows).
+                     Install: pip install pywin32  (requires Word to be installed)
+  2. olefile       — pure-Python OLE2 reader; extracts raw text stream.
+                     Install: pip install olefile  (no external tools needed)
+  3. LibreOffice   — converts .doc → .txt via headless mode (any platform).
+                     Install: https://www.libreoffice.org/download/
+  4. antiword      — CLI tool (Linux/macOS only).
+                     Install: sudo apt install antiword
+  5. Fallback stub — records law metadata but marks text as unavailable.
 
 Each output file contains:
     {
@@ -70,19 +74,131 @@ log = logging.getLogger(__name__)
 # Text extraction from .doc
 # ---------------------------------------------------------------------------
 
-def extract_text_python_docx(doc_path: Path) -> tuple[str, str] | None:
+def extract_text_pywin32(doc_path: Path) -> tuple[str, str] | None:
     """
-    Try to extract text using python-docx.
-    Works when the file is actually a .docx (ZIP-based) with a .doc extension.
-    Returns (full_text, method_name) or None if not a valid docx.
+    Use Microsoft Word via COM automation (Windows only).
+    Requires: pip install pywin32  AND  Microsoft Word installed.
+    Most reliable method for OLE2 .doc files on Windows.
     """
     try:
-        from docx import Document  # type: ignore
-        doc = Document(str(doc_path))
-        paragraphs = [p.text for p in doc.paragraphs if p.text.strip()]
-        if not paragraphs:
+        import win32com.client  # type: ignore
+        import pythoncom        # type: ignore
+        pythoncom.CoInitialize()
+        word = win32com.client.Dispatch("Word.Application")
+        word.Visible = False
+        try:
+            doc = word.Documents.Open(str(doc_path.resolve()))
+            text = doc.Content.Text
+            doc.Close(False)
+        finally:
+            word.Quit()
+            pythoncom.CoUninitialize()
+        if text and len(text.strip()) > 50:
+            return text, "pywin32-com"
+        return None
+    except Exception:
+        return None
+
+
+def _scan_utf16le_runs(data: bytes, min_run: int = 30) -> str:
+    """
+    Scan raw bytes for UTF-16-LE encoded text runs.
+
+    Word 97-2003 .doc stores text as UTF-16-LE (2 bytes per char).
+    Spanish legal text is mostly ASCII + Latin Extended (á é í ó ú ñ ü etc.).
+    In UTF-16-LE those all have a 0x00 high byte, so we look for
+    sequences of (printable_byte, 0x00) pairs.
+
+    We try both even and odd byte alignment because the FIB at the
+    start of the stream may be an odd number of bytes.
+    """
+    WORD_NEWLINES = {0x0A, 0x0D, 0x0B, 0x0C, 0x07}  # 0x0B = soft return in Word
+    collected: list[str] = []
+
+    for offset in (0, 1):  # try both byte alignments
+        run: list[str] = []
+        i = offset
+        while i < len(data) - 1:
+            lo, hi = data[i], data[i + 1]
+
+            if hi == 0x00:
+                if 0x20 <= lo <= 0x7E:          # printable ASCII
+                    run.append(chr(lo))
+                    i += 2
+                    continue
+                if lo in WORD_NEWLINES:          # newline / page break
+                    run.append("\n")
+                    i += 2
+                    continue
+                if 0xC0 <= lo <= 0xFF:           # Latin Extended (áéíóúñü…)
+                    run.append(chr(lo))
+                    i += 2
+                    continue
+            elif 0x00 < hi <= 0x05:             # higher BMP plane (rare but valid)
+                try:
+                    ch = bytes([lo, hi]).decode("utf-16-le")
+                    if ch.isprintable() or ch in "\n\r":
+                        run.append(ch)
+                        i += 2
+                        continue
+                except Exception:
+                    pass
+
+            # Non-text byte — flush run if long enough
+            if len(run) >= min_run // 2:
+                collected.append("".join(run))
+            run = []
+            i += 1
+
+        if len(run) >= min_run // 2:
+            collected.append("".join(run))
+
+    # Keep runs that look like real words (>40% alpha chars, has spaces)
+    good: list[str] = []
+    for part in collected:
+        if len(part) < 20 or " " not in part:
+            continue
+        alpha_ratio = sum(1 for c in part if c.isalpha()) / len(part)
+        if alpha_ratio > 0.35:
+            good.append(part)
+
+    # Deduplicate (both alignments may find the same run)
+    seen: set[str] = set()
+    unique: list[str] = []
+    for part in good:
+        key = part[:40]
+        if key not in seen:
+            seen.add(key)
+            unique.append(part)
+
+    return "\n".join(unique)
+
+
+def extract_text_olefile(doc_path: Path) -> tuple[str, str] | None:
+    """
+    Pure-Python OLE2 reader — no Word or external tools needed.
+    Scans the WordDocument stream for UTF-16-LE text runs.
+    Install: pip install olefile
+    """
+    try:
+        import olefile  # type: ignore
+
+        if not olefile.isOleFile(str(doc_path)):
             return None
-        return "\n".join(paragraphs), "python-docx"
+
+        ole = olefile.OleFileIO(str(doc_path))
+        try:
+            if not ole.exists("WordDocument"):
+                return None
+            raw = ole.openstream("WordDocument").read()
+            text = _scan_utf16le_runs(raw)
+            if len(text.strip()) > 200:
+                return text, "olefile"
+            return None
+        finally:
+            ole.close()
+    except ImportError:
+        return None
     except Exception:
         return None
 
@@ -110,13 +226,40 @@ def extract_text_antiword(doc_path: Path) -> tuple[str, str] | None:
         return None
 
 
+def _find_libreoffice() -> str | None:
+    """Return the soffice/libreoffice executable path, or None if not found."""
+    # First try PATH (works on Linux/macOS and Windows if PATH was updated)
+    cmd = shutil.which("soffice") or shutil.which("libreoffice")
+    if cmd:
+        return cmd
+
+    # Windows: LibreOffice is NOT added to PATH by default.
+    # Check standard installation directories.
+    if sys.platform == "win32":
+        import os
+        candidates = [
+            r"C:\Program Files\LibreOffice\program\soffice.exe",
+            r"C:\Program Files (x86)\LibreOffice\program\soffice.exe",
+        ]
+        # Also check PROGRAMFILES / PROGRAMFILES(X86) env vars
+        for env_var in ("PROGRAMFILES", "PROGRAMFILES(X86)", "PROGRAMW6432"):
+            pf = os.environ.get(env_var)
+            if pf:
+                candidates.append(os.path.join(pf, "LibreOffice", "program", "soffice.exe"))
+        for path in candidates:
+            if os.path.isfile(path):
+                return path
+
+    return None
+
+
 def extract_text_libreoffice(doc_path: Path) -> tuple[str, str] | None:
     """
     Convert .doc -> .txt using LibreOffice headless mode.
     Works as a universal fallback for any Word format.
     Returns (full_text, method_name) or None if libreoffice is not available.
     """
-    lo_cmd = shutil.which("libreoffice") or shutil.which("soffice")
+    lo_cmd = _find_libreoffice()
     if not lo_cmd:
         return None
     try:
@@ -134,7 +277,18 @@ def extract_text_libreoffice(doc_path: Path) -> tuple[str, str] | None:
             txt_path = Path(tmp_dir) / (doc_path.stem + ".txt")
             if not txt_path.exists():
                 return None
-            text = txt_path.read_text(encoding="utf-8", errors="replace")
+            # LibreOffice on Windows outputs CP1252 by default, not UTF-8.
+            # Try encodings in order: UTF-8 with BOM, UTF-8, CP1252, Latin-1.
+            raw_bytes = txt_path.read_bytes()
+            text = None
+            for enc in ("utf-8-sig", "utf-8", "cp1252", "latin-1"):
+                try:
+                    text = raw_bytes.decode(enc)
+                    break
+                except UnicodeDecodeError:
+                    continue
+            if text is None:
+                text = raw_bytes.decode("latin-1")  # never fails
             if len(text.strip()) > 100:
                 return text, "libreoffice"
             return None
@@ -148,9 +302,10 @@ def extract_text_from_doc(doc_path: Path) -> tuple[str, str]:
     Always returns (text, method_name) — text may be empty string if all methods fail.
     """
     for extractor in [
-        extract_text_python_docx,
-        extract_text_antiword,
-        extract_text_libreoffice,
+        extract_text_pywin32,      # Windows COM (best quality, needs Word)
+        extract_text_libreoffice,  # Any platform (if LibreOffice installed) — best without Word
+        extract_text_antiword,     # Linux/macOS CLI
+        extract_text_olefile,      # Pure Python OLE2 fallback (no external tools)
     ]:
         result = extractor(doc_path)
         if result is not None:
@@ -160,8 +315,10 @@ def extract_text_from_doc(doc_path: Path) -> tuple[str, str]:
 
     log.warning(f"  All extraction methods failed for {doc_path.name}")
     log.warning(
-        "  Install python-docx (pip install python-docx), antiword, or LibreOffice "
-        "to enable text extraction."
+        "  To fix, install ONE of:\n"
+        "    pip install pywin32   (Windows + Microsoft Word)\n"
+        "    pip install olefile   (pure Python, any platform)\n"
+        "    LibreOffice           (https://www.libreoffice.org/download/)"
     )
     return "", "none"
 
@@ -172,13 +329,24 @@ def extract_text_from_doc(doc_path: Path) -> tuple[str, str]:
 
 def clean_doc_text(raw_text: str) -> str:
     """Clean extracted text: normalize whitespace, remove control chars, etc."""
+    
+    mojibake_map = {
+        "Ã¡": "á", "Ã©": "é", "Ã­": "í", "Ã³": "ó", "Ãº": "ú",
+        "Ã±": "ñ", "Ã¼": "ü", "Ã ": "Á", "Ã‰": "É", "Ã\x8d": "Í",
+        "Ã“": "Ó", "Ãš": "Ú", "Ã‘": "Ñ", "Ãœ": "Ü", "Â¿": "¿",
+        "Â¡": "¡", "Â°": "°", "Ã\xad": "í", "Ã\x81": "Á"
+    }
+    
+    for wrong, right in mojibake_map.items():
+        raw_text = raw_text.replace(wrong, right)
+
     text = raw_text.replace("\r\n", "\n").replace("\r", "\n")
     text = text.replace("\f", "\n\n")
     text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
     text = re.sub(r"\n{4,}", "\n\n\n", text)
+    
     return text.strip()
-
 
 # ---------------------------------------------------------------------------
 # Article extraction
