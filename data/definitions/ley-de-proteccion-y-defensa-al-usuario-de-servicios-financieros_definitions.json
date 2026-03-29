@@ -1,0 +1,25 @@
+{
+  "law_id": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+  "extracted_at": "2026-03-29T23:33:19.298313+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+      "law_name": "LEY de Protección y Defensa al Usuario de Servicios Financieros",
+      "article": "2o",
+      "term": "junta, a la junta de gobierno de la comisión nacional",
+      "definition_text": "VI. Presidente, al titular de la Comisión Nacional;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+      "law_name": "LEY de Protección y Defensa al Usuario de Servicios Financieros",
+      "article": "2o",
+      "term": "estatuto orgánico, al estatuto orgánico de la comisión nacional",
+      "definition_text": "Fracción reformada DOF 05-01-2000",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

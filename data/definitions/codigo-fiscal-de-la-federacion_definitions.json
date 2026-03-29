@@ -1,0 +1,123 @@
+{
+  "law_id": "codigo-fiscal-de-la-federacion",
+  "extracted_at": "2026-03-29T23:33:19.098397+00:00",
+  "total_definitions": 14,
+  "definitions": [
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "5o",
+      "term": "que establecen cargas",
+      "definition_text": "los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "5o",
+      "term": "la información contemporánea relacionada",
+      "definition_text": "la operación objeto de análisis, incluyendo el beneficio económico proyectado, en la medida en que dicha información esté soportada y sea razonable",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "14",
+      "term": "la que se realiza a través del fideicomiso, en los siguientes casos",
+      "definition_text": "a) En el acto en el que el fideicomitente designe o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "20",
+      "term": "el tipo de cambio",
+      "definition_text": "que se haya adquirido la moneda extranjera de que se trate y no habiendo adquisición, se estará al tipo de cambio que el Banco de México publique en el Diario Oficial de la Federación el día anterior a aquél en que se causen las contribuciones",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "20",
+      "term": "el tipo de cambio que corresponda conforme",
+      "definition_text": "lo señalado en el párrafo anterior, referido a la fecha en que se causó el impuesto que se traslada o en su defecto cuando se pague",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "29-A",
+      "term": "el importe total consignado en número o letra, conforme a lo siguiente",
+      "definition_text": "a) Cuando la contraprestación se pague en una sola exhibición, en el momento en que se expida el comprobante fiscal digital por Internet correspondiente a la operación de que se trate, se señalará expresamente dicha situación, además se indicará el importe total de la operación y, cuando así proceda, el monto de los impuestos trasladados desglosados con cada una de las tasas del impuesto correspondiente y, en su caso, el monto de los impuestos retenidos.",
+      "raw_snippet": "se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "29-A",
+      "term": "como una sola exhibición y no",
+      "definition_text": "una parcialidad",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "60",
+      "term": "el que corresponda",
+      "definition_text": "bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y, en su defecto, el de mercado o el de avalúo",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "106",
+      "term": "son mercancías de uso personal",
+      "definition_text": "a) Alimentos y bebidas para su consumo, ropa y otros objetos personales, excepto joyas.",
+      "raw_snippet": "Para los efectos del Artículo anterior:",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "106",
+      "term": "la estancia legal en el país de las mercancías extranjeras se comprueba, con",
+      "definition_text": "a) La documentación aduanal exigida por la Ley.",
+      "raw_snippet": "Para los efectos del Artículo anterior:",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "263",
+      "term": "que la devolución está",
+      "definition_text": "disposición del contribuyente cuando se le notifique la autorización de la devolución respectiva",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "263",
+      "term": "que la actualización de las cantidades",
+      "definition_text": "que se refiere dicho párrafo se ha realizado por última vez en el mes de julio de 2003, salvo las cantidades a que se refiere el Capítulo II del Título IV de dicho ordenamiento, mismas que deberán ser actualizadas en el mes de enero de 2004, a partir de la última actualización que hayan sufrido",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "84",
+      "term": "como fecha de presentación de la declaración,",
+      "definition_text": "en que sea recibida la forma oficial que contenga la declaración correspondiente, presentada para efectos de la asignación del pago de conformidad con la presente regla",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "law_name": "CÓDIGO Fiscal de la Federación",
+      "article": "21",
+      "term": "hasta la centésima y, en su caso, se ajustará",
+      "definition_text": "la centésima inmediata superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

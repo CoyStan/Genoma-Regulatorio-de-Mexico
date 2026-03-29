@@ -1,0 +1,43 @@
+{
+  "law_id": "ley-general-de-educacion-superior",
+  "extracted_at": "2026-03-29T23:33:19.451339+00:00",
+  "total_definitions": 4,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-educacion-superior",
+      "law_name": "LEY General de Educación Superior",
+      "article": "6",
+      "term": "autoridad educativa municipal, al ayuntamiento de cada municipio",
+      "definition_text": "V.\tAutorización, al acuerdo previo y expreso de la autoridad educativa de las entidades federativas que permite a las instituciones particulares impartir estudios de educación normal y demás para la formación docente de educación básica;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-educacion-superior",
+      "law_name": "LEY General de Educación Superior",
+      "article": "6",
+      "term": "estado, a la federación, las entidades federativas y los municipios",
+      "definition_text": "VII.\tFondo, al Fondo Federal Especial para la obligatoriedad y gratuidad de la educación superior;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-educacion-superior",
+      "law_name": "LEY General de Educación Superior",
+      "article": "6",
+      "term": "autoridad educativa municipal, al ayuntamiento de cada municipio",
+      "definition_text": "V.\tAutorización, al acuerdo previo y expreso de la autoridad educativa de las entidades federativas que permite a las instituciones particulares impartir estudios de educación normal y demás para la formación docente de educación básica;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-educacion-superior",
+      "law_name": "LEY General de Educación Superior",
+      "article": "6",
+      "term": "estado, a la federación, las entidades federativas y los municipios",
+      "definition_text": "VII.\tFondo, al Fondo Federal Especial para la obligatoriedad y gratuidad de la educación superior;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

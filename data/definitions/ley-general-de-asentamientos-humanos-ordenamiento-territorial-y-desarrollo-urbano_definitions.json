@@ -1,0 +1,88 @@
+{
+  "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+  "extracted_at": "2026-03-29T23:33:19.440515+00:00",
+  "total_definitions": 9,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "área urbanizable",
+      "definition_text": "territorio para el Crecimiento urbano contiguo a los límites del Área Urbanizada del Centro de Población determinado en los planes o programas de Desarrollo Urbano, cuya extensión y superficie se calcula en función de las necesidades del nuevo suelo indispensable para su expansión;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "área urbanizada",
+      "definition_text": "territorio ocupado por los Asentamientos Humanos con redes de infraestructura, equipamientos y servicios;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "asentamiento humano",
+      "definition_text": "el establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "barrio",
+      "definition_text": "zona urbanizada de un Centro de Población dotado de identidad y características propias;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "centros de población",
+      "definition_text": "las áreas constituidas por las zonas urbanizadas y las que se reserven para su expansión;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "consejo nacional",
+      "definition_text": "El Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "conservación",
+      "definition_text": "acción tendente a preservar las zonas con valores históricos y culturales, así como proteger y mantener el equilibrio ecológico en las zonas de servicios ambientales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "conurbación",
+      "definition_text": "la continuidad física y demográfica que formen dos o más Centros de Población;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "law_name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "article": "3",
+      "term": "crecimiento",
+      "definition_text": "acción tendente a ordenar y r",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

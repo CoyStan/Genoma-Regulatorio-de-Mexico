@@ -1,0 +1,97 @@
+{
+  "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+  "extracted_at": "2026-03-29T23:33:19.367385+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "actividad institucional",
+      "definition_text": "las acciones sustantivas o de apoyo que realizan los ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con las atribuciones que les señala su respectiva ley orgánica o el ordenamiento jurídico que les es aplicable;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "adecuaciones presupuestarias",
+      "definition_text": "las modificaciones a las estructuras funcional programática, administrativa, y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto de Egresos o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "ahorro presupuestario",
+      "definition_text": "los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "auditoría",
+      "definition_text": "la Auditoría Superior de la Federación;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "clasificador por objeto del gasto",
+      "definition_text": "el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto. Este clasifica",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "actividad institucional",
+      "definition_text": "las acciones sustantivas o de apoyo que realizan los ejecutores de gasto con el fin de dar cumplimiento a los objetivos y metas contenidos en los programas, de conformidad con las atribuciones que les señala su respectiva ley orgánica o el ordenamiento jurídico que les es aplicable;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "adecuaciones presupuestarias",
+      "definition_text": "las modificaciones a las estructuras funcional programática, administrativa, y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto de Egresos o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "ahorro presupuestario",
+      "definition_text": "los remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "auditoría",
+      "definition_text": "la Auditoría Superior de la Federación;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "law_name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "article": "2",
+      "term": "clasificador por objeto del gasto",
+      "definition_text": "el instrumento que permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto. Este clasifica",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

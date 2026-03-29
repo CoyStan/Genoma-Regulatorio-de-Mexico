@@ -1,0 +1,169 @@
+{
+  "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+  "extracted_at": "2026-03-29T23:33:19.204810+00:00",
+  "total_definitions": 18,
+  "definitions": [
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "auditoría superior de la federación",
+      "definition_text": "el órgano técnico de fiscalización de la Cámara de Diputados del Congreso de la Unión a que se refieren los artículos 74, fracciones II y VI y 79 y 109 de la Constitución Política de los Estados Unidos Mexicanos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "auditorías",
+      "definition_text": "proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "autonomía de gestión",
+      "definition_text": "la facultad de la Auditoría Superior de la Federación para decidir sobre su organización interna, estructura, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "autonomía técnica",
+      "definition_text": "la facultad de la Auditoría Superior de la Federación para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "cámara",
+      "definition_text": "la Cámara de Diputados del Congreso de la Unión;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "comisión",
+      "definition_text": "la Comisión de Vigilancia de la Auditoría Superior de la Federación de la Cámara;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "comisión de presupuesto",
+      "definition_text": "la Comisión de Presupuesto y Cuenta Pública de la Cámara;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "cuenta pública",
+      "definition_text": "la Cuenta Pública Federal a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "entes públicos",
+      "definition_text": "Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "auditoría superior de la federación",
+      "definition_text": "el órgano técnico de fiscalización de la Cámara de Diputados del Congreso de la Unión a que se refieren los artículos 74, fracciones II y VI y 79 y 109 de la Constitución Política de los Estados Unidos Mexicanos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "auditorías",
+      "definition_text": "proceso sistemático en el que de manera objetiva se obtiene y se evalúa evidencia para determinar si las acciones llevadas a cabo por los entes sujetos a revisión se realizaron de conformidad con la normatividad establecida o con base en principios que aseguren una gestión pública adecuada;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "autonomía de gestión",
+      "definition_text": "la facultad de la Auditoría Superior de la Federación para decidir sobre su organización interna, estructura, funcionamiento y resoluciones, así como la administración de sus recursos humanos, materiales y financieros que utilice para la ejecución de sus atribuciones, en los términos contenidos en la Constitución y esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "autonomía técnica",
+      "definition_text": "la facultad de la Auditoría Superior de la Federación para decidir sobre la planeación, programación, ejecución, informe y seguimiento en el proceso de la fiscalización superior;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "cámara",
+      "definition_text": "la Cámara de Diputados del Congreso de la Unión;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "comisión",
+      "definition_text": "la Comisión de Vigilancia de la Auditoría Superior de la Federación de la Cámara;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "comisión de presupuesto",
+      "definition_text": "la Comisión de Presupuesto y Cuenta Pública de la Cámara;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "cuenta pública",
+      "definition_text": "la Cuenta Pública Federal a que se refiere el artículo 74, fracción VI de la Constitución Política de los Estados Unidos Mexicanos y cuyo contenido se establece en el artículo 53 de la Ley General de Contabilidad Gubernamental;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "law_name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "article": "4",
+      "term": "entes públicos",
+      "definition_text": "Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Pública Federal, y sus homólogos de las entidades federativas, los municipios y alcaldías de la Ciudad de México",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

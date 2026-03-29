@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-de-energia-para-el-campo",
+  "extracted_at": "2026-03-29T23:33:19.196571+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-de-energia-para-el-campo",
+      "law_name": "LEY de Energía para el Campo",
+      "article": "10",
+      "term": "a la cuota energética",
+      "definition_text": "parte accesoria e indivisible de la tierra, por lo que el productor que transmita su uso o posesión, deberá hacerlo conjuntamente con dicha cuota",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

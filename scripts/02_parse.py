@@ -177,11 +177,17 @@ def _scan_utf16le_runs(data: bytes, min_run: int = 30) -> str:
 def extract_text_olefile(doc_path: Path) -> tuple[str, str] | None:
     """
     Pure-Python OLE2 reader — no Word or external tools needed.
-    Scans the WordDocument stream for UTF-16-LE text runs.
     Install: pip install olefile
+
+    Strategy:
+    1. Read fcMin/cbMac from the FIB to locate the text region directly.
+       These files use single-byte ANSI/Latin-1 encoding (not UTF-16-LE).
+    2. Fall back to scanning for UTF-16-LE runs if the FIB approach yields
+       too little text.
     """
     try:
         import olefile  # type: ignore
+        import struct
 
         if not olefile.isOleFile(str(doc_path)):
             return None
@@ -191,9 +197,28 @@ def extract_text_olefile(doc_path: Path) -> tuple[str, str] | None:
             if not ole.exists("WordDocument"):
                 return None
             raw = ole.openstream("WordDocument").read()
+
+            # --- Strategy 1: FIB text region (ANSI/Latin-1) ---
+            if len(raw) >= 32:
+                fcMin = struct.unpack_from("<I", raw, 24)[0]
+                cbMac = struct.unpack_from("<I", raw, 28)[0]
+                if 0 < fcMin < cbMac <= len(raw):
+                    region = raw[fcMin:cbMac]
+                    # Decode as Latin-1 (covers full 0x00-0xFF range incl. á é í ó ú ñ ü)
+                    text = region.decode("latin-1", errors="replace")
+                    # Strip non-printable control chars except newlines/tabs
+                    import re as _re
+                    text = _re.sub(r"[\x00-\x08\x0e-\x1f\x7f]", "", text)
+                    text = _re.sub(r"\r\n?", "\n", text)
+                    text = _re.sub(r"\n{4,}", "\n\n", text).strip()
+                    if len(text) > 500:
+                        return text, "olefile-fib"
+
+            # --- Strategy 2: scan for UTF-16-LE runs (fallback) ---
             text = _scan_utf16le_runs(raw)
             if len(text.strip()) > 200:
-                return text, "olefile"
+                return text, "olefile-utf16"
+
             return None
         finally:
             ole.close()

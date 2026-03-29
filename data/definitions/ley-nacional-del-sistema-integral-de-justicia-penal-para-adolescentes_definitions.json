@@ -1,0 +1,133 @@
+{
+  "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+  "extracted_at": "2026-03-29T23:33:19.576238+00:00",
+  "total_definitions": 14,
+  "definitions": [
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "adolescente",
+      "definition_text": "Persona cuya edad está entre los doce años cumplidos y menos de dieciocho;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "ajustes razonables",
+      "definition_text": "Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "autoridad administrativa",
+      "definition_text": "Órgano Especializado en la Ejecución de Medidas para adolescentes;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "código nacional",
+      "definition_text": "Código Nacional de Procedimientos Penales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "constitución",
+      "definition_text": "Constitución Política de los Estados Unidos Mexicanos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "convención",
+      "definition_text": "Convención sobre los Derechos del Niño;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "defensa",
+      "definition_text": "La o el defensor público o la o el defensor particular especializado en el Sistema Integral de Justicia Penal para Adolescentes en los términos de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "facilitador",
+      "definition_text": "Profesional certificado y especializado en adolescentes, cuya función es facilitar la participación de los intervinientes en los mecanismos alternativos y justicia restaurativa;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "grupo etario i",
+      "definition_text": "Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de doce años cumplidos a menos de catorce años;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "grupo etario ii",
+      "definition_text": "Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de catorce años cumplidos a menos de dieciséis años;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "grupo etario iii",
+      "definition_text": "Grupo de personas adolescentes que por su edad se encuentren comprendidas en el rango de edad de dieciséis años cumplidos a menos de dieciocho años;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "3",
+      "term": "guía técnico",
+      "definition_text": "Es el responsable de velar por la integridad física de la persona adolescente. Es el garante del orden, respeto y la disciplina al interior del centro especializado e integrante de las instituciones policiales. Tendrá además la función de acompañar a la persona adolescente en el desarrollo y cumplimiento de su programa individua",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "164",
+      "term": "terrorismo, en términos del código penal federal",
+      "definition_text": "d)\tExtorsión agravada, cuando se comete por asociación delictuosa;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "law_name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "article": "164",
+      "term": "homicidio doloso, en todas sus modalidades, incluyendo el feminicidio",
+      "definition_text": "h)\tViolación sexual;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

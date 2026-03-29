@@ -1,0 +1,79 @@
+{
+  "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+  "extracted_at": "2026-03-29T23:33:19.428121+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "activos",
+      "definition_text": "Son aquellos bienes asociados al proceso de producción, transporte, almacenamiento y distribución de hidrocarburos. Los principales activos de una empresa son sus instalaciones y maquinaria, sus existencias inventariadas de materias primas y productos semiterminados y terminados.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "áreas de exclusión",
+      "definition_text": "Son aquellas en las cuales no se permite el tráfico de embarcaciones o aeronaves salvo aquellas que sean requeridas para la operación de las plataformas en las actividades a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "derivación clandestina",
+      "definition_text": "Es una conexión para extraer por cualquier medio de manera ilegal o no autorizada, hidrocarburos, petrolíferos o petroquímicos de los ductos.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "distribuidor",
+      "definition_text": "El permisionario que realice la actividad de reparto, traslado de un determinado volumen de Gas Natural o Petrolíferos, desde una ubicación hacia uno o varios destinos previamente asignados para su Expendio al Público o consumo final.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "ductos",
+      "definition_text": "Tuberías e instalaciones conectadas, para el transporte y distribución de hidrocarburos, petrolíferos o petroquímicos, utilizando como fuerza motriz elementos mecánicos, aire a presión, vacío o gravedad.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "embarcación",
+      "definition_text": "Toda construcción diseñada para navegar sobre o bajo vías navegables.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "franquicia",
+      "definition_text": "Comercialización de bienes y servicios bajo una marca y un sistema operativo por los cuales se reciben beneficios y regalías.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "law_name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "article": "3",
+      "term": "industria petrolera",
+      "definition_text": "Es el conjunto de actividades empresariales, económicas, industriales y comerciales relacionadas con la exploración, extracción y recolección del petróleo y de los carburos de hidrógeno sólidos, líquidos o gaseosos, así como su refinación, transformación, transporte, almacenamiento, distribución, venta, exportación e importación de ellos y de los productos que se obtengan de su refinación,",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

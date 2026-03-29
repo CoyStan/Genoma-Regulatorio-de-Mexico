@@ -1,0 +1,32 @@
+{
+  "law_id": "codigo-federal-de-procedimientos-civiles",
+  "extracted_at": "2026-03-29T23:33:19.021770+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "codigo-federal-de-procedimientos-civiles",
+      "law_name": "CÓDIGO Federal de Procedimientos Civiles",
+      "article": "98",
+      "term": "al cesionario",
+      "definition_text": "apoderado del cedente, para absolver posiciones sobre hechos de éste; pero, si los ignora, pueden articularse las posiciones al cedente, siendo a cargo del cesionario la obligación de presentarlo",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-federal-de-procedimientos-civiles",
+      "law_name": "CÓDIGO Federal de Procedimientos Civiles",
+      "article": "203",
+      "term": "como autor del documento",
+      "definition_text": "aquél por cuya cuenta ha sido formado",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-federal-de-procedimientos-civiles",
+      "law_name": "CÓDIGO Federal de Procedimientos Civiles",
+      "article": "581",
+      "term": "acción individual homogénea",
+      "definition_text": "Es aquélla de naturaleza divisible, que se ejerce para tutelar derechos e intereses individuales de incidencia colectiva, cuyos titulares son los individuos agrupados con base en circunstancias comunes, cuyo objeto es reclamar judicialmente de un tercero el cumplimiento forzoso de un contrato o su rescisión con sus consecuencias y efectos según la legislación aplicable.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

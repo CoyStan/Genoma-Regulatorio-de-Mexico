@@ -1,0 +1,65 @@
+{
+  "law_id": "ley-de-responsabilidad-civil-por-danos-nucleares",
+  "extracted_at": "2026-03-29T23:31:48.855335+00:00",
+  "total_citations": 4,
+  "citations": [
+    {
+      "source_law": "ley-de-responsabilidad-civil-por-danos-nucleares",
+      "source_article": "30",
+      "target_law_raw": "reglamento de esta Ley establecerá las bases de seguridad en las instalaciones nucleares",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "ARTICULO 30.- El reglamento de esta Ley establecerá las bases de seguridad en las instalaciones nucleares; de ingresos o acceso; egreso o salida de todo su personal incluyendo el sindicalizado; y todas las demás que se requieran para la ejecución de la pr",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 14,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.4297520661157025,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-de-responsabilidad-civil-por-danos-nucleares",
+      "source_article": "31",
+      "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión",
+      "target_law_id": "codigo-nacional-procedimientos-penales",
+      "target_article": null,
+      "citation_text": "uesto en el presente Decreto entrará en vigor de conformidad con la Declaratoria de aplicación gradual que, indistinta y sucesivamente, realicen para el Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión.  En todos los casos, vencido el plazo sin que se hubiera emitido la Declaratoria respectiva, la entrada en vigor de lo previsto en el presente Decre",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 2436,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "código nacional de procedimientos penales"
+    },
+    {
+      "source_law": "ley-de-responsabilidad-civil-por-danos-nucleares",
+      "source_article": "31",
+      "target_law_raw": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "target_law_id": "lftr",
+      "target_article": null,
+      "citation_text": " proceso conforme a un Código abrogado.  Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 3456,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de telecomunicaciones y radiodifusión"
+    },
+    {
+      "source_law": "ley-de-responsabilidad-civil-por-danos-nucleares",
+      "source_article": "31",
+      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
+      "target_article": "89",
+      "citation_text": " Francisco Luna Kan, S.P.- Feliciano Calzada Padrón, D. S.- Agustín Ruiz Soto, S.S.- Rúbricas.  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrit",
+      "pattern_name": "constitucion_full",
+      "pattern_group": "constitutional",
+      "confidence": "high",
+      "char_offset": 523
+    }
+  ],
+  "resolved_at": "2026-03-29T23:32:07.225649+00:00"
+}

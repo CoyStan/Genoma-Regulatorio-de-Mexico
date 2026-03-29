@@ -1,367 +1,367 @@
 {
-  "generated_at": "2026-03-13T02:33:53.195845+00:00",
-  "total_citations": 1938,
-  "resolved": 1436,
-  "unresolved": 502,
-  "resolution_rate": 0.741,
+  "generated_at": "2026-03-29T23:32:12.482214+00:00",
+  "total_citations": 3571,
+  "resolved": 2516,
+  "unresolved": 1055,
+  "resolution_rate": 0.7046,
   "by_confidence": {
-    "unresolved": 951,
-    "medium": 170,
-    "low": 463,
-    "high": 354
+    "high": 693,
+    "unresolved": 1661,
+    "low": 913,
+    "medium": 304
   },
   "top_cited_laws": [
     {
       "law_id": "constitucion-politica",
       "name": "Constitución Política de los Estados Unidos Mexicanos",
-      "citation_count": 450
+      "citation_count": 606
     },
     {
       "law_id": "ley-federal-competencia-economica",
       "name": "Ley Federal de Competencia Económica",
-      "citation_count": 179
+      "citation_count": 278
     },
     {
       "law_id": "ley-general-sociedades-mercantiles",
       "name": "Ley General de Sociedades Mercantiles",
-      "citation_count": 120
-    },
-    {
-      "law_id": "ley-general-educacion",
-      "name": "Ley General de Educación",
-      "citation_count": 59
+      "citation_count": 247
     },
     {
       "law_id": "ley-pemex",
       "name": "Ley de Petróleos Mexicanos",
-      "citation_count": 56
-    },
-    {
-      "law_id": "lfpa",
-      "name": "Ley Federal de Procedimiento Administrativo",
-      "citation_count": 37
+      "citation_count": 131
     },
     {
       "law_id": "codigo-nacional-procedimientos-penales",
       "name": "Código Nacional de Procedimientos Penales",
-      "citation_count": 36
-    },
-    {
-      "law_id": "ley-federal-del-trabajo",
-      "name": "Ley Federal del Trabajo",
-      "citation_count": 36
-    },
-    {
-      "law_id": "ley-responsabilidades-administrativas",
-      "name": "Ley General de Responsabilidades Administrativas",
-      "citation_count": 36
-    },
-    {
-      "law_id": "lgtaip",
-      "name": "Ley General de Transparencia y Acceso a la Información Pública",
-      "citation_count": 30
-    },
-    {
-      "law_id": "ley-federal-anticorrupcion",
-      "name": "Ley General del Sistema Nacional Anticorrupción",
-      "citation_count": 30
-    },
-    {
-      "law_id": "lfda",
-      "name": "Ley Federal del Derecho de Autor",
-      "citation_count": 29
-    },
-    {
-      "law_id": "ley-general-salud",
-      "name": "Ley General de Salud",
-      "citation_count": 25
-    },
-    {
-      "law_id": "ley-federal-proteccion-consumidor",
-      "name": "Ley Federal de Protección al Consumidor",
-      "citation_count": 20
-    },
-    {
-      "law_id": "lgipe",
-      "name": "Ley General de Instituciones y Procedimientos Electorales",
-      "citation_count": 19
+      "citation_count": 99
     },
     {
       "law_id": "ley-isr",
       "name": "Ley del Impuesto sobre la Renta",
-      "citation_count": 19
+      "citation_count": 94
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "name": "Ley Federal del Trabajo",
+      "citation_count": 61
+    },
+    {
+      "law_id": "ley-general-educacion",
+      "name": "Ley General de Educación",
+      "citation_count": 55
+    },
+    {
+      "law_id": "ley-general-salud",
+      "name": "Ley General de Salud",
+      "citation_count": 53
+    },
+    {
+      "law_id": "lfpa",
+      "name": "Ley Federal de Procedimiento Administrativo",
+      "citation_count": 51
+    },
+    {
+      "law_id": "lgipe",
+      "name": "Ley General de Instituciones y Procedimientos Electorales",
+      "citation_count": 51
+    },
+    {
+      "law_id": "ley-federal-anticorrupcion",
+      "name": "Ley General del Sistema Nacional Anticorrupción",
+      "citation_count": 50
+    },
+    {
+      "law_id": "lfda",
+      "name": "Ley Federal del Derecho de Autor",
+      "citation_count": 49
     },
     {
       "law_id": "loapf",
       "name": "Ley Orgánica de la Administración Pública Federal",
-      "citation_count": 18
-    },
-    {
-      "law_id": "lftr",
-      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
-      "citation_count": 16
-    },
-    {
-      "law_id": "ley-sistemas-pagos",
-      "name": "Ley del Sistema de Pagos",
-      "citation_count": 15
-    },
-    {
-      "law_id": "ley-industria-electrica",
-      "name": "Ley de la Industria Eléctrica",
-      "citation_count": 15
-    },
-    {
-      "law_id": "ley-prevencion-lavado-dinero",
-      "name": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
-      "citation_count": 15
+      "citation_count": 48
     },
     {
       "law_id": "ley-instituciones-credito",
       "name": "Ley de Instituciones de Crédito",
-      "citation_count": 14
+      "citation_count": 42
+    },
+    {
+      "law_id": "ley-responsabilidades-administrativas",
+      "name": "Ley General de Responsabilidades Administrativas",
+      "citation_count": 42
     },
     {
       "law_id": "lopjf",
       "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "citation_count": 11
+      "citation_count": 38
     },
     {
-      "law_id": "ley-issste",
-      "name": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "citation_count": 11
+      "law_id": "lgtaip",
+      "name": "Ley General de Transparencia y Acceso a la Información Pública",
+      "citation_count": 34
     },
     {
-      "law_id": "codigo-civil-federal",
-      "name": "Código Civil Federal",
-      "citation_count": 10
+      "law_id": "ley-prevencion-lavado-dinero",
+      "name": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "citation_count": 34
     },
     {
-      "law_id": "ley-contrataciones-publicas",
-      "name": "Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
-      "citation_count": 10
+      "law_id": "lgeepa",
+      "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
+      "citation_count": 34
     },
     {
-      "law_id": "codigo-fiscal-federacion",
-      "name": "Código Fiscal de la Federación",
-      "citation_count": 10
+      "law_id": "ley-mercado-valores",
+      "name": "Ley del Mercado de Valores",
+      "citation_count": 33
     },
     {
-      "law_id": "ley-hidrocarburos",
-      "name": "Ley de Hidrocarburos",
-      "citation_count": 10
+      "law_id": "lftr",
+      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "citation_count": 33
     },
     {
       "law_id": "ley-iva",
       "name": "Ley del Impuesto al Valor Agregado",
-      "citation_count": 8
+      "citation_count": 24
+    },
+    {
+      "law_id": "ley-fintech",
+      "name": "Ley para Regular las Instituciones de Tecnología Financiera",
+      "citation_count": 24
+    },
+    {
+      "law_id": "ley-inmigracion",
+      "name": "Ley de Migración",
+      "citation_count": 24
     },
     {
       "law_id": "ley-del-infonavit",
       "name": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "citation_count": 8
+      "citation_count": 21
+    },
+    {
+      "law_id": "lgpp",
+      "name": "Ley General de Partidos Políticos",
+      "citation_count": 21
+    },
+    {
+      "law_id": "ley-federal-proteccion-consumidor",
+      "name": "Ley Federal de Protección al Consumidor",
+      "citation_count": 19
+    },
+    {
+      "law_id": "ley-amparo",
+      "name": "Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución",
+      "citation_count": 19
+    },
+    {
+      "law_id": "ley-ieps",
+      "name": "Ley del Impuesto Especial sobre Producción y Servicios",
+      "citation_count": 19
     }
   ],
   "top_unresolved": [
     {
       "raw_name": "Reglamento de esta Ley",
-      "count": 29
+      "count": 77
     },
     {
       "raw_name": "ley de la materia",
-      "count": 25
+      "count": 41
+    },
+    {
+      "raw_name": "Ley de la Fiscalía General de la República",
+      "count": 23
+    },
+    {
+      "raw_name": "Ley Federal sobre Metrología y Normalización",
+      "count": 20
+    },
+    {
+      "raw_name": "reglamento de esta Ley",
+      "count": 17
+    },
+    {
+      "raw_name": "Ley General para Prevenir y Sancionar los Delitos",
+      "count": 16
+    },
+    {
+      "raw_name": "Ley de Coordinación Fiscal",
+      "count": 15
+    },
+    {
+      "raw_name": "Ley General para Prevenir",
+      "count": 15
+    },
+    {
+      "raw_name": "Ley de los Sistemas de Ahorro para el Retiro",
+      "count": 14
+    },
+    {
+      "raw_name": "Ley de la Comisión Nacional Bancaria y de Valores",
+      "count": 14
+    },
+    {
+      "raw_name": "Reglamento de este Código",
+      "count": 12
+    },
+    {
+      "raw_name": "Ley Federal contra la Delincuencia Organizada",
+      "count": 12
+    },
+    {
+      "raw_name": "Ley de Ciencia y Tecnología",
+      "count": 12
     },
     {
       "raw_name": "Reglamento de la presente Ley",
-      "count": 16
+      "count": 12
+    },
+    {
+      "raw_name": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+      "count": 11
     },
     {
       "raw_name": "Ley de Desarrollo Rural Sustentable",
       "count": 11
     },
     {
-      "raw_name": "Ley OrgÃ¡nica respectiva",
+      "raw_name": "Ley de Inversión Extranjera",
+      "count": 11
+    },
+    {
+      "raw_name": "Ley de Ingresos de la Federación",
       "count": 9
     },
     {
-      "raw_name": "ley en la materia",
-      "count": 8
-    },
-    {
-      "raw_name": "Ley de la FiscalÃ­a General de la RepÃºblica",
-      "count": 7
-    },
-    {
-      "raw_name": "Ley de CoordinaciÃ³n Fiscal",
-      "count": 6
-    },
-    {
-      "raw_name": "Ley de la ComisiÃ³n Federal de Electricidad",
-      "count": 6
-    },
-    {
-      "raw_name": "Ley de la ComisiÃ³n Nacional Bancaria y de Valores",
-      "count": 6
-    },
-    {
-      "raw_name": "Ley de la EconomÃ­a Social y Solidaria",
-      "count": 6
-    },
-    {
-      "raw_name": "Ley de Bioseguridad de Organismos GenÃ©ticamente Modificados",
-      "count": 6
-    },
-    {
-      "raw_name": "Ley de Ciencia y TecnologÃ­a",
-      "count": 6
-    },
-    {
-      "raw_name": "Ley General para Prevenir y Sancionar los Delitos",
-      "count": 6
-    },
-    {
-      "raw_name": "Ley de la materia",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley de la Agencia Nacional de Seguridad Industrial y de ProtecciÃ³n al Medio Ambiente del Sector Hidrocarburos",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley del Fondo Mexicano del PetrÃ³leo para la EstabilizaciÃ³n y el Desarrollo",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley de la Casa de Moneda de MÃ©xico",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley de los Institutos Nacionales de Salud",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley Federal sobre Monumentos y Zonas ArqueolÃ³gicos",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley General para Prevenir",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley de Infraestructura de la Calidad",
-      "count": 4
-    },
-    {
-      "raw_name": "Ley de Fomento para la Lectura y el Libro",
-      "count": 4
-    },
-    {
-      "raw_name": "Ley de PlaneaciÃ³n y TransiciÃ³n EnergÃ©tica",
-      "count": 4
-    },
-    {
-      "raw_name": "Reglamento de Uniformes",
-      "count": 4
-    },
-    {
-      "raw_name": "Ley para la ComprobaciÃ³n",
-      "count": 4
-    },
-    {
-      "raw_name": "Ley de VÃ­as Generales de ComunicaciÃ³n",
-      "count": 4
-    },
-    {
-      "raw_name": "Ley de Asistencia Social",
-      "count": 4
-    },
-    {
-      "raw_name": "Ley de FiscalizaciÃ³n y RendiciÃ³n de Cuentas de la FederaciÃ³n",
-      "count": 4
-    },
-    {
-      "raw_name": "Estatuto OrgÃ¡nico",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley Federal sobre MetrologÃ­a y NormalizaciÃ³n",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley de Ingresos de la FederaciÃ³n",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley de Ahorro y CrÃ©dito Popular",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley General para la PrevenciÃ³n y GestiÃ³n Integral de los Residuos",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley de Comercio Exterior",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley Nacional de EjecuciÃ³n Penal",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley Nacional de Mecanismos Alternativos de SoluciÃ³n de Controversias",
-      "count": 3
-    },
-    {
-      "raw_name": "Ley de cada Entidad Federativa",
-      "count": 2
-    },
-    {
-      "raw_name": "Ley de ExpropiaciÃ³n",
-      "count": 2
-    },
-    {
-      "raw_name": "Ley del Servicio PÃºblico de EnergÃ­a ElÃ©ctrica",
-      "count": 2
+      "raw_name": "Ley de Aviación Civil",
+      "count": 9
     },
     {
       "raw_name": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "count": 2
+      "count": 9
     },
     {
-      "raw_name": "Ley Nacional de ExtinciÃ³n de Dominio",
-      "count": 2
+      "raw_name": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
+      "count": 8
     },
     {
-      "raw_name": "Ley de Ingresos sobre Hidrocarburos",
-      "count": 2
+      "raw_name": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "count": 8
     },
     {
-      "raw_name": "Ley Sobre el Contrato de Seguro",
-      "count": 2
+      "raw_name": "Ley de Mecanismos Alternativos",
+      "count": 8
     },
     {
-      "raw_name": "Ley del Servicio de AdministraciÃ³n Tributaria",
-      "count": 2
+      "raw_name": "Ley de Ahorro y Crédito Popular",
+      "count": 7
     },
     {
-      "raw_name": "Ley de Ingresos de la FederaciÃ³n para el Ejercicio Fiscal de 2014",
-      "count": 2
+      "raw_name": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "count": 7
     },
     {
-      "raw_name": "Ley de la Empresa PÃºblica del Estado",
-      "count": 2
+      "raw_name": "Ley de la materia",
+      "count": 6
     },
     {
-      "raw_name": "Ley de los Ã“rganos Reguladores Coordinados",
-      "count": 2
+      "raw_name": "Ley de Vías Generales de Comunicación",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley de la Policía Federal Preventiva",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley General para la Prevención y Gestión Integral de los Residuos",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley de la Economía Social y Solidaria",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley de Asistencia Social",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley del Servicio de Administración Tributaria",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley de Cooperación Internacional para el Desarrollo",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
+      "count": 5
+    },
+    {
+      "raw_name": "Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento",
+      "count": 5
+    },
+    {
+      "raw_name": "reglamento de la presente Ley",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley de Fomento para la Lectura y el Libro",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
+      "count": 5
+    },
+    {
+      "raw_name": "ley en la materia",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley de Ingresos por un factor de 0",
+      "count": 5
+    },
+    {
+      "raw_name": "reglamento de esta ley",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
+      "count": 5
+    },
+    {
+      "raw_name": "reglamento de este Código",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley de Caminos",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley de la Comisión Federal de Electricidad",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley de la Casa de Moneda de México",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley de los Institutos Nacionales de Salud",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley Nacional de Extinción de Dominio",
+      "count": 4
     }
   ]
 }

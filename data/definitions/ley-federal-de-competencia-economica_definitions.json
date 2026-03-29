@@ -1,0 +1,79 @@
+{
+  "law_id": "ley-federal-de-competencia-economica",
+  "extracted_at": "2026-03-29T23:33:19.346604+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "agente económico",
+      "definition_text": "Toda persona física o moral, con o sin fines de lucro, dependencias y entidades de la administración pública federal, estatal o municipal, asociaciones, cámaras empresariales, agrupaciones de profesionistas, fideicomisos, o cualquier otra forma de participación en la actividad económica;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "autoridad investigadora",
+      "definition_text": "Aquélla a la que se hace referencia en el artículo 26 de la presente Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "autoridad pública",
+      "definition_text": "Toda autoridad de la Federación, de los Estados, de la Ciudad de México y de los Municipios o Demarcaciones Territoriales, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y de cualquier otro ente público;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "barreras a la competencia y la libre concurrencia",
+      "definition_text": "Cualquier característica estructural del mercado, hecho o acto de los Agentes Económicos que tenga por objeto o efecto impedir el acceso de competidores o limitar su capacidad para competir en los mercados; que impidan o distorsionen el proceso de competencia y libre concurrencia, así como las disposiciones jurídicas emitidas por cualquier orden de gobierno que indebidamente impidan o distorsionen el proceso de competencia y libre concurrencia;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "comisión",
+      "definition_text": "La Comisión Nacional Antimonopolio;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "crt",
+      "definition_text": "Comisión Reguladora de Telecomunicaciones;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "disposiciones regulatorias",
+      "definition_text": "Las disposiciones administrativas de carácter general que emita la Comisión para el cumplimiento de sus funciones en términos de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "law_name": "LEY Federal de Competencia Económica",
+      "article": "3",
+      "term": "información confidencial",
+      "definition_text": "Aquélla que de divulgarse pueda causar un daño o perjuicio en la posición competitiva de quie",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

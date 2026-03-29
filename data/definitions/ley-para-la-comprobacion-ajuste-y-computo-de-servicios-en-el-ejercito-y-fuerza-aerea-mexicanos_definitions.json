@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
+  "extracted_at": "2026-03-29T23:33:19.632083+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
+      "law_name": "LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+      "article": "18",
+      "term": "causa imputable",
+      "definition_text": "la Secretaría de la Defensa Nacional, el desempeño de una comisión ajena al servicio militar por órdenes de la propia Secretaría, siempre y cuando ésta no haya sido solicitada por el interesado",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

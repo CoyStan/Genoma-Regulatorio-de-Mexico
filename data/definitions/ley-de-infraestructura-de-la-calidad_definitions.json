@@ -1,0 +1,115 @@
+{
+  "law_id": "ley-de-infraestructura-de-la-calidad",
+  "extracted_at": "2026-03-29T23:33:19.235792+00:00",
+  "total_definitions": 12,
+  "definitions": [
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la protección y promoción a la salud",
+      "definition_text": "II.\tla protección a la integridad física, a la salud, y a la vida de los trabajadores en los centros de trabajo;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la seguridad alimentaria",
+      "definition_text": "V.\tla educación y cultura;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "los servicios turísticos",
+      "definition_text": "VII.\tla seguridad nacional;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la protección al medio ambiente y cambio climático",
+      "definition_text": "IX.\tel uso y aprovechamiento de los recursos naturales;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "el sano desarrollo rural y urbano",
+      "definition_text": "XI.\tlas obras y servicios públicos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la protección del derecho a la información",
+      "definition_text": "XIV.\tla protección de las denominaciones de origen;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la protección y promoción a la salud",
+      "definition_text": "II.\tla protección a la integridad física, a la salud, y a la vida de los trabajadores en los centros de trabajo;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la seguridad alimentaria",
+      "definition_text": "V.\tla educación y cultura;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "los servicios turísticos",
+      "definition_text": "VII.\tla seguridad nacional;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la protección al medio ambiente y cambio climático",
+      "definition_text": "IX.\tel uso y aprovechamiento de los recursos naturales;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "el sano desarrollo rural y urbano",
+      "definition_text": "XI.\tlas obras y servicios públicos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "law_name": "LEY de Infraestructura de la Calidad",
+      "article": "10",
+      "term": "la protección del derecho a la información",
+      "definition_text": "XIV.\tla protección de las denominaciones de origen;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

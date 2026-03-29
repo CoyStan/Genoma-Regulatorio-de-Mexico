@@ -1,0 +1,59 @@
+{
+  "law_id": "ley-de-comercio-exterior",
+  "extracted_at": "2026-03-29T23:33:19.180478+00:00",
+  "total_definitions": 6,
+  "definitions": [
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "law_name": "LEY de Comercio Exterior",
+      "article": "3o",
+      "term": "secretaría, la secretaría de economía",
+      "definition_text": "Fracción reformada DOF 24-01-2006",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "law_name": "LEY de Comercio Exterior",
+      "article": "3o",
+      "term": "comisión, la comisión de comercio exterior",
+      "definition_text": "Fracción reformada DOF 24-01-2006",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "law_name": "LEY de Comercio Exterior",
+      "article": "3o",
+      "term": "secretaría, la secretaría de economía",
+      "definition_text": "Fracción reformada DOF 24-01-2006",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "law_name": "LEY de Comercio Exterior",
+      "article": "3o",
+      "term": "comisión, la comisión de comercio exterior",
+      "definition_text": "Fracción reformada DOF 24-01-2006",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "law_name": "LEY de Comercio Exterior",
+      "article": "32",
+      "term": "como tales",
+      "definition_text": "las transacciones cuyos precios no permitan cubrir los costos de producción y los gastos generales incurridos en el curso de operaciones comerciales normales en un período razonable, el cual puede ser más amplio que el período de investigación",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "law_name": "LEY de Comercio Exterior",
+      "article": "51",
+      "term": "parte interesada",
+      "definition_text": "los productores solicitantes, importadores y exportadores de la mercancía objeto de investigación, así como a las personas morales extranjeras que tengan un interés directo en la investigación de que se trate y aquéllas que tengan tal carácter en los tratados o convenios comerciales internacionales",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

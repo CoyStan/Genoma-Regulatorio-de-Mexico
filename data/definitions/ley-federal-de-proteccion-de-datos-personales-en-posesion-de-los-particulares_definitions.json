@@ -1,0 +1,61 @@
+{
+  "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+  "extracted_at": "2026-03-29T23:33:19.387023+00:00",
+  "total_definitions": 6,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "law_name": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "article": "2",
+      "term": "aviso de privacidad",
+      "definition_text": "Documento a disposición de la persona titular de la información de forma física, electrónica o en cualquier otro formato generado por el responsable, a partir del momento en el cual se recaben sus datos personales, con el objeto de informarle los propósitos del tratamiento de los mismos, de conformidad con el artículo 14 de la presente Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "law_name": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "article": "2",
+      "term": "bases de datos",
+      "definition_text": "Conjunto ordenado de datos personales referentes a una persona identificada o identificable condicionados a criterios determinados, con independencia de la forma o modalidad de su creación, tipo de soporte, procesamiento, almacenamiento y organización;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "law_name": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "article": "2",
+      "term": "bloqueo",
+      "definition_text": "Identificación y conservación de datos personales una vez cumplida la finalidad para la cual fueron recabados, con el único propósito de determinar posibles responsabilidades en relación con su tratamiento, hasta el plazo de prescripción legal o contractual de éstas. Durante dicho periodo, los datos personales no podrán ser objeto de tratamiento y, transcurrido este, se procederá a su cancelación en la base de datos que corresponda;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "law_name": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "article": "2",
+      "term": "consentimiento",
+      "definition_text": "Manifestación de la voluntad libre, específica e informada de la persona titular de los datos mediante la cual se efectúa el tratamiento de los mismos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "law_name": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "article": "2",
+      "term": "datos personales",
+      "definition_text": "Cualquier información concerniente a una persona identificada o identificable. Se considera que una persona es identificable cuando su identidad pueda determinarse directa o indirectamente a través de cualquier información;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "law_name": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "article": "2",
+      "term": "datos personales sensibles",
+      "definition_text": "Aquellos datos personales que afecten a la esfera más íntima de la persona titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para esta. De manera enunciativa más no limitativa se consideran sensibles los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud presente o futuro, información genética, creencias religiosas, filosóficas y morales, opinion",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

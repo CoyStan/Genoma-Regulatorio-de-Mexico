@@ -1,0 +1,78 @@
+{
+  "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+  "extracted_at": "2026-03-29T23:33:19.465608+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "4",
+      "term": "acciones afirmativas",
+      "definition_text": "Acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "4",
+      "term": "acogimiento residencial",
+      "definition_text": "Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "4",
+      "term": "adopción internacional",
+      "definition_text": "Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "4",
+      "term": "ajustes razonables",
+      "definition_text": "Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "4",
+      "term": "centro de asistencia social",
+      "definition_text": "El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "4",
+      "term": "certificado de idoneidad",
+      "definition_text": "El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "4",
+      "term": "coneval",
+      "definition_text": "Consejo Nacional de Evaluación de la Política de Desarrollo Social;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "law_name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "article": "30",
+      "term": "al niño",
+      "definition_text": "valor supletorio o reivindicatorio, y\n\nXI",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

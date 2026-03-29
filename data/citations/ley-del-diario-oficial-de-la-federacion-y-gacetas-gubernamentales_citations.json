@@ -1,0 +1,32 @@
+{
+  "law_id": "ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales",
+  "extracted_at": "2026-03-29T23:31:48.858594+00:00",
+  "total_citations": 2,
+  "citations": [
+    {
+      "source_law": "ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales",
+      "source_article": "3o",
+      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
+      "target_article": "",
+      "citation_text": "dicatura Federal y el Tribunal Electoral del Poder Judicial de la Federación; Fracción reformada DOF 31-05-2019  VI.-\tLas disposiciones jurídicas que la Constitución y las leyes ordenen que se publiquen en el Periódico Oficial; Fracción reformada DOF 05-06-2012, 31-05-2019  VII.-\tLos acuerdos y resoluciones de car",
+      "pattern_name": "constitucion_bare",
+      "pattern_group": "constitutional",
+      "confidence": "medium",
+      "char_offset": 876
+    },
+    {
+      "source_law": "ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales",
+      "source_article": "18",
+      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
+      "target_article": "89",
+      "citation_text": "Ma. del Carmen Márquez de R., Secretario.- Dip. Antonio Melgar Aranda, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
+      "pattern_name": "constitucion_full",
+      "pattern_group": "constitutional",
+      "confidence": "high",
+      "char_offset": 673
+    }
+  ],
+  "resolved_at": "2026-03-29T23:32:07.225975+00:00"
+}

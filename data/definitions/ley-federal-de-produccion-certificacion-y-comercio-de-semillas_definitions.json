@@ -1,0 +1,223 @@
+{
+  "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+  "extracted_at": "2026-03-29T23:33:19.382809+00:00",
+  "total_definitions": 24,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "calidad física",
+      "definition_text": "Medida de la pureza física de la semilla, se expresa como el porcentaje del peso que corresponde a la semilla de la especie, con respecto al peso total de la muestra de un determinado lote;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "calidad fisiológica",
+      "definition_text": "Medida de la capacidad de la semilla para producir material de propagación fisiológicamente viable, se expresa como el porcentaje de semilla fisiológicamente viable, con respecto al total de la muestra de un lote;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "calidad fitosanitaria",
+      "definition_text": "Medida de la sanidad de la semilla que evalúa y determina la presencia o ausencia de organismos patógenos en el lote de semillas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "calidad genética",
+      "definition_text": "Medida de la identidad genética de la semilla, se expresa como el porcentaje de semillas viables que se identifican con respecto a los caracteres pertinentes de la variedad vegetal;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "calificación de semillas",
+      "definition_text": "Procedimiento por el cual se verifican, conforme a las Reglas que para tal efecto emite la Secretaría, las características de calidad de las semillas en sus diferentes categorías;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "caracteres pertinentes",
+      "definition_text": "Expresiones fenotípicas y genotípicas propias de la variedad vegetal que permiten su identificación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "catálogo nacional de variedades vegetales",
+      "definition_text": "Documento que enlista las variedades vegetales cuyos caracteres pertinentes han sido descritos conforme a las Guías de cada especie para garantizar su identidad genética y distinción;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "catálogo de mantenedores",
+      "definition_text": "Documento que enlista a las personas físicas o morales aprobadas por la Secretaría como mantenedores de variedades vegetales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "categoría de semillas",
+      "definition_text": "Clasificación que se otorga a las semillas en términos de procedimientos, factores y niveles de calidad conforme a las Reglas correspondientes; se reconocen las categorías Básica, Registrada, Certificada, Habilitada y Declarada;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "guía",
+      "definition_text": "Documento que expide la Secretaría que contiene los caracteres pertinentes y la metodología para su evaluación. Permite describir una población de plantas que constituye",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla calificada",
+      "definition_text": "Aquella cuyas características de calidad han sido calificadas por la Secretaría o por un organismo de certificación acreditado y aprobado para tal efecto, mediante el procedimiento a que se refiere esta Ley. La semilla calificada se clasifica en las categorías Básica, Registrada, Certificada y Habilitada;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría declarada",
+      "definition_text": "Categoría de semilla comprendida en la fracción IX de este artículo, sus características de calidad no son calificadas por la Secretaría ni por un organismo de certificación acreditado y aprobado para tal efecto, son informadas directamente por el productor o comercializador en la etiqueta a que se refiere el artículo 33 del presente ordenamiento;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría habilitada",
+      "definition_text": "Aquella cuyo proceso de propagación o producción no ha sido verificado o habiéndolo sido, no cumple totalmente con alguna de las características de calidad genética, física, fisiológica o fitosanitaria;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría básica",
+      "definition_text": "La que conserva un muy alto grado de identidad genética y pureza varietal, proviene de una semilla Original o de la misma Básica y es producida y reproducida o multiplicada cumpliendo con las Reglas a que se refiere esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría certificada",
+      "definition_text": "La que conserva un grado adecuado y satisfactorio de identidad genética y pureza varietal, proviene de una semilla Original, Básica o Registrada y es producida y reproducida o multiplicada de acuerdo con las Reglas a que se refiere esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría registrada",
+      "definition_text": "La que conserva un alto grado de identidad genética y pureza varietal, proviene de una semilla Original, Básica o Registrada y es producida y reproducida o multiplicada de acuerdo con las Reglas a que se refiere esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla original",
+      "definition_text": "Esta semilla constituye la fuente inicial para la producción de semillas de las categorías Bási",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla calificada",
+      "definition_text": "Aquella cuyas características de calidad han sido calificadas por la Secretaría o por un organismo de certificación acreditado y aprobado para tal efecto, mediante el procedimiento a que se refiere esta Ley. La semilla calificada se clasifica en las categorías Básica, Registrada, Certificada y Habilitada;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría declarada",
+      "definition_text": "Categoría de semilla comprendida en la fracción IX de este artículo, sus características de calidad no son calificadas por la Secretaría ni por un organismo de certificación acreditado y aprobado para tal efecto, son informadas directamente por el productor o comercializador en la etiqueta a que se refiere el artículo 33 del presente ordenamiento;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría habilitada",
+      "definition_text": "Aquella cuyo proceso de propagación o producción no ha sido verificado o habiéndolo sido, no cumple totalmente con alguna de las características de calidad genética, física, fisiológica o fitosanitaria;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría básica",
+      "definition_text": "La que conserva un muy alto grado de identidad genética y pureza varietal, proviene de una semilla Original o de la misma Básica y es producida y reproducida o multiplicada cumpliendo con las Reglas a que se refiere esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría certificada",
+      "definition_text": "La que conserva un grado adecuado y satisfactorio de identidad genética y pureza varietal, proviene de una semilla Original, Básica o Registrada y es producida y reproducida o multiplicada de acuerdo con las Reglas a que se refiere esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla categoría registrada",
+      "definition_text": "La que conserva un alto grado de identidad genética y pureza varietal, proviene de una semilla Original, Básica o Registrada y es producida y reproducida o multiplicada de acuerdo con las Reglas a que se refiere esta Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "law_name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "article": "3",
+      "term": "semilla original",
+      "definition_text": "Esta semilla constituye la fuente inicial para la producción de semillas de las categorías Bási",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

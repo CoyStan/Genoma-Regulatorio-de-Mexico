@@ -1,0 +1,79 @@
+{
+  "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+  "extracted_at": "2026-03-29T23:33:19.306704+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "consejo",
+      "definition_text": "El Consejo Directivo del Instituto;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "distribuidores",
+      "definition_text": "Las empresas y establecimientos afiliados al Instituto que presten servicios o comercialicen bienes para ser adquiridos por los trabajadores;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "fondo",
+      "definition_text": "El fondo de fomento y garantía para el consumo de los trabajadores a que se refiere la Ley Federal del Trabajo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "instituto",
+      "definition_text": "El organismo descentralizado denominado Instituto del Fondo Nacional para el Consumo de los Trabajadores;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "ley",
+      "definition_text": "La Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "recursos del fondo",
+      "definition_text": "La totalidad de los activos que integren el patrimonio del Instituto en términos de la presente Ley, excepto los inmuebles, mobiliario y equipo necesarios para su funcionamiento;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "secretaría de hacienda",
+      "definition_text": "La Secretaría de Hacienda y Crédito Público, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "law_name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "article": "4",
+      "term": "secretaría del trabajo",
+      "definition_text": "La Secretaría del Trabajo y Previsión Social.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

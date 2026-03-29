@@ -1,0 +1,43 @@
+{
+  "law_id": "ley-federal-de-responsabilidad-ambiental",
+  "extracted_at": "2026-03-29T23:33:19.393437+00:00",
+  "total_definitions": 4,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-responsabilidad-ambiental",
+      "law_name": "LEY Federal de Responsabilidad Ambiental",
+      "article": "2o",
+      "term": "estado base",
+      "definition_text": "Condición en la que se habrían hallado los hábitat, los ecosistemas, los elementos y recursos naturales, las relaciones de interacción y los servicios ambientales, en el momento previo inmediato al daño y de no haber sido éste producido;",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidad-ambiental",
+      "law_name": "LEY Federal de Responsabilidad Ambiental",
+      "article": "2o",
+      "term": "fondo",
+      "definition_text": "El Fondo de Responsabilidad Ambiental;",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidad-ambiental",
+      "law_name": "LEY Federal de Responsabilidad Ambiental",
+      "article": "2o",
+      "term": "ley",
+      "definition_text": "La Ley Federal de Responsabilidad Ambiental;",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidad-ambiental",
+      "law_name": "LEY Federal de Responsabilidad Ambiental",
+      "article": "2o",
+      "term": "mecanismos alternativos",
+      "definition_text": "Los mecanismos alternativos de solución de controversias, tales como la mediación, la conciliación y los demás que permitan a las personas prevenir conflictos, o en su caso, solucionarlos, sin necesidad de intervención de los órganos jurisdiccionales, salvo para garantizar la legalidad y eficacia del convenio adoptado por los participantes y el cumplimiento del mismo;",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

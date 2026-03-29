@@ -1,0 +1,43 @@
+{
+  "law_id": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+  "extracted_at": "2026-03-29T23:33:19.522559+00:00",
+  "total_definitions": 4,
+  "definitions": [
+    {
+      "law_id": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+      "law_name": "LEY General en Materia de Desaparición Forzada de Personas, Desaparición \r\n\t\t\t\tCometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+      "article": "12",
+      "term": "el registro nacional de personas desaparecidas y no localizadas",
+      "definition_text": "II.\tLa Base Nacional de Carpetas de Investigación;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+      "law_name": "LEY General en Materia de Desaparición Forzada de Personas, Desaparición \r\n\t\t\t\tCometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+      "article": "12",
+      "term": "el banco nacional de datos forenses",
+      "definition_text": "IV.\tRegistros Administrativos, y",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+      "law_name": "LEY General en Materia de Desaparición Forzada de Personas, Desaparición \r\n\t\t\t\tCometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+      "article": "12",
+      "term": "el registro nacional de personas desaparecidas y no localizadas",
+      "definition_text": "II.\tLa Base Nacional de Carpetas de Investigación;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+      "law_name": "LEY General en Materia de Desaparición Forzada de Personas, Desaparición \r\n\t\t\t\tCometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+      "article": "12",
+      "term": "el banco nacional de datos forenses",
+      "definition_text": "IV.\tRegistros Administrativos, y",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

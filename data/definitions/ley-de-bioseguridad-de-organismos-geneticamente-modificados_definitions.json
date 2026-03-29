@@ -1,0 +1,61 @@
+{
+  "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+  "extracted_at": "2026-03-29T23:33:19.173158+00:00",
+  "total_definitions": 6,
+  "definitions": [
+    {
+      "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "law_name": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "article": "3",
+      "term": "accidente",
+      "definition_text": "La liberación involuntaria de organismos genéticamente modificados durante su utilización y que pueda suponer, con base en criterios técnicos, posibles riesgos para la salud humana o para el medio ambiente y la diversidad biológica.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "law_name": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "article": "3",
+      "term": "actividades",
+      "definition_text": "La utilización confinada, la liberación experimental, la liberación en programa piloto, la liberación comercial, la comercialización, la importación y la exportación de organismos genéticamente modificados, conforme a esta Ley.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "law_name": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "article": "3",
+      "term": "autorización",
+      "definition_text": "Es el acto administrativo mediante el cual la Secretaría de Salud, en el ámbito de su competencia conforme a esta Ley, autoriza organismos genéticamente modificados determinados expresamente en este ordenamiento, a efecto de que se pueda realizar su comercialización e importación para su comercialización, así como su utilización con finalidades de salud pública o de biorremediación.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "law_name": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "article": "3",
+      "term": "biorremediación",
+      "definition_text": "El proceso en el que se utilizan microorganismos genéticamente modificados para la degradación o desintegración de contaminantes que afecten recursos y/o elementos naturales, a efecto de convertirlos en componentes más sencillos y menos dañinos o no dañinos al ambiente.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "law_name": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "article": "3",
+      "term": "bioseguridad",
+      "definition_text": "Las acciones y medidas de evaluación, monitoreo, control y prevención que se deben asumir en la realización de actividades con organismos genéticamente modificados, con el objeto de prevenir, evitar o reducir los posibles riesgos que dichas actividades pudieran ocasionar a la salud humana o al medio ambiente y la diversidad biológica, incluyendo los aspectos de inocuidad de dichos organismos que se destinen para uso o consumo humano.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "law_name": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "article": "3",
+      "term": "biotecnología moderna",
+      "definition_text": "Se entiende la aplicación de técnicas in vitro de ácido nucleico, incluidos el ácido desoxirribonucleico (ADN y ARN) recombinante y la inyección directa de ácido nucleico en células u organelos, o la fusión de células más allá de la familia taxonómica, que supera las barreras fisiológicas naturales de la",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "law_id": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
+  "extracted_at": "2026-03-29T23:31:48.208031+00:00",
+  "total_citations": 2,
+  "citations": [
+    {
+      "source_law": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
+      "source_article": "0",
+      "target_law_raw": "Ley del Impuesto sobre la Renta",
+      "target_law_id": "ley-isr",
+      "target_article": null,
+      "citation_text": "Código Fiscal de la Federación.  Las empresas de construcción no estarán obligadas a hacer los pagos provisionales a que se refiere el artículo 35 de la Ley del Impuesto sobre la Renta.  ARTICULO SEPTIMO.- Se deroga el artículo 14 de la Ley que establece, reforma y adiciona las disposiciones relativas a diversos impuestos, de fecha ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 5877,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del impuesto sobre la renta"
+    },
+    {
+      "source_law": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
+      "source_article": "0",
+      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
+      "target_article": "89",
+      "citation_text": "ellaneda, S. P.- Hesiquio Aguilar Marañón, D. S.- Lic. Diódoro Rivera Uribe, S. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
+      "pattern_name": "constitucion_full",
+      "pattern_group": "constitutional",
+      "confidence": "high",
+      "char_offset": 6421
+    }
+  ],
+  "resolved_at": "2026-03-29T23:32:03.518694+00:00"
+}

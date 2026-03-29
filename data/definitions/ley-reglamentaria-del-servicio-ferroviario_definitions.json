@@ -1,0 +1,34 @@
+{
+  "law_id": "ley-reglamentaria-del-servicio-ferroviario",
+  "extracted_at": "2026-03-29T23:33:19.665401+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "ley-reglamentaria-del-servicio-ferroviario",
+      "law_name": "LEY Reglamentaria del Servicio Ferroviario",
+      "article": "2",
+      "term": "agencia",
+      "definition_text": "La Agencia de Trenes y Transporte Público Integrado; organismo descentralizado con personalidad jurídica, patrimonio propio, autonomía técnica y de gestión sectorizado a la Secretaría;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-reglamentaria-del-servicio-ferroviario",
+      "law_name": "LEY Reglamentaria del Servicio Ferroviario",
+      "article": "2",
+      "term": "derecho de arrastre",
+      "definition_text": "Es el que se concede a una persona concesionaria o asignataria para que su equipo de arrastre sea manejado con el equipo tractivo, la tripulación y en la vía férrea de otra persona concesionaria, mediante el cobro de una contraprestación a la persona concesionaria o asignataria solicitante;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-reglamentaria-del-servicio-ferroviario",
+      "law_name": "LEY Reglamentaria del Servicio Ferroviario",
+      "article": "15",
+      "term": "instalar anuncios y señales publicitarias en el derecho de vía",
+      "definition_text": "Fracción reformada DOF 26-01-2015",
+      "raw_snippet": "se entiende por ",
+      "extraction_method": "definition_block"
+    }
+  ]
+}
