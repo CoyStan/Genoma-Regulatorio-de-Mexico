@@ -120,14 +120,14 @@ def build_graph(laws: dict[str, dict], citations: list[dict]) -> nx.DiGraph:
     for law_id, law_data in laws.items():
         G.add_node(
             law_id,
-            name=law_data.get("name", ""),
-            short=law_data.get("short_name", ""),
-            sector=law_data.get("category", ""),
-            url=law_data.get("source_url", ""),
-            num_articles=law_data.get("num_articles", 0),
-            year_enacted=law_data.get("year_enacted"),
-            year_last_reform=law_data.get("year_last_reform"),
-            stub=law_data.get("stub", False),
+            name=law_data.get("name", "") or "",
+            short=law_data.get("short_name", "") or "",
+            sector=law_data.get("category", "") or "unknown",
+            url=law_data.get("source_url", "") or "",
+            num_articles=int(law_data.get("num_articles", 0) or 0),
+            year_enacted=int(law_data.get("year_enacted") or 0),
+            year_last_reform=int(law_data.get("year_last_reform") or 0),
+            stub=bool(law_data.get("stub", False)),
         )
 
     # Aggregate citations into edges

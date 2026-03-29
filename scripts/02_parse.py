@@ -329,13 +329,24 @@ def extract_text_from_doc(doc_path: Path) -> tuple[str, str]:
 
 def clean_doc_text(raw_text: str) -> str:
     """Clean extracted text: normalize whitespace, remove control chars, etc."""
+    
+    mojibake_map = {
+        "Ã¡": "á", "Ã©": "é", "Ã­": "í", "Ã³": "ó", "Ãº": "ú",
+        "Ã±": "ñ", "Ã¼": "ü", "Ã ": "Á", "Ã‰": "É", "Ã\x8d": "Í",
+        "Ã“": "Ó", "Ãš": "Ú", "Ã‘": "Ñ", "Ãœ": "Ü", "Â¿": "¿",
+        "Â¡": "¡", "Â°": "°", "Ã\xad": "í", "Ã\x81": "Á"
+    }
+    
+    for wrong, right in mojibake_map.items():
+        raw_text = raw_text.replace(wrong, right)
+
     text = raw_text.replace("\r\n", "\n").replace("\r", "\n")
     text = text.replace("\f", "\n\n")
     text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]", "", text)
     text = re.sub(r"[ \t]{2,}", " ", text)
     text = re.sub(r"\n{4,}", "\n\n\n", text)
+    
     return text.strip()
-
 
 # ---------------------------------------------------------------------------
 # Article extraction

@@ -624,7 +624,7 @@ def resolve_law_name(raw_name: str, fuzzy_threshold: float = 0.75) -> dict:
                 "law_id": law_id,
                 "confidence": "low",
                 "matched_alias": alias,
-                "score": 0.5,
+                "score": 0.85,
             }
 
     return {"law_id": None, "confidence": "unresolved", "matched_alias": None, "score": best_score}

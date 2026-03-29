@@ -80,7 +80,7 @@ def extract_citations_from_article(
         for pat_info in patterns:
             pattern = pat_info["pattern"]
             for match in pattern.finditer(text):
-                raw_name = match.group(1) if match.lastindex >= 1 else ""
+                raw_name = match.group(1) if match.lastindex and match.group(1) else ""
                 raw_name = clean_law_name(raw_name)
 
                 if not raw_name or len(raw_name) < 5:
@@ -115,7 +115,7 @@ def extract_citations_from_article(
         pattern = pat_info["pattern"]
         for match in pattern.finditer(text):
             # For constitutional refs, group 1 is the article number (not the law name)
-            article_ref = match.group(1).strip() if match.lastindex >= 1 else ""
+            article_ref = match.group(1).strip() if match.lastindex and match.group(1) else ""
 
             start = max(0, match.start() - CONTEXT_CHARS)
             end = min(len(text), match.end() + CONTEXT_CHARS)
