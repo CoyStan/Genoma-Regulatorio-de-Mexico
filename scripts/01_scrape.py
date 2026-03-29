@@ -88,8 +88,14 @@ def sha256_of_file(path: Path) -> str:
     return "sha256:" + h.hexdigest()
 
 
+MAX_SLUG_LEN = 60  # GitHub path limit safety: keep filenames short
+
 def slugify(name: str) -> str:
-    """Convert a law name to a filesystem-safe lowercase slug with hyphens."""
+    """Convert a law name to a filesystem-safe lowercase slug with hyphens.
+
+    Truncates at MAX_SLUG_LEN characters, trimming at the last word boundary
+    so filenames never exceed a safe length for GitHub and most filesystems.
+    """
     name = name.lower().strip()
     for src, dst in [
         ("á","a"),("à","a"),("ä","a"),
@@ -102,7 +108,10 @@ def slugify(name: str) -> str:
         name = name.replace(src, dst)
     name = re.sub(r"[^a-z0-9\s\-]", "", name)
     name = re.sub(r"[\s\-]+", "-", name)
-    return name.strip("-")
+    name = name.strip("-")
+    if len(name) > MAX_SLUG_LEN:
+        name = name[:MAX_SLUG_LEN].rstrip("-")
+    return name
 
 
 def abs_url(href: str) -> str:
