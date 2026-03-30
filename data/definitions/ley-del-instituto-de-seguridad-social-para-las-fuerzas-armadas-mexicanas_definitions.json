@@ -1,0 +1,34 @@
+{
+  "law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+  "extracted_at": "2026-03-30T12:01:41.558130+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+      "law_name": "LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "article": "4o",
+      "term": "ley, la ley del instituto de seguridad social para las fuerzas armadas mexicanas",
+      "definition_text": "II. Instituto, el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+      "law_name": "LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "article": "4o",
+      "term": "militares, los miembros del ejército, fuerza aérea, armada y guardia nacional",
+      "definition_text": "cuando se señalen jerarquías, las disposiciones son aplicables a los grados equivalentes en las Fuerzas Armadas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+      "law_name": "LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "article": "4o",
+      "term": "deudos, los parientes o familiares del militar fallecido",
+      "definition_text": "IX. Declaración de Procedencia de Retiro, el documento que le expide al militar la Secretaría de origen, para trámite de retiro, a fin de que la Junta Directiva determine sobre la procedencia, naturaleza y monto del beneficio, el cual es provisional al inicio del trámite administrativo y definitivo a su término;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

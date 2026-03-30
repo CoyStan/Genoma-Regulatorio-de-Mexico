@@ -1,0 +1,106 @@
+{
+  "law_id": "ley-federal-de-zonas-economicas-especiales",
+  "extracted_at": "2026-03-30T12:01:42.081580+00:00",
+  "total_definitions": 11,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "3",
+      "term": "administrador integral",
+      "definition_text": "La persona moral o entidad paraestatal que, con base en un Permiso o Asignación, funge como desarrollador-operador de la Zona y en tal carácter tiene a su cargo la construcción, desarrollo, administración y mantenimiento de la misma, incluyendo los Servicios Asociados o, en su caso, la tramitación de éstos ante las instancias correspondientes;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "3",
+      "term": "área de influencia",
+      "definition_text": "Las poblaciones urbanas y rurales aledañas a la Zona, susceptibles de percibir beneficios económicos, sociales y tecnológicos, entre otros, derivados de las actividades realizadas en la misma, y de las políticas y acciones complementarias previstas en el Programa de Desarrollo, donde además se apoyará el desarrollo de servicios logísticos, financieros, turísticos, de desarrollo de software, entre otros, que sean complementarios a las actividades económicas de la Zona;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "3",
+      "term": "asignación",
+      "definition_text": "El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y Crédito Público otorga exclusivamente a una entidad paraestatal el derecho a construir, desarrollar, administrar y mantener una Zona, en calidad de asignatario, de conformidad con lo dispuesto en la presente Ley, su Reglamento y las disposiciones jurídicas aplicables;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "3",
+      "term": "autorización",
+      "definition_text": "El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y Crédito Público otorga a un Inversionista el derecho a realizar actividades económicas productivas en la Zona respectiva, en términos de lo dispuesto en la presente Ley, su Reglamento y las disposiciones jurídicas aplicables;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "3",
+      "term": "comisión intersecretarial",
+      "definition_text": "La Comisión Intersecretarial de Zonas Económicas Especiales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "3",
+      "term": "consejo técnico de la zona",
+      "definition_text": "El órgano colegiado integrado por representantes de los sectores privado y social, cuyo objeto es dar seguimiento permanente a la operación de la Zona y sus efectos en el Área de Influencia;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "3",
+      "term": "convenio de coordinación",
+      "definition_text": "El instrumento suscrito entre el Gobierno Federal y los gobiernos de las en",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "36",
+      "term": "implementar la política para el establecimiento y desarrollo de zonas",
+      "definition_text": "II. Coordinar, promover y realizar estudios, consultas, análisis y proyectos para el establecimiento de Zonas;",
+      "raw_snippet": "para efectos de esta Ley:",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "36",
+      "term": "otorgar las autorizaciones, así como resolver su modificación o terminación",
+      "definition_text": "VIII.\tVigilar el cumplimiento de los términos y condiciones de los Permisos, Asignaciones y Autorizaciones;",
+      "raw_snippet": "para efectos de esta Ley:",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "36",
+      "term": "implementar la política para el establecimiento y desarrollo de zonas",
+      "definition_text": "II. Coordinar, promover y realizar estudios, consultas, análisis y proyectos para el establecimiento de Zonas;",
+      "raw_snippet": "para efectos de esta Ley:",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "law_name": "LEY Federal de Zonas Económicas Especiales",
+      "article": "36",
+      "term": "otorgar las autorizaciones, así como resolver su modificación o terminación",
+      "definition_text": "VIII.\tVigilar el cumplimiento de los términos y condiciones de los Permisos, Asignaciones y Autorizaciones;",
+      "raw_snippet": "para efectos de esta Ley:",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "law_id": "ley-de-biocombustibles",
+  "extracted_at": "2026-03-30T12:01:40.796644+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-de-biocombustibles",
+      "law_name": "LEY de Biocombustibles",
+      "article": "5",
+      "term": "definir e integrar la información sobre biocombustibles en el subsistema",
+      "definition_text": "VIII.\tIntegrar la información sobre el impacto del uso de Biocombustibles en el Balance Nacional de Energía y Escenarios Prospectivos de Energía, así como evaluar su impacto en el seno del Consejo para la Planeación Energética;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-biocombustibles",
+      "law_name": "LEY de Biocombustibles",
+      "article": "42",
+      "term": "reincidente",
+      "definition_text": "quien, habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de un plazo de diez años, contados a partir de la imposición de la sanción",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

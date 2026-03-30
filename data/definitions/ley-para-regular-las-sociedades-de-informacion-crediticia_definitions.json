@@ -1,0 +1,23 @@
+{
+  "law_id": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+  "extracted_at": "2026-03-30T12:01:43.112575+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+      "law_name": "LEY para Regular las Sociedades de Información Crediticia",
+      "article": "8o",
+      "term": "como poder de mando",
+      "definition_text": "la capacidad de hecho de influir de manera decisiva en los acuerdos adoptados en las asambleas de accionistas o sesiones del consejo de administración o en la gestión, conducción y ejecución de los negocios de una Sociedad o de las personas morales que ésta controle",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+      "law_name": "LEY para Regular las Sociedades de Información Crediticia",
+      "article": "56",
+      "term": "grave cuando se proporcione",
+      "definition_text": "la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

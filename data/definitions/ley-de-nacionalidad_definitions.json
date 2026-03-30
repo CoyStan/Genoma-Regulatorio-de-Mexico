@@ -1,0 +1,43 @@
+{
+  "law_id": "ley-de-nacionalidad",
+  "extracted_at": "2026-03-30T12:01:41.258425+00:00",
+  "total_definitions": 4,
+  "definitions": [
+    {
+      "law_id": "ley-de-nacionalidad",
+      "law_name": "LEY de Nacionalidad",
+      "article": "2o",
+      "term": "secretaría",
+      "definition_text": "Secretaría de Relaciones Exteriores;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-nacionalidad",
+      "law_name": "LEY de Nacionalidad",
+      "article": "2o",
+      "term": "certificado de nacionalidad mexicana",
+      "definition_text": "Instrumento jurídico por el cual se reconoce la nacionalidad mexicana por nacimiento y que no se ha adquirido otra nacionalidad;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-nacionalidad",
+      "law_name": "LEY de Nacionalidad",
+      "article": "2o",
+      "term": "carta de naturalización",
+      "definition_text": "Instrumento jurídico por el cual se acredita el otorgamiento de la nacionalidad mexicana a los extranjeros; y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-nacionalidad",
+      "law_name": "LEY de Nacionalidad",
+      "article": "2o",
+      "term": "extranjero",
+      "definition_text": "Aquel que no tiene la nacionalidad mexicana.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

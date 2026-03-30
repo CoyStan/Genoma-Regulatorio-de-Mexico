@@ -1,0 +1,23 @@
+{
+  "law_id": "ley-del-mercado-de-valores",
+  "extracted_at": "2026-03-30T12:01:41.652134+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-del-mercado-de-valores",
+      "law_name": "LEY del Mercado de Valores",
+      "article": "363",
+      "term": "que tienen información privilegiada relativa",
+      "definition_text": "una emisora o emisora simplificada, salvo prueba en contrario:\nPárrafo reformado DOF 28-12-2023\n\nI",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-mercado-de-valores",
+      "law_name": "LEY del Mercado de Valores",
+      "article": "370",
+      "term": "contrario",
+      "definition_text": "un sano uso o práctica de mercado todo acto que se contraponga a los fines de la presente Ley o cualquier otro que lesione algún bien jurídicamente tutelado por la misma",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "law_id": "ley-de-vivienda",
+  "extracted_at": "2026-03-30T12:01:41.407402+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "autoproducción de vivienda",
+      "definition_text": "el proceso de gestión de suelo, construcción y distribución de vivienda bajo el control directo de sus usuarios de forma individual o colectiva, la cual puede desarrollarse mediante la contratación de terceros o por medio de procesos de autoconstrucción;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "autoconstrucción de vivienda",
+      "definition_text": "el proceso de construcción o edificación de la vivienda realizada directamente por sus propios usuarios, en forma individual, familiar o colectiva;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "estímulos",
+      "definition_text": "las medidas de carácter jurídico, administrativo, fiscal o financiero que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado, en la ejecución de acciones, procesos o programas habitacionales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "espacios habitables",
+      "definition_text": "el lugar de la vivienda donde se desarrollan actividades de reunión o descanso, que cuenten con las dimensiones mínimas de superficie, altura, ventilación e iluminación natural, además de contar como mínimo con un baño, cocina, estancia-comedor y dos recamaras, de conformidad con las características y condiciones mínimas necesarias que establezcan las leyes y las normas oficiales mexicanas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "espacios auxiliares",
+      "definition_text": "el lugar de la vivienda donde se desarrollan actividades de trabajo, higiene y circulación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "comisión",
+      "definition_text": "la Comisión Nacional de Vivienda;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "comisión intersecretarial",
+      "definition_text": "la Comisión Intersecretarial de Vivienda;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "consejo",
+      "definition_text": "el Consejo Nacional de Vivienda;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "mejoramiento de vivienda",
+      "definition_text": "la acción tendiente a consolidar o renovar las viviendas deterioradas física o funcionalmente, mediante actividades de ampliación, reparación, reforzamiento estructural o rehabilitación que propicien una vivienda digna y decorosa;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "law_name": "LEY de Vivienda",
+      "article": "4",
+      "term": "producción social de vivienda",
+      "definition_text": "aquella que se re",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

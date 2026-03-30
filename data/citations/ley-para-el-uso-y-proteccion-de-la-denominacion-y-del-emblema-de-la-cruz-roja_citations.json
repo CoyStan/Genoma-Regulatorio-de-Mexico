@@ -1,0 +1,35 @@
+{
+  "law_id": "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja",
+  "extracted_at": "2026-03-30T12:00:14.485472+00:00",
+  "total_citations": 2,
+  "citations": [
+    {
+      "source_law": "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja",
+      "source_article": "12",
+      "target_law_raw": "Reglamento sobre el uso del emblema de la cruz roja o de la media luna roja por las Sociedades Nacionales",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": " uso se limitará en el despliegue de sus actividades, mismas que se avendrán a lo establecido por los Convenios de Ginebra de 1949, la presente Ley y el Reglamento sobre el uso del emblema de la cruz roja o de la media luna roja por las Sociedades Nacionales.  El emblema de la cruz roja, en su uso indicativo, deberá ser de pequeñas dimensiones, es decir, será de tamaño proporcional a la superficie sobre l",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 338,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.36619718309859156,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja",
+      "source_article": "20",
+      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
+      "target_article": "89",
+      "citation_text": "Zoreda Novelo, Secretario.- Dip. Eduardo Sergio de la Torre Jaramillo, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
+      "pattern_name": "constitucion_full",
+      "pattern_group": "constitutional",
+      "confidence": "high",
+      "char_offset": 1166
+    }
+  ],
+  "resolved_at": "2026-03-30T12:00:49.726648+00:00"
+}

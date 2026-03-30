@@ -1,0 +1,24 @@
+{
+  "law_id": "ley-del-sector-hidrocarburos",
+  "extracted_at": "2026-03-30T12:01:41.680908+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-del-sector-hidrocarburos",
+      "law_name": "LEY del Sector Hidrocarburos",
+      "article": "5",
+      "term": "comercialmente recuperable debido",
+      "definition_text": "una o más contingencias",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-sector-hidrocarburos",
+      "law_name": "LEY del Sector Hidrocarburos",
+      "article": "80",
+      "term": "en caso de ser persona física",
+      "definition_text": "a)\tIdentificación oficial, y",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

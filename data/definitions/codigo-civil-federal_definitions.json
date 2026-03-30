@@ -1,0 +1,23 @@
+{
+  "law_id": "codigo-civil-federal",
+  "extracted_at": "2026-03-30T12:01:40.204873+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "codigo-civil-federal",
+      "law_name": "CÓDIGO Civil Federal",
+      "article": "1168",
+      "term": "la prescripción",
+      "definition_text": "no interrumpida por la interpelación judicial, si el actor desiste de ella, o fuese desestimada su demanda",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-civil-federal",
+      "law_name": "CÓDIGO Civil Federal",
+      "article": "2926",
+      "term": "hecha",
+      "definition_text": "favor de el o los cesionarios referidos en tales párrafos, quienes tendrán todos los derechos y acciones derivados de ésta",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

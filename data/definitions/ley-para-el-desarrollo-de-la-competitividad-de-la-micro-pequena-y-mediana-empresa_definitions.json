@@ -1,0 +1,79 @@
+{
+  "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+  "extracted_at": "2026-03-30T12:01:43.030486+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "ley",
+      "definition_text": "La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "secretaría",
+      "definition_text": "La Secretaría de Economía;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "mipymes",
+      "definition_text": "Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada en el Diario Oficial de la Federación, partiendo de la siguiente:",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "competitividad",
+      "definition_text": "La calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer su rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "sector público",
+      "definition_text": "Dependencia y entidades de la Administración Pública Federal, Estatal, Municipal y las demarcaciones territoriales de la Ciudad de México;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "sectores",
+      "definition_text": "Los sectores privado, social y del conocimiento;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "organizaciones empresariales",
+      "definition_text": "Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante la Federación, las Entidades Federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "law_name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "article": "3",
+      "term": "cadenas productivas",
+      "definition_text": "Sistemas productivos que integran conjuntos de empresas que añaden valor agregado a productos o servicios a",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

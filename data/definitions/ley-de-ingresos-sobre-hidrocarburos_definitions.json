@@ -1,0 +1,88 @@
+{
+  "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+  "extracted_at": "2026-03-30T12:01:41.014719+00:00",
+  "total_definitions": 9,
+  "definitions": [
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "área unificada",
+      "definition_text": "el área determinada en superficie y profundidad en la que se instruyó la unificación por tratarse de un yacimiento compartido, de conformidad con la Ley del Sector Hidrocarburos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "btu",
+      "definition_text": "unidad térmica británica, representa la cantidad de energía necesaria para elevar la temperatura de una libra de agua (0.4535 kilogramos) un grado Fahrenheit (0.5556 grados centígrados), en condiciones atmosféricas normales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "comercializador",
+      "definition_text": "aquel que contrate la Secretaría de Energía, a solicitud del Fondo Mexicano del Petróleo, para que preste a la Nación el servicio de comercialización de Hidrocarburos que reciba el Estado como resultado de un Contrato;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "condensados",
+      "definition_text": "líquidos del Gas Natural constituidos principalmente por pentanos y componentes de Hidrocarburos más pesados;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "contraprestación",
+      "definition_text": "aquella que se establezca en cada Contrato a favor del Estado o del Contratista;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "contrato",
+      "definition_text": "Contrato para la Exploración y Extracción;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "cuota contractual para la fase exploratoria",
+      "definition_text": "la Contraprestación que se establece conforme al artículo 23 de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "fondo mexicano del petróleo",
+      "definition_text": "el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "law_name": "LEY de Ingresos sobre Hidrocarburos",
+      "article": "3",
+      "term": "límite de recuperación de costos",
+      "definition_text": "el resultado de multiplicar el Porcentaje de Recupera",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

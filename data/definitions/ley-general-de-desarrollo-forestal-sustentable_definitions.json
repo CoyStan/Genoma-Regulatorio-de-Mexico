@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-general-de-desarrollo-forestal-sustentable",
+  "extracted_at": "2026-03-30T12:01:42.325565+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-desarrollo-forestal-sustentable",
+      "law_name": "LEY General de Desarrollo Forestal Sustentable",
+      "article": "125",
+      "term": "que están dedicados",
+      "definition_text": "una función de interés público",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

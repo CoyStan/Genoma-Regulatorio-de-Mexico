@@ -1,0 +1,16 @@
+{
+  "law_id": "ley-de-uniones-de-credito",
+  "extracted_at": "2026-03-30T12:01:41.378559+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-de-uniones-de-credito",
+      "law_name": "LEY de Uniones de Crédito",
+      "article": "3",
+      "term": "comisión, a la comisión nacional bancaria y de valores",
+      "definition_text": "II. Control, a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas de la unión; el mantener la titularidad de derechos que permitan, directa o indirectamente, ejercer el voto respecto de más del cincuenta por ciento del capital social de la unión; dirigir, directa o indirectamente, la administración, la estrategia o las principales políticas de la unión, ya sea a través de la propiedad de valores o por cualquier otro acto jurídico;",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

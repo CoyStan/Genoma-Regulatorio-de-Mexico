@@ -1,6 +1,6 @@
 {
   "law_id": "ley-federal-de-competencia-economica",
-  "extracted_at": "2026-03-29T23:31:49.026621+00:00",
+  "extracted_at": "2026-03-30T12:00:10.253292+00:00",
   "total_citations": 43,
   "citations": [
     {
@@ -613,5 +613,5 @@
       "char_offset": 1076
     }
   ],
-  "resolved_at": "2026-03-29T23:32:07.901353+00:00"
+  "resolved_at": "2026-03-30T12:00:39.169440+00:00"
 }

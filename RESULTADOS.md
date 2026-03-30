@@ -1,6 +1,6 @@
 # Genoma Regulatorio de México — Resultados Preliminares
 
-_Análisis con 87 de ~296 leyes federales (84 archivos aún pendientes de descarga)_
+_Análisis con 318 de ~319 leyes federales procesadas (corpus casi completo)_
 
 ---
 
@@ -14,50 +14,59 @@ Se construyó una red de citaciones del corpus jurídico federal mexicano. Cada 
 
 | Métrica | Valor |
 |---------|-------|
-| Leyes analizadas | 87 |
-| Nodos en la red | 135 (incluye leyes citadas no descargadas) |
-| Conexiones (citas entre leyes) | 848 |
+| Leyes analizadas | 318 |
+| Nodos en la red | 361 (incluye leyes citadas no descargadas) |
+| Conexiones (citas entre leyes) | 3,244 |
+| Densidad de la red | 0.025 |
 | Comunidades regulatorias detectadas | 8 |
-| Dependencias circulares | 0 |
+| Dependencias circulares | 1 |
 | Referencias huérfanas | 0 |
+| Leyes aisladas | 38 |
 
 ### Las 10 leyes más centrales (por PageRank)
 
 Estas leyes son las más referenciadas — reformarlas tendría el mayor impacto en cascada sobre el resto del sistema:
 
-1. **Constitución Política (CPEUM)** — citada por 86 de 87 leyes. Afecta en cascada a todo el corpus.
-2. **Ley Federal de Competencia Económica** — citada por 59 leyes
-3. **Ley de Petróleos Mexicanos** — citada por 50 leyes
-4. **Ley General de Sociedades Mercantiles** — citada por 47 leyes
-5. **Ley Orgánica de la Administración Pública Federal** — citada por 32 leyes
-6. **Código Nacional de Procedimientos Penales** — citada por 31 leyes
-7. **Ley Federal del Trabajo** — citada por 26 leyes
-8. **Ley General de Salud** — citada por 24 leyes
-9. **Ley Federal de Procedimiento Administrativo** — citada por 22 leyes
-10. **Ley Federal de Telecomunicaciones y Radiodifusión** — citada por 23 leyes
+1. **Constitución Política (CPEUM)** — citada por 316 de 318 leyes. Afecta en cascada a 317 leyes.
+2. **Ley Federal de Competencia Económica (LFCE)** — citada por 220 leyes, impacto en cascada: 230 leyes
+3. **Ley General de Sociedades Mercantiles (LGSM)** — citada por 205 leyes, impacto en cascada: 230 leyes
+4. **Ley de Petróleos Mexicanos (LPEMEX)** — citada por 169 leyes, impacto en cascada: 205 leyes
+5. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — citada por 119 leyes, impacto en cascada: 177 leyes
+6. **Ley General de Educación (LGE)** — citada por 109 leyes, impacto en cascada: 169 leyes
+7. **Ley Federal de Procedimiento Administrativo (LFPA)** — citada por 94 leyes, impacto en cascada: 111 leyes
+8. **Código Nacional de Procedimientos Penales (CNPP)** — citada por 103 leyes, impacto en cascada: 108 leyes
+9. **Ley Federal del Trabajo (LFT)** — citada por 97 leyes, impacto en cascada: 121 leyes
+10. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — citada por 83 leyes, impacto en cascada: 158 leyes
 
 ### 8 Comunidades Regulatorias
 
 | Comunidad | Leyes | Ley Central |
 |-----------|-------|-------------|
-| Competencia / Mercantil | 40 | Ley Federal de Competencia Económica |
-| Constitucional / General | 36 | Constitución |
-| Energía | 18 | Ley de Petróleos Mexicanos |
-| Financiero / Mercantil | 16 | Ley General de Sociedades Mercantiles |
-| Fiscal | 10 | Código Fiscal de la Federación |
-| Penal | 9 | Código Nacional de Procedimientos Penales |
-| Propiedad Intelectual | 5 | Ley Federal del Derecho de Autor |
-| Presupuesto | 1 | Presupuesto de Egresos 2025 |
+| Constitucional / General | 87 | Constitución Política (CPEUM) |
+| Competencia / Mercantil | 76 | Ley Federal de Competencia Económica |
+| Societario / Mercantil | 73 | Ley General de Sociedades Mercantiles |
+| Energía | 50 | Ley de Petróleos Mexicanos |
+| Financiero | 33 | Ley de Instituciones de Crédito |
+| Penal | 23 | Código Nacional de Procedimientos Penales |
+| Fiscal | 18 | Ley del Impuesto sobre la Renta |
+| Importación/Exportación | 1 | Ley de los Impuestos Generales de Importación y Exportación |
 
-### 13 Leyes Aisladas (posiblemente obsoletas o muy especializadas)
+### 1 Dependencia Circular
 
-Leyes con 2 o menos conexiones al resto de la red: Ley de Amnistía, Ley de Educación Naval, Ley de Juegos y Sorteos, entre otras.
+- **Ley Federal del Trabajo ↔ Ley del Seguro Social** — se referencian mutuamente.
 
-### 6 Conflictos de Definición
+### 38 Leyes Aisladas (posiblemente obsoletas o muy especializadas)
 
-Términos definidos de forma distinta en múltiples leyes:
-- **"comisión"** — definido en 3 leyes distintas
-- **"fondo"**, **"ley"**, **"ajustes razonables"**, **"constitución"**, **"cuenca hidrológica"** — definidos en 2 leyes cada uno
+Leyes con 2 o menos conexiones al resto de la red, entre ellas: Ley de Capitalización del PROCAMPO, Ley de Recompensas de la Armada, Ley para Conservar la Neutralidad del País, Ley de Educación Naval, entre otras.
+
+### 50 Conflictos de Definición
+
+Términos definidos de forma distinta en múltiples leyes (muestra):
+- **"secretaría"** — definido en 11 leyes distintas
+- **"ley"** — definido en 11 leyes distintas
+- **"comisión"** — definido en 10 leyes distintas
+- **"consejo"** — definido en 8 leyes distintas
+- **"dependencias"** y **"entidades"** — definidos en 6 leyes cada uno
 
 ---
 
@@ -98,18 +107,18 @@ El **Artículo 89** (facultades del Ejecutivo) es el más citado del sistema: 77
 
 ## Limitaciones Actuales
 
-- Solo se procesaron **87 de ~296 leyes** — faltan 84 archivos `.doc` por descargar (ver `data/missing_docs.txt`)
-- El **70.5% de las citas fueron resueltas** — el 29.5% restante no pudo mapearse a una ley conocida
+- El **71.3% de las citas fueron resueltas** — el 28.7% restante no pudo mapearse a una ley conocida (incluye referencias genéricas como "Reglamento de esta Ley" y "ley de la materia")
 - La extracción de citas es por patrones de texto (regex), no NLP — puede perder referencias complejas o anidadas
 - El análisis es **estático** — no captura la evolución histórica de las reformas
+- La alta centralidad de la LFCE y LPEMEX merece verificación manual — puede haber artefactos de los patrones regex
 
 ---
 
 ## Próximos Pasos Sugeridos
 
-1. Descargar los 84 archivos `.doc` faltantes y re-correr el pipeline completo
-2. Mejorar la resolución de entidades (actualmente 70.5%) para reducir citas sin resolver
-3. Explorar la red con las 296 leyes completas para validar las comunidades detectadas
+1. Verificar manualmente por qué la Ley Federal de Competencia Económica y Ley de PEMEX tienen centralidad tan alta
+2. Mejorar la clasificación de sectores (5 de 8 comunidades etiquetadas como "unknown")
+3. Mejorar la resolución de entidades (actualmente 71.3%) para reducir citas sin resolver
 4. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
 
 ---

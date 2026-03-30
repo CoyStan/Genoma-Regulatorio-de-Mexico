@@ -1,0 +1,34 @@
+{
+  "law_id": "ley-agraria",
+  "extracted_at": "2026-03-30T12:01:40.664271+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "ley-agraria",
+      "law_name": "LEY Agraria",
+      "article": "116",
+      "term": "tierras agrícolas",
+      "definition_text": "los suelos utilizados para el cultivo de vegetales.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-agraria",
+      "law_name": "LEY Agraria",
+      "article": "116",
+      "term": "tierras ganaderas",
+      "definition_text": "los suelos utilizados para la reproducción y cría de animales mediante el uso de su vegetación, sea ésta natural o inducida.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-agraria",
+      "law_name": "LEY Agraria",
+      "article": "116",
+      "term": "tierras forestales",
+      "definition_text": "los suelos utilizados para el manejo productivo de bosques o selvas.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

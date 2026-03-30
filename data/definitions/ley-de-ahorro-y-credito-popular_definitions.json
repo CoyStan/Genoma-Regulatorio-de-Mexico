@@ -1,0 +1,33 @@
+{
+  "law_id": "ley-de-ahorro-y-credito-popular",
+  "extracted_at": "2026-03-30T12:01:40.731029+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "ley-de-ahorro-y-credito-popular",
+      "law_name": "LEY de Ahorro y Crédito Popular",
+      "article": "3o",
+      "term": "comisión, a la comisión nacional bancaria y de valores",
+      "definition_text": "VI.\tFederación, en singular o plural, a las Federaciones autorizadas por la Comisión, para ejercer de manera auxiliar la supervisión de Sociedades Financieras Populares en los términos de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ahorro-y-credito-popular",
+      "law_name": "LEY de Ahorro y Crédito Popular",
+      "article": "3o",
+      "term": "secretaría, a la secretaría de hacienda y crédito público",
+      "definition_text": "XI.\tSociedad Financiera Popular, en plural o singular, a las sociedades anóni",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ahorro-y-credito-popular",
+      "law_name": "LEY de Ahorro y Crédito Popular",
+      "article": "126",
+      "term": "grave cuando se proporcione",
+      "definition_text": "la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

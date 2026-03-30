@@ -1,0 +1,133 @@
+{
+  "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+  "extracted_at": "2026-03-30T12:01:42.769828+00:00",
+  "total_definitions": 14,
+  "definitions": [
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "autoridades de educación media superior",
+      "definition_text": "a la instancia de la Secretaría de Educación Pública de la Administración Pública Federal encargada del ejercicio de la función social educativa en el tipo medio superior, los niveles que corresponda y su equivalente en las entidades federativas;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "autoridad educativa de las entidades federativas",
+      "definition_text": "al ejecutivo de cada uno de los Estados y de la Ciudad de México, así como a las entidades que, en su caso, establezcan para el ejercicio de la función social educativa;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "comisión",
+      "definition_text": "a la Comisión Nacional para la Mejora Continua de la Educación;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "criterios e indicadores",
+      "definition_text": "a las herramientas normativas que establecen lo que deben saber y ser capaces de hacer las maestras y los maestros para favorecer el aprendizaje y bienestar de los educandos. Se organizan en dominios y definen los referentes específicos de carácter cualitativo y cuantitativo para valorar la práctica profesional. Su formulación, uso y desarrollo permite a los docentes compartir significados, guiar su práctica y orientar los procesos de formación docente;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "escuela",
+      "definition_text": "a los espacios educativos donde se imparte el servicio público de educación y se construye el proceso de enseñanza aprendizaje comunitario entre alumnos y docentes, que cuenta con una estructura ocupacional autorizada por la autoridad educativa u organismo descentralizado. Es la base orgánica del Sistema Educativo Nacional;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "estructura ocupacional educativa",
+      "definition_text": "al número y tipos de puestos y categorías de trabajo requeridos para prestar el servicio público educativo, con base en el número de grupos y espacios educativos en el centro de trabajo, al alumnado inscrito y a los planes y programas de estudios, nivel y modalidad educativa correspondientes, la cual será definida de acuerdo con el contexto local y regional de la prestación del servicio educativo;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "incentivos",
+      "definition_text": "a los apoyos en cualquier modalidad, por el que se impulsa al personal del Sistema para la Carrera",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "autoridades de educación media superior",
+      "definition_text": "a la instancia de la Secretaría de Educación Pública de la Administración Pública Federal encargada del ejercicio de la función social educativa en el tipo medio superior, los niveles que corresponda y su equivalente en las entidades federativas;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "autoridad educativa de las entidades federativas",
+      "definition_text": "al ejecutivo de cada uno de los Estados y de la Ciudad de México, así como a las entidades que, en su caso, establezcan para el ejercicio de la función social educativa;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "comisión",
+      "definition_text": "a la Comisión Nacional para la Mejora Continua de la Educación;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "criterios e indicadores",
+      "definition_text": "a las herramientas normativas que establecen lo que deben saber y ser capaces de hacer las maestras y los maestros para favorecer el aprendizaje y bienestar de los educandos. Se organizan en dominios y definen los referentes específicos de carácter cualitativo y cuantitativo para valorar la práctica profesional. Su formulación, uso y desarrollo permite a los docentes compartir significados, guiar su práctica y orientar los procesos de formación docente;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "escuela",
+      "definition_text": "a los espacios educativos donde se imparte el servicio público de educación y se construye el proceso de enseñanza aprendizaje comunitario entre alumnos y docentes, que cuenta con una estructura ocupacional autorizada por la autoridad educativa u organismo descentralizado. Es la base orgánica del Sistema Educativo Nacional;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "estructura ocupacional educativa",
+      "definition_text": "al número y tipos de puestos y categorías de trabajo requeridos para prestar el servicio público educativo, con base en el número de grupos y espacios educativos en el centro de trabajo, al alumnado inscrito y a los planes y programas de estudios, nivel y modalidad educativa correspondientes, la cual será definida de acuerdo con el contexto local y regional de la prestación del servicio educativo;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "law_name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "article": "7",
+      "term": "incentivos",
+      "definition_text": "a los apoyos en cualquier modalidad, por el que se impulsa al personal del Sistema para la Carrera",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

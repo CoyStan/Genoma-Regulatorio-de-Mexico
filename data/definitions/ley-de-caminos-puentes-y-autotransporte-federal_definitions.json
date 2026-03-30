@@ -1,0 +1,79 @@
+{
+  "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+  "extracted_at": "2026-03-30T12:01:40.815859+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "caminos o carreteras",
+      "definition_text": "a) Los que entronquen con algún camino de país extranjero.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "los que comuniquen a dos o más estados de la federación",
+      "definition_text": "y\n\nc) Los que en su totalidad o en su mayor parte sean construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "carta de porte",
+      "definition_text": "Es el título legal del contrato entre el remitente y la empresa y por su contenido se decidirán las cuestiones que se susciten con motivo del transporte de las cosas; contendrá las menciones que exige el Código de la materia y surtirá los efectos que en él se determinen;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "derecho de vía",
+      "definition_text": "Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado de una vía general de comunicación, cuya anchura y dimensiones fija la Secretaría, la cual no podrá ser inferior a 20 metros a cada lado del eje del camino. Tratándose de carreteras de dos cuerpos, se medirá a partir del eje de cada uno de ellos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "paradores",
+      "definition_text": "instalaciones y construcciones adyacentes al derecho de vía de una carretera federal en las que se presten servicios de alojamiento, alimentación, servicios sanitarios, servicios a vehículos y comunicaciones, a las que se tiene acceso desde la carretera;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "puentes",
+      "definition_text": "a) Nacionales: Los construidos por la Federación; con fondos federales o mediante concesión o permiso federales por particulares, estados o municipios en los caminos federales, o vías generales de comunicación; o para salvar obstáculos topográficos sin conectar con caminos de un país vecino, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "internacionales",
+      "definition_text": "Los construidos por la Federación; con fondos federales o mediante concesión federal por particulares, estados o municipios sobre las corrientes o vías generales de comunicación que formen parte de las líneas divisorias internacionales.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "law_name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "article": "2o",
+      "term": "secretaría",
+      "definition_text": "La Secretaría de Infraestructura, Comunicaciones y Transportes;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "law_id": "ley-general-de-salud",
+  "extracted_at": "2026-03-30T12:01:42.630212+00:00",
+  "total_definitions": 34,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "34",
+      "term": "servicios públicos a la población en general",
+      "definition_text": "II. Servicios a derechohabientes de instituciones públicas de seguridad social o los que con sus propios recursos o por encargo del Poder Ejecutivo Federal, presten las mismas instituciones a otros grupos de usuarios;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "50",
+      "term": "usuario de servicios de salud",
+      "definition_text": "toda persona que requiera y obtenga los que presten los sectores público, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta Ley y demás disposiciones aplicables",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "185",
+      "term": "el consumo de bebidas alcohólicas en cualquier cantidad por menores de edad",
+      "definition_text": "II. El consumo en exceso de bebidas alcohólicas por mujeres embarazadas;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "185",
+      "term": "el consumo de bebidas alcohólicas en cualquier cantidad por menores de edad",
+      "definition_text": "II. El consumo en exceso de bebidas alcohólicas por mujeres embarazadas;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "215",
+      "term": "alimento",
+      "definition_text": "cualquier substancia o producto, sólido o semisólido, natural o transformado, que proporcione al organismo elementos para su nutrición;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "215",
+      "term": "bebida no alcohólica",
+      "definition_text": "cualquier líquido, natural o transformado, que proporcione al organismo elementos para su nutrición;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "215",
+      "term": "materia prima",
+      "definition_text": "Substancia o producto, de cualquier origen, que se use en la elaboración de alimentos y bebidas no alcohólicas y alcohólicas, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "215",
+      "term": "aditivo",
+      "definition_text": "Cualquier substancia permitida que, sin tener propiedades nutritivas, se incluya en la formulación de los productos y que actúe como estabilizante, conservador o modificador de sus características organolépticas, para favorecer ya sea su estabilidad, conservación, apariencia o aceptabilidad.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "215",
+      "term": "suplementos alimenticios",
+      "definition_text": "Productos a base de hierbas, extractos vegetales, alimentos tradicionales, deshidratados o concentrados de frutas, adicionados o no, de vitaminas o minerales, que se puedan presentar en forma farmacéutica y cuya finalidad de uso sea incrementar la ingesta dietética total, complementarla o suplir alguno de sus componentes.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "215",
+      "term": "etiquetado frontal de advertencia de alimentos y bebidas no alcohólicas",
+      "definition_text": "Sistema de información simplificada en el área frontal de exhibición del envase, el cual debe advertir de manera veraz, clara, rápida y simple sobre el contenido que exceda los niveles máximos de contenido energético, azúcares añadidos, grasas saturadas, grasas, sodio y los nutrimentos críticos, ingredientes y las demás que determine la Secretaría.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "215",
+      "term": "nutrimentos críticos",
+      "definition_text": "Aquellos componentes de la alimentación que pueden ser un factor de riesgo de las enfermedades crónicas no transmisibles, serán determinados por la Secretaría de Salud.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "221",
+      "term": "fármaco",
+      "definition_text": "Toda substancia natural, sintética o biotecnológica que tenga alguna actividad farmacológica y que se identifique por sus propiedades físicas, químicas o acciones biológicas, que no se presente en forma farmacéutica y que reúna condiciones para ser empleada como medicamento o ingrediente de un medicamento;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "221",
+      "term": "materia prima",
+      "definition_text": "substancia de cualquier origen que se use para la elaboración de medicamentos o fármacos naturales o sintéticos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "221",
+      "term": "aditivo",
+      "definition_text": "toda substancia que se incluya en la formulación de los medicamentos y que actúe como vehículo, conservador o modificador de alguna de sus características para favorecer su eficacia, seguridad, estabilidad, apariencia o aceptabilidad, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "221",
+      "term": "materiales",
+      "definition_text": "los insumos necesarios para el envase y empaque de los medicamentos.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "229",
+      "term": "toxoides, vacuna y preparaciones bacterianas de uso parenteral",
+      "definition_text": "II. Vacunas virales de uso oral o parenteral;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "229",
+      "term": "sueros y antitoxinas de origen animal",
+      "definition_text": "IV. Hemoderivados;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "229",
+      "term": "vacunas y preparaciones microbianas para uso oral",
+      "definition_text": "VI. Materiales biológicos para diagnóstico que se administran al paciente;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "229",
+      "term": "antibióticos",
+      "definition_text": "VIII. Hormonas macromoleculares y enzimas, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "257",
+      "term": "fábrica o laboratorio de medicamentos o productos biológicos para uso humano",
+      "definition_text": "III. Fábrica o laboratorio de remedios herbolarios;",
+      "raw_snippet": "para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "257",
+      "term": "droguería",
+      "definition_text": "El establecimiento que se dedica a la preparación y expendio de medicamentos magistrales y oficinales, además de la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos y otros insumos para la salud;",
+      "raw_snippet": "para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "257",
+      "term": "botica",
+      "definition_text": "El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos o demás insumos para la salud;",
+      "raw_snippet": "para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "257",
+      "term": "farmacia",
+      "definition_text": "El establecimiento que se dedica a la comercialización de especialidades farmacéuticas, incluyendo aquéllas que contengan estupefacientes y psicotrópicos, insumos para la salud en general, así como productos cosméticos, y productos de aseo;",
+      "raw_snippet": "para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "262",
+      "term": "equipo médico",
+      "definition_text": "los aparatos, accesorios e instrumental para uso específico, destinados a la atención médica, quirúrgica o a procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes, así como aquellos para efectuar actividades de investigación biomédica;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "262",
+      "term": "prótesis, órtesis y ayudas funcionales",
+      "definition_text": "aquellos dispositivos destinados a sustituir o complementar una función, un órgano o un tejido del cuerpo humano:",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "262",
+      "term": "agentes de diagnóstico",
+      "definition_text": "Todos los insumos incluyendo antígenos, anticuerpos, calibradores, verificadores, reactivos, equipos de reactivos, medios de cultivo y de contraste y cualquier otro similar que pueda utilizarse como auxiliar de otros procedimientos clínicos o paraclínicos.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "262",
+      "term": "insumos de uso odontológico",
+      "definition_text": "todas las substancias o materiales empleados para la atención de la salud dental, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "262",
+      "term": "materiales quirúrgicos y de curación",
+      "definition_text": "Los dispositivos o materiales que adicionados o no de antisépticos o germicidas se utilizan en la práctica quirúrgica o en el tratamiento de las soluciones de continuidad, lesiones de la piel o sus anexos, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "262",
+      "term": "productos higiénicos",
+      "definition_text": "Los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "269",
+      "term": "producto cosmético una sustancia o mezcla destinada",
+      "definition_text": "ser ingerida, inhalada, inyectada o implantada en el cuerpo humano",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "273",
+      "term": "jabones",
+      "definition_text": "II. Detergentes;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "273",
+      "term": "limpiadores",
+      "definition_text": "IV. Blanqueadores ;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "273",
+      "term": "almidones para uso externo",
+      "definition_text": "VI. Desmanchadores;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "law_name": "LEY General de Salud",
+      "article": "273",
+      "term": "desinfectantes",
+      "definition_text": "VIII. Desodorantes y aromatizantes ambientales, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

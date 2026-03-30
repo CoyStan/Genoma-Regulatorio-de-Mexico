@@ -1,6 +1,6 @@
 {
   "law_id": "ley-de-aeropuertos",
-  "extracted_at": "2026-03-29T23:31:48.234369+00:00",
+  "extracted_at": "2026-03-30T12:00:06.373114+00:00",
   "total_citations": 35,
   "citations": [
     {
@@ -523,5 +523,5 @@
       "char_offset": 3476
     }
   ],
-  "resolved_at": "2026-03-29T23:32:03.667647+00:00"
+  "resolved_at": "2026-03-30T12:00:26.180617+00:00"
 }

@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-general-de-archivos",
+  "extracted_at": "2026-03-30T12:01:42.244500+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-archivos",
+      "law_name": "LEY General de Archivos",
+      "article": "118",
+      "term": "grave el incumplimiento",
+      "definition_text": "las fracciones I, II, III, IV y V del artículo 116 de la Ley; asimismo las infracciones serán graves si son cometidas en contra de documentos que contengan información relacionada con graves violaciones a derechos humanos",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

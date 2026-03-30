@@ -1,0 +1,158 @@
+{
+  "law_id": "codigo-militar-de-procedimientos-penales",
+  "extracted_at": "2026-03-30T12:01:40.387888+00:00",
+  "total_definitions": 17,
+  "definitions": [
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "asesoría jurídica",
+      "definition_text": "La asesora o asesor jurídico de la víctima;",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "código",
+      "definition_text": "El Código Militar de Procedimientos Penales.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "constitución",
+      "definition_text": "La Constitución Política de los Estados Unidos Mexicanos.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "defensoría de oficio",
+      "definition_text": "La persona defensora de oficio Militar;",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "la persona titular de la fiscalía general de justicia militar",
+      "definition_text": "Titular del Ministerio Público Militar;",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "fiscalía",
+      "definition_text": "Fiscalía General de Justicia Militar.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "persona juzgadora de control",
+      "definition_text": "Jueza o Juez Militar de Control;",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "persona juzgadora de ejecución de sentencias",
+      "definition_text": "Jueza o Juez Militar de Ejecución de Sentencias;",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "ministerio público",
+      "definition_text": "El Ministerio Público Militar.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "órgano jurisdiccional militar",
+      "definition_text": "Los Jueces Militares; de Control, de Ejecución de Sentencias, Tribunal Militar de Juicio Oral y Tribunal Superior Militar.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "tribunal superior militar",
+      "definition_text": "Tribunal Militar de segunda instancia.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "tratados",
+      "definition_text": "Los Tratados Internacionales en los que el Estado mexicano sea parte.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "policía",
+      "definition_text": "Policía Ministerial Militar, Policía Militar, Policía Naval y la Guardia Nacional o Común, y",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "3",
+      "term": "víctima u ofendido",
+      "definition_text": "Serán considerados como tal, exclusivamente respecto de delitos de la competencia de la Jurisdicción Militar.",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "28",
+      "term": "se trate de concurso de delitos",
+      "definition_text": "II.\tSe investiguen delitos conexos;",
+      "raw_snippet": "Para los efectos de este Código,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "105",
+      "term": "ofendido",
+      "definition_text": "la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la ley penal como delito",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "law_name": "CÓDIGO Militar de Procedimientos Penales",
+      "article": "377",
+      "term": "documento",
+      "definition_text": "todo soporte material que contenga información sobre algún hecho",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+  "extracted_at": "2026-03-30T12:01:41.928993+00:00",
+  "total_definitions": 35,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "autobeneficio",
+      "definition_text": "bien, utilidad o provecho que obtengan los miembros de una organización de la sociedad o sus familiares hasta cuarto grado civil, mediante la utilización de los apoyos y estímulos públicos que le hayan sido otorgados para el cumplimiento de los fines de la organización;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "beneficio mutuo",
+      "definition_text": "bien, utilidad o provecho provenientes de apoyos y estímulos públicos que reciban, de manera conjunta, los miembros de una o varias organizaciones y los funcionarios públicos responsables y que deriven de la existencia o actividad de la misma;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "comisión",
+      "definition_text": "la Comisión de Fomento a las Actividades de las Organizaciones de la Sociedad Civil;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "consejo",
+      "definition_text": "el Consejo Técnico Consultivo;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "dependencias",
+      "definition_text": "unidades de la Administración Pública Federal Centralizada;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "entidades",
+      "definition_text": "los organismos, empresas y fideicomisos de la Administración Pública Federal Paraestatal;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "organizaciones",
+      "definition_text": "las personas morales a que se refiere el artículo 3 de esta ley;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "redes",
+      "definition_text": "agrupaciones de organizaciones que se apoyan entre sí, prestan servicios de apoyo a otras para el cumplimiento de su objeto social y fomentan la creación y asociación de organizaciones, y",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "registro",
+      "definition_text": "el Registro Federal de Organizaciones en el que se inscriban las organizaciones de la sociedad civil que sean objeto de fomento.",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "autobeneficio",
+      "definition_text": "bien, utilidad o provecho que obtengan los miembros de una organización de la sociedad o sus familiares hasta cuarto grado civil, mediante la utilización de los apoyos y estímulos públicos que le hayan sido otorgados para el cumplimiento de los fines de la organización;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "beneficio mutuo",
+      "definition_text": "bien, utilidad o provecho provenientes de apoyos y estímulos públicos que reciban, de manera conjunta, los miembros de una o varias organizaciones y los funcionarios públicos responsables y que deriven de la existencia o actividad de la misma;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "comisión",
+      "definition_text": "la Comisión de Fomento a las Actividades de las Organizaciones de la Sociedad Civil;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "consejo",
+      "definition_text": "el Consejo Técnico Consultivo;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "dependencias",
+      "definition_text": "unidades de la Administración Pública Federal Centralizada;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "entidades",
+      "definition_text": "los organismos, empresas y fideicomisos de la Administración Pública Federal Paraestatal;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "organizaciones",
+      "definition_text": "las personas morales a que se refiere el artículo 3 de esta ley;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "redes",
+      "definition_text": "agrupaciones de organizaciones que se apoyan entre sí, prestan servicios de apoyo a otras para el cumplimiento de su objeto social y fomentan la creación y asociación de organizaciones, y",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "2",
+      "term": "registro",
+      "definition_text": "el Registro Federal de Organizaciones en el que se inscriban las organizaciones de la sociedad civil que sean objeto de fomento.",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "apoyo a la alimentación popular",
+      "definition_text": "III. Cívicas, enfocadas a promover la participación ciudadana en asuntos de interés público;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "asistencia jurídica",
+      "definition_text": "V. Apoyo para el desarrollo de los pueblos y comunidades indígenas y afromexicanas;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "promoción de la equidad de género",
+      "definition_text": "VII. Aportación de servicios para la atención a grupos sociales con discapacidad;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "cooperación para el desarrollo comunitario en el entorno urbano o rural",
+      "definition_text": "Fracción reformada DOF 25-04-2012",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "apoyo en la defensa y promoción de los derechos humanos",
+      "definition_text": "X. Promoción del deporte;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "promoción y fomento educativo, cultural, artístico, científico y tecnológico",
+      "definition_text": "XIV. Fomento de acciones para mejorar la economía popular;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "participación en acciones de protección civil",
+      "definition_text": "XVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "promoción y defensa de los derechos de los consumidores",
+      "definition_text": "Fracción adicionada DOF 28-01-2011. Reformada DOF 25-04-2012",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "apoyo a la alimentación popular",
+      "definition_text": "III. Cívicas, enfocadas a promover la participación ciudadana en asuntos de interés público;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "asistencia jurídica",
+      "definition_text": "V. Apoyo para el desarrollo de los pueblos y comunidades indígenas y afromexicanas;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "promoción de la equidad de género",
+      "definition_text": "VII. Aportación de servicios para la atención a grupos sociales con discapacidad;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "cooperación para el desarrollo comunitario en el entorno urbano o rural",
+      "definition_text": "Fracción reformada DOF 25-04-2012",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "apoyo en la defensa y promoción de los derechos humanos",
+      "definition_text": "X. Promoción del deporte;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "promoción y fomento educativo, cultural, artístico, científico y tecnológico",
+      "definition_text": "XIV. Fomento de acciones para mejorar la economía popular;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "participación en acciones de protección civil",
+      "definition_text": "XVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley;",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "5",
+      "term": "promoción y defensa de los derechos de los consumidores",
+      "definition_text": "Fracción adicionada DOF 28-01-2011. Reformada DOF 25-04-2012",
+      "raw_snippet": "Para efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "law_name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "article": "6",
+      "term": "inscribirse en el registro",
+      "definition_text": "II. Participar, conforme a la Ley de Planeación y demás disposiciones jurídicas aplicables, como instancias de participación y consulta;",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

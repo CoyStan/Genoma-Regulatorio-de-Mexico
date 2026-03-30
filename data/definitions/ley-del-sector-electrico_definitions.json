@@ -1,0 +1,96 @@
+{
+  "law_id": "ley-del-sector-electrico",
+  "extracted_at": "2026-03-30T12:01:41.666769+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "accesibilidad",
+      "definition_text": "Principio que garantiza que no existan obstáculos, limitaciones o dificultades que impidan el acceso equitativo, continuo y oportuno del Suministro Eléctrico, asegurando su disponibilidad para todas las personas usuarias en condiciones justas y no discriminatorias;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "bases del mercado eléctrico",
+      "definition_text": "Disposiciones administrativas de carácter general que contienen los principios del diseño y operación del Mercado Eléctrico Mayorista, incluyendo los mecanismos de adquisición de energía y Productos Asociados del Mercado Eléctrico Mayorista a que se refiere esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "calidad",
+      "definition_text": "Grado en el que las características y condiciones del sector eléctrico y en particular del Suministro Eléctrico cumplen con los requerimientos técnicos determinados por la CNE, con el fin de asegurar el correcto desempeño e integridad de las instalaciones, los equipos y dispositivos de las Usuarias Finales y del Sistema Eléctrico Nacional;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "cenace",
+      "definition_text": "Centro Nacional de Control de Energía;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "central eléctrica",
+      "definition_text": "Instalaciones y equipos que, en un sitio determinado, permiten generar energía eléctrica y Productos Asociados;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "centro de carga",
+      "definition_text": "Instalaciones y equipos que, en un sitio determinado, permiten que una Usuaria Final reciba el Suministro Eléctrico. Los Centros de Carga se determinan en el punto de conexión de la energía suministrada;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "certificado de energías limpias",
+      "definition_text": "Título emitido por la CNE que acredita la producción de un monto determinado de energía eléctrica a partir de Energías Limpias, y que sirve para cumplir los requisitos asociados al consumo de los Centros de Carga;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "comercializadora",
+      "definition_text": "Persona física o moral titular de un contrato de Participante del Mercado, que tiene por objeto realizar las actividades de comercialización;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "3",
+      "term": "confiabilidad",
+      "definition_text": "Habilidad y capacidad del Sistema Eléctrico Nacional para satisfacer la demanda de energía eléctrica de las Usuarias Finales bajo condiciones de suficiencia, Seguridad de Despacho, conforme a lo",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "law_name": "LEY del Sector Eléctrico",
+      "article": "30",
+      "term": "autoconsumo",
+      "definition_text": "la producción de una Central Eléctrica con capacidad igual o mayor a 0.7 MW que es destinada para satisfacer las necesidades propias en sitio de la persona titular del permiso de generación vigente, en los términos establecidos en esta Ley",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

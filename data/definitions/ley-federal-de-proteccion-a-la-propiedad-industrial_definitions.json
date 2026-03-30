@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-federal-de-proteccion-a-la-propiedad-industrial",
+  "extracted_at": "2026-03-30T12:01:42.005305+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-proteccion-a-la-propiedad-industrial",
+      "law_name": "LEY Federal de Protección a la Propiedad Industrial",
+      "article": "201",
+      "term": "aviso comercial",
+      "definition_text": "las frases u oraciones que tengan por objeto anunciar al público establecimientos o negociaciones comerciales, industriales o de servicios, productos o servicios, para distinguirlos de otros de su misma especie o clase en el mercado",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

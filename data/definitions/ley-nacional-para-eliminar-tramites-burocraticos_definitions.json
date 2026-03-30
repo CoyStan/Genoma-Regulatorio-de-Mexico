@@ -1,0 +1,115 @@
+{
+  "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+  "extracted_at": "2026-03-30T12:01:42.904610+00:00",
+  "total_definitions": 12,
+  "definitions": [
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "agenda regulatoria",
+      "definition_text": "herramienta de planeación anual que tiene por objeto registrar las propuestas regulatorias que los Sujetos Obligados pretenden expedir;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "agenda de simplificación y digitalización",
+      "definition_text": "herramienta de planeación semestral que tiene por objeto fijar las metas de simplificación y digitalización de Trámites y Servicios a cargo de los Sujetos Obligados;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "análisis de impacto regulatorio",
+      "definition_text": "herramienta que tiene por objeto que las Regulaciones que se emitan generen el mayor beneficio posible para la sociedad, con el menor costo burocrático posible, y que sean la mejor alternativa para resolver un problema público;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "autoridades de simplificación y digitalización",
+      "definition_text": "la Autoridad Nacional y las Autoridades Estatales y Municipales;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "autoridad nacional de simplificación y digitalización",
+      "definition_text": "la Agencia de Transformación Digital y Telecomunicaciones;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "autoridad estatal de simplificación y digitalización",
+      "definition_text": "a la Autoridad responsable de implementar, supervisar y vigilar el cumplimiento de las disposiciones de esta Ley en la entidad federativa que corresponda;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "autoridad municipal de simplificación y digitalización",
+      "definition_text": "la Autoridad responsable de implementar, supervisar y vigilar el cumplimiento de las disposiciones de esta Ley en el Municipio o demarcación territorial que corresponda;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "autoridades locales",
+      "definition_text": "las Autoridades Estatales y Municipales;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "buenas prácticas regulatorias",
+      "definition_text": "a las reglas, procedimientos y herramientas para garantizar que las Regulaciones sean claras, sencillas, lógicas, coherentes y generen el menor costo burocrático;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "curp",
+      "definition_text": "la Clave Única de Registro de Población asignada por el Registro Nacional de Población, en términos de la Ley General de Población, como fuente única de identidad de las personas;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "costo burocrático",
+      "definition_text": "los costos económicos y sociales que las personas asumen para cumplir con las obligaciones que deriven de las Regulaciones;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "law_name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "article": "3",
+      "term": "digitalización",
+      "definition_text": "proceso que emplea tecnologías de la infor",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

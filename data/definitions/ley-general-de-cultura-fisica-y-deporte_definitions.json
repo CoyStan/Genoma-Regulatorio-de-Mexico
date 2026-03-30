@@ -1,0 +1,240 @@
+{
+  "law_id": "ley-general-de-cultura-fisica-y-deporte",
+  "extracted_at": "2026-03-30T12:01:42.306432+00:00",
+  "total_definitions": 26,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "ley",
+      "definition_text": "La Ley General de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "reglamento",
+      "definition_text": "El Reglamento de la Ley General de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "conade",
+      "definition_text": "La Comisión Nacional de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "com",
+      "definition_text": "El Comité Olímpico Mexicano, Asociación Civil;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "copame",
+      "definition_text": "El Comité Paralímpico Mexicano, Asociación Civil;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "caad",
+      "definition_text": "La Comisión de Apelación y Arbitraje del Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "conde",
+      "definition_text": "Los Consejos Nacionales del Deporte Estudiantil;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "sinade",
+      "definition_text": "El Sistema Nacional de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "renade",
+      "definition_text": "El Registro Nacional de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "sep",
+      "definition_text": "La Secretaría de Educación Pública;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "comisión especial",
+      "definition_text": "La Comisión Especial Contra la Violencia en el Deporte, y",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "coved",
+      "definition_text": "Consejo de Vigilancia Electoral Deportiva.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "ley",
+      "definition_text": "La Ley General de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "reglamento",
+      "definition_text": "El Reglamento de la Ley General de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "conade",
+      "definition_text": "La Comisión Nacional de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "com",
+      "definition_text": "El Comité Olímpico Mexicano, Asociación Civil;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "copame",
+      "definition_text": "El Comité Paralímpico Mexicano, Asociación Civil;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "caad",
+      "definition_text": "La Comisión de Apelación y Arbitraje del Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "conde",
+      "definition_text": "Los Consejos Nacionales del Deporte Estudiantil;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "sinade",
+      "definition_text": "El Sistema Nacional de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "renade",
+      "definition_text": "El Registro Nacional de Cultura Física y Deporte;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "sep",
+      "definition_text": "La Secretaría de Educación Pública;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "comisión especial",
+      "definition_text": "La Comisión Especial Contra la Violencia en el Deporte, y",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "4",
+      "term": "coved",
+      "definition_text": "Consejo de Vigilancia Electoral Deportiva.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "46",
+      "term": "equipos o clubes deportivos",
+      "definition_text": "II. Ligas deportivas;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "law_name": "LEY General de Cultura Física y Deporte",
+      "article": "154",
+      "term": "incitador",
+      "definition_text": "quién dolosamente determine a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

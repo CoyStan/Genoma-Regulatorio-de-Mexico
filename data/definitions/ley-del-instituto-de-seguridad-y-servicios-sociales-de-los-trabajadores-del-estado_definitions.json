@@ -1,0 +1,34 @@
+{
+  "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+  "extracted_at": "2026-03-30T12:01:41.579406+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "law_name": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+      "article": "6",
+      "term": "administradora, las administradoras de fondos para el retiro",
+      "definition_text": "II. Aportaciones, los enteros de recursos que cubran las Dependencias y Entidades en cumplimiento de las obligaciones que respecto de sus Trabajadores les impone esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "law_name": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+      "article": "6",
+      "term": "derechohabiente, a los trabajadores, pensionados y familiares derechohabientes",
+      "definition_text": "IX. Descuento, las deducciones ordenadas por el Instituto a las percepciones de los Trabajadores o Pensionados con motivo de las obligaciones contraídas por éstos, que deberán aplicar las Dependencias, Entidades o el propio Instituto, a través de sus nóminas de pago;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "law_name": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+      "article": "196",
+      "term": "servicios turísticos",
+      "definition_text": "III. Servicios funerarios;",
+      "raw_snippet": "Para los efectos del artículo anterior, el Instituto, de acuerdo con las posibilidades financieras d",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

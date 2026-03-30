@@ -1,0 +1,106 @@
+{
+  "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+  "extracted_at": "2026-03-30T12:01:42.795569+00:00",
+  "total_definitions": 11,
+  "definitions": [
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "acceso abierto",
+      "definition_text": "Elemento del derecho humano a la ciencia garantizado en la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado mexicano es parte;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "agenda nacional",
+      "definition_text": "Agenda Nacional en Materia de Humanidades, Ciencias, Tecnologías e Innovación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "asamblea del personal",
+      "definition_text": "Asamblea del Personal de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación de los Centros Públicos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "centros públicos",
+      "definition_text": "Centros Públicos de Investigación Humanística y Científica, Desarrollo Tecnológico e Innovación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "comunidad",
+      "definition_text": "Conjunto de comunidades académicas, humanísticas, científicas, tecnológicas y de innovación, incluyendo universidades, instituciones de educación superior y centros de investigación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "consejo nacional",
+      "definition_text": "Consejo Nacional de Humanidades, Ciencias y Tecnologías;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "demarcaciones",
+      "definition_text": "Demarcaciones territoriales de la Ciudad de México;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "derecho humano a la ciencia",
+      "definition_text": "Derecho reconocido en la fracción V del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales de los que el Estado mexicano es parte, que incluye a las humanidades, las ciencias, las tecnologías y la innovación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "economía social y solidaria",
+      "definition_text": "Actividad económica que realiza el sector social de la economía al que se refiere el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "ejes programáticos y de articulación",
+      "definition_text": "Ejes relativos a las políticas públicas en materia de humanidades, ciencias, tecnologías e innovación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "law_name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "article": "4",
+      "term": "ecosistema nacional informático",
+      "definition_text": "Espacios colaborativos y de acceso abierto que contribuyen al conocimiento local y regional para atender los problemas p",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

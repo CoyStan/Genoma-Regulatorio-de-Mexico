@@ -1,0 +1,88 @@
+{
+  "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+  "extracted_at": "2026-03-30T12:01:43.034814+00:00",
+  "total_definitions": 9,
+  "definitions": [
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "comisiones estatales de productividad",
+      "definition_text": "Las establecidas de conformidad con el artículo 153-Q de la Ley Federal del Trabajo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "comité",
+      "definition_text": "El Comité Nacional de Productividad, previsto en el artículo 153-K de la Ley Federal del Trabajo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "competitividad",
+      "definition_text": "El conjunto de condiciones necesarias para generar un mayor crecimiento económico, promoviendo la inversión y la generación de empleo, las cuales se sustentarán primordialmente en el incremento sostenido de la productividad total de los factores;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "dependencias",
+      "definition_text": "Las Secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados, la Consejería Jurídica del Ejecutivo Federal, y los órganos reguladores coordinados en materia energética;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "emprendedores",
+      "definition_text": "Las mujeres y los hombres con inquietudes empresariales, en proceso de crear, desarrollar o consolidar una micro, pequeña o mediana empresa a partir de una idea emprendedora o innovadora, promoviendo nuevas capacidades tecnológicas y organizacionales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "entidades",
+      "definition_text": "Los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos que de conformidad con la Ley Orgánica de la Administración Pública Federal sean considerados entidades paraestatales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "grandes empresas",
+      "definition_text": "Las empresas con el potencial de detonar la producción y el empleo, tanto de manera directa como a través de la integración de cadenas de valor en territorio nacional, la subcontratación de servicios y la compra de insumos de otras empresas, en particular de las MIPYMES;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "mipymes",
+      "definition_text": "Las micro, pequeñas y medianas empresas a que se refiere el artículo 3, fracción III de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, así como demás disposiciones aplicables;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "law_name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "article": "4",
+      "term": "núcleo productivo",
+      "definition_text": "Grupo de empresas asentadas en una misma zona geográfica y relacionadas a partir de la interconexión de los procesos productivos, de su organización, la tecnología y la innovación aplicada;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

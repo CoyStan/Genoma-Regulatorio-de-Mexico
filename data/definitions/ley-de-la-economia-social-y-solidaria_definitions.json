@@ -1,0 +1,34 @@
+{
+  "law_id": "ley-de-la-economia-social-y-solidaria",
+  "extracted_at": "2026-03-30T12:01:41.163387+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "ley-de-la-economia-social-y-solidaria",
+      "law_name": "LEY de la Economía Social y Solidaria",
+      "article": "5o",
+      "term": "secretaría, a la secretaría de bienestar",
+      "definition_text": "Fracción reformada DOF 30-12-2015, 29-12-2023",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-la-economia-social-y-solidaria",
+      "law_name": "LEY de la Economía Social y Solidaria",
+      "article": "5o",
+      "term": "instituto, al instituto nacional de la economía social",
+      "definition_text": "V. (Se deroga);",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-la-economia-social-y-solidaria",
+      "law_name": "LEY de la Economía Social y Solidaria",
+      "article": "5o",
+      "term": "programa, al programa de fomento a la economía social",
+      "definition_text": "X. (Se deroga);",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

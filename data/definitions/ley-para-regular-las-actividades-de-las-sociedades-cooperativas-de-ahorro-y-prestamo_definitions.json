@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+  "extracted_at": "2026-03-30T12:01:43.070987+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+      "law_name": "LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+      "article": "94",
+      "term": "grave cuando se proporcione",
+      "definition_text": "la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+  "extracted_at": "2026-03-30T12:01:42.449281+00:00",
+  "total_definitions": 12,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "accesibilidad",
+      "definition_text": "Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, la accesibilidad cognitiva y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "acciones afirmativas",
+      "definition_text": "Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "ajustes razonables",
+      "definition_text": "Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "atención médica prehospitalaria",
+      "definition_text": "Es la otorgada a las personas cuya condición clínica considera que pone en peligro la vida, un órgano o su función, con el fin de lograr la limitación del daño y su estabilización orgánico-funcional, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencia, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "auditorías de seguridad vial",
+      "definition_text": "Metodología aplicable a cualquier infraestructura vial para identificar, reconocer y corregir las deficiencias antes de que ocurran siniestros viales o cuando éstos ya están sucediendo. Las auditorías de seguridad vial buscan identificar riesgos de la vía con el fin de emitir recomendaciones que, al materializarse, contribuyan a la reducción de los riesgos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "autoridades",
+      "definition_text": "Autoridades de los tres órdenes de gobierno en materi",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "accesibilidad",
+      "definition_text": "Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, la accesibilidad cognitiva y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "acciones afirmativas",
+      "definition_text": "Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "ajustes razonables",
+      "definition_text": "Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "atención médica prehospitalaria",
+      "definition_text": "Es la otorgada a las personas cuya condición clínica considera que pone en peligro la vida, un órgano o su función, con el fin de lograr la limitación del daño y su estabilización orgánico-funcional, desde los primeros auxilios hasta la llegada y entrega a un establecimiento para la atención médica con servicio de urgencia, así como durante el traslado entre diferentes establecimientos a bordo de una ambulancia;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "auditorías de seguridad vial",
+      "definition_text": "Metodología aplicable a cualquier infraestructura vial para identificar, reconocer y corregir las deficiencias antes de que ocurran siniestros viales o cuando éstos ya están sucediendo. Las auditorías de seguridad vial buscan identificar riesgos de la vía con el fin de emitir recomendaciones que, al materializarse, contribuyan a la reducción de los riesgos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "law_name": "LEY General de Movilidad y Seguridad Vial",
+      "article": "3",
+      "term": "autoridades",
+      "definition_text": "Autoridades de los tres órdenes de gobierno en materi",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

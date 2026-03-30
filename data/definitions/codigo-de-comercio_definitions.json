@@ -1,0 +1,40 @@
+{
+  "law_id": "codigo-de-comercio",
+  "extracted_at": "2026-03-30T12:01:40.246524+00:00",
+  "total_definitions": 4,
+  "definitions": [
+    {
+      "law_id": "codigo-de-comercio",
+      "law_name": "CÓDIGO de Comercio",
+      "article": "89",
+      "term": "a ésta",
+      "definition_text": "una especie de la Firma Electrónica",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-de-comercio",
+      "law_name": "CÓDIGO de Comercio",
+      "article": "1041",
+      "term": "la prescripción",
+      "definition_text": "no interrumpida por la interpelación judicial, si el actor desistiese de ella o fuese desestimada su demanda",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-de-comercio",
+      "law_name": "CÓDIGO de Comercio",
+      "article": "1114",
+      "term": "tampoco se promoverán de oficio",
+      "definition_text": "pero el juez que se estime incompetente puede inhibirse del conocimiento del negocio en los términos del primer párrafo del Artículo siguiente.",
+      "raw_snippet": "se considerará sometido a ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "codigo-de-comercio",
+      "law_name": "CÓDIGO de Comercio",
+      "article": "1114",
+      "term": "sometido",
+      "definition_text": "la del Juez que lo emplazó y perderá todo derecho para intentarla, y\n\nV",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

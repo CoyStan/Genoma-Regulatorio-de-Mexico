@@ -1,0 +1,24 @@
+{
+  "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+  "extracted_at": "2026-03-30T12:01:40.438735+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "law_name": "CÓDIGO Nacional de Procedimientos Civiles y Familiares",
+      "article": "98",
+      "term": "sometida",
+      "definition_text": "la autoridad jurisdiccional que lo emplazó y perderá todo derecho para intentarla",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "law_name": "CÓDIGO Nacional de Procedimientos Civiles y Familiares",
+      "article": "792",
+      "term": "el que tuviere interés en el testamento",
+      "definition_text": "II.\tEl que hubiere recibido en él algún encargo del testador, y",
+      "raw_snippet": "para los efectos del artículo anterior:",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "law_id": "ley-del-impuesto-al-valor-agregado",
+  "extracted_at": "2026-03-30T12:01:41.444486+00:00",
+  "total_definitions": 9,
+  "definitions": [
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "10",
+      "term": "realizada en territorio nacional aún cuando al llevarse",
+      "definition_text": "cabo se encuentren materialmente fuera de dicho territorio y siempre que el enajenante sea residente en México o establecimiento en el país de residentes en el extranjero",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "27",
+      "term": "el valor en aduana",
+      "definition_text": "que se refiere la Ley Aduanera, adicionado del monto de las contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "29",
+      "term": "servicios de tecnologías de la información siguientes",
+      "definition_text": "1.\tDesarrollo, integración y mantenimiento de aplicaciones informáticas o de sistemas computacionales.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "41",
+      "term": "el albergue sin incluir",
+      "definition_text": "los alimentos y demás servicios relacionados con los mismos",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "43",
+      "term": "que la actividad se realiza en el local que sirva de base",
+      "definition_text": "la persona que proporcione dichos servicios",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "43",
+      "term": "equivalente",
+      "definition_text": "la diferencia entre el monto del impuesto establecido en este Ordenamiento y las cantidades que de acuerdo con el mismo pudieren ser acreditadas",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "43",
+      "term": "equivalente",
+      "definition_text": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "43",
+      "term": "el albergue sin incluir",
+      "definition_text": "los alimentos y demás servicios relacionados con los mismos",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "law_name": "LEY del Impuesto al Valor Agregado",
+      "article": "43",
+      "term": "el albergue sin incluir",
+      "definition_text": "los alimentos y demás servicios relacionados con los mismos",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

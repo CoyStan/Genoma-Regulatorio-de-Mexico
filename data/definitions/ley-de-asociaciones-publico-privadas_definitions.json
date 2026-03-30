@@ -1,0 +1,97 @@
+{
+  "law_id": "ley-de-asociaciones-publico-privadas",
+  "extracted_at": "2026-03-30T12:01:40.774686+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "asociación público-privada",
+      "definition_text": "Cualquier esquema de los descritos en los artículos 2 y 3 de esta Ley;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "autorizaciones para el desarrollo del proyecto",
+      "definition_text": "Autorizaciones para la ejecución de la obra, así como para la prestación de los servicios, de un proyecto de asociación público-privada;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "autorizaciones para la ejecución de la obra",
+      "definition_text": "Permisos, licencias, concesiones y demás autorizaciones que, en su caso, se requieran conforme a las disposiciones aplicables, para la ejecución de las obras de infraestructura de un proyecto de asociación público-privada;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "autorizaciones para la prestación de los servicios",
+      "definition_text": "Permisos, concesiones y demás autorizaciones que, en su caso, se requieran conforme a las disposiciones aplicables para el uso o explotación de bienes públicos o prestación de servicios por parte del desarrollador en un proyecto de asociación público-privada;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "compranet",
+      "definition_text": "El sistema electrónico de información público gubernamental sobre adquisiciones, arrendamientos y servicios del sector público federal, así como de obras públicas y servicios relacionados con las mismas, que lleva la Secretaría de la Función Pública;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "concursante",
+      "definition_text": "Persona que participa en algún concurso que tenga por objeto la adjudicación de un proyecto de asociación público-privada;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "convocante",
+      "definition_text": "Dependencia o entidad que convoque a un concurso para adjudicar un proyecto de asociación público-privada;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "dependencias",
+      "definition_text": "Las secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los órganos reguladores coordinados en materia energética;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "desarrollador",
+      "definition_text": "Sociedad mercantil mexicana, con objeto exclusivo de desarrollar un determinado proyecto de asociación público-privada, con quien se celebre el contrato respectivo y a quien se otorguen, en su caso, las autorizaciones para desarrollar el proyecto;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "law_name": "LEY de Asociaciones Público Privadas",
+      "article": "12",
+      "term": "entidades",
+      "definition_text": "Las entidades paraestatales de la Administración Pública Federal, los fideicomisos públicos fe",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

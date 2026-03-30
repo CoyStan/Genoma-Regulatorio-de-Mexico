@@ -1,0 +1,160 @@
+{
+  "law_id": "ley-general-para-el-control-del-tabaco",
+  "extracted_at": "2026-03-30T12:01:42.799181+00:00",
+  "total_definitions": 17,
+  "definitions": [
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "cigarrillo",
+      "definition_text": "Cigarro pequeño de picadura envuelta en un papel de fumar;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "cigarro o puro",
+      "definition_text": "Rollo de hojas de tabaco, que enciende por un extremo y se chupa o fuma por el opuesto;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "contenido",
+      "definition_text": "A la lista compuesta de ingredientes, así como los componentes diferentes del tabaco, como papel boquilla, tinta para impresión de marca, papel cigarro, filtro, envoltura de filtro y adhesivo de papel cigarro;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "denuncia ciudadana",
+      "definition_text": "Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "distribución",
+      "definition_text": "La acción de vender, ofrecer o exponer para la venta, dar, donar, regalar, intercambiar, transmitir, consignar, entregar, proveer o transferir la posesión de productos del tabaco para fines comerciales, u ofrecer hacerlo, ya sea a título oneroso o gratuito;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "elemento de la marca",
+      "definition_text": "El uso de razones sociales, nombres comerciales, marcas, emblemas, rúbricas o cualquier tipo de señalización visual o auditiva, que identifique a los productos del tabaco;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "emisión",
+      "definition_text": "Es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco p",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "cigarrillo",
+      "definition_text": "Cigarro pequeño de picadura envuelta en un papel de fumar;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "cigarro o puro",
+      "definition_text": "Rollo de hojas de tabaco, que enciende por un extremo y se chupa o fuma por el opuesto;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "contenido",
+      "definition_text": "A la lista compuesta de ingredientes, así como los componentes diferentes del tabaco, como papel boquilla, tinta para impresión de marca, papel cigarro, filtro, envoltura de filtro y adhesivo de papel cigarro;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "denuncia ciudadana",
+      "definition_text": "Notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "distribución",
+      "definition_text": "La acción de vender, ofrecer o exponer para la venta, dar, donar, regalar, intercambiar, transmitir, consignar, entregar, proveer o transferir la posesión de productos del tabaco para fines comerciales, u ofrecer hacerlo, ya sea a título oneroso o gratuito;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "elemento de la marca",
+      "definition_text": "El uso de razones sociales, nombres comerciales, marcas, emblemas, rúbricas o cualquier tipo de señalización visual o auditiva, que identifique a los productos del tabaco;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "emisión",
+      "definition_text": "Es la sustancia producida y liberada cuando un producto del tabaco esté encendido o calentado, comprende nicotina, alquitrán, monóxido de carbono, así como la composición química que forman parte del humo de tabaco. En el caso de productos del tabaco p",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "empaquetado y etiquetado externos",
+      "definition_text": "Expresión que se aplica a todo envasado y etiquetado utilizados en la venta al por menor del producto de tabaco;",
+      "raw_snippet": "se entiende como ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "espacio 100 por ciento libre de humo de tabaco y emisiones",
+      "definition_text": "Aquella área física con acceso al público, todo lugar de trabajo, de transporte público o espacio de concurrencia colectiva, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco o de nicotina;",
+      "raw_snippet": "se entiende como ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "law_name": "LEY General para el Control del Tabaco",
+      "article": "6",
+      "term": "humo de tabaco",
+      "definition_text": "Se refiere a las emisiones de los productos de tabaco originadas por encender o consumir cualquier producto del tabaco y que af",
+      "raw_snippet": "se entiende como ",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

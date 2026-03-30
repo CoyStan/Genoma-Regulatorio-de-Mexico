@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-de-ascensos-de-la-armada-de-mexico",
+  "extracted_at": "2026-03-30T12:01:40.754299+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-de-ascensos-de-la-armada-de-mexico",
+      "law_name": "LEY de Ascensos de la Armada de México",
+      "article": "20",
+      "term": "el grado que ostente",
+      "definition_text": "grado tope:\nPárrafo reformado DOF 27-08-2010, 17-12-2025\n\nI.- Haber sido convocado por tres veces al concurso de selección para ascenso y renunciar a ellos",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

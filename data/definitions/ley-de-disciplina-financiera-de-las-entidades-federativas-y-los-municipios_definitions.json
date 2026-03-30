@@ -1,0 +1,151 @@
+{
+  "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+  "extracted_at": "2026-03-30T12:01:40.905228+00:00",
+  "total_definitions": 16,
+  "definitions": [
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "asociaciones público-privadas",
+      "definition_text": "las previstas en la Ley de Asociaciones Público Privadas o en las leyes de las entidades federativas, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "balance presupuestario",
+      "definition_text": "la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "balance presupuestario de recursos disponibles",
+      "definition_text": "la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "criterios generales de política económica",
+      "definition_text": "el documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "deuda contingente",
+      "definition_text": "cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por las Entidades Federativas con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "deuda estatal garantizada",
+      "definition_text": "el Financiamiento de los Estados y Municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la presente Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "deuda pública",
+      "definition_text": "cualquier Financiamiento contratado por los Entes Públicos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "disciplina financiera",
+      "definition_text": "la observancia de los principios y las dispo",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "asociaciones público-privadas",
+      "definition_text": "las previstas en la Ley de Asociaciones Público Privadas o en las leyes de las entidades federativas, incluyendo los proyectos de prestación de servicios o cualquier esquema similar de carácter local, independientemente de la denominación que se utilice;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "balance presupuestario",
+      "definition_text": "la diferencia entre los Ingresos totales incluidos en la Ley de Ingresos, y los Gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "balance presupuestario de recursos disponibles",
+      "definition_text": "la diferencia entre los Ingresos de libre disposición, incluidos en la Ley de Ingresos, más el Financiamiento Neto y los Gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "criterios generales de política económica",
+      "definition_text": "el documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "deuda contingente",
+      "definition_text": "cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por las Entidades Federativas con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "deuda estatal garantizada",
+      "definition_text": "el Financiamiento de los Estados y Municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en el Capítulo IV del Título Tercero de la presente Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "deuda pública",
+      "definition_text": "cualquier Financiamiento contratado por los Entes Públicos;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "law_name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "article": "2",
+      "term": "disciplina financiera",
+      "definition_text": "la observancia de los principios y las dispo",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

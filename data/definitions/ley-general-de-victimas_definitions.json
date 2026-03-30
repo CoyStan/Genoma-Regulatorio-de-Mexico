@@ -1,0 +1,124 @@
+{
+  "law_id": "ley-general-de-victimas",
+  "extracted_at": "2026-03-30T12:01:42.705012+00:00",
+  "total_definitions": 13,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "asesor jurídico",
+      "definition_text": "Asesor Jurídico Federal de Atención a Víctimas adscritos a la Comisión Ejecutiva y sus equivalentes en las entidades federativas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "asesoría jurídica",
+      "definition_text": "Asesoría Jurídica Federal de Atención a Víctimas y sus equivalentes en las entidades federativas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "comisiones de víctimas",
+      "definition_text": "Comisiones Estatales de Atención Integral a Víctimas y de la Ciudad de México;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "comisión ejecutiva",
+      "definition_text": "Comisión Ejecutiva de Atención a Víctimas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "compensación",
+      "definition_text": "Erogación económica a que la víctima tenga derecho en los términos de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "delito",
+      "definition_text": "Acto u omisión que sancionan las leyes penales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "fondo estatal",
+      "definition_text": "El fondo de ayuda, asistencia y reparación integral en cada entidad federativa;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "6",
+      "term": "hecho victimizante",
+      "definition_text": "Actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delitos o constituir una violación a los derechos humanos reconocidos por la Constitución y los Tratados In",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "27",
+      "term": "la satisfacción busca reconocer y restablecer la dignidad de las víctimas",
+      "definition_text": "V. Las medidas de no repetición buscan que el hecho punible o la violación de derechos sufrida por la víctima no vuelva a ocurrir;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "110",
+      "term": "el juzgador penal, mediante sentencia ejecutoriada",
+      "definition_text": "II. El juzgador penal o de paz que tiene conocimiento de la causa;",
+      "raw_snippet": "para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "110",
+      "term": "los organismos públicos de protección de los derechos humanos",
+      "definition_text": "Fracción reformada DOF 03-01-2017",
+      "raw_snippet": "para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "110",
+      "term": "el juzgador penal, mediante sentencia ejecutoriada",
+      "definition_text": "II. El juzgador penal o de paz que tiene conocimiento de la causa;",
+      "raw_snippet": "para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "law_name": "LEY General de Víctimas",
+      "article": "110",
+      "term": "los organismos públicos de protección de los derechos humanos",
+      "definition_text": "Fracción reformada DOF 03-01-2017",
+      "raw_snippet": "para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

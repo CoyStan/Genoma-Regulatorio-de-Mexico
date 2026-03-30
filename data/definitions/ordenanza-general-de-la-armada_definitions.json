@@ -1,0 +1,15 @@
+{
+  "law_id": "ordenanza-general-de-la-armada",
+  "extracted_at": "2026-03-30T12:01:43.207938+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ordenanza-general-de-la-armada",
+      "law_name": "ORDENANZA General de la Armada",
+      "article": "1",
+      "term": "autorizado para atender",
+      "definition_text": "su curación",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

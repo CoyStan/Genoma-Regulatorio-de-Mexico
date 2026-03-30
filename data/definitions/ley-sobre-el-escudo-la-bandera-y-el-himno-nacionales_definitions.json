@@ -1,0 +1,97 @@
+{
+  "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+  "extracted_at": "2026-03-30T12:01:43.161318+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "autoridades",
+      "definition_text": "a los entes públicos que integran a los poderes Ejecutivo, Legislativo y Judicial de los tres órdenes de gobierno, así como los entes públicos que conforme a las disposiciones jurídicas de dichos órdenes de gobierno les confieren autonomía de éstos;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "instituciones",
+      "definition_text": "a las personas morales que no sean Autoridades;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "uso oficial",
+      "definition_text": "a la utilización de los Símbolos Patrios por las Autoridades;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "abanderamiento",
+      "definition_text": "a la entrega oficial de la Bandera Nacional a las Autoridades e Instituciones;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "autoridad encargada de abanderar",
+      "definition_text": "al representante del Poder Ejecutivo de la Federación, de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "autoridades",
+      "definition_text": "a los entes públicos que integran a los poderes Ejecutivo, Legislativo y Judicial de los tres órdenes de gobierno, así como los entes públicos que conforme a las disposiciones jurídicas de dichos órdenes de gobierno les confieren autonomía de éstos;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "instituciones",
+      "definition_text": "a las personas morales que no sean Autoridades;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "uso oficial",
+      "definition_text": "a la utilización de los Símbolos Patrios por las Autoridades;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "abanderamiento",
+      "definition_text": "a la entrega oficial de la Bandera Nacional a las Autoridades e Instituciones;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "law_name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "article": "1o",
+      "term": "autoridad encargada de abanderar",
+      "definition_text": "al representante del Poder Ejecutivo de la Federación, de las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

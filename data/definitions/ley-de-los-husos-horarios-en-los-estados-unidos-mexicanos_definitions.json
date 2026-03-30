@@ -1,0 +1,79 @@
+{
+  "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+  "extracted_at": "2026-03-30T12:01:41.212138+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona centro",
+      "definition_text": "Referida al meridiano 90 grados al oeste de Greenwich, que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en las fracciones II, III, IV y V de este artículo;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona pacífico",
+      "definition_text": "Referida al meridiano 105 grados al oeste de Greenwich, que comprende los territorios de los estados de Baja California Sur; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la zona centro; Sinaloa y Sonora;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona noroeste",
+      "definition_text": "Referida al meridiano 120 grados al oeste de Greenwich, que comprende el territorio del estado de Baja California;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona sureste",
+      "definition_text": "Referida al meridiano 75 grados al oeste de Greenwich, que comprende el territorio del estado de Quintana Roo, y",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona centro",
+      "definition_text": "Referida al meridiano 90 grados al oeste de Greenwich, que comprende la mayor parte del territorio nacional, con la salvedad de lo establecido en las fracciones II, III, IV y V de este artículo;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona pacífico",
+      "definition_text": "Referida al meridiano 105 grados al oeste de Greenwich, que comprende los territorios de los estados de Baja California Sur; Nayarit, con excepción del municipio de Bahía de Banderas, el cual se regirá conforme a la fracción anterior en lo relativo a la zona centro; Sinaloa y Sonora;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona noroeste",
+      "definition_text": "Referida al meridiano 120 grados al oeste de Greenwich, que comprende el territorio del estado de Baja California;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "law_name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "article": "3",
+      "term": "zona sureste",
+      "definition_text": "Referida al meridiano 75 grados al oeste de Greenwich, que comprende el territorio del estado de Quintana Roo, y",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

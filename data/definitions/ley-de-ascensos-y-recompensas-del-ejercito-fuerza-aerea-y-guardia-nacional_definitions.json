@@ -1,0 +1,124 @@
+{
+  "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+  "extracted_at": "2026-03-30T12:01:40.760372+00:00",
+  "total_definitions": 13,
+  "definitions": [
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "2",
+      "term": "secretaría, la secretaría de la defensa nacional",
+      "definition_text": "III.\tSecretario, la persona titular de la Secretaría;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "2",
+      "term": "ley orgánica, la ley orgánica del ejército y fuerza aérea mexicanos",
+      "definition_text": "VI.\tLey, la presente Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "2",
+      "term": "reglamento, el reglamento de la ley",
+      "definition_text": "VIII.\tAscenso, el acto de mando mediante el cual es conferido al militar un grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y la Ley de la Guardia Nacional;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "2",
+      "term": "secretaría, la secretaría de la defensa nacional",
+      "definition_text": "III.\tSecretario, la persona titular de la Secretaría;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "2",
+      "term": "ley orgánica, la ley orgánica del ejército y fuerza aérea mexicanos",
+      "definition_text": "VI.\tLey, la presente Ley;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "2",
+      "term": "reglamento, el reglamento de la ley",
+      "definition_text": "VIII.\tAscenso, el acto de mando mediante el cual es conferido al militar un grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y la Ley de la Guardia Nacional;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "33",
+      "term": "presidencia",
+      "definition_text": "Persona titular de la Subsecretaría de la Defensa Nacional;",
+      "raw_snippet": "Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la p",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "33",
+      "term": "primera vocalía",
+      "definition_text": "Persona titular de la Oficialía Mayor de la Secretaría;",
+      "raw_snippet": "Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la p",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "33",
+      "term": "segunda vocalía",
+      "definition_text": "Persona titular de la Inspección y Contraloría del Ejército, Fuerza Aérea y Guardia Nacional;",
+      "raw_snippet": "Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la p",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "33",
+      "term": "tercera vocalía",
+      "definition_text": "Persona titular de la Jefatura del Estado Mayor Conjunto de la Secretaría de la Defensa Nacional;",
+      "raw_snippet": "Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la p",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "33",
+      "term": "cuarta vocalía",
+      "definition_text": "Persona titular de la Comandancia del Ejército;",
+      "raw_snippet": "Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la p",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "33",
+      "term": "secretaría",
+      "definition_text": "Persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional, y",
+      "raw_snippet": "Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la p",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "33",
+      "term": "secretaría adjunta",
+      "definition_text": "Jefe de la Sección de Recursos Humanos del Estado Mayor Conjunto de la Defensa Nacional.",
+      "raw_snippet": "Para los efectos del artículo anterior, la Secretaría constituirá una comisión de evaluación de la p",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

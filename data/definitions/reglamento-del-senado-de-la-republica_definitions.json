@@ -1,0 +1,39 @@
+{
+  "law_id": "reglamento-del-senado-de-la-republica",
+  "extracted_at": "2026-03-30T12:01:43.276926+00:00",
+  "total_definitions": 4,
+  "definitions": [
+    {
+      "law_id": "reglamento-del-senado-de-la-republica",
+      "law_name": "REGLAMENTO del Senado de la República",
+      "article": "60",
+      "term": "inasistencia",
+      "definition_text": "una sesión cuando el senador no registra su asistencia conforme a lo señalado en el artículo 58 de este Reglamento",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "reglamento-del-senado-de-la-republica",
+      "law_name": "REGLAMENTO del Senado de la República",
+      "article": "123",
+      "term": "la pertenencia",
+      "definition_text": "comisiones especiales, bicamarales y comités",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "reglamento-del-senado-de-la-republica",
+      "law_name": "REGLAMENTO del Senado de la República",
+      "article": "146",
+      "term": "inasistencia",
+      "definition_text": "una reunión cuando el senador no registra su asistencia conforme a lo señalado en el párrafo anterior",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "reglamento-del-senado-de-la-republica",
+      "law_name": "REGLAMENTO del Senado de la República",
+      "article": "178",
+      "term": "como tal",
+      "definition_text": "la nombrada en primer término",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

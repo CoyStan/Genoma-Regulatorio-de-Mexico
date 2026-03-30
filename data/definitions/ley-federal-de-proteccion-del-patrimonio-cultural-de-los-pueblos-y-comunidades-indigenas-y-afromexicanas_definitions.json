@@ -1,0 +1,97 @@
+{
+  "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+  "extracted_at": "2026-03-30T12:01:42.034905+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "autorizado",
+      "definition_text": "tercero interesado, ya sea persona física o moral, que obtiene el consentimiento expreso de uno o más pueblos o comunidades para el uso, aprovechamiento o comercialización de algún elemento de su patrimonio cultural.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "autorizante",
+      "definition_text": "el o los pueblos o comunidades propietarias de los elementos de su patrimonio cultural, así como de las manifestaciones asociadas a las mismas, que autoriza expresamente a terceros interesados el uso, aprovechamiento o comercialización de tales elementos.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "consentimiento",
+      "definition_text": "es la manifestación de la voluntad libre, previa e informada de los pueblos y comunidades indígenas y afromexicanas respecto de medidas susceptibles de afectarles. Dichos pueblos y comunidades tienen en todo momento el derecho a otorgar o no su consentimiento, de conformidad con sus sistemas normativos.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "contrato de autorización",
+      "definition_text": "acuerdo de voluntades que celebran el pueblo o la comunidad indígena o afromexicana propietaria del patrimonio cultural a que se refiere esta Ley y un tercero, mediante una autorización expresa para su uso, aprovechamiento o comercialización, mediante una distribución justa y equitativa de beneficios.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "copropietarios",
+      "definition_text": "dos o más pueblos o comunidades indígenas o afromexicanas que, teniendo su propia identidad, comparten la propiedad colectiva de uno o más elementos de su patrimonio cultural.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "autorizado",
+      "definition_text": "tercero interesado, ya sea persona física o moral, que obtiene el consentimiento expreso de uno o más pueblos o comunidades para el uso, aprovechamiento o comercialización de algún elemento de su patrimonio cultural.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "autorizante",
+      "definition_text": "el o los pueblos o comunidades propietarias de los elementos de su patrimonio cultural, así como de las manifestaciones asociadas a las mismas, que autoriza expresamente a terceros interesados el uso, aprovechamiento o comercialización de tales elementos.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "consentimiento",
+      "definition_text": "es la manifestación de la voluntad libre, previa e informada de los pueblos y comunidades indígenas y afromexicanas respecto de medidas susceptibles de afectarles. Dichos pueblos y comunidades tienen en todo momento el derecho a otorgar o no su consentimiento, de conformidad con sus sistemas normativos.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "contrato de autorización",
+      "definition_text": "acuerdo de voluntades que celebran el pueblo o la comunidad indígena o afromexicana propietaria del patrimonio cultural a que se refiere esta Ley y un tercero, mediante una autorización expresa para su uso, aprovechamiento o comercialización, mediante una distribución justa y equitativa de beneficios.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "law_name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "article": "3",
+      "term": "copropietarios",
+      "definition_text": "dos o más pueblos o comunidades indígenas o afromexicanas que, teniendo su propia identidad, comparten la propiedad colectiva de uno o más elementos de su patrimonio cultural.",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

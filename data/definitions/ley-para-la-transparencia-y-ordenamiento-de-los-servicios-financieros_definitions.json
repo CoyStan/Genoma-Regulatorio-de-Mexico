@@ -1,0 +1,52 @@
+{
+  "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+  "extracted_at": "2026-03-30T12:01:43.052760+00:00",
+  "total_definitions": 5,
+  "definitions": [
+    {
+      "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+      "law_name": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "article": "3",
+      "term": "autoridades",
+      "definition_text": "a la Comisión Nacional Bancaria y de Valores, al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumidor;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+      "law_name": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "article": "3",
+      "term": "cámara de compensación",
+      "definition_text": "a la entidad central o mecanismo de procesamiento centralizado, a través del cual se intercambian instrucciones de pago u otras obligaciones financieras, relacionadas con cualquier Medio de Disposición;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+      "law_name": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "article": "3",
+      "term": "cliente",
+      "definition_text": "a la persona que celebra cualquier operación pasiva, activa o de servicios con una Entidad Financiera, recibe algún crédito, préstamo o financiamiento de alguna Entidad Comercial o utiliza los Medios de Disposición puestos a su disposición por cualquier Entidad;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+      "law_name": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "article": "3",
+      "term": "comisión",
+      "definition_text": "a cualquier cargo, independientemente de su denominación o modalidad diferente al Interés, que una Entidad cobre a un Cliente. Tratándose de Entidades Financieras, se considerarán los cargos que se realicen por operaciones pasivas, activas o de servicio, y tratándose de Entidades Comerciales se considerarán los cargos que se efectúen por las operaciones de crédito, préstamos o financiamientos. En todos los casos, se considerarán los cargos por el uso o aceptación de Medios de Disposición;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+      "law_name": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "article": "3",
+      "term": "contrato de adhesión",
+      "definition_text": "al documento elaborado unilateralmente por las Entidades para establecer en formatos uniformes los términos y condiciones aplicables a la celebración de las operaciones que lleven a cabo con sus Clientes. Tratándose de Entidades Financieras, se considerarán las operaciones pasivas, activas o de servicio, y tratándose de Entidades Comer",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

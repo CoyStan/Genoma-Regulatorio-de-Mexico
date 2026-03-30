@@ -1,0 +1,25 @@
+{
+  "law_id": "ley-general-de-educacion",
+  "extracted_at": "2026-03-30T12:01:42.356530+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-educacion",
+      "law_name": "LEY General de Educación",
+      "article": "4",
+      "term": "autoridad educativa municipal, al ayuntamiento de cada municipio",
+      "definition_text": "IV.\tAutoridades escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, y",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-educacion",
+      "law_name": "LEY General de Educación",
+      "article": "4",
+      "term": "autoridad educativa municipal, al ayuntamiento de cada municipio",
+      "definition_text": "IV.\tAutoridades escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, y",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

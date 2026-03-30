@@ -1,0 +1,25 @@
+{
+  "law_id": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
+  "extracted_at": "2026-03-30T12:01:40.910020+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "2",
+      "term": "ley, la ley de educación militar del ejército, fuerza aérea y guardia nacional",
+      "definition_text": "Fracción reformada DOF 16-07-2025",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "law_name": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+      "article": "48",
+      "term": "incumplir las obligaciones que les impongan los reglamentos de esta ley",
+      "definition_text": "II. Suspender las actividades académicas sin motivo justificado;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

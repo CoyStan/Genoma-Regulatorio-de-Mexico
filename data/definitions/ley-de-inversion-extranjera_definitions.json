@@ -1,0 +1,25 @@
+{
+  "law_id": "ley-de-inversion-extranjera",
+  "extracted_at": "2026-03-30T12:01:41.138833+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-de-inversion-extranjera",
+      "law_name": "LEY de Inversión Extranjera",
+      "article": "2o",
+      "term": "la realizada por sociedades mexicanas con mayoría de capital extranjero",
+      "definition_text": "y\n\nc) La participación de inversionistas extranjeros en las actividades y actos contemplados por esta Ley.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-inversion-extranjera",
+      "law_name": "LEY de Inversión Extranjera",
+      "article": "2o",
+      "term": "secretaría",
+      "definition_text": "la Secretaría de Economía;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

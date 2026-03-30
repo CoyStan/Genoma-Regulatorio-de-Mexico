@@ -1,0 +1,115 @@
+{
+  "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+  "extracted_at": "2026-03-30T12:01:40.676787+00:00",
+  "total_definitions": 12,
+  "definitions": [
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "cotizante",
+      "definition_text": "la persona física o moral que confirma su cotización en el procedimiento de adjudicación directa;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "dependencias",
+      "definition_text": "las señaladas en las fracciones I y II del artículo 1 de esta Ley;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "entidades",
+      "definition_text": "las mencionadas en las fracciones III y IV del artículo 1 de esta Ley;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "entidades federativas",
+      "definition_text": "los Estados de la Federación y la Ciudad de México, conforme al artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "hacienda",
+      "definition_text": "la Secretaría de Hacienda y Crédito Público;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "interpósita persona",
+      "definition_text": "aquella que actúe en nombre propio, pero en interés de otra u otras personas que se encuentren impedidas o inhabilitadas para participar en procedimientos de contratación regulados en la presente Ley;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "licitante",
+      "definition_text": "la persona que participe en cualquier procedimiento de licitación pública o de invitación a cuando menos tres personas;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "mipymes",
+      "definition_text": "Micro, pequeñas y medianas empresas;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "5",
+      "term": "ofertas subsecuentes de descuentos",
+      "definition_text": "la modalidad de contratación utilizada en las licitaciones públicas, invitación a cuando menos tres personas, adjudicaciones directas con estrategia de negociación o en las adjudicaciones derivadas de la suscripción de un acuerdo marco y en la investigación de mercado de la adjudicación directa, respecto de bienes muebles o servicios estandarizados, en la que los que intervienen en dichos procedimientos de contratación, concluido el acto de presentación y apertura de p",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "6",
+      "term": "las adquisiciones y los arrendamientos de bienes muebles",
+      "definition_text": "II.\tLas adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, que sean necesarios para la realización de las obras públicas por administración directa, o los que suministren las dependencias y entidades de acuerdo con lo pactado en los contratos de obras públicas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "6",
+      "term": "la reconstrucción y mantenimiento de bienes muebles",
+      "definition_text": "maquila; seguros; transportación de bienes muebles o personas, y contratación de servicios de limpieza y vigilancia;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "law_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "article": "6",
+      "term": "la contratación de consultorías, asesorías, estudios e investigaciones",
+      "definition_text": "VIII.\tLa contratación simultánea de bienes, su instalación y la prestación de servicios, con un mismo objeto, conforme a los lineamientos que, en su caso, emita la Secretaría, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

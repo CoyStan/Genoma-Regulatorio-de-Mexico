@@ -1,0 +1,16 @@
+{
+  "law_id": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
+  "extracted_at": "2026-03-30T12:01:43.027351+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
+      "law_name": "LEY Orgánica del Tribunal Federal de Justicia Administrativa",
+      "article": "23",
+      "term": "expedir las normas de carrera para los servidores públicos que corresponda",
+      "definition_text": "XII.\tAutorizar los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tr",
+      "raw_snippet": "para los efectos del artículo 16, fracción VI,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

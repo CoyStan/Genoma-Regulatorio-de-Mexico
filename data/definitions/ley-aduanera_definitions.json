@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-aduanera",
+  "extracted_at": "2026-03-30T12:01:40.655251+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-aduanera",
+      "law_name": "LEY Aduanera",
+      "article": "28",
+      "term": "perdida transcurridos treinta días",
+      "definition_text": "partir de la fecha en que se haya extraviado",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

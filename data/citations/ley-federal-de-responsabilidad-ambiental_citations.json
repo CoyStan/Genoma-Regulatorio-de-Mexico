@@ -1,6 +1,6 @@
 {
   "law_id": "ley-federal-de-responsabilidad-ambiental",
-  "extracted_at": "2026-03-29T23:31:49.191365+00:00",
+  "extracted_at": "2026-03-30T12:00:11.039482+00:00",
   "total_citations": 41,
   "citations": [
     {
@@ -601,5 +601,5 @@
       "char_offset": 1607
     }
   ],
-  "resolved_at": "2026-03-29T23:32:08.826033+00:00"
+  "resolved_at": "2026-03-30T12:00:41.675673+00:00"
 }

@@ -1,0 +1,43 @@
+{
+  "law_id": "ley-federal-de-proteccion-al-consumidor",
+  "extracted_at": "2026-03-30T12:01:42.027090+00:00",
+  "total_definitions": 4,
+  "definitions": [
+    {
+      "law_id": "ley-federal-de-proteccion-al-consumidor",
+      "law_name": "LEY Federal de Protección al Consumidor",
+      "article": "2",
+      "term": "consumidor",
+      "definition_text": "la persona física o moral que adquiere, realiza o disfruta como destinatario final bienes, productos o servicios. Se entiende también por consumidor a la persona física o moral que adquiera, almacene, utilice o consuma bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, únicamente para los casos a que se refieren los artículos 99 y 117 de esta ley.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-al-consumidor",
+      "law_name": "LEY Federal de Protección al Consumidor",
+      "article": "2",
+      "term": "proveedor",
+      "definition_text": "la persona física o moral en términos del Código Civil Federal, que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-al-consumidor",
+      "law_name": "LEY Federal de Protección al Consumidor",
+      "article": "2",
+      "term": "secretaría",
+      "definition_text": "la Secretaría de Economía, y",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-al-consumidor",
+      "law_name": "LEY Federal de Protección al Consumidor",
+      "article": "2",
+      "term": "procuraduría",
+      "definition_text": "la Procuraduría Federal del Consumidor.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

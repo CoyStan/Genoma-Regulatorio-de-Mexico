@@ -1,0 +1,168 @@
+{
+  "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+  "extracted_at": "2026-03-30T12:01:41.323257+00:00",
+  "total_definitions": 18,
+  "definitions": [
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "aeronave en situación de emergencia",
+      "definition_text": "Aeronave que informa o activa un código transponder para reportar fallas de comunicación, emergencias generales o interferencias ilícitas;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "aeronave interceptora",
+      "definition_text": "Aeronave de Estado que lleva a cabo la interceptación de otra aeronave;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "alertamiento aéreo",
+      "definition_text": "Comunicación que realiza el Centro para interceptar un vuelo no autorizado, un vuelo clandestino o una aeronave en situación de emergencia;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "aseguramiento",
+      "definition_text": "Acción que realiza la Guardia Nacional, las Fuerzas Armadas u otra autoridad, con apoyo del Centro, con el fin de impedir la movilización de una aeronave posada en tierra antes del despegue o inmediatamente después de su aterrizaje como parte de un vuelo clandestino, y solicitar la intervención de la autoridad competente;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "autoridad de control de interceptación",
+      "definition_text": "Centro Nacional de Vigilancia y Protección del Espacio Aéreo;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "centro",
+      "definition_text": "Centro Nacional de Vigilancia y Protección del Espacio Aéreo;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "consejo",
+      "definition_text": "Consejo Nacional de Vigilancia y Protección del Espacio Aéreo;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "detección",
+      "definition_text": "Descubrimiento, localización, por cualquier medio, de la presencia de una aeronave en un área determinada, sin vulnerar con ello los derechos fundamentales;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "espacio aéreo mexicano",
+      "definition_text": "El situado sobre territorio nacional, con la extensión y modalidades que establece el derecho internacional;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "identificación",
+      "definition_text": "Proceso mediante el cual se determina la identidad de una aeronave, a través de medios visuales o electrónicos, por correlación de planes de vuelo, por procedimientos establecidos o comunicación en tiempo real entre el Centro, la Agencia Federal de Aviación Civil y los Servicios a la Navegación en el Espacio Aéreo Mexicano;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "5",
+      "term": "interceptación aérea",
+      "definition_text": "Procedimiento para llevar una aeronave del Estado al encuentro con otra, con el propósito de identificarla, brindarle ayuda, vigilar su comportamiento, girar instrucciones a la tripulación para retornar a su ruta planeada o para aterrizar en un a",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "8",
+      "term": "no activar su código transponder o apagarlo durante el vuelo",
+      "definition_text": "II.\tCambiar de ruta sin motivo aparente;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "8",
+      "term": "no contar con información de plan de vuelo",
+      "definition_text": "VI.\tRegistrar cambios erráticos de velocidad, altura, rumbo o realizar maniobras inusuales;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "8",
+      "term": "no activar su código transponder o apagarlo durante el vuelo",
+      "definition_text": "II.\tCambiar de ruta sin motivo aparente;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "8",
+      "term": "no contar con información de plan de vuelo",
+      "definition_text": "VI.\tRegistrar cambios erráticos de velocidad, altura, rumbo o realizar maniobras inusuales;",
+      "raw_snippet": "Para efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "8",
+      "term": "no activar su código transponder o apagarlo durante el vuelo",
+      "definition_text": "II.\tCambiar de ruta sin motivo aparente;",
+      "raw_snippet": "se considera traza de interés a ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "8",
+      "term": "no contar con información de plan de vuelo",
+      "definition_text": "VI.\tRegistrar cambios erráticos de velocidad, altura, rumbo o realizar maniobras inusuales;",
+      "raw_snippet": "se considera traza de interés a ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "law_name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "article": "8",
+      "term": "traza de interés",
+      "definition_text": "la lectura del eco radar o avistamiento de una aeronave que realiza alguna de las siguientes conductas:\n\nI",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

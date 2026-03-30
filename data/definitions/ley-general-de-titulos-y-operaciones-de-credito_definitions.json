@@ -1,0 +1,23 @@
+{
+  "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
+  "extracted_at": "2026-03-30T12:01:42.669093+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
+      "law_name": "LEY General de Títulos y Operaciones de Crédito",
+      "article": "79",
+      "term": "pagadera",
+      "definition_text": "la vista, la letra de cambio cuyo vencimiento no esté indicado en el documento",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
+      "law_name": "LEY General de Títulos y Operaciones de Crédito",
+      "article": "171",
+      "term": "pagadero",
+      "definition_text": "la vista; si no indica el lugar de su pago, se tendrá como tal el del domicilio del que lo suscribe",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

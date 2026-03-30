@@ -1,0 +1,124 @@
+{
+  "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+  "extracted_at": "2026-03-30T12:01:40.809208+00:00",
+  "total_definitions": 13,
+  "definitions": [
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "estado",
+      "definition_text": "la sociedad mexicana que habita el territorio nacional y es regida por un gobierno conformado por los Poderes Ejecutivo, Legislativo y Judicial en un Estado de Derecho enmarcado por la Constitución General de la República y las Leyes que se derivan de ella.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "secretaría",
+      "definition_text": "la Secretaría de Economía.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "comerciantes",
+      "definition_text": "las personas físicas y morales con actividades empresariales que realicen actividades de comercio, servicios y turismo que se encuentren establecidos y sujetos a un régimen fiscal.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "industriales",
+      "definition_text": "las personas físicas y morales con actividades empresariales que realicen actividades industriales, extractivas, de transformación y sus servicios que se encuentren establecidos y sujetos a un régimen fiscal.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "cámaras",
+      "definition_text": "las Cámaras de Comercio, Servicios y Turismo que representan a Comerciantes y las Cámaras de Industria que representan a Industriales.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "confederación",
+      "definition_text": "la Confederación Nacional de Cámaras de Comercio, Servicios y Turismo y la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "circunscripción",
+      "definition_text": "el área geográfica autorizada para que opere una Cámara.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "giro",
+      "definition_text": "área o sector de la economía que por sus características se integran en un solo grupo de actividad productiva, de acuerdo con la clasificación oficial de actividades productivas vigente que recomiende el Instituto Nacional de Estadística, Geografía e Informática.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "ejercicio",
+      "definition_text": "el periodo comprendido entre el 1 de enero y el 31 de diciembre de un año.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "grupo promotor",
+      "definition_text": "el conjunto de Comerciantes o Industriales que, de acuerdo a lo que señala la presente Ley, se organizan para constituir una Cámara.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "siem",
+      "definition_text": "Sistema de Información Empresarial Mexicano.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "clasificador",
+      "definition_text": "el sistema de clasificación industrial que recomiende el Instituto Nacional de Estadística, Geografía e Informática.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "law_name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "article": "2",
+      "term": "salario mínimo",
+      "definition_text": "el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

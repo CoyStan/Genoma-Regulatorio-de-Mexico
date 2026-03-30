@@ -1,0 +1,97 @@
+{
+  "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+  "extracted_at": "2026-03-30T12:01:41.291890+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "contratista",
+      "definition_text": "la persona que celebre contratos de obras públicas o de servicios relacionados con las mismas;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "cotizante",
+      "definition_text": "la persona física o moral que presenta su cotización en el procedimiento de adjudicación directa;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "dependencias",
+      "definition_text": "las señaladas en las fracciones I y II del artículo 1 de esta Ley;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "entidades",
+      "definition_text": "las mencionadas en las fracciones IV y V del artículo 1 de esta Ley;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "entidades federativas",
+      "definition_text": "los Estados de la Federación y la Ciudad de México, conforme al artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "hacienda",
+      "definition_text": "la Secretaría de Hacienda y Crédito Público;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "ingeniería básica",
+      "definition_text": "los documentos que contienen los elementos que definen la obra de manera general, así como la información relevante del proyecto, en los cuales se incluirán las normas de calidad aplicables, considerando las características del territorio nacional en el cual se ejecutarán los trabajos;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "2",
+      "term": "interpósita persona",
+      "definition_text": "aquella que actúe en nombre propio, pero en interés de otro u otras personas que se encuentren impedidas o inhabilitadas para participar en procedimientos de contratación regulados en la presente Ley;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "3",
+      "term": "los trabajos de infraestructura agropecuaria",
+      "definition_text": "VII.\tLa instalación, montaje, colocación o aplicación, incluyendo las pruebas de operación de bienes muebles que deban incorporarse, adherirse o",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "law_name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "article": "4",
+      "term": "los trabajos de gerencia de proyecto",
+      "definition_text": "de coordinac",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

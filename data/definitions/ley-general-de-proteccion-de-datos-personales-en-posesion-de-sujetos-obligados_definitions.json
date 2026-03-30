@@ -1,0 +1,16 @@
+{
+  "law_id": "ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados",
+  "extracted_at": "2026-03-30T12:01:42.528584+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados",
+      "law_name": "LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+      "article": "5",
+      "term": "los directorios telefónicos en términos de la normativa específica",
+      "definition_text": "III.\tLos diarios, gacetas o boletines oficiales, de acuerdo con las disposiciones jurídicas correspondientes;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

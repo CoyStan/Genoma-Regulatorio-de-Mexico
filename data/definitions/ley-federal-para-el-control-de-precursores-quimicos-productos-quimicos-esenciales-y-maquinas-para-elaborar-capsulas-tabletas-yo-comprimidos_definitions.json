@@ -1,0 +1,25 @@
+{
+  "law_id": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
+  "extracted_at": "2026-03-30T12:01:42.178448+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
+      "law_name": "LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para \r\n\t\t\t\tElaborar Cápsulas, Tabletas y/o Comprimidos",
+      "article": "13",
+      "term": "de personas morales",
+      "definition_text": "la documentación que acredite que se encuentran legalmente constituidas, que contenga su objeto social, domicilio, nombre de las personas socias a la fecha de la realización de la actividad regulada y que su representante legal cuenta con facultades para la celebración del acto;",
+      "raw_snippet": "Para los efectos del artículo anterior, las personas físicas o morales deben recabar, de aquéllas co",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
+      "law_name": "LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para \r\n\t\t\t\tElaborar Cápsulas, Tabletas y/o Comprimidos",
+      "article": "13",
+      "term": "de personas físicas o morales que no tengan domicilio en territorio nacional",
+      "definition_text": "la documentación certificada por el o la funcionaria del país de origen y su legalización o apostilla con la que acredite su objeto social, su domicilio, nombre de las personas socias y que se encuentran autorizadas o registradas por las autoridades competentes de su país para efectuar la operación de que se trate, y",
+      "raw_snippet": "Para los efectos del artículo anterior, las personas físicas o morales deben recabar, de aquéllas co",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "law_id": "ley-general-de-partidos-politicos",
+  "extracted_at": "2026-03-30T12:01:42.492653+00:00",
+  "total_definitions": 11,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "afiliado o militante",
+      "definition_text": "El ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido en su normatividad interna, independientemente de su denominación, actividad y grado de participación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "autoridades jurisdiccionales locales",
+      "definition_text": "Las autoridades jurisdiccionales en materia electoral de las entidades federativas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "consejo general",
+      "definition_text": "El Consejo General del Instituto Nacional Electoral;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "constitución",
+      "definition_text": "La Constitución Política de los Estados Unidos Mexicanos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "instituto",
+      "definition_text": "El Instituto Nacional Electoral;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "ley",
+      "definition_text": "La Ley General de Partidos Políticos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "ley general de acceso",
+      "definition_text": "La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "ley general",
+      "definition_text": "La Ley General de Instituciones y Procedimientos Electorales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "organismos públicos locales",
+      "definition_text": "Los organismos públicos electorales de las entidades federativas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "partidos políticos",
+      "definition_text": "Los partidos políticos nacionales y locales, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "law_name": "LEY General de Partidos Políticos",
+      "article": "4",
+      "term": "tribunal",
+      "definition_text": "El Tribunal Electoral del Poder Judicial de la Federación.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

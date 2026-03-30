@@ -1,0 +1,33 @@
+{
+  "law_id": "ley-de-instituciones-de-seguros-y-de-fianzas",
+  "extracted_at": "2026-03-30T12:01:41.129787+00:00",
+  "total_definitions": 3,
+  "definitions": [
+    {
+      "law_id": "ley-de-instituciones-de-seguros-y-de-fianzas",
+      "law_name": "LEY de Instituciones de Seguros y de Fianzas",
+      "article": "2",
+      "term": "comisión, la comisión nacional de seguros y fianzas",
+      "definition_text": "VII.\tConsorcio, el conjunto de personas morales vinculadas entre sí por una o más personas que, integrando un Grupo de Personas, tengan el Control de las primeras;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-instituciones-de-seguros-y-de-fianzas",
+      "law_name": "LEY de Instituciones de Seguros y de Fianzas",
+      "article": "2",
+      "term": "comisión, la comisión nacional de seguros y fianzas",
+      "definition_text": "VII.\tConsorcio, el conjunto de personas morales vinculadas entre sí por una o más personas que, integrando un Grupo de Personas, tengan el Control de las primeras;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-instituciones-de-seguros-y-de-fianzas",
+      "law_name": "LEY de Instituciones de Seguros y de Fianzas",
+      "article": "118",
+      "term": "que están vinculados",
+      "definition_text": "las actividades propias de las Instituciones de Seguros, los fideicomisos de administración en que se afecten recursos relacionados con el pago de primas por los contratos de seguros que se celebren",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

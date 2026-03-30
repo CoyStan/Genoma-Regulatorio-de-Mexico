@@ -1,0 +1,106 @@
+{
+  "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+  "extracted_at": "2026-03-30T12:01:42.907360+00:00",
+  "total_definitions": 11,
+  "definitions": [
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "agente",
+      "definition_text": "servidor público integrante de las instituciones de seguridad que, con motivo de su empleo, cargo o comisión, hace uso de la fuerza. Se considerará agente al elemento de la Fuerza Armada permanente cuando actúe en tareas de seguridad pública, así como a las personas que presten servicios de seguridad privada en términos de la ley, cuando colaboren en tareas de seguridad pública;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "armas de fuego",
+      "definition_text": "las autorizadas para el uso de los miembros de las instituciones de seguridad, de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "armas menos letales",
+      "definition_text": "aquellas a través de las cuales se disminuyen las funciones corporales de un individuo, reduciendo al mínimo el riesgo de causarle lesiones que pongan en peligro su vida;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "armas letales",
+      "definition_text": "las que por su diseño y mecanismo ocasionan o pueden ocasionar lesiones graves y la muerte;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "control",
+      "definition_text": "la acción que ejercen los integrantes de las instituciones de seguridad sobre una o varias personas para su contención;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "detención",
+      "definition_text": "la restricción de la libertad de una persona por las instituciones de seguridad, con el fin de ponerla a disposición de la autoridad competente;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "instituciones de seguridad pública",
+      "definition_text": "las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias o entidades encargadas de la seguridad pública de orden federal, local o municipal, las cuales también podrán ser referidas en esta Ley como instituciones de seguridad;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "estructuras corporales",
+      "definition_text": "las partes anatómicas del cuerpo, tales como los órganos, las extremidades y sus componentes;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "funciones corporales",
+      "definition_text": "las funciones fisiológicas de los sistemas corporales tales como el sistema respiratorio, el sistema cardiovascular, el sistema músculo-esquelético, entre otros;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "lesión",
+      "definition_text": "el daño producido por una causa externa que deja huella material en el cuerpo humano;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "law_name": "LEY Nacional sobre el Uso de la Fuerza",
+      "article": "3",
+      "term": "lesión grave",
+      "definition_text": "el daño producido por una causa externa que ponga en peligro",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

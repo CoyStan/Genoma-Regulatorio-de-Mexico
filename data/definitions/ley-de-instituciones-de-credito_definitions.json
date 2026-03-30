@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-de-instituciones-de-credito",
+  "extracted_at": "2026-03-30T12:01:41.078861+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-de-instituciones-de-credito",
+      "law_name": "LEY de Instituciones de Crédito",
+      "article": "108",
+      "term": "grave cuando se proporcione",
+      "definition_text": "la Comisión Nacional Bancaria y de Valores información falsa o que dolosamente induzca al error, por ocultamiento u omisión",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

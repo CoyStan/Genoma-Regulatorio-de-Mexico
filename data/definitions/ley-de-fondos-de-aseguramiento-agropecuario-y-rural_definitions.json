@@ -1,0 +1,16 @@
+{
+  "law_id": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
+  "extracted_at": "2026-03-30T12:01:40.939752+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
+      "law_name": "LEY de Fondos de Aseguramiento Agropecuario y Rural",
+      "article": "2o",
+      "term": "secretaría, a la secretaría de hacienda y crédito público",
+      "definition_text": "II. Comisión, a la Comisión Nacional de Seguros y Fianzas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

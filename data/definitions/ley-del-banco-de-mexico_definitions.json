@@ -1,0 +1,25 @@
+{
+  "law_id": "ley-del-banco-de-mexico",
+  "extracted_at": "2026-03-30T12:01:41.415893+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-del-banco-de-mexico",
+      "law_name": "LEY del Banco de México",
+      "article": "20",
+      "term": "los billetes y monedas metálicas extranjeros",
+      "definition_text": "II. Los depósitos, títulos, valores y demás obligaciones pagaderos fuera del territorio nacional, considerados de primer orden en los mercados internacionales, denominados en moneda extranjera y a cargo de gobiernos de países distintos de México, de organismos financieros internacionales o de entidades del exterior, siempre que sean exigibles a plazo no mayor de seis meses o de amplia liquidez;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-banco-de-mexico",
+      "law_name": "LEY del Banco de México",
+      "article": "20",
+      "term": "los billetes y monedas metálicas extranjeros",
+      "definition_text": "II. Los depósitos, títulos, valores y demás obligaciones pagaderos fuera del territorio nacional, considerados de primer orden en los mercados internacionales, denominados en moneda extranjera y a cargo de gobiernos de países distintos de México, de organismos financieros internacionales o de entidades del exterior, siempre que sean exigibles a plazo no mayor de seis meses o de amplia liquidez;",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

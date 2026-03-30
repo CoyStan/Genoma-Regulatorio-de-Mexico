@@ -1,0 +1,67 @@
+{
+  "law_id": "ley-federal-del-trabajo",
+  "extracted_at": "2026-03-30T12:01:42.174582+00:00",
+  "total_definitions": 7,
+  "definitions": [
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "law_name": "LEY Federal del Trabajo",
+      "article": "385",
+      "term": "copia autorizada del acta de la asamblea constitutiva",
+      "definition_text": "II. Una lista con la denominación y domicilio de sus miembros;",
+      "raw_snippet": "Para los efectos del artículo anterior, las federaciones y confederaciones remitirán por duplicado:",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "law_name": "LEY Federal del Trabajo",
+      "article": "385",
+      "term": "copia autorizada de los estatutos",
+      "definition_text": "y\n\nIV. Copia autorizada del acta de la asamblea en que se haya elegido la directiva.",
+      "raw_snippet": "Para los efectos del artículo anterior, las federaciones y confederaciones remitirán por duplicado:",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "law_name": "LEY Federal del Trabajo",
+      "article": "486",
+      "term": "esa cantidad",
+      "definition_text": "salario máximo",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "law_name": "LEY Federal del Trabajo",
+      "article": "729",
+      "term": "expulsión del local del tribunal",
+      "definition_text": "la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública.",
+      "raw_snippet": "se considera trabajadores a ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "law_name": "LEY Federal del Trabajo",
+      "article": "729",
+      "term": "trabajadores",
+      "definition_text": "los apoderados, y\nFracción reformada DOF 30-11-2012, 01-05-2019\n\nIII",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "law_name": "LEY Federal del Trabajo",
+      "article": "731",
+      "term": "presentación de la persona con auxilio de la fuerza pública",
+      "definition_text": "y\n\nIII. Arresto hasta por treinta y seis horas.",
+      "raw_snippet": "se considerará trabajadores a ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "law_name": "LEY Federal del Trabajo",
+      "article": "731",
+      "term": "trabajadores",
+      "definition_text": "los apoderados ni a los funcionarios públicos que incumplan o sean omisos con un requerimiento u orden judicial",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "law_id": "ley-general-de-responsabilidades-administrativas",
+  "extracted_at": "2026-03-30T12:01:42.541707+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-responsabilidades-administrativas",
+      "law_name": "LEY General de Responsabilidades Administrativas",
+      "article": "25",
+      "term": "una política de integridad",
+      "definition_text": "que cuenta con, al menos, los siguientes elementos:\n\nI",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

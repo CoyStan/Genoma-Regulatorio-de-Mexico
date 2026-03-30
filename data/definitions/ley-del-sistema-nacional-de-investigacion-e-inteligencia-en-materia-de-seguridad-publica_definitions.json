@@ -1,0 +1,79 @@
+{
+  "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+  "extracted_at": "2026-03-30T12:01:41.744970+00:00",
+  "total_definitions": 8,
+  "definitions": [
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "cni",
+      "definition_text": "el Centro Nacional de Inteligencia, adscrito a la Secretaría;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "consejo nacional",
+      "definition_text": "el Consejo Nacional de Inteligencia en Seguridad Pública;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "enlace",
+      "definition_text": "la persona servidora pública designada por cada una de las instituciones a las que se encuentre interconectada la Plataforma, para efectos de su operación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "interconexión",
+      "definition_text": "el mecanismo para la consulta directa a la información contenida en los sistemas tecnológicos, las bases de datos, los registros e información que posean los entes públicos y particulares, a través de la Plataforma, en apego a la normativa aplicable en materia de protección de datos personales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "ley",
+      "definition_text": "la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "plataforma",
+      "definition_text": "la Plataforma Central de Inteligencia;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "productos de inteligencia",
+      "definition_text": "los documentos que resultan del análisis de la información que permiten identificar, prevenir o combatir las conductas delictivas, amenazas, riesgos o vulnerabilidades que afecten o puedan afectar la seguridad pública, de conformidad con el artículo 32 de la presente Ley, logrando con ello la paz social;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "law_name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "article": "2",
+      "term": "secretaría",
+      "definition_text": "la Secretaría de Seguridad y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

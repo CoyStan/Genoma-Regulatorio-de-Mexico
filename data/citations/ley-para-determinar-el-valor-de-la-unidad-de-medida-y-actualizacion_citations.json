@@ -1,0 +1,35 @@
+{
+  "law_id": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
+  "extracted_at": "2026-03-30T12:00:14.470801+00:00",
+  "total_citations": 2,
+  "citations": [
+    {
+      "source_law": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
+      "source_article": "2",
+      "target_law_raw": "Ley del Sistema Nacional de Información Estadística y Geográfica",
+      "target_law_id": "ley-sistemas-pagos",
+      "target_article": null,
+      "citation_text": "os al Consumidor: El que elabora el Instituto Nacional de Estadística y Geografía conforme a lo previsto en el artículo 59, fracción III, inciso a de la Ley del Sistema Nacional de Información Estadística y Geográfica;  II. INEGI: Al Instituto Nacional de Estadística y Geografía; y  III. UMA: A la Unidad de Medida y Actualización que se utiliza como unidad de cuent",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 257,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley del sistema de pagos"
+    },
+    {
+      "source_law": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
+      "source_article": "5",
+      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
+      "target_article": "89",
+      "citation_text": "p. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veint",
+      "pattern_name": "constitucion_full",
+      "pattern_group": "constitutional",
+      "confidence": "high",
+      "char_offset": 1189
+    }
+  ],
+  "resolved_at": "2026-03-30T12:00:49.709380+00:00"
+}

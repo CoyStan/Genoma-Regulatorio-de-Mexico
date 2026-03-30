@@ -1,0 +1,16 @@
+{
+  "law_id": "ley-de-concursos-mercantiles",
+  "extracted_at": "2026-03-30T12:01:40.845632+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-de-concursos-mercantiles",
+      "law_name": "LEY de Concursos Mercantiles",
+      "article": "10",
+      "term": "el efectivo en caja y los depósitos a la vista",
+      "definition_text": "b) Los depósitos e inversiones a plazo cuyo vencimiento no sea superior a noventa días naturales posteriores a la fecha de presentación de la demanda o solicitud;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

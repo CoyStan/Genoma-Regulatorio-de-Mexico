@@ -1,6 +1,6 @@
 {
   "law_id": "ley-federal-de-procedimiento-contencioso-administrativo",
-  "extracted_at": "2026-03-29T23:31:49.144448+00:00",
+  "extracted_at": "2026-03-30T12:00:10.856238+00:00",
   "total_citations": 38,
   "citations": [
     {
@@ -568,5 +568,5 @@
       "char_offset": 1780
     }
   ],
-  "resolved_at": "2026-03-29T23:32:08.627079+00:00"
+  "resolved_at": "2026-03-30T12:00:41.180423+00:00"
 }

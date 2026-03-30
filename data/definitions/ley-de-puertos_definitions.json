@@ -1,0 +1,70 @@
+{
+  "law_id": "ley-de-puertos",
+  "extracted_at": "2026-03-30T12:01:41.339921+00:00",
+  "total_definitions": 7,
+  "definitions": [
+    {
+      "law_id": "ley-de-puertos",
+      "law_name": "LEY de Puertos",
+      "article": "2o",
+      "term": "secretaría",
+      "definition_text": "La Secretaría de Marina;",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "law_name": "LEY de Puertos",
+      "article": "2o",
+      "term": "puerto",
+      "definition_text": "El lugar de la costa o ribera habilitado como tal por el Ejecutivo Federal para la recepción, abrigo y atención de embarcaciones, compuesto por el recinto portuario y, en su caso, por la zona de desarrollo, así como por accesos y áreas de uso común para la navegación interna y afectas a su funcionamiento; con servicios, terminales e instalaciones, públicos y particulares, para la transferencia de bienes y transbordo de personas entre los modos de transporte que enlaza.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "law_name": "LEY de Puertos",
+      "article": "2o",
+      "term": "recinto portuario",
+      "definition_text": "La zona federal delimitada y determinada por la Secretaría y por la Secretaría de Bienestar en los puertos, terminales y marinas, que comprende las áreas de agua y terrenos de dominio público destinados al establecimiento de instalaciones y a la prestación de servicios portuarios.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "law_name": "LEY de Puertos",
+      "article": "2o",
+      "term": "terminal",
+      "definition_text": "La unidad establecida en un puerto o fuera de él, formada por obras, instalaciones y superficies, incluida su zona de agua, que permite la realización integra de la operación portuaria a la que se destina.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "law_name": "LEY de Puertos",
+      "article": "2o",
+      "term": "marina",
+      "definition_text": "El conjunto de instalaciones portuarias y sus zonas de agua o tierra, destinadas a la organización especializada en la prestación de servicios a embarcaciones de recreo o deportivas.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "law_name": "LEY de Puertos",
+      "article": "2o",
+      "term": "instalaciones portuarias",
+      "definition_text": "Las obras de infraestructura y las edificaciones o superestructuras, construidas en un puerto o fuera de él, destinadas a la atención de embarcaciones, a la prestación de servicios portuarios o a la construcción o reparación de embarcaciones.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "law_name": "LEY de Puertos",
+      "article": "2o",
+      "term": "servicios portuarios",
+      "definition_text": "Los que se proporcionan en puertos, terminales, marinas e instalaciones portuarias, para atender a las embarcaciones, así como para la transferencia de carga y transbordo de personas entre embarcaciones, tierra u otros modos de transporte.",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

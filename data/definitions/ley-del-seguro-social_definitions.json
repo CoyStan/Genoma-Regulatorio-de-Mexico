@@ -1,0 +1,133 @@
+{
+  "law_id": "ley-del-seguro-social",
+  "extracted_at": "2026-03-30T12:01:41.709227+00:00",
+  "total_definitions": 14,
+  "definitions": [
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "ley",
+      "definition_text": "la Ley del Seguro Social;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "código",
+      "definition_text": "el Código Fiscal de la Federación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "instituto",
+      "definition_text": "el Instituto Mexicano del Seguro Social;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "patrones, patrón o persona empleadora",
+      "definition_text": "la persona física o moral que tenga ese carácter en los términos de la Ley Federal del Trabajo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "trabajadores o trabajador",
+      "definition_text": "la persona física que la Ley Federal del Trabajo define como tal;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "trabajador permanente",
+      "definition_text": "aquél que tenga una relación de trabajo por tiempo indeterminado;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "trabajador eventual",
+      "definition_text": "aquél que tenga una relación de trabajo para obra determinada o por tiempo determinado en los términos de la Ley Federal del Trabajo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "sujetos o sujeto obligado",
+      "definition_text": "los señalados en los artículos 12, 13, 229, 230, 241 y 250-A de la ley, cuando tengan la obligación de retener las cuotas obrero-patronales del Seguro Social o de realizar el pago de las mismas, y los demás que se establezcan en esta ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "sujetos o sujeto de aseguramiento",
+      "definition_text": "los señalados en los artículos 12, 13, 241 y 250 A, de la Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "responsables o responsable solidario",
+      "definition_text": "para los efectos de las aportaciones de seguridad social son aquellos que define como tales el artículo 26 del Código y los previstos en esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "asegurados o asegurado",
+      "definition_text": "el trabajador o sujeto de aseguramiento inscrito ante el Instituto, en los términos de la Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "beneficiarios",
+      "definition_text": "la o el cónyuge del asegurado o asegurada o del pensionado o pensionada y a falta de éstos, a la concubina o el concubinario en su caso, a quien haya suscrito una unión civil con el asegurado o asegurada o el pensionado o pensionada, cualquiera que fuere su sexo, así como los ascendientes y descendientes de la o el asegurado o de la o el pensionado señalados en la ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "5",
+      "term": "derechohabientes o derechohabiente",
+      "definition_text": "el asegurado, el pensionado y los beneficiarios de ambos, que en los términos de la Ley tengan vigente su derecho a recibi",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "law_name": "LEY del Seguro Social",
+      "article": "46",
+      "term": "si el accidente ocurre encontrándose el trabajador en estado de embriaguez",
+      "definition_text": "II. Si el accidente ocurre encontrándose el trabajador bajo la acción de algún psicotrópico, narcótico o droga enervante, salvo que exista prescripción suscrita por médico titulado y que el trabajador hubiera exhibido y hecho del conocimiento del patrón lo anterior;",
+      "raw_snippet": "para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

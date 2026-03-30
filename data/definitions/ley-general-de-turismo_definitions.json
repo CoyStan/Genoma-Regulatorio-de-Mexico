@@ -1,0 +1,142 @@
+{
+  "law_id": "ley-general-de-turismo",
+  "extracted_at": "2026-03-30T12:01:42.688688+00:00",
+  "total_definitions": 15,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "actividades turísticas",
+      "definition_text": "Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "atlas turístico de méxico",
+      "definition_text": "El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "comisión",
+      "definition_text": "La Comisión Ejecutiva de Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "consejo",
+      "definition_text": "El Consejo Consultivo de Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "consejo local",
+      "definition_text": "Los Consejos Consultivos Locales de Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "consejo municipal",
+      "definition_text": "Los Consejos Municipales de Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "fondo",
+      "definition_text": "Fondo Nacional de Fomento al Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "ley",
+      "definition_text": "Ley General de Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "ordenamiento turístico del territorio",
+      "definition_text": "Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "prestadores de servicios turísticos",
+      "definition_text": "Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "programa",
+      "definition_text": "Programa Sectorial de Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "recursos turísticos",
+      "definition_text": "Son todos los elementos naturales o artificiales de un lugar o región que constituyen un atractivo para la actividad turística;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "región turística",
+      "definition_text": "Es un espacio homogéneo que puede abarcar el territorio de dos o más Estados y en el que, por la cercana distancia de los atractivos y servicios, se complementan;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "reglamento",
+      "definition_text": "El de la Ley General de Turismo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "law_name": "LEY General de Turismo",
+      "article": "3",
+      "term": "ruta turística",
+      "definition_text": "Es un circuito temático o geográfico que se basa en un patrimonio natural o cu",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

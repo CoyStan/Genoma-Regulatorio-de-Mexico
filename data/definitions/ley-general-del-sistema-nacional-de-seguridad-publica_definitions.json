@@ -1,0 +1,132 @@
+{
+  "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+  "extracted_at": "2026-03-30T12:01:42.762643+00:00",
+  "total_definitions": 14,
+  "definitions": [
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "academias o institutos",
+      "definition_text": "A las instituciones de formación, capacitación, profesionalización, especialización y actualización de personas aspirantes y servidoras públicas en las funciones de seguridad pública, policial, ministerial, pericial y penitenciaria;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "centros de comando y control",
+      "definition_text": "A las instalaciones de seguridad pública a que se refiere el Título Séptimo de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "conferencias nacionales",
+      "definition_text": "A las conferencias a las que se refiere el Título Tercero de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "consejo nacional",
+      "definition_text": "Al Consejo Nacional de Seguridad Pública;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "fondos de ayuda federal",
+      "definition_text": "A los fondos a los que se refiere el Título Octavo de esta Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "gabinete federal",
+      "definition_text": "Al Gabinete Federal de Seguridad Pública;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "instituciones de procuración de justicia",
+      "definition_text": "A las instituciones de la Federación y las entidades federativas que integran al Ministerio Público, los servicios periciales, las policías de investigación adscritas a estas, los analistas criminales y demás operadores del sistema penal;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "instituciones de seguridad pública",
+      "definition_text": "A las Instituciones Policiales, las Instituciones de Procuración de Justicia, las instituciones penitenciarias y demás órganos, dependencias y entidades encargadas o que realizan tareas de seguridad pública en los tres órdenes de gobierno;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "instituciones policiales",
+      "definition_text": "A los cuerpos de policía, incluida la Guardia Nacional, que realizan tareas de prevención, investigación, proximidad social, reacción, inteligencia, así como de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva o de centros de arraigos, y, en general, todas las instituciones encargadas de la seguridad pública en los tres órdenes de gobierno, que realicen funciones similares;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "ley",
+      "definition_text": "A la presente Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "secretaría",
+      "definition_text": "A la Secretaría de Seguridad y Protección Ciudadana del Gobierno Federal;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "secretariado ejecutivo",
+      "definition_text": "Al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "4",
+      "term": "sistema",
+      "definition_text": "Al Sistema N",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "law_name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "article": "75",
+      "term": "escala de rangos policiales",
+      "definition_text": "la relación que contiene a todas las personas integrantes de las Instituciones Policiales y los ordena en forma descendente de acuerdo con su categoría, jerarquía, división, servicio, antigüedad y demás elementos",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

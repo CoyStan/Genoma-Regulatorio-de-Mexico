@@ -1,0 +1,97 @@
+{
+  "law_id": "ley-de-seguridad-interior",
+  "extracted_at": "2026-03-30T12:01:41.346805+00:00",
+  "total_definitions": 10,
+  "definitions": [
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "acciones de seguridad interior",
+      "definition_text": "Aquellas que realizan las autoridades federales, incluyendo las Fuerzas Armadas, por sí o en coordinación con los demás órdenes de gobierno, orientadas a identificar, prevenir, atender, reducir y contener riesgos y amenazas a la seguridad interior;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "amenazas a la seguridad interior",
+      "definition_text": "Las que afecten los principios establecidos en el artículo 3 y las contenidas en el artículo 5 de la Ley de Seguridad Nacional que tienen su origen en territorio nacional; las emergencias o desastres naturales en un área o región geográfica del país; las epidemias y demás contingencias que afecten la salubridad general; o las que afecten los deberes de colaboración de las entidades federativas y municipios en materia de seguridad nacional;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "riesgo a la seguridad interior",
+      "definition_text": "Situación que potencialmente puede convertirse en una Amenaza a la Seguridad Interior;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "declaratoria de protección a la seguridad interior",
+      "definition_text": "El mandato ejecutivo que habilita la intervención de la Federación, incluidas las Fuerzas Armadas, para que por sí o en coordinación con otras autoridades, realicen acciones de Seguridad Interior para contener y reducir Amenazas a la Seguridad Interior;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "fuerzas armadas",
+      "definition_text": "El Ejército, Armada y Fuerza Área;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "fuerzas federales",
+      "definition_text": "Las instituciones policiales federales;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "inteligencia para la seguridad interior",
+      "definition_text": "El conjunto de conocimientos obtenidos a partir de la recolección, procesamiento, diseminación y explotación de información para la toma de decisiones en materia de seguridad interior;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "seguridad interior",
+      "definition_text": "Lo previsto en el artículo 2 de la presente Ley;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "seguridad nacional",
+      "definition_text": "Lo previsto en la Ley de Seguridad Nacional, y",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "law_name": "LEY de Seguridad Interior",
+      "article": "4",
+      "term": "uso legítimo de la fuerza",
+      "definition_text": "La utilización racional y proporcional de técnicas, tácticas, métodos, armamento y protocolos que realiza el personal de las Fuerzas Federales y, en su caso, las Fuerzas Armadas, para controlar, repeler o neutralizar actos de resistencia, según s",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

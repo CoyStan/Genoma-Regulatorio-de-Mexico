@@ -1,6 +1,6 @@
 {
   "law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
-  "extracted_at": "2026-03-29T23:31:48.957885+00:00",
+  "extracted_at": "2026-03-30T12:00:10.174652+00:00",
   "total_citations": 26,
   "citations": [
     {
@@ -388,5 +388,5 @@
       "char_offset": 2603
     }
   ],
-  "resolved_at": "2026-03-29T23:32:07.770969+00:00"
+  "resolved_at": "2026-03-30T12:00:38.983179+00:00"
 }

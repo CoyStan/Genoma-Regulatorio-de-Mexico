@@ -1,0 +1,25 @@
+{
+  "law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+  "extracted_at": "2026-03-30T12:01:41.236177+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+      "law_name": "LEY de los Sistemas de Ahorro para el Retiro",
+      "article": "3o",
+      "term": "administradora, a las administradoras de fondos para el retiro",
+      "definition_text": "II. Base de Datos Nacional SAR, aquélla conformada por la información procedente de los sistemas de ahorro para el retiro, conteniendo la información individual de cada trabajador y el registro de la administradora o institución de crédito en que cada uno de éstos se encuentra afiliado;",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+      "law_name": "LEY de los Sistemas de Ahorro para el Retiro",
+      "article": "3o",
+      "term": "la comisión, a la comisión nacional del sistema de ahorro para el retiro",
+      "definition_text": "III bis. Cuenta Individual, aquélla de la que sea titular un trabajador en la cual se depositarán las cuotas obrero patronales y estatales y sus rendimientos, se registrarán las aportaciones a los fondos de vivienda y se depositarán los demás recursos que en términos de esta ley puedan ser aportados a las mismas, así como aquellas otras que se abran a otros trabajadores no afiliados en términos de esta ley;",
+      "raw_snippet": "Para los efectos de esta ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

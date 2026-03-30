@@ -1,0 +1,23 @@
+{
+  "law_id": "ley-federal-del-derecho-de-autor",
+  "extracted_at": "2026-03-30T12:01:42.094806+00:00",
+  "total_definitions": 2,
+  "definitions": [
+    {
+      "law_id": "ley-federal-del-derecho-de-autor",
+      "law_name": "LEY Federal del Derecho de Autor",
+      "article": "97",
+      "term": "al productor",
+      "definition_text": "el titular de los derechos patrimoniales de la obra en su conjunto",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-federal-del-derecho-de-autor",
+      "law_name": "LEY Federal del Derecho de Autor",
+      "article": "114",
+      "term": "como violación",
+      "definition_text": "esta Ley, la conducta sancionada en el artículo 232 bis:\n\nI",
+      "extraction_method": "se_considera"
+    }
+  ]
+}

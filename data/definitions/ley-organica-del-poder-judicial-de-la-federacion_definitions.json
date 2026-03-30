@@ -1,0 +1,16 @@
+{
+  "law_id": "ley-organica-del-poder-judicial-de-la-federacion",
+  "extracted_at": "2026-03-30T12:01:43.020124+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-organica-del-poder-judicial-de-la-federacion",
+      "law_name": "LEY Orgánica del Poder Judicial de la Federación",
+      "article": "80",
+      "term": "acordar el retiro por término de mandato de las personas juzgadoras federales",
+      "definition_text": "XXIII.\tAcordar las remociones del personal del Poder Judicial Federal, conforme a lo que determine el Tribunal de Disciplina Judicial;",
+      "raw_snippet": "para los efectos del artículo 76,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

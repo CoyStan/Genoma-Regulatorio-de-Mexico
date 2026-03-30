@@ -1,0 +1,88 @@
+{
+  "law_id": "ley-de-seguridad-nacional",
+  "extracted_at": "2026-03-30T12:01:41.353063+00:00",
+  "total_definitions": 9,
+  "definitions": [
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "5",
+      "term": "actos que impidan a las autoridades actuar contra la delincuencia organizada",
+      "definition_text": "IV.\tActos tendentes a quebrantar la unidad de las partes integrantes de la Federación, señaladas en el artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "5",
+      "term": "actos en contra de la seguridad de la aviación",
+      "definition_text": "VII.\tActos que atenten en contra del personal diplomático;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "5",
+      "term": "actos ilícitos en contra de la navegación marítima",
+      "definition_text": "X.\tTodo acto de financiamiento de acciones y organizaciones terroristas;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "6",
+      "term": "consejo",
+      "definition_text": "Consejo de Seguridad Nacional.",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "6",
+      "term": "instancias",
+      "definition_text": "Instituciones y autoridades que en función de sus atribuciones participen directa o indirectamente en la Seguridad Nacional.",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "6",
+      "term": "red",
+      "definition_text": "Red Nacional de Investigación.",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "6",
+      "term": "centro",
+      "definition_text": "Centro de Investigación y Seguridad Nacional;",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "6",
+      "term": "información gubernamental confidencial",
+      "definition_text": "Los datos personales otorgados a una instancia por servidores públicos, así como los datos personales proporcionados al Estado Mexicano para determinar o prevenir una amenaza a la Seguridad Nacional, y",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "law_name": "LEY de Seguridad Nacional",
+      "article": "6",
+      "term": "agentes extranjeros",
+      "definition_text": "Funcionarios extranjeros que en sus países de origen ejercen funciones policiales, de inspección o de supervisión de las leyes y otras disposiciones de carácter reglamentario o aquéllas de carácter técnico especializado.",
+      "raw_snippet": "Para los efectos de la presente Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

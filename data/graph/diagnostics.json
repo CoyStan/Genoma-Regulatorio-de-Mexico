@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-29T23:52:32.447107+00:00",
+  "generated_at": "2026-03-30T12:01:56.067529+00:00",
   "graph_stats": {
-    "num_nodes": 135,
-    "num_edges": 848
+    "num_nodes": 361,
+    "num_edges": 3244
   },
   "orphan_references": [],
   "hub_laws": [
@@ -11,230 +11,286 @@
       "name": "Constitución Política de los Estados Unidos Mexicanos",
       "short": "CPEUM",
       "sector": "constitucional",
-      "in_degree": 86,
+      "in_degree": 316,
       "out_degree": 0,
-      "pagerank": 0.080431,
+      "pagerank": 0.084733,
       "betweenness": 0.0,
-      "cascade_score": 86
+      "cascade_score": 317
     },
     {
       "law_id": "ley-federal-competencia-economica",
       "name": "Ley Federal de Competencia Económica",
       "short": "LFCE",
       "sector": "competencia",
-      "in_degree": 59,
+      "in_degree": 220,
       "out_degree": 0,
-      "pagerank": 0.030589,
+      "pagerank": 0.032597,
       "betweenness": 0.0,
-      "cascade_score": 59
-    },
-    {
-      "law_id": "ley-pemex",
-      "name": "Ley de Petróleos Mexicanos",
-      "short": "LPEMEX",
-      "sector": "energia",
-      "in_degree": 50,
-      "out_degree": 0,
-      "pagerank": 0.026404,
-      "betweenness": 0.0,
-      "cascade_score": 50
+      "cascade_score": 230
     },
     {
       "law_id": "ley-general-sociedades-mercantiles",
       "name": "Ley General de Sociedades Mercantiles",
       "short": "LGSM",
       "sector": "mercantil",
-      "in_degree": 47,
+      "in_degree": 205,
       "out_degree": 0,
-      "pagerank": 0.023332,
+      "pagerank": 0.029406,
       "betweenness": 0.0,
-      "cascade_score": 47
+      "cascade_score": 230
+    },
+    {
+      "law_id": "ley-pemex",
+      "name": "Ley de Petróleos Mexicanos",
+      "short": "LPEMEX",
+      "sector": "energia",
+      "in_degree": 169,
+      "out_degree": 0,
+      "pagerank": 0.026471,
+      "betweenness": 0.0,
+      "cascade_score": 205
     },
     {
       "law_id": "loapf",
       "name": "Ley Orgánica de la Administración Pública Federal",
       "short": "LOAPF",
       "sector": "administrativo",
-      "in_degree": 32,
+      "in_degree": 119,
       "out_degree": 0,
-      "pagerank": 0.019435,
+      "pagerank": 0.01739,
       "betweenness": 0.0,
-      "cascade_score": 32
-    },
-    {
-      "law_id": "codigo-nacional-procedimientos-penales",
-      "name": "Código Nacional de Procedimientos Penales",
-      "short": "CNPP",
-      "sector": "penal",
-      "in_degree": 31,
-      "out_degree": 0,
-      "pagerank": 0.016894,
-      "betweenness": 0.0,
-      "cascade_score": 31
-    },
-    {
-      "law_id": "ley-federal-del-trabajo",
-      "name": "Ley Federal del Trabajo",
-      "short": "LFT",
-      "sector": "trabajo",
-      "in_degree": 26,
-      "out_degree": 0,
-      "pagerank": 0.016069,
-      "betweenness": 0.0,
-      "cascade_score": 26
-    },
-    {
-      "law_id": "ley-general-salud",
-      "name": "Ley General de Salud",
-      "short": "LGS",
-      "sector": "salud",
-      "in_degree": 24,
-      "out_degree": 0,
-      "pagerank": 0.014818,
-      "betweenness": 0.0,
-      "cascade_score": 24
-    },
-    {
-      "law_id": "lfpa",
-      "name": "Ley Federal de Procedimiento Administrativo",
-      "short": "LFPA",
-      "sector": "administrativo",
-      "in_degree": 22,
-      "out_degree": 0,
-      "pagerank": 0.014261,
-      "betweenness": 0.0,
-      "cascade_score": 22
-    },
-    {
-      "law_id": "lftr",
-      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
-      "short": "LFTR",
-      "sector": "telecomunicaciones",
-      "in_degree": 23,
-      "out_degree": 0,
-      "pagerank": 0.014156,
-      "betweenness": 0.0,
-      "cascade_score": 23
+      "cascade_score": 177
     },
     {
       "law_id": "ley-general-educacion",
       "name": "Ley General de Educación",
       "short": "LGE",
       "sector": "educacion",
-      "in_degree": 25,
+      "in_degree": 109,
       "out_degree": 0,
-      "pagerank": 0.013459,
+      "pagerank": 0.016796,
       "betweenness": 0.0,
-      "cascade_score": 25
+      "cascade_score": 169
     },
     {
-      "law_id": "lgipe",
-      "name": "Ley General de Instituciones y Procedimientos Electorales",
-      "short": "LGIPE",
-      "sector": "electoral",
-      "in_degree": 25,
+      "law_id": "lfpa",
+      "name": "Ley Federal de Procedimiento Administrativo",
+      "short": "LFPA",
+      "sector": "administrativo",
+      "in_degree": 94,
       "out_degree": 0,
-      "pagerank": 0.013306,
+      "pagerank": 0.015268,
       "betweenness": 0.0,
-      "cascade_score": 25
+      "cascade_score": 111
+    },
+    {
+      "law_id": "codigo-nacional-procedimientos-penales",
+      "name": "Código Nacional de Procedimientos Penales",
+      "short": "CNPP",
+      "sector": "penal",
+      "in_degree": 103,
+      "out_degree": 0,
+      "pagerank": 0.014254,
+      "betweenness": 0.0,
+      "cascade_score": 108
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "name": "LEY Federal del Trabajo",
+      "short": "LFT",
+      "sector": "trabajo",
+      "in_degree": 97,
+      "out_degree": 21,
+      "pagerank": 0.01316,
+      "betweenness": 0.008632,
+      "cascade_score": 121
+    },
+    {
+      "law_id": "lftr",
+      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "short": "LFTR",
+      "sector": "telecomunicaciones",
+      "in_degree": 83,
+      "out_degree": 0,
+      "pagerank": 0.011757,
+      "betweenness": 0.0,
+      "cascade_score": 158
     },
     {
       "law_id": "lgtaip",
       "name": "Ley General de Transparencia y Acceso a la Información Pública",
       "short": "LGTAIP",
       "sector": "transparencia",
-      "in_degree": 23,
+      "in_degree": 77,
       "out_degree": 0,
-      "pagerank": 0.012907,
+      "pagerank": 0.011607,
       "betweenness": 0.0,
-      "cascade_score": 23
+      "cascade_score": 163
     },
     {
-      "law_id": "ley-federal-anticorrupcion",
-      "name": "Ley General del Sistema Nacional Anticorrupción",
-      "short": "LGSNA",
-      "sector": "anticorrupcion",
-      "in_degree": 24,
+      "law_id": "lgipe",
+      "name": "Ley General de Instituciones y Procedimientos Electorales",
+      "short": "LGIPE",
+      "sector": "electoral",
+      "in_degree": 83,
       "out_degree": 0,
-      "pagerank": 0.012662,
+      "pagerank": 0.011435,
       "betweenness": 0.0,
-      "cascade_score": 24
-    },
-    {
-      "law_id": "lopjf",
-      "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "short": "LOPJF",
-      "sector": "judicial",
-      "in_degree": 21,
-      "out_degree": 0,
-      "pagerank": 0.012127,
-      "betweenness": 0.0,
-      "cascade_score": 21
-    },
-    {
-      "law_id": "ley-del-infonavit",
-      "name": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "short": "LINFONAVIT",
-      "sector": "vivienda",
-      "in_degree": 15,
-      "out_degree": 0,
-      "pagerank": 0.011535,
-      "betweenness": 0.0,
-      "cascade_score": 15
+      "cascade_score": 91
     },
     {
       "law_id": "lfda",
       "name": "Ley Federal del Derecho de Autor",
       "short": "LFDA",
       "sector": "propiedad-intelectual",
-      "in_degree": 18,
+      "in_degree": 77,
       "out_degree": 0,
-      "pagerank": 0.010844,
+      "pagerank": 0.010903,
       "betweenness": 0.0,
-      "cascade_score": 18
+      "cascade_score": 152
     },
     {
-      "law_id": "ley-prevencion-lavado-dinero",
-      "name": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
-      "short": "LFPIORPI",
-      "sector": "financiero",
-      "in_degree": 21,
+      "law_id": "ley-federal-anticorrupcion",
+      "name": "Ley General del Sistema Nacional Anticorrupción",
+      "short": "LGSNA",
+      "sector": "anticorrupcion",
+      "in_degree": 72,
       "out_degree": 0,
-      "pagerank": 0.010679,
+      "pagerank": 0.010598,
       "betweenness": 0.0,
-      "cascade_score": 21
+      "cascade_score": 85
+    },
+    {
+      "law_id": "ley-general-salud",
+      "name": "Ley General de Salud",
+      "short": "LGS",
+      "sector": "salud",
+      "in_degree": 77,
+      "out_degree": 0,
+      "pagerank": 0.010407,
+      "betweenness": 0.0,
+      "cascade_score": 155
     },
     {
       "law_id": "ley-instituciones-credito",
       "name": "Ley de Instituciones de Crédito",
       "short": "LIC",
       "sector": "financiero",
-      "in_degree": 17,
+      "in_degree": 79,
       "out_degree": 0,
-      "pagerank": 0.010463,
+      "pagerank": 0.010209,
       "betweenness": 0.0,
-      "cascade_score": 17
+      "cascade_score": 158
+    },
+    {
+      "law_id": "ley-del-infonavit",
+      "name": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "short": "LINFONAVIT",
+      "sector": "vivienda",
+      "in_degree": 67,
+      "out_degree": 0,
+      "pagerank": 0.009916,
+      "betweenness": 0.0,
+      "cascade_score": 133
+    },
+    {
+      "law_id": "ley-prevencion-lavado-dinero",
+      "name": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "short": "LFPIORPI",
+      "sector": "financiero",
+      "in_degree": 81,
+      "out_degree": 0,
+      "pagerank": 0.009831,
+      "betweenness": 0.0,
+      "cascade_score": 154
+    },
+    {
+      "law_id": "lopjf",
+      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "short": "LOPJF",
+      "sector": "judicial",
+      "in_degree": 69,
+      "out_degree": 0,
+      "pagerank": 0.009529,
+      "betweenness": 0.0,
+      "cascade_score": 143
     },
     {
       "law_id": "ley-responsabilidades-administrativas",
       "name": "Ley General de Responsabilidades Administrativas",
       "short": "LGRA",
       "sector": "anticorrupcion",
-      "in_degree": 13,
+      "in_degree": 60,
       "out_degree": 0,
-      "pagerank": 0.009658,
+      "pagerank": 0.009495,
       "betweenness": 0.0,
-      "cascade_score": 13
+      "cascade_score": 153
     }
   ],
   "isolated_laws": [
     {
-      "law_id": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "name": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2025",
+      "law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
+      "name": "LEY de los Impuestos Generales de Importación y de Exportación",
       "sector": "fiscal",
       "in_degree": 0,
       "out_degree": 0,
       "total_degree": 0
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "sector": "mercantil",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
+      "law_id": "ley-de-capitalizacion-del-procampo",
+      "name": "LEY de Capitalización del Procampo",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
+      "law_id": "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja",
+      "name": "LEY para el uso y protección de la denominación y del emblema de la Cruz Roja",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
+      "law_id": "ley-de-recompensas-de-la-armada-de-mexico",
+      "name": "LEY de Recompensas de la Armada de México",
+      "sector": "seguridad",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
+      "law_id": "ley-para-conservar-la-neutralidad-del-pais",
+      "name": "LEY para Conservar la Neutralidad del País",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
+      "law_id": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
+      "name": "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+      "sector": "agrario",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
+      "law_id": "ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-que-se-refiere-a-la-facultad-del-congreso-para-dictar-reglas-para-determinar-el-valor-relativo-de-la-moneda-extranjera",
+      "name": "LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la \r\n\t\t\t\tFacultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+      "sector": "constitucional",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
     },
     {
       "law_id": "ley-de-educacion-naval",
@@ -285,6 +341,14 @@
       "total_degree": 1
     },
     {
+      "law_id": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-del-banco-interamericano-de-desarrollo",
+      "name": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio \r\n\t\t\t\tConstitutivo del Banco Interamericano de Desarrollo",
+      "sector": "financiero",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
       "law_id": "ley-de-amnistia",
       "name": "LEY de Amnistía",
       "sector": "unknown",
@@ -293,17 +357,57 @@
       "total_degree": 1
     },
     {
-      "law_id": "ley-propiedad-industrial",
-      "name": "Ley Federal de Protección a la Propiedad Industrial",
-      "sector": "propiedad-intelectual",
-      "in_degree": 1,
-      "out_degree": 0,
+      "law_id": "ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe-y-su-ejecucion",
+      "name": "LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+      "sector": "financiero",
+      "in_degree": 0,
+      "out_degree": 1,
       "total_degree": 1
+    },
+    {
+      "law_id": "ley-de-fomento-a-la-industria-vitivinicola",
+      "name": "LEY de Fomento a la Industria Vitivinícola",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 1,
+      "total_degree": 1
+    },
+    {
+      "law_id": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
+      "name": "LEY sobre Elaboración y Venta de Café Tostado",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contravengan-el-derecho-internacional",
+      "name": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+      "sector": "mercantil",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
     },
     {
       "law_id": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
       "name": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público \r\n\t\t\t\tpor Ley, en los que Intervengan Empresas Concesionarias de Bienes \r\n\t\t\t\tdel Dominio Directo de la Nación",
       "sector": "fiscal",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-y-las-demas-substancias-de-las-cuales-se-obtengan-isotopos-hendibles-que-puedan-producir-energia-nuclear",
+      "name": "LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias \r\n\t\t\t\tde las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+      "sector": "energia",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
+      "name": "LEY de Sociedades de Responsabilidad Limitada de Interés Público",
+      "sector": "mercantil",
       "in_degree": 0,
       "out_degree": 2,
       "total_degree": 2
@@ -317,9 +421,105 @@
       "total_degree": 2
     },
     {
+      "law_id": "ley-de-nacionalidad",
+      "name": "LEY de Nacionalidad",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
       "law_id": "ley-organica-de-la-armada-de-mexico",
       "name": "LEY Orgánica de la Armada de México",
       "sector": "seguridad",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea",
+      "name": "LEY que Crea la Universidad del Ejército y Fuerza Aérea",
+      "sector": "educacion",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-de-ascensos-de-la-armada-de-mexico",
+      "name": "LEY de Ascensos de la Armada de México",
+      "sector": "seguridad",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
+      "name": "LEY del Servicio Profesional de Carrera en la Administración Pública Federal",
+      "sector": "administrativo",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
+      "name": "LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-federal-de-consulta-popular",
+      "name": "LEY Federal de Consulta Popular",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ordenanza-general-de-la-armada",
+      "name": "ORDENANZA General de la Armada",
+      "sector": "seguridad",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
+      "name": "LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+      "sector": "seguridad",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-de-sociedades-de-solidaridad-social",
+      "name": "LEY de Sociedades de Solidaridad Social",
+      "sector": "mercantil",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-del-registro-publico-vehicular",
+      "name": "LEY del Registro Público Vehicular",
+      "sector": "unknown",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-organica-de-la-universidad-nacional-autonoma-de-mexico",
+      "name": "LEY Orgánica de la Universidad Nacional Autónoma de México",
+      "sector": "educacion",
+      "in_degree": 0,
+      "out_degree": 2,
+      "total_degree": 2
+    },
+    {
+      "law_id": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
+      "name": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
+      "sector": "unknown",
       "in_degree": 0,
       "out_degree": 2,
       "total_degree": 2
@@ -339,14 +539,14 @@
       "name": "Constitución Política de los Estados Unidos Mexicanos",
       "short": "CPEUM",
       "sector": "constitucional",
-      "cascade_size": 86,
-      "direct_dependents": 86,
+      "cascade_size": 317,
+      "direct_dependents": 316,
       "sample_dependents": [
+        "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
+        "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
         "ley-federal-de-cinematografia",
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-de-ayuda-alimentaria-para-los-trabajadores"
+        "ley-federal-de-armas-de-fuego-y-explosivos"
       ]
     },
     {
@@ -354,29 +554,14 @@
       "name": "Ley Federal de Competencia Económica",
       "short": "LFCE",
       "sector": "competencia",
-      "cascade_size": 59,
-      "direct_dependents": 59,
+      "cascade_size": 230,
+      "direct_dependents": 220,
       "sample_dependents": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
         "ley-federal-de-cinematografia",
         "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-de-ayuda-alimentaria-para-los-trabajadores"
-      ]
-    },
-    {
-      "law_id": "ley-pemex",
-      "name": "Ley de Petróleos Mexicanos",
-      "short": "LPEMEX",
-      "sector": "energia",
-      "cascade_size": 50,
-      "direct_dependents": 50,
-      "sample_dependents": [
-        "ley-federal-de-cinematografia",
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-competencia-economica"
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-del-impuesto-al-valor-agregado"
       ]
     },
     {
@@ -384,14 +569,29 @@
       "name": "Ley General de Sociedades Mercantiles",
       "short": "LGSM",
       "sector": "mercantil",
-      "cascade_size": 47,
-      "direct_dependents": 47,
+      "cascade_size": 230,
+      "direct_dependents": 205,
       "sample_dependents": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
         "ley-federal-de-cinematografia",
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-federal-de-sanidad-animal"
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-de-fomento-para-la-lectura-y-el-libro"
+      ]
+    },
+    {
+      "law_id": "ley-pemex",
+      "name": "Ley de Petróleos Mexicanos",
+      "short": "LPEMEX",
+      "sector": "energia",
+      "cascade_size": 205,
+      "direct_dependents": 169,
+      "sample_dependents": [
+        "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
+        "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-federal-de-cinematografia",
+        "ley-federal-de-armas-de-fuego-y-explosivos"
       ]
     },
     {
@@ -399,44 +599,14 @@
       "name": "Ley Orgánica de la Administración Pública Federal",
       "short": "LOAPF",
       "sector": "administrativo",
-      "cascade_size": 32,
-      "direct_dependents": 32,
+      "cascade_size": 177,
+      "direct_dependents": 119,
       "sample_dependents": [
+        "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
         "ley-federal-de-cinematografia",
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-reglamentaria-del-servicio-ferroviario"
-      ]
-    },
-    {
-      "law_id": "codigo-nacional-procedimientos-penales",
-      "name": "Código Nacional de Procedimientos Penales",
-      "short": "CNPP",
-      "sector": "penal",
-      "cascade_size": 31,
-      "direct_dependents": 31,
-      "sample_dependents": [
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-competencia-economica",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos"
-      ]
-    },
-    {
-      "law_id": "ley-federal-del-trabajo",
-      "name": "Ley Federal del Trabajo",
-      "short": "LFT",
-      "sector": "trabajo",
-      "cascade_size": 26,
-      "direct_dependents": 26,
-      "sample_dependents": [
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-federal-de-procedimiento-contencioso-administrativo",
-        "ley-reglamentaria-del-servicio-ferroviario",
-        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-        "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral"
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-del-impuesto-al-valor-agregado"
       ]
     },
     {
@@ -444,59 +614,14 @@
       "name": "Ley General de Educación",
       "short": "LGE",
       "sector": "educacion",
-      "cascade_size": 25,
-      "direct_dependents": 25,
+      "cascade_size": 169,
+      "direct_dependents": 109,
       "sample_dependents": [
+        "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
         "ley-federal-de-cinematografia",
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-reglamentaria-del-servicio-ferroviario",
-        "ley-general-de-sociedades-cooperativas"
-      ]
-    },
-    {
-      "law_id": "lgipe",
-      "name": "Ley General de Instituciones y Procedimientos Electorales",
-      "short": "LGIPE",
-      "sector": "electoral",
-      "cascade_size": 25,
-      "direct_dependents": 25,
-      "sample_dependents": [
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-competencia-economica",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-general-de-sociedades-cooperativas"
-      ]
-    },
-    {
-      "law_id": "ley-federal-anticorrupcion",
-      "name": "Ley General del Sistema Nacional Anticorrupción",
-      "short": "LGSNA",
-      "sector": "anticorrupcion",
-      "cascade_size": 24,
-      "direct_dependents": 24,
-      "sample_dependents": [
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-general-de-sociedades-cooperativas"
-      ]
-    },
-    {
-      "law_id": "ley-general-salud",
-      "name": "Ley General de Salud",
-      "short": "LGS",
-      "sector": "salud",
-      "cascade_size": 24,
-      "direct_dependents": 24,
-      "sample_dependents": [
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-de-ayuda-alimentaria-para-los-trabajadores",
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-federal-de-sanidad-animal"
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-de-fomento-para-la-lectura-y-el-libro"
       ]
     },
     {
@@ -504,89 +629,14 @@
       "name": "Ley General de Transparencia y Acceso a la Información Pública",
       "short": "LGTAIP",
       "sector": "transparencia",
-      "cascade_size": 23,
-      "direct_dependents": 23,
+      "cascade_size": 163,
+      "direct_dependents": 77,
       "sample_dependents": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
         "ley-federal-de-cinematografia",
         "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-federal-de-competencia-economica",
-        "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
-        "ley-general-del-sistema-nacional-anticorrupcion"
-      ]
-    },
-    {
-      "law_id": "lftr",
-      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
-      "short": "LFTR",
-      "sector": "telecomunicaciones",
-      "cascade_size": 23,
-      "direct_dependents": 23,
-      "sample_dependents": [
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-competencia-economica",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-procedimiento-contencioso-administrativo"
-      ]
-    },
-    {
-      "law_id": "lfpa",
-      "name": "Ley Federal de Procedimiento Administrativo",
-      "short": "LFPA",
-      "sector": "administrativo",
-      "cascade_size": 22,
-      "direct_dependents": 22,
-      "sample_dependents": [
-        "ley-federal-de-cinematografia",
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-federal-de-sanidad-animal",
-        "ley-reglamentaria-del-servicio-ferroviario",
-        "ley-de-organizaciones-ganaderas"
-      ]
-    },
-    {
-      "law_id": "lopjf",
-      "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "short": "LOPJF",
-      "sector": "judicial",
-      "cascade_size": 21,
-      "direct_dependents": 21,
-      "sample_dependents": [
-        "ley-federal-de-cinematografia",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas"
-      ]
-    },
-    {
-      "law_id": "ley-prevencion-lavado-dinero",
-      "name": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
-      "short": "LFPIORPI",
-      "sector": "financiero",
-      "cascade_size": 21,
-      "direct_dependents": 21,
-      "sample_dependents": [
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-sanidad-animal",
-        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
-        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
-      ]
-    },
-    {
-      "law_id": "lfda",
-      "name": "Ley Federal del Derecho de Autor",
-      "short": "LFDA",
-      "sector": "propiedad-intelectual",
-      "cascade_size": 18,
-      "direct_dependents": 18,
-      "sample_dependents": [
-        "ley-federal-de-cinematografia",
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-reglamentaria-del-servicio-ferroviario",
-        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
-        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
+        "ley-de-asociaciones-publico-privadas",
+        "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico"
       ]
     },
     {
@@ -594,89 +644,59 @@
       "name": "Ley de Instituciones de Crédito",
       "short": "LIC",
       "sector": "financiero",
-      "cascade_size": 17,
-      "direct_dependents": 17,
+      "cascade_size": 158,
+      "direct_dependents": 79,
       "sample_dependents": [
+        "ley-del-impuesto-al-valor-agregado",
         "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
         "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-sanidad-animal",
-        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-desarrollo-social"
       ]
     },
     {
-      "law_id": "ley-sistemas-pagos",
-      "name": "Ley del Sistema de Pagos",
-      "short": "LSP",
+      "law_id": "lftr",
+      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "short": "LFTR",
+      "sector": "telecomunicaciones",
+      "cascade_size": 158,
+      "direct_dependents": 83,
+      "sample_dependents": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-de-asociaciones-publico-privadas",
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-federal-de-competencia-economica"
+      ]
+    },
+    {
+      "law_id": "ley-general-salud",
+      "name": "Ley General de Salud",
+      "short": "LGS",
+      "sector": "salud",
+      "cascade_size": 155,
+      "direct_dependents": 77,
+      "sample_dependents": [
+        "ley-federal-de-armas-de-fuego-y-explosivos",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-general-para-el-control-del-tabaco",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-desarrollo-social"
+      ]
+    },
+    {
+      "law_id": "ley-prevencion-lavado-dinero",
+      "name": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "short": "LFPIORPI",
       "sector": "financiero",
-      "cascade_size": 16,
-      "direct_dependents": 16,
+      "cascade_size": 154,
+      "direct_dependents": 81,
       "sample_dependents": [
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+        "ley-federal-de-armas-de-fuego-y-explosivos",
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-general-en-materia-de-delitos-electorales",
         "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-competencia-economica",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-federal-de-sanidad-animal"
-      ]
-    },
-    {
-      "law_id": "ley-del-infonavit",
-      "name": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "short": "LINFONAVIT",
-      "sector": "vivienda",
-      "cascade_size": 15,
-      "direct_dependents": 15,
-      "sample_dependents": [
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-federal-de-competencia-economica",
-        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
-        "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
-        "ley-de-migracion"
-      ]
-    },
-    {
-      "law_id": "ley-federal-proteccion-consumidor",
-      "name": "Ley Federal de Protección al Consumidor",
-      "short": "LFPC",
-      "sector": "consumidor",
-      "cascade_size": 15,
-      "direct_dependents": 15,
-      "sample_dependents": [
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-competencia-economica",
-        "ley-federal-de-sanidad-animal",
-        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores"
-      ]
-    },
-    {
-      "law_id": "ley-iva",
-      "name": "Ley del Impuesto al Valor Agregado",
-      "short": "LIVA",
-      "sector": "fiscal",
-      "cascade_size": 14,
-      "direct_dependents": 14,
-      "sample_dependents": [
-        "ley-federal-de-cinematografia",
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-reglamentaria-del-servicio-ferroviario",
-        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
-        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026"
-      ]
-    },
-    {
-      "law_id": "lgpp",
-      "name": "Ley General de Partidos Políticos",
-      "short": "LGPP",
-      "sector": "electoral",
-      "cascade_size": 14,
-      "direct_dependents": 14,
-      "sample_dependents": [
-        "ley-federal-de-cinematografia",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-federal-de-sanidad-animal",
-        "ley-reglamentaria-del-servicio-ferroviario",
-        "ley-general-de-sociedades-cooperativas"
+        "ley-de-proteccion-al-ahorro-bancario"
       ]
     },
     {
@@ -684,59 +704,59 @@
       "name": "Ley General de Responsabilidades Administrativas",
       "short": "LGRA",
       "sector": "anticorrupcion",
-      "cascade_size": 13,
-      "direct_dependents": 13,
+      "cascade_size": 153,
+      "direct_dependents": 60,
       "sample_dependents": [
+        "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
         "ley-federal-de-competencia-economica",
-        "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
-        "ley-general-del-sistema-nacional-anticorrupcion",
-        "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
-        "ley-de-la-guardia-nacional"
+        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+        "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
+        "ley-general-de-educacion"
       ]
     },
     {
-      "law_id": "lgeepa",
-      "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
-      "short": "LGEEPA",
-      "sector": "ambiental",
-      "cascade_size": 12,
-      "direct_dependents": 12,
-      "sample_dependents": [
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-federal-de-procedimiento-contencioso-administrativo",
-        "ley-general-de-sociedades-cooperativas",
-        "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
-        "ley-de-aguas-nacionales"
-      ]
-    },
-    {
-      "law_id": "ley-amparo",
-      "name": "Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución",
-      "short": "LA",
-      "sector": "judicial",
-      "cascade_size": 12,
-      "direct_dependents": 12,
+      "law_id": "lfda",
+      "name": "Ley Federal del Derecho de Autor",
+      "short": "LFDA",
+      "sector": "propiedad-intelectual",
+      "cascade_size": 152,
+      "direct_dependents": 77,
       "sample_dependents": [
         "ley-federal-de-cinematografia",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-federal-de-procedimiento-contencioso-administrativo",
-        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas"
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-de-fomento-para-la-lectura-y-el-libro",
+        "ley-general-de-sociedades-mercantiles",
+        "ley-general-de-desarrollo-social"
       ]
     },
     {
-      "law_id": "ley-inmigracion",
-      "name": "Ley de Migración",
-      "short": "LM",
-      "sector": "migracion",
-      "cascade_size": 12,
-      "direct_dependents": 12,
+      "law_id": "lopjf",
+      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "short": "LOPJF",
+      "sector": "judicial",
+      "cascade_size": 143,
+      "direct_dependents": 69,
       "sample_dependents": [
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-de-migracion",
-        "ley-de-la-guardia-nacional",
-        "ley-del-servicio-militar"
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-federal-de-cinematografia",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos"
+      ]
+    },
+    {
+      "law_id": "ley-isr",
+      "name": "Ley del Impuesto sobre la Renta",
+      "short": "LISR",
+      "sector": "fiscal",
+      "cascade_size": 136,
+      "direct_dependents": 42,
+      "sample_dependents": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-contabilidad-gubernamental",
+        "ley-aduanera"
       ]
     },
     {
@@ -744,246 +764,601 @@
       "name": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
       "short": "LISSSTE",
       "sector": "seguridad-social",
-      "cascade_size": 11,
-      "direct_dependents": 11,
+      "cascade_size": 134,
+      "direct_dependents": 63,
       "sample_dependents": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-organica-del-instituto-politecnico-nacional",
+        "ley-general-de-desarrollo-social",
+        "ley-general-de-titulos-y-operaciones-de-credito"
+      ]
+    },
+    {
+      "law_id": "ley-banco-mexico",
+      "name": "Ley del Banco de México",
+      "short": "LBM",
+      "sector": "financiero",
+      "cascade_size": 134,
+      "direct_dependents": 36,
+      "sample_dependents": [
+        "ley-de-tesoreria-de-la-federacion",
+        "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
+        "ley-para-regular-las-sociedades-de-informacion-crediticia",
+        "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+        "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear"
+      ]
+    },
+    {
+      "law_id": "ley-del-infonavit",
+      "name": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "short": "LINFONAVIT",
+      "sector": "vivienda",
+      "cascade_size": 133,
+      "direct_dependents": 67,
+      "sample_dependents": [
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-general-de-desarrollo-social",
         "ley-general-de-cultura-y-derechos-culturales",
-        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-        "ley-de-migracion",
-        "ley-de-la-guardia-nacional",
-        "ley-del-servicio-militar"
+        "ley-federal-de-competencia-economica",
+        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025"
+      ]
+    },
+    {
+      "law_id": "ley-mercado-valores",
+      "name": "Ley del Mercado de Valores",
+      "short": "LMV",
+      "sector": "financiero",
+      "cascade_size": 133,
+      "direct_dependents": 38,
+      "sample_dependents": [
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-general-de-sociedades-mercantiles",
+        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-titulos-y-operaciones-de-credito"
+      ]
+    },
+    {
+      "law_id": "ley-iva",
+      "name": "Ley del Impuesto al Valor Agregado",
+      "short": "LIVA",
+      "sector": "fiscal",
+      "cascade_size": 132,
+      "direct_dependents": 46,
+      "sample_dependents": [
+        "ley-federal-de-cinematografia",
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-general-de-desarrollo-social",
+        "ley-aduanera",
+        "ley-general-de-cultura-y-derechos-culturales"
+      ]
+    },
+    {
+      "law_id": "ley-inmigracion",
+      "name": "Ley de Migración",
+      "short": "LM",
+      "sector": "migracion",
+      "cascade_size": 127,
+      "direct_dependents": 45,
+      "sample_dependents": [
+        "ley-general-de-desarrollo-social",
+        "ley-general-de-cultura-y-derechos-culturales",
+        "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
+        "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
+        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos"
+      ]
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "name": "LEY Federal del Trabajo",
+      "short": "LFT",
+      "sector": "trabajo",
+      "cascade_size": 121,
+      "direct_dependents": 97,
+      "sample_dependents": [
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-desarrollo-social",
+        "ley-aduanera"
       ]
     },
     {
       "law_id": "ley-del-seguro-social",
-      "name": "Ley del Seguro Social",
+      "name": "LEY del Seguro Social",
       "short": "LSS",
       "sector": "seguridad-social",
-      "cascade_size": 10,
-      "direct_dependents": 10,
+      "cascade_size": 121,
+      "direct_dependents": 49,
       "sample_dependents": [
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-general-de-desarrollo-social",
+        "ley-general-de-titulos-y-operaciones-de-credito",
         "ley-general-de-cultura-y-derechos-culturales",
-        "ley-general-de-sociedades-cooperativas",
-        "ley-de-desarrollo-rural-sustentable",
-        "ley-de-migracion",
-        "ley-del-servicio-militar"
+        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025"
       ]
     },
     {
-      "law_id": "ley-fintech",
-      "name": "Ley para Regular las Instituciones de Tecnología Financiera",
-      "short": "LRITF",
-      "sector": "financiero",
-      "cascade_size": 10,
-      "direct_dependents": 10,
+      "law_id": "lfpa",
+      "name": "Ley Federal de Procedimiento Administrativo",
+      "short": "LFPA",
+      "sector": "administrativo",
+      "cascade_size": 111,
+      "direct_dependents": 94,
+      "sample_dependents": [
+        "ley-federal-de-cinematografia",
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-de-proteccion-del-espacio-aereo-mexicano",
+        "ley-general-de-sociedades-mercantiles",
+        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita"
+      ]
+    },
+    {
+      "law_id": "codigo-nacional-procedimientos-penales",
+      "name": "Código Nacional de Procedimientos Penales",
+      "short": "CNPP",
+      "sector": "penal",
+      "cascade_size": 108,
+      "direct_dependents": 103,
+      "sample_dependents": [
+        "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita"
+      ]
+    },
+    {
+      "law_id": "lgipe",
+      "name": "Ley General de Instituciones y Procedimientos Electorales",
+      "short": "LGIPE",
+      "sector": "electoral",
+      "cascade_size": 91,
+      "direct_dependents": 83,
+      "sample_dependents": [
+        "ley-federal-de-armas-de-fuego-y-explosivos",
+        "ley-de-fomento-para-la-lectura-y-el-libro",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-de-asociaciones-publico-privadas",
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos"
+      ]
+    },
+    {
+      "law_id": "ley-federal-proteccion-consumidor",
+      "name": "Ley Federal de Protección al Consumidor",
+      "short": "LFPC",
+      "sector": "consumidor",
+      "cascade_size": 88,
+      "direct_dependents": 68,
       "sample_dependents": [
         "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-general-de-sociedades-cooperativas",
-        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-        "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros"
+        "ley-de-asociaciones-publico-privadas",
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-desarrollo-social"
+      ]
+    },
+    {
+      "law_id": "ley-federal-anticorrupcion",
+      "name": "Ley General del Sistema Nacional Anticorrupción",
+      "short": "LGSNA",
+      "sector": "anticorrupcion",
+      "cascade_size": 85,
+      "direct_dependents": 72,
+      "sample_dependents": [
+        "ley-federal-de-armas-de-fuego-y-explosivos",
+        "ley-de-fomento-para-la-lectura-y-el-libro",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-federal-de-revocacion-de-mandato"
+      ]
+    },
+    {
+      "law_id": "ley-sistemas-pagos",
+      "name": "Ley del Sistema de Pagos",
+      "short": "LSP",
+      "sector": "financiero",
+      "cascade_size": 79,
+      "direct_dependents": 67,
+      "sample_dependents": [
+        "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+        "ley-de-fomento-para-la-lectura-y-el-libro",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+        "ley-de-asociaciones-publico-privadas"
+      ]
+    },
+    {
+      "law_id": "lgpp",
+      "name": "Ley General de Partidos Políticos",
+      "short": "LGPP",
+      "sector": "electoral",
+      "cascade_size": 70,
+      "direct_dependents": 63,
+      "sample_dependents": [
+        "ley-federal-de-cinematografia",
+        "ley-de-fomento-para-la-lectura-y-el-libro",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-contabilidad-gubernamental"
       ]
     }
   ],
-  "circular_dependencies": [],
+  "circular_dependencies": [
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-federal-del-trabajo",
+        "ley-del-seguro-social"
+      ],
+      "law_names": [
+        "LEY Federal del Trabajo",
+        "LEY del Seguro Social"
+      ],
+      "type": "direct"
+    }
+  ],
   "community_analysis": [
     {
-      "community_id": 4,
-      "size": 39,
+      "community_id": 5,
+      "size": 87,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 10,
-        "ambiental": 4,
-        "financiero": 3,
-        "administrativo": 3,
-        "salud": 3
+        "unknown": 40,
+        "constitucional": 7,
+        "educacion": 7,
+        "penal": 5,
+        "mercantil": 5
+      },
+      "central_law": "constitucion-politica",
+      "central_law_name": "Constitución Política de los Estados Unidos Mexicanos",
+      "members": [
+        "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
+        "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+        "ley-de-proteccion-del-espacio-aereo-mexicano",
+        "ley-general-de-sociedades-mercantiles",
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-organica-del-instituto-politecnico-nacional",
+        "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+        "ley-federal-de-competencia-economica",
+        "ley-de-capitalizacion-del-procampo",
+        "ley-general-de-educacion"
+      ]
+    },
+    {
+      "community_id": 2,
+      "size": 76,
+      "dominant_sector": "unknown",
+      "sector_distribution": {
+        "unknown": 38,
+        "fiscal": 6,
+        "educacion": 6,
+        "administrativo": 6,
+        "salud": 4
       },
       "central_law": "ley-federal-competencia-economica",
       "central_law_name": "Ley Federal de Competencia Económica",
       "members": [
         "ley-federal-de-cinematografia",
+        "ley-federal-de-armas-de-fuego-y-explosivos",
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-de-asociaciones-publico-privadas",
+        "ley-general-para-el-control-del-tabaco",
+        "ley-general-de-desarrollo-social",
         "ley-de-ayuda-alimentaria-para-los-trabajadores",
-        "ley-federal-de-competencia-economica",
-        "ley-federal-de-sanidad-animal",
-        "ley-reglamentaria-del-servicio-ferroviario",
-        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
-        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-        "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
-        "ley-federal-de-produccion-certificacion-y-comercio-de-semillas"
+        "ley-de-tesoreria-de-la-federacion",
+        "ley-general-de-cultura-y-derechos-culturales",
+        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025"
       ]
     },
     {
-      "community_id": 3,
-      "size": 31,
+      "community_id": 4,
+      "size": 73,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 13,
-        "constitucional": 4,
-        "educacion": 3,
-        "anticorrupcion": 2,
-        "seguridad": 2
-      },
-      "central_law": "constitucion-politica",
-      "central_law_name": "Constitución Política de los Estados Unidos Mexicanos",
-      "members": [
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-        "ley-de-organizaciones-ganaderas",
-        "ley-federal-del-mar",
-        "ley-general-del-sistema-nacional-anticorrupcion",
-        "ley-general-de-aguas",
-        "ley-de-educacion-naval",
-        "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento",
-        "ley-de-desarrollo-rural-sustentable",
-        "ley-general-de-educacion-superior"
-      ]
-    },
-    {
-      "community_id": 1,
-      "size": 19,
-      "dominant_sector": "unknown",
-      "sector_distribution": {
-        "unknown": 5,
-        "seguridad": 2,
-        "civil": 2,
-        "financiero": 2,
-        "seguridad-social": 2
-      },
-      "central_law": "ley-pemex",
-      "central_law_name": "Ley de Petróleos Mexicanos",
-      "members": [
-        "ley-federal-de-procedimiento-contencioso-administrativo",
-        "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
-        "ley-del-servicio-militar",
-        "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
-        "ley-organica-del-instituto-nacional-de-antropologia-e-historia",
-        "ley-para-regular-las-instituciones-de-tecnologia-financiera",
-        "codigo-federal-de-procedimientos-civiles",
-        "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
-        "ley-sobre-la-celebracion-de-tratados",
-        "ley-de-la-comision-nacional-de-los-derechos-humanos"
-      ]
-    },
-    {
-      "community_id": 5,
-      "size": 18,
-      "dominant_sector": "financiero",
-      "sector_distribution": {
-        "financiero": 6,
-        "electoral": 3,
-        "unknown": 2,
-        "mercantil": 2,
-        "penal": 1
+        "unknown": 28,
+        "ambiental": 7,
+        "educacion": 5,
+        "electoral": 5,
+        "financiero": 4
       },
       "central_law": "ley-general-sociedades-mercantiles",
       "central_law_name": "Ley General de Sociedades Mercantiles",
       "members": [
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+        "ley-de-fomento-para-la-lectura-y-el-libro",
+        "ley-general-en-materia-de-delitos-electorales",
+        "ley-federal-de-revocacion-de-mandato",
+        "ley-general-de-contabilidad-gubernamental",
         "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-        "ley-general-de-sociedades-cooperativas",
-        "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
-        "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
-        "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-        "ley-general-de-poblacion",
-        "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-        "ley-de-fondos-de-inversion",
-        "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal"
+        "ley-de-mineria",
+        "ley-de-ahorro-y-credito-popular",
+        "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+        "ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-para-regular-las-agrupaciones-financieras"
       ]
     },
     {
-      "community_id": 7,
-      "size": 12,
-      "dominant_sector": "penal",
+      "community_id": 1,
+      "size": 50,
+      "dominant_sector": "unknown",
       "sector_distribution": {
-        "penal": 4,
-        "unknown": 2,
-        "ambiental": 1,
-        "seguridad": 1,
-        "constitucional": 1
+        "unknown": 16,
+        "seguridad": 7,
+        "constitucional": 3,
+        "civil": 3,
+        "financiero": 3
       },
-      "central_law": "codigo-nacional-procedimientos-penales",
-      "central_law_name": "Código Nacional de Procedimientos Penales",
+      "central_law": "ley-pemex",
+      "central_law_name": "Ley de Petróleos Mexicanos",
       "members": [
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
-        "ley-federal-de-responsabilidad-ambiental",
-        "ley-de-la-guardia-nacional",
-        "ley-federal-contra-la-delincuencia-organizada",
-        "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
-        "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
-        "codigo-federal-procedimientos-civiles",
-        "codigo-penal-federal",
-        "codigo-nacional-procedimientos-penales"
-      ]
-    },
-    {
-      "community_id": 2,
-      "size": 10,
-      "dominant_sector": "fiscal",
-      "sector_distribution": {
-        "fiscal": 7,
-        "mercantil": 1,
-        "trabajo": 1,
-        "comercio-exterior": 1
-      },
-      "central_law": "codigo-fiscal-federacion",
-      "central_law_name": "Código Fiscal de la Federación",
-      "members": [
-        "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
-        "ley-federal-del-impuesto-sobre-automoviles-nuevos",
-        "ley-de-comercio-exterior",
-        "codigo-fiscal-de-la-federacion",
-        "ley-federal-del-trabajo",
-        "codigo-fiscal-federacion",
-        "ley-isr",
-        "ley-iva",
-        "ley-ieps",
-        "ley-aduanera"
+        "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
+        "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
+        "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
+        "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
+        "ley-federal-de-procedimiento-contencioso-administrativo",
+        "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
+        "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+        "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
+        "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+        "ley-de-inversion-extranjera"
       ]
     },
     {
       "community_id": 0,
-      "size": 5,
-      "dominant_sector": "migracion",
+      "size": 33,
+      "dominant_sector": "financiero",
       "sector_distribution": {
-        "migracion": 2,
+        "financiero": 19,
+        "unknown": 6,
+        "mercantil": 4,
         "educacion": 1,
-        "fiscal": 1,
-        "propiedad-intelectual": 1
+        "constitucional": 1
       },
-      "central_law": "lfda",
-      "central_law_name": "Ley Federal del Derecho de Autor",
+      "central_law": "ley-instituciones-credito",
+      "central_law_name": "Ley de Instituciones de Crédito",
       "members": [
-        "ley-general-de-cultura-y-derechos-culturales",
-        "ley-de-migracion",
-        "ley-federal-de-seguridad-privada",
-        "lfda",
-        "ley-inmigracion"
+        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-titulos-y-operaciones-de-credito",
+        "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
+        "ley-para-regular-las-sociedades-de-informacion-crediticia",
+        "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+        "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
+        "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+        "ley-organica-de-sociedad-hipotecaria-federal",
+        "ley-de-instituciones-de-credito"
+      ]
+    },
+    {
+      "community_id": 7,
+      "size": 23,
+      "dominant_sector": "unknown",
+      "sector_distribution": {
+        "unknown": 6,
+        "seguridad": 4,
+        "penal": 4,
+        "civil": 2,
+        "transparencia": 2
+      },
+      "central_law": "codigo-nacional-procedimientos-penales",
+      "central_law_name": "Código Nacional de Procedimientos Penales",
+      "members": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-de-seguridad-interior",
+        "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
+        "codigo-de-comercio",
+        "codigo-civil-federal",
+        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+        "ley-de-seguridad-nacional",
+        "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+        "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
+        "ley-federal-de-responsabilidad-ambiental"
       ]
     },
     {
       "community_id": 6,
+      "size": 18,
+      "dominant_sector": "fiscal",
+      "sector_distribution": {
+        "fiscal": 12,
+        "unknown": 2,
+        "comercio-exterior": 1,
+        "mercantil": 1,
+        "penal": 1
+      },
+      "central_law": "ley-isr",
+      "central_law_name": "Ley del Impuesto sobre la Renta",
+      "members": [
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-aduanera",
+        "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
+        "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
+        "ley-de-ingresos-sobre-hidrocarburos",
+        "ley-de-coordinacion-fiscal",
+        "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+        "ley-general-de-bibliotecas",
+        "ley-de-comercio-exterior",
+        "ley-federal-de-los-derechos-del-contribuyente"
+      ]
+    },
+    {
+      "community_id": 3,
       "size": 1,
       "dominant_sector": "fiscal",
       "sector_distribution": {
         "fiscal": 1
       },
-      "central_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "central_law_name": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fi",
+      "central_law": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
+      "central_law_name": "LEY de los Impuestos Generales de Importación y de Exportaci",
       "members": [
-        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025"
+        "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion"
       ]
     }
   ],
   "definition_conflicts": [
     {
+      "term": "secretaría",
+      "num_laws": 11,
+      "laws": [
+        "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+        "ley-de-camaras-empresariales-y-sus-confederaciones",
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-de-inversion-extranjera",
+        "ley-de-nacionalidad",
+        "ley-de-puertos",
+        "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+        "ley-federal-de-proteccion-al-consumidor",
+        "ley-general-del-sistema-nacional-de-seguridad-publica",
+        "ley-nacional-del-registro-de-detenciones",
+        "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+          "article": "33",
+          "definition": "Persona titular de la Subjefatura Administrativa y Logística del Estado Mayor Conjunto de la Defensa Nacional, y"
+        },
+        {
+          "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+          "article": "2",
+          "definition": "la Secretaría de Economía."
+        },
+        {
+          "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+          "article": "2o",
+          "definition": "La Secretaría de Infraestructura, Comunicaciones y Transportes;"
+        },
+        {
+          "law_id": "ley-de-inversion-extranjera",
+          "article": "2o",
+          "definition": "la Secretaría de Economía;"
+        },
+        {
+          "law_id": "ley-de-nacionalidad",
+          "article": "2o",
+          "definition": "Secretaría de Relaciones Exteriores;"
+        },
+        {
+          "law_id": "ley-de-puertos",
+          "article": "2o",
+          "definition": "La Secretaría de Marina;"
+        },
+        {
+          "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+          "article": "2",
+          "definition": "la Secretaría de Seguridad y"
+        },
+        {
+          "law_id": "ley-federal-de-proteccion-al-consumidor",
+          "article": "2",
+          "definition": "la Secretaría de Economía, y"
+        },
+        {
+          "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+          "article": "4",
+          "definition": "A la Secretaría de Seguridad y Protección Ciudadana del Gobierno Federal;"
+        },
+        {
+          "law_id": "ley-nacional-del-registro-de-detenciones",
+          "article": "2",
+          "definition": "a la Secretaría de Seguridad y Protección Ciudadana;"
+        },
+        {
+          "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+          "article": "3",
+          "definition": "La Secretaría de Economía;"
+        }
+      ]
+    },
+    {
+      "term": "ley",
+      "num_laws": 11,
+      "laws": [
+        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+        "ley-del-seguro-social",
+        "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+        "ley-federal-de-responsabilidad-ambiental",
+        "ley-general-de-cultura-fisica-y-deporte",
+        "ley-general-de-cultura-fisica-y-deporte",
+        "ley-general-de-partidos-politicos",
+        "ley-general-de-turismo",
+        "ley-general-del-sistema-nacional-de-seguridad-publica",
+        "ley-nacional-del-registro-de-detenciones",
+        "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+          "article": "4",
+          "definition": "La Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores;"
+        },
+        {
+          "law_id": "ley-del-seguro-social",
+          "article": "5",
+          "definition": "la Ley del Seguro Social;"
+        },
+        {
+          "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+          "article": "2",
+          "definition": "la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública;"
+        },
+        {
+          "law_id": "ley-federal-de-responsabilidad-ambiental",
+          "article": "2o",
+          "definition": "La Ley Federal de Responsabilidad Ambiental;"
+        },
+        {
+          "law_id": "ley-general-de-cultura-fisica-y-deporte",
+          "article": "4",
+          "definition": "La Ley General de Cultura Física y Deporte;"
+        },
+        {
+          "law_id": "ley-general-de-cultura-fisica-y-deporte",
+          "article": "4",
+          "definition": "La Ley General de Cultura Física y Deporte;"
+        },
+        {
+          "law_id": "ley-general-de-partidos-politicos",
+          "article": "4",
+          "definition": "La Ley General de Partidos Políticos;"
+        },
+        {
+          "law_id": "ley-general-de-turismo",
+          "article": "3",
+          "definition": "Ley General de Turismo;"
+        },
+        {
+          "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+          "article": "4",
+          "definition": "A la presente Ley;"
+        },
+        {
+          "law_id": "ley-nacional-del-registro-de-detenciones",
+          "article": "2",
+          "definition": "la Ley Nacional del Registro de Detenciones;"
+        },
+        {
+          "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+          "article": "3",
+          "definition": "La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa;"
+        }
+      ]
+    },
+    {
       "term": "comisión",
-      "num_laws": 3,
+      "num_laws": 10,
       "laws": [
         "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
         "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
-        "ley-federal-de-competencia-economica"
+        "ley-de-vivienda",
+        "ley-federal-de-competencia-economica",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-general-de-turismo",
+        "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+        "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+        "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros"
       ],
       "definitions": [
         {
@@ -997,9 +1372,1046 @@
           "definition": "la Comisión de Vigilancia de la Auditoría Superior de la Federación de la Cámara;"
         },
         {
+          "law_id": "ley-de-vivienda",
+          "article": "4",
+          "definition": "la Comisión Nacional de Vivienda;"
+        },
+        {
           "law_id": "ley-federal-de-competencia-economica",
           "article": "3",
           "definition": "La Comisión Nacional Antimonopolio;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "la Comisión de Fomento a las Actividades de las Organizaciones de la Sociedad Civil;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "la Comisión de Fomento a las Actividades de las Organizaciones de la Sociedad Civil;"
+        },
+        {
+          "law_id": "ley-general-de-turismo",
+          "article": "3",
+          "definition": "La Comisión Ejecutiva de Turismo;"
+        },
+        {
+          "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+          "article": "7",
+          "definition": "a la Comisión Nacional para la Mejora Continua de la Educación;"
+        },
+        {
+          "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+          "article": "7",
+          "definition": "a la Comisión Nacional para la Mejora Continua de la Educación;"
+        },
+        {
+          "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+          "article": "3",
+          "definition": "a cualquier cargo, independientemente de su denominación o modalidad diferente al Interés, que una Entidad cobre a un Cliente. Tratándose de Entidades Financieras, se considerarán los cargos que se re"
+        }
+      ]
+    },
+    {
+      "term": "consejo",
+      "num_laws": 8,
+      "laws": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-de-proteccion-del-espacio-aereo-mexicano",
+        "ley-de-seguridad-nacional",
+        "ley-de-vivienda",
+        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-general-de-turismo"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "El Consejo de la Judicatura Federal, los Consejos de las Judicaturas de las Entidades federativas o el órgano judicial, con funciones propias del Consejo o su equivalente, que realice las funciones de"
+        },
+        {
+          "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+          "article": "5",
+          "definition": "Consejo Nacional de Vigilancia y Protección del Espacio Aéreo;"
+        },
+        {
+          "law_id": "ley-de-seguridad-nacional",
+          "article": "6",
+          "definition": "Consejo de Seguridad Nacional."
+        },
+        {
+          "law_id": "ley-de-vivienda",
+          "article": "4",
+          "definition": "el Consejo Nacional de Vivienda;"
+        },
+        {
+          "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+          "article": "4",
+          "definition": "El Consejo Directivo del Instituto;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "el Consejo Técnico Consultivo;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "el Consejo Técnico Consultivo;"
+        },
+        {
+          "law_id": "ley-general-de-turismo",
+          "article": "3",
+          "definition": "El Consejo Consultivo de Turismo;"
+        }
+      ]
+    },
+    {
+      "term": "dependencias",
+      "num_laws": 6,
+      "laws": [
+        "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+        "ley-de-asociaciones-publico-privadas",
+        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+          "article": "5",
+          "definition": "las señaladas en las fracciones I y II del artículo 1 de esta Ley;"
+        },
+        {
+          "law_id": "ley-de-asociaciones-publico-privadas",
+          "article": "12",
+          "definition": "Las secretarías de Estado, la Consejería Jurídica del Ejecutivo Federal y los órganos reguladores coordinados en materia energética;"
+        },
+        {
+          "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+          "article": "2",
+          "definition": "las señaladas en las fracciones I y II del artículo 1 de esta Ley;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "unidades de la Administración Pública Federal Centralizada;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "unidades de la Administración Pública Federal Centralizada;"
+        },
+        {
+          "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+          "article": "4",
+          "definition": "Las Secretarías de Estado, incluyendo a sus respectivos órganos administrativos desconcentrados, la Consejería Jurídica del Ejecutivo Federal, y los órganos reguladores coordinados en materia energéti"
+        }
+      ]
+    },
+    {
+      "term": "entidades",
+      "num_laws": 6,
+      "laws": [
+        "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+        "ley-de-asociaciones-publico-privadas",
+        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+          "article": "5",
+          "definition": "las mencionadas en las fracciones III y IV del artículo 1 de esta Ley;"
+        },
+        {
+          "law_id": "ley-de-asociaciones-publico-privadas",
+          "article": "12",
+          "definition": "Las entidades paraestatales de la Administración Pública Federal, los fideicomisos públicos fe"
+        },
+        {
+          "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+          "article": "2",
+          "definition": "las mencionadas en las fracciones IV y V del artículo 1 de esta Ley;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "los organismos, empresas y fideicomisos de la Administración Pública Federal Paraestatal;"
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "los organismos, empresas y fideicomisos de la Administración Pública Federal Paraestatal;"
+        },
+        {
+          "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+          "article": "4",
+          "definition": "Los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos que de conformidad con la Ley Orgánica de la Administración Pública Federal sean considerados ent"
+        }
+      ]
+    },
+    {
+      "term": "constitución",
+      "num_laws": 5,
+      "laws": [
+        "codigo-militar-de-procedimientos-penales",
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-general-de-partidos-politicos",
+        "ley-nacional-de-ejecucion-penal",
+        "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-militar-de-procedimientos-penales",
+          "article": "3",
+          "definition": "La Constitución Política de los Estados Unidos Mexicanos."
+        },
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "La Constitución Política de los Estados Unidos Mexicanos;"
+        },
+        {
+          "law_id": "ley-general-de-partidos-politicos",
+          "article": "4",
+          "definition": "La Constitución Política de los Estados Unidos Mexicanos;"
+        },
+        {
+          "law_id": "ley-nacional-de-ejecucion-penal",
+          "article": "3",
+          "definition": "A la Constitución Política de los Estados Unidos Mexicanos;"
+        },
+        {
+          "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+          "article": "3",
+          "definition": "Constitución Política de los Estados Unidos Mexicanos;"
+        }
+      ]
+    },
+    {
+      "term": "autoridades",
+      "num_laws": 5,
+      "laws": [
+        "ley-general-de-movilidad-y-seguridad-vial",
+        "ley-general-de-movilidad-y-seguridad-vial",
+        "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+        "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+        "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Autoridades de los tres órdenes de gobierno en materi"
+        },
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Autoridades de los tres órdenes de gobierno en materi"
+        },
+        {
+          "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+          "article": "3",
+          "definition": "a la Comisión Nacional Bancaria y de Valores, al Banco de México, a la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros y a la Procuraduría Federal del Consumido"
+        },
+        {
+          "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+          "article": "1o",
+          "definition": "a los entes públicos que integran a los poderes Ejecutivo, Legislativo y Judicial de los tres órdenes de gobierno, así como los entes públicos que conforme a las disposiciones jurídicas de dichos órde"
+        },
+        {
+          "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+          "article": "1o",
+          "definition": "a los entes públicos que integran a los poderes Ejecutivo, Legislativo y Judicial de los tres órdenes de gobierno, así como los entes públicos que conforme a las disposiciones jurídicas de dichos órde"
+        }
+      ]
+    },
+    {
+      "term": "código",
+      "num_laws": 4,
+      "laws": [
+        "codigo-militar-de-procedimientos-penales",
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-del-seguro-social",
+        "ley-nacional-de-ejecucion-penal"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-militar-de-procedimientos-penales",
+          "article": "3",
+          "definition": "El Código Militar de Procedimientos Penales."
+        },
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "El Código Nacional de Procedimientos Penales;"
+        },
+        {
+          "law_id": "ley-del-seguro-social",
+          "article": "5",
+          "definition": "el Código Fiscal de la Federación;"
+        },
+        {
+          "law_id": "ley-nacional-de-ejecucion-penal",
+          "article": "3",
+          "definition": "Al Código Nacional de Procedimientos Penales;"
+        }
+      ]
+    },
+    {
+      "term": "grave cuando se proporcione",
+      "num_laws": 4,
+      "laws": [
+        "ley-de-ahorro-y-credito-popular",
+        "ley-de-instituciones-de-credito",
+        "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+        "ley-para-regular-las-sociedades-de-informacion-crediticia"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-ahorro-y-credito-popular",
+          "article": "126",
+          "definition": "la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión"
+        },
+        {
+          "law_id": "ley-de-instituciones-de-credito",
+          "article": "108",
+          "definition": "la Comisión Nacional Bancaria y de Valores información falsa o que dolosamente induzca al error, por ocultamiento u omisión"
+        },
+        {
+          "law_id": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+          "article": "94",
+          "definition": "la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión"
+        },
+        {
+          "law_id": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+          "article": "56",
+          "definition": "la Comisión información falsa o que dolosamente induzca al error, por ocultamiento u omisión"
+        }
+      ]
+    },
+    {
+      "term": "consejo nacional",
+      "num_laws": 4,
+      "laws": [
+        "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+        "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+        "ley-general-del-sistema-nacional-de-seguridad-publica",
+        "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+          "article": "2",
+          "definition": "el Consejo Nacional de Inteligencia en Seguridad Pública;"
+        },
+        {
+          "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+          "article": "3",
+          "definition": "El Consejo Nacional de Ordenamiento Territorial y Desarrollo Urbano;"
+        },
+        {
+          "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+          "article": "4",
+          "definition": "Al Consejo Nacional de Seguridad Pública;"
+        },
+        {
+          "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+          "article": "4",
+          "definition": "Consejo Nacional de Humanidades, Ciencias y Tecnologías;"
+        }
+      ]
+    },
+    {
+      "term": "autoridad educativa municipal, al ayuntamiento de cada municipio",
+      "num_laws": 4,
+      "laws": [
+        "ley-general-de-educacion-superior",
+        "ley-general-de-educacion-superior",
+        "ley-general-de-educacion",
+        "ley-general-de-educacion"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-general-de-educacion-superior",
+          "article": "6",
+          "definition": "V.\tAutorización, al acuerdo previo y expreso de la autoridad educativa de las entidades federativas que permite a las instituciones particulares impartir estudios de educación normal y demás para la f"
+        },
+        {
+          "law_id": "ley-general-de-educacion-superior",
+          "article": "6",
+          "definition": "V.\tAutorización, al acuerdo previo y expreso de la autoridad educativa de las entidades federativas que permite a las instituciones particulares impartir estudios de educación normal y demás para la f"
+        },
+        {
+          "law_id": "ley-general-de-educacion",
+          "article": "4",
+          "definition": "IV.\tAutoridades escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, y"
+        },
+        {
+          "law_id": "ley-general-de-educacion",
+          "article": "4",
+          "definition": "IV.\tAutoridades escolares, al personal que lleva a cabo funciones de dirección o supervisión en los sectores, zonas o centros escolares, y"
+        }
+      ]
+    },
+    {
+      "term": "ajustes razonables",
+      "num_laws": 4,
+      "laws": [
+        "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+        "ley-general-de-movilidad-y-seguridad-vial",
+        "ley-general-de-movilidad-y-seguridad-vial",
+        "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+          "article": "4",
+          "definition": "Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes"
+        },
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad e"
+        },
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad e"
+        },
+        {
+          "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+          "article": "3",
+          "definition": "Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican"
+        }
+      ]
+    },
+    {
+      "term": "entidades federativas",
+      "num_laws": 3,
+      "laws": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "Las partes integrantes de la Federación a que se refiere el artículo 43 de la Constitución;"
+        },
+        {
+          "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+          "article": "5",
+          "definition": "los Estados de la Federación y la Ciudad de México, conforme al artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;"
+        },
+        {
+          "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+          "article": "2",
+          "definition": "los Estados de la Federación y la Ciudad de México, conforme al artículo 43 de la Constitución Política de los Estados Unidos Mexicanos;"
+        }
+      ]
+    },
+    {
+      "term": "mipymes",
+      "num_laws": 3,
+      "laws": [
+        "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+        "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+        "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+          "article": "5",
+          "definition": "Micro, pequeñas y medianas empresas;"
+        },
+        {
+          "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+          "article": "3",
+          "definition": "Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público y publicada"
+        },
+        {
+          "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+          "article": "4",
+          "definition": "Las micro, pequeñas y medianas empresas a que se refiere el artículo 3, fracción III de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, así como demás disposicio"
+        }
+      ]
+    },
+    {
+      "term": "accidente",
+      "num_laws": 3,
+      "laws": [
+        "ley-de-aviacion-civil",
+        "ley-de-aviacion-civil",
+        "ley-de-bioseguridad-de-organismos-geneticamente-modificados"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-aviacion-civil",
+          "article": "79",
+          "definition": "todo suceso en el cual se causen lesiones mortales o graves, a personas a bordo de la aeronave, o en tierra por partes que se hayan desprendido, o bien, se ocasionen daños o roturas estructurales a la"
+        },
+        {
+          "law_id": "ley-de-aviacion-civil",
+          "article": "79",
+          "definition": "todo suceso en el cual se causen lesiones mortales o graves, a personas a bordo de la aeronave, o en tierra por partes que se hayan desprendido, o bien, se ocasionen daños o roturas estructurales a la"
+        },
+        {
+          "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+          "article": "3",
+          "definition": "La liberación involuntaria de organismos genéticamente modificados durante su utilización y que pueda suponer, con base en criterios técnicos, posibles riesgos para la salud humana o para el medio amb"
+        }
+      ]
+    },
+    {
+      "term": "entes públicos",
+      "num_laws": 3,
+      "laws": [
+        "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+        "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+        "ley-general-de-comunicacion-social"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+          "article": "4",
+          "definition": "Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Públic"
+        },
+        {
+          "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+          "article": "4",
+          "definition": "Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la Administración Públic"
+        },
+        {
+          "law_id": "ley-general-de-comunicacion-social",
+          "article": "4",
+          "definition": "En singular o plural, los poderes de la Federación, de las Entidades Federativas; los municipios y las demarcaciones territoriales de la Ciudad de México, así como los órganos constitucionales autónom"
+        }
+      ]
+    },
+    {
+      "term": "fondo mexicano del petróleo",
+      "num_laws": 3,
+      "laws": [
+        "ley-de-ingresos-sobre-hidrocarburos",
+        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+          "article": "3",
+          "definition": "el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo;"
+        },
+        {
+          "law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+          "article": "2",
+          "definition": "el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, y"
+        },
+        {
+          "law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+          "article": "2",
+          "definition": "el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, y"
+        }
+      ]
+    },
+    {
+      "term": "compensación",
+      "num_laws": 3,
+      "laws": [
+        "ley-de-sistemas-de-pagos",
+        "ley-de-sistemas-de-pagos",
+        "ley-general-de-victimas"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-sistemas-de-pagos",
+          "article": "2o",
+          "definition": "la sustitución que se lleve a cabo en términos de las Normas Internas de un Sistema de Pagos, de los derechos y obligaciones derivados de las Órdenes de Transferencia, por un único crédito o por una ú"
+        },
+        {
+          "law_id": "ley-de-sistemas-de-pagos",
+          "article": "2o",
+          "definition": "la sustitución que se lleve a cabo en términos de las Normas Internas de un Sistema de Pagos, de los derechos y obligaciones derivados de las Órdenes de Transferencia, por un único crédito o por una ú"
+        },
+        {
+          "law_id": "ley-general-de-victimas",
+          "article": "6",
+          "definition": "Erogación económica a que la víctima tenga derecho en los términos de esta Ley;"
+        }
+      ]
+    },
+    {
+      "term": "comité",
+      "num_laws": 3,
+      "laws": [
+        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+        "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+          "article": "2",
+          "definition": "el Comité Técnico del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo;"
+        },
+        {
+          "law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+          "article": "2",
+          "definition": "el Comité Técnico del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo;"
+        },
+        {
+          "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+          "article": "4",
+          "definition": "El Comité Nacional de Productividad, previsto en el artículo 153-K de la Ley Federal del Trabajo;"
+        }
+      ]
+    },
+    {
+      "term": "equivalente",
+      "num_laws": 3,
+      "laws": [
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-del-impuesto-especial-sobre-produccion-y-servicios"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-impuesto-al-valor-agregado",
+          "article": "43",
+          "definition": "la diferencia entre el monto del impuesto establecido en este Ordenamiento y las cantidades que de acuerdo con el mismo pudieren ser acreditadas"
+        },
+        {
+          "law_id": "ley-del-impuesto-al-valor-agregado",
+          "article": "43",
+          "definition": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas"
+        },
+        {
+          "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+          "article": "29",
+          "definition": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas"
+        }
+      ]
+    },
+    {
+      "term": "fondo",
+      "num_laws": 3,
+      "laws": [
+        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+        "ley-federal-de-responsabilidad-ambiental",
+        "ley-general-de-turismo"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+          "article": "4",
+          "definition": "El fondo de fomento y garantía para el consumo de los trabajadores a que se refiere la Ley Federal del Trabajo;"
+        },
+        {
+          "law_id": "ley-federal-de-responsabilidad-ambiental",
+          "article": "2o",
+          "definition": "El Fondo de Responsabilidad Ambiental;"
+        },
+        {
+          "law_id": "ley-general-de-turismo",
+          "article": "3",
+          "definition": "Fondo Nacional de Fomento al Turismo;"
+        }
+      ]
+    },
+    {
+      "term": "instituto",
+      "num_laws": 3,
+      "laws": [
+        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+        "ley-del-seguro-social",
+        "ley-general-de-partidos-politicos"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+          "article": "4",
+          "definition": "El organismo descentralizado denominado Instituto del Fondo Nacional para el Consumo de los Trabajadores;"
+        },
+        {
+          "law_id": "ley-del-seguro-social",
+          "article": "5",
+          "definition": "el Instituto Mexicano del Seguro Social;"
+        },
+        {
+          "law_id": "ley-general-de-partidos-politicos",
+          "article": "4",
+          "definition": "El Instituto Nacional Electoral;"
+        }
+      ]
+    },
+    {
+      "term": "accesibilidad",
+      "num_laws": 3,
+      "laws": [
+        "ley-del-sector-electrico",
+        "ley-general-de-movilidad-y-seguridad-vial",
+        "ley-general-de-movilidad-y-seguridad-vial"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-sector-electrico",
+          "article": "3",
+          "definition": "Principio que garantiza que no existan obstáculos, limitaciones o dificultades que impidan el acceso equitativo, continuo y oportuno del Suministro Eléctrico, asegurando su disponibilidad para todas l"
+        },
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, inclu"
+        },
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, inclu"
+        }
+      ]
+    },
+    {
+      "term": "registro",
+      "num_laws": 3,
+      "laws": [
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+        "ley-nacional-del-registro-de-detenciones"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "el Registro Federal de Organizaciones en el que se inscriban las organizaciones de la sociedad civil que sean objeto de fomento."
+        },
+        {
+          "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+          "article": "2",
+          "definition": "el Registro Federal de Organizaciones en el que se inscriban las organizaciones de la sociedad civil que sean objeto de fomento."
+        },
+        {
+          "law_id": "ley-nacional-del-registro-de-detenciones",
+          "article": "2",
+          "definition": "al Registro Nacional de Detenciones;"
+        }
+      ]
+    },
+    {
+      "term": "consentimiento",
+      "num_laws": 3,
+      "laws": [
+        "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+        "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+        "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+          "article": "2",
+          "definition": "Manifestación de la voluntad libre, específica e informada de la persona titular de los datos mediante la cual se efectúa el tratamiento de los mismos;"
+        },
+        {
+          "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+          "article": "3",
+          "definition": "es la manifestación de la voluntad libre, previa e informada de los pueblos y comunidades indígenas y afromexicanas respecto de medidas susceptibles de afectarles. Dichos pueblos y comunidades tienen "
+        },
+        {
+          "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+          "article": "3",
+          "definition": "es la manifestación de la voluntad libre, previa e informada de los pueblos y comunidades indígenas y afromexicanas respecto de medidas susceptibles de afectarles. Dichos pueblos y comunidades tienen "
+        }
+      ]
+    },
+    {
+      "term": "reglamento",
+      "num_laws": 3,
+      "laws": [
+        "ley-general-de-cultura-fisica-y-deporte",
+        "ley-general-de-cultura-fisica-y-deporte",
+        "ley-general-de-turismo"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-general-de-cultura-fisica-y-deporte",
+          "article": "4",
+          "definition": "El Reglamento de la Ley General de Cultura Física y Deporte;"
+        },
+        {
+          "law_id": "ley-general-de-cultura-fisica-y-deporte",
+          "article": "4",
+          "definition": "El Reglamento de la Ley General de Cultura Física y Deporte;"
+        },
+        {
+          "law_id": "ley-general-de-turismo",
+          "article": "3",
+          "definition": "El de la Ley General de Turismo;"
+        }
+      ]
+    },
+    {
+      "term": "preparación de la elección",
+      "num_laws": 3,
+      "laws": [
+        "ley-general-de-instituciones-y-procedimientos-electorales",
+        "ley-general-de-instituciones-y-procedimientos-electorales",
+        "ley-general-de-instituciones-y-procedimientos-electorales"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+          "article": "208",
+          "definition": "b)\tJornada electoral;"
+        },
+        {
+          "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+          "article": "225",
+          "definition": "b)\tJornada electoral;"
+        },
+        {
+          "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+          "article": "498",
+          "definition": "b)\tConvocatoria y postulación de candidaturas;"
+        }
+      ]
+    },
+    {
+      "term": "acciones afirmativas",
+      "num_laws": 3,
+      "laws": [
+        "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+        "ley-general-de-movilidad-y-seguridad-vial",
+        "ley-general-de-movilidad-y-seguridad-vial"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+          "article": "4",
+          "definition": "Acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad su"
+        },
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultu"
+        },
+        {
+          "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+          "article": "3",
+          "definition": "Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultu"
+        }
+      ]
+    },
+    {
+      "term": "instituciones de seguridad pública",
+      "num_laws": 3,
+      "laws": [
+        "ley-general-del-sistema-nacional-de-seguridad-publica",
+        "ley-nacional-del-registro-de-detenciones",
+        "ley-nacional-sobre-el-uso-de-la-fuerza"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+          "article": "4",
+          "definition": "A las Instituciones Policiales, las Instituciones de Procuración de Justicia, las instituciones penitenciarias y demás órganos, dependencias y entidades encargadas o que realizan tareas de seguridad p"
+        },
+        {
+          "law_id": "ley-nacional-del-registro-de-detenciones",
+          "article": "2",
+          "definition": "a las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias o entidades encargadas de la seguridad pública de orden federal, local o municipal, a que se refier"
+        },
+        {
+          "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+          "article": "3",
+          "definition": "las instituciones policiales, de procuración de justicia, del sistema penitenciario y dependencias o entidades encargadas de la seguridad pública de orden federal, local o municipal, las cuales tambié"
+        }
+      ]
+    },
+    {
+      "term": "la prescripción",
+      "num_laws": 2,
+      "laws": [
+        "codigo-civil-federal",
+        "codigo-de-comercio"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-civil-federal",
+          "article": "1168",
+          "definition": "no interrumpida por la interpelación judicial, si el actor desiste de ella, o fuese desestimada su demanda"
+        },
+        {
+          "law_id": "codigo-de-comercio",
+          "article": "1041",
+          "definition": "no interrumpida por la interpelación judicial, si el actor desistiese de ella o fuese desestimada su demanda"
+        }
+      ]
+    },
+    {
+      "term": "asesoría jurídica",
+      "num_laws": 2,
+      "laws": [
+        "codigo-militar-de-procedimientos-penales",
+        "ley-general-de-victimas"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-militar-de-procedimientos-penales",
+          "article": "3",
+          "definition": "La asesora o asesor jurídico de la víctima;"
+        },
+        {
+          "law_id": "ley-general-de-victimas",
+          "article": "6",
+          "definition": "Asesoría Jurídica Federal de Atención a Víctimas y sus equivalentes en las entidades federativas;"
+        }
+      ]
+    },
+    {
+      "term": "ministerio público",
+      "num_laws": 2,
+      "laws": [
+        "codigo-militar-de-procedimientos-penales",
+        "codigo-nacional-de-procedimientos-penales"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-militar-de-procedimientos-penales",
+          "article": "3",
+          "definition": "El Ministerio Público Militar."
+        },
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "El Ministerio Público de la Federación o al Ministerio Público de las Entidades federativas;"
+        }
+      ]
+    },
+    {
+      "term": "policía",
+      "num_laws": 2,
+      "laws": [
+        "codigo-militar-de-procedimientos-penales",
+        "codigo-nacional-de-procedimientos-penales"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-militar-de-procedimientos-penales",
+          "article": "3",
+          "definition": "Policía Ministerial Militar, Policía Militar, Policía Naval y la Guardia Nacional o Común, y"
+        },
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "Los cuerpos de Policía especializados en la investigación de delitos del fuero federal o del fuero com"
+        }
+      ]
+    },
+    {
+      "term": "asesor jurídico",
+      "num_laws": 2,
+      "laws": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-general-de-victimas"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "Los asesores jurídicos de las víctimas, federales y de las Entidades federativas;"
+        },
+        {
+          "law_id": "ley-general-de-victimas",
+          "article": "6",
+          "definition": "Asesor Jurídico Federal de Atención a Víctimas adscritos a la Comisión Ejecutiva y sus equivalentes en las entidades federativas;"
+        }
+      ]
+    },
+    {
+      "term": "defensor",
+      "num_laws": 2,
+      "laws": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-nacional-de-ejecucion-penal"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "El defensor público federal, defensor público o de oficio de las Entidades federativas, o defensor particular;"
+        },
+        {
+          "law_id": "ley-nacional-de-ejecucion-penal",
+          "article": "3",
+          "definition": "Al defensor público federal, defensor público o de oficio de las entidades federativas, o defensor particular que intervienen en los procesos penales o de ejecución;"
+        }
+      ]
+    },
+    {
+      "term": "juez de control",
+      "num_laws": 2,
+      "laws": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-nacional-de-ejecucion-penal"
+      ],
+      "definitions": [
+        {
+          "law_id": "codigo-nacional-de-procedimientos-penales",
+          "article": "3o",
+          "definition": "El Órgano jurisdiccional del fuero federal o del fuero común que interviene desde el principio del procedimiento y hasta el dictado del auto de apertura a juicio, ya sea local o federal;"
+        },
+        {
+          "law_id": "ley-nacional-de-ejecucion-penal",
+          "article": "3",
+          "definition": "Al Órgano Jurisdiccional del fuero federal o del fuero común que interviene desde el principio del procedimiento y hasta el dictado del auto de apertura a juicio, ya sea federal o local;"
+        }
+      ]
+    },
+    {
+      "term": "cotizante",
+      "num_laws": 2,
+      "laws": [
+        "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+          "article": "5",
+          "definition": "la persona física o moral que confirma su cotización en el procedimiento de adjudicación directa;"
+        },
+        {
+          "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+          "article": "2",
+          "definition": "la persona física o moral que presenta su cotización en el procedimiento de adjudicación directa;"
+        }
+      ]
+    },
+    {
+      "term": "interpósita persona",
+      "num_laws": 2,
+      "laws": [
+        "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+          "article": "5",
+          "definition": "aquella que actúe en nombre propio, pero en interés de otra u otras personas que se encuentren impedidas o inhabilitadas para participar en procedimientos de contratación regulados en la presente Ley;"
+        },
+        {
+          "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+          "article": "2",
+          "definition": "aquella que actúe en nombre propio, pero en interés de otro u otras personas que se encuentren impedidas o inhabilitadas para participar en procedimientos de contratación regulados en la presente Ley;"
         }
       ]
     },
@@ -1024,82 +2436,202 @@
       ]
     },
     {
-      "term": "fondo",
+      "term": "reincidente",
       "num_laws": 2,
       "laws": [
-        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-        "ley-federal-de-responsabilidad-ambiental"
+        "ley-de-aguas-nacionales",
+        "ley-de-biocombustibles"
       ],
       "definitions": [
         {
-          "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-          "article": "4",
-          "definition": "El fondo de fomento y garantía para el consumo de los trabajadores a que se refiere la Ley Federal del Trabajo;"
+          "law_id": "ley-de-aguas-nacionales",
+          "article": "120",
+          "definition": "la persona infractora que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, cuya sanción haya quedado firme"
         },
         {
-          "law_id": "ley-federal-de-responsabilidad-ambiental",
+          "law_id": "ley-de-biocombustibles",
+          "article": "42",
+          "definition": "quien, habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza, dentro de un plazo de diez años, contados a partir de la imposición de la sanción"
+        }
+      ]
+    },
+    {
+      "term": "comisión, a la comisión nacional bancaria y de valores",
+      "num_laws": 2,
+      "laws": [
+        "ley-de-ahorro-y-credito-popular",
+        "ley-de-uniones-de-credito"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-ahorro-y-credito-popular",
+          "article": "3o",
+          "definition": "VI.\tFederación, en singular o plural, a las Federaciones autorizadas por la Comisión, para ejercer de manera auxiliar la supervisión de Sociedades Financieras Populares en los términos de esta Ley;"
+        },
+        {
+          "law_id": "ley-de-uniones-de-credito",
+          "article": "3",
+          "definition": "II. Control, a la capacidad de imponer, directa o indirectamente, decisiones en las asambleas generales de accionistas de la unión; el mantener la titularidad de derechos que permitan, directa o indir"
+        }
+      ]
+    },
+    {
+      "term": "secretaría, a la secretaría de hacienda y crédito público",
+      "num_laws": 2,
+      "laws": [
+        "ley-de-ahorro-y-credito-popular",
+        "ley-de-fondos-de-aseguramiento-agropecuario-y-rural"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-ahorro-y-credito-popular",
+          "article": "3o",
+          "definition": "XI.\tSociedad Financiera Popular, en plural o singular, a las sociedades anóni"
+        },
+        {
+          "law_id": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
           "article": "2o",
-          "definition": "El Fondo de Responsabilidad Ambiental;"
+          "definition": "II. Comisión, a la Comisión Nacional de Seguros y Fianzas;"
         }
       ]
     },
     {
-      "term": "ley",
+      "term": "autorización",
       "num_laws": 2,
       "laws": [
-        "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-        "ley-federal-de-responsabilidad-ambiental"
+        "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+        "ley-federal-de-zonas-economicas-especiales"
       ],
       "definitions": [
         {
-          "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+          "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+          "article": "3",
+          "definition": "Es el acto administrativo mediante el cual la Secretaría de Salud, en el ámbito de su competencia conforme a esta Ley, autoriza organismos genéticamente modificados determinados expresamente en este o"
+        },
+        {
+          "law_id": "ley-federal-de-zonas-economicas-especiales",
+          "article": "3",
+          "definition": "El acto jurídico administrativo mediante el cual la Secretaría de Hacienda y Crédito Público otorga a un Inversionista el derecho a realizar actividades económicas productivas en la Zona respectiva, e"
+        }
+      ]
+    },
+    {
+      "term": "centro",
+      "num_laws": 2,
+      "laws": [
+        "ley-de-proteccion-del-espacio-aereo-mexicano",
+        "ley-de-seguridad-nacional"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+          "article": "5",
+          "definition": "Centro Nacional de Vigilancia y Protección del Espacio Aéreo;"
+        },
+        {
+          "law_id": "ley-de-seguridad-nacional",
+          "article": "6",
+          "definition": "Centro de Investigación y Seguridad Nacional;"
+        }
+      ]
+    },
+    {
+      "term": "comisión intersecretarial",
+      "num_laws": 2,
+      "laws": [
+        "ley-de-vivienda",
+        "ley-federal-de-zonas-economicas-especiales"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-de-vivienda",
           "article": "4",
-          "definition": "La Ley del Instituto del Fondo Nacional para el Consumo de los Trabajadores;"
+          "definition": "la Comisión Intersecretarial de Vivienda;"
         },
         {
-          "law_id": "ley-federal-de-responsabilidad-ambiental",
-          "article": "2o",
-          "definition": "La Ley Federal de Responsabilidad Ambiental;"
+          "law_id": "ley-federal-de-zonas-economicas-especiales",
+          "article": "3",
+          "definition": "La Comisión Intersecretarial de Zonas Económicas Especiales;"
         }
       ]
     },
     {
-      "term": "ajustes razonables",
+      "term": "el valor en aduana",
       "num_laws": 2,
       "laws": [
-        "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-        "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes"
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-del-impuesto-especial-sobre-produccion-y-servicios"
       ],
       "definitions": [
         {
-          "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-          "article": "4",
-          "definition": "Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes"
+          "law_id": "ley-del-impuesto-al-valor-agregado",
+          "article": "27",
+          "definition": "que se refiere la Ley Aduanera, adicionado del monto de las contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva"
         },
         {
-          "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
-          "article": "3",
-          "definition": "Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican"
+          "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+          "article": "14",
+          "definition": "que se refiere la Ley Aduanera, adicionado del monto de las demás contribuciones y aprovechamientos que se tuvieran que pagar en caso de que se tratara de una importación definitiva, a excepción del i"
         }
       ]
     },
     {
-      "term": "constitución",
+      "term": "enajenación de los bienes",
       "num_laws": 2,
       "laws": [
-        "ley-nacional-de-ejecucion-penal",
-        "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes"
+        "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+        "ley-del-impuesto-especial-sobre-produccion-y-servicios"
       ],
       "definitions": [
         {
-          "law_id": "ley-nacional-de-ejecucion-penal",
-          "article": "3",
-          "definition": "A la Constitución Política de los Estados Unidos Mexicanos;"
+          "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+          "article": "7o",
+          "definition": "que hace referencia el inciso A) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en que se produjeron o envasaron o, en su caso, del almacén del contribuyente, cuando los mismos no "
         },
         {
-          "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
-          "article": "3",
-          "definition": "Constitución Política de los Estados Unidos Mexicanos;"
+          "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+          "article": "7o",
+          "definition": "que hace referencia el inciso C) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en el que se fabricaron o, en su caso, del almacén del contribuyente, cuando los mismos no se destin"
+        }
+      ]
+    },
+    {
+      "term": "como ganancia o",
+      "num_laws": 2,
+      "laws": [
+        "ley-del-impuesto-sobre-la-renta",
+        "ley-del-impuesto-sobre-la-renta"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-impuesto-sobre-la-renta",
+          "article": "20",
+          "definition": "pérdida, según corresponda, la diferencia entre la cantidad que se perciba por la enajenación y la cantidad inicial que, en su caso, se haya pagado por su adquisición"
+        },
+        {
+          "law_id": "ley-del-impuesto-sobre-la-renta",
+          "article": "20",
+          "definition": "pérdida, según se trate, la cantidad inicial que, en su caso, se haya percibido o pagado por la celebración de dicha operación o por haber adquirido posteriormente los derechos y obligaciones contenid"
+        }
+      ]
+    },
+    {
+      "term": "adicionalmente",
+      "num_laws": 2,
+      "laws": [
+        "ley-del-impuesto-sobre-la-renta",
+        "ley-del-impuesto-sobre-la-renta"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-del-impuesto-sobre-la-renta",
+          "article": "191",
+          "definition": "ingreso acumulable un monto equivalente al 3% del monto deducido conforme a este artículo, en cada uno de los ejercicios que transcurran desde el ejercicio en el que se adquirió el terreno y hasta el "
+        },
+        {
+          "law_id": "ley-del-impuesto-sobre-la-renta",
+          "article": "215",
+          "definition": "ingreso acumulable un monto equivalente al 3% del monto deducido conforme a esta fracción, en cada uno de los ejercicios que transcurran desde el ejercicio en el que se adquirió el terreno y hasta el "
         }
       ]
     }

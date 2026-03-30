@@ -1,0 +1,115 @@
+{
+  "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+  "extracted_at": "2026-03-30T12:01:42.408663+00:00",
+  "total_definitions": 12,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "21",
+      "term": "la fórmula de proporcionalidad pura consta de los siguientes elementos",
+      "definition_text": "a)\tCociente natural, y",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "21",
+      "term": "cociente natural",
+      "definition_text": "es el resultado de dividir la votación nacional emitida, entre el número por repartir de senadores electos por el principio de representación proporcional.",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "21",
+      "term": "resto mayor",
+      "definition_text": "es el remanente más alto entre los restos de las votaciones de cada partido político después de haber participado en la distribución de senadores mediante el cociente natural. El resto mayor deberá utilizarse cuando aún hubiese senadores por distribuir.",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "21",
+      "term": "para la aplicación de la fórmula, se observará el procedimiento siguiente",
+      "definition_text": "a)\tPor el cociente natural se distribuirán a cada partido político tantos senadores como número de veces contenga su votación dicho cociente, y",
+      "raw_snippet": "Se entiende por ",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "208",
+      "term": "preparación de la elección",
+      "definition_text": "b)\tJornada electoral;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "208",
+      "term": "la etapa de la jornada electoral se inicia a las 8",
+      "definition_text": "00 horas del primer domingo de junio y concluye con la clausura de casilla.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "225",
+      "term": "preparación de la elección",
+      "definition_text": "b)\tJornada electoral;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "225",
+      "term": "la etapa de la jornada electoral se inicia a las 8",
+      "definition_text": "00 horas del primer domingo de junio y concluye con la clausura de casilla.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "366",
+      "term": "de la convocatoria",
+      "definition_text": "b)\tDe los actos previos al registro de Candidatos Independientes;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "498",
+      "term": "preparación de la elección",
+      "definition_text": "b)\tConvocatoria y postulación de candidaturas;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "498",
+      "term": "jornada electoral",
+      "definition_text": "d)\tCómputos y sumatoria;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "law_name": "LEY General de Instituciones y Procedimientos Electorales",
+      "article": "498",
+      "term": "la etapa de la jornada electoral inicia a las 8",
+      "definition_text": "00 horas del primer domingo de junio del año que corresponda y concluye con el cómputo de los votos en casilla.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

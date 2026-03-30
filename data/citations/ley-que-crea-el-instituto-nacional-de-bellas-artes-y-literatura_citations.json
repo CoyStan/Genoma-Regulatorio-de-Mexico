@@ -1,0 +1,65 @@
+{
+  "law_id": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
+  "extracted_at": "2026-03-30T12:00:14.782464+00:00",
+  "total_citations": 4,
+  "citations": [
+    {
+      "source_law": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
+      "source_article": "16",
+      "target_law_raw": "Ley de Premios",
+      "target_law_id": "ley-pemex",
+      "target_article": null,
+      "citation_text": "ARTICULO 16.- Corresponderá a la Secretaría de Cultura, a través del Instituto otorgar el premio nacional de Arte y Literatura, en términos de la Ley de Premios, Estímulos y Recompensas Civiles. Artículo reformado DOF 17-12-2015  TRANSITORIOS:  PRIMERO.- La Secretaría de Educación Pública, de acuerdo con la d",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 143,
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7692307692307693,
+      "resolution_matched_alias": "ley de pemex"
+    },
+    {
+      "source_law": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
+      "source_article": "16",
+      "target_law_raw": "Ley General de Bienes Nacionales",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "jecutivo Federal destinarlo al uso de la Secretaría de Bienes Nacionales e Inspección Administrativa, con la facultad que le otorga el artículo 28 de la Ley General de Bienes Nacionales en vigor.  Pedro Guerrero Martínez, S. P.- Tito Ortega Sánchez, D. P.- Ruffo Figueroa Figueroa, S. S.- J. Rodolfo Suárez Coello, D. S.- Rúbricas\".  En cumplim",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 3276,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
+      "source_article": "16",
+      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
+      "target_law_id": "loapf",
+      "target_article": null,
+      "citation_text": "brica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.  Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015  ARTÍCULO V",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 4223,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+    },
+    {
+      "source_law": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
+      "source_article": "16",
+      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
+      "target_article": "89",
+      "citation_text": ". P.- Rubén Vizcarra, S. S.- José López Bermúdez, D. P.- César M. Cervantes, D. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., ",
+      "pattern_name": "constitucion_full",
+      "pattern_group": "constitutional",
+      "confidence": "high",
+      "char_offset": 1415
+    }
+  ],
+  "resolved_at": "2026-03-30T12:00:50.016767+00:00"
+}

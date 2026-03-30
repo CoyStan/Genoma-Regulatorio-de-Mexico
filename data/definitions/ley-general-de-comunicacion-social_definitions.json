@@ -1,0 +1,16 @@
+{
+  "law_id": "ley-general-de-comunicacion-social",
+  "extracted_at": "2026-03-30T12:01:42.285339+00:00",
+  "total_definitions": 1,
+  "definitions": [
+    {
+      "law_id": "ley-general-de-comunicacion-social",
+      "law_name": "LEY General de Comunicación Social",
+      "article": "4",
+      "term": "entes públicos",
+      "definition_text": "En singular o plural, los poderes de la Federación, de las Entidades Federativas; los municipios y las demarcaciones territoriales de la Ciudad de México, así como los órganos constitucionales autónomos y cualquier otra dependencia o entidad de carácter público;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

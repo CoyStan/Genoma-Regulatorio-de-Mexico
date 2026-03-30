@@ -1,0 +1,124 @@
+{
+  "law_id": "ley-de-aviacion-civil",
+  "extracted_at": "2026-03-30T12:01:40.791382+00:00",
+  "total_definitions": 13,
+  "definitions": [
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "actos de interferencia ilícita",
+      "definition_text": "Actos, o tentativas, destinados a comprometer la seguridad de la aviación civil;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "aeronave",
+      "definition_text": "Toda máquina que puede sustentarse en la atmósfera por reacciones del aire que no sean las de esta contra la superficie de la tierra;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "aeródromo civil",
+      "definition_text": "Área definida de tierra o de agua adecuada para el despegue, aterrizaje, acuatizaje o movimiento de aeronaves, con instalaciones o servicios mínimos para garantizar la seguridad de su operación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "aeromodelo",
+      "definition_text": "Aeronave no tripulada, manejada por control remoto, fabricada a escala reducida del tamaño real de una aeronave tripulada, para uso exclusivamente recreativo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "aeronave autónoma",
+      "definition_text": "Aeronave no tripulada que opera sin la intervención de piloto en la gestión del vuelo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "aeronave no tripulada",
+      "definition_text": "Aeronave destinada a volar sin piloto a bordo;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "aeropuerto",
+      "definition_text": "Aeródromo civil de servicio público con instalaciones y servicios adecuados para la recepción y despacho de aeronaves, pasajeros, carga y correo del servicio de transporte aéreo regular y no regular, así como de servicios aéreos a terceros y operaciones de aeronaves para uso particular;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "aerovía",
+      "definition_text": "Ruta aérea dotada de radioayudas para la navegación;",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "2",
+      "term": "agencia federal de aviación civil",
+      "definition_text": "Órgano administrativo desconcentrado de la Secretaría de Infraestructura, Comunicaciones y Transportes, con autonomía técnica, operativa",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "79",
+      "term": "accidente",
+      "definition_text": "todo suceso en el cual se causen lesiones mortales o graves, a personas a bordo de la aeronave, o en tierra por partes que se hayan desprendido, o bien, se ocasionen daños o roturas estructurales a la aeronave, o por el que la aeronave desaparezca o se encuentre en un lugar inaccesible, y",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "79",
+      "term": "incidente",
+      "definition_text": "todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente que afecte o pueda afectar la seguridad operacional.",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "79",
+      "term": "accidente",
+      "definition_text": "todo suceso en el cual se causen lesiones mortales o graves, a personas a bordo de la aeronave, o en tierra por partes que se hayan desprendido, o bien, se ocasionen daños o roturas estructurales a la aeronave, o por el que la aeronave desaparezca o se encuentre en un lugar inaccesible, y",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "law_name": "LEY de Aviación Civil",
+      "article": "79",
+      "term": "incidente",
+      "definition_text": "todo suceso relacionado con la utilización de una aeronave, que no llegue a ser un accidente que afecte o pueda afectar la seguridad operacional.",
+      "raw_snippet": "Para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    }
+  ]
+}

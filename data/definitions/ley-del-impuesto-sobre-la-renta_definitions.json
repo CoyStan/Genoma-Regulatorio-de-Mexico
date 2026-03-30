@@ -1,0 +1,203 @@
+{
+  "law_id": "ley-del-impuesto-sobre-la-renta",
+  "extracted_at": "2026-03-30T12:01:41.544096+00:00",
+  "total_definitions": 24,
+  "definitions": [
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "2",
+      "term": "se celebran a nombre o por cuenta del mismo",
+      "definition_text": "II.\tPrevén la enajenación de los derechos de propiedad, o el otorgamiento del uso o goce temporal de un bien que posea el residente en el extranjero o sobre el cual tenga el derecho del uso o goce temporal, u",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "7",
+      "term": "previsión social",
+      "definition_text": "las erogaciones efectuadas a favor de personas que no tengan el carácter de trabajadores o de socios o miembros de sociedades cooperativas",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "8",
+      "term": "el ajuste",
+      "definition_text": "parte del interés",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "10",
+      "term": "acreditable contra el impuesto del ejercicio un monto igual",
+      "definition_text": "este último",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "16",
+      "term": "ingreso atribuible",
+      "definition_text": "un establecimiento permanente la simple remesa que obtenga de la oficina central de la persona moral o de otro establecimiento de ésta",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "20",
+      "term": "como ganancia o",
+      "definition_text": "pérdida, según corresponda, la diferencia entre la cantidad que se perciba por la enajenación y la cantidad inicial que, en su caso, se haya pagado por su adquisición",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "20",
+      "term": "como ganancia o",
+      "definition_text": "pérdida, según se trate, la cantidad inicial que, en su caso, se haya percibido o pagado por la celebración de dicha operación o por haber adquirido posteriormente los derechos y obligaciones contenidas en la misma, según sea el caso",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "20",
+      "term": "en cada liquidación",
+      "definition_text": "la ganancia o como pérdida, según corresponda, el monto de la diferencia liquidada",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "20",
+      "term": "dicho cargo proporcional",
+      "definition_text": "interés a favor o a cargo, acumulable o deducible, según corresponda",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "20",
+      "term": "como interés",
+      "definition_text": "favor o a cargo, según corresponda, el monto de cada diferencia y éstas serán el interés acumulable o deducible, respectivamente",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "23",
+      "term": "como saldo de la referida cuenta",
+      "definition_text": "la fecha de adquisición, el saldo de la cuenta de utilidad fiscal neta que hubiera correspondido a la fecha de la enajenación inmediata anterior de las acciones de la misma persona moral",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "27",
+      "term": "incumplido el requisito",
+      "definition_text": "que se refiere el primer párrafo de esta fracción, siempre que se presenten dichas declaraciones dentro de un plazo máximo de 60 días contados a partir de la fecha en la que se notifique el mismo",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "45",
+      "term": "que son",
+      "definition_text": "plazo mayor de un mes, si el cobro se efectúa después de 30 días naturales contados a partir de aquél en que se concertó el crédito",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "78",
+      "term": "para reducciones de capital subsecuentes",
+      "definition_text": "aportación de capital en los términos de este artículo",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "78",
+      "term": "para reducciones posteriores",
+      "definition_text": "aportación de capital en los términos de este artículo, siempre y cuando no se realice reembolso alguno en el momento de la escisión",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "176",
+      "term": "que los mismos le pertenecen al contribuyente o",
+      "definition_text": "una entidad extranjera en proporción a su participación sobre la misma",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "177",
+      "term": "que el contribuyente tiene",
+      "definition_text": "disposición de las autoridades fiscales la contabilidad de las entidades extranjeras a que se refiere el primer párrafo del artículo 176 de esta Ley, cuando deba proporcionársela a dicha autoridad al ejercer sus facultades de comprobación",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "179",
+      "term": "las características de las operaciones, incluyendo",
+      "definition_text": "a)\tEn el caso de operaciones de financiamiento, elementos tales como el monto del principal, plazo, garantías, solvencia del deudor y tasa de interés.",
+      "raw_snippet": "para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "179",
+      "term": "las características de las operaciones, incluyendo",
+      "definition_text": "a)\tEn el caso de operaciones de financiamiento, elementos tales como el monto del principal, plazo, garantías, solvencia del deudor y tasa de interés.",
+      "raw_snippet": "Para los efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "179",
+      "term": "las características de las operaciones, incluyendo",
+      "definition_text": "a)\tEn el caso de operaciones de financiamiento, elementos tales como el monto del principal, plazo, garantías, solvencia del deudor y tasa de interés.",
+      "raw_snippet": "para efectos de esta Ley,",
+      "extraction_method": "definition_block"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "182",
+      "term": "que se cumple con la obligación de tener",
+      "definition_text": "disposición de las autoridades fiscales la documentación antes referida, cuando se proporcione a dichas autoridades, en su caso, dentro de los plazos señalados en las disposiciones fiscales",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "191",
+      "term": "adicionalmente",
+      "definition_text": "ingreso acumulable un monto equivalente al 3% del monto deducido conforme a este artículo, en cada uno de los ejercicios que transcurran desde el ejercicio en el que se adquirió el terreno y hasta el ejercicio inmediato anterior a aquel en el que se enajene el mismo",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "215",
+      "term": "como coeficiente de utilidad el que corresponda",
+      "definition_text": "su actividad preponderante en los términos del artículo 58 del Código Fiscal de la Federación",
+      "extraction_method": "se_considera"
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "law_name": "LEY del Impuesto sobre la Renta",
+      "article": "215",
+      "term": "adicionalmente",
+      "definition_text": "ingreso acumulable un monto equivalente al 3% del monto deducido conforme a esta fracción, en cada uno de los ejercicios que transcurran desde el ejercicio en el que se adquirió el terreno y hasta el ejercicio inmediato anterior a aquél en el que se enajene el mismo",
+      "extraction_method": "se_considera"
+    }
+  ]
+}
