@@ -1,6 +1,6 @@
 # Genoma Regulatorio de México — Resumen de la Red
 
-_Generado: 2026-03-29 23:33 UTC_
+_Generado: 2026-03-29 23:52 UTC_
 
 ## Estadísticas generales
 - **Leyes (nodos):** 135

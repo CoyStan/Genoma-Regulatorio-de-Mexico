@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T23:33:56.318167+00:00",
+  "generated_at": "2026-03-29T23:52:32.102534+00:00",
   "summary": {
     "num_nodes": 135,
     "num_edges": 848,
@@ -100,9 +100,9 @@
       "total_degree": 15,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.004418944979772985,
+      "hub_score": 0.004418944979772988,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-federal-de-armas-de-fuego-y-explosivos": {
@@ -111,7 +111,7 @@
       "total_degree": 8,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.003510512631438943,
+      "hub_score": 0.0035105126314389427,
       "authority_score": -0.0,
       "community": 7,
       "cascade_score": 0
@@ -122,9 +122,9 @@
       "total_degree": 16,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.010535551071324898,
+      "hub_score": 0.0105355510713249,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos": {
@@ -133,9 +133,9 @@
       "total_degree": 14,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.03901738482753016,
+      "hub_score": 0.039017384827530165,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-de-ayuda-alimentaria-para-los-trabajadores": {
@@ -144,9 +144,9 @@
       "total_degree": 3,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.003072881501944928,
+      "hub_score": 0.0030728815019449283,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-general-de-cultura-y-derechos-culturales": {
@@ -155,9 +155,9 @@
       "total_degree": 13,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0060231080061031745,
+      "hub_score": 0.006023108006103174,
       "authority_score": -0.0,
-      "community": 4,
+      "community": 0,
       "cascade_score": 0
     },
     "ley-federal-de-competencia-economica": {
@@ -166,9 +166,9 @@
       "total_degree": 13,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.018597170810282178,
+      "hub_score": 0.01859717081028218,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025": {
@@ -179,7 +179,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": -0.0,
-      "community": 5,
+      "community": 6,
       "cascade_score": 0
     },
     "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos": {
@@ -188,9 +188,9 @@
       "total_degree": 18,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.018754068067600334,
+      "hub_score": 0.018754068067600337,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos": {
@@ -201,7 +201,7 @@
       "betweenness": 0.0,
       "hub_score": 0.016786230676574893,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-federal-de-procedimiento-contencioso-administrativo": {
@@ -210,9 +210,9 @@
       "total_degree": 11,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.007065198668805355,
+      "hub_score": 0.007065198668805356,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-federal-de-sanidad-animal": {
@@ -223,7 +223,7 @@
       "betweenness": 0.0,
       "hub_score": 0.008405515142127064,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-reglamentaria-del-servicio-ferroviario": {
@@ -232,9 +232,9 @@
       "total_degree": 15,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.004720313733396628,
+      "hub_score": 0.004720313733396629,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-general-de-sociedades-cooperativas": {
@@ -245,7 +245,7 @@
       "betweenness": 0.0,
       "hub_score": 0.015067291565155634,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores": {
@@ -254,9 +254,9 @@
       "total_degree": 6,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.005334964966414305,
+      "hub_score": 0.0053349649664143056,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-de-organizaciones-ganaderas": {
@@ -265,9 +265,9 @@
       "total_degree": 3,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.007266739090761799,
+      "hub_score": 0.0072667390907618,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas": {
@@ -276,7 +276,7 @@
       "total_degree": 15,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.016468483455369,
+      "hub_score": 0.016468483455368995,
       "authority_score": -0.0,
       "community": 7,
       "cascade_score": 0
@@ -289,7 +289,7 @@
       "betweenness": 0.0,
       "hub_score": 0.011898203564572466,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026": {
@@ -298,9 +298,9 @@
       "total_degree": 16,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.014769317645719413,
+      "hub_score": 0.014769317645719416,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos": {
@@ -309,9 +309,9 @@
       "total_degree": 3,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.001558057634961462,
+      "hub_score": 0.0015580576349614622,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros": {
@@ -320,9 +320,9 @@
       "total_degree": 16,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.008769381145916164,
+      "hub_score": 0.008769381145916166,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral": {
@@ -331,9 +331,9 @@
       "total_degree": 15,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.027666432838847545,
+      "hub_score": 0.027666432838847548,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-federal-del-mar": {
@@ -342,9 +342,9 @@
       "total_degree": 7,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.011084425105996184,
+      "hub_score": 0.011084425105996186,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-general-del-sistema-nacional-anticorrupcion": {
@@ -353,9 +353,9 @@
       "total_degree": 7,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.010862520884443743,
+      "hub_score": 0.010862520884443744,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion": {
@@ -364,9 +364,9 @@
       "total_degree": 2,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0013822571119549928,
+      "hub_score": 0.001382257111954993,
       "authority_score": -0.0,
-      "community": 3,
+      "community": 2,
       "cascade_score": 0
     },
     "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares": {
@@ -375,9 +375,9 @@
       "total_degree": 8,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0038587339232687757,
+      "hub_score": 0.003858733923268776,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-general-de-aguas": {
@@ -386,9 +386,9 @@
       "total_degree": 3,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.006902212237467114,
+      "hub_score": 0.006902212237467116,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-de-educacion-naval": {
@@ -399,7 +399,7 @@
       "betweenness": 0.0,
       "hub_score": 0.0011303289128408746,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-federal-de-produccion-certificacion-y-comercio-de-semillas": {
@@ -408,9 +408,9 @@
       "total_degree": 5,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.00696391107071007,
+      "hub_score": 0.006963911070710072,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-de-aguas-nacionales": {
@@ -419,9 +419,9 @@
       "total_degree": 22,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.019657403302677356,
+      "hub_score": 0.01965740330267736,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento": {
@@ -432,7 +432,7 @@
       "betweenness": 0.0,
       "hub_score": 0.0022606578256817492,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-de-desarrollo-rural-sustentable": {
@@ -441,9 +441,9 @@
       "total_degree": 9,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.021762879508513435,
+      "hub_score": 0.02176287950851344,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro": {
@@ -452,9 +452,9 @@
       "total_degree": 4,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0026399594113591866,
+      "hub_score": 0.002639959411359187,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-general-de-educacion-superior": {
@@ -463,9 +463,9 @@
       "total_degree": 6,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.02742298525805126,
+      "hub_score": 0.027422985258051265,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias": {
@@ -474,9 +474,9 @@
       "total_degree": 9,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.013659836313912519,
+      "hub_score": 0.01365983631391252,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-federal-de-responsabilidad-ambiental": {
@@ -485,7 +485,7 @@
       "total_degree": 11,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.01028152515835416,
+      "hub_score": 0.010281525158354158,
       "authority_score": -0.0,
       "community": 7,
       "cascade_score": 0
@@ -496,9 +496,9 @@
       "total_degree": 16,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.022846672241930755,
+      "hub_score": 0.02284667224193076,
       "authority_score": -0.0,
-      "community": 4,
+      "community": 0,
       "cascade_score": 0
     },
     "ley-federal-de-juegos-y-sorteos": {
@@ -509,7 +509,7 @@
       "betweenness": 0.0,
       "hub_score": 0.0011303289128408746,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica": {
@@ -520,7 +520,7 @@
       "betweenness": 0.0,
       "hub_score": 0.0045213156513634984,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-para-el-dialogo-la-conciliacion-y-la-paz-digna-en-chiapas": {
@@ -531,7 +531,7 @@
       "betweenness": 0.0,
       "hub_score": 0.0011303289128408746,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-de-la-guardia-nacional": {
@@ -551,9 +551,9 @@
       "total_degree": 10,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.008534597327627179,
+      "hub_score": 0.00853459732762718,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-de-los-derechos-de-las-personas-adultas-mayores": {
@@ -562,9 +562,9 @@
       "total_degree": 9,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.006281168098143419,
+      "hub_score": 0.006281168098143421,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales": {
@@ -575,7 +575,7 @@
       "betweenness": 0.0,
       "hub_score": 0.0022606578256817492,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico": {
@@ -584,9 +584,9 @@
       "total_degree": 2,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.001311038282643031,
+      "hub_score": 0.0013110382826430312,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-organica-del-instituto-nacional-de-antropologia-e-historia": {
@@ -595,9 +595,9 @@
       "total_degree": 11,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.005404797507921452,
+      "hub_score": 0.0054047975079214525,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-del-servicio-de-administracion-tributaria": {
@@ -606,9 +606,9 @@
       "total_degree": 6,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.004903523442610275,
+      "hub_score": 0.0049035234426102765,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos": {
@@ -619,7 +619,7 @@
       "betweenness": 0.0,
       "hub_score": 0.00585910271940654,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-para-regular-las-instituciones-de-tecnologia-financiera": {
@@ -628,9 +628,9 @@
       "total_degree": 12,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.002524908110611873,
+      "hub_score": 0.002524908110611872,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-que-crea-la-agencia-espacial-mexicana": {
@@ -639,9 +639,9 @@
       "total_degree": 3,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.004583179053823439,
+      "hub_score": 0.00458317905382344,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-federal-de-responsabilidad-patrimonial-del-estado": {
@@ -650,9 +650,9 @@
       "total_degree": 8,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.004211569347085424,
+      "hub_score": 0.004211569347085426,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes": {
@@ -661,9 +661,9 @@
       "total_degree": 21,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.032389188841152015,
+      "hub_score": 0.03238918884115202,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-federal-de-remuneraciones-de-los-servidores-publicos": {
@@ -672,9 +672,9 @@
       "total_degree": 5,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.016051678034035594,
+      "hub_score": 0.016051678034035597,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-de-la-policia-federal": {
@@ -683,9 +683,9 @@
       "total_degree": 12,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.016632528819864205,
+      "hub_score": 0.01663252881986421,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-organica-de-la-armada-de-mexico": {
@@ -696,7 +696,7 @@
       "betweenness": 0.0,
       "hub_score": 0.00914209627650141,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-nacional-de-extincion-de-dominio": {
@@ -705,9 +705,9 @@
       "total_degree": 11,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.017238361577459397,
+      "hub_score": 0.0172383615774594,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-de-amnistia": {
@@ -718,7 +718,7 @@
       "betweenness": 0.0,
       "hub_score": 0.0011303289128408746,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos": {
@@ -727,9 +727,9 @@
       "total_degree": 13,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.049514759758725865,
+      "hub_score": 0.04951475975872587,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-general-de-poblacion": {
@@ -738,9 +738,9 @@
       "total_degree": 7,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.003823100406695503,
+      "hub_score": 0.0038231004066955044,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-federal-del-impuesto-sobre-automoviles-nuevos": {
@@ -749,9 +749,9 @@
       "total_degree": 6,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.004733200638591364,
+      "hub_score": 0.004733200638591366,
       "authority_score": -0.0,
-      "community": 3,
+      "community": 2,
       "cascade_score": 0
     },
     "ley-federal-de-presupuesto-y-responsabilidad-hacendaria": {
@@ -762,7 +762,7 @@
       "betweenness": 0.0,
       "hub_score": 0.024508842909676126,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-de-fondos-de-inversion": {
@@ -773,7 +773,7 @@
       "betweenness": 0.0,
       "hub_score": 0.019731993408988454,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-organica-de-la-administracion-publica-federal": {
@@ -784,7 +784,7 @@
       "betweenness": 0.0,
       "hub_score": 0.030077104604071845,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "codigo-federal-de-procedimientos-civiles": {
@@ -795,7 +795,7 @@
       "betweenness": 0.0,
       "hub_score": 0.007848171378263923,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-de-comercio-exterior": {
@@ -804,9 +804,9 @@
       "total_degree": 9,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0033311518168980046,
+      "hub_score": 0.003331151816898005,
       "authority_score": -0.0,
-      "community": 3,
+      "community": 2,
       "cascade_score": 0
     },
     "ley-nacional-de-ejecucion-penal": {
@@ -815,9 +815,9 @@
       "total_degree": 7,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.019356569494409802,
+      "hub_score": 0.019356569494409805,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "codigo-fiscal-de-la-federacion": {
@@ -828,7 +828,7 @@
       "betweenness": 0.0,
       "hub_score": 0.03874062105620339,
       "authority_score": -0.0,
-      "community": 3,
+      "community": 2,
       "cascade_score": 0
     },
     "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura": {
@@ -837,9 +837,9 @@
       "total_degree": 5,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0027917889651240106,
+      "hub_score": 0.0027917889651240114,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-federal-contra-la-delincuencia-organizada": {
@@ -859,9 +859,9 @@
       "total_degree": 19,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.010920745456729634,
+      "hub_score": 0.010920745456729638,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes": {
@@ -883,7 +883,7 @@
       "betweenness": 0.0,
       "hub_score": 0.003920628783519425,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 7,
       "cascade_score": 0
     },
     "ley-sobre-la-celebracion-de-tratados": {
@@ -903,9 +903,9 @@
       "total_degree": 16,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.013631747366857358,
+      "hub_score": 0.013631747366857362,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-de-responsabilidad-civil-por-danos-nucleares": {
@@ -914,9 +914,9 @@
       "total_degree": 3,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0013174918650213046,
+      "hub_score": 0.0013174918650213044,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-de-la-comision-nacional-de-los-derechos-humanos": {
@@ -925,9 +925,9 @@
       "total_degree": 21,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.019068131621222933,
+      "hub_score": 0.019068131621222936,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-de-infraestructura-de-la-calidad": {
@@ -936,9 +936,9 @@
       "total_degree": 5,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.007715846781891232,
+      "hub_score": 0.0077158467818912325,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion": {
@@ -947,9 +947,9 @@
       "total_degree": 11,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.030147966621073795,
+      "hub_score": 0.0301479666210738,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal": {
@@ -960,7 +960,7 @@
       "betweenness": 0.0,
       "hub_score": 0.006655235485522352,
       "authority_score": -0.0,
-      "community": 2,
+      "community": 5,
       "cascade_score": 0
     },
     "ley-monetaria-de-los-estados-unidos-mexicanos": {
@@ -969,9 +969,9 @@
       "total_degree": 8,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0024484187241273973,
+      "hub_score": 0.0024484187241273977,
       "authority_score": -0.0,
-      "community": 6,
+      "community": 1,
       "cascade_score": 0
     },
     "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos": {
@@ -980,9 +980,9 @@
       "total_degree": 14,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.006201872659536356,
+      "hub_score": 0.0062018726595363585,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-general-para-la-deteccion-oportuna-del-cancer-en-la-infancia-y-la-adolescencia": {
@@ -991,9 +991,9 @@
       "total_degree": 3,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.0020733504828731033,
+      "hub_score": 0.0020733504828731038,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "ley-de-energia-para-el-campo": {
@@ -1002,9 +1002,9 @@
       "total_degree": 2,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.003457404491808947,
+      "hub_score": 0.003457404491808948,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano": {
@@ -1015,7 +1015,7 @@
       "betweenness": 0.0,
       "hub_score": 0.017590038445312508,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "ley-federal-de-seguridad-privada": {
@@ -1024,9 +1024,9 @@
       "total_degree": 6,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.003476092027663897,
+      "hub_score": 0.0034760920276638973,
       "authority_score": -0.0,
-      "community": 4,
+      "community": 0,
       "cascade_score": 0
     },
     "ley-de-aeropuertos": {
@@ -1035,9 +1035,9 @@
       "total_degree": 8,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.004119644637708424,
+      "hub_score": 0.004119644637708425,
       "authority_score": -0.0,
-      "community": 0,
+      "community": 4,
       "cascade_score": 0
     },
     "estatuto-de-gobierno-del-distrito-federal": {
@@ -1046,9 +1046,9 @@
       "total_degree": 13,
       "pagerank": 0.004805524145928989,
       "betweenness": 0.0,
-      "hub_score": 0.053489846473554335,
+      "hub_score": 0.05348984647355435,
       "authority_score": -0.0,
-      "community": 1,
+      "community": 3,
       "cascade_score": 0
     },
     "constitucion-politica": {
@@ -1059,7 +1059,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": 0.2801390263783447,
-      "community": 1,
+      "community": 3,
       "cascade_score": 86
     },
     "ley-federal-del-trabajo": {
@@ -1069,8 +1069,8 @@
       "pagerank": 0.013497265221282884,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.01629704443778736,
-      "community": 3,
+      "authority_score": 0.016297044437787383,
+      "community": 2,
       "cascade_score": 26
     },
     "ley-del-seguro-social": {
@@ -1080,8 +1080,8 @@
       "pagerank": 0.0059652141182685,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.005172543204284762,
-      "community": 6,
+      "authority_score": 0.005172543204284764,
+      "community": 1,
       "cascade_score": 10
     },
     "ley-del-infonavit": {
@@ -1092,7 +1092,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": 0.008217083421579846,
-      "community": 6,
+      "community": 1,
       "cascade_score": 15
     },
     "ley-issste": {
@@ -1102,8 +1102,8 @@
       "pagerank": 0.006155241480972946,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.004505703425452425,
-      "community": 6,
+      "authority_score": 0.00450570342545243,
+      "community": 1,
       "cascade_score": 11
     },
     "codigo-fiscal-federacion": {
@@ -1113,8 +1113,8 @@
       "pagerank": 0.006934532291997651,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0054633161311199805,
-      "community": 3,
+      "authority_score": 0.005463316131119981,
+      "community": 2,
       "cascade_score": 9
     },
     "ley-isr": {
@@ -1124,8 +1124,8 @@
       "pagerank": 0.010266879390312745,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.06243750789290329,
-      "community": 3,
+      "authority_score": 0.0624375078929033,
+      "community": 2,
       "cascade_score": 8
     },
     "ley-iva": {
@@ -1136,7 +1136,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": 0.011233627247383813,
-      "community": 3,
+      "community": 2,
       "cascade_score": 14
     },
     "ley-ieps": {
@@ -1146,8 +1146,8 @@
       "pagerank": 0.005800329118431046,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.011358097280549354,
-      "community": 3,
+      "authority_score": 0.01135809728054935,
+      "community": 2,
       "cascade_score": 6
     },
     "ley-aduanera": {
@@ -1157,8 +1157,8 @@
       "pagerank": 0.005144985929283723,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0042699144995473415,
-      "community": 3,
+      "authority_score": 0.004269914499547338,
+      "community": 2,
       "cascade_score": 3
     },
     "codigo-comercio": {
@@ -1168,8 +1168,8 @@
       "pagerank": 0.005408057614623437,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0012342458001546395,
-      "community": 2,
+      "authority_score": 0.0012342458001546402,
+      "community": 5,
       "cascade_score": 4
     },
     "ley-federal-competencia-economica": {
@@ -1179,8 +1179,8 @@
       "pagerank": 0.043033528291393786,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.09305803834541479,
-      "community": 0,
+      "authority_score": 0.09305803834541482,
+      "community": 4,
       "cascade_score": 59
     },
     "ley-federal-proteccion-consumidor": {
@@ -1190,8 +1190,8 @@
       "pagerank": 0.007178775689487484,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.005251615194900321,
-      "community": 0,
+      "authority_score": 0.00525161519490033,
+      "community": 4,
       "cascade_score": 15
     },
     "ley-general-sociedades-mercantiles": {
@@ -1202,7 +1202,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": 0.09408219162646118,
-      "community": 2,
+      "community": 5,
       "cascade_score": 47
     },
     "ley-mercado-valores": {
@@ -1212,8 +1212,8 @@
       "pagerank": 0.006684416463907517,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.013371346799445379,
-      "community": 2,
+      "authority_score": 0.013371346799445374,
+      "community": 5,
       "cascade_score": 6
     },
     "ley-instituciones-credito": {
@@ -1223,8 +1223,8 @@
       "pagerank": 0.010024218135850834,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.011679632637970491,
-      "community": 2,
+      "authority_score": 0.011679632637970477,
+      "community": 5,
       "cascade_score": 17
     },
     "ley-banco-mexico": {
@@ -1234,8 +1234,8 @@
       "pagerank": 0.006696207476946783,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0033877283801397096,
-      "community": 6,
+      "authority_score": 0.003387728380139712,
+      "community": 1,
       "cascade_score": 9
     },
     "ley-sistemas-pagos": {
@@ -1245,8 +1245,8 @@
       "pagerank": 0.006177565921642098,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.008294815997777519,
-      "community": 0,
+      "authority_score": 0.008294815997777516,
+      "community": 4,
       "cascade_score": 16
     },
     "ley-fintech": {
@@ -1256,8 +1256,8 @@
       "pagerank": 0.007605071568651743,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.00685732785114129,
-      "community": 2,
+      "authority_score": 0.006857327851141287,
+      "community": 5,
       "cascade_score": 10
     },
     "codigo-civil-federal": {
@@ -1267,8 +1267,8 @@
       "pagerank": 0.00619413141956965,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0015396330996039985,
-      "community": 0,
+      "authority_score": 0.0015396330996039968,
+      "community": 1,
       "cascade_score": 6
     },
     "codigo-federal-procedimientos-civiles": {
@@ -1278,7 +1278,7 @@
       "pagerank": 0.006449488518897461,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.006197233876314189,
+      "authority_score": 0.006197233876314181,
       "community": 7,
       "cascade_score": 9
     },
@@ -1289,7 +1289,7 @@
       "pagerank": 0.006325427855303595,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0034865480225298824,
+      "authority_score": 0.003486548022529881,
       "community": 7,
       "cascade_score": 10
     },
@@ -1300,7 +1300,7 @@
       "pagerank": 0.018602539693672256,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.03139164328907591,
+      "authority_score": 0.031391643289075864,
       "community": 7,
       "cascade_score": 31
     },
@@ -1311,7 +1311,7 @@
       "pagerank": 0.009820208021074407,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.021636082863079966,
+      "authority_score": 0.02163608286307996,
       "community": 7,
       "cascade_score": 24
     },
@@ -1322,8 +1322,8 @@
       "pagerank": 0.007587144386281778,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.012164753699093377,
-      "community": 0,
+      "authority_score": 0.012164753699093388,
+      "community": 4,
       "cascade_score": 12
     },
     "ley-aguas-nacionales": {
@@ -1333,8 +1333,8 @@
       "pagerank": 0.006395049040438738,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.004174857156538601,
-      "community": 0,
+      "authority_score": 0.004174857156538602,
+      "community": 4,
       "cascade_score": 10
     },
     "ley-general-salud": {
@@ -1345,7 +1345,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": 0.01518422385437875,
-      "community": 0,
+      "community": 4,
       "cascade_score": 24
     },
     "ley-general-educacion": {
@@ -1355,8 +1355,8 @@
       "pagerank": 0.010665575887335091,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.022616107219485655,
-      "community": 1,
+      "authority_score": 0.02261610721948567,
+      "community": 3,
       "cascade_score": 25
     },
     "lgtaip": {
@@ -1366,8 +1366,8 @@
       "pagerank": 0.00922668494483626,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.01182699478951895,
-      "community": 0,
+      "authority_score": 0.011826994789518949,
+      "community": 4,
       "cascade_score": 23
     },
     "lfpdppp": {
@@ -1377,8 +1377,8 @@
       "pagerank": 0.0055704904349431,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0028693787072512802,
-      "community": 0,
+      "authority_score": 0.002869378707251281,
+      "community": 4,
       "cascade_score": 6
     },
     "lftr": {
@@ -1389,7 +1389,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": 0.014994542715973736,
-      "community": 1,
+      "community": 4,
       "cascade_score": 23
     },
     "ley-industria-electrica": {
@@ -1399,8 +1399,8 @@
       "pagerank": 0.005969722371968678,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0037250612516994772,
-      "community": 0,
+      "authority_score": 0.0037250612516994807,
+      "community": 4,
       "cascade_score": 8
     },
     "ley-hidrocarburos": {
@@ -1410,8 +1410,8 @@
       "pagerank": 0.00631978368569244,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0035666350701253832,
-      "community": 0,
+      "authority_score": 0.003566635070125386,
+      "community": 4,
       "cascade_score": 8
     },
     "ley-pemex": {
@@ -1421,8 +1421,8 @@
       "pagerank": 0.026412407375878383,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0447867398053075,
-      "community": 6,
+      "authority_score": 0.044786739805307486,
+      "community": 1,
       "cascade_score": 50
     },
     "lopjf": {
@@ -1432,8 +1432,8 @@
       "pagerank": 0.010081317392711104,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.013920757997300493,
-      "community": 6,
+      "authority_score": 0.013920757997300486,
+      "community": 1,
       "cascade_score": 21
     },
     "loapf": {
@@ -1443,8 +1443,8 @@
       "pagerank": 0.013841406961625223,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.016460876589544666,
-      "community": 0,
+      "authority_score": 0.016460876589544676,
+      "community": 4,
       "cascade_score": 32
     },
     "lfpa": {
@@ -1454,8 +1454,8 @@
       "pagerank": 0.01293145809637378,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.013542772986860784,
-      "community": 0,
+      "authority_score": 0.013542772986860798,
+      "community": 4,
       "cascade_score": 22
     },
     "ley-amparo": {
@@ -1465,8 +1465,8 @@
       "pagerank": 0.006951854752673851,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.008175461315788812,
-      "community": 1,
+      "authority_score": 0.008175461315788805,
+      "community": 3,
       "cascade_score": 12
     },
     "ley-contrataciones-publicas": {
@@ -1476,8 +1476,8 @@
       "pagerank": 0.005287240744081831,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0022356945321278642,
-      "community": 6,
+      "authority_score": 0.0022356945321278647,
+      "community": 5,
       "cascade_score": 6
     },
     "ley-obras-publicas": {
@@ -1487,8 +1487,8 @@
       "pagerank": 0.005373141790297584,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.001859148952510667,
-      "community": 6,
+      "authority_score": 0.0018591489525106677,
+      "community": 1,
       "cascade_score": 5
     },
     "ley-responsabilidades-administrativas": {
@@ -1498,8 +1498,8 @@
       "pagerank": 0.009086922643050215,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.020443060259213088,
-      "community": 1,
+      "authority_score": 0.0204430602592131,
+      "community": 3,
       "cascade_score": 13
     },
     "lgipe": {
@@ -1509,8 +1509,8 @@
       "pagerank": 0.00947300027227333,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.025624937305821594,
-      "community": 2,
+      "authority_score": 0.025624937305821587,
+      "community": 5,
       "cascade_score": 25
     },
     "lgpp": {
@@ -1520,8 +1520,8 @@
       "pagerank": 0.006565192001476436,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.00861397185630472,
-      "community": 2,
+      "authority_score": 0.008613971856304718,
+      "community": 5,
       "cascade_score": 14
     },
     "ley-propiedad-industrial": {
@@ -1531,8 +1531,8 @@
       "pagerank": 0.004881160287251036,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.0002192895720763666,
-      "community": 0,
+      "authority_score": 0.00021928957207636694,
+      "community": 4,
       "cascade_score": 1
     },
     "lfda": {
@@ -1542,8 +1542,8 @@
       "pagerank": 0.01043412742320563,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.01818889785790988,
-      "community": 4,
+      "authority_score": 0.018188897857909888,
+      "community": 0,
       "cascade_score": 18
     },
     "ley-inmigracion": {
@@ -1553,8 +1553,8 @@
       "pagerank": 0.0075875559200907815,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.00813248787118925,
-      "community": 4,
+      "authority_score": 0.008132487871189253,
+      "community": 0,
       "cascade_score": 12
     },
     "ley-seguridad-nacional": {
@@ -1565,7 +1565,7 @@
       "betweenness": 0.0,
       "hub_score": -0.0,
       "authority_score": 0.0031838646481272296,
-      "community": 0,
+      "community": 4,
       "cascade_score": 6
     },
     "ley-prevencion-lavado-dinero": {
@@ -1575,7 +1575,7 @@
       "pagerank": 0.008540426913884732,
       "betweenness": 0.0,
       "hub_score": -0.0,
-      "authority_score": 0.012927536282889349,
+      "authority_score": 0.012927536282889347,
       "community": 7,
       "cascade_score": 21
     }

@@ -1,6 +1,6 @@
 # Genoma Regulatorio de México — Diagnóstico Estructural
 
-_Generado: 2026-03-29T23:34:09.118397+00:00_
+_Generado: 2026-03-29T23:52:32.447107+00:00_
 
 ---
 
@@ -67,14 +67,14 @@ _(Términos definidos de manera diferente en múltiples leyes: 6 encontrados)_
 ## 7. Comunidades Regulatorias
 _(Grupos de leyes que se citan frecuentemente entre sí)_
 
-- **Cluster 0** (37 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Competencia Económica
-- **Cluster 1** (36 leyes) — Sector dominante: unknown — Ley central: Constitución Política de los Estados Unidos Mexica
-- **Cluster 6** (18 leyes) — Sector dominante: unknown — Ley central: Ley de Petróleos Mexicanos
-- **Cluster 2** (17 leyes) — Sector dominante: unknown — Ley central: Ley General de Sociedades Mercantiles
-- **Cluster 7** (11 leyes) — Sector dominante: unknown — Ley central: Código Nacional de Procedimientos Penales
-- **Cluster 3** (10 leyes) — Sector dominante: unknown — Ley central: Código Fiscal de la Federación
-- **Cluster 4** (5 leyes) — Sector dominante: unknown — Ley central: Ley Federal del Derecho de Autor
-- **Cluster 5** (1 leyes) — Sector dominante: unknown — Ley central: PRESUPUESTO de Egresos de la Federación para el Ej
+- **Cluster 4** (39 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Competencia Económica
+- **Cluster 3** (31 leyes) — Sector dominante: unknown — Ley central: Constitución Política de los Estados Unidos Mexica
+- **Cluster 1** (19 leyes) — Sector dominante: unknown — Ley central: Ley de Petróleos Mexicanos
+- **Cluster 5** (18 leyes) — Sector dominante: financiero — Ley central: Ley General de Sociedades Mercantiles
+- **Cluster 7** (12 leyes) — Sector dominante: penal — Ley central: Código Nacional de Procedimientos Penales
+- **Cluster 2** (10 leyes) — Sector dominante: fiscal — Ley central: Código Fiscal de la Federación
+- **Cluster 0** (5 leyes) — Sector dominante: migracion — Ley central: Ley Federal del Derecho de Autor
+- **Cluster 6** (1 leyes) — Sector dominante: fiscal — Ley central: PRESUPUESTO de Egresos de la Federación para el Ej
 
 ---
 

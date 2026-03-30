@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T23:34:09.118397+00:00",
+  "generated_at": "2026-03-29T23:52:32.447107+00:00",
   "graph_stats": {
     "num_nodes": 135,
     "num_edges": 848
@@ -231,7 +231,7 @@
     {
       "law_id": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
       "name": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2025",
-      "sector": "unknown",
+      "sector": "fiscal",
       "in_degree": 0,
       "out_degree": 0,
       "total_degree": 0
@@ -239,7 +239,7 @@
     {
       "law_id": "ley-de-educacion-naval",
       "name": "LEY de Educación Naval",
-      "sector": "unknown",
+      "sector": "educacion",
       "in_degree": 0,
       "out_degree": 1,
       "total_degree": 1
@@ -263,7 +263,7 @@
     {
       "law_id": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "name": "LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
-      "sector": "unknown",
+      "sector": "constitucional",
       "in_degree": 0,
       "out_degree": 1,
       "total_degree": 1
@@ -303,7 +303,7 @@
     {
       "law_id": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
       "name": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público \r\n\t\t\t\tpor Ley, en los que Intervengan Empresas Concesionarias de Bienes \r\n\t\t\t\tdel Dominio Directo de la Nación",
-      "sector": "unknown",
+      "sector": "fiscal",
       "in_degree": 0,
       "out_degree": 2,
       "total_degree": 2
@@ -311,7 +311,7 @@
     {
       "law_id": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
       "name": "LEY de Disciplina para el Personal de la Armada de México",
-      "sector": "unknown",
+      "sector": "seguridad",
       "in_degree": 0,
       "out_degree": 2,
       "total_degree": 2
@@ -319,7 +319,7 @@
     {
       "law_id": "ley-organica-de-la-armada-de-mexico",
       "name": "LEY Orgánica de la Armada de México",
-      "sector": "unknown",
+      "sector": "seguridad",
       "in_degree": 0,
       "out_degree": 2,
       "total_degree": 2
@@ -327,7 +327,7 @@
     {
       "law_id": "ley-de-energia-para-el-campo",
       "name": "LEY de Energía para el Campo",
-      "sector": "unknown",
+      "sector": "energia",
       "in_degree": 0,
       "out_degree": 2,
       "total_degree": 2
@@ -788,15 +788,15 @@
   "circular_dependencies": [],
   "community_analysis": [
     {
-      "community_id": 0,
-      "size": 37,
+      "community_id": 4,
+      "size": 39,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 22,
-        "ambiental": 2,
-        "transparencia": 2,
-        "energia": 2,
-        "administrativo": 2
+        "unknown": 10,
+        "ambiental": 4,
+        "financiero": 3,
+        "administrativo": 3,
+        "salud": 3
       },
       "central_law": "ley-federal-competencia-economica",
       "central_law_name": "Ley Federal de Competencia Económica",
@@ -814,15 +814,15 @@
       ]
     },
     {
-      "community_id": 1,
-      "size": 36,
+      "community_id": 3,
+      "size": 31,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 31,
-        "constitucional": 1,
-        "educacion": 1,
-        "telecomunicaciones": 1,
-        "judicial": 1
+        "unknown": 13,
+        "constitucional": 4,
+        "educacion": 3,
+        "anticorrupcion": 2,
+        "seguridad": 2
       },
       "central_law": "constitucion-politica",
       "central_law_name": "Constitución Política de los Estados Unidos Mexicanos",
@@ -840,15 +840,15 @@
       ]
     },
     {
-      "community_id": 6,
-      "size": 18,
+      "community_id": 1,
+      "size": 19,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 10,
-        "seguridad-social": 2,
-        "administrativo": 2,
-        "vivienda": 1,
-        "financiero": 1
+        "unknown": 5,
+        "seguridad": 2,
+        "civil": 2,
+        "financiero": 2,
+        "seguridad-social": 2
       },
       "central_law": "ley-pemex",
       "central_law_name": "Ley de Petróleos Mexicanos",
@@ -861,20 +861,20 @@
         "ley-para-regular-las-instituciones-de-tecnologia-financiera",
         "codigo-federal-de-procedimientos-civiles",
         "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
-        "ley-de-la-comision-nacional-de-los-derechos-humanos",
-        "ley-monetaria-de-los-estados-unidos-mexicanos"
+        "ley-sobre-la-celebracion-de-tratados",
+        "ley-de-la-comision-nacional-de-los-derechos-humanos"
       ]
     },
     {
-      "community_id": 2,
-      "size": 17,
-      "dominant_sector": "unknown",
+      "community_id": 5,
+      "size": 18,
+      "dominant_sector": "financiero",
       "sector_distribution": {
-        "unknown": 10,
-        "financiero": 3,
-        "electoral": 2,
-        "comercio": 1,
-        "mercantil": 1
+        "financiero": 6,
+        "electoral": 3,
+        "unknown": 2,
+        "mercantil": 2,
+        "penal": 1
       },
       "central_law": "ley-general-sociedades-mercantiles",
       "central_law_name": "Ley General de Sociedades Mercantiles",
@@ -893,14 +893,14 @@
     },
     {
       "community_id": 7,
-      "size": 11,
-      "dominant_sector": "unknown",
+      "size": 12,
+      "dominant_sector": "penal",
       "sector_distribution": {
-        "unknown": 6,
-        "penal": 2,
-        "civil": 1,
-        "anticorrupcion": 1,
-        "financiero": 1
+        "penal": 4,
+        "unknown": 2,
+        "ambiental": 1,
+        "seguridad": 1,
+        "constitucional": 1
       },
       "central_law": "codigo-nacional-procedimientos-penales",
       "central_law_name": "Código Nacional de Procedimientos Penales",
@@ -911,19 +911,19 @@
         "ley-de-la-guardia-nacional",
         "ley-federal-contra-la-delincuencia-organizada",
         "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+        "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
         "codigo-federal-procedimientos-civiles",
         "codigo-penal-federal",
-        "codigo-nacional-procedimientos-penales",
-        "ley-federal-anticorrupcion"
+        "codigo-nacional-procedimientos-penales"
       ]
     },
     {
-      "community_id": 3,
+      "community_id": 2,
       "size": 10,
-      "dominant_sector": "unknown",
+      "dominant_sector": "fiscal",
       "sector_distribution": {
-        "unknown": 4,
-        "fiscal": 4,
+        "fiscal": 7,
+        "mercantil": 1,
         "trabajo": 1,
         "comercio-exterior": 1
       },
@@ -943,13 +943,14 @@
       ]
     },
     {
-      "community_id": 4,
+      "community_id": 0,
       "size": 5,
-      "dominant_sector": "unknown",
+      "dominant_sector": "migracion",
       "sector_distribution": {
-        "unknown": 3,
-        "propiedad-intelectual": 1,
-        "migracion": 1
+        "migracion": 2,
+        "educacion": 1,
+        "fiscal": 1,
+        "propiedad-intelectual": 1
       },
       "central_law": "lfda",
       "central_law_name": "Ley Federal del Derecho de Autor",
@@ -962,11 +963,11 @@
       ]
     },
     {
-      "community_id": 5,
+      "community_id": 6,
       "size": 1,
-      "dominant_sector": "unknown",
+      "dominant_sector": "fiscal",
       "sector_distribution": {
-        "unknown": 1
+        "fiscal": 1
       },
       "central_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
       "central_law_name": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fi",

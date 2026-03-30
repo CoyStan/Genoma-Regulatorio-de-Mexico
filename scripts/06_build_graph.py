@@ -31,6 +31,65 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.utils.lookup import CANONICAL_LAWS
 from scripts.utils.metrics import compute_all_metrics, graph_to_json_format
 
+# Build a sector lookup that handles both exact and fuzzy ID matching.
+# Canonical IDs are abbreviated; graph IDs use full slugified law names.
+def _build_sector_lookup() -> dict[str, str]:
+    lookup = {law_id: data["sector"] for law_id, data in CANONICAL_LAWS.items() if data.get("sector")}
+    # Add fuzzy matches: strip articles/prepositions from both sides and compare
+    _stop = {"-de-", "-del-", "-la-", "-el-", "-los-", "-las-", "-y-", "-e-", "-o-", "-u-"}
+    def _strip(s):
+        for w in _stop:
+            s = s.replace(w, "-")
+        import re
+        return re.sub(r"-+", "-", s).strip("-")
+    stripped_canonical = {_strip(k): v for k, v in lookup.items()}
+    from difflib import SequenceMatcher
+    def sector_for(graph_id: str) -> str:
+        if graph_id in lookup:
+            return lookup[graph_id]
+        sg = _strip(graph_id)
+        if sg in stripped_canonical:
+            return stripped_canonical[sg]
+        # fuzzy match
+        best, best_score = "unknown", 0.0
+        for cid, sector in stripped_canonical.items():
+            score = SequenceMatcher(None, sg, cid).ratio()
+            if score > best_score:
+                best_score, best = score, sector
+        if best_score >= 0.75:
+            return best
+        # Keyword fallback on the raw graph_id
+        _keywords = [
+            ("constitucional",  ["constitucion", "cpeum"]),
+            ("trabajo",         ["trabajo", "laboral", "tse", "empleo"]),
+            ("fiscal",          ["fiscal", "impuesto", "isr", "iva", "ieps", "aduanera", "contribucion", "presupuesto", "egresos", "ingresos"]),
+            ("penal",           ["penal", "delito", "crimen", "extincion-dominio", "delincuencia", "hidrocarburos-delito"]),
+            ("civil",           ["civil", "familia", "sucesion", "notarial"]),
+            ("administrativo",  ["administracion-publica", "procedimiento-administrativo", "loapf", "servicio-publico", "burocracia"]),
+            ("financiero",      ["banco", "credito", "bolsa", "valores", "financiero", "fintech", "seguro", "afore", "pension", "fondo", "infonavit"]),
+            ("salud",           ["salud", "medic", "farmac", "hospital", "epidem", "cancer", "bioseguridad"]),
+            ("ambiental",       ["ecolog", "ambiente", "ambiental", "residuo", "agua", "forestal", "pesca", "fauna", "flora", "biodiversidad"]),
+            ("educacion",       ["educacion", "universidad", "ciencia", "tecnologia", "cultura", "derechos-culturales"]),
+            ("energia",         ["energia", "electrica", "petroleo", "pemex", "hidrocarburo", "mineria", "geotermia"]),
+            ("seguridad",       ["seguridad-nacional", "guardia-nacional", "policia", "armada", "ejercito", "fuerzas-armadas", "defensa"]),
+            ("migracion",       ["migracion", "extranjero", "refugiado", "asilo", "poblacion"]),
+            ("telecomunicaciones", ["telecomunicacion", "radiodifusion", "espectro", "satelite"]),
+            ("anticorrupcion",  ["anticorrupcion", "transparencia", "acceso-informacion", "rendicion-cuentas", "fiscalizacion"]),
+            ("electoral",       ["electoral", "eleccion", "partido", "voto", "ine", "sufragio"]),
+            ("mercantil",       ["comercio", "mercantil", "sociedad", "empresa", "concurso-mercantil"]),
+            ("competencia",     ["competencia-economica", "monopolio"]),
+            ("propiedad-intelectual", ["derechos-autor", "propiedad-industrial", "patente", "marca"]),
+            ("militar",         ["militar", "naval", "ejercito", "fuerza-aerea", "fuero-militar"]),
+            ("agrario",         ["agrario", "campesino", "ejido", "rural", "agricola", "ganadero", "forestal"]),
+        ]
+        for sector_name, kws in _keywords:
+            if any(kw in graph_id for kw in kws):
+                return sector_name
+        return "unknown"
+    return sector_for
+
+_sector_for = _build_sector_lookup()
+
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
@@ -118,11 +177,16 @@ def build_graph(laws: dict[str, dict], citations: list[dict]) -> nx.DiGraph:
 
     # Add all law nodes
     for law_id, law_data in laws.items():
+        sector = (
+            law_data.get("category")
+            or law_data.get("sector")
+            or _sector_for(law_id)
+        )
         G.add_node(
             law_id,
             name=law_data.get("name", "") or "",
             short=law_data.get("short_name", "") or "",
-            sector=law_data.get("category", "") or "unknown",
+            sector=sector,
             url=law_data.get("source_url", "") or "",
             num_articles=int(law_data.get("num_articles", 0) or 0),
             year_enacted=int(law_data.get("year_enacted") or 0),
