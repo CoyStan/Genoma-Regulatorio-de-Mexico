@@ -30,7 +30,7 @@
       "confidence": "medium",
       "char_offset": 1300,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
+      "resolution_score": 0.7241379310344828,
       "resolution_matched_alias": null
     },
     {
@@ -156,7 +156,7 @@
       "confidence": "high",
       "char_offset": 310,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6956521739130435,
+      "resolution_score": 0.6363636363636364,
       "resolution_matched_alias": null
     },
     {
@@ -261,7 +261,7 @@
       "confidence": "high",
       "char_offset": 882,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4672897196261682,
+      "resolution_score": 0.5227272727272727,
       "resolution_matched_alias": null
     },
     {
@@ -447,7 +447,7 @@
       "confidence": "high",
       "char_offset": 34,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5151515151515151,
+      "resolution_score": 0.5797101449275363,
       "resolution_matched_alias": null
     },
     {
@@ -1056,7 +1056,7 @@
       "confidence": "high",
       "char_offset": 1183,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -1083,7 +1083,7 @@
       "confidence": "high",
       "char_offset": 5031,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45161290322580644,
+      "resolution_score": 0.5405405405405406,
       "resolution_matched_alias": null
     },
     {
@@ -1102,5 +1102,5 @@
       "resolution_matched_alias": "ley orgánica de pemex"
     }
   ],
-  "resolved_at": "2026-03-30T12:19:03.838948+00:00"
+  "resolved_at": "2026-03-30T20:33:34.039199+00:00"
 }

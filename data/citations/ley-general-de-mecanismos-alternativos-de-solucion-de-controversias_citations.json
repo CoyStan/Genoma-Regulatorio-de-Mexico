@@ -204,7 +204,7 @@
       "confidence": "high",
       "char_offset": 2190,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -268,16 +268,16 @@
       "source_law": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
       "source_article": "128",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "ad con lo dispuesto por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;  III.\tLas materias previstas en el artículo 94 de la Ley de Comercio Exterior, salvo las relativas a los actos de aplicación de las cuotas compensatorias definitivas, o la modalidad, plazos o facilidades de pago y condonación d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 743,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
@@ -364,5 +364,5 @@
       "char_offset": 7153
     }
   ],
-  "resolved_at": "2026-03-30T12:18:58.348046+00:00"
+  "resolved_at": "2026-03-30T20:33:22.882355+00:00"
 }

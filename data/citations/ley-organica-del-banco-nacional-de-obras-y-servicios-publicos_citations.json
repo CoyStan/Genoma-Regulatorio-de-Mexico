@@ -42,7 +42,7 @@
       "confidence": "high",
       "char_offset": 2338,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6197183098591549,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "medium",
       "char_offset": 326,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4727272727272727,
+      "resolution_score": 0.5343511450381679,
       "resolution_matched_alias": null
     },
     {
@@ -207,7 +207,7 @@
       "confidence": "medium",
       "char_offset": 2632,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4580152671755725,
+      "resolution_score": 0.5161290322580645,
       "resolution_matched_alias": null
     },
     {
@@ -349,16 +349,16 @@
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
       "source_article": "35",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "carácter de sociedades financieras de objeto limitado, a lo que para las instituciones de crédito disponen los artículos 4, fracciones I a VI, y 6 de la Ley de la Comisión Nacional Bancaria y de Valores, y 24 Bis, 49, 50, 51, 65, 66, 67, 68, 69, 70, 73, 73 Bis, 73 Bis 1, 76, 93, 99, 101, 102, 115 y 115 Bis de la Ley de Instituciones de Crédito, así c",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19036,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
@@ -448,5 +448,5 @@
       "char_offset": 3159
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.045710+00:00"
+  "resolved_at": "2026-03-30T20:33:29.767479+00:00"
 }

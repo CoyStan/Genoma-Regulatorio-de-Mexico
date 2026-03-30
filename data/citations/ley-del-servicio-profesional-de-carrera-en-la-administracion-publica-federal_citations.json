@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 515,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -94,61 +94,61 @@
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "source_article": "80",
       "target_law_raw": "Ley y el Reglamento del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "cción del proyecto respectivo la citada Comisión utilizará la plantilla autorizada de plazas de estructura y puestos y el Catálogo General de Puestos previsto en la Ley y el Reglamento del Servicio Exterior Mexicano vigentes, en cuya elaboración y actualización participarán los representantes de ambos grupos.  La Secretaría de Relaciones Exteriores, deberá coordinar la in",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 8135,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5811965811965812,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8095238095238095,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "source_article": "80",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal para quedar como sigue",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "istración Pública Federal.  Publicado en el Diario Oficial de la Federación el 1º de septiembre de 2005  Artículo Unico.- Se reforma el Artículo 8 de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para quedar como sigue:  ..........  TRANSITORIOS  Primero.- Los criterios y mecanismos de profesionalización de los servidores públicos de la Secretaría de Relaciones Exter",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4916,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6081081081081081,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8685714285714285,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "source_article": "80",
       "target_law_raw": "Ley del Servicio Profesional de Carrera de la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": " Mexicano con plazas de estructura de los niveles de Enlace a Director General y que no se encuentren en los llamados Gabinetes de Apoyo referidos en la Ley del Servicio Profesional de Carrera de la Administración Pública Federal, quedarán sujetos a una normatividad que expida el Congreso al amparo de la Ley del Servicio Exterior Mexicano, a la que se propondrán las modificaci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5358,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9868421052631579,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "source_article": "80",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "Ley del Servicio Profesional de Carrera de la Administración Pública Federal, quedarán sujetos a una normatividad que expida el Congreso al amparo de la Ley del Servicio Exterior Mexicano, a la que se propondrán las modificaciones necesarias a efecto de garantizar sus derechos laborales dentro de la Secretaría de Relaciones Exteriores ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5511,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
@@ -162,23 +162,23 @@
       "confidence": "medium",
       "char_offset": 6961,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4714285714285714,
+      "resolution_score": 0.576271186440678,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "source_article": "80",
       "target_law_raw": "Reglamento del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "spectivo la citada Comisión utilizará la plantilla autorizada de plazas de estructura y puestos y el Catálogo General de Puestos previsto en la Ley y el Reglamento del Servicio Exterior Mexicano vigentes, en cuya elaboración y actualización participarán los representantes de ambos grupos.  La Secretaría de Relaciones Exteriores, deberá coordinar la in",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8156,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8533333333333334,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
@@ -193,5 +193,5 @@
       "char_offset": 4236
     }
   ],
-  "resolved_at": "2026-03-30T12:18:52.853519+00:00"
+  "resolved_at": "2026-03-30T20:33:13.283428+00:00"
 }

@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 5583,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -75,7 +75,7 @@
       "confidence": "medium",
       "char_offset": 3427,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -246,7 +246,7 @@
       "confidence": "high",
       "char_offset": 9554,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4132231404958678,
+      "resolution_score": 0.4264705882352941,
       "resolution_matched_alias": null
     },
     {
@@ -261,7 +261,7 @@
       "confidence": "high",
       "char_offset": 14758,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -276,7 +276,7 @@
       "confidence": "high",
       "char_offset": 15155,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -321,7 +321,7 @@
       "confidence": "high",
       "char_offset": 67817,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -343,31 +343,31 @@
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Ins",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5317,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "ientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5356,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -456,7 +456,7 @@
       "confidence": "medium",
       "char_offset": 6979,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47706422018348627,
+      "resolution_score": 0.6131386861313869,
       "resolution_matched_alias": null
     },
     {
@@ -486,23 +486,23 @@
       "confidence": "medium",
       "char_offset": 7647,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.38961038961038963,
+      "resolution_score": 0.5555555555555556,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "contra la Delincuencia Organizada, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Preventiva, de la Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8683,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -568,16 +568,16 @@
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley de la Policía Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "os Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General del Sistema Nacional de Seguridad Pública.  Publicado en el Diario Oficial de la Federac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 11482,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -628,31 +628,31 @@
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley de Asociaciones Religiosas y Culto Público",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
       "target_article": null,
       "citation_text": "Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 16958,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones religiosas y culto público"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "nales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO QUINTO. Se reforma el artículo 2o.,",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 17012,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -696,7 +696,7 @@
       "confidence": "medium",
       "char_offset": 18134,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6530612244897959,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -711,7 +711,7 @@
       "confidence": "medium",
       "char_offset": 18241,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46511627906976744,
+      "resolution_score": 0.6585365853658537,
       "resolution_matched_alias": null
     },
     {
@@ -733,16 +733,16 @@
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "uencia Organizada; del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Orgánica del Poder Judicial de la Federación; de la Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública.  Publicado en el Diario Oficial de la Federación el 14 de junio de 2012  Artículo Segundo. Se reforma el artículo 2o., fracción VI de la Ley Federal",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22360,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5373134328358209,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7571428571428571,
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -831,7 +831,7 @@
       "confidence": "medium",
       "char_offset": 37866,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4409448818897638,
+      "resolution_score": 0.6617647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -861,7 +861,7 @@
       "confidence": "medium",
       "char_offset": 55082,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3776223776223776,
+      "resolution_score": 0.5921052631578947,
       "resolution_matched_alias": null
     },
     {
@@ -907,5 +907,5 @@
       "char_offset": 1080
     }
   ],
-  "resolved_at": "2026-03-30T12:18:53.180976+00:00"
+  "resolved_at": "2026-03-30T20:33:13.666212+00:00"
 }

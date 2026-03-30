@@ -19,16 +19,16 @@
       "source_law": "ley-general-de-cultura-y-derechos-culturales",
       "source_article": "7",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "munidades indígenas y afromexicanas, y Fracción reformada DOF 29-11-2023, 01-04-2024  VI.\tIgualdad de género y la igualdad sustantiva, en términos de lo dispuesto en la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, y Fracción reformada DOF 29-11-2023, 15-01-2026  VII. El goce efectivo de los derechos culturales de la persona adulta mayor. Fracción adicionada DO",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 589,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-cultura-y-derechos-culturales",
@@ -99,7 +99,7 @@
       "confidence": "medium",
       "char_offset": 878,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5287356321839081,
       "resolution_matched_alias": null
     },
     {
@@ -316,31 +316,31 @@
       "source_law": "ley-general-de-cultura-y-derechos-culturales",
       "source_article": "42",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 12439,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-cultura-y-derechos-culturales",
       "source_article": "42",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 12522,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-cultura-y-derechos-culturales",
@@ -355,5 +355,5 @@
       "char_offset": 2201
     }
   ],
-  "resolved_at": "2026-03-30T12:18:57.317217+00:00"
+  "resolved_at": "2026-03-30T20:33:21.315162+00:00"
 }

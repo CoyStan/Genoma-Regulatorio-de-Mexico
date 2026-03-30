@@ -90,23 +90,23 @@
       "confidence": "medium",
       "char_offset": 29,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.5142857142857142,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
       "source_article": "12",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "tivos y culturales, así como mejoramiento del transporte público y otros servicios públicos;  i) En caso de que una administración portuaria integral a que se refiere la Ley de Puertos, se ubique en el Área de Influencia o de manera contigua a ésta, los mecanismos de coordinación con aquélla para la debida operación de la Zona. En t",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2427,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -150,7 +150,7 @@
       "confidence": "medium",
       "char_offset": 449,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4186046511627907,
+      "resolution_score": 0.4696969696969697,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 73,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45714285714285713,
+      "resolution_score": 0.49411764705882355,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 878,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "high",
       "char_offset": 1004,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -247,16 +247,16 @@
       "source_law": "ley-federal-de-zonas-economicas-especiales",
       "source_article": "30",
       "target_law_raw": "Ley de Expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "e sean necesarios para su operación.  Cuando para la realización de las actividades señaladas en el párrafo anterior se requiera ejecutar las medidas previstas en la Ley de Expropiación, la Secretaría de Desarrollo Agrario, Territorial y Urbano integrará y tramitará el expediente respectivo, incluyendo la emisión de la declaratoria d",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 321,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -285,23 +285,23 @@
       "confidence": "medium",
       "char_offset": 2715,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5581395348837209,
+      "resolution_score": 0.6551724137931034,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
       "source_article": "42",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal correspondiente",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "esultados en el desarrollo económico y social del Área de Influencia.  El Ejecutivo Federal incluirá anualmente en el Presupuesto de Gastos Fiscales, en los términos de la Ley de Ingresos de la Federación del ejercicio fiscal correspondiente, un apartado específico relativo a los beneficios fiscales establecidos en cada Zona, señalando, en su caso, los beneficios sociales y económicos aso",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1298,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46551724137931033,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8059701492537313,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -315,23 +315,23 @@
       "confidence": "high",
       "char_offset": 218,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
       "source_article": "45",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": ", se sujetará a los principios constitucionales de legalidad, honradez, lealtad, imparcialidad y eficiencia.  La Auditoría Superior de la Federación, en los términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, llevará a cabo la fiscalización de los recursos públicos que se ejerzan en términos de esta Ley.  CAPÍTULO SEXTO De las Infracciones y Sanciones",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 625,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -345,23 +345,23 @@
       "confidence": "high",
       "char_offset": 1146,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5955056179775281,
+      "resolution_score": 0.639344262295082,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
       "source_article": "50",
       "target_law_raw": "Reglamento de la Ley Federal de Zonas Económicas Especiales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-de-zonas-economicas-especiales",
       "target_article": null,
       "citation_text": " Diario Oficial de la Federación.  Segundo.- El Ejecutivo Federal, en un plazo de 180 días posteriores a la entrada en vigor de este Decreto, emitirá el Reglamento de la Ley Federal de Zonas Económicas Especiales.  Tercero.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades paraestatales de la Administración Pública Federal con motiv",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 731,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5894736842105263,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8316831683168316,
+      "resolution_matched_alias": "ley federal de zonas económicas especiales"
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -376,5 +376,5 @@
       "char_offset": 1872
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.938959+00:00"
+  "resolved_at": "2026-03-30T20:33:18.913775+00:00"
 }

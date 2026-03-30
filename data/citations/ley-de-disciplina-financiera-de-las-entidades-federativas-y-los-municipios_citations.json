@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 118,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4666666666666667,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -60,38 +60,38 @@
       "confidence": "medium",
       "char_offset": 1187,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
+      "resolution_score": 0.6451612903225806,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "2",
       "target_law_raw": "ley de ingresos de las Entidades Federativas o de los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "o por el Consejo Nacional de Armonización Contable;  XXVI. Legislatura local: el Poder Legislativo de la Entidad Federativa;  XXVII. Ley de Ingresos: la ley de ingresos de las Entidades Federativas o de los Municipios, aprobada por la Legislatura local;  XXVIII. Municipios: los Municipios de cada Estado;  XXIX. Obligaciones: los compromisos de pago a cargo de los E",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8481,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.49504950495049505,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7971014492753623,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "2",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasign",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 11530,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 2561,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4372093023255814,
+      "resolution_score": 0.6451612903225806,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "medium",
       "char_offset": 2363,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.6056338028169014,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "medium",
       "char_offset": 2200,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4019138755980861,
+      "resolution_score": 0.4321608040201005,
       "resolution_matched_alias": null
     },
     {
@@ -247,16 +247,16 @@
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "11",
       "target_law_raw": "Ley de Asociaciones Público Privadas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-publico-privadas",
       "target_article": null,
       "citation_text": "e ejercicio fiscal.  Para el caso de Asociaciones Público Privadas con recursos federales, se observará lo dispuesto en el artículo 4, fracción IV de la Ley de Asociaciones Público Privadas.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 447,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones público privadas"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -330,23 +330,23 @@
       "confidence": "medium",
       "char_offset": 872,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41935483870967744,
+      "resolution_score": 0.5605095541401274,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "22",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "ra atender a la población afectada por desastres naturales en los términos de las leyes, reglas de operación, y lineamientos aplicables, así como por la Ley de Coordinación Fiscal. Párrafo reformado DOF 30-01-2018",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1469,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -382,31 +382,31 @@
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "33",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "s Financiamientos de la Ciudad de México se sujetarán a lo siguiente:  I. Deberán contratarse con apego a lo aprobado por el Congreso de la Unión, en la Ley de Ingresos de la Federación, este artículo y las directrices de contratación que, al efecto, emita la Secretaría;  II. Las obras que se financien con el monto de endeudamiento n",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 166,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "34",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "brado convenio con la Secretaría, en términos de este Capítulo, y  II. Afecten participaciones federales suficientes que les correspondan, conforme a la Ley de Coordinación Fiscal, bajo un vehículo específico de pago y en los términos que se convengan con la Secretaría.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 502,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -450,23 +450,23 @@
       "confidence": "medium",
       "char_offset": 185,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.5846153846153846,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "51",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "ntos y Obligaciones que utilicen como Garantía o Fuente de pago las participaciones o aportaciones federales, se deberá cumplir con las disposiciones establecidas en la Ley de Coordinación Fiscal;  Las Entidades Federativas o Municipios que realicen la afectación de sus participaciones federales en garantía o como Fuente de pago a través de un",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 526,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -480,7 +480,7 @@
       "confidence": "high",
       "char_offset": 2008,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48717948717948717,
+      "resolution_score": 0.704225352112676,
       "resolution_matched_alias": null
     },
     {
@@ -577,31 +577,31 @@
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "55",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": " la Ley para Regular las actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 44 de la Ley de Uniones de Crédito; así como 34 y 46 Bis de la Ley de Ahorro y Crédito Popular.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 964,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "58",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "anciera en los informes periódicos correspondientes y en su respectiva Cuenta Pública.  Lo anterior, sin perjuicio de las obligaciones de información establecidas en la Ley de Coordinación Fiscal, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y el Título Tercero Bis de la Ley General de Salud, relativas a las Transferencias feder",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 276,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -715,5 +715,5 @@
       "char_offset": 11488
     }
   ],
-  "resolved_at": "2026-03-30T12:18:44.614237+00:00"
+  "resolved_at": "2026-03-30T20:32:59.854445+00:00"
 }

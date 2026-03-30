@@ -7,16 +7,16 @@
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "2",
       "target_law_raw": "Ley para el Desarrollo de la Competitividad de la Micro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
       "target_article": null,
       "citation_text": "lo podrán ejercer las acciones a que se refieren los referidos preceptos cuando estén acreditadas como microempresas o microindustrias en términos de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, respectivamente y conforme a los requis",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 838,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5054945054945055,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8029197080291971,
+      "resolution_matched_alias": "ley para el desarrollo de la competitividad de la micro, pequeña y mediana empresa"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -75,7 +75,7 @@
       "confidence": "high",
       "char_offset": 3991,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "medium",
       "char_offset": 5135,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49230769230769234,
+      "resolution_score": 0.584070796460177,
       "resolution_matched_alias": null
     },
     {
@@ -147,7 +147,7 @@
       "confidence": "medium",
       "char_offset": 1532,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -162,7 +162,7 @@
       "confidence": "high",
       "char_offset": 563,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -246,38 +246,38 @@
       "confidence": "high",
       "char_offset": 65,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.45714285714285713,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "65",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "ARTÍCULO 65 Ter 1.- Las disposiciones relativas a derechos de los pasajeros contenidas en la Ley de Aviación Civil, son de obligatorio cumplimiento por parte de los concesionarios o permisionarios, así como de su personal y de las agencias de viaje a cargo de las ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 90,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "66",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "iciones de carácter general en materia de despachos de cobranza, emitidos por la Procuraduría en términos de lo dispuesto por el artículo 17 Bis 4 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. Fracción adicionada DOF 11-01-2018  El incumplimiento a este precepto se sancionará conforme a lo dispuesto en el artículo 128, con excepción de la ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2306,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -291,7 +291,7 @@
       "confidence": "high",
       "char_offset": 593,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -306,7 +306,7 @@
       "confidence": "high",
       "char_offset": 774,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -336,7 +336,7 @@
       "confidence": "medium",
       "char_offset": 118,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -448,16 +448,16 @@
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "128",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": " vulneren las disposiciones de carácter general en materia de despachos de cobranza emitidas por la Procuraduría en términos del artículo 17 Bis 4 de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y Fracción adicionada DOF 11-01-2018  XI. Cuando la acreditación del cese de las causas que dieron origen a la imposición de la medida precautoria, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2091,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -501,23 +501,23 @@
       "confidence": "high",
       "char_offset": 1129,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "143",
       "target_law_raw": "Reglamento de la Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "licado por el Banco de México, correspondiente al mes inmediato anterior al del ajuste.  El trabajador podrá solicitar información sobre sus recursos de conformidad con el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro.  ARTICULO OCTAVO.- El Instituto Mexicano del Seguro Social podrá constituir una administradora de fondos para el retiro, siempre y cuando cumpla con",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 14007,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5176470588235295,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8380952380952381,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -561,7 +561,7 @@
       "confidence": "high",
       "char_offset": 51873,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -598,31 +598,31 @@
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "143",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "97, de los trabajadores que no hayan elegido administradora, se abonarán en la cuenta concentradora a nombre del Instituto Mexicano del Seguro Social prevista en la Ley de los Sistemas de Ahorro para el Retiro, durante un plazo máximo de cuatro años contados a partir del día primero de enero de 1997. Transcurrido el plazo a que se refiere este párrafo, la C",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 11692,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "143",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "ente para los trabajadores al servicio del Estado.  ARTICULO DECIMO QUINTO.- Las instituciones de crédito, seguirán sujetas al régimen de supervisión previsto en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, en tanto administren la cuenta individual del seguro de retiro a que se refiere la Ley del Seguro Social que dejará de estar en vigor el día 31 de d",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 18524,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -726,7 +726,7 @@
       "confidence": "medium",
       "char_offset": 9326,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
+      "resolution_score": 0.7391304347826086,
       "resolution_matched_alias": null
     },
     {
@@ -838,16 +838,16 @@
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "143",
       "target_law_raw": "Ley de Asociaciones Religiosas y Culto Público",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
       "target_article": null,
       "citation_text": "go Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consumidor y de la Ley Reglamentaria del Artículo 5 Constitucional relativo al ejercicio de las profesiones en el",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 64764,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones religiosas y culto público"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -922,5 +922,5 @@
       "char_offset": 1437
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.398352+00:00"
+  "resolved_at": "2026-03-30T20:33:17.719770+00:00"
 }

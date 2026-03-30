@@ -247,16 +247,16 @@
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "45",
       "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-fiscalia-general-de-la-republica",
       "target_article": null,
       "citation_text": "deben contar con el nivel jerárquico inmediato inferior. Para el caso de la Fiscalía General de la República, se deberá atender a lo que se señala en la Ley de la Fiscalía General de la República. Para el caso de las fracciones VI y IX, el suplente será designado por los propios órganos a los que se refieren las citadas fracciones. Párrafo ref",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1710,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la fiscalía general de la república"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
@@ -282,7 +282,7 @@
       "confidence": "high",
       "char_offset": 14246,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5542168674698795,
+      "resolution_score": 0.7380952380952381,
       "resolution_matched_alias": null
     },
     {
@@ -394,16 +394,16 @@
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "70",
       "target_law_raw": "Ley Nacional de Ejecución Penal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-ejecucion-penal",
       "target_article": null,
       "citation_text": "sta medida favorezca la búsqueda o localización de las Personas Desaparecidas o a la investigación de los delitos materia de esta Ley, en términos de la Ley Nacional de Ejecución Penal;  XX. Facilitar la participación de los Familiares en la investigación de los delitos previstos en esta Ley, incluido brindar información periódicame",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6121,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de ejecución penal"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
@@ -469,16 +469,16 @@
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "94",
       "target_law_raw": "Ley de Asistencia Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asistencia-social",
       "target_article": null,
       "citation_text": ". Registro Nacional de Personas Fallecidas No Identificadas;  VI. Albergues públicos y privados, e instituciones de asistencia social, en términos de la Ley de Asistencia Social;  VII. Panteones o lugares en los que se depositan restos mortales o cadáveres, públicos y privados;  VIII. Identidad de personas;  IX. Estaciones mi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 869,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asistencia social"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
@@ -526,16 +526,16 @@
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "133",
       "target_law_raw": "Ley Nacional del Registro de Detenciones",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-del-registro-de-detenciones",
       "target_article": null,
       "citation_text": "e lo establecido en este Capítulo, la Federación y las Entidades Federativas, deberán contar, al menos, con:  I.\tEl Registro Nacional de Detenciones, previsto en la Ley Nacional del Registro de Detenciones; Fracción reformada DOF 16-07-2025  II.\tEl Registro Nacional de Fosas, el cual deberá contar con la información respecto de las fosas comunes que exi",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 172,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional del registro de detenciones"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
@@ -661,31 +661,31 @@
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "155",
       "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "target_article": null,
       "citation_text": "3 de esta Ley, conforme a la legislación aplicable.  Cuando se trate de personas defensoras de los derechos humanos o periodistas se estará también a lo dispuesto en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 697,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la protección de personas defensoras de derechos humanos y periodistas"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "158",
       "target_law_raw": "Ley General para la Prevención Social de la Violencia y la Delincuencia",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "target_article": null,
       "citation_text": "mplementar las medidas de prevención previstas en el artículo 161 de esta Ley. Párrafo reformado DOF 20-05-2021  Lo anterior con independencia de las establecidas en la Ley General para la Prevención Social de la Violencia y la Delincuencia, así como en la Ley General del Sistema Nacional de Seguridad Pública.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 321,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5680473372781065,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención social de la violencia y la delincuencia"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
@@ -789,7 +789,7 @@
       "confidence": "medium",
       "char_offset": 15217,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4409448818897638,
+      "resolution_score": 0.6617647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -811,16 +811,16 @@
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "173",
       "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "target_article": null,
       "citation_text": "la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 30938,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la protección de personas defensoras de derechos humanos y periodistas"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
@@ -834,7 +834,7 @@
       "confidence": "medium",
       "char_offset": 31022,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -879,7 +879,7 @@
       "confidence": "medium",
       "char_offset": 32471,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3769633507853403,
+      "resolution_score": 0.5777777777777777,
       "resolution_matched_alias": null
     },
     {
@@ -910,5 +910,5 @@
       "char_offset": 14239
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.271401+00:00"
+  "resolved_at": "2026-03-30T20:33:26.076303+00:00"
 }

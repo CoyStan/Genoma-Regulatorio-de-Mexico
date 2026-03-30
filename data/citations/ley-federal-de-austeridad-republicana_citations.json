@@ -124,16 +124,16 @@
       "source_law": "ley-federal-de-austeridad-republicana",
       "source_article": "6",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "rincipios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Ingresos de la Federación, en el Presupuesto de Egresos de la Federación, y en la Ley Federal de Transparencia y Acceso a la Información Pública, conforme a los objetivos seña",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 277,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-de-austeridad-republicana",
@@ -325,16 +325,16 @@
       "source_law": "ley-federal-de-austeridad-republicana",
       "source_article": "18",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "a y Acceso a la Información Pública, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones aplicables;  III.\tPublicar trimestralmente sus estados financieros;  IV.\tReportar la información que le requiera la Secretaría de Hacienda y Crédito Público par",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 723,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-federal-de-austeridad-republicana",
@@ -495,7 +495,7 @@
       "confidence": "medium",
       "char_offset": 13161,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5289256198347108,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -526,5 +526,5 @@
       "char_offset": 4820
     }
   ],
-  "resolved_at": "2026-03-30T12:18:53.336146+00:00"
+  "resolved_at": "2026-03-30T20:33:13.822541+00:00"
 }

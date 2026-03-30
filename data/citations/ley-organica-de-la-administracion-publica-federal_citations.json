@@ -39,23 +39,23 @@
       "confidence": "high",
       "char_offset": 601,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49230769230769234,
+      "resolution_score": 0.5373134328358209,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "17",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal para efectos de su ingreso",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "entidades; Fracción reformada DOF 30-11-2018  II.\tLos servidores públicos adscritos a las oficinas de representación se sujetarán a las disposiciones establecidas en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para efectos de su ingreso, desarrollo profesional, capacitación y certificación de capacidades; evaluación del desempeño; separación, y a las demás disposiciones previstas en ",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1063,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5921052631578947,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8491620111731844,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -69,7 +69,7 @@
       "confidence": "medium",
       "char_offset": 1800,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4205128205128205,
+      "resolution_score": 0.4928909952606635,
       "resolution_matched_alias": null
     },
     {
@@ -88,31 +88,31 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "28",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "convenciones en los que el país sea parte; Fracción reformada DOF 29-12-1982  II.\tDirigir el servicio exterior en sus aspectos diplomático y consular en los términos de la Ley del Servicio Exterior Mexicano y, por conducto de los agentes de este servicio, velar en el extranjero por el buen nombre de México; garantizar la revalorización del fenómeno migrato",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 619,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "29",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": " con la Secretaría de Infraestructura, Comunicaciones y Transportes, en las operaciones de búsqueda y salvamento aéreo, en términos de artículo 80 de la Ley de Aviación Civil; Fracción adicionada DOF 03-05-2023  VIII Quinquies.- Establecer, en coordinación con la Secretaría de Infraestructura, Comunicaciones y Transportes,",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2174,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -145,16 +145,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "32",
       "target_law_raw": "Ley Nacional de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "4. Adicionada DOF 30-11-2018. Reformada DOF 09-08-2019  XXII.\tEncabezar la Secretaría Ejecutiva del Gabinete Social de la Presidencia de la República en los términos de la Ley Nacional de Extinción de Dominio; Fracción adicionada DOF 09-08-2019  XXIII.\tEjecutar y dar seguimiento a los acuerdos tomados por el Gabinete Social de la Presidencia de la Repúblic",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 6128,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -183,7 +183,7 @@
       "confidence": "high",
       "char_offset": 7019,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49382716049382713,
+      "resolution_score": 0.6292134831460674,
       "resolution_matched_alias": null
     },
     {
@@ -228,7 +228,7 @@
       "confidence": "medium",
       "char_offset": 9256,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5128205128205128,
+      "resolution_score": 0.6511627906976745,
       "resolution_matched_alias": null
     },
     {
@@ -247,16 +247,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "35",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "personas jornaleras en los sectores agrícola y pesquero; Fracción reformada DOF 28-11-2024  II Bis.\tPromover el desarrollo rural del país, conforme a la Ley de Desarrollo Rural Sustentable; Fracción adicionada DOF 28-11-2024  III.\tEvaluar, integrar e impulsar proyectos de inversión y financiamiento que permitan canalizar, productivament",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1292,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -499,16 +499,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "44",
       "target_law_raw": "Ley Nacional de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "as relevantes necesarias para la determinación de su destino o, en su caso, destrucción.  Para efectos de lo anterior, la autoridad administradora a la que se refiere la Ley Nacional de Extinción de Dominio, elaborará una relación de los bienes extintos, relacionados o vinculados con los hechos ilícitos a los que se refiere el párrafo cuarto, del artícul",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1290,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -534,7 +534,7 @@
       "confidence": "high",
       "char_offset": 63456,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -729,7 +729,7 @@
       "confidence": "medium",
       "char_offset": 25987,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.484472049689441,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -759,23 +759,23 @@
       "confidence": "medium",
       "char_offset": 27075,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5135135135135135,
+      "resolution_score": 0.578125,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "o Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de rec",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 27354,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -789,7 +789,7 @@
       "confidence": "medium",
       "char_offset": 28544,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.5352112676056338,
       "resolution_matched_alias": null
     },
     {
@@ -804,7 +804,7 @@
       "confidence": "medium",
       "char_offset": 31687,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
@@ -819,7 +819,7 @@
       "confidence": "medium",
       "char_offset": 31788,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4742268041237113,
+      "resolution_score": 0.6097560975609756,
       "resolution_matched_alias": null
     },
     {
@@ -849,7 +849,7 @@
       "confidence": "medium",
       "char_offset": 35364,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
+      "resolution_score": 0.52,
       "resolution_matched_alias": null
     },
     {
@@ -916,16 +916,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "rero de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se expide la Ley del Servicio Profesional de Carrera en la Administración Pública Federal; se reforman la Ley Orgánica de la Administración Pública Federal y la Ley de Presupuesto, Contabilidad y Gasto Público Federal; y se adiciona la Ley",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 40565,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1126,16 +1126,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "e en su caso se generen para las instancias federales derivado de la entrada en vigor del presente Decreto, se sujetarán a los ingresos previstos por la Ley de Ingresos de la Federación, así como a la disponibilidad presupuestaria aprobada para ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ej",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 63764,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1314,23 +1314,23 @@
       "confidence": "medium",
       "char_offset": 128918,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
+      "resolution_score": 0.547945205479452,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
       "target_article": null,
       "citation_text": "s en Materia Energética; se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y, se expide la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos.  Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014  ARTÍCULO SEGUNDO. Se reforman los artículos 1o., párrafo segundo; 2o., fra",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 129112,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5202312138728323,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la agencia nacional de seguridad industrial y de protección al medio ambiente del sector hidrocarburos"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1398,7 +1398,7 @@
       "confidence": "high",
       "char_offset": 107991,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
+      "resolution_score": 0.684931506849315,
       "resolution_matched_alias": null
     },
     {
@@ -1428,7 +1428,7 @@
       "confidence": "high",
       "char_offset": 109434,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6333333333333333,
+      "resolution_score": 0.6575342465753424,
       "resolution_matched_alias": null
     },
     {
@@ -1450,16 +1450,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley Nacional de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "xceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 60347,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1473,23 +1473,23 @@
       "confidence": "high",
       "char_offset": 158223,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "s servidores públicos en términos de las disposiciones jurídicas aplicables, o en su caso, asumir la facultad de separación conforme al procedimiento previsto en la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, en sustitución de la persona titular de la dependencia u órgano administrativo desconcentrado, para aquellas personas servidoras públicas que formen",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 97989,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1503,7 +1503,7 @@
       "confidence": "high",
       "char_offset": 23333,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.4594594594594595,
       "resolution_matched_alias": null
     },
     {
@@ -1683,38 +1683,38 @@
       "confidence": "medium",
       "char_offset": 61896,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47368421052631576,
+      "resolution_score": 0.7058823529411765,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "Segundo. El Ejecutivo Federal y la Secretaría de Marina, en el ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrati",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 66165,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "l ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten ne",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 66226,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1735,16 +1735,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "target_article": null,
       "citation_text": "a Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública.  Publicado en el Diario Oficial de la Federación el 9 de septiembre de 2022  Artículo Primero.- ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 75626,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8309859154929577,
+      "resolution_matched_alias": "ley de ascensos y recompensas del ejército, fuerza aérea y guardia nacional"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1773,7 +1773,7 @@
       "confidence": "medium",
       "char_offset": 90166,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5384615384615384,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
@@ -1810,16 +1810,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "e los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.   DECRETO por el que se expiden la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidro",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 131647,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7741935483870968,
+      "resolution_matched_alias": "ley de la empresa pública del estado, petróleos mexicanos"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1855,76 +1855,76 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": " Federal de Electricidad; la Ley de la Empresa Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 131846,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Biocombustibles",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-biocombustibles",
       "target_article": null,
       "citation_text": " Pública del Estado, Petróleos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 131892,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de biocombustibles"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Geotermia",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-geotermia",
       "target_article": null,
       "citation_text": "eos Mexicanos; la Ley del Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 131919,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7058823529411765,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de geotermia"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de la Comisión Nacional de Energía",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-energia",
       "target_article": null,
       "citation_text": "el Sector Eléctrico; la Ley del Sector Hidrocarburos; la Ley de Planeación y Transición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y, se reforman, adicionan y dero",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 131942,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional de energía"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "sición Energética; la Ley de Biocombustibles; la Ley de Geotermia y, la Ley de la Comisión Nacional de Energía; se reforman diversas disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y, se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal.  Publicado en el Diario Oficial de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 132023,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -2005,16 +2005,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de la Guardia Nacional y se reforman",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-guardia-nacional",
       "target_article": null,
       "citation_text": "de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.   DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexican",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 155570,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7878787878787878,
+      "resolution_matched_alias": "ley de la guardia nacional"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -2028,39 +2028,39 @@
       "confidence": "medium",
       "char_offset": 158117,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
+      "resolution_score": 0.5806451612903226,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "cionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 159141,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "entaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.  Publicado en el Diario Oficial de la Federación el 16",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 159197,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     }
   ],
-  "resolved_at": "2026-03-30T12:19:01.502529+00:00"
+  "resolved_at": "2026-03-30T20:33:28.432626+00:00"
 }

@@ -7,16 +7,16 @@
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "4",
       "target_law_raw": "Ley para Determinar el Valor de la Unidad de Medida y Actualización",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
       "target_article": null,
       "citation_text": "etaría, a la Secretaría de Hacienda y Crédito Público;  XXII.\tUMA, a la Unidad de Medida y Actualización cuyo valor equivalente en pesos se determina de conformidad con la Ley para Determinar el Valor de la Unidad de Medida y Actualización, y  XXIII.\tValores, a las acciones, partes sociales, obligaciones, bonos, títulos opcionales, certificados, pagarés, letras de cambio y demás títulos",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 8297,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.48695652173913045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para determinar el valor de la unidad de medida y actualización"
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
@@ -67,31 +67,31 @@
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "24",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "r del veinte por ciento del total de los establecimientos o comercios habilitados para recibir pagos electrónicos a través de operaciones con tarjeta a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros. La supervisión de lo establecido en esta fracción corresponderá al Banco de México;  II.\tLos montos por pago anticipado de la adquisición de bienes ",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 690,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "25",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "de la Ley General de Organizaciones y Actividades Auxiliares del Crédito;  III.\tPrestar servicios relacionados con las redes de medios de disposición a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros;  IV.\tProcesar la información relacionada con los servicios de pago correspondientes a los fondos de pago electrónico o a cualquier otro medio de pag",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 567,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
@@ -127,31 +127,31 @@
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "46",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "ha Ley.  Las ITF así como las demás personas que realicen operaciones con las Entidades Financieras, no serán objeto de discriminación en términos de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2509,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "58",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "nte responsable de la revisión señalada en la fracción VII de dicho párrafo deberán obtener la certificación prevista en el artículo 4, fracción X de la Ley de la Comisión Nacional Bancaria y de Valores.  La Secretaría estará facultada para requerir y recabar, por conducto de la CNBV, información y documentación relacionada con los actos, Operaciones",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5162,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
@@ -202,16 +202,16 @@
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "76",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "Artículo 76.- Las Entidades Financieras, los transmisores de dinero, las sociedades de información crediticia, las cámaras de compensación a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, las ITF y las sociedades autorizadas para operar con Modelos Novedosos estarán obligadas a establecer interfaces de programación de aplicaciones inf",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 139,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
@@ -315,23 +315,23 @@
       "confidence": "high",
       "char_offset": 1444,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46875,
+      "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "134",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "berá observar lo previsto en el reglamento expedido por el Ejecutivo Federal en materia de supervisión, en términos del artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1580,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
@@ -376,5 +376,5 @@
       "char_offset": 7296
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.872379+00:00"
+  "resolved_at": "2026-03-30T20:33:31.632916+00:00"
 }

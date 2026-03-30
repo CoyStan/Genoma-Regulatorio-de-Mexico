@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 97,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
+      "resolution_score": 0.6301369863013698,
       "resolution_matched_alias": null
     },
     {
@@ -166,46 +166,46 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "45",
       "target_law_raw": "Ley del Servicio de la Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "ue se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con las disposiciones establecidas por la Ley del Servicio de la Tesorería de la Federación;  XI.- La existencia, en su caso, de gravámenes, limitaciones de dominio, o cualquier otra carga que recaiga sobre los bienes;  XII.- La fecha, hora ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1521,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6391752577319587,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8048780487804879,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "47",
       "target_law_raw": "Ley de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "ue se deriven de los contratos de compraventa que, en su caso, deberán otorgar los interesados, de conformidad con las disposiciones establecidas por la Ley de Tesorería de la Federación, y Fracción adicionada DOF 09-08-2019  XIV.-\tCriterios para la evaluación de las ofertas de compra y para la adjudicación. Fracción adicionada DOF 09",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2241,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6984126984126984,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "48",
       "target_law_raw": "Ley de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "nte establecer un plazo mayor.  El Instituto retendrá las garantías que se hubieren presentado, de conformidad con las disposiciones establecidas por la Ley de Tesorería de la Federación, hasta que se emita el fallo. A partir de esa fecha, procederá a la devolución de las garantías a cada uno de los interesados, salvo la de aquél a qu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 415,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6984126984126984,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -241,31 +241,31 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "71",
       "target_law_raw": "Ley de Tesorería de la Federación y su reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "Artículo 71.- Para la destrucción de Bienes se estará a lo dispuesto por la Ley de Tesorería de la Federación y su reglamento, requiriéndose adicionalmente la autorización previa del Director General del Instituto. Artículo reformado DOF 09-08-2019",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 56,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5773195876288659,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8048780487804879,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "72",
       "target_law_raw": "Ley de Tesorería de la Federación y su reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "Artículo 72.- Con independencia de lo que al respecto dispone la Ley de Tesorería de la Federación y su reglamento, el Instituto deberá integrar un expediente para proceder a la destrucción de los Bienes correspondientes, el cual deberá contener la siguiente docum",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 62,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5773195876288659,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8048780487804879,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -294,7 +294,7 @@
       "confidence": "medium",
       "char_offset": 225,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.6554621848739496,
       "resolution_matched_alias": null
     },
     {
@@ -309,7 +309,7 @@
       "confidence": "high",
       "char_offset": 1542,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5277777777777778,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -324,7 +324,7 @@
       "confidence": "high",
       "char_offset": 2870,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -486,7 +486,7 @@
       "confidence": "medium",
       "char_offset": 657,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45555555555555555,
+      "resolution_score": 0.6802721088435374,
       "resolution_matched_alias": null
     },
     {
@@ -501,7 +501,7 @@
       "confidence": "medium",
       "char_offset": 1710,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4276729559748428,
+      "resolution_score": 0.7284768211920529,
       "resolution_matched_alias": null
     },
     {
@@ -535,31 +535,31 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley Nacional de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "xceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 18952,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "target_article": null,
       "citation_text": "o. Las referencias al Servicio de Administración de Bienes Asegurados que hagan las leyes y demás disposiciones, se entenderán hechas al SAE.  Sexto. El Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como el Estatuto Orgánico del SAE, deberán ser emitidos con la debida oportunidad para que entren en vigor el mismo día que el presente Decreto.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1468,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5104166666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9005847953216374,
+      "resolution_matched_alias": "ley federal para la administración y enajenación de bienes del sector público"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -648,7 +648,7 @@
       "confidence": "medium",
       "char_offset": 20501,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47368421052631576,
+      "resolution_score": 0.7058823529411765,
       "resolution_matched_alias": null
     },
     {
@@ -700,46 +700,46 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
       "target_article": null,
       "citation_text": " de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25577,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5202312138728323,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la agencia nacional de seguridad industrial y de protección al medio ambiente del sector hidrocarburos"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de la Comisión Federal de Electricidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "target_article": null,
       "citation_text": "eminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Públic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25694,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.647887323943662,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de la empresa pública del estado, comisión federal de electricidad"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "cia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Inst",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25744,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -775,16 +775,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "icias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitució",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25984,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -805,31 +805,31 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de la Economía Social y Solidaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-economia-social-y-solidaria",
       "target_article": null,
       "citation_text": "es de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26103,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la economía social y solidaria"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de la Casa de Moneda de México",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-casa-de-moneda-de-mexico",
       "target_article": null,
       "citation_text": "a del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de A",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26307,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7017543859649122,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la casa de moneda de méxico"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -850,16 +850,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "s Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26385,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -880,16 +880,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de Asistencia Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asistencia-social",
       "target_article": null,
       "citation_text": "a de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la L",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26483,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asistencia social"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1015,16 +1015,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de los Institutos Nacionales de Salud",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-institutos-nacionales-de-salud",
       "target_article": null,
       "citation_text": " Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 27067,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6944444444444444,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los institutos nacionales de salud"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1038,7 +1038,7 @@
       "confidence": "medium",
       "char_offset": 27116,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -1060,16 +1060,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 29410,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1120,16 +1120,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ciones aplicables.  QUINTO. A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el transitorio Vigésimo Segundo de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su obj",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 34994,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9846153846153847,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1144,5 +1144,5 @@
       "char_offset": 3417
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.506628+00:00"
+  "resolved_at": "2026-03-30T20:33:19.589572+00:00"
 }

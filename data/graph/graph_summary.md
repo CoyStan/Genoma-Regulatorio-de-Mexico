@@ -1,28 +1,28 @@
 # Genoma Regulatorio de México — Resumen de la Red
 
-_Generado: 2026-03-30 12:19 UTC_
+_Generado: 2026-03-30 23:07 UTC_
 
 ## Estadísticas generales
 - **Leyes (nodos):** 361
-- **Referencias cruzadas (aristas):** 3,061
-- **Densidad de la red:** 0.0236
+- **Referencias cruzadas (aristas):** 4,074
+- **Densidad de la red:** 0.0313
 - **Comunidades detectadas:** 7
-- **Ciclos/dependencias circulares:** 1
-- **Leyes aisladas:** 40
+- **Ciclos/dependencias circulares:** 96
+- **Leyes aisladas:** 27
 
 ## Leyes más centrales (por PageRank)
 _Las leyes con mayor PageRank son las 'columnas vertebrales' del sistema jurídico_
 
-1. **CPEUM — Constitución Política de los Estados Unidos Mexicanos** (PageRank: 0.1368)
-2. **LFCE — Ley Federal de Competencia Económica** (PageRank: 0.0467)
-3. **LGSM — Ley General de Sociedades Mercantiles** (PageRank: 0.0422)
-4. **LPEMEX — Ley de Petróleos Mexicanos** (PageRank: 0.0245)
-5. **CNPP — Código Nacional de Procedimientos Penales** (PageRank: 0.0145)
-6. **LGE — Ley General de Educación** (PageRank: 0.0133)
-7. **LFPA — Ley Federal de Procedimiento Administrativo** (PageRank: 0.0132)
-8. **LIC — Ley de Instituciones de Crédito** (PageRank: 0.0118)
-9. **LFT — LEY Federal del Trabajo** (PageRank: 0.0117)
-10. **LFDA — Ley Federal del Derecho de Autor** (PageRank: 0.0092)
+1. **CPEUM — Constitución Política de los Estados Unidos Mexicanos** (PageRank: 0.1264)
+2. **LFCE — Ley Federal de Competencia Económica** (PageRank: 0.0435)
+3. **LGSM — Ley General de Sociedades Mercantiles** (PageRank: 0.0399)
+4. **LPEMEX — Ley de Petróleos Mexicanos** (PageRank: 0.0227)
+5. **CNPP — Código Nacional de Procedimientos Penales** (PageRank: 0.0134)
+6. **LGE — Ley General de Educación** (PageRank: 0.0124)
+7. **LFPA — Ley Federal de Procedimiento Administrativo** (PageRank: 0.0118)
+8. **LIC — Ley de Instituciones de Crédito** (PageRank: 0.0112)
+9. **LFT — LEY Federal del Trabajo** (PageRank: 0.0108)
+10. **LFDA — Ley Federal del Derecho de Autor** (PageRank: 0.0088)
 
 ## Leyes más citadas (por grado de entrada)
 _Las leyes más referenciadas por otras leyes_
@@ -41,7 +41,16 @@ _Las leyes más referenciadas por otras leyes_
 ## Dependencias circulares (muestra)
 _Pares o grupos de leyes que se referencian mutuamente_
 
-- `ley-del-seguro-social → ley-federal-del-trabajo → ley-del-seguro-social`
+- `codigo-penal-federal → ley-federal-contra-la-delincuencia-organizada → codigo-penal-federal`
+- `ley-de-asistencia-social → ley-de-la-casa-de-moneda-de-mexico → ley-de-asistencia-social`
+- `ley-de-asistencia-social → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-asistencia-social`
+- `ley-de-asistencia-social → ley-de-los-institutos-nacionales-de-salud → ley-de-asistencia-social`
+- `ley-de-asistencia-social → ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo → ley-de-asistencia-social`
+- `ley-de-asociaciones-religiosas-y-culto-publico → ley-de-la-policia-federal → ley-de-asociaciones-religiosas-y-culto-publico`
+- `ley-de-asociaciones-religiosas-y-culto-publico → ley-federal-contra-la-delincuencia-organizada → ley-de-asociaciones-religiosas-y-culto-publico`
+- `ley-de-aviacion-civil → ley-de-aeropuertos → ley-de-aviacion-civil`
+- `ley-de-aviacion-civil → ley-de-inversion-extranjera → ley-de-aviacion-civil`
+- `ley-de-aviacion-civil → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-aviacion-civil`
 
 ## Nota metodológica
 Las citas fueron extraídas mediante expresiones regulares de los textos legales.

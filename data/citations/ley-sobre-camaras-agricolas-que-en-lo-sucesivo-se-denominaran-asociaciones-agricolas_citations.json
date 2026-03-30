@@ -7,16 +7,16 @@
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "emiados, para ello deberán constituirse con apego al primer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley de Desarrollo Rural Sustentable, de acuerdo con las finalidades indicadas en el artículo siguiente. Artículo reformado DOF 30-11-2010",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 407,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
@@ -69,9 +69,9 @@
       "confidence": "medium",
       "char_offset": 3815,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6530612244897959,
+      "resolution_score": 0.7384615384615385,
       "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-03-30T12:19:03.173209+00:00"
+  "resolved_at": "2026-03-30T20:33:32.199238+00:00"
 }

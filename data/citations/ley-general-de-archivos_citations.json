@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 2513,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6037735849056604,
+      "resolution_score": 0.5675675675675675,
       "resolution_matched_alias": null
     },
     {
@@ -91,16 +91,16 @@
       "source_law": "ley-general-de-archivos",
       "source_article": "9",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "ía de bienes muebles, de acuerdo con la Ley General de Bienes Nacionales; y son Monumentos históricos con la categoría de bien patrimonial documental en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y de las demás disposiciones locales aplicables.  CAPÍTULO II DE LAS OBLIGACIONES",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 274,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-de-archivos",
@@ -126,38 +126,38 @@
       "confidence": "medium",
       "char_offset": 563,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5283018867924528,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-archivos",
       "source_article": "75",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "rados de interés público, deberán garantizar su conservación, preservación y acceso, y aquellos declarados como Monumentos históricos, en términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, deberán inscribirlos en el Registro Nacional, de conformidad con el Capítulo VI del presente Título.  Asimismo, los particu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 253,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-de-archivos",
       "source_article": "77",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "hivos privados de interés público, propiedad de un particular y en general cuándo se trate de documentos acordes con lo previsto en el artículo 36 de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, el particular que pretenda trasladar el dominio deberá notificar por escrito al Archivo General, para que éste manifieste e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 219,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-de-archivos",
@@ -178,16 +178,16 @@
       "source_law": "ley-general-de-archivos",
       "source_article": "86",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "o 86. Son parte del patrimonio documental de la Nación, por disposición de ley, los documentos de archivo considerados como Monumentos históricos por la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos.  Las entidades federativas y los organismos a los que la Constitución les otorga autonomía deberán determinar los documento",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 157,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-de-archivos",
@@ -343,5 +343,5 @@
       "char_offset": 5449
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.822217+00:00"
+  "resolved_at": "2026-03-30T20:33:20.344129+00:00"
 }

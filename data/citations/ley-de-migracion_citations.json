@@ -42,23 +42,23 @@
       "confidence": "high",
       "char_offset": 452,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-migracion",
       "source_article": "3",
       "target_law_raw": "Ley del Servicio Exterior Mexicano y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "s relaciones comerciales, económicas, culturales y científicas entre ambos países y expedir la documentación a mexicanos y extranjeros en términos de la Ley del Servicio Exterior Mexicano y su Reglamento; Fracción recorrida DOF 11-11-2020, 27-05-2024 (antes fracción XXIII)  XXI.\tPersona extranjera: a la persona que no posea la nacionalidad mexicana, c",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5159,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4931506849315068,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8095238095238095,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-de-migracion",
@@ -231,23 +231,23 @@
       "confidence": "high",
       "char_offset": 754,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-migracion",
       "source_article": "28",
       "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-fiscalia-general-de-la-republica",
       "target_article": null,
       "citation_text": "ficiales Ministeriales en materia de derechos humanos;  II. Proporcionar a los migrantes orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley de la Fiscalía General de la República, su Estatuto Orgánico y demás ordenamientos aplicables; Fracción reformada DOF 20-05-2021  III. Proporcionar a las instancias encargadas de realizar ",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 371,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la fiscalía general de la república"
     },
     {
       "source_law": "ley-de-migracion",
@@ -268,16 +268,16 @@
       "source_law": "ley-de-migracion",
       "source_article": "39",
       "target_law_raw": "Ley del Servicio Exterior Mexicano y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "ción de condiciones de estancia intervendrán:  I. Las oficinas establecidas por la Secretaría en territorio nacional, y  II. Las oficinas consulares, de conformidad con la Ley del Servicio Exterior Mexicano y su Reglamento.",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 271,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4931506849315068,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8095238095238095,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-de-migracion",
@@ -291,7 +291,7 @@
       "confidence": "high",
       "char_offset": 2764,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.32124352331606215,
+      "resolution_score": 0.38392857142857145,
       "resolution_matched_alias": null
     },
     {
@@ -345,7 +345,7 @@
       "confidence": "medium",
       "char_offset": 372,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -621,7 +621,7 @@
       "confidence": "medium",
       "char_offset": 937,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5106382978723404,
+      "resolution_score": 0.6774193548387096,
       "resolution_matched_alias": null
     },
     {
@@ -636,7 +636,7 @@
       "confidence": "medium",
       "char_offset": 1117,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6530612244897959,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -651,7 +651,7 @@
       "confidence": "medium",
       "char_offset": 1212,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.7384615384615385,
       "resolution_matched_alias": null
     },
     {
@@ -666,7 +666,7 @@
       "confidence": "medium",
       "char_offset": 1891,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.6554621848739496,
       "resolution_matched_alias": null
     },
     {
@@ -718,61 +718,61 @@
       "source_law": "ley-de-migracion",
       "source_article": "162",
       "target_law_raw": "LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TUR",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5312,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-de-migracion",
       "source_article": "162",
       "target_law_raw": "LEY DE LA POLICÍA FEDERAL",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "GENERAL DE POBLACIÓN, DEL CÓDIGO PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.  PRIMERO. El presente Decre",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5365,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-de-migracion",
       "source_article": "162",
       "target_law_raw": "LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
       "target_article": null,
       "citation_text": "PENAL FEDERAL, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.  PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5398,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones religiosas y culto público"
     },
     {
       "source_law": "ley-de-migracion",
       "source_article": "162",
       "target_law_raw": "LEY DE INVERSIÓN EXTRANJERA",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "NALES, DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE LA POLICÍA FEDERAL, DE LA LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO, DE LA LEY DE INVERSIÓN EXTRANJERA, Y DE LA LEY GENERAL DE TURISMO.  PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5452,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-migracion",
@@ -816,7 +816,7 @@
       "confidence": "medium",
       "char_offset": 6038,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46511627906976744,
+      "resolution_score": 0.6585365853658537,
       "resolution_matched_alias": null
     },
     {
@@ -1018,31 +1018,31 @@
       "source_law": "ley-de-migracion",
       "source_article": "162",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 43382,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-de-migracion",
       "source_article": "162",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 43465,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-de-migracion",
@@ -1057,5 +1057,5 @@
       "char_offset": 3872
     }
   ],
-  "resolved_at": "2026-03-30T12:18:48.645704+00:00"
+  "resolved_at": "2026-03-30T20:33:06.144644+00:00"
 }

@@ -37,16 +37,16 @@
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "2",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ente o a las cuentas bancarias a nombre de la Tesorería, por concepto de contribuciones, productos y aprovechamientos que deriven de la aplicación de la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda;  III.\tDependencia coordinadora de sector: a la que en términos de la Ley Orgánica de la Administración Pública Federal y demás disposiciones jurídic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1148,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8208955223880597,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
@@ -147,7 +147,7 @@
       "confidence": "medium",
       "char_offset": 772,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.42424242424242425,
+      "resolution_score": 0.5783132530120482,
       "resolution_matched_alias": null
     },
     {
@@ -166,16 +166,16 @@
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "30",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": " de destino o aplicación se considerarán depósitos regulados por esta Sección.  La Tesorería aplicará al erario federal, en el concepto respectivo de la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda, los recursos a que se refiere el párrafo anterior, atendiendo a su naturaleza, si dentro de los dos años posteriores a la fecha en que se haya reali",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 229,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8208955223880597,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
@@ -219,7 +219,7 @@
       "confidence": "high",
       "char_offset": 255,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -234,23 +234,23 @@
       "confidence": "high",
       "char_offset": 231,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "43",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "Entidades Federativas o municipios con las cantidades que les correspondan a éstos percibir por concepto de participaciones federales, en términos de la Ley de Coordinación Fiscal y demás disposiciones jurídicas aplicables.  CAPÍTULO VI DE LAS GARANTÍAS",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 348,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
@@ -271,31 +271,31 @@
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "45",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ciones jurídicas aplicables o que se hubieren pactado conforme a dichas disposiciones, así como, en su caso, la aplicación de su monto al concepto de la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda.  Los Auxiliares, incluidas las autoridades judiciales y jurisdiccionales federales, realizarán los actos señalados en el primer párrafo de este artí",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 621,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8208955223880597,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "50",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ería podrá declarar de oficio la prescripción de los depósitos que constituya y disponer su aplicación al erario federal en el concepto respectivo de la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1088,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8208955223880597,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
@@ -316,31 +316,31 @@
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "60",
       "target_law_raw": "Ley del Servicio de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "an.  TRANSITORIOS  PRIMERO.- La presente Ley entrará en vigor el 1 de enero del ejercicio fiscal siguiente al de su aprobación.  SEGUNDO.- Se abrogan la Ley del Servicio de Tesorería de la Federación, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1985, y la Ley del Servicio de Inspección Fiscal, publicada en el Diario Ofici",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2734,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6595744680851063,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8354430379746836,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "60",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ses siguientes al vencimiento del plazo mencionado en el citado párrafo, aplicará al erario federal dichos recursos en el concepto que corresponda de la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda.  SEXTO.- Los recursos disponibles del Fondo de Garantía para Reintegros al Erario Federal a que se refiere el artículo 55 de la Ley del Servicio de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4706,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8208955223880597,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
@@ -385,5 +385,5 @@
       "char_offset": 7880
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.483118+00:00"
+  "resolved_at": "2026-03-30T20:33:07.866898+00:00"
 }

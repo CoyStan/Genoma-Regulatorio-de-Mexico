@@ -42,23 +42,23 @@
       "confidence": "medium",
       "char_offset": 5763,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "9",
       "target_law_raw": "Ley sobre la Celebración de Tratados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "interinstitucionales en el ámbito internacional en materia de buenas prácticas regulatorias, simplificación y digitalización de Trámites y Servicios, en los términos de la Ley sobre la Celebración de Tratados; XIV.\tOrganizar y participar en foros, conferencias, coloquios, diplomados, seminarios, talleres, reuniones, eventos, convenciones y congresos que se",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2378,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6129032258064516,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
@@ -102,7 +102,7 @@
       "confidence": "medium",
       "char_offset": 8061,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45255474452554745,
+      "resolution_score": 0.7441860465116279,
       "resolution_matched_alias": null
     },
     {
@@ -118,5 +118,5 @@
       "char_offset": 10357
     }
   ],
-  "resolved_at": "2026-03-30T12:19:01.284897+00:00"
+  "resolved_at": "2026-03-30T20:33:28.000230+00:00"
 }

@@ -27,7 +27,7 @@
       "confidence": "high",
       "char_offset": 3004,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.53125,
+      "resolution_score": 0.6753246753246753,
       "resolution_matched_alias": null
     },
     {
@@ -54,7 +54,7 @@
       "confidence": "medium",
       "char_offset": 1356,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.4236453201970443,
       "resolution_matched_alias": null
     },
     {
@@ -69,7 +69,7 @@
       "confidence": "medium",
       "char_offset": 594,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.53125,
+      "resolution_score": 0.6753246753246753,
       "resolution_matched_alias": null
     },
     {
@@ -84,7 +84,7 @@
       "confidence": "medium",
       "char_offset": 1023,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4424778761061947,
+      "resolution_score": 0.5789473684210527,
       "resolution_matched_alias": null
     },
     {
@@ -99,7 +99,7 @@
       "confidence": "high",
       "char_offset": 798,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.53125,
+      "resolution_score": 0.6753246753246753,
       "resolution_matched_alias": null
     },
     {
@@ -144,7 +144,7 @@
       "confidence": "medium",
       "char_offset": 135,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4935064935064935,
+      "resolution_score": 0.525,
       "resolution_matched_alias": null
     },
     {
@@ -243,7 +243,7 @@
       "confidence": "medium",
       "char_offset": 123,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4431818181818182,
+      "resolution_score": 0.4819277108433735,
       "resolution_matched_alias": null
     },
     {
@@ -258,7 +258,7 @@
       "confidence": "medium",
       "char_offset": 441,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
+      "resolution_score": 0.6363636363636364,
       "resolution_matched_alias": null
     },
     {
@@ -273,7 +273,7 @@
       "confidence": "medium",
       "char_offset": 3413,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
+      "resolution_score": 0.6363636363636364,
       "resolution_matched_alias": null
     },
     {
@@ -318,7 +318,7 @@
       "confidence": "medium",
       "char_offset": 252,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5357142857142857,
+      "resolution_score": 0.5507246376811594,
       "resolution_matched_alias": null
     },
     {
@@ -393,7 +393,7 @@
       "confidence": "high",
       "char_offset": 619,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4260355029585799,
+      "resolution_score": 0.43037974683544306,
       "resolution_matched_alias": null
     },
     {
@@ -408,7 +408,7 @@
       "confidence": "high",
       "char_offset": 800,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4260355029585799,
+      "resolution_score": 0.43037974683544306,
       "resolution_matched_alias": null
     },
     {
@@ -423,7 +423,7 @@
       "confidence": "medium",
       "char_offset": 533,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4857142857142857,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -438,7 +438,7 @@
       "confidence": "medium",
       "char_offset": 1282,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5070422535211268,
+      "resolution_score": 0.5151515151515151,
       "resolution_matched_alias": null
     },
     {
@@ -453,7 +453,7 @@
       "confidence": "high",
       "char_offset": 1692,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.42424242424242425,
+      "resolution_score": 0.43373493975903615,
       "resolution_matched_alias": null
     },
     {
@@ -498,7 +498,7 @@
       "confidence": "medium",
       "char_offset": 245,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41420118343195267,
+      "resolution_score": 0.432,
       "resolution_matched_alias": null
     },
     {
@@ -528,7 +528,7 @@
       "confidence": "medium",
       "char_offset": 118,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5373134328358209,
+      "resolution_score": 0.5899280575539568,
       "resolution_matched_alias": null
     },
     {
@@ -558,23 +558,23 @@
       "confidence": "high",
       "char_offset": 4455,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-de-comercio",
       "source_article": "6o",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "ARTICULO 6o.- En los aspectos no previstos por el Libro IV de la Ley, que se refiere a las maniobras en los puertos, regirá provisionalmente la Ley de Vías Generales de Comunicación, en tanto se expide el Reglamento respectivo.   DECRETO que reforma los artículos del 51 al 74 del Código de Comercio en vigor.  Publicado en el Diar",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 141,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "codigo-de-comercio",
@@ -588,7 +588,7 @@
       "confidence": "medium",
       "char_offset": 1626,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4630541871921182,
+      "resolution_score": 0.4742268041237113,
       "resolution_matched_alias": null
     },
     {
@@ -652,16 +652,16 @@
       "source_law": "codigo-de-comercio",
       "source_article": "5",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "ciones otorgadas con anterioridad a la fecha de expedición de la presente ley, continuarán en vigor hasta el término de su vigencia, sin perjuicio de lo dispuesto en la Ley de Puertos.  SEXTO.- Las solicitudes de concesiones, permisos o autorizaciones, que se encuentren en proceso de trámite al entrar en vigor la presente ley, qued",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 8713,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "codigo-de-comercio",
@@ -675,7 +675,7 @@
       "confidence": "high",
       "char_offset": 33962,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -705,7 +705,7 @@
       "confidence": "medium",
       "char_offset": 7395,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5111111111111111,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -727,16 +727,16 @@
       "source_law": "codigo-de-comercio",
       "source_article": "5",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "ón y Comercio Marítimos, excepto los artículos 222 al 232 y 234 al 250;  II. Los artículos 1o., fracciones I a IV 169 a 305, 543 a 545 y 547 a 554 de la Ley de Vías Generales de Comunicación;  III. Los artículos 19, en lo que se oponga a la presente ley, 21, fracciones XIII y XVI a XVIII, 641 a 944, 1043, fracciones III, V, VII y VIII, y ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8066,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "codigo-de-comercio",
@@ -961,5 +961,5 @@
       "char_offset": 706
     }
   ],
-  "resolved_at": "2026-03-30T12:18:37.495027+00:00"
+  "resolved_at": "2026-03-30T20:32:43.843921+00:00"
 }

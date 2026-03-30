@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 1557,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 172,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 207,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "medium",
       "char_offset": 13,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.39655172413793105,
+      "resolution_score": 0.4782608695652174,
       "resolution_matched_alias": null
     },
     {
@@ -231,7 +231,7 @@
       "confidence": "high",
       "char_offset": 96,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -313,61 +313,61 @@
       "source_law": "ley-general-de-turismo",
       "source_article": "73",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "derogan y adicionan diversas disposiciones de la Ley General de Población, del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Tur",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5087,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-general-de-turismo",
       "source_article": "73",
       "target_law_raw": "Ley de la Policía Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "General de Población, del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Ofi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5140,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-general-de-turismo",
       "source_article": "73",
       "target_law_raw": "Ley de Asociaciones Religiosas y Culto Público",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
       "target_article": null,
       "citation_text": "Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5173,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones religiosas y culto público"
     },
     {
       "source_law": "ley-general-de-turismo",
       "source_article": "73",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "nales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO NOVENO. Se reforma el artículo 43, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5227,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-general-de-turismo",
@@ -396,7 +396,7 @@
       "confidence": "medium",
       "char_offset": 6324,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6530612244897959,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -411,7 +411,7 @@
       "confidence": "medium",
       "char_offset": 6431,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46511627906976744,
+      "resolution_score": 0.6585365853658537,
       "resolution_matched_alias": null
     },
     {
@@ -547,5 +547,5 @@
       "char_offset": 4423
     }
   ],
-  "resolved_at": "2026-03-30T12:18:59.523059+00:00"
+  "resolved_at": "2026-03-30T20:33:25.146908+00:00"
 }

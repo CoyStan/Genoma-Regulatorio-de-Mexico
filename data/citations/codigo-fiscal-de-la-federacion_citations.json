@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 274,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -147,7 +147,7 @@
       "confidence": "medium",
       "char_offset": 4034,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41916167664670656,
+      "resolution_score": 0.4316546762589928,
       "resolution_matched_alias": null
     },
     {
@@ -177,7 +177,7 @@
       "confidence": "medium",
       "char_offset": 313,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4935064935064935,
+      "resolution_score": 0.525,
       "resolution_matched_alias": null
     },
     {
@@ -207,7 +207,7 @@
       "confidence": "medium",
       "char_offset": 738,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -222,7 +222,7 @@
       "confidence": "medium",
       "char_offset": 3078,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -237,7 +237,7 @@
       "confidence": "medium",
       "char_offset": 3535,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -327,7 +327,7 @@
       "confidence": "medium",
       "char_offset": 2785,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -357,7 +357,7 @@
       "confidence": "medium",
       "char_offset": 3741,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44808743169398907,
+      "resolution_score": 0.5341614906832298,
       "resolution_matched_alias": null
     },
     {
@@ -387,7 +387,7 @@
       "confidence": "high",
       "char_offset": 12221,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -477,7 +477,7 @@
       "confidence": "high",
       "char_offset": 8522,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -537,7 +537,7 @@
       "confidence": "high",
       "char_offset": 3071,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.38323353293413176,
+      "resolution_score": 0.524390243902439,
       "resolution_matched_alias": null
     },
     {
@@ -654,7 +654,7 @@
       "confidence": "high",
       "char_offset": 856,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -706,16 +706,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "33",
       "target_law_raw": "Ley del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-de-administracion-tributaria",
       "target_article": null,
       "citation_text": "s Administrativas, se entenderán hechas al Servicio de Administración Tributaria, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Tributaria, su Reglamento interior o cualquier otra disposición jurídica que emane de ellos.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8223,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio de administración tributaria"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -774,7 +774,7 @@
       "confidence": "medium",
       "char_offset": 881,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5121951219512195,
+      "resolution_score": 0.5522388059701493,
       "resolution_matched_alias": null
     },
     {
@@ -796,16 +796,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "40-A",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.  b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidad",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3588,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -834,7 +834,7 @@
       "confidence": "high",
       "char_offset": 4794,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -924,7 +924,7 @@
       "confidence": "high",
       "char_offset": 8088,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -939,7 +939,7 @@
       "confidence": "medium",
       "char_offset": 234,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -1051,16 +1051,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "66-A",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "r el contribuyente en su solicitud de autorización de pago a plazos y la tasa mensual de recargos por prórroga que incluye actualización de acuerdo a la Ley de Ingresos de la Federación vigente en la fecha de la solicitud de autorización de pago a plazos en parcialidades.  Cuando no se paguen oportunamente los montos de los pagos en parcialidades autorizados, el contribuyente estará obligado a pagar recargos por los p",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 758,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -1209,7 +1209,7 @@
       "confidence": "medium",
       "char_offset": 2688,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -1224,7 +1224,7 @@
       "confidence": "medium",
       "char_offset": 6191,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4835164835164835,
+      "resolution_score": 0.6825396825396826,
       "resolution_matched_alias": null
     },
     {
@@ -1299,7 +1299,7 @@
       "confidence": "medium",
       "char_offset": 2594,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4835164835164835,
+      "resolution_score": 0.6825396825396826,
       "resolution_matched_alias": null
     },
     {
@@ -1416,7 +1416,7 @@
       "confidence": "medium",
       "char_offset": 2198,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -1656,7 +1656,7 @@
       "confidence": "medium",
       "char_offset": 197,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4672897196261682,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -1716,7 +1716,7 @@
       "confidence": "medium",
       "char_offset": 195,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4672897196261682,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -1863,7 +1863,7 @@
       "confidence": "medium",
       "char_offset": 484,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
+      "resolution_score": 0.7027027027027027,
       "resolution_matched_alias": null
     },
     {
@@ -1938,7 +1938,7 @@
       "confidence": "medium",
       "char_offset": 1344,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -2013,7 +2013,7 @@
       "confidence": "medium",
       "char_offset": 4394,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -2028,7 +2028,7 @@
       "confidence": "high",
       "char_offset": 4093,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5581395348837209,
+      "resolution_score": 0.5423728813559322,
       "resolution_matched_alias": null
     },
     {
@@ -2050,16 +2050,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "145",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.  g) Los bienes muebles no comprendidos en las fracciones anteriores.  h) La negociación del contribuyente.  Los contribuyentes, responsables solidar",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3128,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -2080,31 +2080,31 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "155",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.  En el caso de que se embarguen depósitos bancarios, otros depósitos o seguros del contribuyente a que se refiere el párrafo anterior, el monto del ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 987,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "157",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "rro para el retiro, incluidas las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, conforme a lo establecido en la Ley de los Sistemas de Ahorro para el Retiro.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1552,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -2118,7 +2118,7 @@
       "confidence": "high",
       "char_offset": 693,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3687150837988827,
+      "resolution_score": 0.41624365482233505,
       "resolution_matched_alias": null
     },
     {
@@ -2133,7 +2133,7 @@
       "confidence": "medium",
       "char_offset": 177,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -2163,7 +2163,7 @@
       "confidence": "medium",
       "char_offset": 455,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5245901639344263,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -2268,7 +2268,7 @@
       "confidence": "high",
       "char_offset": 42919,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5230769230769231,
+      "resolution_score": 0.647887323943662,
       "resolution_matched_alias": null
     },
     {
@@ -2305,16 +2305,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "263",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "rvicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 110009,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -2343,7 +2343,7 @@
       "confidence": "high",
       "char_offset": 77680,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.43010752688172044,
       "resolution_matched_alias": null
     },
     {
@@ -2470,31 +2470,31 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "263",
       "target_law_raw": "Ley del Servicio de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "l presente Decreto para incorporar los equipos de control volumétrico a que se refiere el precepto citado.  VIII. Para los efectos del artículo 29 de la Ley del Servicio de Tesorería de la Federación, el plazo a que se refiere dicho artículo será de 24 meses contados a partir de que se considere formalizada la aceptación en pago de conformidad con",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 96635,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6595744680851063,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8354430379746836,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "263",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "siciones del Código Fiscal de la Federación, de la Ley de Vías Generales de Comunicación, de la Ley de Caminos, Puentes y Autotransporte Federal y de la Ley de la Policía Federal Preventiva.  Publicado en el Diario Oficial de la Federación el 25 de octubre de 2005  Artículo Primero. Se adiciona un tercer párrafo al artículo 3o. recorrién",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 108451,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -2700,7 +2700,7 @@
       "confidence": "high",
       "char_offset": 8367,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.59375,
       "resolution_matched_alias": null
     },
     {
@@ -2835,7 +2835,7 @@
       "confidence": "medium",
       "char_offset": 29630,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3870967741935484,
+      "resolution_score": 0.44776119402985076,
       "resolution_matched_alias": null
     },
     {
@@ -2974,16 +2974,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "21",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "e Hidrocarburos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Federal contra la Delincuencia Organizada; de la Ley Federal de Extinción de Dominio, reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; del Código Fis",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 29447,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3027,7 +3027,7 @@
       "confidence": "medium",
       "char_offset": 33720,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -3139,16 +3139,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "21",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2019",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "s a partir de 2020. En este último supuesto los contribuyentes serán los únicos obligados a revelar.  Para los efectos del artículo 25, fracción I de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2019, la información correspondiente al último trimestre del ejercicio, se deberá presentar a más tardar el último día del mes de febrero de 2020, en los ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 57964,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9692307692307692,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3373,16 +3373,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "17-F",
       "target_law_raw": "Ley de la Comisión Nacional de Energía",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-energia",
       "target_article": null,
       "citation_text": "nal de Energía previstas en el presente Decreto, se incluye a la Comisión Reguladora de Energía, conforme a lo dispuesto en el Tercero Transitorio de la Ley de la Comisión Nacional de Energía, publicada en el Diario Oficial de la Federación el 18 de marzo de 2025.  Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 10879,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional de energía"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3427,5 +3427,5 @@
       "char_offset": 4689
     }
   ],
-  "resolved_at": "2026-03-30T12:18:38.927299+00:00"
+  "resolved_at": "2026-03-30T20:32:45.889574+00:00"
 }

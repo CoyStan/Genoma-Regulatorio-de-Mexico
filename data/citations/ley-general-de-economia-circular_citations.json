@@ -42,7 +42,7 @@
       "confidence": "high",
       "char_offset": 315,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4146341463414634,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 182,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45588235294117646,
+      "resolution_score": 0.5324675324675324,
       "resolution_matched_alias": null
     },
     {
@@ -154,16 +154,16 @@
       "source_law": "ley-general-de-economia-circular",
       "source_article": "47",
       "target_law_raw": "Ley para el Desarrollo de la Competitividad de la Micro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
       "target_article": null,
       "citation_text": "ios y la ejecución de las demás medidas que establece esta Ley. Las micro, pequeñas y medianas empresas son aquellas que se prevén en sus términos en la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 703,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5054945054945055,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8029197080291971,
+      "resolution_matched_alias": "ley para el desarrollo de la competitividad de la micro, pequeña y mediana empresa"
     },
     {
       "source_law": "ley-general-de-economia-circular",
@@ -184,16 +184,16 @@
       "source_law": "ley-general-de-economia-circular",
       "source_article": "49",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "Artículo 49.- En lo no previsto en esta Ley se aplicarán supletoriamente la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de Residuos, la Ley Federal de Procedimiento Administrativo y la normativa aplicable. Artículo Segundo y Artículo Tercero.-  Transitorios Primero. El presente De",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 142,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5786163522012578,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9682539682539683,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-general-de-economia-circular",
@@ -253,5 +253,5 @@
       "char_offset": 3379
     }
   ],
-  "resolved_at": "2026-03-30T12:18:57.552508+00:00"
+  "resolved_at": "2026-03-30T20:33:21.924443+00:00"
 }

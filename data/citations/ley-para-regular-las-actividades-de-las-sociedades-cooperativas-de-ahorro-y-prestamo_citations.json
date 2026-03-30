@@ -174,7 +174,7 @@
       "confidence": "medium",
       "char_offset": 310,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.425531914893617,
+      "resolution_score": 0.5764705882352941,
       "resolution_matched_alias": null
     },
     {
@@ -342,7 +342,7 @@
       "confidence": "medium",
       "char_offset": 236,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.425531914893617,
+      "resolution_score": 0.5764705882352941,
       "resolution_matched_alias": null
     },
     {
@@ -522,7 +522,7 @@
       "confidence": "high",
       "char_offset": 251,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.46408839779005523,
       "resolution_matched_alias": null
     },
     {
@@ -552,23 +552,23 @@
       "confidence": "high",
       "char_offset": 1505,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46875,
+      "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
       "source_article": "120",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "evisto en el reglamento expedido por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en el Artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.  Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría y a la Comisión.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1660,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
@@ -582,7 +582,7 @@
       "confidence": "high",
       "char_offset": 167,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44871794871794873,
+      "resolution_score": 0.49122807017543857,
       "resolution_matched_alias": null
     },
     {
@@ -619,16 +619,16 @@
       "source_law": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
       "source_article": "132",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "ooperativas de Ahorro y Préstamo que hubieren sido autorizadas para organizarse y funcionar como tales por la Comisión Nacional Bancaria y de Valores de conformidad con la Ley de Ahorro y Crédito Popular, continuarán efectuando sus aportaciones en los términos y condiciones a que se refiere esta Ley.  Las Sociedades Cooperativas de Ahorro y Préstamo q",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 26580,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
@@ -642,7 +642,7 @@
       "confidence": "medium",
       "char_offset": 23718,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41148325358851673,
+      "resolution_score": 0.4577114427860697,
       "resolution_matched_alias": null
     },
     {
@@ -672,7 +672,7 @@
       "confidence": "medium",
       "char_offset": 41942,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5166666666666667,
+      "resolution_score": 0.7101449275362319,
       "resolution_matched_alias": null
     },
     {
@@ -718,5 +718,5 @@
       "char_offset": 41216
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.824783+00:00"
+  "resolved_at": "2026-03-30T20:33:31.567285+00:00"
 }

@@ -180,7 +180,7 @@
       "confidence": "medium",
       "char_offset": 991,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "medium",
       "char_offset": 216,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5806451612903226,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 1455,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -354,7 +354,7 @@
       "confidence": "high",
       "char_offset": 273,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40789473684210525,
+      "resolution_score": 0.46808510638297873,
       "resolution_matched_alias": null
     },
     {
@@ -453,7 +453,7 @@
       "confidence": "high",
       "char_offset": 1747,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -555,7 +555,7 @@
       "confidence": "high",
       "char_offset": 500,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -594,7 +594,7 @@
       "confidence": "high",
       "char_offset": 372,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5818181818181818,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -661,16 +661,16 @@
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "250",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "s decomisados, una vez satisfecha la reparación a la víctima, y descontado el porcentaje por concepto de gastos indirectos de operación a que refiere la Ley de Ingresos de la Federación, del ejercicio fiscal que corresponda, a favor del Instituto de Administración de Bienes y Activos, serán entregados en partes iguales al Poder Judic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 758,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -738,7 +738,7 @@
       "confidence": "high",
       "char_offset": 2503,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
@@ -757,31 +757,31 @@
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "490",
       "target_law_raw": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
       "target_article": null,
       "citation_text": "ara los procedimientos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.  SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.  TERCERO. A partir de la entrada en vigor del presente Decreto, el ",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 9528,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9333333333333333,
+      "resolution_matched_alias": "ley general de mecanismos alternativos de solución de controversias"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "490",
       "target_law_raw": "Ley Nacional de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "xceder de seis meses contados a partir de la publicación del presente Decreto, para crear los juzgados competentes en materia de extinción de dominio a que se refiere la Ley Nacional de Extinción de Dominio, mientras tanto, serán competentes los jueces de distrito en materia civil y que no tengan jurisdicción especial, de conformidad con los acuerdos que",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 34262,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -810,7 +810,7 @@
       "confidence": "high",
       "char_offset": 69661,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -832,16 +832,16 @@
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "490",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "bles Quedan derogadas todas las normas que se opongan al presente Decreto, con excepción de las leyes relativas a la jurisdicción militar así como de la Ley Federal contra la Delincuencia Organizada.  ARTÍCULO QUINTO. Convalidación o regularización de actuaciones Cuando por razón de competencia por fuero o territorio, se realicen actuaciones conf",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2770,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -900,7 +900,7 @@
       "confidence": "medium",
       "char_offset": 16372,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -1005,7 +1005,7 @@
       "confidence": "medium",
       "char_offset": 35811,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47368421052631576,
+      "resolution_score": 0.7058823529411765,
       "resolution_matched_alias": null
     },
     {
@@ -1065,7 +1065,7 @@
       "confidence": "medium",
       "char_offset": 41478,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4409448818897638,
+      "resolution_score": 0.6617647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -1095,7 +1095,7 @@
       "confidence": "medium",
       "char_offset": 46752,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3776223776223776,
+      "resolution_score": 0.5921052631578947,
       "resolution_matched_alias": null
     },
     {
@@ -1186,5 +1186,5 @@
       "char_offset": 395
     }
   ],
-  "resolved_at": "2026-03-30T12:18:39.597515+00:00"
+  "resolved_at": "2026-03-30T20:32:47.591323+00:00"
 }

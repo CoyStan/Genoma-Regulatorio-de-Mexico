@@ -127,16 +127,16 @@
       "source_law": "ley-general-de-derechos-linguisticos-de-los-pueblos-indigenas",
       "source_article": "25",
       "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "target_article": null,
       "citation_text": "la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19551,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la protección de personas defensoras de derechos humanos y periodistas"
     },
     {
       "source_law": "ley-general-de-derechos-linguisticos-de-los-pueblos-indigenas",
@@ -150,7 +150,7 @@
       "confidence": "medium",
       "char_offset": 19635,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "medium",
       "char_offset": 20927,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3769633507853403,
+      "resolution_score": 0.5777777777777777,
       "resolution_matched_alias": null
     },
     {
@@ -196,5 +196,5 @@
       "char_offset": 3721
     }
   ],
-  "resolved_at": "2026-03-30T12:18:57.317968+00:00"
+  "resolved_at": "2026-03-30T20:33:21.316001+00:00"
 }

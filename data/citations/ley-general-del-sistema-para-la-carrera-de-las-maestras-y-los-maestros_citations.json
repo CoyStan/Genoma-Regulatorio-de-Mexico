@@ -172,16 +172,16 @@
       "source_law": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
       "source_article": "107",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "sponibilidad presupuestaria correspondiente. En todo caso, en el ámbito que corresponda, se estará a lo dispuesto en los artículos 26-A, 27 y 27-A de la Ley de Coordinación Fiscal.  Por lo que se refiere a los servicios personales de las funciones docente, técnico docente, asesor técnico pedagógico, directivo, de supervisión, a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 734,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
@@ -271,5 +271,5 @@
       "char_offset": 14212
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.179200+00:00"
+  "resolved_at": "2026-03-30T20:33:26.026576+00:00"
 }

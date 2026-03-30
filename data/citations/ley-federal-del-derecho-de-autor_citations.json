@@ -87,7 +87,7 @@
       "confidence": "medium",
       "char_offset": 4482,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -117,7 +117,7 @@
       "confidence": "medium",
       "char_offset": 83,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
+      "resolution_score": 0.68,
       "resolution_matched_alias": null
     },
     {
@@ -147,7 +147,7 @@
       "confidence": "high",
       "char_offset": 1179,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -694,31 +694,31 @@
       "source_law": "ley-federal-del-derecho-de-autor",
       "source_article": "238",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 81759,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-federal-del-derecho-de-autor",
       "source_article": "238",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 81842,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-federal-del-derecho-de-autor",
@@ -733,5 +733,5 @@
       "char_offset": 3363
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.027366+00:00"
+  "resolved_at": "2026-03-30T20:33:18.939199+00:00"
 }

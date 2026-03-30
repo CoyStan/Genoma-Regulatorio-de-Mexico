@@ -19,16 +19,16 @@
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "4",
       "target_law_raw": "Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "target_article": null,
       "citation_text": "ra la Prevención Social de la Violencia y la Delincuencia;  VII. Programa anual: El programa de trabajo anual del Centro Nacional;  VIII. Reglamento: El Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia;  IX. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;  X. Secretario Ejecutivo: El Titular del Secretari",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 903,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5161290322580645,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8930817610062893,
+      "resolution_matched_alias": "ley general para la prevención social de la violencia y la delincuencia"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
@@ -148,5 +148,5 @@
       "char_offset": 1686
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.562341+00:00"
+  "resolved_at": "2026-03-30T20:33:26.726111+00:00"
 }

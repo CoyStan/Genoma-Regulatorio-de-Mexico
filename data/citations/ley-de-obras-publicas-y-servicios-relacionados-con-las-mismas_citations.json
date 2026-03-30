@@ -7,16 +7,16 @@
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "1",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "onvenios que celebren con el Ejecutivo Federal. No quedan comprendidos para la aplicación de la presente Ley los fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal. Fracción reformada DOF 28-05-2009, 16-04-2025  Las personas de derecho público de carácter federal con autonomía derivada de la Constitución Polític",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1093,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -91,16 +91,16 @@
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "21",
       "target_law_raw": "Ley de Infraestructura de la Calidad o",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "V.\tLas características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;  V.\tLas normas aplicables conforme a la Ley de Infraestructura de la Calidad o, a falta de éstas, las normas internacionales; Fracción reformada DOF 16-04-2025  VI.\tLos resultados previsibles;  VII.\tLa coordinación que sea neces",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1068,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.972972972972973,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -168,38 +168,38 @@
       "confidence": "high",
       "char_offset": 1080,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "40",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "entenderá que el concurso para el otorgamiento de la concesión fue declarado desierto para efectos de lo dispuesto en el artículo 7, fracción VII, de la Ley de Caminos, Puentes y Autotransporte Federal.  La dependencia podrá establecer en la convocatoria que las juntas de aclaraciones respecto de ambas etapas del pr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1960,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "42",
       "target_law_raw": "Ley del Servicio de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "rrafo reformado DOF 16-04-2025 Fracción reformada DOF 07-07-2005, 28-05-2009  XII. Se acepte la ejecución de los trabajos a título de dación en pago, en los términos de la Ley del Servicio de Tesorería de la Federación; Fracción adicionada DOF 07-07-2005. Reformada DOF 28-05-2009  XIII.\tCuando se acredite la celebración de una alianza estratégica que lleven a cabo l",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 4804,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6595744680851063,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8354430379746836,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -228,7 +228,7 @@
       "confidence": "high",
       "char_offset": 3224,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37410071942446044,
+      "resolution_score": 0.44755244755244755,
       "resolution_matched_alias": null
     },
     {
@@ -243,7 +243,7 @@
       "confidence": "high",
       "char_offset": 1139,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -258,23 +258,23 @@
       "confidence": "medium",
       "char_offset": 235,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4580152671755725,
+      "resolution_score": 0.6410256410256411,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "76",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "alidad de los trabajos a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad. Párrafo reformado DOF 28-05-2009, 16-04-2025  El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hech",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 197,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -295,16 +295,16 @@
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "78",
       "target_law_raw": "Ley de Asociaciones Público Privadas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-publico-privadas",
       "target_article": null,
       "citation_text": "contratación y para celebrar contratos regulados por esta Ley, en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como en la Ley de Asociaciones Público Privadas, a las personas que se encuentren en alguno de los supuestos siguientes: Párrafo reformado DOF 07-07-2005, 28-05-2009, 16-04-2025  I.\tLos licitantes ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 346,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones público privadas"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -490,31 +490,31 @@
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "104",
       "target_law_raw": "Ley de Asociaciones Público Privadas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-publico-privadas",
       "target_article": null,
       "citation_text": "Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se expide la Ley de Asociaciones Público Privadas, y se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisicion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23907,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones público privadas"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "104",
       "target_law_raw": "Ley de Expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "siciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Expropiación; la Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles.  Publicado en el Diario Oficial de la Federación el 16 de enero d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 24147,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -558,7 +558,7 @@
       "confidence": "medium",
       "char_offset": 30228,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44025157232704404,
+      "resolution_score": 0.509090909090909,
       "resolution_matched_alias": null
     },
     {
@@ -604,5 +604,5 @@
       "char_offset": 1992
     }
   ],
-  "resolved_at": "2026-03-30T12:18:48.821875+00:00"
+  "resolved_at": "2026-03-30T20:33:06.465444+00:00"
 }

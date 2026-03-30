@@ -22,16 +22,16 @@
       "source_law": "ley-de-vertimientos-en-las-zonas-marinas-mexicanas",
       "source_article": "6",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "Artículo 6.- La Autoridad Marítima en materia de Marina Mercante, en términos de lo dispuesto por la Ley de Navegación y Comercio Marítimos, que determine el hundimiento de buques, plataformas u otras construcciones en el mar, deberá sujetarse a las disposiciones contenidas en la presente",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 81,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-de-vertimientos-en-las-zonas-marinas-mexicanas",
@@ -52,16 +52,16 @@
       "source_law": "ley-de-vertimientos-en-las-zonas-marinas-mexicanas",
       "source_article": "37",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "smo la Secretaría dará aviso al Registro Aeronáutico Mexicano para efectos de lo dispuesto por los artículos 46, fracción III, y 47, fracción III, de la Ley de Aviación Civil.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 634,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-vertimientos-en-las-zonas-marinas-mexicanas",
@@ -105,7 +105,7 @@
       "confidence": "medium",
       "char_offset": 75,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37168141592920356,
+      "resolution_score": 0.49635036496350365,
       "resolution_matched_alias": null
     },
     {
@@ -151,5 +151,5 @@
       "char_offset": 1765
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.601966+00:00"
+  "resolved_at": "2026-03-30T20:33:08.059966+00:00"
 }

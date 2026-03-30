@@ -90,7 +90,7 @@
       "confidence": "high",
       "char_offset": 887,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -447,7 +447,7 @@
       "confidence": "high",
       "char_offset": 108,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5128205128205128,
+      "resolution_score": 0.5555555555555556,
       "resolution_matched_alias": null
     },
     {
@@ -505,46 +505,46 @@
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "222",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "e cada año, la Cuenta Pública del Ejercicio Fiscal inmediato anterior, y sólo se podrá otorgar prórroga en los términos del Artículo 8, fracción V de la Ley de Fiscalización y Rendición de Cuentas de la Federación.  2. De otorgarse la prórroga, ésta no deberá exceder los treinta días naturales. La Auditoría Superior de la Federación contará con el mismo tiempo ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 216,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "226",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "ión, un informe que contenga observaciones y recomendaciones, de acuerdo a las atribuciones que en materia de evaluación de su desempeño le confieren la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones legales. Dicho informe deberá entregarse, a más tardar, el 30 de mayo del año en que se presente el Informe del Resultado de la Revisión y Fiscalización de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 300,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "229",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "ación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría Superior de la Federación, mismas que seguirán el procedimiento previsto en la Ley de Fiscalización y Rendición de Cuentas de la Federación.  CAPITULO III De la Discusión de reformas a la Constitución Política de los Estados Unidos Mexicanos",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 175,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
@@ -606,7 +606,7 @@
       "confidence": "high",
       "char_offset": 212,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -645,7 +645,7 @@
       "confidence": "high",
       "char_offset": 1394,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.39416058394160586,
+      "resolution_score": 0.4523809523809524,
       "resolution_matched_alias": null
     },
     {
@@ -726,7 +726,7 @@
       "confidence": "high",
       "char_offset": 611,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5346534653465347,
+      "resolution_score": 0.5977011494252874,
       "resolution_matched_alias": null
     },
     {
@@ -748,16 +748,16 @@
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "316",
       "target_law_raw": "Reglamento de la Cámara de Diputados le otorga",
-      "target_law_id": "unresolved",
+      "target_law_id": "reglamento-de-la-camara-de-diputados",
       "target_article": null,
       "citation_text": "á a lo dispuesto en su Acuerdo de creación, como lo refiere el artículo 46, numeral 3 de la Ley, sin perjuicio de las atribuciones y obligaciones que el Reglamento de la Cámara de Diputados le otorga.  Séptimo. Corresponderá a la Junta con el auxilio del Comité de Administración, analizar las normas del Reglamento de la Cámara de Diputados que con",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13074,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4418604651162791,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8780487804878049,
+      "resolution_matched_alias": "reglamento de la cámara de diputados"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
@@ -772,5 +772,5 @@
       "char_offset": 20993
     }
   ],
-  "resolved_at": "2026-03-30T12:19:03.768901+00:00"
+  "resolved_at": "2026-03-30T20:33:33.870037+00:00"
 }

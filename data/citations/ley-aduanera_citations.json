@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 165,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
+      "resolution_score": 0.6301369863013698,
       "resolution_matched_alias": null
     },
     {
@@ -60,7 +60,7 @@
       "confidence": "high",
       "char_offset": 717,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43137254901960786,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "medium",
       "char_offset": 792,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4233576642335766,
+      "resolution_score": 0.5103448275862069,
       "resolution_matched_alias": null
     },
     {
@@ -165,38 +165,38 @@
       "confidence": "medium",
       "char_offset": 1272,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48214285714285715,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-aduanera",
       "source_article": "36-A",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "do DOF 25-06-2018  c)\tLa que compruebe el cumplimiento de las regulaciones y restricciones no arancelarias a la importación, que se hubieran expedido de acuerdo con la Ley de Comercio Exterior, siempre que las mismas se publiquen en el Diario Oficial de la Federación y se identifiquen en términos de la fracción arancelaria y de la nomenclat",
       "pattern_name": "de_acuerdo",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1525,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-aduanera",
       "source_article": "36-A",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "io Oficial de la Federación y se identifiquen en términos de la fracción arancelaria y de la nomenclatura que les corresponda conforme a la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación.  d)\tLa que determine la procedencia y el origen de las mercancías para efectos de la aplicación de preferencias arancelarias de conformidad con los ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1765,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-aduanera",
@@ -210,7 +210,7 @@
       "confidence": "medium",
       "char_offset": 6890,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4827586206896552,
+      "resolution_score": 0.46153846153846156,
       "resolution_matched_alias": null
     },
     {
@@ -232,16 +232,16 @@
       "source_law": "ley-aduanera",
       "source_article": "52",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "rafos anteriores también estarán obligadas a pagar las cuotas compensatorias en aquellos regímenes aduaneros que determine la Secretaría de Economía, de conformidad con la Ley de Comercio Exterior, a través de las disposiciones que para tales efectos se publiquen en el Diario Oficial de la Federación.  Tratándose de mercancías sujetas a cuotas ",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1163,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-aduanera",
@@ -270,7 +270,7 @@
       "confidence": "medium",
       "char_offset": 1721,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5033112582781457,
       "resolution_matched_alias": null
     },
     {
@@ -292,16 +292,16 @@
       "source_law": "ley-aduanera",
       "source_article": "61",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación y a los tratados internacionales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "s impuestos al comercio exterior por la entrada al territorio nacional o la salida del mismo de las siguientes mercancías:  I.\tLas exentas conforme a la Ley de los Impuestos Generales de Importación y de Exportación y a los tratados internacionales, así como las mercancías que se importen con objeto de destinarlas a finalidades de defensa nacional o seguridad pública. Fracción reformada DOF 19-1",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 179,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5234899328859061,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7898089171974523,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-aduanera",
@@ -352,16 +352,16 @@
       "source_law": "ley-aduanera",
       "source_article": "88",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "artículo 1o. de la Ley del Impuesto al Valor Agregado; la correspondiente a los derechos de trámite aduanero y la mayor de las cuotas de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, sobre las bases gravables de las contribuciones mencionadas. Párrafo reformado DOF 19-11-2025  No se podrá ejercer la opción a que se refiere el pár",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 619,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-aduanera",
@@ -427,16 +427,16 @@
       "source_law": "ley-aduanera",
       "source_article": "129",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "ñaló para oír y recibir notificaciones.  c)\tCuando determine provisionalmente las contribuciones, sin aplicar la tasa máxima señalada en la tarifa de la Ley de los Impuestos Generales de Importación y de Exportación, y la que corresponda tratándose de las demás contribuciones o cuotas compensatorias, conforme a lo dispuesto en las disposiciones jurídicas aplicabl",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 839,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-aduanera",
@@ -457,16 +457,16 @@
       "source_law": "ley-aduanera",
       "source_article": "135-B",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "arán sujetas al cumplimiento de las regulaciones y restricciones no arancelarias que señale la Secretaría de Economía y que se expidan en términos de la Ley de Comercio Exterior. Fracción reformada DOF 25-06-2018  III.\tLas mermas resultantes de los procesos de elaboración, transformación o reparación no causarán contribución ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 821,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-aduanera",
@@ -487,16 +487,16 @@
       "source_law": "ley-aduanera",
       "source_article": "137",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "total o parcialmente desgravadas de los impuestos al comercio exterior en la franja o región fronteriza. La propia Secretaría de Economía con base en la Ley de Comercio Exterior, determinará las mercancías cuya importación o exportación a dicha franja o región quedarán sujetas a regulaciones y restricciones no arancelarias. P",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 374,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-aduanera",
@@ -525,7 +525,7 @@
       "confidence": "medium",
       "char_offset": 278,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.42424242424242425,
+      "resolution_score": 0.5471698113207547,
       "resolution_matched_alias": null
     },
     {
@@ -547,16 +547,16 @@
       "source_law": "ley-aduanera",
       "source_article": "144",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "a efectos de la información que deben manifestar los importadores o exportadores en el pedimento que corresponda, unidades de medida diferentes a las señaladas en la Ley de los Impuestos Generales de Importación y de Exportación. Fracción reformada DOF 19-11-2025  XXVIII.\tSuspender la libre circulación de las mercancías de procedencia extranjera dentro del recinto fiscal, una",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 9736,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-aduanera",
@@ -570,7 +570,7 @@
       "confidence": "medium",
       "char_offset": 9216,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6896551724137931,
+      "resolution_score": 0.717948717948718,
       "resolution_matched_alias": null
     },
     {
@@ -690,7 +690,7 @@
       "confidence": "high",
       "char_offset": 1603,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -727,16 +727,16 @@
       "source_law": "ley-aduanera",
       "source_article": "165",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "tentes, sin contar con la asignación del cupo de las mismas, o sin cumplir cualquier otra regulación o restricción no arancelaria emitidas conforme a la Ley de Comercio Exterior, cuando se requiera, o sin realizar el descargo total o parcial sobre el permiso o cupo antes de activar el mecanismo de selección automatizado. Inci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1253,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-aduanera",
@@ -765,7 +765,7 @@
       "confidence": "high",
       "char_offset": 1419,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -787,16 +787,16 @@
       "source_law": "ley-aduanera",
       "source_article": "176",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "ntes de realizar los trámites del despacho aduanero o sin cumplir cualesquiera otras regulaciones o restricciones no arancelarias emitidas conforme a la Ley de Comercio Exterior, compromisos internacionales, requerimientos de orden público o cualquiera otra regulación. Fracción reformada DOF 01-01-2002, 25-06-2018, 19-11-2025",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 615,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-aduanera",
@@ -810,7 +810,7 @@
       "confidence": "medium",
       "char_offset": 2070,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3333333333333333,
+      "resolution_score": 0.4772727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -825,7 +825,7 @@
       "confidence": "medium",
       "char_offset": 2329,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5652173913043478,
       "resolution_matched_alias": null
     },
     {
@@ -855,23 +855,23 @@
       "confidence": "high",
       "char_offset": 5747,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.625,
+      "resolution_score": 0.6071428571428571,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-aduanera",
       "source_article": "199",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación y la descripción",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "6% cuando la omisión de los impuestos al comercio exterior se deba a inexacta clasificación arancelaria, se trate de la misma partida de la Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación y la descripción, naturaleza y demás características necesarias para la clasificación de las mercancías hayan sido correctamente manifestadas a la autoridad. Esta dis",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 258,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.556390977443609,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8794326241134752,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-aduanera",
@@ -915,7 +915,7 @@
       "confidence": "medium",
       "char_offset": 22689,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.484472049689441,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -960,23 +960,23 @@
       "confidence": "medium",
       "char_offset": 23610,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5135135135135135,
+      "resolution_score": 0.578125,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-aduanera",
       "source_article": "203",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "o Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de rec",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23889,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-aduanera",
@@ -990,7 +990,7 @@
       "confidence": "medium",
       "char_offset": 25079,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.5352112676056338,
       "resolution_matched_alias": null
     },
     {
@@ -1035,7 +1035,7 @@
       "confidence": "medium",
       "char_offset": 74210,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.39473684210526316,
+      "resolution_score": 0.5842696629213483,
       "resolution_matched_alias": null
     },
     {
@@ -1107,7 +1107,7 @@
       "confidence": "high",
       "char_offset": 40706,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6060606060606061,
+      "resolution_score": 0.56,
       "resolution_matched_alias": null
     },
     {
@@ -1122,7 +1122,7 @@
       "confidence": "high",
       "char_offset": 42082,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -1159,31 +1159,31 @@
       "source_law": "ley-aduanera",
       "source_article": "187",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "o, a 18 de diciembre de 2018.- La Jefa del Servicio de Administración Tributaria, Ana Margarita Ríos Farjat.- Rúbrica.   DECRETO por el que se expide la Ley de los Impuestos Generales de Importación y de Exportación, y se reforman y adicionan diversas disposiciones de la Ley Aduanera.  Publicado en el Diario Oficial de la Federación el 1 de julio de 2020  ARTÍCUL",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13919,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-aduanera",
       "source_article": "187",
       "target_law_raw": "Ley de Cooperación Internacional para el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-cooperacion-internacional-para-el-desarrollo",
       "target_article": null,
       "citation_text": "ETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 18155,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de cooperación internacional para el desarrollo"
     },
     {
       "source_law": "ley-aduanera",
@@ -1257,7 +1257,7 @@
       "confidence": "medium",
       "char_offset": 18482,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -1309,16 +1309,16 @@
       "source_law": "ley-aduanera",
       "source_article": "187",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "pondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20014,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8695652173913043,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-aduanera",
@@ -1332,7 +1332,7 @@
       "confidence": "medium",
       "char_offset": 28002,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37185929648241206,
+      "resolution_score": 0.4482758620689655,
       "resolution_matched_alias": null
     },
     {
@@ -1392,7 +1392,7 @@
       "confidence": "medium",
       "char_offset": 51501,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5853658536585366,
+      "resolution_score": 0.6461538461538462,
       "resolution_matched_alias": null
     },
     {
@@ -1408,5 +1408,5 @@
       "char_offset": 3513
     }
   ],
-  "resolved_at": "2026-03-30T12:18:41.517872+00:00"
+  "resolved_at": "2026-03-30T20:32:52.226013+00:00"
 }

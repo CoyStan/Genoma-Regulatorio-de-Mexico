@@ -103,16 +103,16 @@
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
       "source_article": "9",
       "target_law_raw": "Ley de los Institutos Nacionales de Salud",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-institutos-nacionales-de-salud",
       "target_article": null,
       "citation_text": " de las Entidades Paraestatales;  III.\tLa Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;  IV.\tLa Ley de Planeación;  V.\tLa Ley de los Institutos Nacionales de Salud;  VI.\tEl Código Civil Federal y/o el del fuero común de la entidad de que se trate, y  VII.\tLa Ley Federal de Procedimiento Administrativo.  CAPÍTULO",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 339,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6944444444444444,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los institutos nacionales de salud"
     },
     {
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
@@ -205,16 +205,16 @@
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
       "source_article": "18",
       "target_law_raw": "Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
       "target_article": null,
       "citation_text": "nsecuencia, se establece que la declaratoria de invalidez de los artículos 3, fracción III, 10, fracción VI, 16, fracción VI, y 17, fracción VIII, de la Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista, surtirá sus efectos cuando se notifiquen los puntos resolutivos de la presente ejecutoria, respectivamente, al Congreso de la Unión y al Presidente ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4435,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5542168674698795,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.994413407821229,
+      "resolution_matched_alias": "ley general para la atención y protección a personas con la condición del espectro autista"
     },
     {
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
@@ -228,7 +228,7 @@
       "confidence": "medium",
       "char_offset": 7709,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4230769230769231,
+      "resolution_score": 0.45614035087719296,
       "resolution_matched_alias": null
     },
     {
@@ -244,5 +244,5 @@
       "char_offset": 2306
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.467709+00:00"
+  "resolved_at": "2026-03-30T20:33:26.600332+00:00"
 }

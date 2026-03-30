@@ -7,16 +7,16 @@
       "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
       "source_article": "4",
       "target_law_raw": "Ley sobre la Celebración de Tratados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "aciones Exteriores.  XV.\tTratados Internacionales: Los instrumentos de Derecho Internacional Público a que se refiere la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2190,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6129032258064516,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 100,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
+      "resolution_score": 0.6301369863013698,
       "resolution_matched_alias": null
     },
     {
@@ -192,7 +192,7 @@
       "confidence": "medium",
       "char_offset": 9857,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -244,16 +244,16 @@
       "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
       "source_article": "42",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "pondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 11468,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8695652173913043,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
@@ -267,7 +267,7 @@
       "confidence": "medium",
       "char_offset": 19456,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37185929648241206,
+      "resolution_score": 0.4482758620689655,
       "resolution_matched_alias": null
     },
     {
@@ -298,5 +298,5 @@
       "char_offset": 3617
     }
   ],
-  "resolved_at": "2026-03-30T12:18:43.579832+00:00"
+  "resolved_at": "2026-03-30T20:32:57.131847+00:00"
 }

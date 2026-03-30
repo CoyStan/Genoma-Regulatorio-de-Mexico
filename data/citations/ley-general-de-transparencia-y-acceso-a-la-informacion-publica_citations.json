@@ -27,7 +27,7 @@
       "confidence": "high",
       "char_offset": 497,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5185185185185185,
+      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -139,16 +139,16 @@
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "source_article": "67",
       "target_law_raw": "Ley Sobre la Celebración de Tratados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "e negociación haya finalizado; i)\tLos acuerdos interinstitucionales registrados ante la Secretaría de Relaciones Exteriores a los que hace referencia la Ley Sobre la Celebración de Tratados, y j)\tLos acuerdos ejecutivos, memorandos de entendimiento, protocolos, cartas de intención y otros instrumentos que, sin adoptar la categoría de Tra",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5406,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6129032258064516,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -196,31 +196,31 @@
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "source_article": "82",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "ario con cargo a dichos honorarios; c)\tEl monto de los pagos realizados al comercializador del Estado de cada contrato de extracción de hidrocarburos a que se refiere la Ley de Ingresos sobre Hidrocarburos, y d)\tEl total de los ingresos derivados de asignaciones y contratos para la exploración y extracción de hidrocarburos, y V.\tLa Secretaría de Energía",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 10884,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "source_article": "82",
       "target_law_raw": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
       "target_article": null,
       "citation_text": "edio Ambiente del Sector Hidrocarburos: a)\tLos Sistemas de Administración de Seguridad Industrial, Seguridad Operativa y Protección al Medio Ambiente establecidos en la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos; b)\tEl código de conducta de su personal; c)\tLos planes, lineamientos y procedimientos para prevenir y atender situaciones de emergencia; d)\tLas auto",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 442,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5202312138728323,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la agencia nacional de seguridad industrial y de protección al medio ambiente del sector hidrocarburos"
     },
     {
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -264,23 +264,23 @@
       "confidence": "medium",
       "char_offset": 7742,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.6575342465753424,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "source_article": "82",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "ra la Estabilización y el Desarrollo: a)\tLas transferencias realizadas a la Tesorería de la Federación y a los fondos señalados en el Capítulo III de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; b)\tEl monto de los honorarios fiduciarios pagados por el Fondo, así como los conceptos y pagos realizados por el fiduciario con cargo a dichos honor",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 10536,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -439,5 +439,5 @@
       "char_offset": 15991
     }
   ],
-  "resolved_at": "2026-03-30T12:18:59.404707+00:00"
+  "resolved_at": "2026-03-30T20:33:25.055828+00:00"
 }

@@ -286,16 +286,16 @@
       "source_law": "codigo-federal-de-procedimientos-civiles",
       "source_article": "3º",
       "target_law_raw": "Ley de Asociaciones Público Privadas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-publico-privadas",
       "target_article": null,
       "citation_text": "nce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   DECRETO por el que se expide la Ley de Asociaciones Público Privadas, y se reforman, adicionan y derogan diversas disposiciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisicion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19709,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones público privadas"
     },
     {
       "source_law": "codigo-federal-de-procedimientos-civiles",
@@ -331,16 +331,16 @@
       "source_law": "codigo-federal-de-procedimientos-civiles",
       "source_article": "3º",
       "target_law_raw": "Ley de Expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "siciones de la Ley de Obras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Expropiación; la Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles.  Publicado en el Diario Oficial de la Federación el 16 de enero d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19949,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "codigo-federal-de-procedimientos-civiles",
@@ -475,5 +475,5 @@
       "resolution_matched_alias": "ley general de transparencia y acceso a la información pública"
     }
   ],
-  "resolved_at": "2026-03-30T12:18:37.893642+00:00"
+  "resolved_at": "2026-03-30T20:32:44.496655+00:00"
 }

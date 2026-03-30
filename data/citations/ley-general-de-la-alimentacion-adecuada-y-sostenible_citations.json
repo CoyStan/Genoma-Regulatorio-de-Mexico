@@ -118,16 +118,16 @@
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
       "source_article": "42",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "diciones apropiadas para la producción de alimentos y participar de un desarrollo rural integral y sustentable en las comunidades, de conformidad con lo dispuesto en la Ley de Desarrollo Rural Sustentable.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 221,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
@@ -141,7 +141,7 @@
       "confidence": "high",
       "char_offset": 169,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -156,7 +156,7 @@
       "confidence": "high",
       "char_offset": 1162,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -213,7 +213,7 @@
       "confidence": "medium",
       "char_offset": 526,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4126984126984127,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -229,5 +229,5 @@
       "char_offset": 3144
     }
   ],
-  "resolved_at": "2026-03-30T12:18:58.096169+00:00"
+  "resolved_at": "2026-03-30T20:33:22.805443+00:00"
 }

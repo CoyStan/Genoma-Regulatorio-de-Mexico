@@ -156,7 +156,7 @@
       "confidence": "medium",
       "char_offset": 1144,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -186,7 +186,7 @@
       "confidence": "high",
       "char_offset": 1761,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -315,7 +315,7 @@
       "confidence": "high",
       "char_offset": 283,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40789473684210525,
+      "resolution_score": 0.46808510638297873,
       "resolution_matched_alias": null
     },
     {
@@ -330,7 +330,7 @@
       "confidence": "high",
       "char_offset": 940,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -384,7 +384,7 @@
       "confidence": "high",
       "char_offset": 1678,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -399,7 +399,7 @@
       "confidence": "high",
       "char_offset": 1929,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5822784810126582,
+      "resolution_score": 0.6933333333333334,
       "resolution_matched_alias": null
     },
     {
@@ -429,7 +429,7 @@
       "confidence": "high",
       "char_offset": 500,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -468,7 +468,7 @@
       "confidence": "high",
       "char_offset": 392,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5818181818181818,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -522,7 +522,7 @@
       "confidence": "high",
       "char_offset": 1903,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
@@ -549,7 +549,7 @@
       "confidence": "high",
       "char_offset": 28882,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -564,38 +564,38 @@
       "confidence": "medium",
       "char_offset": 1157,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3668639053254438,
+      "resolution_score": 0.44329896907216493,
       "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
       "source_article": "451",
       "target_law_raw": "Ley para Conservar la Neutralidad del País",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-conservar-la-neutralidad-del-pais",
       "target_article": null,
       "citation_text": "reforman y derogan diversas disposiciones del Código de Justicia Militar, del Código Militar de Procedimientos Penales, del Código Penal Federal y de la Ley para Conservar la Neutralidad del País.  Publicado en el Diario Oficial de la Federación el 21 de junio de 2018  Artículo Segundo.- Se reforma la fracción IV del artículo 164 del Código Mi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4103,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5070422535211268,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para conservar la neutralidad del país"
     },
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
       "source_article": "451",
       "target_law_raw": "Ley de la Guardia Nacional y se reforman",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-guardia-nacional",
       "target_article": null,
       "citation_text": "o de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexican",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23839,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7878787878787878,
+      "resolution_matched_alias": "ley de la guardia nacional"
     },
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
@@ -639,7 +639,7 @@
       "confidence": "medium",
       "char_offset": 28776,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
+      "resolution_score": 0.5806451612903226,
       "resolution_matched_alias": null
     },
     {
@@ -685,5 +685,5 @@
       "char_offset": 593
     }
   ],
-  "resolved_at": "2026-03-30T12:18:39.008529+00:00"
+  "resolved_at": "2026-03-30T20:32:46.135986+00:00"
 }

@@ -39,7 +39,7 @@
       "confidence": "high",
       "char_offset": 5943,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -69,7 +69,7 @@
       "confidence": "high",
       "char_offset": 800,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -129,7 +129,7 @@
       "confidence": "high",
       "char_offset": 1339,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5405405405405406,
       "resolution_matched_alias": null
     },
     {
@@ -148,46 +148,46 @@
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "16",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "ncepto relacionado con esta actividad y cuya administración se efectúe por los gobiernos locales, ingresarán a sus haciendas públicas, con base en lo señalado en la Ley de Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.  Los convenios y acuerdos de coordinación deberán publicarse en",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 358,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "24",
       "target_law_raw": "Ley de Energía para el Campo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-energia-para-el-campo",
       "target_article": null,
       "citation_text": "la pesca y la acuacultura. Para estos efectos, la Secretaría se coordinará con las dependencias y entidades competentes, además de observar y aplicar lo dispuesto en la Ley de Energía para el Campo;  j. Impulsar acciones para la formación de capital humano que se vincule con organizaciones de productores que participan en las cadenas productivas",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2883,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5957446808510638,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de energía para el campo"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "24",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "taría podrá vender los productos obtenidos de la reproducción de especies generadas en sus centros acuícolas, de conformidad con las disposiciones de la Ley de Ingresos de la Federación; y  V. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3591,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -276,7 +276,7 @@
       "confidence": "high",
       "char_offset": 1142,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -291,7 +291,7 @@
       "confidence": "high",
       "char_offset": 592,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -306,7 +306,7 @@
       "confidence": "high",
       "char_offset": 421,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -321,23 +321,23 @@
       "confidence": "high",
       "char_offset": 607,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "95",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "adjuntar a la solicitud el certificado de sanidad acuícola otorgado por el SENASICA. En el caso de organismos genéticamente modificados se sujetará a lo dispuesto en la Ley de Bioseguridad de Organismos Genéticamente Modificados.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 350,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -381,7 +381,7 @@
       "confidence": "high",
       "char_offset": 457,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4852941176470588,
+      "resolution_score": 0.5641025641025641,
       "resolution_matched_alias": null
     },
     {
@@ -456,7 +456,7 @@
       "confidence": "medium",
       "char_offset": 1080,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4636363636363636,
+      "resolution_score": 0.4892703862660944,
       "resolution_matched_alias": null
     },
     {
@@ -630,7 +630,7 @@
       "confidence": "medium",
       "char_offset": 1640,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48,
+      "resolution_score": 0.7076923076923077,
       "resolution_matched_alias": null
     },
     {
@@ -652,16 +652,16 @@
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "152",
       "target_law_raw": "Reglamento de la Ley General de Pesca y Acuacultura Sustentables",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-de-pesca-y-acuacultura-sustentables",
       "target_article": null,
       "citation_text": "en el Diario Oficial de la Federación.  SEGUNDO.- Con la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá revisar y modificar el Reglamento de la Ley General de Pesca y Acuacultura Sustentables, en un término que no exceda los 60 días naturales.  México, D.F., a 13 de diciembre de 2013.- Dip. Ricardo Anaya Cortés, Presidente.- Sen. Raúl Cerv",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8301,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8468468468468469,
+      "resolution_matched_alias": "ley general de pesca y acuacultura sustentables"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -690,7 +690,7 @@
       "confidence": "medium",
       "char_offset": 18542,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -705,7 +705,7 @@
       "confidence": "medium",
       "char_offset": 18730,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -862,16 +862,16 @@
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "152",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "ey General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, la Ley General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, la Ley General de Pesca y Acuacultura Sustentables, la Ley General de Bienes Nacionales, la Ley General de Prote",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19381,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -952,31 +952,31 @@
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "152",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "eral de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de Mé",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19699,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "152",
       "target_law_raw": "Ley de Fomento para la Lectura y el Libro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fomento-para-la-lectura-y-el-libro",
       "target_article": null,
       "citation_text": " Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19779,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fomento para la lectura y el libro"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -1006,5 +1006,5 @@
       "char_offset": 3015
     }
   ],
-  "resolved_at": "2026-03-30T12:18:58.654539+00:00"
+  "resolved_at": "2026-03-30T20:33:23.320354+00:00"
 }

@@ -49,16 +49,16 @@
       "source_law": "ley-de-planeacion",
       "source_article": "14",
       "target_law_raw": "Ley General para la Inclusión de las Personas con Discapacidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
       "target_article": null,
       "citation_text": "e deriven de los ejercicios de participación social incluyendo a los pueblos y comunidades indígenas y a las personas con discapacidad en términos de la Ley General para la Inclusión de las Personas con Discapacidad; Fracción reformada DOF 13-06-2003, 20-06-2011, 16-02-2018  III.- Establecer los criterios generales que deberán observar las dependencias y entidade",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 702,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5375,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la inclusión de las personas con discapacidad"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -106,16 +106,16 @@
       "source_law": "ley-de-planeacion",
       "source_article": "21",
       "target_law_raw": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
       "target_article": null,
       "citation_text": "ómico.  Los programas derivados del Plan Nacional de Desarrollo deberán guardar congruencia, en lo que corresponda, con el horizonte de veinte años y la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional. Artículo adicionado DOF 06-05-2015",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1120,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4634146341463415,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para impulsar el incremento sostenido de la productividad y la competitividad de la economía nacional"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -174,7 +174,7 @@
       "confidence": "high",
       "char_offset": 12124,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4423076923076923,
+      "resolution_score": 0.48175182481751827,
       "resolution_matched_alias": null
     },
     {
@@ -189,7 +189,7 @@
       "confidence": "high",
       "char_offset": 12581,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.4642857142857143,
       "resolution_matched_alias": null
     },
     {
@@ -204,23 +204,23 @@
       "confidence": "high",
       "char_offset": 30078,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-planeacion",
       "source_article": "44",
       "target_law_raw": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
       "target_article": null,
       "citation_text": "tividad deberá, en su caso, hacer las adecuaciones correspondientes a sus lineamientos de operación, a efecto de dar cumplimiento a las disposiciones establecidas en la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional.  Quinto.- La Secretaría enviará al Congreso de la Unión el primero de los informes semestrales a los que hace referencia el artículo 19, párrafo seg",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 12953,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4634146341463415,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para impulsar el incremento sostenido de la productividad y la competitividad de la economía nacional"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -234,23 +234,23 @@
       "confidence": "medium",
       "char_offset": 2602,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5757575757575758,
+      "resolution_score": 0.5964912280701754,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-planeacion",
       "source_article": "44",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": " mayo de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se expide la Ley del Servicio Profesional de Carrera en la Administración Pública Federal; se reforman la Ley Orgánica de la Administración Pública Federal y la Ley de Presupuesto, Contabilidad y Gasto Público Federal; y se adiciona la Ley",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4376,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -294,7 +294,7 @@
       "confidence": "medium",
       "char_offset": 24329,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5581395348837209,
+      "resolution_score": 0.6551724137931034,
       "resolution_matched_alias": null
     },
     {
@@ -339,7 +339,7 @@
       "confidence": "medium",
       "char_offset": 26720,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49696969696969695,
+      "resolution_score": 0.5555555555555556,
       "resolution_matched_alias": null
     },
     {
@@ -541,31 +541,31 @@
       "source_law": "ley-de-planeacion",
       "source_article": "44",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 37425,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-de-planeacion",
       "source_article": "44",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 37508,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -580,5 +580,5 @@
       "char_offset": 1329
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.065092+00:00"
+  "resolved_at": "2026-03-30T20:33:07.089940+00:00"
 }

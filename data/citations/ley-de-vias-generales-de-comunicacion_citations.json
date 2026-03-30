@@ -19,16 +19,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "31",
       "target_law_raw": "Ley de Expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "uirir los bienes que el concesionario conserve en propiedad, previo pago de su valor, fijado por peritos nombrados conforme al procedimiento judicial señalado en la Ley de Expropiación. Del juicio se deducirá, en su caso, el importe de la subvención que el Gobierno hubiere otorgado al concesionario.",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 737,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -156,7 +156,7 @@
       "confidence": "high",
       "char_offset": 64,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3793103448275862,
+      "resolution_score": 0.4411764705882353,
       "resolution_matched_alias": null
     },
     {
@@ -171,7 +171,7 @@
       "confidence": "medium",
       "char_offset": 29,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5432098765432098,
+      "resolution_score": 0.574468085106383,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "medium",
       "char_offset": 211,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4788732394366197,
+      "resolution_score": 0.6588235294117647,
       "resolution_matched_alias": null
     },
     {
@@ -240,7 +240,7 @@
       "confidence": "medium",
       "char_offset": 2941,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5168539325842697,
+      "resolution_score": 0.7326732673267327,
       "resolution_matched_alias": null
     },
     {
@@ -267,7 +267,7 @@
       "confidence": "medium",
       "char_offset": 3303,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.7326732673267327,
       "resolution_matched_alias": null
     },
     {
@@ -282,68 +282,68 @@
       "confidence": "medium",
       "char_offset": 4459,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.7326732673267327,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "2º",
       "target_law_raw": "Ley de Vías Generales de Comunicación serán",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "ías después de su publicación en el \"Diario Oficial\" de la Federación y deroga las disposiciones legales que se opongan a ella.  Las disposiciones de la Ley de Vías Generales de Comunicación serán aplicables, en lo conducente a la explotación de los caminos de jurisdicción federal en cuanto no existan disposiciones en contrario en el capítulo especial rel",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5123,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6567164179104478,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.925,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "2º",
       "target_law_raw": "Ley de Vías Generales de Comunicación para quedar como sigue",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "nicación de Comunicación.  Publicado en el Diario Oficial de la Federación el 31 de diciembre de 1948  ARTICULO UNICO.- Se reforma el Artículo 363 de la Ley de Vías Generales de Comunicación para quedar como sigue:  ..........  Eugenio Prado, D. P.-Gustavo Díaz Ordaz, S. P.-Manuel Flores Castro, D. S.- Gerzayn Ugarte, S. S.-Rúbrica.\"  En cumplimiento de lo dispu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9459,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5411764705882353,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7628865979381443,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "5º",
       "target_law_raw": "Ley de Vías Generales de Comunicación reformada por el mismo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "r de la fecha de vigencia de este Decreto, para que garanticen el cumplimiento de las responsabilidades a que se contraen los artículos 342 al 357 de la Ley de Vías Generales de Comunicación reformada por el mismo.  Al vencimiento de este plazo dejará de tener aplicación, en materia de comunicaciones aeronáuticas, el artículo 127 de la Ley citada.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 269,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5411764705882353,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7628865979381443,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "7º",
       "target_law_raw": "LEY DE VIAS GENERALES DE COMUNICACION",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "oa.-Rúbrica.- El Secretario de Trabajo y Previsión Social, Manuel Ramírez Vázquez.-Rúbrica.   FE DE ERRATAS AL DECRETO QUE REFORMA EL LIBRO CUARTO DE LA LEY DE VIAS GENERALES DE COMUNICACION, PUBLICADO EL DIA 23 DE ENERO PROXIMO PASADO.  Publicada en el Diario Oficial de la Federación el 11 de mayo de 1950  Nota: Fe de erratas a los artíc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1410,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9459459459459459,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -429,7 +429,7 @@
       "confidence": "medium",
       "char_offset": 9921,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
+      "resolution_score": 0.7037037037037037,
       "resolution_matched_alias": null
     },
     {
@@ -451,16 +451,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "2o",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "ley General de Normas y de Pesas y Medidas; 184, 513, 514, 515, 516, 517, 520 y 521 de la Ley de Vías Generales de Comunicación; 18 primer párrafo de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos; 34 fracción VI de la Ley Federal de Derechos de Autor; 17 y 344 del Código Sanitario de los Estados Unidos Mexicanos; 32 fr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 10244,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5070422535211268,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -496,16 +496,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "2o",
       "target_law_raw": "Ley de Vías Generales de Comunicación para quedar como sigue",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "unicación.  Publicado en el Diario Oficial de la Federación el 13 de enero de 1986  ARTICULO UNICO.- Se reforman los artículos 3o. fracción V y 15 de la Ley de Vías Generales de Comunicación para quedar como sigue:  ..........  TRANSITORIOS  PRIMERO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 14638,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5411764705882353,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7628865979381443,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -568,31 +568,31 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "3",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "rvicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 38032,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "3",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "ciones otorgadas con anterioridad a la fecha de expedición de la presente ley, continuarán en vigor hasta el término de su vigencia, sin perjuicio de lo dispuesto en la Ley de Puertos.  SEXTO.- Las solicitudes de concesiones, permisos o autorizaciones, que se encuentren en proceso de trámite al entrar en vigor la presente ley, qued",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 14190,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -628,16 +628,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "3",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y  III. Todas las disposiciones que se opongan a lo previsto en esta ley.  Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comuni",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6165,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -651,7 +651,7 @@
       "confidence": "medium",
       "char_offset": 6322,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48148148148148145,
+      "resolution_score": 0.7047619047619048,
       "resolution_matched_alias": null
     },
     {
@@ -666,7 +666,7 @@
       "confidence": "medium",
       "char_offset": 12872,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5111111111111111,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -688,16 +688,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "3",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "ción V; 9, fracción I, y del 129 al 145 de la Ley de Vías Generales de Comunicación;  II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y  III. Todas las disposiciones que se opongan a la presente Ley.  Cuarto. Ferrocarriles Nacionales de México, organismo público descentralizado, co",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15784,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -741,7 +741,7 @@
       "confidence": "medium",
       "char_offset": 32344,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.484472049689441,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -786,23 +786,23 @@
       "confidence": "medium",
       "char_offset": 33286,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5135135135135135,
+      "resolution_score": 0.578125,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "3",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "o Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de rec",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 33565,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -816,7 +816,7 @@
       "confidence": "medium",
       "char_offset": 34755,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.5352112676056338,
       "resolution_matched_alias": null
     },
     {
@@ -1026,7 +1026,7 @@
       "confidence": "medium",
       "char_offset": 95313,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4409448818897638,
+      "resolution_score": 0.6617647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -1087,5 +1087,5 @@
       "char_offset": 571
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.792132+00:00"
+  "resolved_at": "2026-03-30T20:33:08.605486+00:00"
 }

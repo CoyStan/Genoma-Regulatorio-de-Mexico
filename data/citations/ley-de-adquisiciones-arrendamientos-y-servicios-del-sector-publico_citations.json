@@ -7,16 +7,16 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "1",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "onvenios que celebren con el Ejecutivo Federal. No quedan comprendidos para la aplicación de la presente Ley los fondos previstos en el Capítulo V de la Ley de Coordinación Fiscal. Las personas de derecho público de carácter federal con autonomía derivada de la Constitución Política de los Estados Unidos Mexicanos, así como las",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 988,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -69,7 +69,7 @@
       "confidence": "high",
       "char_offset": 873,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -84,7 +84,7 @@
       "confidence": "high",
       "char_offset": 1088,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -133,16 +133,16 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "28",
       "target_law_raw": "Ley de Infraestructura de la Calidad o",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "o; los avances tecnológicos incorporados en los bienes y, en su caso, los planos, proyectos y especificaciones; VII.\tLas normas aplicables conforme a la Ley de Infraestructura de la Calidad o, a falta de estas, las normas internacionales; VIII.\tLos requerimientos de mantenimiento de los bienes muebles a su cargo, y IX.\tLas demás previsione",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1087,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.972972972972973,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -217,16 +217,16 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "40",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "nico que disponga la Secretaría; XII.\tSi para verificar el cumplimiento de las especificaciones solicitadas se requiere la evaluación de conformidad, de acuerdo con la Ley de Infraestructura de la Calidad; XIII.\tLa indicación respecto a si la contratación abarcará uno o más ejercicios fiscales, si será contrato abierto y, en su caso, la justificación p",
       "pattern_name": "de_acuerdo",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 3828,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -240,7 +240,7 @@
       "confidence": "high",
       "char_offset": 2370,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -270,7 +270,7 @@
       "confidence": "high",
       "char_offset": 2745,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37410071942446044,
+      "resolution_score": 0.44755244755244755,
       "resolution_matched_alias": null
     },
     {
@@ -285,23 +285,23 @@
       "confidence": "medium",
       "char_offset": 590,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4580152671755725,
+      "resolution_score": 0.6410256410256411,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "88",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": " de los bienes muebles a través de la propia dependencia o entidad de que se trate, o mediante las personas acreditadas en los términos que establece la Ley de Infraestructura de la Calidad. El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 203,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -322,16 +322,16 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "90",
       "target_law_raw": "Ley de Asociaciones Público Privadas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-publico-privadas",
       "target_article": null,
       "citation_text": "os de contratación y para celebrar contratos regulados por esta Ley, en la Ley de Obras Públicas y Servicios Relacionados con las Mismas, así como en la Ley de Asociaciones Público Privadas, o para suscribir acuerdos marco, a las personas que se encuentren en alguno de los supuestos siguientes: I.\tLos licitantes, cotizantes o postulantes",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 358,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones público privadas"
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -481,5 +481,5 @@
       "char_offset": 8133
     }
   ],
-  "resolved_at": "2026-03-30T12:18:41.786089+00:00"
+  "resolved_at": "2026-03-30T20:32:52.973665+00:00"
 }

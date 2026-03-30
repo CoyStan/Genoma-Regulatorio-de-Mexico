@@ -7,16 +7,16 @@
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
       "source_article": "1o",
       "target_law_raw": "Reglamento de la Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": " se entiende por:  I.-\tLey, la Ley Federal de Armas de Fuego y Explosivos;  II.-\tSecretaría, la Secretaría de la Defensa Nacional;  III.-\tReglamento, el Reglamento de la Ley Federal de Armas de Fuego y Explosivos;  IV.-\tArma o armas, al arma o armas de fuego;  V.-\tArma o armas de fuego, todo instrumento que cuente con cañón y que lance a través de éste un proy",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 187,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4835164835164835,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8316831683168316,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 2279,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 2123,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.448,
+      "resolution_score": 0.5048543689320388,
       "resolution_matched_alias": null
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "high",
       "char_offset": 268,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -117,7 +117,7 @@
       "confidence": "high",
       "char_offset": 519,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -132,7 +132,7 @@
       "confidence": "high",
       "char_offset": 1332,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -147,7 +147,7 @@
       "confidence": "high",
       "char_offset": 257,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -162,7 +162,7 @@
       "confidence": "high",
       "char_offset": 228,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4603174603174603,
+      "resolution_score": 0.47058823529411764,
       "resolution_matched_alias": null
     },
     {
@@ -177,7 +177,7 @@
       "confidence": "high",
       "char_offset": 7639,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5035971223021583,
+      "resolution_score": 0.5901639344262295,
       "resolution_matched_alias": null
     },
     {
@@ -222,7 +222,7 @@
       "confidence": "medium",
       "char_offset": 5536,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4161073825503356,
+      "resolution_score": 0.4540540540540541,
       "resolution_matched_alias": null
     },
     {
@@ -297,7 +297,7 @@
       "confidence": "medium",
       "char_offset": 21461,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4409448818897638,
+      "resolution_score": 0.6617647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -313,5 +313,5 @@
       "char_offset": 2603
     }
   ],
-  "resolved_at": "2026-03-30T12:18:53.254807+00:00"
+  "resolved_at": "2026-03-30T20:33:13.821445+00:00"
 }

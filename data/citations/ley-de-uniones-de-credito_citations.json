@@ -342,23 +342,23 @@
       "confidence": "high",
       "char_offset": 1507,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46875,
+      "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-uniones-de-credito",
       "source_article": "133",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "evisto en el reglamento expedido por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en el artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.  Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría y a la Comisión.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1662,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-de-uniones-de-credito",
@@ -372,7 +372,7 @@
       "confidence": "high",
       "char_offset": 167,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44871794871794873,
+      "resolution_score": 0.49122807017543857,
       "resolution_matched_alias": null
     },
     {
@@ -433,5 +433,5 @@
       "char_offset": 6627
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.567465+00:00"
+  "resolved_at": "2026-03-30T20:33:07.988168+00:00"
 }

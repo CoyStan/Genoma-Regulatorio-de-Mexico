@@ -19,16 +19,16 @@
       "source_law": "ley-de-geotermia",
       "source_article": "2",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "culo 2.- Para efectos de la interpretación y aplicación de la presente Ley, se deben entender los conceptos y las definiciones, en singular o plural, previstos en la Ley de Planeación y Transición Energética, la Ley del Sector Eléctrico y en las siguientes definiciones:  I.\tAgua Geotérmica: Agua en el subsuelo en estado líquido o gaseoso que se encuentra ",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 154,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-de-geotermia",
@@ -42,7 +42,7 @@
       "confidence": "medium",
       "char_offset": 213,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4883720930232558,
+      "resolution_score": 0.5925925925925926,
       "resolution_matched_alias": null
     },
     {
@@ -57,7 +57,7 @@
       "confidence": "medium",
       "char_offset": 711,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.7368421052631579,
       "resolution_matched_alias": null
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "high",
       "char_offset": 723,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -124,16 +124,16 @@
       "source_law": "ley-de-geotermia",
       "source_article": "23",
       "target_law_raw": "Ley del Sector Eléctrico y que resulten",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-sector-electrico",
       "target_article": null,
       "citation_text": " de trabajo y financiero a realizar durante la etapa de Explotación del Área Geotérmica, incluyendo las gestiones correspondientes a las obligaciones establecidas en la Ley del Sector Eléctrico y que resulten aplicables, pago de derechos y aquellos establecidos en las disposiciones en materia ambiental, indicando a detalle cada una de las actividades por efectuar y l",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1068,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7619047619047619,
+      "resolution_matched_alias": "ley del sector eléctrico"
     },
     {
       "source_law": "ley-de-geotermia",
@@ -147,7 +147,7 @@
       "confidence": "high",
       "char_offset": 648,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -162,7 +162,7 @@
       "confidence": "high",
       "char_offset": 164,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -222,7 +222,7 @@
       "confidence": "high",
       "char_offset": 884,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -237,7 +237,7 @@
       "confidence": "high",
       "char_offset": 399,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49230769230769234,
+      "resolution_score": 0.5853658536585366,
       "resolution_matched_alias": null
     },
     {
@@ -282,7 +282,7 @@
       "confidence": "medium",
       "char_offset": 997,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
+      "resolution_score": 0.49411764705882355,
       "resolution_matched_alias": null
     },
     {
@@ -298,5 +298,5 @@
       "char_offset": 4256
     }
   ],
-  "resolved_at": "2026-03-30T12:18:45.563257+00:00"
+  "resolved_at": "2026-03-30T20:33:01.383506+00:00"
 }

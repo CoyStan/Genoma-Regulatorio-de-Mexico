@@ -147,7 +147,7 @@
       "confidence": "high",
       "char_offset": 2972,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6197183098591549,
+      "resolution_score": 0.7027027027027027,
       "resolution_matched_alias": null
     },
     {
@@ -451,16 +451,16 @@
       "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
       "source_article": "35",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada y en otras leyes",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "as unidades y las fiscalías respectivas de la Fiscalía General de la República, así como con las fiscalías y procuradurías estatales, en los términos establecidos en la Ley Federal contra la Delincuencia Organizada y en otras leyes.  TÍTULO SÉPTIMO OPERACIÓN DE LA PLATAFORMA CENTRAL DE INTELIGENCIA  Capítulo I De la Plataforma Central de Inteligencia",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1622,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46938775510204084,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8411214953271028,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
@@ -574,5 +574,5 @@
       "char_offset": 2725
     }
   ],
-  "resolved_at": "2026-03-30T12:18:53.014262+00:00"
+  "resolved_at": "2026-03-30T20:33:13.470442+00:00"
 }

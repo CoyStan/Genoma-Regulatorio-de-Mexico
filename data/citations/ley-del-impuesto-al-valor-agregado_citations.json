@@ -262,16 +262,16 @@
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "15",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "las sociedades financieras populares, las sociedades financieras comunitarias y los organismos de integración financiera rural, a que hace referencia la Ley de Ahorro y Crédito Popular, a sus socios o clientes, según se trate, y que cumplan con los requisitos para operar como tales de conformidad con los citados ordenamientos; los q",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5196,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
@@ -307,16 +307,16 @@
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "18-H",
       "target_law_raw": "Reglamento Interior del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-de-administracion-tributaria",
       "target_article": null,
       "citation_text": " en México, mediante resolución debidamente fundada y motivada, emitida por funcionario público con cargo de administrador general de conformidad con lo previsto en el Reglamento Interior del Servicio de Administración Tributaria. Con independencia de lo anterior, dicho órgano desconcentrado podrá solicitar el auxilio de cualquier autoridad competente para llevar a cabo el blo",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 356,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8113207547169812,
+      "resolution_matched_alias": "ley del servicio de administración tributaria"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
@@ -405,23 +405,23 @@
       "confidence": "medium",
       "char_offset": 5228,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43478260869565216,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "41",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": " y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal para recibir participaciones en los términos de la Ley de Coordinación Fiscal, conviniendo en no mantener impuestos locales o municipales sobre:  l.- Los actos o actividades por los que deba pagarse el impuesto al valor agregad",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 189,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
@@ -1186,5 +1186,5 @@
       "char_offset": 9450
     }
   ],
-  "resolved_at": "2026-03-30T12:18:50.323635+00:00"
+  "resolved_at": "2026-03-30T20:33:08.935354+00:00"
 }

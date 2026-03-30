@@ -22,16 +22,16 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "6",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "ado, sin comprometer los principios de conservación ambiental y biodiversidad; VIII.\tColaborar con la Secretaría de Economía, cuando así corresponda, en los términos de la Ley de Infraestructura de la Calidad, en las actividades de normalización, estandarización, acreditación, evaluación de la conformidad y metrología, a efecto de promover la calidad y amp",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 3321,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -60,7 +60,7 @@
       "confidence": "medium",
       "char_offset": 1530,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43157894736842106,
+      "resolution_score": 0.48314606741573035,
       "resolution_matched_alias": null
     },
     {
@@ -82,16 +82,16 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "14",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "petitividad y consumo en los mercados nacional e internacional; IV.\tSupervisión para el cumplimiento de los procesos de certificación y verificación, en los términos de la Ley de Infraestructura de la Calidad, y V.\tBrindar asesoría en materia de servicios ambientales, de conformidad con la normatividad aplicable. CAPÍTULO III De la Persona Titular de la Co",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 728,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -105,23 +105,23 @@
       "confidence": "medium",
       "char_offset": 1857,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "40",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "el café comercializado y distribuido en el territorio nacional, que será de utilidad para la integración de Normas Oficiales Mexicanas en el marco de la Ley de Infraestructura de la Calidad.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 254,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -135,7 +135,7 @@
       "confidence": "medium",
       "char_offset": 473,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5571428571428572,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -150,38 +150,38 @@
       "confidence": "medium",
       "char_offset": 13,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45714285714285713,
+      "resolution_score": 0.48863636363636365,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "58",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": " establecidos con base en las Normas Oficiales Mexicanas expedidas por las autoridades normalizadoras, en coordinación con la Secretaría de Economía, de conformidad con la Ley de Infraestructura de la Calidad. Dichos criterios deberán calificar: I.\tLa calidad en la producción de aquellas variedades de café mexicano que cumplan con condiciones específicas p",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 202,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "74",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": ". Dichos certificados serán de carácter informativo, no constituirán requisitos no arancelarios y deberán sujetarse a las disposiciones previstas por la Ley de Comercio Exterior, la Ley de Infraestructura de la Calidad y los tratados internacionales de los que el Estado mexicano sea parte.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 393,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -241,5 +241,5 @@
       "char_offset": 1640
     }
   ],
-  "resolved_at": "2026-03-30T12:18:44.331488+00:00"
+  "resolved_at": "2026-03-30T20:32:59.049220+00:00"
 }

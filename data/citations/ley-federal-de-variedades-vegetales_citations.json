@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 239,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -90,7 +90,7 @@
       "confidence": "medium",
       "char_offset": 2945,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7222222222222222,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -157,46 +157,46 @@
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
       "target_article": null,
       "citation_text": " de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7492,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5202312138728323,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la agencia nacional de seguridad industrial y de protección al medio ambiente del sector hidrocarburos"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de la Comisión Federal de Electricidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "target_article": null,
       "citation_text": "eminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Públic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7609,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.647887323943662,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de la empresa pública del estado, comisión federal de electricidad"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "cia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Inst",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7659,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
@@ -232,16 +232,16 @@
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "icias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitució",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7899,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
@@ -262,31 +262,31 @@
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de la Economía Social y Solidaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-economia-social-y-solidaria",
       "target_article": null,
       "citation_text": "es de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8018,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la economía social y solidaria"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de la Casa de Moneda de México",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-casa-de-moneda-de-mexico",
       "target_article": null,
       "citation_text": "a del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de A",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8222,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7017543859649122,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la casa de moneda de méxico"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
@@ -307,16 +307,16 @@
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "s Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8300,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
@@ -337,16 +337,16 @@
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de Asistencia Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asistencia-social",
       "target_article": null,
       "citation_text": "a de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la L",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8398,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asistencia social"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
@@ -472,16 +472,16 @@
       "source_law": "ley-federal-de-variedades-vegetales",
       "source_article": "48",
       "target_law_raw": "Ley de los Institutos Nacionales de Salud",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-institutos-nacionales-de-salud",
       "target_article": null,
       "citation_text": " Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8982,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6944444444444444,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los institutos nacionales de salud"
     },
     {
       "source_law": "ley-federal-de-variedades-vegetales",
@@ -495,7 +495,7 @@
       "confidence": "medium",
       "char_offset": 9031,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -511,5 +511,5 @@
       "char_offset": 5148
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.858625+00:00"
+  "resolved_at": "2026-03-30T20:33:18.567197+00:00"
 }

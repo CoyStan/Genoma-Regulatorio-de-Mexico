@@ -15,23 +15,23 @@
       "confidence": "high",
       "char_offset": 6019,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aviacion-civil",
       "source_article": "2",
       "target_law_raw": "Ley sobre la Celebración de Tratados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "o como FRMS por las siglas en inglés de Fatigue Risk Management System;  XLI. Tratados: Los definidos como tales en la fracción I del artículo 2 de la Ley sobre la Celebración de Tratados, y  XLII. Vigilancia: Actividades mediante las cuales el Estado constata, de manera preventiva, con verificaciones, inspecciones y auditorías que las",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 10472,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6129032258064516,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -64,16 +64,16 @@
       "source_law": "ley-de-aviacion-civil",
       "source_article": "4",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "e rige por lo previsto en esta Ley, por los tratados y, a falta de disposición expresa, se aplicará: Párrafo reformado DOF 18-06-2018, 20-05-2021  I.\tLa Ley de Vías Generales de Comunicación;  II.\tLa Ley General de Bienes Nacionales;  III.\tLa Ley Federal de Procedimiento Administrativo, y  IV.\tLos códigos de Comercio; Civil Federal, y Nac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 301,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -117,7 +117,7 @@
       "confidence": "high",
       "char_offset": 2215,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.625,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -132,7 +132,7 @@
       "confidence": "high",
       "char_offset": 447,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -147,7 +147,7 @@
       "confidence": "high",
       "char_offset": 2467,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3825136612021858,
+      "resolution_score": 0.39603960396039606,
       "resolution_matched_alias": null
     },
     {
@@ -177,7 +177,7 @@
       "confidence": "high",
       "char_offset": 96,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -309,23 +309,23 @@
       "confidence": "high",
       "char_offset": 553,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.5483870967741935,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aviacion-civil",
       "source_article": "78",
       "target_law_raw": "Ley de Aeropuertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aeropuertos",
       "target_article": null,
       "citation_text": "Artículo 78 Nonies. La Secretaría coordinará al Comité Nacional de Seguridad de la Aviación Civil, a que se refiere la Ley de Aeropuertos, para que a través de la Agencia Federal de Aviación Civil ejecute sus funciones. Artículo adicionado DOF 03-05-2023",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 99,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6842105263157895,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aeropuertos"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -448,16 +448,16 @@
       "source_law": "ley-de-aviacion-civil",
       "source_article": "85",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "ederal de Aviación Civil aprobará la operación de unidades de inspección para las actividades de vigilancia y verificación, siempre que se cumpla con lo dispuesto en la Ley de Infraestructura de la Calidad, en los tratados en materia de aviación civil suscritos por el Estado mexicano, los reglamentos y demás disposiciones jurídicas aplicables. Artículo ",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 175,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -478,31 +478,31 @@
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": " 371, fracción I, incisos a) y d), fracciones II y III y el penúltimo y último párrafo; 372 y 373; 542; 546; 555 al 558; 562 al 564, y 568 al 570, de la Ley de Vías Generales de Comunicación, así como las demás disposiciones que se opongan a la presente Ley.  Las disposiciones reglamentarias y administrativas en vigor se continuarán aplic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 554,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": " Federación el 23 de enero de 1998  ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6228,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -538,16 +538,16 @@
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley del Servicio Militar",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-militar",
       "target_article": null,
       "citation_text": " 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fisca",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6775,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6222222222222222,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio militar"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -673,16 +673,16 @@
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley de la Comisión Nacional de Derechos Humanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": " I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8273,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9591836734693877,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -718,16 +718,16 @@
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "y Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8498,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -741,38 +741,38 @@
       "confidence": "medium",
       "char_offset": 8549,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley de la Comisión Reguladora de Energía",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-energia",
       "target_article": null,
       "citation_text": " Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 3",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8667,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6031746031746031,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7948717948717948,
+      "resolution_matched_alias": "ley de la comisión nacional de energía"
     },
     {
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "nación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de C",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8747,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -838,16 +838,16 @@
       "source_law": "ley-de-aviacion-civil",
       "source_article": "92",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "eral de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado \"B\" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:  ..........  TRANSITORIO  ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.  México, D.F., a 12 de diciem",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9146,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-de-aviacion-civil",
@@ -861,7 +861,7 @@
       "confidence": "medium",
       "char_offset": 28455,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5384615384615384,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
@@ -907,5 +907,5 @@
       "char_offset": 1789
     }
   ],
-  "resolved_at": "2026-03-30T12:18:43.168080+00:00"
+  "resolved_at": "2026-03-30T20:32:56.474097+00:00"
 }

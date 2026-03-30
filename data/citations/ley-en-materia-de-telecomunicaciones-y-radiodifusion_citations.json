@@ -79,16 +79,16 @@
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "source_article": "6",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "amente: I.\tLa Ley Federal de Procedimiento Administrativo; II.\tLa Ley Federal de Competencia Económica; III.\tLa Ley General de Bienes Nacionales; IV.\tLa Ley de Vías Generales de Comunicación; V.\tLa Ley Federal de Protección al Consumidor; VI.\tEl Código de Comercio; VII.\tEl Código Civil Federal; VIII.\tEl Código Nacional de Procedimientos C",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 306,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
@@ -198,7 +198,7 @@
       "confidence": "medium",
       "char_offset": 1121,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6557377049180327,
       "resolution_matched_alias": null
     },
     {
@@ -301,16 +301,16 @@
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "source_article": "50",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": " de nacionalidad mexicana. La participación de la inversión extranjera en sociedades concesionarias se permitirá en los términos de la Constitución y la Ley de Inversión Extranjera. Al otorgar las concesiones la Comisión deberá establecer que en la prestación de los servicios se encuentra prohibido establecer privilegios o disti",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 253,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
@@ -328,16 +328,16 @@
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "source_article": "56",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": " nacionalidad mexicana. La participación de la inversión extranjera en sociedades concesionarias se permitirá en los términos de la Constitución y de la Ley de Inversión Extranjera. Cuando se solicite concesión para prestar servicios de radiodifusión que involucre participación de inversión extranjera, se requerirá la opinión pr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 259,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
@@ -387,7 +387,7 @@
       "confidence": "high",
       "char_offset": 1825,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5294117647058824,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -441,7 +441,7 @@
       "confidence": "medium",
       "char_offset": 2200,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.39779005524861877,
+      "resolution_score": 0.4397905759162304,
       "resolution_matched_alias": null
     },
     {
@@ -700,16 +700,16 @@
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "source_article": "222",
       "target_law_raw": "Ley de Asociaciones Religiosas y Culto Público",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
       "target_article": null,
       "citation_text": "mios cuando se trate de participantes ganadores en territorio nacional. Las transmisiones de carácter religioso se deben sujetar a lo establecido por la Ley de Asociaciones Religiosas y Culto Público y demás disposiciones en la materia.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 721,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones religiosas y culto público"
     },
     {
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
@@ -757,16 +757,16 @@
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "source_article": "271",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "icaciones o hacer uso del espectro radioeléctrico deberán homologarse conforme a las normas o disposiciones técnicas aplicables de conformidad con lo establecido en la Ley de Infraestructura de la Calidad. La Comisión podrá aplicar el reconocimiento mutuo de la evaluación de la conformidad de productos, equipos, dispositivos o aparatos destinados a tel",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 308,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
@@ -838,5 +838,5 @@
       "char_offset": 641
     }
   ],
-  "resolved_at": "2026-03-30T12:18:53.160068+00:00"
+  "resolved_at": "2026-03-30T20:33:13.664434+00:00"
 }

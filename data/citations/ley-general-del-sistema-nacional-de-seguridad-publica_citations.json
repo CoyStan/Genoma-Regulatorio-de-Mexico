@@ -70,16 +70,16 @@
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "source_article": "18",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "tribución de recursos de los Fondos de Ayuda Federal para la seguridad pública de las entidades federativas y municipios, observando, cuando aplique, lo dispuesto en la Ley de Coordinación Fiscal; VIII.\tResolver, previa garantía de audiencia, sobre la cancelación de la ministración de las aportaciones a las entidades federativas y a los munici",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1047,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
@@ -115,16 +115,16 @@
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "source_article": "32",
       "target_law_raw": "Ley Nacional de Ejecución Penal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-ejecucion-penal",
       "target_article": null,
       "citation_text": "profesionalización; III.\tImpulsar la certificación de los centros penitenciarios conforme a los estándares establecidos por el Secretariado Ejecutivo de conformidad con la Ley Nacional de Ejecución Penal; IV.\tPromover la homologación de los mecanismos, sistemas y procedimientos de seguridad en los centros penitenciarios de reinserción social, así como",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 456,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de ejecución penal"
     },
     {
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
@@ -138,7 +138,7 @@
       "confidence": "high",
       "char_offset": 3119,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47191011235955055,
+      "resolution_score": 0.5161290322580645,
       "resolution_matched_alias": null
     },
     {
@@ -153,23 +153,23 @@
       "confidence": "high",
       "char_offset": 3844,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "source_article": "47",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "a Federal orientados al cumplimiento de los estándares, lineamientos, evaluación y certificación de las instituciones, y, cuando aplique, alineados a la Ley de Coordinación Fiscal, y e)\tProyectos de cancelación de ministraciones de aportaciones de Fondos de Ayuda Federal; IV.\tInformar al Consejo Nacional sobre el seguimiento a ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 892,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
@@ -183,7 +183,7 @@
       "confidence": "medium",
       "char_offset": 5363,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4857142857142857,
+      "resolution_score": 0.6486486486486487,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "high",
       "char_offset": 1191,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49122807017543857,
+      "resolution_score": 0.6595744680851063,
       "resolution_matched_alias": null
     },
     {
@@ -324,7 +324,7 @@
       "confidence": "high",
       "char_offset": 367,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.5822784810126582,
       "resolution_matched_alias": null
     },
     {
@@ -363,7 +363,7 @@
       "confidence": "high",
       "char_offset": 224,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5185185185185185,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -382,16 +382,16 @@
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "source_article": "117",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": " para vigilar el debido ejercicio de los recursos de los Fondos de Ayuda Federal, así como el cumplimiento de las obligaciones derivadas de esta Ley, la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación, los acuerdos del Consejo Nacional, los lineamientos del propio Secretariado Ejecutivo y los convenios y ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 419,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
@@ -466,16 +466,16 @@
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "source_article": "129",
       "target_law_raw": "Ley Nacional sobre el Uso de la Fuerza",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "target_article": null,
       "citation_text": "acer uso de la fuerza de manera proporcional, racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza, así como a las demás disposiciones normativas y administrativas aplicables, realizándose conforme a derecho; XVI.\tPromover, respetar, proteger y gar",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2569,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional sobre el uso de la fuerza"
     },
     {
       "source_law": "ley-general-del-sistema-nacional-de-seguridad-publica",
@@ -489,7 +489,7 @@
       "confidence": "medium",
       "char_offset": 1331,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49206349206349204,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -505,5 +505,5 @@
       "char_offset": 497
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.082435+00:00"
+  "resolved_at": "2026-03-30T20:33:26.025357+00:00"
 }

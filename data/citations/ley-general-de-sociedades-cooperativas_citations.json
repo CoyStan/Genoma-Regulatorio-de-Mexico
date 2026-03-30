@@ -19,16 +19,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "7",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "nes que los socios de nacionalidad extranjera efectúen al capital de las sociedades cooperativas, no podrá rebasar el porcentaje máximo que establece la Ley de Inversión Extranjera.  Los extranjeros no podrán desempeñar puestos de dirección o administración en las sociedades cooperativas, además de que deberán cumplir con lo pre",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 196,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -97,16 +97,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "17",
       "target_law_raw": "Ley de la Economía Social y Solidaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-economia-social-y-solidaria",
       "target_article": null,
       "citation_text": "rmación que les sea requerida por el Instituto, a efecto de complementar y actualizar el padrón a que se refiere este artículo, en congruencia con lo establecido en la Ley de la Economía Social y Solidaria. Artículo adicionado DOF 16-04-2025",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 835,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la economía social y solidaria"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -241,16 +241,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "o Entidad, sujetándose a lo dispuesto por el artículo OCTAVO Transitorio y debiendo obtener el dictamen favorable de alguna Federación, con arreglo a lo dispuesto por la Ley de Ahorro y Crédito Popular.  Concluido el plazo anterior, las sociedades y las Uniones de Crédito que no hubieren obtenido la autorización referida deberán abstenerse de captar",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 5373,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -264,7 +264,7 @@
       "confidence": "medium",
       "char_offset": 1320,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.6984126984126984,
       "resolution_matched_alias": null
     },
     {
@@ -279,7 +279,7 @@
       "confidence": "medium",
       "char_offset": 1430,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.5494505494505495,
       "resolution_matched_alias": null
     },
     {
@@ -294,7 +294,7 @@
       "confidence": "medium",
       "char_offset": 5660,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4566929133858268,
+      "resolution_score": 0.6262626262626263,
       "resolution_matched_alias": null
     },
     {
@@ -309,7 +309,7 @@
       "confidence": "medium",
       "char_offset": 6198,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4675324675324675,
+      "resolution_score": 0.5535714285714286,
       "resolution_matched_alias": null
     },
     {
@@ -324,7 +324,7 @@
       "confidence": "medium",
       "char_offset": 15334,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5166666666666667,
+      "resolution_score": 0.7101449275362319,
       "resolution_matched_alias": null
     },
     {
@@ -354,7 +354,7 @@
       "confidence": "medium",
       "char_offset": 19372,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -369,7 +369,7 @@
       "confidence": "medium",
       "char_offset": 19560,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -526,16 +526,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "ey General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, la Ley General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, la Ley General de Pesca y Acuacultura Sustentables, la Ley General de Bienes Nacionales, la Ley General de Prote",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20211,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -616,31 +616,31 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "eral de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de Mé",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20529,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley de Fomento para la Lectura y el Libro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fomento-para-la-lectura-y-el-libro",
       "target_article": null,
       "citation_text": " Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20609,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fomento para la lectura y el libro"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -699,7 +699,7 @@
       "confidence": "medium",
       "char_offset": 22164,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5289256198347108,
+      "resolution_score": 0.6229508196721312,
       "resolution_matched_alias": null
     },
     {
@@ -715,5 +715,5 @@
       "char_offset": 2499
     }
   ],
-  "resolved_at": "2026-03-30T12:18:59.064896+00:00"
+  "resolved_at": "2026-03-30T20:33:24.241141+00:00"
 }

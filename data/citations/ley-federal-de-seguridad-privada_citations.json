@@ -7,16 +7,16 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "2",
       "target_law_raw": "Reglamento de la Ley Federal de Seguridad Privada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-de-seguridad-privada",
       "target_article": null,
       "citation_text": "s en la autorización o su revalidación.  XI. Prestatario.- La persona física o moral que recibe los servicios de seguridad privada.  XII. Reglamento. El Reglamento de la Ley Federal de Seguridad Privada. Fracción reformada DOF 27-01-2011  XIII. Entidades Federativas.- Los Estados y el Distrito Federal.  XIV. Sistemas de alarmas. Son sistemas que cons",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2102,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5135135135135135,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7901234567901234,
+      "resolution_matched_alias": "ley federal de seguridad privada"
     },
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -30,7 +30,7 @@
       "confidence": "medium",
       "char_offset": 1737,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
@@ -75,7 +75,7 @@
       "confidence": "medium",
       "char_offset": 877,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
@@ -177,7 +177,7 @@
       "confidence": "high",
       "char_offset": 665,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
@@ -207,7 +207,7 @@
       "confidence": "medium",
       "char_offset": 1298,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
@@ -253,5 +253,5 @@
       "char_offset": 2911
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.853068+00:00"
+  "resolved_at": "2026-03-30T20:33:18.546467+00:00"
 }

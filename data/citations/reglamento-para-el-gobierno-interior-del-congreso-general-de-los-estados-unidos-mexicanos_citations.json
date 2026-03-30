@@ -111,7 +111,7 @@
       "confidence": "medium",
       "char_offset": 18,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4067796610169492,
+      "resolution_score": 0.44692737430167595,
       "resolution_matched_alias": null
     },
     {
@@ -280,17 +280,17 @@
       "source_law": "reglamento-para-el-gobierno-interior-del-congreso-general-de-los-estados-unidos-mexicanos",
       "source_article": "2o",
       "target_law_raw": "Reglamento de la Cámara de Diputados",
-      "target_law_id": "unresolved",
+      "target_law_id": "reglamento-de-la-camara-de-diputados",
       "target_article": null,
       "citation_text": "- Rúbrica.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbrica.- Sen. Adrián Rivera Pérez, Secretario.- Rúbrica.   DECRETO por el que se expide el Reglamento de la Cámara de Diputados.  Publicado en el Diario Oficial de la Federación el 24 de diciembre de 2010  Artículo Unico.- Se expide el Reglamento de la Cámara de Diputados.  . ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7127,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5084745762711864,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "reglamento de la cámara de diputados"
     }
   ],
-  "resolved_at": "2026-03-30T12:19:03.865232+00:00"
+  "resolved_at": "2026-03-30T20:33:34.142925+00:00"
 }

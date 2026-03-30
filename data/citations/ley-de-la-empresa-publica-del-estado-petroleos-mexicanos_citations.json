@@ -39,7 +39,7 @@
       "confidence": "high",
       "char_offset": 2167,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.6197183098591549,
       "resolution_matched_alias": null
     },
     {
@@ -54,7 +54,7 @@
       "confidence": "high",
       "char_offset": 297,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40559440559440557,
+      "resolution_score": 0.45517241379310347,
       "resolution_matched_alias": null
     },
     {
@@ -96,7 +96,7 @@
       "confidence": "high",
       "char_offset": 200,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.6461538461538462,
       "resolution_matched_alias": null
     },
     {
@@ -111,7 +111,7 @@
       "confidence": "medium",
       "char_offset": 2761,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4857142857142857,
+      "resolution_score": 0.5476190476190477,
       "resolution_matched_alias": null
     },
     {
@@ -153,7 +153,7 @@
       "confidence": "high",
       "char_offset": 547,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
+      "resolution_score": 0.691358024691358,
       "resolution_matched_alias": null
     },
     {
@@ -202,16 +202,16 @@
       "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "source_article": "65",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "Artículo 65.- Con sujeción a lo dispuesto en la Ley del Sector Hidrocarburos, la Ley de Ingresos sobre Hidrocarburos, las disposiciones que emanen de ambos ordenamientos, y demás aplicables, Petróleos Mexicanos puede realizar las actividades de exploración y extracc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 78,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
@@ -447,7 +447,7 @@
       "confidence": "high",
       "char_offset": 394,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -492,7 +492,7 @@
       "confidence": "medium",
       "char_offset": 3952,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.6575342465753424,
       "resolution_matched_alias": null
     },
     {
@@ -522,7 +522,7 @@
       "confidence": "high",
       "char_offset": 293,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7142857142857143,
+      "resolution_score": 0.6829268292682927,
       "resolution_matched_alias": null
     },
     {
@@ -537,7 +537,7 @@
       "confidence": "high",
       "char_offset": 103,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -567,7 +567,7 @@
       "confidence": "medium",
       "char_offset": 7486,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48936170212765956,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
@@ -583,5 +583,5 @@
       "char_offset": 826
     }
   ],
-  "resolved_at": "2026-03-30T12:18:47.870363+00:00"
+  "resolved_at": "2026-03-30T20:33:05.107294+00:00"
 }

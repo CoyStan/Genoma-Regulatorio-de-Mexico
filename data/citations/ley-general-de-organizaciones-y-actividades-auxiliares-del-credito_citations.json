@@ -61,16 +61,16 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "11",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "pesqueras, buscarán coordinar la prestación del servicio de almacenamiento con las acciones y los programas relativos al desarrollo rural sustentable en los términos de la Ley de Desarrollo Rural Sustentable, a fin de propiciar la participación de las organizaciones o asociaciones de productores del medio rural y pesquero en las actividades del sector alm",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 797,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -121,16 +121,16 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "11",
       "target_law_raw": "Ley del Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "o bien, tratándose de mercancías previamente aseguradas, deberá obtener el endoso correspondiente de la póliza respectiva en su favor, en términos de la Ley del Contrato de Seguro. Párrafo reformado DOF 26-03-2024  El almacén general de depósito podrá, bajo su responsabilidad, aceptar o utilizar cualquiera otro mecanismo distin",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3520,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6530612244897959,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8771929824561403,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -144,7 +144,7 @@
       "confidence": "high",
       "char_offset": 1059,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -159,7 +159,7 @@
       "confidence": "medium",
       "char_offset": 349,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -616,16 +616,16 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "87-D",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "rimoniales con una sociedad financiera popular o con una sociedad financiera comunitaria en términos de esta Ley, se sujetarán a las disposiciones de la Ley de Ahorro y Crédito Popular en materia de:  a)\tIntegración y funcionamiento de los órganos directivos y la administración;  b)\tIntegración de expedientes de funcionarios;  c)\tConfidencialidad ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2972,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -661,16 +661,16 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "87-D",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "ades competentes en las materias señaladas en las fracciones anteriores con fundamento en lo dispuesto por los artículos 4, fracciones I a VI y 6, de la Ley de la Comisión Nacional Bancaria y de Valores; así como 24 y 26 de la Ley del Banco de México.  Adicionalmente, las sociedades financieras de objeto múltiple reguladas que mantengan vínculos patr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7444,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -871,16 +871,16 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "89",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "115 de la Ley de Instituciones de Crédito; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 124 de la Ley de Ahorro y Crédito Popular, y 129 de la Ley de Uniones de Crédito, y  c)\tMulta de 2,000 a 50,000 días de salario, cuando incurran en las demás conductas infractoras previstas e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9665,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -909,23 +909,23 @@
       "confidence": "high",
       "char_offset": 1583,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46875,
+      "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "101",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "evisto en el reglamento expedido por el Ejecutivo Federal, en materia de supervisión, al amparo de lo establecido en el artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores.  Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría, Comisión Nacional Bancaria y de Valores, Banco de México y",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1738,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -939,7 +939,7 @@
       "confidence": "high",
       "char_offset": 173,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.4745762711864407,
       "resolution_matched_alias": null
     },
     {
@@ -1014,23 +1014,23 @@
       "confidence": "medium",
       "char_offset": 15875,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5585585585585585,
+      "resolution_score": 0.6875,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "103",
       "target_law_raw": "Ley del Servicio de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "me, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.  NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio de Tesorería de la Federación, se aplicará a las solicitudes de dación de bienes o servicios en pago que se presenten a partir de la fecha de inicio de la vigencia de este Decreto",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 16003,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6595744680851063,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8354430379746836,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1048,16 +1048,16 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "3o",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "o Entidad, sujetándose a lo dispuesto por el artículo OCTAVO Transitorio y debiendo obtener el dictamen favorable de alguna Federación, con arreglo a lo dispuesto por la Ley de Ahorro y Crédito Popular.  Concluido el plazo anterior, las sociedades y las Uniones de Crédito que no hubieren obtenido la autorización referida deberán abstenerse de captar",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 16319,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1071,7 +1071,7 @@
       "confidence": "high",
       "char_offset": 76644,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.5294117647058824,
       "resolution_matched_alias": null
     },
     {
@@ -1138,31 +1138,31 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "3o",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "a fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la prese",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2009,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "3o",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "istas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.  TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2094,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1191,7 +1191,7 @@
       "confidence": "medium",
       "char_offset": 6207,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.549618320610687,
+      "resolution_score": 0.6518518518518519,
       "resolution_matched_alias": null
     },
     {
@@ -1206,7 +1206,7 @@
       "confidence": "medium",
       "char_offset": 16606,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4566929133858268,
+      "resolution_score": 0.6262626262626263,
       "resolution_matched_alias": null
     },
     {
@@ -1221,7 +1221,7 @@
       "confidence": "medium",
       "char_offset": 17144,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4675324675324675,
+      "resolution_score": 0.5535714285714286,
       "resolution_matched_alias": null
     },
     {
@@ -1356,7 +1356,7 @@
       "confidence": "medium",
       "char_offset": 59030,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44274809160305345,
+      "resolution_score": 0.6394557823129252,
       "resolution_matched_alias": null
     },
     {
@@ -1393,16 +1393,16 @@
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "3o",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 88664,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1477,5 +1477,5 @@
       "char_offset": 923
     }
   ],
-  "resolved_at": "2026-03-30T12:18:58.521278+00:00"
+  "resolved_at": "2026-03-30T20:33:23.018987+00:00"
 }

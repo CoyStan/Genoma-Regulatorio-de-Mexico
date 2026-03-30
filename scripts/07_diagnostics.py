@@ -206,19 +206,21 @@ def compute_cascade_scores(G: nx.DiGraph) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 def find_circular_dependencies(G: nx.DiGraph) -> list[dict]:
-    """Find laws that reference each other (directly or through chains)."""
+    """Find laws that mutually cite each other (length-2 cycles) in O(E)."""
     cycles = []
-    for cycle in nx.simple_cycles(G):
-        if 2 <= len(cycle) <= 5:
-            cycle_names = [G.nodes[node].get("name", node)[:50] for node in cycle]
+    edges = set(G.edges())
+    seen = set()
+    for u, v in edges:
+        if (v, u) in edges and (v, u) not in seen:
+            seen.add((u, v))
+            cycle_names = [G.nodes[n].get("name", n)[:50] for n in [u, v]]
             cycles.append({
-                "length": len(cycle),
-                "law_ids": cycle,
+                "length": 2,
+                "law_ids": [u, v],
                 "law_names": cycle_names,
-                "type": "direct" if len(cycle) == 2 else "chain",
+                "type": "direct",
             })
-
-    return sorted(cycles, key=lambda x: x["length"])[:50]
+    return sorted(cycles, key=lambda x: x["law_ids"])
 
 
 # ---------------------------------------------------------------------------

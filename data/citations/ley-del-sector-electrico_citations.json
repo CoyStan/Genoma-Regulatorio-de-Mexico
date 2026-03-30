@@ -34,31 +34,31 @@
       "source_law": "ley-del-sector-electrico",
       "source_article": "3",
       "target_law_raw": "Ley de Biocombustibles",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-biocombustibles",
       "target_article": null,
       "citation_text": "en todas sus formas; c)\tLa energía oceánica en sus distintas formas; d)\tEl calor de los yacimientos geotérmicos; e)\tLos biocombustibles que determine la Ley de Biocombustibles; f)\tLa energía generada por el aprovechamiento del poder calorífico del metano y otros gases asociados en los sitios de disposición de residuos, gran",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5353,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de biocombustibles"
     },
     {
       "source_law": "ley-del-sector-electrico",
       "source_article": "3",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "vicios de transmisión y distribución y Control Operativo del Sistema Eléctrico Nacional, así como los otros productos y derechos de cobro que definan la Ley de Planeación y Transición Energética, y las Reglas del Mercado; XXXIX.\tProyectos de Infraestructura: Conjunto de elementos que se consideran necesarios para la construcción, instalación ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13708,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-del-sector-electrico",
@@ -126,23 +126,23 @@
       "confidence": "high",
       "char_offset": 1390,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-sector-electrico",
       "source_article": "12",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "arácter vinculante y está a cargo de la Secretaría, autoridad que debe elaborar el Plan de Desarrollo del Sector Eléctrico, en términos de esta Ley y la Ley de Planeación y Transición Energética. La planeación vinculante, en el sector eléctrico, debe considerar los siguientes principios: I.\tProcurar la Confiabilidad, Continuidad y Accesibilid",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 206,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-del-sector-electrico",
@@ -168,7 +168,7 @@
       "confidence": "high",
       "char_offset": 874,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43312101910828027,
+      "resolution_score": 0.5027932960893855,
       "resolution_matched_alias": null
     },
     {
@@ -183,7 +183,7 @@
       "confidence": "high",
       "char_offset": 1125,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40764331210191085,
+      "resolution_score": 0.49162011173184356,
       "resolution_matched_alias": null
     },
     {
@@ -375,7 +375,7 @@
       "confidence": "medium",
       "char_offset": 326,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
+      "resolution_score": 0.6212121212121212,
       "resolution_matched_alias": null
     },
     {
@@ -412,16 +412,16 @@
       "source_law": "ley-del-sector-electrico",
       "source_article": "154",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "ficar el cumplimiento de las Normas Oficiales Mexicanas, las unidades de inspección a que se refiere el artículo 48 de esta Ley deben ser acreditadas en los términos de la Ley de Infraestructura de la Calidad. Por su parte, las unidades de inspección pueden certificar el cumplimiento de especificaciones técnicas, características específicas de la infraestr",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 175,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-del-sector-electrico",
@@ -450,7 +450,7 @@
       "confidence": "medium",
       "char_offset": 1905,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.6329113924050633,
       "resolution_matched_alias": null
     },
     {
@@ -465,7 +465,7 @@
       "confidence": "medium",
       "char_offset": 2092,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46875,
+      "resolution_score": 0.5230769230769231,
       "resolution_matched_alias": null
     },
     {
@@ -517,16 +517,16 @@
       "source_law": "ley-del-sector-electrico",
       "source_article": "188",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "Los numerales de los mencionados Términos, relativos a las empresas productivas subsidiarias de la CFE, quedarán derogados una vez que entre en vigor la Ley de la Empresa Pública del Estado, Comisión Federal de Electricidad. Únicamente continuarán vigentes los numerales 8.2 y subsecuentes, así como su Capítulo 9, en lo que se refiere a l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8409,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7741935483870968,
+      "resolution_matched_alias": "ley de la empresa pública del estado, petróleos mexicanos"
     },
     {
       "source_law": "ley-del-sector-electrico",
@@ -541,5 +541,5 @@
       "char_offset": 9668
     }
   ],
-  "resolved_at": "2026-03-30T12:18:52.104912+00:00"
+  "resolved_at": "2026-03-30T20:33:11.660210+00:00"
 }

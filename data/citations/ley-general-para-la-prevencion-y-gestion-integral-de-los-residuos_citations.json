@@ -171,23 +171,23 @@
       "confidence": "high",
       "char_offset": 432,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.5535714285714286,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "source_article": "62",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "les, dicho co-procesamiento podrá ser considerado parte del propio proceso industrial de producción, sin perjuicio de las disposiciones aplicables de la Ley de Infraestructura de la Calidad. Artículo adicionado DOF 18-01-2021",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 671,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
@@ -238,16 +238,16 @@
       "source_law": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "source_article": "85",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "ículo 85.- La importación y exportación de residuos peligrosos se sujetará a las restricciones o condiciones establecidas en esta Ley, su Reglamento, la Ley de Comercio Exterior, la Ley Federal de Competencia Económica, los tratados internacionales de los que México sea parte y los demás ordenamientos legales aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 153,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
@@ -426,7 +426,7 @@
       "confidence": "medium",
       "char_offset": 3672,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -501,7 +501,7 @@
       "confidence": "medium",
       "char_offset": 10772,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45962732919254656,
+      "resolution_score": 0.6495726495726496,
       "resolution_matched_alias": null
     },
     {
@@ -531,7 +531,7 @@
       "confidence": "medium",
       "char_offset": 21319,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -546,7 +546,7 @@
       "confidence": "medium",
       "char_offset": 21507,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -748,31 +748,31 @@
       "source_law": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "source_article": "125",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "eral de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de Mé",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22476,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "source_article": "125",
       "target_law_raw": "Ley de Fomento para la Lectura y el Libro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fomento-para-la-lectura-y-el-libro",
       "target_article": null,
       "citation_text": " Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22556,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fomento para la lectura y el libro"
     },
     {
       "source_law": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
@@ -862,5 +862,5 @@
       "char_offset": 4326
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.605341+00:00"
+  "resolved_at": "2026-03-30T20:33:26.777984+00:00"
 }

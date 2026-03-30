@@ -15,7 +15,7 @@
       "confidence": "medium",
       "char_offset": 331,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5176470588235295,
       "resolution_matched_alias": null
     },
     {
@@ -181,16 +181,16 @@
       "source_law": "ley-general-de-sociedades-mercantiles",
       "source_article": "251",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "ión en el Registro.  La inscripción sólo se efectuará previa autorización de la Secretaría de Economía, en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera. Párrafo reformado DOF 24-12-1996, 28-07-2006  Las sociedades extranjeras deberán publicar anualmente, en el sistema electrónico establecido por la S",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 241,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-general-de-sociedades-mercantiles",
@@ -250,16 +250,16 @@
       "source_law": "ley-general-de-sociedades-mercantiles",
       "source_article": "4º",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "an diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1192,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-general-de-sociedades-mercantiles",
@@ -439,5 +439,5 @@
       "char_offset": 235
     }
   ],
-  "resolved_at": "2026-03-30T12:18:59.114915+00:00"
+  "resolved_at": "2026-03-30T20:33:24.292436+00:00"
 }

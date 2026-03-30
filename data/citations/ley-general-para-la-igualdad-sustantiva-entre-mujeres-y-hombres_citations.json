@@ -79,16 +79,16 @@
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "source_article": "4",
       "target_law_raw": "Ley de la Comisión Nacional de los Derechos Humanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": "isto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley de la Comisión Nacional de los Derechos Humanos, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, la Ley General de los Derechos de Niñas, Niños y Adolescentes, los instrumen",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 176,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
@@ -151,16 +151,16 @@
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "source_article": "22",
       "target_law_raw": "Ley de la Comisión Nacional de los Derechos Humanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": "Artículo 22.- De acuerdo con lo establecido por el Artículo 6, Fracción XIV Bis de la Ley de la Comisión Nacional de los Derechos Humanos, ésta es la encargada de la observancia en el seguimiento, evaluación y monitoreo de la Política Nacional en Materia de Igualdad entre mujeres y homb",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 83,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
@@ -208,31 +208,31 @@
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "source_article": "49",
       "target_law_raw": "Ley de la Comisión Nacional de los Derechos Humanos ésta podrá recibir quejas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": "Artículo 49.- De acuerdo con lo establecido en la Ley de la Comisión Nacional de los Derechos Humanos ésta podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia objeto de esta ley.  TRANSITORIOS  Artículo Primero. El presente decreto entr",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 32,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.47368421052631576,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.796875,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "source_article": "49",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "ad Civil.  Publicado en el Diario Oficial de la Federación el 16 de junio de 2011  Artículo Primero.- Se reforma el párrafo primero del artículo 3 de la Ley General para la Igualdad entre Mujeres y Hombres, para quedar como sigue:  .  TRANSITORIO  Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1763,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
@@ -268,16 +268,16 @@
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "source_article": "49",
       "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "target_article": null,
       "citation_text": "la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 16062,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la protección de personas defensoras de derechos humanos y periodistas"
     },
     {
       "source_law": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
@@ -291,7 +291,7 @@
       "confidence": "medium",
       "char_offset": 16146,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -562,5 +562,5 @@
       "char_offset": 950
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.521041+00:00"
+  "resolved_at": "2026-03-30T20:33:26.660488+00:00"
 }

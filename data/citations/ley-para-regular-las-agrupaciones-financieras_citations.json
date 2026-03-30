@@ -316,16 +316,16 @@
       "source_law": "ley-para-regular-las-agrupaciones-financieras",
       "source_article": "79",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": " el fin de informar al público emitan y expongan sobre los productos y servicios financieros a que se refiere el párrafo anterior, deberá sujetarse a la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 666,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-para-regular-las-agrupaciones-financieras",
@@ -540,7 +540,7 @@
       "confidence": "high",
       "char_offset": 1440,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46875,
+      "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
     },
     {
@@ -555,7 +555,7 @@
       "confidence": "high",
       "char_offset": 167,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43283582089552236,
+      "resolution_score": 0.5192307692307693,
       "resolution_matched_alias": null
     },
     {
@@ -652,16 +652,16 @@
       "source_law": "ley-para-regular-las-agrupaciones-financieras",
       "source_article": "193",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5133,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-para-regular-las-agrupaciones-financieras",
@@ -697,16 +697,16 @@
       "source_law": "ley-para-regular-las-agrupaciones-financieras",
       "source_article": "193",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "nformación Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.  Publicado en el Diario Oficial de la Fede",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5399,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-para-regular-las-agrupaciones-financieras",
@@ -766,5 +766,5 @@
       "char_offset": 4425
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.843957+00:00"
+  "resolved_at": "2026-03-30T20:33:31.619341+00:00"
 }

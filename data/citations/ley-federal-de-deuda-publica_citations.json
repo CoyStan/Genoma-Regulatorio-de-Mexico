@@ -22,16 +22,16 @@
       "source_law": "ley-federal-de-deuda-publica",
       "source_article": "4o",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "el Gobierno Federal a las obligaciones constitutivas de deuda pública de los Estados y Municipios, en términos del Capítulo IV, del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Fracción adicionada DOF 27-04-2016",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2563,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-federal-de-deuda-publica",
@@ -57,7 +57,7 @@
       "confidence": "medium",
       "char_offset": 229,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5405405405405406,
+      "resolution_score": 0.625,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "medium",
       "char_offset": 106,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
+      "resolution_score": 0.6451612903225806,
       "resolution_matched_alias": null
     },
     {
@@ -94,16 +94,16 @@
       "source_law": "ley-federal-de-deuda-publica",
       "source_article": "18",
       "target_law_raw": "Ley de Presupuesto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "mo proyecto genere, y en los que se cuente con la previa aprobación de la Secretaría de Hacienda y Crédito Público en los términos del artículo 30 de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, sólo se considerará, para efectos de la presente Ley, como pasivo directo, a los montos de financiamiento a pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 986,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-federal-de-deuda-publica",
@@ -234,7 +234,7 @@
       "confidence": "medium",
       "char_offset": 4136,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40236686390532544,
+      "resolution_score": 0.48366013071895425,
       "resolution_matched_alias": null
     },
     {
@@ -249,23 +249,23 @@
       "confidence": "medium",
       "char_offset": 5465,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.4689655172413793,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-deuda-publica",
       "source_article": "1o",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "r a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relaci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7805,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-federal-de-deuda-publica",
@@ -286,16 +286,16 @@
       "source_law": "ley-federal-de-deuda-publica",
       "source_article": "1o",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15911,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-federal-de-deuda-publica",
@@ -325,5 +325,5 @@
       "char_offset": 503
     }
   ],
-  "resolved_at": "2026-03-30T12:18:54.476655+00:00"
+  "resolved_at": "2026-03-30T20:33:15.101662+00:00"
 }

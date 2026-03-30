@@ -15,23 +15,23 @@
       "confidence": "medium",
       "char_offset": 1013,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4489795918367347,
+      "resolution_score": 0.5977011494252874,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "9o",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "dientes, designados por el Presidente de la República, dos de éstos a propuesta de la Reunión Nacional de Funcionarios Fiscales a que hace referencia la Ley de Coordinación Fiscal. Estos nombramientos deberán recaer en personas que cuenten con amplia experiencia en la administración tributaria, federal o estatal, y quienes por ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 644,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
@@ -45,7 +45,7 @@
       "confidence": "high",
       "char_offset": 221,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4294478527607362,
+      "resolution_score": 0.5180722891566265,
       "resolution_matched_alias": null
     },
     {
@@ -121,31 +121,31 @@
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "23",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "eos Mexicanos;  III. Los ingresos recabados u obtenidos conforme a la clasificación institucional de los recursos;  IV. Los ingresos excedentes a los previstos en la Ley de Ingresos de la Federación, sin considerar las aportaciones de seguridad social;  V. Dentro del Informe trimestral, un comparativo que presente las variaciones de los ingresos ",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 898,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "26",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "Artículo 26. Con el propósito de transparentar la relación fiscal entre la Federación y sus miembros, y de garantizar el estricto cumplimiento de la Ley de Coordinación Fiscal, el Servicio de Administración Tributaria proporcionará la información necesaria para que el Ejecutivo Federal, a través de la Secretaría de Hacienda",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 146,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
@@ -189,7 +189,7 @@
       "confidence": "medium",
       "char_offset": 6480,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.484472049689441,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -234,23 +234,23 @@
       "confidence": "medium",
       "char_offset": 7431,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5135135135135135,
+      "resolution_score": 0.578125,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "35",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "o Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de rec",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7710,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
@@ -264,7 +264,7 @@
       "confidence": "medium",
       "char_offset": 8900,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.5352112676056338,
       "resolution_matched_alias": null
     },
     {
@@ -280,5 +280,5 @@
       "char_offset": 5988
     }
   ],
-  "resolved_at": "2026-03-30T12:18:52.537232+00:00"
+  "resolved_at": "2026-03-30T20:33:12.661996+00:00"
 }

@@ -7,16 +7,16 @@
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "1",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "n el artículo 27, fracción XX, de la Constitución Política de los Estados Unidos Mexicanos y con lo que se establece en el Título III, Capítulo IX de la Ley de Desarrollo Rural Sustentable.  Sus disposiciones son de orden público, de observancia general en toda la República y de interés público porque regulan actividades relacionadas co",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 206,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 2965,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45517241379310347,
+      "resolution_score": 0.5035971223021583,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 4130,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -87,7 +87,7 @@
       "confidence": "medium",
       "char_offset": 2810,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -117,23 +117,23 @@
       "confidence": "medium",
       "char_offset": 658,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "4",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": " del presente ordenamiento;  IX. Promover la producción de semillas, dando prioridad a la de los cultivos considerados como básicos y estratégicos en la Ley de Desarrollo Rural Sustentable;  X. Promover y aceptar donativos, aportaciones, asignaciones y demás recursos para el Fondo de Apoyos e Incentivos al Sistema Nacional de Semillas; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2219,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -162,23 +162,23 @@
       "confidence": "medium",
       "char_offset": 83,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5915492957746479,
+      "resolution_score": 0.7083333333333334,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "16",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "bernamental;  VI. Promover la vinculación de los programas, proyectos, instrumentos, mecanismos de fomento y apoyo, con los instrumentos y mecanismos previstos en la Ley de Desarrollo Rural Sustentable;  VII. Promover la organización institucionalizada de productores, comercializadores, obtentores, mantenedores y fitomejoradores, para fortalecer su ",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 963,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -199,16 +199,16 @@
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "18",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "Artículo 18.- La Secretaría de acuerdo con lo dispuesto en el artículo 34 de la Ley de Desarrollo Rural Sustentable, en el marco del Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable fomentará la investigación, desar",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 77,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -282,7 +282,7 @@
       "confidence": "high",
       "char_offset": 206,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -297,7 +297,7 @@
       "confidence": "high",
       "char_offset": 37,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -349,16 +349,16 @@
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "35",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "l de Sanidad Vegetal.  En los casos de importación de semillas que sean organismos genéticamente modificados, se deberá cumplir adicionalmente con lo establecido en la Ley de Bioseguridad de Organismos Genéticamente Modificados.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 593,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -379,16 +379,16 @@
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "37",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "Artículo 37.- Los Consejos Estatales para el Desarrollo Rural Sustentable, previstos en la Ley de Desarrollo Rural Sustentable, promoverán la instalación de Comités Consultivos Regionales o Estatales de Semillas que se integrarán por representantes de las dependencias relacio",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 75,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -414,7 +414,7 @@
       "confidence": "high",
       "char_offset": 2271,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -460,5 +460,5 @@
       "char_offset": 2604
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.217234+00:00"
+  "resolved_at": "2026-03-30T20:33:17.323173+00:00"
 }

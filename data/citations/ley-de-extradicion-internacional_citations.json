@@ -27,7 +27,7 @@
       "confidence": "medium",
       "char_offset": 665,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49056603773584906,
+      "resolution_score": 0.48333333333333334,
       "resolution_matched_alias": null
     },
     {
@@ -54,7 +54,7 @@
       "confidence": "high",
       "char_offset": 11401,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -69,7 +69,7 @@
       "confidence": "high",
       "char_offset": 13561,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
+      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -91,16 +91,16 @@
       "source_law": "ley-de-extradicion-internacional",
       "source_article": "37",
       "target_law_raw": "Ley de Extradición de 1o",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-extradicion-internacional",
       "target_article": null,
       "citation_text": "vido.  TRANSITORIOS  ARTICULO PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el \"Diario Oficial\" de la Federación y abroga la Ley de Extradición de 1o. de mayo de 1897.  ARTICULO SEGUNDO.- Todas las extradiciones que estén en trámite al entrar en vigor esta ley se sujetarán a sus disposiciones.  Méx",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 296,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.68,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de extradición internacional"
     },
     {
       "source_law": "ley-de-extradicion-internacional",
@@ -159,7 +159,7 @@
       "confidence": "medium",
       "char_offset": 3079,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.656,
       "resolution_matched_alias": null
     },
     {
@@ -204,7 +204,7 @@
       "confidence": "medium",
       "char_offset": 3426,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4342857142857143,
+      "resolution_score": 0.48120300751879697,
       "resolution_matched_alias": null
     },
     {
@@ -226,16 +226,16 @@
       "source_law": "ley-de-extradicion-internacional",
       "source_article": "37",
       "target_law_raw": "Ley de la Comisión Nacional de los Derechos Humanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": "rtura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes; y se reforman, adicionan y derogan diversas disposiciones del Código Penal Federal, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley del Sistema Nacional de Seguridad Pública y de la Ley de Extradición Internacional.  Publicado en el Diario Oficial de la Federación el 26",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8068,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-de-extradicion-internacional",
@@ -280,5 +280,5 @@
       "char_offset": 705
     }
   ],
-  "resolved_at": "2026-03-30T12:18:44.720115+00:00"
+  "resolved_at": "2026-03-30T20:33:00.174807+00:00"
 }

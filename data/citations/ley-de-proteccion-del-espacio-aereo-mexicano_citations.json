@@ -19,31 +19,31 @@
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
       "source_article": "4",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "en materia de aeronáutica civil y de protección a los derechos humanos de los que el Estado mexicano sea parte y, a falta de disposición expresa, por la Ley de Aviación Civil, la Ley de Aeropuertos, la Ley Federal de Procedimiento Administrativo, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el Código Penal Feder",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 328,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
       "source_article": "4",
       "target_law_raw": "Ley de Aeropuertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aeropuertos",
       "target_article": null,
       "citation_text": "civil y de protección a los derechos humanos de los que el Estado mexicano sea parte y, a falta de disposición expresa, por la Ley de Aviación Civil, la Ley de Aeropuertos, la Ley Federal de Procedimiento Administrativo, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el Código Penal Federal.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 354,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6842105263157895,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aeropuertos"
     },
     {
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
@@ -79,16 +79,16 @@
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
       "source_article": "26",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "y protección del Espacio Aéreo Mexicano lo siguiente:  I.\tLos documentos que amparen que una aeronave cuenta con los certificados y licencia vigentes de conformidad con la Ley de Aviación Civil, a fin de verificar físicamente que corresponde a las capacidades de vuelo de la tripulación y a las marcas de nacionalidad, matrícula, placas de núm",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 291,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
@@ -103,5 +103,5 @@
       "char_offset": 2456
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.197718+00:00"
+  "resolved_at": "2026-03-30T20:33:07.245276+00:00"
 }

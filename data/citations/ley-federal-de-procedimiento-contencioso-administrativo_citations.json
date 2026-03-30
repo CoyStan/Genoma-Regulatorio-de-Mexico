@@ -52,16 +52,16 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "8o",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "stancias de autos apareciere claramente que no existe la resolución o acto impugnados.  XII. Que puedan impugnarse en los términos del artículo 97 de la Ley de Comercio Exterior, cuando no haya transcurrido el plazo para el ejercicio de la opción o cuando la opción ya haya sido ejercida.  XIII. Dictados por la autoridad admin",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1875,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 3616,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6956521739130435,
+      "resolution_score": 0.6363636363636364,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "medium",
       "char_offset": 959,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.375,
+      "resolution_score": 0.4117647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -244,16 +244,16 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "58-3",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "abilidades administrativas de los servidores públicos o de sanciones por responsabilidad resarcitoria a que se refiere el Capítulo II del Título V de la Ley de Fiscalización y Rendición de Cuentas de la Federación;  IV. Se trate de multas por infracciones a las normas en materia de propiedad intelectual;  V. Se trate de resoluciones que además de imponer una mu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 536,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -319,16 +319,16 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "63",
       "target_law_raw": "Ley del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-de-administracion-tributaria",
       "target_article": null,
       "citation_text": "esolución en la cual, se declare el derecho a la indemnización, o se condene al Servicio de Administración Tributaria, en términos del artículo 34 de la Ley del Servicio de Administración Tributaria.  VIII. Se resuelva sobre la condenación en costas o indemnización previstas en el artículo 6º de la Ley Federal de Procedimiento Contencioso Adminis",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3331,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio de administración tributaria"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -342,7 +342,7 @@
       "confidence": "high",
       "char_offset": 586,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -357,7 +357,7 @@
       "confidence": "high",
       "char_offset": 13313,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -372,7 +372,7 @@
       "confidence": "high",
       "char_offset": 5200,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4132231404958678,
+      "resolution_score": 0.4264705882352941,
       "resolution_matched_alias": null
     },
     {
@@ -409,16 +409,16 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "79",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "contra la Delincuencia Organizada, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Preventiva, de la Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4420,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -508,5 +508,5 @@
       "char_offset": 1780
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.164975+00:00"
+  "resolved_at": "2026-03-30T20:33:17.223108+00:00"
 }

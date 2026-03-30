@@ -30,7 +30,7 @@
       "confidence": "medium",
       "char_offset": 519,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.5384615384615384,
       "resolution_matched_alias": null
     },
     {
@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 3345,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -109,16 +109,16 @@
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
       "source_article": "3",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "ipios, así como de sus entidades paraestatales y las empresas productivas del Estado;  XI.\tLas que traten las materias señaladas en el artículo 94 de la Ley de Comercio Exterior;  XII.\tLas dictadas por las autoridades administrativas que pongan fin a un procedimiento administrativo, a una instancia o resuelvan un expediente, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3642,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
@@ -154,16 +154,16 @@
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
       "source_article": "3",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "tuciones y Procedimientos Electorales;  XVIII.\tLas sanciones y demás resoluciones emitidas por la Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, y  XIX.\tLas señaladas en esta y otras leyes como competencia del Tribunal.  El Tribunal podrá llevar a cabo mecanismos alternativos de solución de c",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5605,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
@@ -229,16 +229,16 @@
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
       "source_article": "18",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "s al Presidente de la Sección correspondiente;  II.\tDictar sentencia definitiva en los juicios que traten las materias señaladas en el artículo 94 de la Ley de Comercio Exterior, a excepción de aquéllos en los que se controvierta exclusivamente la aplicación de cuotas compensatorias;  III.\tResolver los juicios con característ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 261,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
@@ -372,7 +372,7 @@
       "confidence": "high",
       "char_offset": 886,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -489,7 +489,7 @@
       "confidence": "high",
       "char_offset": 523,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4166666666666667,
+      "resolution_score": 0.49230769230769234,
       "resolution_matched_alias": null
     },
     {
@@ -603,7 +603,7 @@
       "confidence": "high",
       "char_offset": 6204,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -633,7 +633,7 @@
       "confidence": "high",
       "char_offset": 1407,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -678,7 +678,7 @@
       "confidence": "medium",
       "char_offset": 2757,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7228915662650602,
+      "resolution_score": 0.627906976744186,
       "resolution_matched_alias": null
     },
     {
@@ -754,5 +754,5 @@
       "char_offset": 9023
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.589680+00:00"
+  "resolved_at": "2026-03-30T20:33:30.948710+00:00"
 }

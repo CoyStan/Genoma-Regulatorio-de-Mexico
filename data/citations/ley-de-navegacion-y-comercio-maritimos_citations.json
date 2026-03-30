@@ -7,16 +7,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "2",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "las mismas; Fracción adicionada DOF 26-12-2013. Reformada DOF 07-12-2020  VII Ter. CUMAR: El Centro Unificado para la Protección Marítima y Portuaria establecido en la Ley de Puertos; Fracción adicionada DOF 26-12-2013  VIII. Propietario: la persona física o moral titular del derecho real de propiedad de una o varias embarcaciones",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2138,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -75,7 +75,7 @@
       "confidence": "medium",
       "char_offset": 550,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5056179775280899,
+      "resolution_score": 0.5432098765432098,
       "resolution_matched_alias": null
     },
     {
@@ -97,16 +97,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "8",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "gación y la salvaguarda de la vida humana en el mar; Fracción reformada DOF 07-12-2020  X. Establecer las Medidas de Protección Marítima y Portuaria, conforme a lo dispuesto en la Ley de Puertos; Fracción reformada DOF 07-12-2020  XI. Establecer las bases de regulación de tarifas en la prestación de los servicios marítimos en el territorio na",
       "pattern_name": "conforme_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1734,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 5775,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -142,16 +142,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "9",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "tas de mar e identidad marítima del personal embarcado de la Marina Mercante mexicana;  VII. Ordenar las medidas que le sean requeridas por el CUMAR, conforme a lo dispuesto en la Ley de Puertos;  VIII. Recibir y tramitar ante las autoridades correspondientes las reclamaciones laborales de los tripulantes y los trabajadores de las embarcacion",
       "pattern_name": "conforme_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1425,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 290,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 883,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 1058,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -240,38 +240,38 @@
       "confidence": "high",
       "char_offset": 1204,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "42",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "sticos;  b) Remolque, maniobra y lanchaje en puerto, excepto cuando tengan celebrado contrato con la administración portuaria, conforme lo establezca la Ley de Puertos;  c) Dragado, y Inciso reformado DOF 07-12-2020  d) Las embarcaciones extranjeras para prestar el servicio de cabotaje, siempre y cuando no exista un",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 531,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "43",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": " mexicanas aplicables.  En la terminación, revocación y demás actos administrativos relacionados con los permisos regulados por esta Ley, se aplicará lo dispuesto en la Ley de Puertos. Párrafo reformado DOF 19-12-2016",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 353,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -292,31 +292,31 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "46",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "licables en materia de Protección Marítima y Portuaria, la capitanía de puerto dará vista al CUMAR para que intervenga en los términos que establezca la Ley de Puertos. Artículo reformado DOF 26-12-2013, 19-12-2016",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 976,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "49",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "el despacho de salida de cualquier embarcación como medida precautoria en cualquiera de los niveles de Protección Marítima y Portuaria en términos de la Ley de Puertos. Artículo adicionado DOF 26-12-2013. Reformado DOF 19-12-2016",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 258,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -330,23 +330,23 @@
       "confidence": "high",
       "char_offset": 1324,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "59",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "aminación marina, así como cualquier otra afectación a los derechos de la sociedad en general; y  VI. Para la prestación de este servicio se estará a lo dispuesto en la Ley de Puertos.  CAPÍTULO V SEÑALAMIENTO MARÍTIMO, Y AYUDAS A LA NAVEGACIÓN",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1850,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -360,7 +360,7 @@
       "confidence": "high",
       "char_offset": 137,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -375,7 +375,7 @@
       "confidence": "high",
       "char_offset": 1287,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -402,7 +402,7 @@
       "confidence": "high",
       "char_offset": 218,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3787878787878788,
+      "resolution_score": 0.4444444444444444,
       "resolution_matched_alias": null
     },
     {
@@ -417,7 +417,7 @@
       "confidence": "high",
       "char_offset": 276,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -447,7 +447,7 @@
       "confidence": "high",
       "char_offset": 1164,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -534,7 +534,7 @@
       "confidence": "high",
       "char_offset": 146,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -549,7 +549,7 @@
       "confidence": "medium",
       "char_offset": 141,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41509433962264153,
+      "resolution_score": 0.5428571428571428,
       "resolution_matched_alias": null
     },
     {
@@ -579,7 +579,7 @@
       "confidence": "high",
       "char_offset": 292,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -594,7 +594,7 @@
       "confidence": "high",
       "char_offset": 227,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -681,7 +681,7 @@
       "confidence": "high",
       "char_offset": 393,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -696,7 +696,7 @@
       "confidence": "medium",
       "char_offset": 459,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5882352941176471,
       "resolution_matched_alias": null
     },
     {
@@ -775,16 +775,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "328",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "onan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para la Prevención y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Ma",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4995,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -828,23 +828,23 @@
       "confidence": "medium",
       "char_offset": 5179,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45962732919254656,
+      "resolution_score": 0.6495726495726496,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "328",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "l ámbito de sus respectivas competencias, expedirán las modificaciones del Reglamento de la Ley de Navegación y Comercio Marítimos, del Reglamento de la Ley de Puertos, del Reglamento del Centro Unificado para la Protección Marítima y Portuaria y de las disposiciones administrativas correspondientes, que resulten ne",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 18277,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -889,5 +889,5 @@
       "char_offset": 2959
     }
   ],
-  "resolved_at": "2026-03-30T12:18:48.765345+00:00"
+  "resolved_at": "2026-03-30T20:33:06.388675+00:00"
 }

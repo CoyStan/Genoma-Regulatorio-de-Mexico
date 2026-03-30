@@ -19,31 +19,31 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "2",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "rtículo 2.- Sus disposiciones son de interés público y de orden social, por su carácter básico y estratégico para la economía nacional en términos de la Ley de Desarrollo Rural Sustentable, tiene por objeto normar las actividades asociadas a la agricultura de contrato y a la integración sustentable de la caña de azúcar, de los procesos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 151,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "3",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "formación e industrialización de la caña de azúcar;  XI.\tJunta Permanente: La Junta Permanente de Arbitraje de la Agroindustria de la Caña de Azúcar, de conformidad con la Ley de Desarrollo Rural Sustentable;  XII.\tLey: La Ley de Desarrollo Sustentable de la Caña de Azúcar;  XIII.\tOrganizaciones: Las organizaciones nacionales y locales de Abastecedores de",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1394,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -79,16 +79,16 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "7",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "iliación y el arbitraje de las controversias de la agroindustria de la caña de azúcar en los términos del Sistema Nacional de Arbitraje que establece la Ley de Desarrollo Rural Sustentable y esta Ley, y  XVIII.\tLas demás que esta Ley y su Reglamento establezcan.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4005,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -109,16 +109,16 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "10",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "ralidad, inclusión y participación, los cuales formarán parte del Sistema Nacional de Capacitación y Asistencia Técnica Rural Integral, que establece la Ley de Desarrollo Rural Sustentable;  XXIII.\tRecibir, analizar y evaluar los informes de los Comités respecto de los programas convenidos y sus modificaciones, los avances semanales y a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5821,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -132,7 +132,7 @@
       "confidence": "high",
       "char_offset": 3256,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -171,23 +171,23 @@
       "confidence": "high",
       "char_offset": 96,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5411764705882353,
+      "resolution_score": 0.5901639344262295,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "32",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "sarrollo Rural Sustentable en los municipios, en los Distritos de Desarrollo Rural y en las entidades federativas, a que se refiere el Artículo 24 de la Ley de Desarrollo Rural Sustentable.  Las inscripciones realizadas en el Registro, relacionadas con los sujetos de esta Ley, tendrán efectos de fe pública, de conformidad con lo que est",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 864,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -205,16 +205,16 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "39",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable y en la presente Ley",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "tria de la caña de azúcar;  X.\tParticipar en representación de los intereses de sus agremiados en el Comité Nacional y las instancias contempladas en la Ley de Desarrollo Rural Sustentable y en la presente Ley;  XI.\tDefender los intereses de sus agremiados en la Junta Permanente, en los términos que se señalen en sus estatutos y en el reglamento interno de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1434,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4485981308411215,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7692307692307693,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -270,7 +270,7 @@
       "confidence": "high",
       "char_offset": 657,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -307,31 +307,31 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "127",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "Artículo 127.- Se crea la Junta Permanente en términos de la Ley de Desarrollo Rural Sustentable, la que tendrá plena competencia para conocer y resolver todas aquellas controversias azucareras que le sean sometidas.  En ningún caso la Junta Perm",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 58,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "128",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "e integrará con las aportaciones anuales de los sectores representados en ella, en los montos que determine su Pleno, en términos del Artículo 186 de la Ley de Desarrollo Rural Sustentable.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 280,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -391,5 +391,5 @@
       "char_offset": 4099
     }
   ],
-  "resolved_at": "2026-03-30T12:18:44.368746+00:00"
+  "resolved_at": "2026-03-30T20:32:59.166777+00:00"
 }

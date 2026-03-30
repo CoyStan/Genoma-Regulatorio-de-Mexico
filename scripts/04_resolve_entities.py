@@ -22,6 +22,7 @@ import logging
 import sys
 from collections import Counter, defaultdict
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
 from pathlib import Path
 
 # Add project root to sys.path
@@ -33,8 +34,11 @@ from scripts.utils.lookup import resolve_law_name, CANONICAL_LAWS
 # ---------------------------------------------------------------------------
 
 CITATIONS_DIR = Path(__file__).parent.parent / "data" / "citations"
+PROCESSED_DIR = Path(__file__).parent.parent / "data" / "processed"
 LOOKUP_DIR = Path(__file__).parent.parent / "data" / "lookup"
 LOOKUP_DIR.mkdir(parents=True, exist_ok=True)
+
+FUZZY_THRESHOLD = 0.75
 
 logging.basicConfig(
     level=logging.INFO,
@@ -45,6 +49,69 @@ log = logging.getLogger(__name__)
 
 
 # ---------------------------------------------------------------------------
+# Corpus registry — built at startup from data/processed/
+# ---------------------------------------------------------------------------
+
+_corpus_aliases: dict[str, str] = {}  # name_lower -> law_id
+
+
+def build_corpus_registry() -> None:
+    """
+    Build a reverse-lookup from all processed law files.
+    Covers all 318 laws, not just the 48 hardcoded in lookup.py.
+    """
+    for path in PROCESSED_DIR.glob("*.json"):
+        try:
+            with open(path, encoding="utf-8") as f:
+                meta = json.load(f)
+            law_id = meta.get("id") or path.stem
+            name = meta.get("name", "").strip()
+            short = meta.get("short_name", "").strip()
+            if name:
+                _corpus_aliases[name.lower()] = law_id
+            if short:
+                _corpus_aliases[short.lower()] = law_id
+        except Exception:
+            pass
+
+
+def resolve_from_corpus(raw_name: str) -> dict:
+    """Fuzzy-match raw_name against the full corpus registry."""
+    cleaned = raw_name.strip().lower()
+
+    # Exact match first
+    if cleaned in _corpus_aliases:
+        return {
+            "law_id": _corpus_aliases[cleaned],
+            "confidence": "high",
+            "matched_alias": cleaned,
+            "score": 1.0,
+        }
+
+    # Fuzzy match
+    best_score = 0.0
+    best_id = None
+    best_alias = None
+    for alias, law_id in _corpus_aliases.items():
+        score = SequenceMatcher(None, cleaned, alias).ratio()
+        if score > best_score:
+            best_score = score
+            best_id = law_id
+            best_alias = alias
+
+    if best_score >= FUZZY_THRESHOLD:
+        confidence = "high" if best_score >= 0.90 else "medium"
+        return {
+            "law_id": best_id,
+            "confidence": confidence,
+            "matched_alias": best_alias,
+            "score": best_score,
+        }
+
+    return {"law_id": None, "confidence": "unresolved", "matched_alias": None, "score": best_score}
+
+
+# ---------------------------------------------------------------------------
 # Resolution with caching
 # ---------------------------------------------------------------------------
 
@@ -52,9 +119,15 @@ _resolution_cache: dict[str, dict] = {}
 
 
 def resolve_cached(raw_name: str) -> dict:
-    """Resolve with memoization to avoid re-running fuzzy matching."""
+    """
+    Resolve with memoization. Tries lookup.py first, then falls back
+    to the full corpus registry built from data/processed/.
+    """
     if raw_name not in _resolution_cache:
-        _resolution_cache[raw_name] = resolve_law_name(raw_name)
+        result = resolve_law_name(raw_name)
+        if not result["law_id"]:
+            result = resolve_from_corpus(raw_name)
+        _resolution_cache[raw_name] = result
     return _resolution_cache[raw_name]
 
 
@@ -155,6 +228,9 @@ def build_resolution_report(all_citations: list[dict]) -> dict:
 
 def main():
     log.info("=== 04_resolve_entities.py — Genoma Regulatorio de México ===")
+
+    build_corpus_registry()
+    log.info(f"Corpus registry built: {len(_corpus_aliases)} name entries from {PROCESSED_DIR}")
 
     citation_files = sorted(CITATIONS_DIR.glob("*_citations.json"))
     if not citation_files:

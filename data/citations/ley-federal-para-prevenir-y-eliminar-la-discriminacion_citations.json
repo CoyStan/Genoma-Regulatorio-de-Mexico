@@ -31,16 +31,16 @@
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
       "source_article": "9",
       "target_law_raw": "Ley General para la Inclusión de las Personas con Discapacidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
       "target_article": null,
       "citation_text": "ndicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia, de conformidad con lo establecido en la Ley General para la Inclusión de las Personas con Discapacidad; Fracción adicionada DOF 04-12-2023  XXII Quintus. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, te",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 4578,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5375,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la inclusión de las personas con discapacidad"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
@@ -123,7 +123,7 @@
       "confidence": "high",
       "char_offset": 683,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -138,7 +138,7 @@
       "confidence": "high",
       "char_offset": 162,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 293,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "high",
       "char_offset": 362,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -255,7 +255,7 @@
       "confidence": "high",
       "char_offset": 240,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -270,7 +270,7 @@
       "confidence": "high",
       "char_offset": 780,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -337,16 +337,16 @@
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
       "source_article": "88",
       "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "target_article": null,
       "citation_text": "la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 32954,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la protección de personas defensoras de derechos humanos y periodistas"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
@@ -360,7 +360,7 @@
       "confidence": "medium",
       "char_offset": 33038,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -405,7 +405,7 @@
       "confidence": "medium",
       "char_offset": 34331,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3769633507853403,
+      "resolution_score": 0.5777777777777777,
       "resolution_matched_alias": null
     },
     {
@@ -451,5 +451,5 @@
       "char_offset": 2368
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.616814+00:00"
+  "resolved_at": "2026-03-30T20:33:19.885885+00:00"
 }

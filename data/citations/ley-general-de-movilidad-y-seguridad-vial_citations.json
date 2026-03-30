@@ -31,16 +31,16 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "3",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "urisdicción;  LII.\tServicios auxiliares: Son todos los bienes muebles o inmuebles e infraestructura, así como los servicios a los que hace referencia la Ley de Caminos, Puentes y Autotransporte Federal y que resulten complementarios a la prestación del servicio de transporte público, previstos en la legislación apli",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13988,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
@@ -157,16 +157,16 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "29",
       "target_law_raw": "Ley del Registro Público Vehicular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-registro-publico-vehicular",
       "target_article": null,
       "citation_text": "vilidad y seguridad vial, las que contendrán, como mínimo, lo siguiente:  I.\tLa información contenida en el Registro Público Vehicular en términos de la Ley del Registro Público Vehicular, en estricto apego a las Leyes Federal y General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Po",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 324,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del registro público vehicular"
     },
     {
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
@@ -187,16 +187,16 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "54",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "lir con los dispositivos, sistemas y estándares de seguridad que se establezcan en las Normas Oficiales Mexicanas correspondientes, de acuerdo con lo establecido en la Ley de Infraestructura de la Calidad, tomando como base los criterios internacionales en la materia. La regulación técnica que para tal efecto se emita, deberá contener las especificacio",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 282,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
@@ -217,16 +217,16 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "71",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": " las acciones, planes, programas y políticas públicas en materia de seguridad vial que impliquen vías generales de comunicación de conformidad con lo establecido en la Ley de Caminos, Puentes y Autotransporte Federal;  IX.\tCoordinar la planificación, construcción, mejoramiento y conservación de caminos, puentes y vías férreas de j",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1616,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
@@ -283,5 +283,5 @@
       "char_offset": 2489
     }
   ],
-  "resolved_at": "2026-03-30T12:18:58.385752+00:00"
+  "resolved_at": "2026-03-30T20:33:22.889865+00:00"
 }

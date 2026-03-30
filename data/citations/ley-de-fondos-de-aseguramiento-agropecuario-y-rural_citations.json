@@ -22,16 +22,16 @@
       "source_law": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
       "source_article": "6o",
       "target_law_raw": "Ley sobre el Contrato de Seguro serán",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "l;  III.\tEl Código Civil Federal, y  IV.\tEl Código Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025  Los principios establecidos en la Ley sobre el Contrato de Seguro serán aplicables a las operaciones de los Fondos de Aseguramiento, en lo compatible con su objeto consistente en la protección mutualista y solidaria a sus socios.  TÍTULO PRIMERO DE LOS FONDOS DE ASEGURAMIENTO  Cap",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 400,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9117647058823529,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
@@ -79,16 +79,16 @@
       "source_law": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
       "source_article": "32",
       "target_law_raw": "Ley sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "s de Aseguramiento como sus socios estarán obligados, en los términos previstos en el artículo 6o. y en todo aquello que no contravenga a esta Ley, a lo dispuesto por la Ley sobre el Contrato de Seguro.  Asimismo, el Fondo de Aseguramiento tendrá un plazo de 60 días naturales, con posterioridad a la emisión de la constancia de aseguramiento, para ac",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1081,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
@@ -202,16 +202,16 @@
       "source_law": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
       "source_article": "89",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "os Fondos de Aseguramiento y sus Organismos Integradores previstas en esta Ley y en los programas sectoriales derivados de la Ley de Planeación, y de la Ley de Desarrollo Rural Sustentable.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 484,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
@@ -237,7 +237,7 @@
       "confidence": "medium",
       "char_offset": 144,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.6554621848739496,
       "resolution_matched_alias": null
     },
     {
@@ -325,5 +325,5 @@
       "char_offset": 3407
     }
   ],
-  "resolved_at": "2026-03-30T12:18:45.229586+00:00"
+  "resolved_at": "2026-03-30T20:33:01.005061+00:00"
 }

@@ -19,16 +19,16 @@
       "source_law": "ley-federal-de-responsabilidad-patrimonial-del-estado",
       "source_article": "7",
       "target_law_raw": "Ley de Presupuesto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "ARTÍCULO 7.- El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, deberá autorizar el traspaso de los montos presupuestales aprobados a las diferentes dependencias o entidades ",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 92,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-federal-de-responsabilidad-patrimonial-del-estado",
@@ -64,16 +64,16 @@
       "source_law": "ley-federal-de-responsabilidad-patrimonial-del-estado",
       "source_article": "13",
       "target_law_raw": "Ley de Expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "ARTÍCULO 13.- El monto de la indemnización por daños y perjuicios materiales se calculará de acuerdo con los criterios establecidos por la Ley de Expropiación, el Código Fiscal de la Federación, la Ley General de Bienes Nacionales y demás disposiciones aplicables, debiéndose tomar en consideración los valor",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 136,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-federal-de-responsabilidad-patrimonial-del-estado",
@@ -207,7 +207,7 @@
       "confidence": "high",
       "char_offset": 3763,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -253,5 +253,5 @@
       "char_offset": 1287
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.642006+00:00"
+  "resolved_at": "2026-03-30T20:33:17.924675+00:00"
 }

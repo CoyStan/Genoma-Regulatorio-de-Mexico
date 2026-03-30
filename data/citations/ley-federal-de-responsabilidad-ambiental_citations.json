@@ -49,16 +49,16 @@
       "source_law": "ley-federal-de-responsabilidad-ambiental",
       "source_article": "2o",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "onsabilidad Ambiental;  XI. Leyes ambientales: La Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Navegación y Comercio Marítimos, la Ley de Aguas Nacionales, la Ley de Cambio Climático",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2642,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-federal-de-responsabilidad-ambiental",
@@ -79,16 +79,16 @@
       "source_law": "ley-federal-de-responsabilidad-ambiental",
       "source_article": "2o",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "y General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Navegación y Comercio Marítimos, la Ley de Aguas Nacionales, la Ley de Cambio Climático, y la Ley General de Bienes Nacionales; así como aquellos ordenamientos cuyo objeto o disposi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2763,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-federal-de-responsabilidad-ambiental",
@@ -109,16 +109,16 @@
       "source_law": "ley-federal-de-responsabilidad-ambiental",
       "source_article": "2o",
       "target_law_raw": "Ley de Cambio Climático",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-de-cambio-climatico",
       "target_article": null,
       "citation_text": "n Integral de los Residuos, la Ley General de Desarrollo Forestal Sustentable, la Ley de Navegación y Comercio Marítimos, la Ley de Aguas Nacionales, la Ley de Cambio Climático, y la Ley General de Bienes Nacionales; así como aquellos ordenamientos cuyo objeto o disposiciones se refieran a la preservación o restauración del ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2834,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8518518518518519,
+      "resolution_matched_alias": "ley general de cambio climático"
     },
     {
       "source_law": "ley-federal-de-responsabilidad-ambiental",
@@ -174,7 +174,7 @@
       "confidence": "medium",
       "char_offset": 1126,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -556,5 +556,5 @@
       "char_offset": 1607
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.601204+00:00"
+  "resolved_at": "2026-03-30T20:33:17.923615+00:00"
 }

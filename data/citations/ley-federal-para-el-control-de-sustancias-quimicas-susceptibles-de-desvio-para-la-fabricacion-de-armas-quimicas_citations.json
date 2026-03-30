@@ -82,16 +82,16 @@
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
       "source_article": "10",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "iones en materia de comercio exterior, conforme a lo establecido en los tratados internacionales de los que el Estado mexicano forma parte, esta Ley, la Ley de Comercio Exterior, la Ley Aduanera, la Ley General de Salud, la Ley Federal de Competencia Económica, la Ley General para la Prevención y Gestión Integral de los Resid",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 363,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
@@ -127,16 +127,16 @@
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
       "source_article": "10",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "stado mexicano forma parte, esta Ley, la Ley de Comercio Exterior, la Ley Aduanera, la Ley General de Salud, la Ley Federal de Competencia Económica, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley Federal de Armas de Fuego y Explosivos y los demás ordenamientos jurídicos que resulten aplicables.  Las autoridades a que se refiere el artí",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 475,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 232,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 1635,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 1224,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -271,5 +271,5 @@
       "char_offset": 16809
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.366343+00:00"
+  "resolved_at": "2026-03-30T20:33:19.148560+00:00"
 }

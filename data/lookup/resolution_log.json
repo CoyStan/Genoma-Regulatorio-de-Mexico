@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-30T12:19:03.877740+00:00",
+  "generated_at": "2026-03-30T20:33:34.154199+00:00",
   "total_citations": 12444,
-  "resolved": 9244,
-  "unresolved": 3200,
-  "resolution_rate": 0.7428,
+  "resolved": 10665,
+  "unresolved": 1779,
+  "resolution_rate": 0.857,
   "by_confidence": {
-    "unresolved": 5286,
-    "high": 2595,
-    "medium": 1211,
+    "unresolved": 3865,
+    "high": 3700,
+    "medium": 1527,
     "low": 3352
   },
   "top_cited_laws": [
@@ -172,24 +172,12 @@
       "count": 83
     },
     {
-      "raw_name": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "count": 63
-    },
-    {
-      "raw_name": "Ley de Coordinación Fiscal",
-      "count": 62
-    },
-    {
       "raw_name": "Ley Federal sobre Metrología y Normalización",
       "count": 52
     },
     {
       "raw_name": "Ley General para Prevenir",
       "count": 51
-    },
-    {
-      "raw_name": "Ley de los Sistemas de Ahorro para el Retiro",
-      "count": 48
     },
     {
       "raw_name": "Ley General para Prevenir y Sancionar los Delitos",
@@ -200,136 +188,12 @@
       "count": 47
     },
     {
-      "raw_name": "Ley de Desarrollo Rural Sustentable",
-      "count": 35
-    },
-    {
-      "raw_name": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "count": 34
-    },
-    {
-      "raw_name": "Ley de Inversión Extranjera",
-      "count": 33
-    },
-    {
-      "raw_name": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "count": 31
-    },
-    {
-      "raw_name": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "count": 31
-    },
-    {
-      "raw_name": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "count": 29
-    },
-    {
-      "raw_name": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "count": 29
-    },
-    {
-      "raw_name": "Ley de Aviación Civil",
-      "count": 28
-    },
-    {
-      "raw_name": "Ley de Asistencia Social",
-      "count": 27
-    },
-    {
-      "raw_name": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-      "count": 26
-    },
-    {
-      "raw_name": "Ley de la Economía Social y Solidaria",
-      "count": 26
-    },
-    {
-      "raw_name": "Ley de la Comisión Federal de Electricidad",
-      "count": 25
-    },
-    {
-      "raw_name": "Ley de los Institutos Nacionales de Salud",
-      "count": 25
-    },
-    {
-      "raw_name": "Ley del Servicio Exterior Mexicano",
-      "count": 24
-    },
-    {
-      "raw_name": "Ley de Ahorro y Crédito Popular",
-      "count": 24
-    },
-    {
-      "raw_name": "Ley de la Casa de Moneda de México",
-      "count": 24
-    },
-    {
-      "raw_name": "Ley de Ingresos sobre Hidrocarburos",
-      "count": 24
-    },
-    {
       "raw_name": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
       "count": 22
     },
     {
-      "raw_name": "Ley Federal contra la Delincuencia Organizada",
-      "count": 22
-    },
-    {
-      "raw_name": "Ley de Vías Generales de Comunicación",
-      "count": 21
-    },
-    {
-      "raw_name": "Ley de Ingresos de la Federación",
-      "count": 21
-    },
-    {
       "raw_name": "reglamento respectivo",
       "count": 21
-    },
-    {
-      "raw_name": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "count": 21
-    },
-    {
-      "raw_name": "Ley de Infraestructura de la Calidad",
-      "count": 20
-    },
-    {
-      "raw_name": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "count": 20
-    },
-    {
-      "raw_name": "Ley de la Comisión Nacional de Derechos Humanos",
-      "count": 19
-    },
-    {
-      "raw_name": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "count": 19
-    },
-    {
-      "raw_name": "Ley de Puertos",
-      "count": 18
-    },
-    {
-      "raw_name": "Ley del Servicio Militar",
-      "count": 18
-    },
-    {
-      "raw_name": "Ley de la Comisión Reguladora de Energía",
-      "count": 18
-    },
-    {
-      "raw_name": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "count": 18
-    },
-    {
-      "raw_name": "Ley de Comercio Exterior",
-      "count": 18
-    },
-    {
-      "raw_name": "Ley de Fomento para la Lectura y el Libro",
-      "count": 18
     },
     {
       "raw_name": "ley en la materia",
@@ -360,8 +224,144 @@
       "count": 13
     },
     {
-      "raw_name": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "count": 13
+      "raw_name": "Reglamento de este Código",
+      "count": 12
+    },
+    {
+      "raw_name": "Reglamento de la Ley",
+      "count": 12
+    },
+    {
+      "raw_name": "Reglamento de Reclutamiento de Personal para el Ejército",
+      "count": 10
+    },
+    {
+      "raw_name": "Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o",
+      "count": 10
+    },
+    {
+      "raw_name": "Ley que se abroga",
+      "count": 10
+    },
+    {
+      "raw_name": "Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación",
+      "count": 9
+    },
+    {
+      "raw_name": "Reglamento de la Ley del Seguro Social",
+      "count": 8
+    },
+    {
+      "raw_name": "Reglamento de la Ley de Migración",
+      "count": 8
+    },
+    {
+      "raw_name": "Ley de Inversión Extranjera y la Ley General de Turismo",
+      "count": 8
+    },
+    {
+      "raw_name": "reglamento expedido por el Ejecutivo Federal",
+      "count": 8
+    },
+    {
+      "raw_name": "Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto",
+      "count": 8
+    },
+    {
+      "raw_name": "Ley de Mecanismos Alternativos",
+      "count": 8
+    },
+    {
+      "raw_name": "Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales",
+      "count": 7
+    },
+    {
+      "raw_name": "Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley para su ingreso o permanencia",
+      "count": 6
+    },
+    {
+      "raw_name": "reglamento de esta Ley",
+      "count": 6
+    },
+    {
+      "raw_name": "reglamento correspondiente",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley en la materia",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo",
+      "count": 6
+    },
+    {
+      "raw_name": "Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley Nacional de Extinción de Dominio para su óptimo funcionamiento",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley del Congreso",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley de la Policía Federal Preventiva y se reforman diversas disposiciones de otros ordenamientos legales",
+      "count": 5
+    },
+    {
+      "raw_name": "reglamento de la Ley",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley para la Comprobación",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley para la Protección de los Derechos de Niñas",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley de Ingresos por un factor de 0",
+      "count": 5
+    },
+    {
+      "raw_name": "Ley del Notariado para el Distrito Federal y Territorios",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal",
+      "count": 4
+    },
+    {
+      "raw_name": "reglamento de este Código",
+      "count": 4
+    },
+    {
+      "raw_name": "ley por cuatro años",
+      "count": 4
+    },
+    {
+      "raw_name": "ley reglamentaria",
+      "count": 4
+    },
+    {
+      "raw_name": "ley respectiva",
+      "count": 4
     }
   ]
 }

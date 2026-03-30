@@ -39,7 +39,7 @@
       "confidence": "medium",
       "char_offset": 159,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -73,16 +73,16 @@
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "5o",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "ropias del hecho, así como las circunstancias de ejecución o a la relevancia social del mismo.  V.\tQue sean cometidos por la delincuencia organizada, en los términos de la Ley Federal contra la Delincuencia Organizada.  Para tal efecto la autoridad local deberá coadyuvar en todo momento con la autoridad federal en la integración de la investigación por delincuencia",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 996,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -118,16 +118,16 @@
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "9o",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": " de las entidades federativas, aplicarán supletoriamente las disposiciones del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, del Código Fiscal de la Federación, de la Ley Federal de Extinción de Dominio y de la Ley General del Sistema Nacional de Seguridad Pública. Artícul",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 305,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -160,16 +160,16 @@
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "25",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "r el significado del hecho, o no tenga capacidad de resistir la conducta, en cualquiera de las actividades delictivas señaladas en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada. Artículo reformado DOF 07-06-2024",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 341,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -220,16 +220,16 @@
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "45",
       "target_law_raw": "Ley de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "evio el procedimiento correspondiente y con intervención del representante legal, las consecuencias jurídicas accesorias correspondientes, con base a la Ley de Extinción de Dominio aplicable, además del decomiso de los fondos y bienes ilícitos producidos por los delitos previstos en esta Ley, sin excepción alguna.  El Ministerio Público F",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 477,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6792452830188679,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8571428571428571,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -355,16 +355,16 @@
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "75",
       "target_law_raw": "Ley sobre Refugiados y Protección Complementaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "target_article": null,
       "citation_text": "onal y, cuando existan necesidades de protección internacional, el derecho a acceder al procedimiento de reconocimiento de la condición de refugiado, previsto en la Ley sobre Refugiados y Protección Complementaria.  Bajo ninguna circunstancia se alojará a víctimas, nacionales o extranjeras, en centros preventivos, penitenciarios o estaciones migratorias o cualq",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 769,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5316455696202531,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8214285714285714,
+      "resolution_matched_alias": "ley sobre refugiados, protección complementaria y asilo político"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -450,7 +450,7 @@
       "confidence": "medium",
       "char_offset": 401,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48554913294797686,
+      "resolution_score": 0.5921787709497207,
       "resolution_matched_alias": null
     },
     {
@@ -480,7 +480,7 @@
       "confidence": "high",
       "char_offset": 91,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -495,7 +495,7 @@
       "confidence": "medium",
       "char_offset": 2197,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5581395348837209,
+      "resolution_score": 0.6551724137931034,
       "resolution_matched_alias": null
     },
     {
@@ -510,7 +510,7 @@
       "confidence": "medium",
       "char_offset": 7204,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -540,7 +540,7 @@
       "confidence": "medium",
       "char_offset": 8415,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -697,16 +697,16 @@
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "126",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "ey General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Desarrollo Forestal Sustentable, la Ley General de Vida Silvestre, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, la Ley General de Pesca y Acuacultura Sustentables, la Ley General de Bienes Nacionales, la Ley General de Prote",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9254,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -802,31 +802,31 @@
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "126",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "eral de Bienes Nacionales, la Ley General de Protección Civil, la Ley General de Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de Mé",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9572,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "126",
       "target_law_raw": "Ley de Fomento para la Lectura y el Libro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fomento-para-la-lectura-y-el-libro",
       "target_article": null,
       "citation_text": " Cultura Física y Deporte, la Ley General de Sociedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9652,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fomento para la lectura y el libro"
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -886,5 +886,5 @@
       "char_offset": 6364
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.804059+00:00"
+  "resolved_at": "2026-03-30T20:33:27.080622+00:00"
 }

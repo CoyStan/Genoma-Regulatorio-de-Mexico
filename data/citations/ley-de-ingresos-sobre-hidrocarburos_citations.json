@@ -34,16 +34,16 @@
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "2",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal de que se trate",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "lado en esta Ley, en cada Contrato y en las demás disposiciones aplicables. Dichos ingresos se exceptúan de las reglas de concentración contenidas en la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate y demás disposiciones jurídicas aplicables. Párrafo reformado DOF 18-03-2025",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1216,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5148514851485149,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.835820895522388,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -259,16 +259,16 @@
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "57",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "s por el impuesto por la actividad de exploración y extracción de hidrocarburos previsto en el presente Título.  Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga del impuesto por la actividad de exploración y extracción",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 281,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -282,7 +282,7 @@
       "confidence": "high",
       "char_offset": 1041,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -304,16 +304,16 @@
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "64",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal 2014",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "to en las fracciones anteriores, durante el ejercicio fiscal 2014 Petróleos Mexicanos y sus organismos subsidiarios estarán sujetos al régimen fiscal previsto en la Ley de Ingresos de la Federación para el Ejercicio Fiscal 2014. A partir del ejercicio fiscal 2015, no se establecerá en la Ley de Ingresos de la Federación correspondiente dicho régimen fiscal, por lo que Petról",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 4140,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4854368932038835,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9448818897637795,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -334,16 +334,16 @@
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "64",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "ocer las cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos previstos en la Ley de Ingresos sobre Hidrocarburos y su Reglamento, establecidas en los artículos que se precisan en dicha regla, aplicables a partir del 1 de enero de 2016.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 11964,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5853658536585366,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.813953488372093,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -387,7 +387,7 @@
       "confidence": "medium",
       "char_offset": 4276,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.6567164179104478,
       "resolution_matched_alias": null
     },
     {
@@ -417,23 +417,23 @@
       "confidence": "medium",
       "char_offset": 6833,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4472049689440994,
+      "resolution_score": 0.7153284671532847,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "64",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "res a los ingresos estimados para el mismo año de que se trate, en ambos casos descontando los pagos establecidos en la fracción I del artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo, el Gobierno Federal entregará a las entidades federativas y municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8321,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.44221105527638194,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.774869109947644,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -447,7 +447,7 @@
       "confidence": "medium",
       "char_offset": 8721,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5675675675675675,
       "resolution_matched_alias": null
     },
     {
@@ -462,23 +462,23 @@
       "confidence": "medium",
       "char_offset": 9146,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5227272727272727,
+      "resolution_score": 0.6776859504132231,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "64",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "que, en términos de este Decreto, se integran a la Recaudación Federal Participable conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, sean menores a las que hubieran recibido de haber aplicado a las asignaciones vigentes en el año que corresponda, las disposiciones de la Ley Federa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9467,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -511,31 +511,31 @@
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "55",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "ocer las cuotas actualizadas del Derecho de Exploración de Hidrocarburos y del Impuesto por la Actividad de Exploración y Extracción de Hidrocarburos previstos en la Ley de Ingresos sobre Hidrocarburos y su Reglamento, establecidas en los artículos que se precisan en dicha regla, aplicables a partir del 1 de enero de 2017.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 3369,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5853658536585366,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.813953488372093,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "55",
       "target_law_raw": "Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "r el que se expide la Ley de Ingresos sobre Hidrocarburos, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación.  Ciudad de México, a 26 de octubre de 2016.- Dip. Edmundo Javier Bolaños Ag",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1850,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4126984126984127,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7789473684210526,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -553,17 +553,17 @@
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "55",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos y 30 de su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": " 2023  ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2024  Cuotas actualizadas del DEXPH y del IAEEH  Para los efectos de los artículos 45 y 55 de la Ley de Ingresos sobre Hidrocarburos y 30 de su Reglamento, en relación con las reglas 1.9., fracción XXV y 10.19., se dan a conocer las cuotas actualizadas del DEXPH y del IAEEH, conforme a lo siguiente:  No",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 749,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7608695652173914,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     }
   ],
-  "resolved_at": "2026-03-30T12:18:46.114288+00:00"
+  "resolved_at": "2026-03-30T20:33:02.473002+00:00"
 }

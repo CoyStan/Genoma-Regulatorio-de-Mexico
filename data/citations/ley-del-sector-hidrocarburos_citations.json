@@ -31,16 +31,16 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "5",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "ría de Energía un Contrato para la Exploración y Extracción, ya sea de manera individual o en consorcio o asociación en participación, en términos de la Ley de Ingresos sobre Hidrocarburos; XVI.\tDistribución: Actividad que consiste en adquirir, recibir, guardar, trasladar y, en su caso, conducir un determinado volumen de Gas Natural o P",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4386,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -58,46 +58,46 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "8",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "lante y está a cargo de la Secretaría de Energía, autoridad que debe emitir el Plan de Desarrollo del Sector Hidrocarburos, en términos de esta Ley y la Ley de Planeación y Transición Energética. La planeación vinculante en el sector hidrocarburos debe considerar lo siguiente: I.\tPromover la justicia energética, la transición y la eficiencia ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 222,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "17",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "s permitan la mayor productividad y rentabilidad, siempre que la contraprestación se realice en efectivo. Dichas contrataciones deben llevarse a cabo conforme a lo dispuesto en la Ley de la Empresa Pública del Estado, Petróleos Mexicanos.",
       "pattern_name": "conforme_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 336,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7741935483870968,
+      "resolution_matched_alias": "ley de la empresa pública del estado, petróleos mexicanos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "25",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "ria de transparencia y rendición de cuentas, en términos de lo autorizado por el Consejo de Administración de Petróleos Mexicanos, de conformidad con lo dispuesto en la Ley de la Empresa Pública del Estado, Petróleos Mexicanos y los lineamientos que para tal efecto emita el Consejo de Administración de Petróleos Mexicanos, los cuales deberán publicarse ",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1689,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7741935483870968,
+      "resolution_matched_alias": "ley de la empresa pública del estado, petróleos mexicanos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -111,38 +111,38 @@
       "confidence": "high",
       "char_offset": 260,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "30",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "de producción de Hidrocarburos de la Asignación, deben cubrirse en primer término las obligaciones fiscales inherentes a la Asignación en términos de lo previsto en la Ley de Ingresos sobre Hidrocarburos; en segundo término, se debe cubrir la recuperación de costos que no puede ser mayor al treinta por ciento del ingreso obtenido, el resto de los ingr",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 203,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "38",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "rar alianzas o asociaciones para participar en los procesos de licitación de Contratos para la Exploración y Extracción, conforme a las disposiciones previstas en la Ley de la Empresa Pública del Estado, Petróleos Mexicanos. La legislación mercantil y el derecho común son aplicables para la celebración y ejecución de las alianzas o asociaciones a que",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 195,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7741935483870968,
+      "resolution_matched_alias": "ley de la empresa pública del estado, petróleos mexicanos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -178,16 +178,16 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "43",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "idad o producción compartida, o de licencia. Las contraprestaciones establecidas en los Contratos para la Exploración y Extracción se deben sujetar a lo dispuesto en la Ley de Ingresos sobre Hidrocarburos.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 410,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -223,16 +223,16 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "50",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "ue el Contrato para la Exploración y Extracción se puede formalizar de manera individual, en consorcio, o asociación en participación, en términos de la Ley de Ingresos sobre Hidrocarburos. El proceso de licitación inicia con la publicación de la convocatoria en el Diario Oficial de la Federación. El proceso de licitación comprende los ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 347,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -268,16 +268,16 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "54",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "nte, la Secretaría de Hacienda y Crédito Público debe establecer las condiciones económicas relativas a los términos fiscales que correspondan, según lo dispuesto en la Ley de Ingresos sobre Hidrocarburos.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 390,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -306,68 +306,68 @@
       "confidence": "high",
       "char_offset": 2645,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44776119402985076,
+      "resolution_score": 0.5277777777777778,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "58",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "e Hacienda y Crédito Público y al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo en el ejercicio de sus funciones, en términos de la Ley de Ingresos sobre Hidrocarburos; XIII.\tAprobar, en su caso, los programas anuales de inversión y operación de los Contratos para la Exploración y Extracción; XIV.\tDesarrollar, admin",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2824,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "59",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "citaciones y de los contratos que permitan a la Nación obtener, en el tiempo, ingresos que contribuyan a su desarrollo de largo plazo, en términos de lo dispuesto en la Ley de Ingresos sobre Hidrocarburos; II.\tDeterminar las variables de adjudicación de los procesos de licitación, en términos de la Ley de Ingresos sobre Hidrocarburos; III.\tParticipar e",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 367,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "71",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "ido, la Secretaría de Hacienda y Crédito Público debe establecer las condiciones económicas relativas a los términos fiscales que correspondan, según lo dispuesto en la Ley de Ingresos sobre Hidrocarburos.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 252,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "75",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "etaría de Energía y la Secretaría de Hacienda y Crédito Público en relación con los Contratos para la Exploración y Extracción con base en esta Ley y la Ley de Ingresos sobre Hidrocarburos. En materia de seguridad industrial, operativa y protección al medio ambiente, las personas Asignatarias y Contratistas son responsables de los daños",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1728,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -381,7 +381,7 @@
       "confidence": "high",
       "char_offset": 258,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37320574162679426,
+      "resolution_score": 0.4656084656084656,
       "resolution_matched_alias": null
     },
     {
@@ -396,7 +396,7 @@
       "confidence": "high",
       "char_offset": 836,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5276073619631901,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -423,7 +423,7 @@
       "confidence": "high",
       "char_offset": 6880,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -523,16 +523,16 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "153",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "o 152 de esta Ley, salvo en los casos siguientes: I.\tLos permisos de importación y exportación de Hidrocarburos y Petrolíferos se otorgan con base en la Ley de Comercio Exterior; II.\tLas autorizaciones que soliciten las personas Asignatarias y Contratistas para realizar actividades en materia de Hidrocarburos dentro del Área ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 497,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -553,31 +553,31 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "166",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "aciones de calidad de las mezclas permitidas, se cuente con la infraestructura de la calidad necesaria para la evaluación de la conformidad de estas, de acuerdo con la Ley de Infraestructura de la Calidad, y la Secretaría de Energía emita la declaratoria correspondiente. Décimo Octavo.- La Secretaría de Energía se coordinará con la Secretaría de Infrae",
       "pattern_name": "de_acuerdo",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 7529,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "166",
       "target_law_raw": "Ley de la Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "iones de calidad correspondientes, la Comisión Nacional de Energía puede auxiliarse de laboratorios de prueba acreditados y aprobados, en términos de lo dispuesto en la Ley de la Infraestructura de la Calidad; II.\tPara efectos de lo dispuesto en la fracción anterior, las personas Permisionarias de importación, transporte por medios distintos a ductos, alma",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 13181,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.96,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -613,16 +613,16 @@
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "166",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "e en los lineamientos técnicos que establezca la Secretaría de Energía y las condiciones económicas relativas a los términos fiscales que, conforme a la Ley de Ingresos sobre Hidrocarburos, disponga la Secretaría de Hacienda y Crédito Público, siempre y cuando no se afecte el balance de los ingresos esperados para el Estado. En la elabo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8703,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -637,5 +637,5 @@
       "char_offset": 15266
     }
   ],
-  "resolved_at": "2026-03-30T12:18:52.175625+00:00"
+  "resolved_at": "2026-03-30T20:33:11.885657+00:00"
 }

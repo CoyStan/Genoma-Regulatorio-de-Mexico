@@ -30,7 +30,7 @@
       "confidence": "medium",
       "char_offset": 641,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 492,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.475,
+      "resolution_score": 0.4810126582278481,
       "resolution_matched_alias": null
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "medium",
       "char_offset": 944,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.35064935064935066,
+      "resolution_score": 0.422360248447205,
       "resolution_matched_alias": null
     },
     {
@@ -132,7 +132,7 @@
       "confidence": "high",
       "char_offset": 298,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4489795918367347,
+      "resolution_score": 0.5538461538461539,
       "resolution_matched_alias": null
     },
     {
@@ -147,7 +147,7 @@
       "confidence": "high",
       "char_offset": 30736,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
+      "resolution_score": 0.684931506849315,
       "resolution_matched_alias": null
     },
     {
@@ -162,7 +162,7 @@
       "confidence": "high",
       "char_offset": 32179,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6333333333333333,
+      "resolution_score": 0.6575342465753424,
       "resolution_matched_alias": null
     },
     {
@@ -177,38 +177,38 @@
       "confidence": "high",
       "char_offset": 44499,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "76",
       "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "target_article": null,
       "citation_text": "o en el Diario Oficial de la Federación el 12 de junio de 2009  Artículo Segundo.- Se reforman los artículos 35, fracción I, y 60, párrafo primero de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:  .  Transitorios  Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2256,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8309859154929577,
+      "resolution_matched_alias": "ley de ascensos y recompensas del ejército, fuerza aérea y guardia nacional"
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "76",
       "target_law_raw": "Ley de Ascensos de la Armada de México",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ascensos-de-la-armada-de-mexico",
       "target_article": null,
       "citation_text": "lo 31 y se adiciona un artículo 31 Bis, a la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos; y se adiciona un artículo 44 Bis, a la Ley de Ascensos de la Armada de México.  Publicado en el Diario Oficial de la Federación el 1 de junio de 2011  ARTÍCULO PRIMERO.- Se reforma la fracción I del artículo 31 y se adiciona un",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3517,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6557377049180327,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ascensos de la armada de méxico"
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -237,7 +237,7 @@
       "confidence": "medium",
       "char_offset": 6388,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4503311258278146,
+      "resolution_score": 0.7421383647798742,
       "resolution_matched_alias": null
     },
     {
@@ -274,16 +274,16 @@
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "76",
       "target_law_raw": "Ley de la Guardia Nacional y se reforman",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-guardia-nacional",
       "target_article": null,
       "citation_text": "de los Estados Unidos Mexicanos.- Rúbrica.- Lcda. Rosa Icela Rodríguez Velázquez, Secretaria de Gobernación.- Rúbrica.   DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexican",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 40876,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7878787878787878,
+      "resolution_matched_alias": "ley de la guardia nacional"
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -297,7 +297,7 @@
       "confidence": "medium",
       "char_offset": 44393,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
+      "resolution_score": 0.5806451612903226,
       "resolution_matched_alias": null
     },
     {
@@ -313,5 +313,5 @@
       "char_offset": 1228
     }
   ],
-  "resolved_at": "2026-03-30T12:18:42.858762+00:00"
+  "resolved_at": "2026-03-30T20:32:55.734775+00:00"
 }

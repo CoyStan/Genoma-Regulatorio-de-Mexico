@@ -127,16 +127,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "19-B",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "ón de los acuerdos que expidan los titulares de las dependencias del Ejecutivo Federal y las convocatorias públicas abiertas de plazas, que establece la Ley del Servicio Profesional de Carrera en la Administración Pública Federal. Párrafo reformado DOF 01-12-2004, 09-12-2019, 08-12-2020  La obligación de publicación en el Diario Oficial de la Federación a que se refiere el pár",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 643,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -154,16 +154,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "20",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "cciones anteriores únicamente se destinarán al gasto de los consulados en los términos del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los servicios que sean prestados en el territorio nacional. Párrafo adicionado DOF 04-06-2002. Reformado DOF 30-12-2002, 24-12-2007",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1490,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -199,16 +199,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "22",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "e se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los que sean prestados en territorio nacional. Párrafo adicionado DOF 04-06-2002 Artículo reformado DOF 28-12-1989, 26-12-1990, 20-",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3759,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -222,23 +222,23 @@
       "confidence": "high",
       "char_offset": 1547,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5633802816901409,
+      "resolution_score": 0.6506024096385542,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "23",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "e se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano. Párrafo adicionado DOF 04-06-2002 Artículo reformado DOF 26-12-1990, 20-12-1991",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2270,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -256,31 +256,31 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "25",
       "target_law_raw": "Ley de Inversión Extranjera $9",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "terior $8,977.07  c).\tPor la solicitud extemporánea del permiso para la ampliación de la vigencia de los contratos de fideicomiso, de conformidad con lo dispuesto en la Ley de Inversión Extranjera $9,782.10  d).\tPara los demás casos no señalados en los incisos anteriores $659.22 Fracción reformada DOF 28-12-1994, 15-12-1995, 29-12-1997, 31-12-2000",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1237,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9473684210526315,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "25",
       "target_law_raw": "Ley de Inversión Extranjera $19",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "la expedición de permisos para la constitución de fideicomisos:  a).\tPor los permisos para constituir fideicomisos a que se refiere el artículo 11 de la Ley de Inversión Extranjera $19,952.46  b).\tPara la modificación de los permisos para la constitución de los fideicomisos a que se refiere el inciso anterior $8,977.07  c).\tPor la s",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 933,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5396825396825397,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9310344827586207,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -310,31 +310,31 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "29",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "ecorrida DOF 27-12-2006  XI.\tPor el estudio y trámite de la solicitud y, en su caso, autorización para laconstitución y operación de las Federaciones a que se refiere la Ley de Ahorro y Crédito Popular. $56,426.47 Fracción adicionada DOF 01-12-2004. Recorrida DOF 27-12-2006. Reformada DOF 18-11-2010  XII.\tPor el estudio y trámite de la solicitud y, ",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2249,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "29",
       "target_law_raw": "Ley de Ahorro y Crédito Popular $33",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "de sociedades financieras populares, sociedades financieras comunitarias con niveles de operación I a IV y Organismos de Integración Financiera Rural a que se refiere la Ley de Ahorro y Crédito Popular $33,855.88  El derecho a que se refiere esta fracción se pagará también por el estudio y trámite de la solicitud y, en su caso, autorización para realiza",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2658,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5151515151515151,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9393939393939394,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -435,7 +435,7 @@
       "confidence": "high",
       "char_offset": 7216,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.7294117647058823,
       "resolution_matched_alias": null
     },
     {
@@ -555,7 +555,7 @@
       "confidence": "high",
       "char_offset": 7129,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4418604651162791,
+      "resolution_score": 0.7209302325581395,
       "resolution_matched_alias": null
     },
     {
@@ -622,16 +622,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "29-E",
       "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fondos-de-inversion",
       "target_article": null,
       "citation_text": " al sector de Sociedades Distribuidoras de Acciones de Fondos de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Fondos de Inversión, pagará conforme a lo siguiente: Párrafo reformado DOF 07-12-2016  a).\tQue actúen como referenciadoras: $70,960.77 Inciso reformado DOF 01-12-2004, 2",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8312,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fondos de inversión"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -784,16 +784,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "49",
       "target_law_raw": "Ley de los Impuestos Generales de Importación y de Exportación o a los Tratados Internacionales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
       "target_article": null,
       "citation_text": "puesto general de importación, en los casos distintos a los señalados en las siguientes fracciones o cuando se trate de mercancías exentas conforme a la Ley de los Impuestos Generales de Importación y de Exportación o a los Tratados Internacionales. Fracción reformada DOF 01-12-2004  II.\tDel 1.76 al millar sobre el valor que tengan los bienes, tratándose de la importación temporal de bienes de a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 508,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5234899328859061,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7898089171974523,
+      "resolution_matched_alias": "ley de los impuestos generales de importación y de exportación"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -852,38 +852,38 @@
       "confidence": "medium",
       "char_offset": 1831,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5588235294117647,
+      "resolution_score": 0.7469879518072289,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "61",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "revistos en las Normas Oficiales Mexicanas expedidas por estas dependencias, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $3,721.68 Artículo adicionado DOF 01-12-2004. Reformado DOF 13-11-2008, 18-11-2010, 14-11-2022",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 479,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "73-G",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": " previstos en las Normas Oficiales Mexicanas expedidas por esta dependencia, en términos de lo dispuesto por los artículos 63 y Quinto Transitorio de la Ley de Infraestructura de la Calidad, se pagarán derechos conforme a la cuota de $14,472.77 Artículo adicionado DOF 18-11-2015. Reformado DOF 14-11-2022",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 397,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -912,23 +912,23 @@
       "confidence": "medium",
       "char_offset": 7963,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "154",
       "target_law_raw": "Ley de Aeropuertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aeropuertos",
       "target_article": null,
       "citation_text": "Artículo 154.- Por el otorgamiento de las concesiones y permisos señalados en la Ley de Aeropuertos, se pagarán derechos conforme a las siguientes cuotas:  I.-\tPor cada concesión de aeropuertos $63,115.53  a).-\tPor su modificación $8,048.82 Fracción",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 65,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6842105263157895,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aeropuertos"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -942,23 +942,23 @@
       "confidence": "high",
       "char_offset": 49,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44285714285714284,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "159",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "Artículo 159.- Por los servicios relacionados con el otorgamiento de las concesiones, permisos o autorizaciones señalados en la Ley de Aviación Civil, se pagarán derechos conforme a las siguientes cuotas:  I.-\tConcesión $60,275.59 Fracción reformada DOF 07-11-2025  II.-\tPermiso $28,555.90 Párrafo r",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 112,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -1033,16 +1033,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "192-A",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "que se refiere la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano;  c).\tPuentes carreteros de caminos y carreteras a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal;  d).\tPuentes ferroviarios de vías férreas que sean vías generales de comunicación a que se refiere la Ley Reglamen",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1789,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -1108,46 +1108,46 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "195-Z-7",
       "target_law_raw": "Reglamento de la Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "Artículo 195-Z-7. Por la revisión de los documentos técnicos, de embarcaciones y artefactos navales, establecidos en el Reglamento de la Ley de Navegación y Comercio Marítimos y, en su caso, expedición del documento de cumplimiento, se pagará por cada documento presentado, las siguientes cuotas:  I.\tHasta 200 unidades de arqu",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 101,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8172043010752689,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "213",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "ncuentren fideicomitidos, así como los que el organismo entere a la Federación por concepto de coordinación fiscal, de acuerdo con el artículo 9-A de la Ley de Coordinación Fiscal. Párrafo reformado DOF 11-12-2013  El derecho a que se refiere este artículo, se causará en el momento en que se cobren o sean exigibles los pagos a ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 718,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "219",
       "target_law_raw": "Ley de Aeropuertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aeropuertos",
       "target_article": null,
       "citation_text": "Artículo 219.- Las personas titulares de asignaciones y concesiones a que se refiere la Ley de Aeropuertos, así como los organismos descentralizados, que lleven a cabo la administración, operación, conservación, explotación y, en su caso, construcción de a",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 68,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6842105263157895,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aeropuertos"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -1161,7 +1161,7 @@
       "confidence": "high",
       "char_offset": 54,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
+      "resolution_score": 0.5765765765765766,
       "resolution_matched_alias": null
     },
     {
@@ -1176,23 +1176,23 @@
       "confidence": "high",
       "char_offset": 331,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.6923076923076923,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "220-A",
       "target_law_raw": "Ley de Aeropuertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aeropuertos",
       "target_article": null,
       "citation_text": "Artículo 220-A. Las personas titulares de concesiones a que se refiere la Ley de Aeropuertos, determinarán el derecho, por cada ejercicio fiscal, aplicando la tasa del 9% a la suma de los ingresos brutos por servicios aeroportuarios, compleme",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 54,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6842105263157895,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aeropuertos"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -1206,7 +1206,7 @@
       "confidence": "high",
       "char_offset": 265,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.6923076923076923,
       "resolution_matched_alias": null
     },
     {
@@ -1251,7 +1251,7 @@
       "confidence": "high",
       "char_offset": 5750,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49,
+      "resolution_score": 0.49101796407185627,
       "resolution_matched_alias": null
     },
     {
@@ -1273,31 +1273,31 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "232",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "atándose de los siguientes casos:  a). Las personas físicas y morales que estén obligadas a pagar el aprovechamiento establecido en el artículo 37 de la Ley de Puertos;  b). Las personas físicas o morales contratadas por dependencias del Gobierno Federal o por sus organismos descentralizados, para la realización de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4602,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "232-A",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "os públicos distintos a los señalados en el artículo anterior, así como los permisionarios de servicios portuarios a que se refiere el artículo 37 de la Ley de Puertos, pagarán el derecho de uso, goce o explotación que ascenderá al 5% de los ingresos brutos que obtengan por esos conceptos.  No pagarán los derechos a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 328,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -1311,7 +1311,7 @@
       "confidence": "medium",
       "char_offset": 1253,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -1423,16 +1423,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "275",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "ículo 275. Los Estados y la Ciudad de México participarán en los ingresos de los derechos sobre minería a que se refiere el artículo 263 de esta Ley, en los términos de la Ley de Coordinación Fiscal. Párrafo reformado DOF 07-12-2016  Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal parti",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 153,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -1573,16 +1573,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "Riego y que hayan sido solicitadas y conectadas con los usuarios de los mismos distritos.\"  \"ARTICULO DECIMO.- Durante 1984, en aquellos casos en que de conformidad con la Ley de Coordinación Fiscal, el derecho por el uso o goce de inmuebles lo recauden los municipios, los contribuyentes de este derecho, a excepción de los que realicen las activi",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 39801,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -1641,7 +1641,7 @@
       "confidence": "high",
       "char_offset": 196355,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37894736842105264,
+      "resolution_score": 0.4482758620689655,
       "resolution_matched_alias": null
     },
     {
@@ -1671,7 +1671,7 @@
       "confidence": "high",
       "char_offset": 217205,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.6470588235294118,
       "resolution_matched_alias": null
     },
     {
@@ -2001,7 +2001,7 @@
       "confidence": "medium",
       "char_offset": 19755,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.5666666666666667,
       "resolution_matched_alias": null
     },
     {
@@ -2218,16 +2218,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": " 21:00 horas.  ARTICULO VIGESIMO.- En tanto la Secretaría de Hacienda y Crédito Público no fije el aprovechamiento a que se refiere el artículo 37 de la Ley de Puertos, los administradores portuarios, así como los demás concesionarios de terminales marinas e instalaciones portuarias, deberán cubrir al gobierno feder",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 206168,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2241,7 +2241,7 @@
       "confidence": "medium",
       "char_offset": 215262,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -2308,16 +2308,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 1999",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "dos los ejercicios que se adeuden, con los recargos que correspondan de conformidad con la tasa más favorable calculada en términos del artículo 6 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 1999.  Los contribuyentes que decidan pagar el derecho en una sola exhibición, deberán hacerlo antes del 30 de junio de 1999.  Aquellos contribuyentes que",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 308179,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9384615384615385,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2503,16 +2503,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal de que se trate",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ril de petróleo crudo mexicano exportado igual al precio de exportación considerado en la estimación de los ingresos contenidos en el artículo 1o. de la Ley de Ingresos de la Federación del ejercicio fiscal de que se trate, se destinarán a financiar gasto de infraestructura física en el Presupuesto de Egresos de la Federación para el ejercicio en el que entre en vigor e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 468832,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5148514851485149,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.835820895522388,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2736,7 +2736,7 @@
       "confidence": "medium",
       "char_offset": 610750,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.55,
+      "resolution_score": 0.647887323943662,
       "resolution_matched_alias": null
     },
     {
@@ -2773,31 +2773,31 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de Ingresos sobre Hidrocarburos, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley de Coordinación Fiscal y se expide la Ley del Fond",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 628789,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "r el que se expide la Ley de Ingresos sobre Hidrocarburos, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.  Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014  ARTÍCULO TERCERO. Se REFORMA el artículo 223, apartado B, fracción II; se ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 628920,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4126984126984127,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7789473684210526,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2818,16 +2818,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "res a los ingresos estimados para el mismo año de que se trate, en ambos casos descontando los pagos establecidos en la fracción I del artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo, el Gobierno Federal entregará a las entidades federativas y municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 631367,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.44221105527638194,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.774869109947644,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2841,7 +2841,7 @@
       "confidence": "medium",
       "char_offset": 631767,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5675675675675675,
       "resolution_matched_alias": null
     },
     {
@@ -2856,7 +2856,7 @@
       "confidence": "medium",
       "char_offset": 632192,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5227272727272727,
+      "resolution_score": 0.6776859504132231,
       "resolution_matched_alias": null
     },
     {
@@ -2923,16 +2923,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Cooperación Internacional para el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-cooperacion-internacional-para-el-desarrollo",
       "target_article": null,
       "citation_text": "ETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 674906,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de cooperación internacional para el desarrollo"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2976,7 +2976,7 @@
       "confidence": "medium",
       "char_offset": 675233,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -3021,7 +3021,7 @@
       "confidence": "medium",
       "char_offset": 684690,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37185929648241206,
+      "resolution_score": 0.4482758620689655,
       "resolution_matched_alias": null
     },
     {
@@ -3067,5 +3067,5 @@
       "char_offset": 7108
     }
   ],
-  "resolved_at": "2026-03-30T12:18:54.373012+00:00"
+  "resolved_at": "2026-03-30T20:33:14.872067+00:00"
 }

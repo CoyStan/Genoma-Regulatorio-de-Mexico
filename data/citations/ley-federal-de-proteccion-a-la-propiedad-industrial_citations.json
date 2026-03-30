@@ -45,7 +45,7 @@
       "confidence": "high",
       "char_offset": 461,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4823529411764706,
+      "resolution_score": 0.6181818181818182,
       "resolution_matched_alias": null
     },
     {
@@ -105,7 +105,7 @@
       "confidence": "medium",
       "char_offset": 771,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5573770491803278,
+      "resolution_score": 0.6486486486486487,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 1636,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.42953020134228187,
+      "resolution_score": 0.46616541353383456,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "high",
       "char_offset": 683,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -150,7 +150,7 @@
       "confidence": "high",
       "char_offset": 8982,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 2060,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 318,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 573,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 243,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -330,7 +330,7 @@
       "confidence": "high",
       "char_offset": 6656,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -360,7 +360,7 @@
       "confidence": "medium",
       "char_offset": 1643,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7297297297297297,
+      "resolution_score": 0.6326530612244898,
       "resolution_matched_alias": null
     },
     {
@@ -592,31 +592,31 @@
       "source_law": "ley-federal-de-proteccion-a-la-propiedad-industrial",
       "source_article": "410",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15344,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-federal-de-proteccion-a-la-propiedad-industrial",
       "source_article": "410",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15427,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-federal-de-proteccion-a-la-propiedad-industrial",
@@ -631,5 +631,5 @@
       "char_offset": 8661
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.282003+00:00"
+  "resolved_at": "2026-03-30T20:33:17.520096+00:00"
 }

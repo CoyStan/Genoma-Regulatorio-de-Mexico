@@ -178,16 +178,16 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "17",
       "target_law_raw": "Decreto del Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente",
-      "target_law_id": "unresolved",
+      "target_law_id": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
       "target_article": null,
       "citation_text": "so de los Tiempos de Estado y de los Tiempos Fiscales, conforme a lo dispuesto por la Ley Federal de Telecomunicaciones y Radiodifusión, así como por el Decreto del Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente, salvo en el caso de los Tiempos Oficiales que en distintos momentos corresponda administrar al Instituto Nacional Electoral, conforme a lo estableci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 210,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.43661971830985913,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7643312101910829,
+      "resolution_matched_alias": "presupuesto de egresos de la federación para el ejercicio fiscal 2025"
     },
     {
       "source_law": "ley-general-de-comunicacion-social",
@@ -244,16 +244,16 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "38",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": " de los recursos públicos federales en materia de Comunicación Social se realizará a través de la Auditoría Superior de la Federación, en términos de lo dispuesto por la Ley de Fiscalización y Rendición de Cuentas de la Federación.] Párrafo reformado DOF 27-12-2022 Párrafo declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos le",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 192,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-general-de-comunicacion-social",
@@ -268,5 +268,5 @@
       "char_offset": 3222
     }
   ],
-  "resolved_at": "2026-03-30T12:18:57.128502+00:00"
+  "resolved_at": "2026-03-30T20:33:20.751374+00:00"
 }

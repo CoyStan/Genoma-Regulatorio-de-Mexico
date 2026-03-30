@@ -22,16 +22,16 @@
       "source_law": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "source_article": "2",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "presente Ley, según el tipo de Entidad de que se trate, los ordenamientos que a continuación se indican:  I. La Ley de Instituciones de Crédito;  II. La Ley de Ahorro y Crédito Popular;  III. La Ley General de Organizaciones y Actividades Auxiliares del Crédito;  III Bis. La Ley para Regular las Instituciones de Tecnología Financier",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 196,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
@@ -150,7 +150,7 @@
       "confidence": "high",
       "char_offset": 4165,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.39759036144578314,
+      "resolution_score": 0.4606741573033708,
       "resolution_matched_alias": null
     },
     {
@@ -514,16 +514,16 @@
       "source_law": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "source_article": "53",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "nformación Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.  Publicado en el Diario Oficial de la Fede",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21250,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
@@ -583,5 +583,5 @@
       "char_offset": 4594
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.732841+00:00"
+  "resolved_at": "2026-03-30T20:33:31.345485+00:00"
 }

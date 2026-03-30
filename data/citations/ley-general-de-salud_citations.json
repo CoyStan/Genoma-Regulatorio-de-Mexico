@@ -69,7 +69,7 @@
       "confidence": "medium",
       "char_offset": 224,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
+      "resolution_score": 0.6451612903225806,
       "resolution_matched_alias": null
     },
     {
@@ -169,16 +169,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "77",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "o del presente artículo, con la documentación que acredite la aportación de los mismos al fideicomiso antes referido, lo anterior, para efectos de lo establecido en la Ley de Coordinación Fiscal, en la Ley General de Contabilidad Gubernamental, y en las demás disposiciones aplicables. Párrafo adicionado DOF 29-05-2023. Reformado DOF 03-01-202",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2971,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -199,16 +199,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "77",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "ales y administrativas federales y, por lo que hace a la ejecución de los recursos a que se refiere este Título, la misma se realizará en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación. Fracción reformada DOF 04-06-2014, 29-11-2019, 29-05-2023  Cuando las autoridades federales o locales que en el ejercicio de sus atribuciones de con",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2292,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -307,16 +307,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "161",
       "target_law_raw": "Ley General para la Detención Oportuna del Cáncer en la Infancia y la Adolescencia",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-deteccion-oportuna-del-cancer-en-la-infancia-y-la-adolescencia",
       "target_article": null,
       "citation_text": "ecretaría.  VI.\tEl Registro contará adicionalmente, con un rubro específico para la información a que se refiere el Capítulo II del Título Tercero de la Ley General para la Detención Oportuna del Cáncer en la Infancia y la Adolescencia. Fracción adicionada DOF 07-01-2021  La Secretaría integrará la información demográfica del Registro Nacional de Cáncer de todo el territorio naciona",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1219,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5138888888888888,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9878048780487805,
+      "resolution_matched_alias": "ley general para la detección oportuna del cáncer en la infancia y la adolescencia"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -381,7 +381,7 @@
       "confidence": "high",
       "char_offset": 1829,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47761194029850745,
+      "resolution_score": 0.6111111111111112,
       "resolution_matched_alias": null
     },
     {
@@ -396,7 +396,7 @@
       "confidence": "high",
       "char_offset": 1042,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4946236559139785,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -453,7 +453,7 @@
       "confidence": "high",
       "char_offset": 738,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -562,16 +562,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "s, podrán adherirse las familias cuya incorporación pueda ser cubierta con cargo a los recursos del Fondo de Aportaciones para los Servicios de Salud a que se refiere la Ley de Coordinación Fiscal, con cargo a los recursos de los programas del Ramo Administrativo 12 Salud del Presupuesto de Egresos de la Federación y, con cargo a los recursos p",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 20356,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -615,7 +615,7 @@
       "confidence": "medium",
       "char_offset": 1668,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
+      "resolution_score": 0.6540880503144654,
       "resolution_matched_alias": null
     },
     {
@@ -690,7 +690,7 @@
       "confidence": "medium",
       "char_offset": 49865,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -705,23 +705,23 @@
       "confidence": "medium",
       "char_offset": 57360,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6875,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley General para el Control del Tabaco",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-el-control-del-tabaco",
       "target_article": null,
       "citation_text": " Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.   DECRETO por el que se expide la Ley General para el Control del Tabaco; y deroga y reforma diversas disposiciones de la Ley General de Salud.  Publicado en el Diario Oficial de la Federación el 30 de mayo de 2008  ARTÍCU",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 61025,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6229508196721312,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para el control del tabaco"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -735,7 +735,7 @@
       "confidence": "medium",
       "char_offset": 74289,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -750,7 +750,7 @@
       "confidence": "medium",
       "char_offset": 75034,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3696682464454976,
+      "resolution_score": 0.44715447154471544,
       "resolution_matched_alias": null
     },
     {
@@ -765,7 +765,7 @@
       "confidence": "medium",
       "char_offset": 82966,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47761194029850745,
+      "resolution_score": 0.6111111111111112,
       "resolution_matched_alias": null
     },
     {
@@ -787,16 +787,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "es de la Administración Pública Federal para dar cumplimiento al presente Decreto, deberán cubrirse en función de los ingresos disponibles conforme a la Ley de Ingresos de la Federación, y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 116138,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -870,7 +870,7 @@
       "confidence": "medium",
       "char_offset": 141064,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6075949367088608,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -900,7 +900,7 @@
       "confidence": "medium",
       "char_offset": 187650,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44221105527638194,
+      "resolution_score": 0.4642857142857143,
       "resolution_matched_alias": null
     },
     {
@@ -975,7 +975,7 @@
       "confidence": "medium",
       "char_offset": 230884,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4409448818897638,
+      "resolution_score": 0.6617647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -997,16 +997,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "dir las disposiciones jurídicas necesarias para la aplicación del presente Decreto.  Tercero. La Secretaría de Salud, en términos de lo que establece la Ley de Infraestructura de la Calidad, deberá adecuar las normas oficiales mexicanas relacionadas con las disposiciones establecidas por este Decreto.  Cuarto. A partir de la publicación ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 244558,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1057,46 +1057,46 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
       "target_article": null,
       "citation_text": " de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256070,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5202312138728323,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la agencia nacional de seguridad industrial y de protección al medio ambiente del sector hidrocarburos"
     },
     {
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de la Comisión Federal de Electricidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "target_article": null,
       "citation_text": "eminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Públic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256187,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.647887323943662,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de la empresa pública del estado, comisión federal de electricidad"
     },
     {
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "cia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Inst",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256237,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1132,16 +1132,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "icias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitució",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256477,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1162,31 +1162,31 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de la Economía Social y Solidaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-economia-social-y-solidaria",
       "target_article": null,
       "citation_text": "es de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256596,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la economía social y solidaria"
     },
     {
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de la Casa de Moneda de México",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-casa-de-moneda-de-mexico",
       "target_article": null,
       "citation_text": "a del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de A",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256800,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7017543859649122,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la casa de moneda de méxico"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1207,16 +1207,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "s Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256878,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1237,16 +1237,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de Asistencia Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asistencia-social",
       "target_article": null,
       "citation_text": "a de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la L",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256976,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asistencia social"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1372,16 +1372,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de los Institutos Nacionales de Salud",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-institutos-nacionales-de-salud",
       "target_article": null,
       "citation_text": " Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 257560,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6944444444444444,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los institutos nacionales de salud"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1395,7 +1395,7 @@
       "confidence": "medium",
       "char_offset": 257609,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -1597,31 +1597,31 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 289599,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 289682,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1636,5 +1636,5 @@
       "char_offset": 3860
     }
   ],
-  "resolved_at": "2026-03-30T12:18:59.036002+00:00"
+  "resolved_at": "2026-03-30T20:33:24.176545+00:00"
 }

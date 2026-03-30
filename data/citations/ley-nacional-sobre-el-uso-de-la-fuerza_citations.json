@@ -64,16 +64,16 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "21",
       "target_law_raw": "Ley Nacional del Registro de Detenciones",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-del-registro-de-detenciones",
       "target_article": null,
       "citation_text": "señale como delito, o que impliquen una violación grave a los derechos humanos; así como por el cumplimiento de las disposiciones correspondientes de la Ley Nacional del Registro de Detenciones.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 987,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional del registro de detenciones"
     },
     {
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
@@ -94,31 +94,31 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "44",
       "target_law_raw": "Ley Nacional sobre el Uso de la Fuerza en su integridad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "target_article": null,
       "citation_text": " se resuelve la acción de inconstitucionalidad 64/2019 promovida por la Comisión Nacional de los Derechos Humanos, en la que solicita la invalidez de la Ley Nacional sobre el Uso de la Fuerza en su integridad, con motivo de diversas omisiones legislativas relativas en competencia de ejercicio obligatorio, así como la invalidez, en particular, de los artícu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7519,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8172043010752689,
+      "resolution_matched_alias": "ley nacional sobre el uso de la fuerza"
     },
     {
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "44",
       "target_law_raw": "Ley Nacional Sobre Uso de la Fuerza",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "target_article": null,
       "citation_text": "s artículos 6, fracción VI, en la porción normativa fuerza epiletal, 27, primer párrafo, 28 y 36, en la porción normativa desde la planeación, de la Ley Nacional Sobre Uso de la Fuerza, expedida por Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve.    227.\tEn términos de lo expuest",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7869,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5833333333333334,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.958904109589041,
+      "resolution_matched_alias": "ley nacional sobre el uso de la fuerza"
     },
     {
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
@@ -133,5 +133,5 @@
       "char_offset": 1039
     }
   ],
-  "resolved_at": "2026-03-30T12:19:01.313851+00:00"
+  "resolved_at": "2026-03-30T20:33:28.080594+00:00"
 }

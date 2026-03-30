@@ -15,38 +15,38 @@
       "confidence": "medium",
       "char_offset": 4120,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4508670520231214,
+      "resolution_score": 0.46153846153846156,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aeropuertos",
       "source_article": "2",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "ros y operaciones de aeronaves para uso particular, incluyendo al taxi aéreo que reúna los requisitos y condiciones establecidas en el artículo 23 de la Ley de Aviación Civil. Lo anterior, de conformidad con las reglas y lineamientos que en su caso expida la Secretaría; Fracción adicionada DOF 26-01-2015. Reformada DOF 03-",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4335,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-aeropuertos",
       "source_article": "4",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": " Unidos Mexicanos. A falta de disposición expresa, se aplicarán supletoriamente las disposiciones contenidas en: Párrafo reformado DOF 03-05-2023  I. La Ley de Vías Generales de Comunicación;  II. La Ley General de Bienes Nacionales;  III. La Ley de Aviación Civil;  IV. La Ley Federal de Procedimiento Administrativo;  V. La Ley de Infraes",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 345,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-aeropuertos",
@@ -67,16 +67,16 @@
       "source_law": "ley-de-aeropuertos",
       "source_article": "4",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "iciones contenidas en: Párrafo reformado DOF 03-05-2023  I. La Ley de Vías Generales de Comunicación;  II. La Ley General de Bienes Nacionales;  III. La Ley de Aviación Civil;  IV. La Ley Federal de Procedimiento Administrativo;  V. La Ley de Infraestructura de la Calidad, y Fracción reformada DOF 03-05-2023  VI.\tLos códig",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 435,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-aeropuertos",
@@ -97,16 +97,16 @@
       "source_law": "ley-de-aeropuertos",
       "source_article": "4",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "s de Comunicación;  II. La Ley General de Bienes Nacionales;  III. La Ley de Aviación Civil;  IV. La Ley Federal de Procedimiento Administrativo;  V. La Ley de Infraestructura de la Calidad, y Fracción reformada DOF 03-05-2023  VI.\tLos códigos de Comercio; Civil Federal, y Nacional de Procedimientos Civiles y Familiares. Fracción reforma",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 518,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-aeropuertos",
@@ -147,7 +147,7 @@
       "confidence": "medium",
       "char_offset": 1046,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4429530201342282,
+      "resolution_score": 0.4861878453038674,
       "resolution_matched_alias": null
     },
     {
@@ -162,7 +162,7 @@
       "confidence": "high",
       "char_offset": 143,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -184,16 +184,16 @@
       "source_law": "ley-de-aeropuertos",
       "source_article": "27",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "ral de Aviación Civil; Fracción reformada DOF 03-05-2023  V. Consentir el uso del aeropuerto a cualquier aeronave que no cumpla con los requisitos de la Ley de Aviación Civil, que no haya sido permitida por quien presta el servicio de navegación aérea, o que su acción u omisión dolosa contribuya a la comisión de algún deli",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 822,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-aeropuertos",
@@ -237,23 +237,23 @@
       "confidence": "medium",
       "char_offset": 3011,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4276729559748428,
+      "resolution_score": 0.4900662251655629,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aeropuertos",
       "source_article": "48",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": " aviación privada no comercial y privada comercial, incluyendo al taxi aéreo que reúna los requisitos y condiciones establecidas en el artículo 23 de la Ley de Aviación Civil. Párrafo adicionado DOF 26-01-2015  Lo anterior, de conformidad con las reglas y lineamientos que, en su caso, expida la Secretaría, y con las dispos",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3200,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-aeropuertos",
@@ -267,23 +267,23 @@
       "confidence": "high",
       "char_offset": 92,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aeropuertos",
       "source_article": "79",
       "target_law_raw": "Ley de Infraestructura de la Calidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-infraestructura-de-la-calidad",
       "target_article": null,
       "citation_text": "radas por terceros tendrán validez cuando dichas unidades hayan sido previamente autorizadas por la Agencia Federal de Aviación Civil, en términos de la Ley de Infraestructura de la Calidad. Artículo reformado DOF 18-06-2018, 03-05-2023",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 220,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de infraestructura de la calidad"
     },
     {
       "source_law": "ley-de-aeropuertos",
@@ -312,23 +312,23 @@
       "confidence": "medium",
       "char_offset": 24840,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5384615384615384,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aeropuertos",
       "source_article": "85",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "a en los mismos.  Sexto. Las atribuciones establecidas en el artículo 6 Bis, fracciones XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXIII, XXXIV y XXXV de la Ley de Aviación Civil, del presente Decreto las ejercerá la Dirección General de Protección y Medicina Preventiva en el Transporte, hasta en tanto la Agencia Federal de Av",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 31564,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-de-aeropuertos",
@@ -373,5 +373,5 @@
       "char_offset": 3476
     }
   ],
-  "resolved_at": "2026-03-30T12:18:41.870221+00:00"
+  "resolved_at": "2026-03-30T20:32:53.319056+00:00"
 }

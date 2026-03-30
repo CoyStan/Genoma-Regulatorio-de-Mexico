@@ -19,16 +19,16 @@
       "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
       "source_article": "3",
       "target_law_raw": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
       "target_article": null,
       "citation_text": "n: El acto del personal del Órgano realizado para solicitar la comparecencia de alguno de los Intervinientes en el Mecanismo Alternativo;  VIII. Ley: La Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal;  IX. Mecanismos Alternativos: La mediación, la conciliación y la junta restaurativa;  X. Órgano: La Institución especializada en Mecanismos Alternat",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1042,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9333333333333333,
+      "resolution_matched_alias": "ley general de mecanismos alternativos de solución de controversias"
     },
     {
       "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
@@ -42,23 +42,23 @@
       "confidence": "high",
       "char_offset": 254,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.46511627906976744,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
       "source_article": "52",
       "target_law_raw": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
       "target_article": null,
       "citation_text": "ara los procedimientos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.  SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.  TERCERO. A partir de la entrada en vigor del presente Decreto, el ",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 3236,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9333333333333333,
+      "resolution_matched_alias": "ley general de mecanismos alternativos de solución de controversias"
     },
     {
       "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
@@ -88,5 +88,5 @@
       "char_offset": 5661
     }
   ],
-  "resolved_at": "2026-03-30T12:19:01.083356+00:00"
+  "resolved_at": "2026-03-30T20:33:27.509393+00:00"
 }

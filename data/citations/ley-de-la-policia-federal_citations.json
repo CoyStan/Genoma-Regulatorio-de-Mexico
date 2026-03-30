@@ -132,7 +132,7 @@
       "confidence": "medium",
       "char_offset": 2010,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -171,7 +171,7 @@
       "confidence": "high",
       "char_offset": 2872,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -186,7 +186,7 @@
       "confidence": "high",
       "char_offset": 1806,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -270,23 +270,23 @@
       "confidence": "high",
       "char_offset": 2390,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-la-policia-federal",
       "source_article": "51",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": " en el artículo 400 Bis;  II. De la Ley Federal de Armas de Fuego y Explosivos el delito de introducción clandestina de armas de fuego en términos de la Ley Federal contra la Delincuencia Organizada;  III. De la Ley General de Salud, el delito de tráfico de órganos previsto en los artículos 461, 462 y 462 Bis; Fracción reformada DOF 30-11-2010  I",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2040,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-de-la-policia-federal",
@@ -342,7 +342,7 @@
       "confidence": "high",
       "char_offset": 5902,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -357,23 +357,23 @@
       "confidence": "high",
       "char_offset": 6299,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-la-policia-federal",
       "source_article": "55",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "nidos Mexicanos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, del Código Penal Federal, de la Ley Federal contra la Delincuencia Organizada, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley de la Policía Federal, de la Ley Federal de Telecomunicaciones y de la Ley General",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2563,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-de-la-policia-federal",
@@ -439,31 +439,31 @@
       "source_law": "ley-de-la-policia-federal",
       "source_article": "55",
       "target_law_raw": "Ley de Asociaciones Religiosas y Culto Público",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
       "target_article": null,
       "citation_text": "Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8102,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones religiosas y culto público"
     },
     {
       "source_law": "ley-de-la-policia-federal",
       "source_article": "55",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "nales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO SEXTO. Se reforma el artículo 51, f",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8156,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-la-policia-federal",
@@ -507,7 +507,7 @@
       "confidence": "medium",
       "char_offset": 9254,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6530612244897959,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -522,7 +522,7 @@
       "confidence": "medium",
       "char_offset": 9361,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46511627906976744,
+      "resolution_score": 0.6585365853658537,
       "resolution_matched_alias": null
     },
     {
@@ -552,7 +552,7 @@
       "confidence": "medium",
       "char_offset": 11766,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5057471264367817,
+      "resolution_score": 0.625,
       "resolution_matched_alias": null
     },
     {
@@ -574,31 +574,31 @@
       "source_law": "ley-de-la-policia-federal",
       "source_article": "55",
       "target_law_raw": "Ley de la Policía Federal y 35",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "a Procuraduría General de la República, en las respectivas porciones normativas que indican por nacimiento; así como 17, apartado A, fracción I, de la Ley de la Policía Federal y 35, fracción I, inciso a), de la Ley Orgánica de la Procuraduría General de la República, en las porciones normativas que indican: sin tener otra nacio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 12334,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6571428571428571,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9090909090909091,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-de-la-policia-federal",
       "source_article": "55",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "o a), salvo en la porción normativa indicada en el resolutivo anterior, de la Ley Orgánica de la Procuraduría General de la República, así como 87 de la Ley de Fiscalización y Rendición de Cuentas de la Federación, en términos de los considerandos quinto, sexto y séptimo de esta resolución.  QUINTO.- Publíquese esta resolución en el Diario Oficial de la Federac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13069,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-de-la-policia-federal",
@@ -643,5 +643,5 @@
       "char_offset": 1762
     }
   ],
-  "resolved_at": "2026-03-30T12:18:48.234316+00:00"
+  "resolved_at": "2026-03-30T20:33:05.556651+00:00"
 }

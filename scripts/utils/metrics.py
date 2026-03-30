@@ -41,7 +41,7 @@ def compute_betweenness_centrality(G: nx.DiGraph, normalized: bool = True) -> di
     High betweenness = law sits on many shortest paths between other laws.
     Acts as a "bridge" or bottleneck in the regulatory network.
     """
-    return nx.betweenness_centrality(G, normalized=normalized, weight=None)
+    return nx.betweenness_centrality(G, normalized=normalized, weight=None, k=min(100, len(G)))
 
 
 def compute_hits(G: nx.DiGraph) -> tuple[dict[str, float], dict[str, float]]:
@@ -96,15 +96,17 @@ def find_strongly_connected_components(G: nx.DiGraph) -> list[set]:
 
 def find_circular_dependencies(G: nx.DiGraph) -> list[list[str]]:
     """
-    Find all simple cycles in the graph (circular references between laws).
-    Returns list of cycles, each as an ordered list of node IDs.
-    Only returns cycles of length 2-5 to avoid combinatorial explosion.
+    Find mutual citations (length-2 cycles) efficiently in O(E).
+    Two laws that cite each other are a circular dependency.
     """
     cycles = []
-    for cycle in nx.simple_cycles(G):
-        if 2 <= len(cycle) <= 5:
-            cycles.append(cycle)
-    return sorted(cycles, key=len)
+    edges = set(G.edges())
+    seen = set()
+    for u, v in edges:
+        if (v, u) in edges and (v, u) not in seen:
+            cycles.append([u, v])
+            seen.add((u, v))
+    return sorted(cycles)
 
 
 def compute_cascade_score(G: nx.DiGraph) -> dict[str, int]:

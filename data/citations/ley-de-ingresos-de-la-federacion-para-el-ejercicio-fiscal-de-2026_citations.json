@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 12302,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5641025641025641,
       "resolution_matched_alias": null
     },
     {
@@ -154,16 +154,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "6o",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "e canje, refinanciamiento o reestructura de la deuda pública de la Ciudad de México. El ejercicio del monto de endeudamiento autorizado se sujetará a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 609,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -244,16 +244,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "13",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "ad. Los aprovechamientos que deban cubrir los administradores portuarios como contraprestación conforme a lo previsto en los artículos 23 BIS y 37 de la Ley de Puertos, en términos de los títulos de concesión correspondientes, se concentrarán en la Tesorería de la Federación y se destinarán en un 90 por ciento a la ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6525,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -319,16 +319,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "15",
       "target_law_raw": "Ley Nacional de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "so de extinción de dominio y de aquellos sobre los que sea declarada la extinción de dominio y de sus frutos, así como su monetización en términos de la Ley Nacional de Extinción de Dominio, el Instituto los depositará en una cuenta especial en los términos que establece el artículo 239 de la Ley Nacional de Extinción de Dominio, previa ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4825,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -349,16 +349,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "16",
       "target_law_raw": "Ley de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "Artículo 16. Los ingresos que se recauden durante el ejercicio fiscal de 2026 se concentrarán en términos del artículo 22 de la Ley de Tesorería de la Federación, salvo en los siguientes casos: I.\tSe concentrarán en la Tesorería de la Federación, a más tardar el día hábil siguiente al de su recepción, los dere",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 125,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6984126984126984,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -514,16 +514,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "21",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "nciales en materia de ingresos y contribuciones federales, distintos de los establecidos en la presente Ley, en el Código Fiscal de la Federación, en la Ley de Ingresos sobre Hidrocarburos, ordenamientos legales referentes a empresas públicas del Estado, organismos descentralizados federales que prestan los servicios de seguridad social",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 879,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -544,16 +544,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "22",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "rrafo primero de este artículo, se considerará la diferencia positiva que resulte de disminuir los ingresos acumulados estimados de la dependencia en la Ley de Ingresos de la Federación, a los enteros acumulados efectuados por dicha dependencia a la Tesorería de la Federación, en el periodo que corresponda. Se entiende por unidad gen",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 891,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -664,16 +664,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "25",
       "target_law_raw": "Ley de Fomento para la Lectura y el Libro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fomento-para-la-lectura-y-el-libro",
       "target_article": null,
       "citation_text": "iento de bibliotecas, así como el apoyo a las actividades de educación e investigación artísticas. Se considera libro lo señalado en el artículo 2 de la Ley de Fomento para la Lectura y el Libro; VIII.\tPara los efectos de los artículos 16, 18, fracción IX, 81, 134, 135 y 166, párrafo séptimo, fracción V, de la Ley del Impuesto sobre la Renta ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 10925,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fomento para la lectura y el libro"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -709,46 +709,46 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "25",
       "target_law_raw": "Ley Sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "l contrato de seguro, y la indemnización consista en el resarcimiento de daños o la reposición del bien siniestrado, a través de terceros, conforme a la Ley Sobre el Contrato de Seguro. El Servicio de Administración Tributaria podrá emitir las reglas de carácter general para la aplicación de este artículo. Capítulo III De la Informa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19435,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "26",
       "target_law_raw": "Ley del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-de-administracion-tributaria",
       "target_article": null,
       "citation_text": "e junio de 2026. Durante el ejercicio fiscal de 2026, para efectos de la presentación del estudio de ingreso-gasto a que se refiere el artículo 31 de la Ley del Servicio de Administración Tributaria, dicho estudio deberá presentarse a más tardar el 30 de junio de dicho año.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1048,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio de administración tributaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "28",
       "target_law_raw": "Ley del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-de-administracion-tributaria",
       "target_article": null,
       "citation_text": "icos necesarios que el Servicio de Administración Tributaria está obligado a proporcionar, conforme a lo previsto en el artículo 22, fracción III, de la Ley del Servicio de Administración Tributaria, y deberá contener los montos referidos estimados para el ejercicio fiscal de 2027 en los siguientes términos: I.\tEl monto estimado de los recursos q",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1130,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio de administración tributaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -814,16 +814,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "29",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "ormes trimestrales la información sobre los ingresos excedentes que, en su caso, se hayan generado con respecto al calendario de ingresos derivado de la Ley de Ingresos de la Federación. En este reporte se presentará la comparación de los ingresos propios de las entidades paraestatales bajo control presupuestario directo, de las empr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2022,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -901,16 +901,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "fiscal de 2026, deberán ser concentrados en la Tesorería de la Federación incluidos los rendimientos financieros que hubieran generado, conforme a lo establecido en la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda, dentro de los 15 días naturales siguientes al término del citado ejercicio fiscal. Durante el primer bimestre del ejercicio fiscal de 2026, la Secre",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 12296,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8208955223880597,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -961,31 +961,31 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "fiscal de 2026, el Fondo de Compensación del Régimen de Pequeños Contribuyentes y del Régimen de Intermedios creado mediante el Quinto transitorio de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014, publicada en el Diario Oficial de la Federación el 20 de noviembre de 2013 continuará destinándose en los términos del citado precepto. Tercero.- Du",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 913,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9692307692307692,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": " federales de las entidades federativas y los municipios que correspondan, de conformidad con lo establecido en el último párrafo del artículo 9o. de la Ley de Coordinación Fiscal. La Secretaría de Hacienda y Crédito Público determinará el monto de los pagos a que se refiere el párrafo anterior con cargo a las participaciones y",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4666,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -1014,38 +1014,38 @@
       "confidence": "medium",
       "char_offset": 14325,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5420560747663551,
+      "resolution_score": 0.5360824742268041,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "cedentes derivados de ingresos de libre disposición de las entidades federativas, además de los conceptos previstos en el artículo 14, fracción I, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán destinarse a: I.\tCubrir los créditos fiscales firmes determinados a las entidades federativas y sus entes públicos por autoridades fiscales f",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20707,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "cto expida la Secretaría de Hacienda y Crédito Público. Vigésimo Primero.- Los ingresos excedentes a que se refiere el artículo 102, fracción VII, de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, se utilizarán previa autorización de la Secretaría de Hacienda y Crédito Público de conformidad con los lineamientos que emita ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22824,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7741935483870968,
+      "resolution_matched_alias": "ley de la empresa pública del estado, petróleos mexicanos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -1081,16 +1081,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
       "target_law_raw": "Ley Sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "l contrato de seguro, y la indemnización consista en el resarcimiento de daños o la reposición del bien siniestrado, a través de terceros, conforme a la Ley Sobre el Contrato de Seguro. Adicionalmente, se otorga un estímulo fiscal equivalente al monto del impuesto al valor agregado que se hubiere acreditado o, en su caso, el equival",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 57525,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -1105,5 +1105,5 @@
       "char_offset": 18775
     }
   ],
-  "resolved_at": "2026-03-30T12:18:46.019809+00:00"
+  "resolved_at": "2026-03-30T20:33:02.149960+00:00"
 }

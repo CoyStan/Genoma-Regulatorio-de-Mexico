@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 387,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.5483870967741935,
       "resolution_matched_alias": null
     },
     {
@@ -60,7 +60,7 @@
       "confidence": "medium",
       "char_offset": 4525,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.484472049689441,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -90,23 +90,23 @@
       "confidence": "medium",
       "char_offset": 5469,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5135135135135135,
+      "resolution_score": 0.578125,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-poblacion",
       "source_article": "157",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "o Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de rec",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5748,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-general-de-poblacion",
@@ -120,7 +120,7 @@
       "confidence": "medium",
       "char_offset": 6938,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.5352112676056338,
       "resolution_matched_alias": null
     },
     {
@@ -135,23 +135,23 @@
       "confidence": "medium",
       "char_offset": 12912,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.509090909090909,
+      "resolution_score": 0.6870229007633588,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-poblacion",
       "source_article": "157",
       "target_law_raw": "Ley sobre Refugiados y Protección Complementaria y se reforman",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "target_article": null,
       "citation_text": "iez.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   DECRETO por el que se expide la Ley sobre Refugiados y Protección Complementaria y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Población.  Publicado en el Diario Oficial de la Federación el 27 de enero de 2011  ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13814,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4946236559139785,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8253968253968254,
+      "resolution_matched_alias": "ley sobre refugiados, protección complementaria y asilo político"
     },
     {
       "source_law": "ley-general-de-poblacion",
@@ -172,61 +172,61 @@
       "source_law": "ley-general-de-poblacion",
       "source_article": "157",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "derogan y adicionan diversas disposiciones de la Ley General de Población, del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Tur",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15285,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-general-de-poblacion",
       "source_article": "157",
       "target_law_raw": "Ley de la Policía Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "General de Población, del Código Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Ofi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15338,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-general-de-poblacion",
       "source_article": "157",
       "target_law_raw": "Ley de Asociaciones Religiosas y Culto Público",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
       "target_article": null,
       "citation_text": "Penal Federal, del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15371,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones religiosas y culto público"
     },
     {
       "source_law": "ley-general-de-poblacion",
       "source_article": "157",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "nales, de la Ley Federal contra la Delincuencia Organizada, de la Ley de la Policía Federal, de la Ley de Asociaciones Religiosas y Culto Público, de la Ley de Inversión Extranjera, y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 25 de mayo de 2011  ARTÍCULO SEGUNDO. Se reforma el artículo 77,",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15425,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-general-de-poblacion",
@@ -270,7 +270,7 @@
       "confidence": "medium",
       "char_offset": 16860,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6530612244897959,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -285,7 +285,7 @@
       "confidence": "medium",
       "char_offset": 16967,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46511627906976744,
+      "resolution_score": 0.6585365853658537,
       "resolution_matched_alias": null
     },
     {
@@ -346,5 +346,5 @@
       "char_offset": 1263
     }
   ],
-  "resolved_at": "2026-03-30T12:18:58.693129+00:00"
+  "resolved_at": "2026-03-30T20:33:23.423460+00:00"
 }

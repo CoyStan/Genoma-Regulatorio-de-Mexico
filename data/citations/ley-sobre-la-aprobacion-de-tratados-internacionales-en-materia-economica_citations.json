@@ -19,16 +19,16 @@
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "2",
       "target_law_raw": "Ley Sobre la Celebración de Tratados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "Artículo 2. Para los efectos de esta ley se entenderá por tratados lo establecido por la Ley Sobre la Celebración de Tratados.  Estarán de acuerdo con la Constitución General de la República respetando:  I. Las garantías individuales, y  II. La división de poderes, la distri",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 86,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6129032258064516,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
@@ -73,16 +73,16 @@
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "14",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.  ARTÍCULOS TRANSITORIOS  PRIMERO. La presente Ley entrará",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 86,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
@@ -96,7 +96,7 @@
       "confidence": "medium",
       "char_offset": 115,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.6486486486486487,
       "resolution_matched_alias": null
     },
     {
@@ -112,5 +112,5 @@
       "char_offset": 887
     }
   ],
-  "resolved_at": "2026-03-30T12:19:03.269141+00:00"
+  "resolved_at": "2026-03-30T20:33:32.454868+00:00"
 }

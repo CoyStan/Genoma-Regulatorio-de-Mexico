@@ -7,16 +7,16 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "1o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "ndientes a reducir las asimetrías con respecto a otros países de conformidad con lo que establece el artículo 13 fracción IX y demás disposiciones de la Ley de Desarrollo Rural Sustentable.  La aplicación de esta Ley corresponde a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 551,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-energia-para-el-campo",
@@ -34,16 +34,16 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "2o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "Artículo 2o. Son sujetos de esta Ley los previstos en el artículo 2o. de la Ley de Desarrollo Rural Sustentable.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 73,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-energia-para-el-campo",
@@ -61,16 +61,16 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "5o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "Artículo 5o. En los términos de la Ley de Desarrollo Rural Sustentable, los precios y tarifas de estímulo que se otorguen a los productores en cumplimiento de lo establecido en este ordenamiento, impulsarán la productivi",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 13,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-energia-para-el-campo",
@@ -99,7 +99,7 @@
       "confidence": "medium",
       "char_offset": 904,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.6329113924050633,
       "resolution_matched_alias": null
     },
     {
@@ -114,7 +114,7 @@
       "confidence": "high",
       "char_offset": 991,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45528455284552843,
+      "resolution_score": 0.4954128440366973,
       "resolution_matched_alias": null
     },
     {
@@ -130,5 +130,5 @@
       "char_offset": 1028
     }
   ],
-  "resolved_at": "2026-03-30T12:18:44.655461+00:00"
+  "resolved_at": "2026-03-30T20:32:59.950562+00:00"
 }

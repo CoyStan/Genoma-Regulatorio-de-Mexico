@@ -49,16 +49,16 @@
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "1-BIS",
       "target_law_raw": "Reglamento de la Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "imitadas, a cargo de un servidor público perteneciente al Servicio Exterior y generalmente dependiente de una embajada o consulado;  XXI. Reglamento: El Reglamento de la Ley del Servicio Exterior Mexicano;  XXII. Representación: Las embajadas, misiones permanentes y oficinas consulares;  XXIII. Representación Consular: Las oficinas consulares;  XXIV. R",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3841,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -102,7 +102,7 @@
       "confidence": "high",
       "char_offset": 935,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 1255,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.463768115942029,
+      "resolution_score": 0.4827586206896552,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 621,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -240,7 +240,7 @@
       "confidence": "high",
       "char_offset": 448,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4375,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -360,7 +360,7 @@
       "confidence": "high",
       "char_offset": 1789,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5476190476190477,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -435,7 +435,7 @@
       "confidence": "high",
       "char_offset": 1080,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43478260869565216,
+      "resolution_score": 0.45977011494252873,
       "resolution_matched_alias": null
     },
     {
@@ -472,16 +472,16 @@
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
       "target_law_raw": "Ley del Servicio Militar",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-militar",
       "target_article": null,
       "citation_text": " 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fisca",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3874,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6222222222222222,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio militar"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -562,16 +562,16 @@
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "meros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del I",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4774,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -622,16 +622,16 @@
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
       "target_law_raw": "Ley de la Comisión Nacional de Derechos Humanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": " I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5372,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9591836734693877,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -667,16 +667,16 @@
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "y Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5597,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -690,38 +690,38 @@
       "confidence": "medium",
       "char_offset": 5648,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
       "target_law_raw": "Ley de la Comisión Reguladora de Energía",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-energia",
       "target_article": null,
       "citation_text": " Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 3",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5766,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6031746031746031,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7948717948717948,
+      "resolution_matched_alias": "ley de la comisión nacional de energía"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "nación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de C",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5846,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -787,16 +787,16 @@
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "eral de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado \"B\" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:  ..........  TRANSITORIO  ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.  México, D.F., a 12 de diciem",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6245,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -811,5 +811,5 @@
       "char_offset": 2598
     }
   ],
-  "resolved_at": "2026-03-30T12:18:52.678964+00:00"
+  "resolved_at": "2026-03-30T20:33:12.903112+00:00"
 }

@@ -7,16 +7,16 @@
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "2",
       "target_law_raw": "Ley de Ahorro y Crédito Popular y la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
       "target_article": null,
       "citation_text": "tengan acceso limitado a los servicios financieros por su condición socioeconómica o ubicación geográfica, y a las personas morales a que se refieren la Ley de Ahorro y Crédito Popular y la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo. Fracción reformada DOF 23-02-2005, 10-01-2014",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 673,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4222222222222222,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8195121951219512,
+      "resolution_matched_alias": "ley para regular las actividades de las sociedades cooperativas de ahorro y préstamo"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 945,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
+      "resolution_score": 0.5357142857142857,
       "resolution_matched_alias": null
     },
     {
@@ -384,7 +384,7 @@
       "confidence": "high",
       "char_offset": 1736,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47619047619047616,
+      "resolution_score": 0.5299145299145299,
       "resolution_matched_alias": null
     },
     {
@@ -399,23 +399,23 @@
       "confidence": "high",
       "char_offset": 101,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41509433962264153,
+      "resolution_score": 0.45588235294117646,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "36",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "tructura, capacitación, tecnología, o cualquier otro servicio requerido por las Entidades de Ahorro y Crédito Popular o los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular;  Los financiamientos a que se refiere esta fracción, se podrán otorgar a los intermediarios financieros antes referidos, siempre y cuando se trate d",
       "pattern_name": "regulada_por",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1072,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
@@ -429,7 +429,7 @@
       "confidence": "high",
       "char_offset": 13878,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45751633986928103,
+      "resolution_score": 0.5299145299145299,
       "resolution_matched_alias": null
     },
     {
@@ -459,7 +459,7 @@
       "confidence": "medium",
       "char_offset": 4933,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.4715447154471545,
       "resolution_matched_alias": null
     },
     {
@@ -564,23 +564,23 @@
       "confidence": "medium",
       "char_offset": 23217,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47244094488188976,
+      "resolution_score": 0.6716417910447762,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "blico proveerá los recursos necesarios para la modernización del Banco del Bienestar con motivo de la entrada en vigor del presente Decreto, sujeto a la Ley de Ingresos de la Federación, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como a la disponibilidad, ampliaciones y adecuaciones presupuestarias previstas en e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23645,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
@@ -610,5 +610,5 @@
       "char_offset": 7262
     }
   ],
-  "resolved_at": "2026-03-30T12:19:01.947887+00:00"
+  "resolved_at": "2026-03-30T20:33:29.508500+00:00"
 }

@@ -42,7 +42,7 @@
       "confidence": "medium",
       "char_offset": 1534,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4628099173553719,
+      "resolution_score": 0.496551724137931,
       "resolution_matched_alias": null
     },
     {
@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 1642,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5277777777777778,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "medium",
       "char_offset": 333,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5423728813559322,
+      "resolution_score": 0.6545454545454545,
       "resolution_matched_alias": null
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "high",
       "char_offset": 77,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6792452830188679,
       "resolution_matched_alias": null
     },
     {
@@ -117,7 +117,7 @@
       "confidence": "medium",
       "char_offset": 449,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.53125,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -199,16 +199,16 @@
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "29",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "duales de los sistemas de ahorro para el retiro, estará a cargo de las administradoras de fondos para el retiro, en los términos que se establecen en la Ley de los Sistemas de Ahorro para el Retiro y su Reglamento. Lo anterior, independientemente de los registros individuales que determine llevar el Instituto.  Es obligación del patrón pagar las aportaciones po",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1821,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5476190476190477,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8461538461538461,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -252,23 +252,23 @@
       "confidence": "medium",
       "char_offset": 143,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5581395348837209,
+      "resolution_score": 0.5901639344262295,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "29",
       "target_law_raw": "Ley de Firma Electrónica Avanzada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-firma-electronica-avanzada",
       "target_article": null,
       "citation_text": "r.- El Instituto utilizará medios electrónicos para el cumplimiento de su objeto y podrá tener el carácter de autoridad certificadora, en términos de lo dispuesto por la Ley de Firma Electrónica Avanzada, para emitir certificados digitales a efecto de aplicar el uso de firma electrónica avanzada en las formas y procedimientos a su cargo.  Las disposic",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 167,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de firma electrónica avanzada"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -334,31 +334,31 @@
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "38",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "sas operadoras de la Base de Datos Nacional SAR proporcionarán al Instituto la información correspondiente a las aportaciones y descuentos realizados en los términos de la Ley de los Sistemas de Ahorro para el Retiro y su Reglamento, así como toda aquélla necesaria para el cumplimiento de sus fines.  El Instituto proporcionará directamente al Instituto Mexicano del Seguro Social ",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 173,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5476190476190477,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8461538461538461,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "38",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "Ley correspondiente.  La documentación y demás características de estas cuentas no previstas en esta Ley y en la Ley del Seguro Social se sujetarán a lo dispuesto por la Ley de los Sistemas de Ahorro para el Retiro. Artículo reformado DOF 24-02-1992, 22-07-1994, 06-01-1997",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1930,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -387,23 +387,23 @@
       "confidence": "high",
       "char_offset": 7994,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "43",
       "target_law_raw": "Reglamento de la Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "erán ser transferidas a la cuenta que el Banco de México le lleve al Instituto, en los términos y conforme a los procedimientos que se establezcan en el Reglamento de la Ley de los Sistemas de Ahorro para el Retiro. Párrafo reformado DOF 12-01-2012  Los recursos financieros que no se destinen a los fines señalados en el artículo anterior deberán ser invertidos e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 580,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5176470588235295,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8380952380952381,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -534,7 +534,7 @@
       "confidence": "high",
       "char_offset": 1566,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5660377358490566,
+      "resolution_score": 0.6060606060606061,
       "resolution_matched_alias": null
     },
     {
@@ -744,7 +744,7 @@
       "confidence": "medium",
       "char_offset": 32787,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.38497652582159625,
+      "resolution_score": 0.5534591194968553,
       "resolution_matched_alias": null
     },
     {
@@ -961,16 +961,16 @@
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "71",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 106015,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -1021,16 +1021,16 @@
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "71",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ciones aplicables.  QUINTO. A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el transitorio Vigésimo Segundo de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su obj",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 112064,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9846153846153847,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -1045,5 +1045,5 @@
       "char_offset": 1707
     }
   ],
-  "resolved_at": "2026-03-30T12:18:51.465980+00:00"
+  "resolved_at": "2026-03-30T20:33:10.398204+00:00"
 }

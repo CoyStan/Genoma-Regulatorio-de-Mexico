@@ -63,7 +63,7 @@
       "confidence": "high",
       "char_offset": 14,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.7326732673267327,
       "resolution_matched_alias": null
     },
     {
@@ -78,7 +78,7 @@
       "confidence": "medium",
       "char_offset": 3118,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -127,16 +127,16 @@
       "source_law": "ley-de-desarrollo-rural-sustentable",
       "source_article": "22",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "ia técnica;  f)\tApoyos y compensaciones por servicios ambientales;  g)\tEstímulos fiscales y recursos del ramo 33 para el desarrollo rural sustentable establecidos en la Ley de Coordinación Fiscal;  h)\tFinanzas rurales;  i)\tApoyos convergentes por contingencias; y  j)\tTodos los necesarios para la aplicación del Programa Especial Concurrente en ",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1844,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-desarrollo-rural-sustentable",
@@ -207,7 +207,7 @@
       "confidence": "medium",
       "char_offset": 448,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5846153846153846,
+      "resolution_score": 0.6296296296296297,
       "resolution_matched_alias": null
     },
     {
@@ -222,7 +222,7 @@
       "confidence": "medium",
       "char_offset": 822,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5178571428571429,
+      "resolution_score": 0.5977011494252874,
       "resolution_matched_alias": null
     },
     {
@@ -264,7 +264,7 @@
       "confidence": "medium",
       "char_offset": 469,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49696969696969695,
+      "resolution_score": 0.5034965034965035,
       "resolution_matched_alias": null
     },
     {
@@ -279,7 +279,7 @@
       "confidence": "medium",
       "char_offset": 172,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4603174603174603,
+      "resolution_score": 0.5031446540880503,
       "resolution_matched_alias": null
     },
     {
@@ -294,7 +294,7 @@
       "confidence": "high",
       "char_offset": 377,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -309,7 +309,7 @@
       "confidence": "high",
       "char_offset": 521,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.5614035087719298,
       "resolution_matched_alias": null
     },
     {
@@ -360,7 +360,7 @@
       "confidence": "high",
       "char_offset": 161,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.512,
+      "resolution_score": 0.5344827586206896,
       "resolution_matched_alias": null
     },
     {
@@ -433,16 +433,16 @@
       "source_law": "ley-de-desarrollo-rural-sustentable",
       "source_article": "134",
       "target_law_raw": "Ley de Información Estadística y Geográfica",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
       "target_article": null,
       "citation_text": "s, tecnología, servicios técnicos, Industrial y de Servicios del sector, en coordinación con los gobiernos de las entidades federativas y con base en lo dispuesto por la Ley de Información Estadística y Geográfica.  En el Sistema Nacional de Información para el Desarrollo Rural Sustentable se integrará información internacional, nacional, estatal, municipal y d",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 525,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5542168674698795,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8037383177570093,
+      "resolution_matched_alias": "ley del sistema nacional de información estadística y geográfica"
     },
     {
       "source_law": "ley-de-desarrollo-rural-sustentable",
@@ -468,7 +468,7 @@
       "confidence": "medium",
       "char_offset": 136,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4672897196261682,
+      "resolution_score": 0.6138613861386139,
       "resolution_matched_alias": null
     },
     {
@@ -498,7 +498,7 @@
       "confidence": "medium",
       "char_offset": 284,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5476190476190477,
+      "resolution_score": 0.7380952380952381,
       "resolution_matched_alias": null
     },
     {
@@ -570,7 +570,7 @@
       "confidence": "high",
       "char_offset": 372,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6956521739130435,
+      "resolution_score": 0.5925925925925926,
       "resolution_matched_alias": null
     },
     {
@@ -645,7 +645,7 @@
       "confidence": "medium",
       "char_offset": 1514,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -660,7 +660,7 @@
       "confidence": "high",
       "char_offset": 290,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -709,16 +709,16 @@
       "source_law": "ley-de-desarrollo-rural-sustentable",
       "source_article": "191",
       "target_law_raw": "Ley de Desarrollo Rural",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": " los términos de las disposiciones hasta hoy vigentes, de sus normas constitutivas y las que establece este ordenamiento.  QUINTO. Se deja sin efecto la Ley de Desarrollo Rural, aprobada por el Honorable Congreso de la Unión el 27 de diciembre de 2000, enviada al Ejecutivo Federal para su promulgación y publicación.  SEXTO. ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3034,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6285714285714286,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7931034482758621,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-rural-sustentable",
@@ -732,7 +732,7 @@
       "confidence": "medium",
       "char_offset": 16849,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47244094488188976,
+      "resolution_score": 0.693069306930693,
       "resolution_matched_alias": null
     },
     {
@@ -748,5 +748,5 @@
       "char_offset": 4776
     }
   ],
-  "resolved_at": "2026-03-30T12:18:44.249712+00:00"
+  "resolved_at": "2026-03-30T20:32:58.646039+00:00"
 }

@@ -22,16 +22,16 @@
       "source_law": "ley-de-fomento-a-la-confianza-ciudadana",
       "source_article": "1",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "truidas por la Secretaría de Hacienda y Crédito Público, a que se refiere el artículo 63, en relación con el artículo 37, Apartado B, fracción VII de la Ley de Ingresos sobre Hidrocarburos.  El cumplimiento de las obligaciones fiscales a que se refiere la presente Ley, se acreditará en términos del Código Fiscal de la Federación, y demá",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1132,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-fomento-a-la-confianza-ciudadana",
@@ -52,16 +52,16 @@
       "source_law": "ley-de-fomento-a-la-confianza-ciudadana",
       "source_article": "3",
       "target_law_raw": "Reglamento de la Ley de Fomento a la Confianza Ciudadana",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fomento-a-la-confianza-ciudadana",
       "target_article": null,
       "citation_text": "y administración del Padrón Único de Fomento a la Confianza Ciudadana;  IV.\tPadrón: Padrón Único de Fomento a la Confianza Ciudadana;  V.\tReglamento: El Reglamento de la Ley de Fomento a la Confianza Ciudadana, y  VI.\tSecretaría: Secretaría de Economía.  CAPÍTULO II DE LA INTEGRACIÓN, OPERACIÓN Y OBJETO DEL PADRÓN ÚNICO DE FOMENTO A LA CONFIANZA CIUDADANA",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 824,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4883720930232558,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8210526315789474,
+      "resolution_matched_alias": "ley de fomento a la confianza ciudadana"
     },
     {
       "source_law": "ley-de-fomento-a-la-confianza-ciudadana",
@@ -166,5 +166,5 @@
       "char_offset": 1216
     }
   ],
-  "resolved_at": "2026-03-30T12:18:45.117554+00:00"
+  "resolved_at": "2026-03-30T20:33:00.753268+00:00"
 }

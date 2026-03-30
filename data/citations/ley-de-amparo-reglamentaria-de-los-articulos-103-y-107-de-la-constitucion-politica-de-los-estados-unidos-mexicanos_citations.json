@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 255,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45217391304347826,
+      "resolution_score": 0.47058823529411764,
       "resolution_matched_alias": null
     },
     {
@@ -139,16 +139,16 @@
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "61",
       "target_law_raw": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "105",
       "citation_text": "itido una declaratoria general de inconstitucionalidad en términos de lo dispuesto por el Capítulo VI del Título Cuarto de esta Ley, o en términos de lo dispuesto por la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;  IX. Contra resoluciones dictadas en los juicios de amparo o en ejecución de las mismas;  X.\tContra normas generales o actos que sean materia de otr",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1630,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6162790697674418,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley reglamentaria de las fracciones i y ii del artículo 105 de la constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -342,7 +342,7 @@
       "confidence": "high",
       "char_offset": 7765,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47619047619047616,
+      "resolution_score": 0.5066666666666667,
       "resolution_matched_alias": null
     },
     {
@@ -361,16 +361,16 @@
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "210",
       "target_law_raw": "Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "105",
       "citation_text": "ey.  El procedimiento establecido en el presente artículo será aplicable a los casos en que la declaratoria general de inconstitucionalidad derive de lo dispuesto por la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.  CAPÍTULO VII Disposiciones Complementarias",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2093,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6162790697674418,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley reglamentaria de las fracciones i y ii del artículo 105 de la constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -750,7 +750,7 @@
       "confidence": "medium",
       "char_offset": 55572,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
+      "resolution_score": 0.6990291262135923,
       "resolution_matched_alias": null
     },
     {
@@ -856,5 +856,5 @@
       "char_offset": 533
     }
   ],
-  "resolved_at": "2026-03-30T12:18:42.729318+00:00"
+  "resolved_at": "2026-03-30T20:32:55.340849+00:00"
 }

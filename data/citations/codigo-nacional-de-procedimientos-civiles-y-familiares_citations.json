@@ -84,7 +84,7 @@
       "confidence": "medium",
       "char_offset": 472,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6956521739130435,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -114,7 +114,7 @@
       "confidence": "high",
       "char_offset": 409,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4117647058823529,
+      "resolution_score": 0.611764705882353,
       "resolution_matched_alias": null
     },
     {
@@ -129,7 +129,7 @@
       "confidence": "medium",
       "char_offset": 250,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41830065359477125,
+      "resolution_score": 0.5222929936305732,
       "resolution_matched_alias": null
     },
     {
@@ -204,7 +204,7 @@
       "confidence": "high",
       "char_offset": 299,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.625,
       "resolution_matched_alias": null
     },
     {
@@ -219,7 +219,7 @@
       "confidence": "high",
       "char_offset": 425,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -234,7 +234,7 @@
       "confidence": "medium",
       "char_offset": 281,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -249,7 +249,7 @@
       "confidence": "medium",
       "char_offset": 458,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -294,7 +294,7 @@
       "confidence": "high",
       "char_offset": 619,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.42857142857142855,
+      "resolution_score": 0.4713375796178344,
       "resolution_matched_alias": null
     },
     {
@@ -309,7 +309,7 @@
       "confidence": "medium",
       "char_offset": 331,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -336,7 +336,7 @@
       "confidence": "medium",
       "char_offset": 202,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -393,7 +393,7 @@
       "confidence": "high",
       "char_offset": 446,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -408,7 +408,7 @@
       "confidence": "medium",
       "char_offset": 1266,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.512396694214876,
+      "resolution_score": 0.5100671140939598,
       "resolution_matched_alias": null
     },
     {
@@ -447,23 +447,23 @@
       "confidence": "high",
       "char_offset": 2473,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "314",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "te legalizados por las autoridades diplomáticas o consulares en los términos que establezcan los tratados y convenciones de los que México sea parte, la Ley del Servicio Exterior Mexicano y demás disposiciones aplicables.  En caso de imposibilidad para obtener la legalización, ésta se sustituirá por cualquier prueba adecuada para garantizar su autenticidad. En todo ca",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 296,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -507,7 +507,7 @@
       "confidence": "medium",
       "char_offset": 499,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -522,7 +522,7 @@
       "confidence": "medium",
       "char_offset": 255,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -537,7 +537,7 @@
       "confidence": "high",
       "char_offset": 2405,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5671641791044776,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -552,7 +552,7 @@
       "confidence": "high",
       "char_offset": 1348,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5476190476190477,
+      "resolution_score": 0.6440677966101694,
       "resolution_matched_alias": null
     },
     {
@@ -567,7 +567,7 @@
       "confidence": "high",
       "char_offset": 1531,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47398843930635837,
+      "resolution_score": 0.7403314917127072,
       "resolution_matched_alias": null
     },
     {
@@ -621,7 +621,7 @@
       "confidence": "high",
       "char_offset": 721,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4260355029585799,
+      "resolution_score": 0.43037974683544306,
       "resolution_matched_alias": null
     },
     {
@@ -636,7 +636,7 @@
       "confidence": "medium",
       "char_offset": 1203,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5070422535211268,
+      "resolution_score": 0.5151515151515151,
       "resolution_matched_alias": null
     },
     {
@@ -831,7 +831,7 @@
       "confidence": "medium",
       "char_offset": 384,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5846153846153846,
+      "resolution_score": 0.6545454545454545,
       "resolution_matched_alias": null
     },
     {
@@ -883,16 +883,16 @@
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "805",
       "target_law_raw": "Ley del Servicio Exterior Mexicano y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "ltimo caso cuando se trate de un testamento público abierto otorgado ante miembro del servicio exterior mexicano en ejercicio de funciones notariales en los términos de la Ley del Servicio Exterior Mexicano y su Reglamento, cuyo testimonio tendrá plena validez sin necesidad de legalización. Cumplido lo anterior, podrá tramitarse la sucesión ante Notaria o Notario Públic",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 644,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4931506849315068,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8095238095238095,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -906,7 +906,7 @@
       "confidence": "high",
       "char_offset": 632,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -921,7 +921,7 @@
       "confidence": "medium",
       "char_offset": 234,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5365853658536586,
+      "resolution_score": 0.691358024691358,
       "resolution_matched_alias": null
     },
     {
@@ -936,7 +936,7 @@
       "confidence": "high",
       "char_offset": 1224,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -978,7 +978,7 @@
       "confidence": "medium",
       "char_offset": 316,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -993,7 +993,7 @@
       "confidence": "high",
       "char_offset": 863,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5846153846153846,
+      "resolution_score": 0.6545454545454545,
       "resolution_matched_alias": null
     },
     {
@@ -1008,7 +1008,7 @@
       "confidence": "medium",
       "char_offset": 195,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6415094339622641,
+      "resolution_score": 0.6233766233766234,
       "resolution_matched_alias": null
     },
     {
@@ -1035,7 +1035,7 @@
       "confidence": "medium",
       "char_offset": 124,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.576271186440678,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -1050,7 +1050,7 @@
       "confidence": "medium",
       "char_offset": 402,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
+      "resolution_score": 0.5263157894736842,
       "resolution_matched_alias": null
     },
     {
@@ -1065,7 +1065,7 @@
       "confidence": "medium",
       "char_offset": 562,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5294117647058824,
+      "resolution_score": 0.5773195876288659,
       "resolution_matched_alias": null
     },
     {
@@ -1354,31 +1354,31 @@
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "1191",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 28397,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "1191",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 28480,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -1393,5 +1393,5 @@
       "char_offset": 13234
     }
   ],
-  "resolved_at": "2026-03-30T12:18:39.388681+00:00"
+  "resolved_at": "2026-03-30T20:32:47.109571+00:00"
 }

@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 4329,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5526315789473685,
+      "resolution_score": 0.5625,
       "resolution_matched_alias": null
     },
     {
@@ -45,7 +45,7 @@
       "confidence": "high",
       "char_offset": 1983,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.5833333333333334,
       "resolution_matched_alias": null
     },
     {
@@ -60,7 +60,7 @@
       "confidence": "high",
       "char_offset": 2627,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
+      "resolution_score": 0.5853658536585366,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 30,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4126984126984127,
+      "resolution_score": 0.4540540540540541,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 1638,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.5483870967741935,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 748,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -334,16 +334,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "118",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "dad avanzada o vejez, podrán optar por que, con cargo a su pensión, se cubran los créditos que les hayan sido otorgados por las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.  La Comisión Nacional de los Sistemas de Ahorro para el Retiro y la Comisión Nacional de Seguros y Fianzas, en el ámbito de sus respectivas competen",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 330,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -361,46 +361,46 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "159",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "ntre las opciones que estén registradas ante la Comisión Nacional de Seguros y Fianzas, previo acuerdo del Comité al que se refiere el artículo 81 de la Ley de los Sistemas de Ahorro para el Retiro. Párrafo adicionado DOF 16-12-2020",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3119,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "167",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "anzada y vejez. Dichas cuotas se recibirán y se depositarán en las respectivas subcuentas de la cuenta individual de cada trabajador, en los términos previstos en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 379,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "175",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "l Sistema de Ahorro para el Retiro, sujetándose en cuanto a su contabilidad, información, sistemas de comercialización y publicidad a los términos de la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.  En todo caso, dicha Ley dispondrá los requisitos de constitución, entre los que se incluirán las disposiciones relativas a impedir el conflicto de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 469,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -414,68 +414,68 @@
       "confidence": "medium",
       "char_offset": 189,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.42758620689655175,
+      "resolution_score": 0.6470588235294118,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "177",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "régimen previsto en esta Ley, no deberán tener más de una cuenta individual por cada régimen, y su unificación o traspaso quedará a lo que establezca la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 792,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "179",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": " Fondos para el Retiro identificará la parte que corresponde a cada trabajador, a efecto de que con dicha información, en los términos que establezca la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, se realicen las aplicaciones específicas a cada subcuenta de la cuenta individual.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 241,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "181",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "rá informar a cada trabajador titular de una cuenta individual, el estado de la misma, en los términos, periodicidad y forma que al efecto establezca la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro, sin perjuicio de que el asegurado en todo tiempo tenga el derecho a solicitar cualquier tipo de información, relacionada con su cuenta individual, a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 211,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "182",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "rísticas de estas cuentas, no previstas en esta Ley y en la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, se sujetarán a lo dispuesto por la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 196,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -496,46 +496,46 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "183",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "adoras de fondos para el retiro, por cada dispersión de recursos, en términos de lo que se prevea en las disposiciones administrativas que deriven de la Ley de los Sistemas de Ahorro para el Retiro. Artículo reformado DOF 20-12-2001",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 337,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "187",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": " la Comisión Nacional del Sistema de Ahorro para el Retiro, ante esta misma Comisión. El procedimiento correspondiente ante la Comisión se sujetará a lo dispuesto en la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 475,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "188",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": ", organización, funcionamiento, régimen de inversión, tipos de valores, publicidad, sistemas de comercialización y contabilidad, a lo establecido por la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.  La inspección y vigilancia de las Administradoras de Fondos para el Retiro y de las Sociedades de inversión especializadas de fondos para el retiro",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 500,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -571,16 +571,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "195",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "s, procedimientos, formas y términos relacionados con el seguro de retiro, cesantía en edad avanzada y vejez, conforme a lo establecido en esta Ley y la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 390,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -594,7 +594,7 @@
       "confidence": "medium",
       "char_offset": 736,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -639,7 +639,7 @@
       "confidence": "high",
       "char_offset": 5635,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -654,7 +654,7 @@
       "confidence": "high",
       "char_offset": 289,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4375,
+      "resolution_score": 0.5063291139240507,
       "resolution_matched_alias": null
     },
     {
@@ -696,7 +696,7 @@
       "confidence": "high",
       "char_offset": 1015,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5185185185185185,
+      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -756,7 +756,7 @@
       "confidence": "medium",
       "char_offset": 1167,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5858585858585859,
+      "resolution_score": 0.65,
       "resolution_matched_alias": null
     },
     {
@@ -810,7 +810,7 @@
       "confidence": "medium",
       "char_offset": 552,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.6554621848739496,
       "resolution_matched_alias": null
     },
     {
@@ -849,7 +849,7 @@
       "confidence": "high",
       "char_offset": 584,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4090909090909091,
+      "resolution_score": 0.4931506849315068,
       "resolution_matched_alias": null
     },
     {
@@ -939,7 +939,7 @@
       "confidence": "high",
       "char_offset": 3164,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.5483870967741935,
       "resolution_matched_alias": null
     },
     {
@@ -954,7 +954,7 @@
       "confidence": "medium",
       "char_offset": 1064,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5277777777777778,
+      "resolution_score": 0.5301204819277109,
       "resolution_matched_alias": null
     },
     {
@@ -976,16 +976,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "319",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "ma con respecto al otorgamiento de préstamos a cuenta de su pensión, podrán optar por solicitar préstamos con cualquiera de las Entidades Financieras a que se refiere la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, que tengan celebrado, para los efectos de este artículo, un convenio con el Instituto, debiendo el pensionado otorgar su consentimiento expreso para",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 16110,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1014,23 +1014,23 @@
       "confidence": "high",
       "char_offset": 6313,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "319",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "e inversión especializadas de fondos para el retiro guarde congruencia con esta Ley, previamente a la entrada en vigor a la misma, se deberá reformar la Ley para la Coordinación de los Sistemas de Ahorro para el Retiro.  La Ley para la Coordinación de los Sistemas de Ahorro para el Retiro deberá prever la prohibición de que los recursos invertidos en las sociedades ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13884,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4943820224719101,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8073394495412844,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1086,7 +1086,7 @@
       "confidence": "high",
       "char_offset": 21412,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4186046511627907,
+      "resolution_score": 0.5416666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -1108,16 +1108,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": " Federación el 23 de enero de 1998  ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2692,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1153,16 +1153,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley del Servicio Militar",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-militar",
       "target_article": null,
       "citation_text": " 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fisca",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3239,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6222222222222222,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio militar"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1243,16 +1243,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "meros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del I",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4139,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1273,16 +1273,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley de la Comisión Nacional de Derechos Humanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": " I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4737,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9591836734693877,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1318,16 +1318,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "y Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4962,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1341,38 +1341,38 @@
       "confidence": "medium",
       "char_offset": 5013,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley de la Comisión Reguladora de Energía",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-energia",
       "target_article": null,
       "citation_text": " Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 3",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5131,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6031746031746031,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7948717948717948,
+      "resolution_matched_alias": "ley de la comisión nacional de energía"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "nación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de C",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5211,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1438,16 +1438,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "eral de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado \"B\" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:  ..........  TRANSITORIO  ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.  México, D.F., a 12 de diciem",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5610,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1536,7 +1536,7 @@
       "confidence": "medium",
       "char_offset": 51665,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6075949367088608,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -1798,16 +1798,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "ciones aplicables.  QUINTO. A partir de la fecha de entrada en vigor este Decreto, queda sin efecto lo previsto en el transitorio Vigésimo Segundo de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2024, exclusivamente por lo que se refiere al destino de los recursos que obtenga el Instituto para Devolver al Pueblo lo Robado en cumplimiento de su obj",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 132626,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9846153846153847,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1948,31 +1948,31 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 146353,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 146436,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1987,5 +1987,5 @@
       "char_offset": 2023
     }
   ],
-  "resolved_at": "2026-03-30T12:18:52.477703+00:00"
+  "resolved_at": "2026-03-30T20:33:12.535715+00:00"
 }

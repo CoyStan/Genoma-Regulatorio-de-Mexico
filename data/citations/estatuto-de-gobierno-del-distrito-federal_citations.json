@@ -63,7 +63,7 @@
       "confidence": "medium",
       "char_offset": 1021,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44274809160305345,
+      "resolution_score": 0.4888888888888889,
       "resolution_matched_alias": null
     },
     {
@@ -262,16 +262,16 @@
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "24",
       "target_law_raw": "Ley de Ingresos del Distrito Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "estatuto-de-gobierno-del-distrito-federal",
       "target_article": null,
       "citation_text": "blea Legislativa del Distrito Federal; Fracción reformada DOF 04-12-1997  II. Aprobar anualmente los montos de endeudamiento que deberán incluirse en la Ley de Ingresos del Distrito Federal, que en su caso requieran el Gobierno del Distrito Federal y las entidades de su sector público, conforme a lo dispuesto por la Ley General de Deuda ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 374,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7532467532467533,
+      "resolution_matched_alias": "estatuto de gobierno del distrito federal"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -321,7 +321,7 @@
       "confidence": "high",
       "char_offset": 267,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.5806451612903226,
       "resolution_matched_alias": null
     },
     {
@@ -399,7 +399,7 @@
       "confidence": "medium",
       "char_offset": 297,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4793388429752066,
+      "resolution_score": 0.6285714285714286,
       "resolution_matched_alias": null
     },
     {
@@ -483,7 +483,7 @@
       "confidence": "medium",
       "char_offset": 553,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43523316062176165,
+      "resolution_score": 0.4868421052631579,
       "resolution_matched_alias": null
     },
     {
@@ -513,7 +513,7 @@
       "confidence": "high",
       "char_offset": 223,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -618,7 +618,7 @@
       "confidence": "medium",
       "char_offset": 573,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -669,7 +669,7 @@
       "confidence": "medium",
       "char_offset": 341,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -696,7 +696,7 @@
       "confidence": "high",
       "char_offset": 258,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5168539325842697,
       "resolution_matched_alias": null
     },
     {
@@ -711,7 +711,7 @@
       "confidence": "medium",
       "char_offset": 161,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.5853658536585366,
       "resolution_matched_alias": null
     },
     {
@@ -756,7 +756,7 @@
       "confidence": "medium",
       "char_offset": 285,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5573770491803278,
+      "resolution_score": 0.6052631578947368,
       "resolution_matched_alias": null
     },
     {
@@ -771,7 +771,7 @@
       "confidence": "medium",
       "char_offset": 179,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.5970149253731343,
       "resolution_matched_alias": null
     },
     {
@@ -798,7 +798,7 @@
       "confidence": "high",
       "char_offset": 485,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6017699115044248,
+      "resolution_score": 0.5619834710743802,
       "resolution_matched_alias": null
     },
     {
@@ -813,7 +813,7 @@
       "confidence": "high",
       "char_offset": 236,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -921,7 +921,7 @@
       "confidence": "high",
       "char_offset": 216,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -1014,7 +1014,7 @@
       "confidence": "high",
       "char_offset": 26124,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -1089,7 +1089,7 @@
       "confidence": "medium",
       "char_offset": 26429,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6808510638297872,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -1104,7 +1104,7 @@
       "confidence": "medium",
       "char_offset": 39990,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4666666666666667,
+      "resolution_score": 0.5632183908045977,
       "resolution_matched_alias": null
     },
     {
@@ -1120,5 +1120,5 @@
       "char_offset": 1308
     }
   ],
-  "resolved_at": "2026-03-30T12:18:41.108285+00:00"
+  "resolved_at": "2026-03-30T20:32:51.046969+00:00"
 }

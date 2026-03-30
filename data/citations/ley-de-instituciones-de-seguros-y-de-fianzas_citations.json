@@ -109,31 +109,31 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "29",
       "target_law_raw": "Ley sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": " los seguros de responsabilidad que por disposición legal tengan el carácter de obligatorios, las Instituciones de Seguros deberán dar cumplimiento a lo dispuesto por la Ley sobre el Contrato de Seguro.  SECCIÓN III DE LAS MUTUALIDADES",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 668,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "31",
       "target_law_raw": "Ley de Fondos de Aseguramiento Agropecuario y Rural",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
       "target_article": null,
       "citation_text": "e sujetarán en su operación al artículo 30 de este ordenamiento y serán regulados, para efectos de su organización, funcionamiento y actividades, por la Ley de Fondos de Aseguramiento Agropecuario y Rural.  CAPÍTULO SEGUNDO DE LAS INSTITUCIONES DE FIANZAS  SECCIÓN I DE LAS DISPOSICIONES GENERALES",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 246,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5277777777777778,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fondos de aseguramiento agropecuario y rural"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -324,7 +324,7 @@
       "confidence": "medium",
       "char_offset": 1095,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -610,16 +610,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "204",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": " en el artículo 203 de esta Ley, a efecto de que dicha Comisión los integre al Registro de Contratos de Adhesión para consulta del público en general previsto en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1078,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -772,16 +772,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "273",
       "target_law_raw": "Ley sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "los fideicomisos en los derechos y acciones contra terceros que por causa del siniestro correspondan a la víctima, los artículos 66 a 71, 81 y 111 de la Ley sobre el Contrato de Seguro, respectivamente; en cuanto a la mora en que incurran en el pago de las prestaciones, el artículo 276 de esta Ley; y en general, las mismas disposici",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6301,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -810,7 +810,7 @@
       "confidence": "medium",
       "char_offset": 3344,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5476190476190477,
+      "resolution_score": 0.6136363636363636,
       "resolution_matched_alias": null
     },
     {
@@ -870,7 +870,7 @@
       "confidence": "medium",
       "char_offset": 668,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.625,
       "resolution_matched_alias": null
     },
     {
@@ -945,7 +945,7 @@
       "confidence": "medium",
       "char_offset": 376,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.625,
       "resolution_matched_alias": null
     },
     {
@@ -975,7 +975,7 @@
       "confidence": "medium",
       "char_offset": 3289,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5476190476190477,
+      "resolution_score": 0.6136363636363636,
       "resolution_matched_alias": null
     },
     {
@@ -997,16 +997,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "290",
       "target_law_raw": "Ley sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "ARTÍCULO 290.- En el caso de los seguros de caución, la certificación del pago prevista en la fracción II del artículo 158 de la Ley sobre el Contrato de Seguro, deberá ser realizada por las personas facultadas por el consejo de administración de la Institución de Seguros de que se trate.  Tratándose de fianz",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 126,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1303,16 +1303,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "375",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "os servidores públicos de la Comisión deberán cumplir con los requisitos del perfil del puesto que determine la propia Comisión y, según corresponda, conforme a lo dispuesto por la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.",
       "pattern_name": "conforme_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 166,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1569,7 +1569,7 @@
       "confidence": "high",
       "char_offset": 1583,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46875,
+      "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
     },
     {
@@ -1584,7 +1584,7 @@
       "confidence": "high",
       "char_offset": 223,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4230769230769231,
+      "resolution_score": 0.49122807017543857,
       "resolution_matched_alias": null
     },
     {
@@ -1644,7 +1644,7 @@
       "confidence": "high",
       "char_offset": 6941,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5342465753424658,
+      "resolution_score": 0.5899280575539568,
       "resolution_matched_alias": null
     },
     {
@@ -1756,31 +1756,31 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley Sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": " presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Las reformas y adiciones a la Ley Sobre el Contrato de Seguro, contenidas en el presente Decreto, entrarán en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación, con excepción d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 14332,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "tivos que se estipulan mediante el presente Decreto.  IV.\tLa obligación de contar con la certificación a que se refiere el artículo 4, fracción X, de la Ley de la Comisión Nacional Bancaria y de Valores, entrará en vigor a partir del 1 de enero del 2015. Las disposiciones de carácter general a que se refiere dicho precepto, se emitirán por la Comisió",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 17487,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1831,31 +1831,31 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
       "target_article": null,
       "citation_text": " de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21182,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5202312138728323,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la agencia nacional de seguridad industrial y de protección al medio ambiente del sector hidrocarburos"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de la Comisión Federal de Electricidad",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "target_article": null,
       "citation_text": "eminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federal de Electricidad, de la Ley de la Comisión Nacional Bancaria y de Valores, de la Ley que Crea la Agencia de Noticias del Estado Mexicano, de la Ley del Sistema Públic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21299,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.647887323943662,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de la empresa pública del estado, comisión federal de electricidad"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1876,16 +1876,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "icias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitució",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21589,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1906,31 +1906,31 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de la Economía Social y Solidaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-economia-social-y-solidaria",
       "target_article": null,
       "citation_text": "es de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21708,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la economía social y solidaria"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de la Casa de Moneda de México",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-casa-de-moneda-de-mexico",
       "target_article": null,
       "citation_text": "a del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de A",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21912,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7017543859649122,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la casa de moneda de méxico"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1951,16 +1951,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "s Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21990,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1981,16 +1981,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de Asistencia Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asistencia-social",
       "target_article": null,
       "citation_text": "a de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la L",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22088,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asistencia social"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -2131,16 +2131,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de los Institutos Nacionales de Salud",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-institutos-nacionales-de-salud",
       "target_article": null,
       "citation_text": " Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22672,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6944444444444444,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los institutos nacionales de salud"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -2154,7 +2154,7 @@
       "confidence": "medium",
       "char_offset": 22721,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -2200,5 +2200,5 @@
       "char_offset": 15148
     }
   ],
-  "resolved_at": "2026-03-30T12:18:47.205470+00:00"
+  "resolved_at": "2026-03-30T20:33:03.525531+00:00"
 }

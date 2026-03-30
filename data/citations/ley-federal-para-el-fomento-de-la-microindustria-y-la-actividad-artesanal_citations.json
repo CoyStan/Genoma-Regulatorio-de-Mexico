@@ -57,7 +57,7 @@
       "confidence": "medium",
       "char_offset": 156,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4675324675324675,
+      "resolution_score": 0.5730994152046783,
       "resolution_matched_alias": null
     },
     {
@@ -76,16 +76,16 @@
       "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
       "source_article": "41",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "ARTICULO 41.- El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público y según se prevea en la Ley de Ingresos de la Federación, concederá a los empresarios de microindustrias los estímulos fiscales correspondientes. Al efecto se integrará un paquete especializado, adecuado a ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 113,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
@@ -232,5 +232,5 @@
       "char_offset": 1183
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.393032+00:00"
+  "resolved_at": "2026-03-30T20:33:19.241509+00:00"
 }

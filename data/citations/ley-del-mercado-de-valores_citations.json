@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 1220,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
+      "resolution_score": 0.6470588235294118,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "medium",
       "char_offset": 1816,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43023255813953487,
+      "resolution_score": 0.5605095541401274,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "medium",
       "char_offset": 2459,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3902439024390244,
+      "resolution_score": 0.5827814569536424,
       "resolution_matched_alias": null
     },
     {
@@ -439,16 +439,16 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "70",
       "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fondos-de-inversion",
       "target_article": null,
       "citation_text": "n el mercado de valores, según corresponda. Asimismo, en el Registro se inscribirán los fondos de inversión constituidos y organizados en términos de la Ley de Fondos de Inversión. Artículo reformado DOF 10-01-2014",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 298,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fondos de inversión"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -462,7 +462,7 @@
       "confidence": "medium",
       "char_offset": 555,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
+      "resolution_score": 0.7428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -519,7 +519,7 @@
       "confidence": "high",
       "char_offset": 266,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4857142857142857,
+      "resolution_score": 0.6285714285714286,
       "resolution_matched_alias": null
     },
     {
@@ -549,7 +549,7 @@
       "confidence": "high",
       "char_offset": 829,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48,
+      "resolution_score": 0.5882352941176471,
       "resolution_matched_alias": null
     },
     {
@@ -789,7 +789,7 @@
       "confidence": "high",
       "char_offset": 387,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3937007874015748,
+      "resolution_score": 0.5233644859813084,
       "resolution_matched_alias": null
     },
     {
@@ -849,7 +849,7 @@
       "confidence": "high",
       "char_offset": 883,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.42857142857142855,
+      "resolution_score": 0.5319148936170213,
       "resolution_matched_alias": null
     },
     {
@@ -943,16 +943,16 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "225",
       "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fondos-de-inversion",
       "target_article": null,
       "citation_text": "ercantiles, podrán solicitar a la Comisión autorización para actuar como socio fundador de fondos de inversión a los que se refiere el artículo 30 de la Ley de Fondos de Inversión.  Los asesores en inversiones que obtengan la autorización a que se refiere el párrafo anterior, podrán proporcionar a dichos fondos de inversión el ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 294,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fondos de inversión"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -966,7 +966,7 @@
       "confidence": "medium",
       "char_offset": 722,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41530054644808745,
+      "resolution_score": 0.4720496894409938,
       "resolution_matched_alias": null
     },
     {
@@ -981,7 +981,7 @@
       "confidence": "medium",
       "char_offset": 422,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4782608695652174,
+      "resolution_score": 0.6419753086419753,
       "resolution_matched_alias": null
     },
     {
@@ -1011,7 +1011,7 @@
       "confidence": "high",
       "char_offset": 1473,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5294117647058824,
+      "resolution_score": 0.6410256410256411,
       "resolution_matched_alias": null
     },
     {
@@ -1056,7 +1056,7 @@
       "confidence": "high",
       "char_offset": 163,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4594594594594595,
+      "resolution_score": 0.5897435897435898,
       "resolution_matched_alias": null
     },
     {
@@ -1086,7 +1086,7 @@
       "confidence": "high",
       "char_offset": 463,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
+      "resolution_score": 0.5617977528089888,
       "resolution_matched_alias": null
     },
     {
@@ -1333,16 +1333,16 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "399",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": " exhibirse a los inspectores de la Comisión al amparo de una visita de inspección, se deberá observar lo previsto en el artículo 5, primer párrafo de la Ley de la Comisión Nacional Bancaria y de Valores y demás disposiciones aplicables. Párrafo adicionado DOF 10-01-2014  Para efectos de este Capítulo, se entenderá por autoridades financieras a la Secretaría, Comisión y el Banco de M",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1614,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1428,7 +1428,7 @@
       "confidence": "medium",
       "char_offset": 13518,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5165562913907285,
+      "resolution_score": 0.4270833333333333,
       "resolution_matched_alias": null
     },
     {
@@ -1450,31 +1450,31 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "423",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Ins",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 14571,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "423",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "ientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 14610,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1615,16 +1615,16 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "423",
       "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fondos-de-inversion",
       "target_article": null,
       "citation_text": " distribuidoras de acciones de sociedades de inversión y las sociedades valuadoras de acciones de sociedades de inversión, se entenderán efectuadas a la Ley de Fondos de Inversión, los fondos de inversión; las sociedades operadoras de fondos de inversión; las sociedades distribuidoras de acciones de fondos de inversión, y las s",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 30768,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fondos de inversión"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1675,16 +1675,16 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "423",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 41120,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1735,16 +1735,16 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "423",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "nformación Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.  Publicado en el Diario Oficial de la Fede",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 41386,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1804,5 +1804,5 @@
       "char_offset": 13904
     }
   ],
-  "resolved_at": "2026-03-30T12:18:51.974027+00:00"
+  "resolved_at": "2026-03-30T20:33:11.224376+00:00"
 }

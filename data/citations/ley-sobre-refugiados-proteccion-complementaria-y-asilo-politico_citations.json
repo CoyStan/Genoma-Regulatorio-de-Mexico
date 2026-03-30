@@ -15,23 +15,23 @@
       "confidence": "medium",
       "char_offset": 995,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "2",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": "o refugiado, por la Secretaría de Gobernación y recibe protección como tal.  IX. Representación: Las señaladas en el artículo 1 Bis, fracción VIII de la Ley del Servicio Exterior Mexicano.  X. Secretaría: Secretaría de Gobernación.  XI. Solicitante de Asilo Político: El extranjero que solicita a la Secretaría de Relaciones Exteriores, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1983,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -156,23 +156,23 @@
       "confidence": "high",
       "char_offset": 213,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "53",
       "target_law_raw": "Ley de Extradición Internacional",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-extradicion-internacional",
       "target_article": null,
       "citation_text": "o de la Secretaría de Relaciones Exteriores, para su consideración, antes de que emita la opinión jurídica a que se refieren los artículos 28 y 29 de la Ley de Extradición Internacional.  Cuando una solicitud de reconocimiento de la condición de refugiado se encuentre pendiente de resolución, la Secretaría deberá resolver sobre el re",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1155,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7017543859649122,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de extradición internacional"
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -231,7 +231,7 @@
       "confidence": "high",
       "char_offset": 360,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.4235294117647059,
       "resolution_matched_alias": null
     },
     {
@@ -276,7 +276,7 @@
       "confidence": "high",
       "char_offset": 255,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -306,23 +306,23 @@
       "confidence": "medium",
       "char_offset": 2911,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.423728813559322,
+      "resolution_score": 0.6622516556291391,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "76",
       "target_law_raw": "Ley Sobre Refugiados y Protección Complementaria y se reforman",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "target_article": null,
       "citation_text": "os artículos 21, primer párrafo; 25, segundo párrafo, 31, 38, tercer párrafo, 44 fracción VII, y Tercero Transitorio del Decreto por el que se expide la Ley Sobre Refugiados y Protección Complementaria y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Población, Publicado en el Diario Oficial de la Federación el 27 de enero de 2011 y ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3255,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4946236559139785,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8253968253968254,
+      "resolution_matched_alias": "ley sobre refugiados, protección complementaria y asilo político"
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -343,16 +343,16 @@
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "76",
       "target_law_raw": "Ley sobre Refugiados y Protección Complementaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "target_article": null,
       "citation_text": "Bis; 14 Ter; 35 Bis; un Título Séptimo, denominado Del Asilo; los artículos 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75 y 76 a la Ley sobre Refugiados y Protección Complementaria, para quedar como sigue:    Transitorios  Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3650,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5316455696202531,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8214285714285714,
+      "resolution_matched_alias": "ley sobre refugiados, protección complementaria y asilo político"
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -366,7 +366,7 @@
       "confidence": "medium",
       "char_offset": 5892,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -382,5 +382,5 @@
       "char_offset": 2135
     }
   ],
-  "resolved_at": "2026-03-30T12:19:03.321087+00:00"
+  "resolved_at": "2026-03-30T20:33:32.617149+00:00"
 }

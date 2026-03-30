@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 130,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 218,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -162,23 +162,23 @@
       "confidence": "medium",
       "char_offset": 2246,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4246575342465753,
+      "resolution_score": 0.4675324675324675,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-comercio-exterior",
       "source_article": "98",
       "target_law_raw": "Ley de Expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "e la fracción I del Artículo 52 del Código Fiscal de la Federación, entrará en vigor el 1o. de enero de 1996.  TERCERO.- La reforma al Artículo 10 de la Ley de Expropiación, se aplicará a las expropiaciones que se realicen a partir de la entrada en vigor del presente Decreto.  CUARTO.- La ampliación del plazo de protecci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4691,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-de-comercio-exterior",
@@ -253,5 +253,5 @@
       "char_offset": 1713
     }
   ],
-  "resolved_at": "2026-03-30T12:18:43.484955+00:00"
+  "resolved_at": "2026-03-30T20:32:56.924273+00:00"
 }

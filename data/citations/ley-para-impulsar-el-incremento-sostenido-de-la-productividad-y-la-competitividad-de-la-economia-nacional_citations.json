@@ -49,16 +49,16 @@
       "source_law": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
       "source_article": "4",
       "target_law_raw": "Ley para el Desarrollo de la Competitividad de la Micro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
       "target_article": null,
       "citation_text": "otras empresas, en particular de las MIPYMES;  VIII.\tMIPYMES: Las micro, pequeñas y medianas empresas a que se refiere el artículo 3, fracción III de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, así como demás disposiciones aplicables;  IX.\tNúcleo productivo: Grupo de empresas asentadas en una misma zona geográfica",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1701,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5054945054945055,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8029197080291971,
+      "resolution_matched_alias": "ley para el desarrollo de la competitividad de la micro, pequeña y mediana empresa"
     },
     {
       "source_law": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
@@ -198,7 +198,7 @@
       "confidence": "high",
       "char_offset": 841,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4423076923076923,
+      "resolution_score": 0.48175182481751827,
       "resolution_matched_alias": null
     },
     {
@@ -213,7 +213,7 @@
       "confidence": "high",
       "char_offset": 1298,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.4642857142857143,
       "resolution_matched_alias": null
     },
     {
@@ -244,5 +244,5 @@
       "char_offset": 3164
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.621124+00:00"
+  "resolved_at": "2026-03-30T20:33:31.030904+00:00"
 }

@@ -15,7 +15,7 @@
       "confidence": "medium",
       "char_offset": 235,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6041666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -52,16 +52,16 @@
       "source_law": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "source_article": "67",
       "target_law_raw": "Ley de Cooperación Internacional para el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-cooperacion-internacional-para-el-desarrollo",
       "target_article": null,
       "citation_text": "ETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5332,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de cooperación internacional para el desarrollo"
     },
     {
       "source_law": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
@@ -135,7 +135,7 @@
       "confidence": "medium",
       "char_offset": 5659,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -187,16 +187,16 @@
       "source_law": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "source_article": "67",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "pondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7296,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8695652173913043,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
@@ -210,7 +210,7 @@
       "confidence": "medium",
       "char_offset": 15284,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37185929648241206,
+      "resolution_score": 0.4482758620689655,
       "resolution_matched_alias": null
     },
     {
@@ -270,7 +270,7 @@
       "confidence": "medium",
       "char_offset": 35448,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -315,7 +315,7 @@
       "confidence": "medium",
       "char_offset": 36752,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3769633507853403,
+      "resolution_score": 0.5777777777777777,
       "resolution_matched_alias": null
     },
     {
@@ -331,5 +331,5 @@
       "char_offset": 4740
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.688041+00:00"
+  "resolved_at": "2026-03-30T20:33:31.258037+00:00"
 }

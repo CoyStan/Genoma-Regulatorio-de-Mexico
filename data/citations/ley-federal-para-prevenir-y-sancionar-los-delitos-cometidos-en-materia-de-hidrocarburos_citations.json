@@ -37,16 +37,16 @@
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "2",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "erán aplicables el Libro Primero del Código Penal Federal, el Código Federal de Procedimientos Penales, el Código Nacional de Procedimientos Penales, la Ley Federal contra la Delincuencia Organizada, la Ley de Hidrocarburos, la Ley de Seguridad Nacional, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Federal de Extinción de Domi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 202,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
@@ -204,7 +204,7 @@
       "confidence": "high",
       "char_offset": 180,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
+      "resolution_score": 0.547945205479452,
       "resolution_matched_alias": null
     },
     {
@@ -339,7 +339,7 @@
       "confidence": "medium",
       "char_offset": 8532,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4409448818897638,
+      "resolution_score": 0.6617647058823529,
       "resolution_matched_alias": null
     },
     {
@@ -385,5 +385,5 @@
       "char_offset": 264
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.629018+00:00"
+  "resolved_at": "2026-03-30T20:33:19.886988+00:00"
 }

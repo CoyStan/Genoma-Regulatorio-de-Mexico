@@ -298,16 +298,16 @@
       "source_law": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
       "source_article": "102",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "financiamiento para el desarrollo de los proyectos que incidan en el ámbito de competencia de la presente Ley, deberán cumplir con lo establecido por la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como presentar a las instituciones de crédito el instrumento expedido por la autoridad competente, a través del cual se determine que el proyect",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 325,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
@@ -337,5 +337,5 @@
       "char_offset": 1350
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.860852+00:00"
+  "resolved_at": "2026-03-30T20:33:20.345022+00:00"
 }

@@ -141,7 +141,7 @@
       "confidence": "medium",
       "char_offset": 3763,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -183,7 +183,7 @@
       "confidence": "high",
       "char_offset": 3870,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -288,23 +288,23 @@
       "confidence": "medium",
       "char_offset": 1323,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-mineria",
       "source_article": "65",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "an diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7779,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-mineria",
@@ -355,16 +355,16 @@
       "source_law": "ley-de-mineria",
       "source_article": "65",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "n diversas disposiciones de la Ley Minera, de la Ley de Aguas Nacionales, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y de la Ley General para la Prevención y Gestión Integral de los Residuos, en materia de concesiones para minería y agua.  Publicado en el Diario Oficial de la Federación el 8 de mayo de 2023  Artículo Primero.- Se reforman",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22482,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-de-mineria",
@@ -379,5 +379,5 @@
       "char_offset": 7118
     }
   ],
-  "resolved_at": "2026-03-30T12:18:48.690033+00:00"
+  "resolved_at": "2026-03-30T20:33:06.186455+00:00"
 }

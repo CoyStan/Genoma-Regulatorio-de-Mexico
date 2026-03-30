@@ -31,16 +31,16 @@
       "source_law": "ley-de-vivienda",
       "source_article": "7",
       "target_law_raw": "Ley de Presupuesto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": " para tal fin se contemple en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y deberán observar las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, la Ley de Ingresos de la Federación y del Presupuesto de Egresos de la Federación para el ejercicio fiscal de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1295,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-vivienda",
@@ -54,7 +54,7 @@
       "confidence": "medium",
       "char_offset": 1356,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.430939226519337,
+      "resolution_score": 0.6914893617021277,
       "resolution_matched_alias": null
     },
     {
@@ -69,7 +69,7 @@
       "confidence": "medium",
       "char_offset": 276,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5052631578947369,
+      "resolution_score": 0.735632183908046,
       "resolution_matched_alias": null
     },
     {
@@ -84,7 +84,7 @@
       "confidence": "medium",
       "char_offset": 87,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5042016806722689,
+      "resolution_score": 0.48333333333333334,
       "resolution_matched_alias": null
     },
     {
@@ -129,7 +129,7 @@
       "confidence": "high",
       "char_offset": 2162,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -694,31 +694,31 @@
       "source_law": "ley-de-vivienda",
       "source_article": "97",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19386,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-de-vivienda",
       "source_article": "97",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19469,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-de-vivienda",
@@ -733,5 +733,5 @@
       "char_offset": 1931
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.914691+00:00"
+  "resolved_at": "2026-03-30T20:33:08.817984+00:00"
 }

@@ -15,7 +15,7 @@
       "confidence": "medium",
       "char_offset": 870,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
+      "resolution_score": 0.7358490566037735,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 2324,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4215686274509804,
+      "resolution_score": 0.44019138755980863,
       "resolution_matched_alias": null
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "medium",
       "char_offset": 8640,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4508670520231214,
+      "resolution_score": 0.4657534246575342,
       "resolution_matched_alias": null
     },
     {
@@ -139,46 +139,46 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "2",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "a directa: las erogaciones que tienen como contraprestación la constitución de un activo; Fracción adicionada DOF 24-01-2014  XXXII. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;  XXXII Bis. Límite máximo del gasto corriente estructural: es el gasto corriente estructural de la última Cuenta Pública disponible al momento de pr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9803,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.855072463768116,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "2",
       "target_law_raw": "Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "en el Presupuesto de Egresos, que no corresponden al gasto directo de las dependencias, aunque su ejercicio esté a cargo de éstas;  XLIV. Reglamento: el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;  XLV. Reglas de operación: las disposiciones a las cuales se sujetan determinados programas y fondos federales con el objeto de otorgar transparenci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13640,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5666666666666667,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8661417322834646,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "2",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "os contratados en moneda nacional o extranjera;  LIV Bis.\tTransferencias del Fondo Mexicano del Petróleo: aquéllas a que se refiere el artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que el Fondo Mexicano del Petróleo debe realizar en los términos del Título Quinto de la presente Ley; Fracción adicionada DOF 11-08-2014  LV. Tribu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 17132,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -306,7 +306,7 @@
       "confidence": "medium",
       "char_offset": 834,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
+      "resolution_score": 0.6071428571428571,
       "resolution_matched_alias": null
     },
     {
@@ -321,7 +321,7 @@
       "confidence": "medium",
       "char_offset": 4158,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.36649214659685864,
+      "resolution_score": 0.4126984126984127,
       "resolution_matched_alias": null
     },
     {
@@ -373,16 +373,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "19",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": " en los convenios de colaboración administrativa en materia fiscal federal celebrados entre la Secretaría y las entidades federativas, en términos de la Ley de Coordinación Fiscal, respecto de los montos pagados por los créditos fiscales federales propios que realicen las entidades federativas, sus municipios o cualquiera de su",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 243,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -418,16 +418,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "23",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "-2012. Reformado DOF 24-01-2014, 13-11-2023  También se publicará en el Diario Oficial de la Federación el calendario mensual de ingresos derivado de la Ley de Ingresos de la Federación, 15 días hábiles después de la publicación de dicha Ley. La Secretaría deberá entregar a la Cámara de Diputados, la metodología y criterios que hubie",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2149,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -498,7 +498,7 @@
       "confidence": "medium",
       "char_offset": 336,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5373134328358209,
+      "resolution_score": 0.5675675675675675,
       "resolution_matched_alias": null
     },
     {
@@ -562,16 +562,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "41",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "s de gasto que correspondan al Programa Especial Concurrente para el Desarrollo Rural Sustentable, conforme a lo previsto en los artículos 16 y 69 de la Ley de Desarrollo Rural Sustentable; Inciso adicionado DOF 19-01-2012  r) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología e Innovación, conforme a lo previs",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3202,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -585,7 +585,7 @@
       "confidence": "medium",
       "char_offset": 3414,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -600,7 +600,7 @@
       "confidence": "medium",
       "char_offset": 3663,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47674418604651164,
+      "resolution_score": 0.5269461077844312,
       "resolution_matched_alias": null
     },
     {
@@ -627,7 +627,7 @@
       "confidence": "medium",
       "char_offset": 31,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46715328467153283,
+      "resolution_score": 0.4927536231884058,
       "resolution_matched_alias": null
     },
     {
@@ -642,7 +642,7 @@
       "confidence": "medium",
       "char_offset": 329,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45652173913043476,
+      "resolution_score": 0.5471698113207547,
       "resolution_matched_alias": null
     },
     {
@@ -657,7 +657,7 @@
       "confidence": "medium",
       "char_offset": 2043,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4171779141104294,
+      "resolution_score": 0.4732824427480916,
       "resolution_matched_alias": null
     },
     {
@@ -672,7 +672,7 @@
       "confidence": "medium",
       "char_offset": 3214,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5294117647058824,
+      "resolution_score": 0.5858585858585859,
       "resolution_matched_alias": null
     },
     {
@@ -687,7 +687,7 @@
       "confidence": "medium",
       "char_offset": 5208,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5892857142857143,
+      "resolution_score": 0.6185567010309279,
       "resolution_matched_alias": null
     },
     {
@@ -702,7 +702,7 @@
       "confidence": "medium",
       "char_offset": 972,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.5578947368421052,
       "resolution_matched_alias": null
     },
     {
@@ -717,7 +717,7 @@
       "confidence": "medium",
       "char_offset": 1233,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4774193548387097,
+      "resolution_score": 0.49624060150375937,
       "resolution_matched_alias": null
     },
     {
@@ -766,16 +766,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "48",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "dades y demás vehículos o mecanismos que dispongan preponderantemente de recursos públicos federales que sean titulares de una concesión al amparo de la Ley de Caminos, Puentes y Autotransporte Federal, podrán ceder los derechos y obligaciones establecidos en la misma sin sujetarse al plazo establecido en dicho orde",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6250,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -811,16 +811,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "68",
       "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "similares, deberán sujetarse a lo siguiente:  I. Los estímulos deberán otorgarse en los términos que dispongan el artículo 9 de la Ley de Planeación, la Ley del Servicio Profesional de Carrera en la Administración Pública Federal, la Ley de Premios, Estímulos y Recompensas Civiles, o en las demás leyes que prevean expresamente percepciones extraordinarias similares;  II. Los r",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 361,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.72,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio profesional de carrera en la administración pública federal"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -879,23 +879,23 @@
       "confidence": "high",
       "char_offset": 3090,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
+      "resolution_score": 0.7358490566037735,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "85",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "berán incluir información sobre la incidencia del ejercicio de los recursos de los Fondos de Aportaciones Federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, de manera diferenciada entre mujeres y hombres. Párrafo adicionado DOF 19-01-2012  Para los efectos de esta fracción, las entidades federativas y, p",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1328,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -909,7 +909,7 @@
       "confidence": "medium",
       "char_offset": 432,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -924,7 +924,7 @@
       "confidence": "medium",
       "char_offset": 261,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -939,7 +939,7 @@
       "confidence": "medium",
       "char_offset": 276,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -954,23 +954,23 @@
       "confidence": "medium",
       "char_offset": 196,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "91",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "de multiplicar los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.0087, y se sujetará a lo establecido en el artículo 4o-B de la Ley de Coordinación Fiscal. Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 294,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -984,23 +984,23 @@
       "confidence": "medium",
       "char_offset": 294,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "92",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "r los ingresos petroleros aprobados en la Ley de Ingresos por un factor de 0.00051, y se sujetará a lo establecido en el artículo 2-A, fracción II de la Ley de Coordinación Fiscal. Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 405,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1014,23 +1014,23 @@
       "confidence": "high",
       "char_offset": 1436,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4470588235294118,
+      "resolution_score": 0.49382716049382713,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "93",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "Artículo 93.- La transferencia del Fondo Mexicano del Petróleo a que se refiere el artículo 16, fracción II, inciso g), de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, será la cantidad que resulte de restar al monto en pesos equivalente a 4.7% del Producto Interno Bruto nominal establecido en los Criterios Generale",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 123,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1044,7 +1044,7 @@
       "confidence": "medium",
       "char_offset": 1252,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.425531914893617,
+      "resolution_score": 0.46956521739130436,
       "resolution_matched_alias": null
     },
     {
@@ -1063,31 +1063,31 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "95",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "s que correspondan. Dichas transferencias serán adicionales a aquéllas que se realicen de acuerdo a lo establecido en el artículo 16, fracción II, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo. Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1724,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "96",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "ferencias del Fondo Mexicano del Petróleo serán adicionales a aquéllas que se realicen de acuerdo a lo establecido en el artículo 16, fracción II, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo. Artículo derogado DOF 31-12-2008. Adicionado DOF 11-08-2014",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 696,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1116,7 +1116,7 @@
       "confidence": "medium",
       "char_offset": 2072,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4369747899159664,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -1153,16 +1153,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "107",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": " de base para el cálculo del pago de las participaciones a las entidades federativas. La recaudación federal participable se calculará de acuerdo con lo previsto en la Ley de Coordinación Fiscal. La recaudación federal participable se comparará con la correspondiente al mismo mes del año previo y con el programa, y se incluirá una explicación",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 9819,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1260,7 +1260,7 @@
       "confidence": "medium",
       "char_offset": 70,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5079365079365079,
+      "resolution_score": 0.5909090909090909,
       "resolution_matched_alias": null
     },
     {
@@ -1275,7 +1275,7 @@
       "confidence": "medium",
       "char_offset": 526,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
+      "resolution_score": 0.5681818181818182,
       "resolution_matched_alias": null
     },
     {
@@ -1290,7 +1290,7 @@
       "confidence": "high",
       "char_offset": 57540,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.4594594594594595,
       "resolution_matched_alias": null
     },
     {
@@ -1312,16 +1312,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "e el ejercicio fiscal 2006 serán aplicables los destinos señalados en los artículos 23-Bis, 24 y 25 del Decreto referido.  CUARTO. En tanto se expida el Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se continuará aplicando el Reglamento de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, así como las demás disposiciones vigentes en l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1081,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5666666666666667,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8661417322834646,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1335,7 +1335,7 @@
       "confidence": "medium",
       "char_offset": 1182,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4642857142857143,
+      "resolution_score": 0.676056338028169,
       "resolution_matched_alias": null
     },
     {
@@ -1350,23 +1350,23 @@
       "confidence": "medium",
       "char_offset": 4824,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "l Distrito Federal de los recursos del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas, a que se refiere el artículo 46 de la Ley de Coordinación Fiscal, se realizará de acuerdo con los porcentajes que a cada entidad federativa le haya correspondido conforme a la distribución del Programa de Apoyos pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5150,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1425,7 +1425,7 @@
       "confidence": "medium",
       "char_offset": 40319,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40236686390532544,
+      "resolution_score": 0.48366013071895425,
       "resolution_matched_alias": null
     },
     {
@@ -1440,23 +1440,23 @@
       "confidence": "medium",
       "char_offset": 41648,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
+      "resolution_score": 0.4689655172413793,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "r a más tardar dentro de los doce meses siguientes a la entrada en vigor del presente Decreto. La Auditoría Superior de la Federación, en términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación, procederá al fincamiento de las responsabilidades que correspondan, en caso de que derivado de la auditoría practicada detecte actos ilegales relaci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 43988,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1507,16 +1507,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Ley de Cooperación Internacional para el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-cooperacion-internacional-para-el-desarrollo",
       "target_article": null,
       "citation_text": "ETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 65194,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de cooperación internacional para el desarrollo"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1590,7 +1590,7 @@
       "confidence": "medium",
       "char_offset": 65521,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -1642,16 +1642,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "pondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 67279,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8695652173913043,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1665,7 +1665,7 @@
       "confidence": "medium",
       "char_offset": 75267,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.37185929648241206,
+      "resolution_score": 0.4482758620689655,
       "resolution_matched_alias": null
     },
     {
@@ -1732,16 +1732,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 117522,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1816,5 +1816,5 @@
       "char_offset": 3535
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.092808+00:00"
+  "resolved_at": "2026-03-30T20:33:17.086767+00:00"
 }

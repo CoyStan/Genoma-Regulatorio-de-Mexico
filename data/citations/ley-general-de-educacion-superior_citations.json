@@ -252,7 +252,7 @@
       "confidence": "high",
       "char_offset": 1928,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.55,
+      "resolution_score": 0.5660377358490566,
       "resolution_matched_alias": null
     },
     {
@@ -267,7 +267,7 @@
       "confidence": "high",
       "char_offset": 2076,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43902439024390244,
+      "resolution_score": 0.49523809523809526,
       "resolution_matched_alias": null
     },
     {
@@ -282,7 +282,7 @@
       "confidence": "high",
       "char_offset": 91,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
+      "resolution_score": 0.7326732673267327,
       "resolution_matched_alias": null
     },
     {
@@ -391,16 +391,16 @@
       "source_law": "ley-general-de-educacion-superior",
       "source_article": "67",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "ansferidos a las instituciones públicas de educación superior estarán sujetos a la fiscalización de la Auditoría Superior de la Federación conforme a la Ley de Fiscalización y Rendición de Cuentas de la Federación. En el caso de los recursos públicos estatales y municipales, la fiscalización y rendición de cuentas se sujetará a lo dispuesto en las leyes y dispo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3132,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-general-de-educacion-superior",
@@ -616,5 +616,5 @@
       "char_offset": 13561
     }
   ],
-  "resolved_at": "2026-03-30T12:18:57.665723+00:00"
+  "resolved_at": "2026-03-30T20:33:22.021717+00:00"
 }

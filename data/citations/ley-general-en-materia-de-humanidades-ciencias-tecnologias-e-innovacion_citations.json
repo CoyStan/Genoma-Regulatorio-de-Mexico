@@ -31,16 +31,16 @@
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "4",
       "target_law_raw": "Ley de la Economía Social y Solidaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-economia-social-y-solidaria",
       "target_article": null,
       "citation_text": " económica que realiza el sector social de la economía al que se refiere el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1537,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5517241379310345,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la economía social y solidaria"
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -120,23 +120,23 @@
       "confidence": "medium",
       "char_offset": 105,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4375,
+      "resolution_score": 0.49572649572649574,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "17",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": " años;  V.\tEl Programa Nacional de Innovación al que se refiere esta Ley, y  VI.\tEl Programa para el Desarrollo de la Bioseguridad y la Biotecnología a que se refiere la Ley de Bioseguridad de Organismos Genéticamente Modificados.  Sección Segunda De los Programas de las Entidades Federativas",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 967,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -199,16 +199,16 @@
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "32",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "mpetentes, criterios y esquemas de ejercicio participativo de los recursos provenientes de las aportaciones federales que les correspondan conforme a la Ley de Coordinación Fiscal.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 246,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -222,7 +222,7 @@
       "confidence": "medium",
       "char_offset": 5089,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5185185185185185,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -237,7 +237,7 @@
       "confidence": "medium",
       "char_offset": 2581,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4235294117647059,
+      "resolution_score": 0.5308056872037915,
       "resolution_matched_alias": null
     },
     {
@@ -291,7 +291,7 @@
       "confidence": "high",
       "char_offset": 540,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5797101449275363,
       "resolution_matched_alias": null
     },
     {
@@ -313,16 +313,16 @@
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "63",
       "target_law_raw": "Ley sobre la Celebración de Tratados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "ral, en acuerdo con la Secretaría de Relaciones Exteriores y de conformidad con las disposiciones legales aplicables;  XXI.\tSuscribir, en términos de la Ley sobre la Celebración de Tratados, acuerdos interinstitucionales en los temas de su competencia, incluyendo aquellos de cooperación técnica que tengan por objeto identificar áreas de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4802,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6129032258064516,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -445,16 +445,16 @@
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "80",
       "target_law_raw": "Reglamento General del Sistema Nacional de Centros Públicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "Artículo 80. La Junta de Gobierno del Consejo Nacional, a propuesta de la persona titular de la Dirección General, emitirá el Reglamento General del Sistema Nacional de Centros Públicos, así como la demás normativa necesaria para regular lo dispuesto en el presente Capítulo. De igual manera, expedirá las Bases Generales para la Profe",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 123,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6792452830188679,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7678571428571429,
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -475,16 +475,16 @@
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "91",
       "target_law_raw": "Reglamento General del Sistema Nacional de Centros Públicos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "Artículo 91. Los Centros Públicos se regirán por esta Ley, por el Reglamento General del Sistema Nacional de Centros Públicos, cuando así corresponda, y por sus instrumentos de creación, así como por la normativa que, en su caso, expida el Consejo Nacional. En lo no previsto",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 63,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6792452830188679,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7678571428571429,
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -543,7 +543,7 @@
       "confidence": "high",
       "char_offset": 2199,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -588,7 +588,7 @@
       "confidence": "high",
       "char_offset": 4701,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -603,7 +603,7 @@
       "confidence": "medium",
       "char_offset": 1343,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49696969696969695,
+      "resolution_score": 0.5555555555555556,
       "resolution_matched_alias": null
     },
     {
@@ -634,5 +634,5 @@
       "char_offset": 8794
     }
   ],
-  "resolved_at": "2026-03-30T12:19:00.413460+00:00"
+  "resolved_at": "2026-03-30T20:33:26.392511+00:00"
 }

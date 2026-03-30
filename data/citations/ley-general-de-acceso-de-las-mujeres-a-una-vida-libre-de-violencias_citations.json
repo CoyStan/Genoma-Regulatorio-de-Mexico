@@ -54,7 +54,7 @@
       "confidence": "high",
       "char_offset": 385,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5094339622641509,
+      "resolution_score": 0.5470085470085471,
       "resolution_matched_alias": null
     },
     {
@@ -84,7 +84,7 @@
       "confidence": "high",
       "char_offset": 527,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -243,7 +243,7 @@
       "confidence": "medium",
       "char_offset": 372,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4189189189189189,
+      "resolution_score": 0.5048543689320388,
       "resolution_matched_alias": null
     },
     {
@@ -258,7 +258,7 @@
       "confidence": "medium",
       "char_offset": 649,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.41916167664670656,
+      "resolution_score": 0.5064935064935064,
       "resolution_matched_alias": null
     },
     {
@@ -348,7 +348,7 @@
       "confidence": "medium",
       "char_offset": 10469,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6075949367088608,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -438,7 +438,7 @@
       "confidence": "medium",
       "char_offset": 44014,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4158415841584158,
+      "resolution_score": 0.45263157894736844,
       "resolution_matched_alias": null
     },
     {
@@ -640,31 +640,31 @@
       "source_law": "ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
       "source_article": "60",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 66383,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
       "source_article": "60",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 66466,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
@@ -679,5 +679,5 @@
       "char_offset": 2264
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.761154+00:00"
+  "resolved_at": "2026-03-30T20:33:20.270877+00:00"
 }

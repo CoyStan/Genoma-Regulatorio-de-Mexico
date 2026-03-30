@@ -27,23 +27,23 @@
       "confidence": "high",
       "char_offset": 668,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
       "source_article": "4",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "es federales. Para efectos de dicho cómputo no quedan comprendidos los recursos federales correspondientes a los fondos previstos en el capítulo V de la Ley de Coordinación Fiscal.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1265,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -156,7 +156,7 @@
       "confidence": "high",
       "char_offset": 767,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
+      "resolution_score": 0.6274509803921569,
       "resolution_matched_alias": null
     },
     {
@@ -246,7 +246,7 @@
       "confidence": "high",
       "char_offset": 1259,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -360,7 +360,7 @@
       "confidence": "high",
       "char_offset": 237,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46601941747572817,
+      "resolution_score": 0.5061728395061729,
       "resolution_matched_alias": null
     },
     {
@@ -397,16 +397,16 @@
       "source_law": "ley-de-asociaciones-publico-privadas",
       "source_article": "76",
       "target_law_raw": "Ley de Expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "Artículo 76. Son causas de utilidad pública, además de las previstas en la Ley de Expropiación, en la Ley Agraria y en otras disposiciones aplicables, la adquisición de inmuebles, bienes y derechos necesarios para la realización de un proyecto ",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 59,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -420,23 +420,23 @@
       "confidence": "medium",
       "char_offset": 1070,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5081967213114754,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
       "source_article": "81",
       "target_law_raw": "decreto de expropiación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "reto de expropiación.  Cuando se trate de bienes sujetos al régimen comunal o ejidal, la indemnización deberá pagarse de inmediato, una vez publicado el decreto de expropiación, y  VIII. El procedimiento previsto en el presente artículo será aplicable en el régimen de propiedad privada, comunal o ejidal de los inmuebles, bie",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2445,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8095238095238095,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -826,5 +826,5 @@
       "char_offset": 3147
     }
   ],
-  "resolved_at": "2026-03-30T12:18:43.037628+00:00"
+  "resolved_at": "2026-03-30T20:32:56.009271+00:00"
 }

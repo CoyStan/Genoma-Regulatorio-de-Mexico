@@ -30,23 +30,23 @@
       "confidence": "medium",
       "char_offset": 2827,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
+      "resolution_score": 0.5033112582781457,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-puertos",
       "source_article": "17",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "ARTICULO 17.- En cada puerto habilitado existirá una capitanía de puerto, a la que le corresponderá las funciones que le otorga la Ley de Navegación y Comercio Marítimos. Artículo reformado DOF 11-06-2012, 19-12-2016",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 128,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-de-puertos",
@@ -60,7 +60,7 @@
       "confidence": "high",
       "char_offset": 62,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
@@ -75,7 +75,7 @@
       "confidence": "high",
       "char_offset": 333,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -112,16 +112,16 @@
       "source_law": "ley-de-puertos",
       "source_article": "44",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos y Reglamentos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": " realizar sus operaciones de navegación interna, tales como el pilotaje, remolque, amarre de cabos y lanchaje;  El servicio de pilotaje se regirá por la Ley de Navegación y Comercio Marítimos y Reglamentos aplicables. Párrafo adicionado DOF 23-01-2014  II. Servicios generales a las embarcaciones, tales como el avituallamiento, agua potable, combustible, comunicaci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 355,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8444444444444444,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-de-puertos",
@@ -150,23 +150,23 @@
       "confidence": "high",
       "char_offset": 435,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-puertos",
       "source_article": "69",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y  III. Todas las disposiciones que se opongan a lo previsto en esta ley.  Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comuni",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1004,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-de-puertos",
@@ -180,7 +180,7 @@
       "confidence": "medium",
       "char_offset": 1161,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48148148148148145,
+      "resolution_score": 0.7047619047619048,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "medium",
       "char_offset": 7083,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.616822429906542,
+      "resolution_score": 0.5486725663716814,
       "resolution_matched_alias": null
     },
     {
@@ -226,5 +226,5 @@
       "char_offset": 4334
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.319592+00:00"
+  "resolved_at": "2026-03-30T20:33:07.608083+00:00"
 }

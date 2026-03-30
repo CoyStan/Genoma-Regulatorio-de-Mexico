@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 2267,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -87,7 +87,7 @@
       "confidence": "high",
       "char_offset": 2523,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.625,
       "resolution_matched_alias": null
     },
     {
@@ -139,31 +139,31 @@
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "24",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable y en la presente Ley",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "icipar en las Comisiones Intersecretariales en las que sea recurrente la materia forestal, así como en los sistemas y servicios especializados afines establecidos en la Ley de Desarrollo Rural Sustentable y en la presente Ley;  III.\tRespecto del establecimiento de sistemas y procedimientos de atención eficiente a los usuarios del sector forestal;  IV.\tEstabilizar la fronte",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 763,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4485981308411215,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7692307692307693,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "24",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "rementen la frontera agropecuaria, para tal fin, se entenderán por actividades agropecuarias las definidas como tales en el artículo 3, fracción I de la Ley de Desarrollo Rural Sustentable. Párrafo reformado DOF 26-04-2021  Para los efectos del párrafo anterior, la Secretaría y la Secretaría de Agricultura y Desarrollo Rural establecerá",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2095,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
@@ -181,16 +181,16 @@
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "31",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable y otros ordenamientos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "a y efectiva de ellos y sus organizaciones en la elaboración y ejecución de los programas forestales de las áreas en que habiten, en concordancia con la Ley de Desarrollo Rural Sustentable y otros ordenamientos; así como a su conocimiento de la naturaleza, cultura y tradiciones; Fracción reformada DOF 01-04-2024  II.\tLa incorporación efectiva de los propieta",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 370,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.45614035087719296,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7608695652173914,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
@@ -204,7 +204,7 @@
       "confidence": "high",
       "char_offset": 272,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5656565656565656,
+      "resolution_score": 0.574468085106383,
       "resolution_matched_alias": null
     },
     {
@@ -288,7 +288,7 @@
       "confidence": "high",
       "char_offset": 51,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5405405405405406,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -310,16 +310,16 @@
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "68",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "ortación de materias primas, productos y subproductos forestales. Deberán establecerse específicamente para cada mercancía previamente en términos de lo dispuesto en la Ley de Comercio Exterior, mediante la publicación del instrumento jurídico correspondiente en el Diario Oficial de la Federación;  VIII.\tLa Inscripción de prestadores de serv",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1185,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de comercio exterior"
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
@@ -363,7 +363,7 @@
       "confidence": "high",
       "char_offset": 91,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6060606060606061,
+      "resolution_score": 0.56,
       "resolution_matched_alias": null
     },
     {
@@ -378,7 +378,7 @@
       "confidence": "high",
       "char_offset": 271,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -393,7 +393,7 @@
       "confidence": "high",
       "char_offset": 534,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3756906077348066,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -408,7 +408,7 @@
       "confidence": "high",
       "char_offset": 275,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -423,7 +423,7 @@
       "confidence": "medium",
       "char_offset": 128,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -475,16 +475,16 @@
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "141",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": " México, promoverá el desarrollo de infraestructura y facilitará condiciones para el desarrollo forestal y territorial, de acuerdo con los mecanismos previstos en la Ley de Desarrollo Rural Sustentable, las cuales consistirán en:  I.\tElectrificación;  II.\tObras hidráulicas;  III.\tObras de conservación y restauración de suelos y conservación de aguas",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 367,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
@@ -585,7 +585,7 @@
       "confidence": "high",
       "char_offset": 1349,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -600,7 +600,7 @@
       "confidence": "high",
       "char_offset": 10958,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.6470588235294118,
       "resolution_matched_alias": null
     },
     {
@@ -646,5 +646,5 @@
       "char_offset": 3817
     }
   ],
-  "resolved_at": "2026-03-30T12:18:57.460394+00:00"
+  "resolved_at": "2026-03-30T20:33:21.665471+00:00"
 }

@@ -37,16 +37,16 @@
       "source_law": "ley-de-la-comision-nacional-de-energia",
       "source_article": "5",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "Artículo 5.- Son supletorias de la presente Ley, las disposiciones contenidas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Planeación y Transición Energética, la Ley Federal de Procedimiento Administrativo y demás ordenamientos que resulten aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 143,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-de-la-comision-nacional-de-energia",
@@ -97,16 +97,16 @@
       "source_law": "ley-de-la-comision-nacional-de-energia",
       "source_article": "6",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": " se deben entender los conceptos y las definiciones, en singular o plural, previstos en la Ley del Sector Hidrocarburos, la Ley del Sector Eléctrico, la Ley de Planeación y Transición Energética y, las siguientes:  I.\tActividades en materia energética: Las actividades relacionadas con el sector eléctrico y el sector hidrocarburos cuya realizaci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 229,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-de-la-comision-nacional-de-energia",
@@ -120,7 +120,7 @@
       "confidence": "medium",
       "char_offset": 473,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.56,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "medium",
       "char_offset": 3457,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3878787878787879,
+      "resolution_score": 0.4563758389261745,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "medium",
       "char_offset": 6661,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
+      "resolution_score": 0.547945205479452,
       "resolution_matched_alias": null
     },
     {
@@ -241,5 +241,5 @@
       "char_offset": 8435
     }
   ],
-  "resolved_at": "2026-03-30T12:18:47.628386+00:00"
+  "resolved_at": "2026-03-30T20:33:04.462741+00:00"
 }

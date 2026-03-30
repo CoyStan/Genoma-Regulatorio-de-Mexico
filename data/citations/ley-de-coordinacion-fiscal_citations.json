@@ -22,16 +22,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "2o",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "fo reformado DOF 11-08-2014  I. El impuesto sobre la renta derivado de los contratos y asignaciones para la exploración y extracción de hidrocarburos a que se refiere la Ley de Ingresos sobre Hidrocarburos; Fracción reformada DOF 11-08-2014  II. El impuesto sobre la renta por concepto de salarios y, en general, por la prestación de un servicio personal ",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 624,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -142,16 +142,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "9o",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "dades, con autorización de las legislaturas locales e inscritas en el Registro Público Único, de conformidad con el Capítulo VI del Título Tercero de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, a favor de la Federación, de las instituciones de Crédito que operen en territorio nacional, así como de las personas físicas o morales de nacionali",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 658,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -199,16 +199,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "10-A",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "ta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.  También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3827,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -271,16 +271,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "12",
       "target_law_raw": "Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "105",
       "citation_text": "n entidad federativa, ésta podrá reclamar su cumplimiento ante la Suprema Corte de Justicia de la Nación, siguiendo, en lo aplicable el procedimiento establecido en la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos. Párrafo reformado DOF 15-12-1995 Reforma DOF 11-05-1995: Derogó del artículo los entonces párrafos segundo, tercero y cuarto  CAPITULO III De la Col",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1307,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6162790697674418,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley reglamentaria de las fracciones i y ii del artículo 105 de la constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -478,16 +478,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "32",
       "target_law_raw": "Ley de Ingresos de la Federación para ese ejercicio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Del total de la recaudación federal participable el 0.3066% corresponderá al Fondo para la Infraestructura Social de las Entidades y el 2.2228% al F",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 430,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5432098765432098,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8448275862068966,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -523,46 +523,46 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "36",
       "target_law_raw": "Ley de Ingresos de la Federación para ese ejercicio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este Fondo se enterará mensualmente por partes iguales a los Municipios, por conducto de los Estados, de manera ágil y directa sin más limitaciones ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 518,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5432098765432098,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8448275862068966,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "39",
       "target_law_raw": "Ley de Ingresos de la Federación para ese ejercicio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": " se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base a lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Artículo adicionado DOF 29-12-1997. Reformado DOF 09-12-2013",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 384,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5432098765432098,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8448275862068966,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "40",
       "target_law_raw": "Ley de Asistencia Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asistencia-social",
       "target_article": null,
       "citation_text": "arán en un 46% al otorgamiento de desayunos escolares; apoyos alimentarios; y de asistencia social a través de instituciones públicas, con base en lo señalado en la Ley de Asistencia Social. Asimismo, se destinará el 54% restante a la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 308,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asistencia social"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -628,16 +628,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "49",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "alización sobre el ejercicio de los recursos de los Fondos a que se refiere el presente Capítulo corresponde a la Auditoría Superior de la Federación en los términos de la Ley de Fiscalización y Rendición de Cuentas de la Federación; Fracción reformada DOF 01-10-2007, 18-07-2016  IV. La Auditoría Superior de la Federación de la Cámara de Diputados del Congreso de la Unión, al fis",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2767,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -658,16 +658,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "de la misma ley, estará integrada por los ingresos que resulten de los derechos y de los contratos para la exploración y extracción de hidrocarburos, a que se refiere la Ley de Ingresos sobre Hidrocarburos, que se determinen conforme a las proporciones previstas en la Ley de Ingresos de la Federación del año de que se trate.  Para determinar la recaudac",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 86888,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -681,7 +681,7 @@
       "confidence": "high",
       "char_offset": 86991,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5227272727272727,
+      "resolution_score": 0.6776859504132231,
       "resolution_matched_alias": null
     },
     {
@@ -718,16 +718,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "LEY DE COORDINACION FISCAL",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": " pasando el actual sexto a ser séptimo párrafo, de y a la Ley de Coordinación Fiscal, para quedar como sigue:  ..........  DISPOSICION TRANSITORIA DE LA LEY DE COORDINACION FISCAL  ARTICULO TERCERO.- Las entidades federativas contarán con un plazo de cuatro meses a partir de la entrada en vigor de lo dispuesto en el ARTICULO SE",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7091,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6785714285714286,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9615384615384616,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -741,38 +741,38 @@
       "confidence": "medium",
       "char_offset": 10727,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5076923076923077,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Coordinación FiscaI",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "Oficial de la Federación el 15 de diciembre de 1995  Ley de Coordinación Fiscal  Artículo Décimo Segundo. Se realizan las modificaciones siguientes a la Ley de Coordinación FiscaI:  I.\tSe reforman los artículos:  símbolo 183 \\f \"Symbol\" \\s 9 \\h\t2o., primer, cuarto y último párrafos, símbolo 183 \\f \"Symbol\" \\s 9 \\h\t2o.-A, fracció",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15095,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9615384615384616,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Coordinación Fiscal entrarán",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "En relación con las modificaciones a que se refiere el Artículo Décimo Segundo que antecede, se estará a lo siguiente:  I.\tLas reformas y adiciones a la Ley de Coordinación Fiscal entrarán en vigor a partir del 1o. de enero de 1996, con excepción de la reforma al último párrafo del artículo 3o., la cual entrará en vigor a partir del 1o. de enero de 1997.  II.\tE",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 16326,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6197183098591549,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8524590163934426,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -801,7 +801,7 @@
       "confidence": "medium",
       "char_offset": 29944,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5176470588235295,
+      "resolution_score": 0.6933333333333334,
       "resolution_matched_alias": null
     },
     {
@@ -891,7 +891,7 @@
       "confidence": "medium",
       "char_offset": 39102,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5773195876288659,
+      "resolution_score": 0.6046511627906976,
       "resolution_matched_alias": null
     },
     {
@@ -906,7 +906,7 @@
       "confidence": "medium",
       "char_offset": 46510,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
@@ -921,7 +921,7 @@
       "confidence": "medium",
       "char_offset": 50714,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4793388429752066,
+      "resolution_score": 0.4852941176470588,
       "resolution_matched_alias": null
     },
     {
@@ -951,7 +951,7 @@
       "confidence": "medium",
       "char_offset": 51810,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4025974025974026,
+      "resolution_score": 0.5082872928176796,
       "resolution_matched_alias": null
     },
     {
@@ -973,16 +973,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Coordinación Fiscal y 2o",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "pero no tendrán efectos retroactivos.  Bajo ese enfoque, la declaratoria de invalidez de los artículos 4o.-A, último párrafo, 10-C, fracción VIII, de la Ley de Coordinación Fiscal y 2o.-A, fracción II, penúltimo párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, debe hacerse extensiva:  1) Al artículo 10-D, fracc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 59213,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5901639344262295,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9122807017543859,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -996,7 +996,7 @@
       "confidence": "medium",
       "char_offset": 60221,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4484848484848485,
+      "resolution_score": 0.5208333333333334,
       "resolution_matched_alias": null
     },
     {
@@ -1018,16 +1018,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Coordinación Fiscal será",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "ateria, vigentes en la fecha de publicación de esta Ley.  Octavo.- El coeficiente CPi,t a que se refiere la fórmula establecida en el artículo 2-A de la Ley de Coordinación Fiscal será aplicable a partir del ejercicio fiscal de 2015. La información considerada para el cálculo del mismo será aquélla que las entidades federativas proporcionen a la Secretaría de Hacienda y Crédito P",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 76631,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6229508196721312,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9122807017543859,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1056,23 +1056,23 @@
       "confidence": "medium",
       "char_offset": 82645,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5411764705882353,
+      "resolution_score": 0.65,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "r el que se expide la Ley de Ingresos sobre Hidrocarburos, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.  Publicado en el Diario Oficial de la Federación el 11 de agosto de 2014  ARTÍCULO QUINTO. Se reforman los artículos 2o., párrafo segundo y fraccion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 85680,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4126984126984127,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7789473684210526,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1093,16 +1093,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": "res a los ingresos estimados para el mismo año de que se trate, en ambos casos descontando los pagos establecidos en la fracción I del artículo 16 de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los rendimientos de la Reserva del Fondo, el Gobierno Federal entregará a las entidades federativas y municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 88394,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.44221105527638194,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.774869109947644,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1116,7 +1116,7 @@
       "confidence": "medium",
       "char_offset": 88794,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5675675675675675,
       "resolution_matched_alias": null
     },
     {
@@ -1138,16 +1138,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 91328,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1198,16 +1198,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": " dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de Fiscalización y Rendición de Cuentas de la Federación; y se reforman el artículo 49 de la Ley de Coordinación Fiscal, y el artículo 70 de la Ley General de Contabilidad Gubernamental.  Publicado en el Di",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 103349,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1297,5 +1297,5 @@
       "char_offset": 5263
     }
   ],
-  "resolved_at": "2026-03-30T12:18:44.032692+00:00"
+  "resolved_at": "2026-03-30T20:32:58.064079+00:00"
 }

@@ -52,16 +52,16 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "3",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "s de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3548,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -97,31 +97,31 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "3",
       "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fondos-de-inversion",
       "target_article": null,
       "citation_text": " 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las I",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3738,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fondos de inversión"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "3",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": " de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera; Fracción reformada DO",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3780,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -142,16 +142,16 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "3",
       "target_law_raw": "Ley para determinar el valor de la Unidad de Medida y Actualización",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
       "target_article": null,
       "citation_text": "5  XIII Bis. UMA, a la Unidad de Medida y Actualización a que se refiere el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos y la Ley para determinar el valor de la Unidad de Medida y Actualización; y Fracción adicionada DOF 16-07-2025  XIV.\tUnidad, a la Unidad Especializada en Investigación de Delitos Fiscales y Financieros de la Fiscalía. Frac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6386,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.48695652173913045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para determinar el valor de la unidad de medida y actualización"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -274,16 +274,16 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "9",
       "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-fiscalia-general-de-la-republica",
       "target_article": null,
       "citation_text": "Artículo 9. Las personas servidoras públicas adscritas a la Unidad, además de reunir los requisitos de ingreso y selección que determine la Ley de la Fiscalía General de la República, deberán: Párrafo reformado DOF 20-05-2021, 16-07-2025  I. Acreditar cursos de especialización en delitos de operaciones con recursos de procedencia ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 137,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la fiscalía general de la república"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -346,16 +346,16 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "15",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "s de Crédito; 87-D, 95 y 95 Bis de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 129 de la Ley de Uniones de Crédito; 124 de la Ley de Ahorro y Crédito Popular; 71 y 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 714,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -391,31 +391,31 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "15",
       "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fondos-de-inversion",
       "target_article": null,
       "citation_text": " 72 de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las I",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 904,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fondos de inversión"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "15",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": " de las Sociedades Cooperativas de Ahorro y Préstamo; 212 y 226 Bis de la Ley del Mercado de Valores; 91 de la Ley de Fondos de Inversión; 108 Bis de la Ley de los Sistemas de Ahorro para el Retiro; 492 de la Ley de Instituciones de Seguros y de Fianzas y 58 de la Ley para Regular las Instituciones de Tecnología Financiera; Fracción reformada DO",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 946,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -516,7 +516,7 @@
       "confidence": "medium",
       "char_offset": 13,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3723404255319149,
+      "resolution_score": 0.4723618090452261,
       "resolution_matched_alias": null
     },
     {
@@ -531,7 +531,7 @@
       "confidence": "medium",
       "char_offset": 1761,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4221105527638191,
+      "resolution_score": 0.4444444444444444,
       "resolution_matched_alias": null
     },
     {
@@ -682,16 +682,16 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "65",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3443,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -742,16 +742,16 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "65",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "nformación Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.  Publicado en el Diario Oficial de la Fede",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3709,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -766,5 +766,5 @@
       "char_offset": 2712
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.592540+00:00"
+  "resolved_at": "2026-03-30T20:33:19.778702+00:00"
 }

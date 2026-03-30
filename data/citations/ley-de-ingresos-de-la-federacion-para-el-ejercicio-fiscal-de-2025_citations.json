@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 12871,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5641025641025641,
       "resolution_matched_alias": null
     },
     {
@@ -169,16 +169,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "3o",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "e canje, refinanciamiento o reestructura de la deuda pública de la Ciudad de México. El ejercicio del monto de endeudamiento autorizado se sujetará a lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 612,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -259,16 +259,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "10",
       "target_law_raw": "Ley de Puertos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-puertos",
       "target_article": null,
       "citation_text": "al. Los aprovechamientos que deban cubrir los administradores portuarios como contraprestación conforme a lo previsto en los artículos 23 BIS y 37 de la Ley de Puertos, en términos de los títulos de concesión correspondientes, se concentrarán en la Tesorería de la Federación y se destinarán por la Secretaría de Haci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6326,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de puertos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -349,31 +349,31 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "11",
       "target_law_raw": "Ley Nacional de Extinción de Dominio",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "so de extinción de dominio y de aquellos sobre los que sea declarada la extinción de dominio y de sus frutos, así como su monetización en términos de la Ley Nacional de Extinción de Dominio, serán destinados a una cuenta especial en los términos que establece el artículo 239 de la Ley Nacional de Extinción de Dominio, previa deducción de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7538,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "12",
       "target_law_raw": "Ley de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "Artículo 12. Los ingresos que se recauden durante el ejercicio fiscal de 2025 se concentrarán en términos del artículo 22 de la Ley de Tesorería de la Federación, salvo en los siguientes casos: I.\tSe concentrarán en la Tesorería de la Federación, a más tardar el día hábil siguiente al de su recepción, los dere",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 125,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6984126984126984,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -544,16 +544,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "17",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "nciales en materia de ingresos y contribuciones federales, distintos de los establecidos en la presente Ley, en el Código Fiscal de la Federación, en la Ley de Ingresos sobre Hidrocarburos, ordenamientos legales referentes a empresas públicas del Estado, organismos descentralizados federales que prestan los servicios de seguridad social",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 353,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -574,16 +574,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "18",
       "target_law_raw": "Ley de Ingresos de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "rimer párrafo de este artículo, se considerará la diferencia positiva que resulte de disminuir los ingresos acumulados estimados de la dependencia en la Ley de Ingresos de la Federación, a los enteros acumulados efectuados por dicha dependencia a la Tesorería de la Federación, en el periodo que corresponda. Se entiende por unidad gen",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 890,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -679,31 +679,31 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "23",
       "target_law_raw": "Ley del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-de-administracion-tributaria",
       "target_article": null,
       "citation_text": "e junio de 2025. Durante el ejercicio fiscal de 2025, para efectos de la presentación del estudio de ingreso-gasto a que se refiere el artículo 31 de la Ley del Servicio de Administración Tributaria, dicho estudio deberá presentarse a más tardar el 30 de junio de dicho año.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1048,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio de administración tributaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "25",
       "target_law_raw": "Ley del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-de-administracion-tributaria",
       "target_article": null,
       "citation_text": "ticos necesarios que el Servicio de Administración Tributaria está obligado a proporcionar, conforme a lo previsto en el artículo 22, fracción III de la Ley del Servicio de Administración Tributaria, y deberá contener los montos referidos estimados para el ejercicio fiscal de 2026 en los siguientes términos: I.\tEl monto estimado de los recursos q",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1129,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio de administración tributaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -754,16 +754,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "target_article": null,
       "citation_text": " el derecho a que se refiere este artículo, serán enterados al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con lo previsto en la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y demás disposiciones jurídicas aplicables. Al presentarse las declaraciones sobre el pago de este derecho, los Asignatarios deberán acompañar los comprobantes de pago emitidos por el Fondo Me",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 36005,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del fondo mexicano del petróleo para la estabilización y el desarrollo"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -829,16 +829,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "iscal de 2025, deberán ser concentrados en la Tesorería de la Federación incluyendo los rendimientos financieros que hubieran generado, conforme a lo establecido en la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda, dentro de los 15 días naturales siguientes al término del citado ejercicio fiscal. Durante el primer bimestre del ejercicio fiscal de 2025, la Secre",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 24101,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4752475247524752,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8208955223880597,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -897,23 +897,23 @@
       "confidence": "medium",
       "char_offset": 4260,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40229885057471265,
+      "resolution_score": 0.6077348066298343,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": " federales de las entidades federativas y los municipios que correspondan, de conformidad con lo establecido en el último párrafo del artículo 9o. de la Ley de Coordinación Fiscal. La Secretaría de Hacienda y Crédito Público determinará el monto de los pagos a que se refiere el párrafo anterior con cargo a las participaciones y",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7684,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -934,16 +934,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "vas podrán incrementar su techo de gasto en servicios personales para efectos de lo establecido en los artículos 10, fracción I, y 13, fracción V, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, con base en los registros de ingresos que realicen, respecto de los recursos destinados a cubrir las medidas salariales y económicas correspondiente",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19298,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -957,23 +957,23 @@
       "confidence": "medium",
       "char_offset": 26112,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5420560747663551,
+      "resolution_score": 0.5360824742268041,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley de Ingresos sobre Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-sobre-hidrocarburos",
       "target_article": null,
       "citation_text": "scal de 2025, en sustitución de lo previsto en los Capítulos I, II y III del Título Tercero denominado De los ingresos derivados de Asignaciones de la Ley de Ingresos sobre Hidrocarburos, los Asignatarios que se encuentren sujetos al pago de los derechos a que se refieren los artículos 39, 44 y 45 de dicho ordenamiento, únicamente pag",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 33942,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -994,16 +994,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "to expida la Secretaría de Hacienda y Crédito Público.  Vigésimo Primero.- Los ingresos excedentes a que se refiere el artículo 102, fracción VII, de la Ley de la Empresa Pública del Estado, Petróleos Mexicanos, se utilizarán previa autorización de la Secretaría de Hacienda y Crédito Público de conformidad con los lineamientos que emita ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 71742,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7741935483870968,
+      "resolution_matched_alias": "ley de la empresa pública del estado, petróleos mexicanos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -1039,16 +1039,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley Sobre el Contrato de Seguro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "l contrato de seguro, y la indemnización consista en el resarcimiento de daños o la reposición del bien siniestrado, a través de terceros, conforme a la Ley Sobre el Contrato de Seguro.  Adicionalmente, se otorga un estímulo fiscal equivalente al monto del impuesto al valor agregado que se hubiere acreditado o, en su caso, el equiva",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 106537,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -1063,5 +1063,5 @@
       "char_offset": 2136
     }
   ],
-  "resolved_at": "2026-03-30T12:18:45.947354+00:00"
+  "resolved_at": "2026-03-30T20:33:02.089270+00:00"
 }

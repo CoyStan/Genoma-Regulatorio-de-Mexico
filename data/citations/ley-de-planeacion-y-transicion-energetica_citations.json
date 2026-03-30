@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 6056,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5384615384615384,
+      "resolution_score": 0.6376811594202898,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 5946,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4492753623188406,
+      "resolution_score": 0.5490196078431373,
       "resolution_matched_alias": null
     },
     {
@@ -94,16 +94,16 @@
       "source_law": "ley-de-planeacion-y-transicion-energetica",
       "source_article": "3",
       "target_law_raw": "Ley de Biocombustibles",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-biocombustibles",
       "target_article": null,
       "citation_text": " se deben entender los conceptos y las definiciones, en singular o plural, previstas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Biocombustibles, la Ley de Geotermia y en las siguientes definiciones: I.\tAprovechamiento Sustentable de la Energía: El uso óptimo de la energía y que contribuya a l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 229,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de biocombustibles"
     },
     {
       "source_law": "ley-de-planeacion-y-transicion-energetica",
@@ -117,7 +117,7 @@
       "confidence": "medium",
       "char_offset": 256,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.5656565656565656,
       "resolution_matched_alias": null
     },
     {
@@ -169,16 +169,16 @@
       "source_law": "ley-de-planeacion-y-transicion-energetica",
       "source_article": "5",
       "target_law_raw": "Ley de Biocombustibles",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-biocombustibles",
       "target_article": null,
       "citation_text": " la presente Ley, se deben aplicar de manera supletoria las disposiciones contenidas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Biocombustibles, la Ley de Geotermia y la Ley Federal del Procedimiento Administrativo. TÍTULO SEGUNDO De la Planeación del Sector Energético",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 184,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de biocombustibles"
     },
     {
       "source_law": "ley-de-planeacion-y-transicion-energetica",
@@ -237,7 +237,7 @@
       "confidence": "medium",
       "char_offset": 248,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48484848484848486,
+      "resolution_score": 0.58,
       "resolution_matched_alias": null
     },
     {
@@ -252,7 +252,7 @@
       "confidence": "medium",
       "char_offset": 1269,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.7368421052631579,
       "resolution_matched_alias": null
     },
     {
@@ -267,7 +267,7 @@
       "confidence": "medium",
       "char_offset": 1291,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5753424657534246,
+      "resolution_score": 0.7058823529411765,
       "resolution_matched_alias": null
     },
     {
@@ -297,7 +297,7 @@
       "confidence": "medium",
       "char_offset": 98,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5128205128205128,
+      "resolution_score": 0.6511627906976745,
       "resolution_matched_alias": null
     },
     {
@@ -432,7 +432,7 @@
       "confidence": "medium",
       "char_offset": 1105,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5106382978723404,
+      "resolution_score": 0.5894736842105263,
       "resolution_matched_alias": null
     },
     {
@@ -448,5 +448,5 @@
       "char_offset": 4047
     }
   ],
-  "resolved_at": "2026-03-30T12:18:48.986346+00:00"
+  "resolved_at": "2026-03-30T20:33:06.899223+00:00"
 }

@@ -52,16 +52,16 @@
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "2o",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "rsos que se recauden en términos de este artículo, se destinarán a las entidades federativas, municipios y demarcaciones territoriales, conforme a lo establecido en la Ley de Coordinación Fiscal.  Para los efectos de lo dispuesto en este artículo, en sustitución de las declaraciones informativas a que se refiere esta Ley, los contribuyentes p",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2319,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -187,16 +187,16 @@
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "19",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios. Párrafo reformado DOF 30-12-2002  IX.\tLos productores e importadores de tabacos labra",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8380,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -210,7 +210,7 @@
       "confidence": "medium",
       "char_offset": 16854,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.417910447761194,
+      "resolution_score": 0.4236453201970443,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "medium",
       "char_offset": 1057,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4672897196261682,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -277,16 +277,16 @@
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "27",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "rativas a las actividades a que se refiere el artículo 2o., fracción II, inciso B) de esta Ley. No se incluirá en la recaudación federal participable a que se refiere la Ley de Coordinación Fiscal, el impuesto especial sobre producción y servicios correspondiente a las actividades mencionadas. Párrafo adicionado DOF 01-10-2007",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1928,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -300,7 +300,7 @@
       "confidence": "medium",
       "char_offset": 617,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45121951219512196,
+      "resolution_score": 0.5235602094240838,
       "resolution_matched_alias": null
     },
     {
@@ -367,16 +367,16 @@
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "29",
       "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "target_article": null,
       "citation_text": "de la Constitución Política de los Estados Unidos Mexicanos, ha rendido el propio Ejecutivo Federal al Congreso de la Unión en el año 2016.  Tercero. Para los efectos de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, cuando de conformidad con la Ley Orgánica de la Administración Pública Federal se modifique la denominación de alguna dependencia o entidad o las ex",
       "pattern_name": "para_efectos",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 179068,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9692307692307692,
+      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -412,16 +412,16 @@
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "29",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "egistro Federal de Contribuyentes\".  ARTICULO QUINTO.- El incremento en el Fondo Financiero Complementario de participaciones de 0.37% que establecía la Ley de Coordinación Fiscal, a 0.50% a que se refiere el artículo 2o. reformado de dicha Ley, se distribuirá entre las entidades federativas, a partir del mes en que el conjunto",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13725,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -577,16 +577,16 @@
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "29",
       "target_law_raw": "Ley de Coordinación Fiscal y 2o",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "pero no tendrán efectos retroactivos.  Bajo ese enfoque, la declaratoria de invalidez de los artículos 4o.-A, último párrafo, 10-C, fracción VIII, de la Ley de Coordinación Fiscal y 2o.-A, fracción II, penúltimo párrafo, de la Ley del Impuesto Especial sobre Producción y Servicios, debe hacerse extensiva:  1) Al artículo 10-D, fracc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 137584,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5901639344262295,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9122807017543859,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -600,7 +600,7 @@
       "confidence": "medium",
       "char_offset": 138592,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4484848484848485,
+      "resolution_score": 0.5208333333333334,
       "resolution_matched_alias": null
     },
     {
@@ -675,7 +675,7 @@
       "confidence": "medium",
       "char_offset": 183258,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.40229885057471265,
+      "resolution_score": 0.6077348066298343,
       "resolution_matched_alias": null
     },
     {
@@ -736,5 +736,5 @@
       "char_offset": 10559
     }
   ],
-  "resolved_at": "2026-03-30T12:18:50.456954+00:00"
+  "resolved_at": "2026-03-30T20:33:09.136710+00:00"
 }

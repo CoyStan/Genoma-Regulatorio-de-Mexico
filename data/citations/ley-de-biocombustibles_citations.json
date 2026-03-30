@@ -7,16 +7,16 @@
       "source_law": "ley-de-biocombustibles",
       "source_article": "2",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "culo 2.- Para efectos de la interpretación y aplicación de la presente Ley, se deben entender los conceptos y las definiciones, en singular o plural, establecidos en la Ley de Planeación y Transición Energética, la Ley del Sector Hidrocarburos, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Desarrollo Rural Sustentable y las ",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 154,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-de-biocombustibles",
@@ -37,31 +37,31 @@
       "source_law": "ley-de-biocombustibles",
       "source_article": "2",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "os conceptos y las definiciones, en singular o plural, establecidos en la Ley de Planeación y Transición Energética, la Ley del Sector Hidrocarburos, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Desarrollo Rural Sustentable y las siguientes:  I.\tAlmacenamiento: Depósito y resguardo de Biomasa o Biocombustibles, o ambos, en instalac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 249,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-de-biocombustibles",
       "source_article": "2",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable y las siguientes",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": " la Ley de Planeación y Transición Energética, la Ley del Sector Hidrocarburos, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Desarrollo Rural Sustentable y las siguientes:  I.\tAlmacenamiento: Depósito y resguardo de Biomasa o Biocombustibles, o ambos, en instalaciones determinadas para dicho fin, que pueden ubicarse en ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 319,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5263157894736842,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8045977011494253,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-biocombustibles",
@@ -75,23 +75,23 @@
       "confidence": "medium",
       "char_offset": 2312,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47368421052631576,
+      "resolution_score": 0.7213114754098361,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-biocombustibles",
       "source_article": "3",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "Artículo 3.- En todo lo no previsto en la presente Ley, se deben aplicar las disposiciones contenidas en la Ley de Planeación y Transición Energética, la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 105,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-de-biocombustibles",
@@ -142,16 +142,16 @@
       "source_law": "ley-de-biocombustibles",
       "source_article": "3",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "sición Energética, la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley General de Cambio Climático, la Ley General de Desarrollo Forestal Sustentable, la Ley Orgánica de la Administración Pública Federal, la Ley ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 282,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-de-biocombustibles",
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 2376,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -229,16 +229,16 @@
       "source_law": "ley-de-biocombustibles",
       "source_article": "21",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "Artículo 21.- El Sistema Nacional de Investigación y Transferencia Tecnológica para el Desarrollo Rural Sustentable, previsto en la Ley de Desarrollo Rural Sustentable, es la instancia encargada de coordinar y orientar la investigación, el desarrollo tecnológico y la capacitación en materia de la Producción sustenta",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 117,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-biocombustibles",
@@ -252,7 +252,7 @@
       "confidence": "high",
       "char_offset": 464,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -267,7 +267,7 @@
       "confidence": "high",
       "char_offset": 794,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -304,16 +304,16 @@
       "source_law": "ley-de-biocombustibles",
       "source_article": "44",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "os técnicos, equipos, tecnología y bienes de Producción, se deben resolver a través del Servicio Nacional de Arbitraje previsto en el artículo 184 de la Ley de Desarrollo Rural Sustentable.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 542,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-biocombustibles",
@@ -357,7 +357,7 @@
       "confidence": "medium",
       "char_offset": 1049,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48148148148148145,
+      "resolution_score": 0.5373134328358209,
       "resolution_matched_alias": null
     },
     {
@@ -388,5 +388,5 @@
       "char_offset": 4860
     }
   ],
-  "resolved_at": "2026-03-30T12:18:43.241868+00:00"
+  "resolved_at": "2026-03-30T20:32:56.626798+00:00"
 }

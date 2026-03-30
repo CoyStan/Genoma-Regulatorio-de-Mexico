@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 9464,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45255474452554745,
+      "resolution_score": 0.49056603773584906,
       "resolution_matched_alias": null
     },
     {
@@ -127,16 +127,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "3",
       "target_law_raw": "Ley de Asociaciones Público Privadas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asociaciones-publico-privadas",
       "target_article": null,
       "citation_text": "o-privada y para aquellos autorizados en ejercicios fiscales anteriores, así como la información de cada uno de ellos, en términos del artículo 24 de la Ley de Asociaciones Público Privadas, se incluye en el Anexo 5.A de este Decreto y en el Tomo VIII los programas y proyectos de inversión de este Presupuesto de Egresos; VII. El capítulo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1791,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asociaciones público privadas"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -180,7 +180,7 @@
       "confidence": "medium",
       "char_offset": 4540,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46296296296296297,
+      "resolution_score": 0.7291666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -202,31 +202,31 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "3",
       "target_law_raw": "Ley de Planeación y Transición Energética",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "esupuesto y Responsabilidad Hacendaria; XV. El presupuesto consolidado de la Estrategia Nacional de Transición Energética, conforme al artículo 22 de la Ley de Planeación y Transición Energética, se señala en el Anexo 15 de este Decreto; XVI. Las erogaciones para el Ramo General 23 Provisiones Salariales y Económicas se distribuyen conforme a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5416,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "3",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "des Federativas y Municipios se distribuyen conforme a lo previsto en el Anexo 22 de este Decreto. En términos de lo establecido en el artículo 38 de la Ley de Coordinación Fiscal, la Secretaría continuará distribuyendo los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Terri",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6722,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -289,16 +289,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "6",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "onforme a lo dispuesto en el artículo 44 de la Ley de Coordinación Fiscal; II. Los recursos federales a que se refiere este artículo, distintos a los previstos en la Ley de Coordinación Fiscal, serán ministrados siempre y cuando las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México, cum",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1003,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -312,23 +312,23 @@
       "confidence": "high",
       "char_offset": 11357,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "6",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "nicipios y demarcaciones territoriales de la Ciudad de México, cumplan con lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, este Presupuesto de Egresos y las demás disposiciones jurídicas aplicables, así como, en su caso, las ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1279,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -357,7 +357,7 @@
       "confidence": "medium",
       "char_offset": 5737,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5294117647058824,
+      "resolution_score": 0.6474820143884892,
       "resolution_matched_alias": null
     },
     {
@@ -489,7 +489,7 @@
       "confidence": "high",
       "char_offset": 1595,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
@@ -538,16 +538,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "12",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "l, tratándose del Fondo de Aportaciones para la Educación Tecnológica y de Adultos (FAETA); y, en el caso de los servicios de educación para adultos, en los términos de la Ley de Coordinación Fiscal. Las previsiones para el incremento a las percepciones, a que se refieren los Anexos 7 y 24 de este Decreto, incluyen la totalidad de los recursos pa",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1188,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -561,7 +561,7 @@
       "confidence": "high",
       "char_offset": 2995,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -576,7 +576,7 @@
       "confidence": "medium",
       "char_offset": 558,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45714285714285713,
+      "resolution_score": 0.4685714285714286,
       "resolution_matched_alias": null
     },
     {
@@ -591,7 +591,7 @@
       "confidence": "medium",
       "char_offset": 2494,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
+      "resolution_score": 0.5306122448979592,
       "resolution_matched_alias": null
     },
     {
@@ -772,16 +772,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "22",
       "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "Artículo 22. En cumplimiento a la Ley General para la Igualdad entre Mujeres y Hombres, y a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el Ejecutivo Federal impulsará, de manera transversal, la igualdad sustan",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 31,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9043478260869565,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -894,7 +894,7 @@
       "confidence": "medium",
       "char_offset": 9538,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47368421052631576,
+      "resolution_score": 0.6833333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -985,16 +985,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "32",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "iales para otros sistemas producto de alto impacto social; V. Coadyuvar al impulso de la producción primaria, de los productos básicos y estratégicos señalados en la Ley de Desarrollo Rural Sustentable, entre otros, para el aprovisionamiento de insumos básicos y apoyo a paquetes tecnológicos; VI. Impulsar la producción y productividad en el sector m",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 5034,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5538461538461539,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1008,7 +1008,7 @@
       "confidence": "medium",
       "char_offset": 3261,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5076923076923077,
+      "resolution_score": 0.6306306306306306,
       "resolution_matched_alias": null
     },
     {
@@ -1030,16 +1030,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "33",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "de salud, medicamentos y demás insumos asociados para las personas sin seguridad social deben sujetarse a lo establecido por la Ley General de Salud, la Ley de Coordinación Fiscal, a las disposiciones previstas en el Transitorio Décimo Cuarto de la Ley de Ingresos, así como, en su caso, a las disposiciones de carácter general o",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 227,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1075,16 +1075,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "37",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "es e instituciones públicas de educación media superior y superior, incluyendo subsidios, estarán sujetos a la fiscalización que realice la Auditoría en términos de lo establecido en la Ley de Fiscalización y Rendición de Cuentas de la Federación, y se rendirá cuenta sobre el ejercicio de los mismos en los términos de las disposiciones aplicables, detallando la información siguiente: I. Los pr",
       "pattern_name": "terminos_establecido",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 826,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1120,31 +1120,31 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "39",
       "target_law_raw": "Ley de Disciplina Financiera de las Entidades Federativas y los Municipios",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "target_article": null,
       "citation_text": "rtaciones previstos en la Ley de Coordinación Fiscal, siempre y cuando los mismos se destinen a los fines previstos en dicha ley y den cumplimiento a lo previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, los lineamientos que regulen el fondo de que se trate y demás disposiciones aplicables. Décimo Tercero",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 9818,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de disciplina financiera de las entidades federativas y los municipios"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "39",
       "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "dencias y Entidades. Décimo Segundo. Los municipios podrán incorporar a fideicomisos estatales los recursos que reciban de los fondos de aportaciones previstos en la Ley de Coordinación Fiscal, siempre y cuando los mismos se destinen a los fines previstos en dicha ley y den cumplimiento a lo previsto en la Ley de Disciplina Financiera de la",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 9678,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1165,16 +1165,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "39",
       "target_law_raw": "Ley de Tesorería de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "mediante transferencia de recursos para su depósito en las cuentas bancarias de los mismos, salvo que se esté en alguno de los supuestos de excepción regulados en la Ley de Tesorería de la Federación, su Reglamento y demás disposiciones aplicables, o bien, que la Secretaría autorice que se efectúe de manera distinta. Lo anterior, sin perjuicio de ",
       "pattern_name": "regulada_por",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 7561,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6984126984126984,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1339,5 +1339,5 @@
       "char_offset": 14013
     }
   ],
-  "resolved_at": "2026-03-30T12:19:03.702589+00:00"
+  "resolved_at": "2026-03-30T20:33:33.648929+00:00"
 }

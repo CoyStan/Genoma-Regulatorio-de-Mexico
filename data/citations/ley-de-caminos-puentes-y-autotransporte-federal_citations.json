@@ -7,16 +7,16 @@
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "4o",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "Artículo 4o.- A falta de disposición expresa en esta Ley o en sus reglamentos o en los tratados internacionales, se aplicarán:  I. La Ley de Vías Generales de Comunicación; y  II.\tLos códigos de Comercio, Civil Federal, y Nacional de Procedimientos Civiles y Familiares. Fracción reformada DOF 14-11-2025  CAPITULO II JUR",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 131,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
@@ -45,7 +45,7 @@
       "confidence": "high",
       "char_offset": 317,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -60,7 +60,7 @@
       "confidence": "high",
       "char_offset": 56,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -75,7 +75,7 @@
       "confidence": "high",
       "char_offset": 144,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -90,7 +90,7 @@
       "confidence": "high",
       "char_offset": 414,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 714,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
+      "resolution_score": 0.5483870967741935,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 190,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -150,7 +150,7 @@
       "confidence": "high",
       "char_offset": 1524,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -172,31 +172,31 @@
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "80",
       "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-amnistia",
       "target_article": null,
       "citation_text": "rvicios de autotransporte de pasajeros, de turismo, de carga, de transporte privado y de los servicios auxiliares de arrastre y arrastre y salvamento a que se refiere la Ley de Caminos, Puentes y Autotransporte Federal contarán con un plazo de 180 días, a partir de la entrada en vigor del presente Decreto, para regularizar cualquier",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 8977,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley de amnistía"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "80",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": " y condiciones consignados en los mismos, hasta el término de su vigencia.  Por lo que se refiere a las concesiones y permisos en trámite se estará a lo dispuesto en la Ley de Vías Generales de Comunicación.  Artículo Séptimo.- Las garantías a que se refieren los artículos 62 y primer párrafo del 68, entrarán en vigor 12 meses después de su publicación e",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1877,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
@@ -240,23 +240,23 @@
       "confidence": "medium",
       "char_offset": 3887,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5135135135135135,
+      "resolution_score": 0.578125,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "80",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "o Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de rec",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4166,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6052631578947368,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
@@ -270,7 +270,7 @@
       "confidence": "medium",
       "char_offset": 5356,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
+      "resolution_score": 0.5352112676056338,
       "resolution_matched_alias": null
     },
     {
@@ -300,7 +300,7 @@
       "confidence": "medium",
       "char_offset": 17053,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5079365079365079,
+      "resolution_score": 0.6578947368421053,
       "resolution_matched_alias": null
     },
     {
@@ -322,16 +322,16 @@
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "80",
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
       "target_article": null,
       "citation_text": "guiente al de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una Estrategia Nacional para la Gestión Integral de Neumáticos Usados.  TERCERO.- Los responsables de form",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20606,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la prevención y gestión integral de los residuos"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
@@ -391,5 +391,5 @@
       "char_offset": 2402
     }
   ],
-  "resolved_at": "2026-03-30T12:18:43.310957+00:00"
+  "resolved_at": "2026-03-30T20:32:56.664541+00:00"
 }

@@ -105,7 +105,7 @@
       "confidence": "medium",
       "char_offset": 158,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43478260869565216,
+      "resolution_score": 0.5268817204301075,
       "resolution_matched_alias": null
     },
     {
@@ -144,7 +144,7 @@
       "confidence": "high",
       "char_offset": 47545,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -174,7 +174,7 @@
       "confidence": "high",
       "char_offset": 42748,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -211,16 +211,16 @@
       "source_law": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "source_article": "93",
       "target_law_raw": "Ley de Extradición Internacional",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-extradicion-internacional",
       "target_article": null,
       "citation_text": "ara el Distrito Federal, de la Ley de Amparo Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de lo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 12750,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7017543859649122,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de extradición internacional"
     },
     {
       "source_law": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
@@ -249,7 +249,7 @@
       "confidence": "medium",
       "char_offset": 13018,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.656,
       "resolution_matched_alias": null
     },
     {
@@ -414,7 +414,7 @@
       "confidence": "medium",
       "char_offset": 44098,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7228915662650602,
+      "resolution_score": 0.627906976744186,
       "resolution_matched_alias": null
     },
     {
@@ -430,5 +430,5 @@
       "char_offset": 2175
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.687583+00:00"
+  "resolved_at": "2026-03-30T20:33:18.042104+00:00"
 }

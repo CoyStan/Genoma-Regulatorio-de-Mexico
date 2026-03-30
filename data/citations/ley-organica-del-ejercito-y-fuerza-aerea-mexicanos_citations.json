@@ -39,7 +39,7 @@
       "confidence": "high",
       "char_offset": 417,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
+      "resolution_score": 0.5172413793103449,
       "resolution_matched_alias": null
     },
     {
@@ -66,23 +66,23 @@
       "confidence": "medium",
       "char_offset": 101,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6548672566371682,
+      "resolution_score": 0.7142857142857143,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "29",
       "target_law_raw": "Código de Justicia Militar",
-      "target_law_id": "unresolved",
+      "target_law_id": "codigo-de-justicia-militar",
       "target_article": null,
       "citation_text": "ICULO 29. La organización y funcionamiento del Tribunal Superior Militar, Fiscalía General de Justicia Militar y Defensoría de Oficio Militar, quedan establecidos en el Código de Justicia Militar. Artículo reformado DOF 21-06-2018",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 153,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5789473684210527,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "código de justicia militar"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -96,7 +96,7 @@
       "confidence": "high",
       "char_offset": 523,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.5894736842105263,
       "resolution_matched_alias": null
     },
     {
@@ -111,7 +111,7 @@
       "confidence": "high",
       "char_offset": 208,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.5806451612903226,
       "resolution_matched_alias": null
     },
     {
@@ -130,31 +130,31 @@
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "144",
       "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "target_article": null,
       "citation_text": "Aérea, serán seleccionados de entre los Soldados y propuestos al Secretario de la Defensa Nacional por los Comandantes de las mismas, en los términos establecidos en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para cubrir las vacantes existentes en sus planillas orgánicas. Artículo reformado DOF 21-06-2018",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 212,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8309859154929577,
+      "resolution_matched_alias": "ley de ascensos y recompensas del ejército, fuerza aérea y guardia nacional"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "149",
       "target_law_raw": "Ley del Servicio Militar",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-militar",
       "target_article": null,
       "citation_text": "ARTICULO 149. El Reclutamiento del personal de tropa del Ejército y Fuerza Aérea, se llevará a cabo:  I. Por conscripción, de conformidad con lo establecido en la Ley del Servicio Militar; y  II. Por enganche voluntario, seleccionando a los individuos que lo soliciten, bajo las condiciones estipuladas en los contratos de enganche corre",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 145,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6222222222222222,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio militar"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -168,7 +168,7 @@
       "confidence": "high",
       "char_offset": 139,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
@@ -198,23 +198,23 @@
       "confidence": "high",
       "char_offset": 515,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
+      "resolution_score": 0.7272727272727273,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "199",
       "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "target_article": null,
       "citation_text": "o previa la preparación técnica o profesional acreditada legalmente, se obtenga el cambio de escalafón y se satisfagan los demás requisitos que exige la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, y Fracción reformada DOF 21-06-2018  II. Para efectos de retiro, cuando proceda de acuerdo con la Ley de la Materia.  TITULO SEXTO RECURSOS MATERIAL",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 363,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8309859154929577,
+      "resolution_matched_alias": "ley de ascensos y recompensas del ejército, fuerza aérea y guardia nacional"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -243,7 +243,7 @@
       "confidence": "high",
       "char_offset": 46600,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
+      "resolution_score": 0.684931506849315,
       "resolution_matched_alias": null
     },
     {
@@ -258,7 +258,7 @@
       "confidence": "high",
       "char_offset": 48043,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6333333333333333,
+      "resolution_score": 0.6575342465753424,
       "resolution_matched_alias": null
     },
     {
@@ -273,23 +273,23 @@
       "confidence": "high",
       "char_offset": 60656,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
+      "resolution_score": 0.6,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-exterior-mexicano",
       "target_article": null,
       "citation_text": " Federación el 23 de enero de 1998  ARTÍCULO ÚNICO.- Se reforman los artículos 20 y 32, fracción I, y se adiciona la fracción I BIS al artículo 47 de la Ley del Servicio Exterior Mexicano; se reforman los artículos 4, fracción I, 117, 161, primer párrafo, y 173, segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4003,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio exterior mexicano"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -325,16 +325,16 @@
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley del Servicio Militar",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-servicio-militar",
       "target_article": null,
       "citation_text": " 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los artículos 106 y 108 de la Ley Orgánica del Poder Judicial de la Federación; 4, primer párrafo, de la Ley Orgánica del Tribunal Fisca",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4550,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6222222222222222,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del servicio militar"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -415,16 +415,16 @@
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aviacion-civil",
       "target_article": null,
       "citation_text": "meros párrafos, de la Ley de Navegación; 7, primer párrafo y se le adiciona un segundo párrafo, se reforman los artículos 38 y 40, primer párrafo, de la Ley de Aviación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del I",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5450,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aviación civil"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -475,16 +475,16 @@
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de la Comisión Nacional de Derechos Humanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "target_article": null,
       "citation_text": " I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6048,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9591836734693877,
+      "resolution_matched_alias": "ley de la comisión nacional de los derechos humanos"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -520,16 +520,16 @@
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "y Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6273,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -543,38 +543,38 @@
       "confidence": "medium",
       "char_offset": 6324,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5142857142857142,
+      "resolution_score": 0.726027397260274,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de la Comisión Reguladora de Energía",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-de-energia",
       "target_article": null,
       "citation_text": " Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 3",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6442,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6031746031746031,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7948717948717948,
+      "resolution_matched_alias": "ley de la comisión nacional de energía"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "nación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de C",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6522,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -640,16 +640,16 @@
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "eral de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado \"B\" del Artículo 123 Constitucional; y 15, fracción I y último párrafo de la Ley de la Comisión Nacional Bancaria y de Valores, para quedar como sigue:  ..........  TRANSITORIO  ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.  México, D.F., a 12 de diciem",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6921,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -663,23 +663,23 @@
       "confidence": "medium",
       "char_offset": 11022,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4503311258278146,
+      "resolution_score": 0.7421383647798742,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "target_article": null,
       "citation_text": " C y D; que ostentan el grado de Teniente Coronel y perciben un haber complementario por encontrarse en los supuestos que establece el artículo 45 de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, conservarán sus derechos adquiridos, hasta en tanto asciendan al grado de Coronel, o bien pasen a situación de retiro.  Tercero.- Para los efectos d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15793,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5074626865671642,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8309859154929577,
+      "resolution_matched_alias": "ley de ascensos y recompensas del ejército, fuerza aérea y guardia nacional"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -723,23 +723,23 @@
       "confidence": "medium",
       "char_offset": 38992,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5384615384615384,
+      "resolution_score": 0.6086956521739131,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
       "target_law_raw": "Ley de la Guardia Nacional y se reforman",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-guardia-nacional",
       "target_article": null,
       "citation_text": "l de 2024.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexican",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 56694,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7878787878787878,
+      "resolution_matched_alias": "ley de la guardia nacional"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -753,7 +753,7 @@
       "confidence": "medium",
       "char_offset": 60550,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
+      "resolution_score": 0.5806451612903226,
       "resolution_matched_alias": null
     },
     {
@@ -769,5 +769,5 @@
       "char_offset": 1926
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.260493+00:00"
+  "resolved_at": "2026-03-30T20:33:30.340558+00:00"
 }

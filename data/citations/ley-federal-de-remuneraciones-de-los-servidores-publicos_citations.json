@@ -244,16 +244,16 @@
       "source_law": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "source_article": "32",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "Artículo 32. La Auditoría Superior de la Federación, ejercerá las atribuciones que le confiere la Ley de Fiscalización y Rendición de Cuentas de la Federación, para procurar el cumplimiento de las disposiciones contenidas en esta Ley y sancionar su infracción, por lo que es competente para investigar y subs",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 95,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
@@ -298,5 +298,5 @@
       "char_offset": 1578
     }
   ],
-  "resolved_at": "2026-03-30T12:18:55.581936+00:00"
+  "resolved_at": "2026-03-30T20:33:17.899571+00:00"
 }

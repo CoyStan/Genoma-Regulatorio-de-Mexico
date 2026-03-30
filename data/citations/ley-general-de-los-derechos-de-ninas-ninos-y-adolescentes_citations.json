@@ -132,7 +132,7 @@
       "confidence": "medium",
       "char_offset": 3394,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48,
+      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -430,16 +430,16 @@
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
       "source_article": "113",
       "target_law_raw": "Ley de Asistencia Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-asistencia-social",
       "target_article": null,
       "citation_text": "tes de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley de Asistencia Social.  TÍTULO QUINTO De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes  Capítulo Primero De las autoridades",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 610,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7111111111111111,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de asistencia social"
     },
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -564,7 +564,7 @@
       "confidence": "high",
       "char_offset": 4439,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49382716049382713,
+      "resolution_score": 0.49557522123893805,
       "resolution_matched_alias": null
     },
     {
@@ -676,16 +676,16 @@
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
       "source_article": "154",
       "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "target_article": null,
       "citation_text": "la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley del Instituto Nacion",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26105,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la protección de personas defensoras de derechos humanos y periodistas"
     },
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -699,7 +699,7 @@
       "confidence": "medium",
       "char_offset": 26189,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.6428571428571429,
       "resolution_matched_alias": null
     },
     {
@@ -744,7 +744,7 @@
       "confidence": "medium",
       "char_offset": 27547,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.3769633507853403,
+      "resolution_score": 0.5777777777777777,
       "resolution_matched_alias": null
     },
     {
@@ -946,16 +946,16 @@
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
       "source_article": "154",
       "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
       "target_article": null,
       "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 46272,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5045045045045045,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
     },
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -970,5 +970,5 @@
       "char_offset": 4915
     }
   ],
-  "resolved_at": "2026-03-30T12:18:58.167796+00:00"
+  "resolved_at": "2026-03-30T20:33:22.879985+00:00"
 }

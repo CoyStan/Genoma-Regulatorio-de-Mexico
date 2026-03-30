@@ -22,16 +22,16 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "9",
       "target_law_raw": "Código de Justicia Militar",
-      "target_law_id": "unresolved",
+      "target_law_id": "codigo-de-justicia-militar",
       "target_article": null,
       "citation_text": "Artículo 9.- Para los efectos de esta Ley, se entiende que los militares se encuentran en campaña en los supuestos que se establecen en el Código de Justicia Militar.  En los casos en que hubiere duda acerca de si la fuerza a que pertenecía el interesado se encontraba o no en campaña, se consultará sobre el partic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 136,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5789473684210527,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "código de justicia militar"
     },
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
@@ -60,7 +60,7 @@
       "confidence": "medium",
       "char_offset": 1869,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6557377049180327,
+      "resolution_score": 0.6197183098591549,
       "resolution_matched_alias": null
     },
     {
@@ -82,16 +82,16 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "21",
       "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos y su Reglamento",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "target_article": null,
       "citation_text": "las Direcciones Generales de las Armas y Servicios del Ejército serán responsables de computar y ajustar el tiempo de servicios para la aplicación de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos y su Reglamento.  TÍTULO SEGUNDO De la Documentación Comprobatoria de la Actuación y del Tiempo de Servicios",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 209,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4533333333333333,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7721518987341772,
+      "resolution_matched_alias": "ley de ascensos y recompensas del ejército, fuerza aérea y guardia nacional"
     },
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 1040,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 1508,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4046242774566474,
+      "resolution_score": 0.6844919786096256,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "high",
       "char_offset": 1244,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -150,7 +150,7 @@
       "confidence": "high",
       "char_offset": 621,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 1089,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4046242774566474,
+      "resolution_score": 0.6844919786096256,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "medium",
       "char_offset": 3286,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6296296296296297,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -211,5 +211,5 @@
       "char_offset": 2259
     }
   ],
-  "resolved_at": "2026-03-30T12:19:02.679723+00:00"
+  "resolved_at": "2026-03-30T20:33:31.220769+00:00"
 }

@@ -34,16 +34,16 @@
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
       "source_article": "11",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "eros, en el ámbito de su competencia; Fracción adicionada DOF 25-06-2009  XLI.\tRegular y supervisar en el ámbito de su competencia el cumplimiento de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, en los términos señalados en el referido texto legal, y Fracción adicionada DOF 25-06-2009  XLII.\tEmitir, con el acuerdo de su Junta de Gobierno, di",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 12372,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 1755,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5853658536585366,
+      "resolution_score": 0.6329113924050633,
       "resolution_matched_alias": null
     },
     {
@@ -223,31 +223,31 @@
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
       "source_article": "108",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
       "target_article": null,
       "citation_text": "a fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la prese",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1111,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de los sistemas de ahorro para el retiro"
     },
     {
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
       "source_article": "108",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "istas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.  TERCERO.- Para los efectos de los artículos 72 y 83 de esta Ley, las menciones a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1196,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
@@ -373,16 +373,16 @@
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
       "source_article": "108",
       "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
       "target_article": null,
       "citation_text": "de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley pa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 36229,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley para la transparencia y ordenamiento de los servicios financieros"
     },
     {
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
@@ -472,5 +472,5 @@
       "char_offset": 4544
     }
   ],
-  "resolved_at": "2026-03-30T12:18:49.244863+00:00"
+  "resolved_at": "2026-03-30T20:33:07.277442+00:00"
 }

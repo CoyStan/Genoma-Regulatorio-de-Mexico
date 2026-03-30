@@ -34,16 +34,16 @@
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "2",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "dentificadas por la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;  VIII.\tOGM's: Organismo u organismos genéticamente modificados; en los términos de la Ley de Bioseguridad de Organismos Genéticamente Modificados;  IX.\tSADER: Secretaría de Agricultura y Desarrollo Rural, y  X.\tSEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.  TÍTULO SEGUNDO Del Fom",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1588,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
     },
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
@@ -100,5 +100,5 @@
       "char_offset": 1892
     }
   ],
-  "resolved_at": "2026-03-30T12:18:56.393697+00:00"
+  "resolved_at": "2026-03-30T20:33:19.242591+00:00"
 }
