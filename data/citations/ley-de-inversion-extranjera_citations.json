@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-inversion-extranjera",
-  "extracted_at": "2026-03-30T12:00:07.987290+00:00",
-  "total_citations": 96,
+  "extracted_at": "2026-03-30T12:18:19.814040+00:00",
+  "total_citations": 84,
   "citations": [
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -92,21 +92,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 308
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "22",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s internacionales para el desarrollo en el capital social de sociedades, de acuerdo a los términos y condiciones que para el efecto se establezcan en el reglamento de esta Ley.  TITULO SEXTO DE LA COMISION NACIONAL DE INVERSIONES EXTRANJERAS  Capítulo I De la Estructura de la Comisión",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 261,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -288,36 +273,6 @@
     {
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
-      "target_law_raw": "Ley Federal de Correduría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "mentos en los que no se relacionen tales autorizaciones se harán acreedores a las sanciones que determinen las leyes del notariado correspondientes y la Ley Federal de Correduría Pública.  TRANSITORIOS  PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abroga:  ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 413,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "RANSITORIOS  PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abroga:  I.- La Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera, publicada en el Diario Oficial de la Federación el 9 de marzo de 1973;  II.- La Ley Orgánica de la Fracción I del Artículo 27 Constitucional, public",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 603,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4696969696969697,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
       "target_law_raw": "Ley Orgánica de la Fracción I del Artículo 27 Constitucional",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -329,21 +284,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ieren socios extranjeros, publicado en el Diario Oficial de la Federación el 7 de julio de 1944.  TERCERO.- Se derogan:  I.- Los artículos 46 y 47 de la Ley Federal de Armas de Fuego y Explosivos, publicada en el Diario Oficial de la Federación el 11 de enero de 1972; y  II.- Todas las disposiciones legales, reglamentarias y administrativas de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1242,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -374,36 +314,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley Federal de Procedimiento Administrativo",
-      "target_law_id": "lfpa",
-      "target_article": null,
-      "citation_text": "- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 15527,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley Federal sobre Metrología y Normalización",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "arragán.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en mate",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 15578,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -588,36 +498,6 @@
     {
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19571,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19742,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -644,6 +524,21 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-de-inversion-extranjera",
+      "source_article": "39",
+      "target_law_raw": "Ley Federal de Correduría Pública",
+      "target_law_id": "ley-federal-competencia-economica",
+      "target_article": null,
+      "citation_text": "lamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera;",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 20077,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -861,11 +756,11 @@
       "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutua",
+      "citation_text": "ículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendad",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 31962,
+      "char_offset": 35058,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
@@ -914,36 +809,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "mo, se estará al régimen transitorio que para las mismas se prevé en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52059,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005.  DÉCIMO QUINTO.- Las sociedades financieras de objeto múltiple se reputan intermediarios financieros rurales para los efectos de la Ley Orgánica de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52250,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3875,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -1128,51 +993,6 @@
     {
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
-      "target_law_raw": "Ley de Migración",
-      "target_law_id": "ley-inmigracion",
-      "target_article": null,
-      "citation_text": "emás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.  CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se deroga",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 63010,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de migración"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley General de Población que se derogan",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "ntenderán referidas a la Ley de Migración.  CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.  México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 63138,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
-      "target_law_raw": "Ley General de Sociedades Mercantiles",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "sé Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Le",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64021,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -1214,6 +1034,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
+    },
+    {
+      "source_law": "ley-de-inversion-extranjera",
+      "source_article": "39",
+      "target_law_raw": "Ley General de Sociedades Mercantiles",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "ra quedar como sigue:  .  TRANSITORIOS  PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Activida",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 64622,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -1353,21 +1188,6 @@
     {
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
-      "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.  VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 105354,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-inversion-extranjera",
-      "source_article": "39",
       "target_law_raw": "Código Nacional de Procedimientos Penales",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -1423,5 +1243,5 @@
       "char_offset": 5700
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.166260+00:00"
+  "resolved_at": "2026-03-30T12:18:47.311447+00:00"
 }

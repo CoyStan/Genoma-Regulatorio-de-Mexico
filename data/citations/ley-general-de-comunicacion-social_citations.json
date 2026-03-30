@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-comunicacion-social",
-  "extracted_at": "2026-03-30T12:00:11.916775+00:00",
-  "total_citations": 20,
+  "extracted_at": "2026-03-30T12:18:23.919300+00:00",
+  "total_citations": 19,
   "citations": [
     {
       "source_law": "ley-general-de-comunicacion-social",
@@ -258,21 +258,6 @@
     {
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "45",
-      "target_law_raw": "Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "retario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   [DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Comunicación Social y de la Ley General de Responsabilidades Administrativas.] Decreto declarado inválido por Resolutivos de la SCJN a Acción de Inconstitucionalidad notificados para efectos legales el 08-05-2023, con Engrose ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4822,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-comunicacion-social",
-      "source_article": "45",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -283,5 +268,5 @@
       "char_offset": 3222
     }
   ],
-  "resolved_at": "2026-03-30T12:00:43.405918+00:00"
+  "resolved_at": "2026-03-30T12:18:57.128502+00:00"
 }

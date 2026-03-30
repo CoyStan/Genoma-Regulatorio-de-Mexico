@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-  "extracted_at": "2026-03-30T12:00:13.805778+00:00",
-  "total_citations": 65,
+  "extracted_at": "2026-03-30T12:18:25.903839+00:00",
+  "total_citations": 61,
   "citations": [
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
@@ -485,36 +485,6 @@
     },
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-      "source_article": "121",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tidad es una medida excepcional que consiste en la creación de un nuevo perfil personal, ocultando la identidad original en los términos que disponga la ley de la materia.  El cambio de identidad se aplicará sólo cuando la amenaza a la vida no se pueda evitar mediante la reubicación temporal u otras medidas.  La autori",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 181,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-      "source_article": "126",
-      "target_law_raw": "Ley para Prevenir y Sancionar la Trata de Personas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "NSITORIOS  Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley para Prevenir y Sancionar la Trata de Personas, publicada en el Diario Oficial de la Federación el día 27 de noviembre de 2007.  Tercero.- La implementación del presente decreto será con cargo a l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1749,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.47706422018348627,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "126",
       "target_law_raw": "Reglamento de la misma",
       "target_law_id": "unresolved",
@@ -534,11 +504,11 @@
       "target_law_raw": "Ley General para Prevenir",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "ero.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se adiciona un segundo párrafo a la fracción II del artículo 62 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.  Publicado en e",
+      "citation_text": "ado en el Diario Oficial de la Federación el 19 de marzo de 2014  Artículo Único.- Se adiciona un segundo párrafo a la fracción II del artículo 62 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, para quedar com",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 6884,
+      "char_offset": 7204,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
@@ -876,36 +846,6 @@
     {
       "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
       "source_article": "126",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dos mil dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11708,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-      "source_article": "126",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "cretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11765,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
-      "source_article": "126",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -946,5 +886,5 @@
       "char_offset": 6364
     }
   ],
-  "resolved_at": "2026-03-30T12:00:47.793108+00:00"
+  "resolved_at": "2026-03-30T12:19:00.804059+00:00"
 }

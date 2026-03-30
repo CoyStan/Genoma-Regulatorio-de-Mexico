@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-expropiacion",
-  "extracted_at": "2026-03-30T12:00:07.189171+00:00",
-  "total_citations": 12,
+  "extracted_at": "2026-03-30T12:18:19.022882+00:00",
+  "total_citations": 10,
   "citations": [
     {
       "source_law": "ley-de-expropiacion",
@@ -66,21 +66,6 @@
     {
       "source_law": "ley-de-expropiacion",
       "source_article": "21",
-      "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "nco Garrido.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Estatuto de Gobierno del Distrito Federal; de la Ley Federal de Responsabilidades de los Servidores Públicos; de la Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal.  Publicado en el Diario Oficial de la Federación el 4 de diciem",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4086,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-expropiacion",
-      "source_article": "21",
       "target_law_raw": "Ley de Expropiación y de la Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -92,21 +77,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7777777777777778,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-expropiacion",
-      "source_article": "21",
-      "target_law_raw": "Ley de Expropiación entrará",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "- Se adiciona un artículo 20 Bis a la Ley de Expropiación, para quedar como sigue:  ..........  TRANSITORIO  ÚNICO.- La adición del artículo 20 Bis a la Ley de Expropiación entrará en vigor el 5 de diciembre de 1997.  ARTÍCULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4478,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-expropiacion",
@@ -181,5 +151,5 @@
       "char_offset": 615
     }
   ],
-  "resolved_at": "2026-03-30T12:00:29.272361+00:00"
+  "resolved_at": "2026-03-30T12:18:44.681982+00:00"
 }

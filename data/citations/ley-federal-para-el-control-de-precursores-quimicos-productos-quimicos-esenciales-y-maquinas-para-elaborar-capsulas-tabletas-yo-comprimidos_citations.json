@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
-  "extracted_at": "2026-03-30T12:00:11.510653+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-03-30T12:18:23.523636+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
@@ -32,21 +32,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
-      "source_article": "12",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " teórico;  VI. Órdenes de producción, y  VII. Demás información que se deba reportar en el Sistema Integral de Sustancias, en los términos que señale el Reglamento de esta Ley. Artículo reformado DOF 03-05-2023",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1190,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
@@ -96,36 +81,6 @@
     {
       "source_law": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
       "source_article": "31",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "México, a 7 de mayo de 2021.- El Secretario del Consejo de Salubridad General, José Ignacio Santos Preciado.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16505,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
-      "source_article": "31",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "e Salubridad General, José Ignacio Santos Preciado.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16562,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
-      "source_article": "31",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -136,5 +91,5 @@
       "char_offset": 1511
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.515586+00:00"
+  "resolved_at": "2026-03-30T12:18:56.318253+00:00"
 }

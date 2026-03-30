@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-planeacion",
-  "extracted_at": "2026-03-30T12:00:08.578746+00:00",
-  "total_citations": 42,
+  "extracted_at": "2026-03-30T12:18:20.407391+00:00",
+  "total_citations": 39,
   "citations": [
     {
       "source_law": "ley-de-planeacion",
@@ -285,21 +285,6 @@
     {
       "source_law": "ley-de-planeacion",
       "source_article": "44",
-      "target_law_raw": "Reglamento de esta Ley en un plazo no mayor a 180 días naturales contados a partir de la entrada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de dos meses, contado a partir de que haya recibido el referido Plan por parte del Ejecutivo Federal.  Tercero.- El Ejecutivo Federal deberá expedir el Reglamento de esta Ley en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.  Cuarto.- La Secretaría de Hacienda y Crédito Público deberá implementar un sistema informático para dar seguimiento a los avances de las dependenci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 23856,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3609022556390977,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-planeacion",
-      "source_article": "44",
       "target_law_raw": "reglamento de la misma",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -345,21 +330,6 @@
     {
       "source_law": "ley-de-planeacion",
       "source_article": "44",
-      "target_law_raw": "Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "sitorios  Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.  Tercero. Se derogan todas aquellas disposiciones que se opongan a la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26266,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5030674846625767,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-planeacion",
-      "source_article": "44",
       "target_law_raw": "Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -371,36 +341,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.49696969696969695,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-planeacion",
-      "source_article": "44",
-      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "cretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Fede",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 34602,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-planeacion",
-      "source_article": "44",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 34662,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -585,17 +525,32 @@
     {
       "source_law": "ley-de-planeacion",
       "source_article": "44",
-      "target_law_raw": "Ley del Instituto Nacional de las Mujeres",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": " Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el present",
+      "citation_text": "ones que se opongan a lo dispuesto en el presente Decreto.  Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.  Cuarto. Las autoridades competentes de la Federac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 35912,
+      "char_offset": 36208,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-de-planeacion",
+      "source_article": "44",
+      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 37425,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.5393258426966292,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-planeacion",
@@ -625,5 +580,5 @@
       "char_offset": 1329
     }
   ],
-  "resolved_at": "2026-03-30T12:00:34.181209+00:00"
+  "resolved_at": "2026-03-30T12:18:49.065092+00:00"
 }

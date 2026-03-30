@@ -1,7 +1,7 @@
 {
   "law_id": "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
-  "extracted_at": "2026-03-30T12:00:14.849454+00:00",
-  "total_citations": 37,
+  "extracted_at": "2026-03-30T12:18:27.009759+00:00",
+  "total_citations": 35,
   "citations": [
     {
       "source_law": "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
@@ -300,36 +300,6 @@
     {
       "source_law": "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
       "source_article": "52",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7584,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
-      "source_article": "52",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7755,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
-      "source_article": "52",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -535,5 +505,5 @@
       "char_offset": 4184
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.177294+00:00"
+  "resolved_at": "2026-03-30T12:19:03.035219+00:00"
 }

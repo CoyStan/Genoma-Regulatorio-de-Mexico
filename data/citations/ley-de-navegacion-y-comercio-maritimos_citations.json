@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-navegacion-y-comercio-maritimos",
-  "extracted_at": "2026-03-30T12:00:08.482561+00:00",
-  "total_citations": 66,
+  "extracted_at": "2026-03-30T12:18:20.306569+00:00",
+  "total_citations": 60,
   "citations": [
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -320,21 +320,6 @@
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
-      "source_article": "56",
-      "target_law_raw": "Reglamento de la presente Ley y la Ley de Puertos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "aje, el Reglamento correspondiente y las reglas de pilotaje de cada puerto que expida la Secretaría, contendrán los elementos mínimos que establezcan el Reglamento de la presente Ley y la Ley de Puertos. El servicio público de pilotaje se considera como un servicio profesional. La Secretaría deberá valorar las consultas técnicas que le formulen a los",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 204,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.449438202247191,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "59",
       "target_law_raw": "reglamento respectivo",
       "target_law_id": "unresolved",
@@ -376,21 +361,6 @@
       "char_offset": 137,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-navegacion-y-comercio-maritimos",
-      "source_article": "61",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Secretaría autorizará las obras marítimas y las operaciones de dragado en los puertos, debiendo observar las normas aplicables en materia ambiental, el Reglamento de esta Ley, así como las reglas de operación de cada puerto. Párrafo adicionado DOF 07-12-2020 Artículo reformado DOF 19-12-2016",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 747,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -759,21 +729,6 @@
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "328",
-      "target_law_raw": "Ley de Navegación",
-      "target_law_id": "ley-inmigracion",
-      "target_article": null,
-      "citation_text": "Artículo 328 Bis. Se deroga. Artículo adicionado DOF 19-12-2016. Derogado DOF 07-12-2020  TRANSITORIOS  Artículo Primero.- Se abroga la Ley de Navegación publicada el 4 de enero de 1994 y sus reformas de 23 de enero de 1998 y 26 de mayo del 2000.  Artículo Segundo.- Se abroga la Ley de Navegación y Comercio Marítimos publicada en el Diario Oficial de la Federación del 21 de Noviembre de 1963.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 133,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8,
-      "resolution_matched_alias": "ley de inmigración"
-    },
-    {
-      "source_law": "ley-de-navegacion-y-comercio-maritimos",
-      "source_article": "328",
       "target_law_raw": "Ley Federal de Responsabilidad Ambiental y se reforman",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -879,51 +834,6 @@
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "328",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.  Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013  AR",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7134,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-navegacion-y-comercio-maritimos",
-      "source_article": "328",
-      "target_law_raw": "Ley de Puertos y de la Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "orio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.  Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013  ARTÍCULO TERCERO.- Se reforman el párrafo primero del artículo 1; el ar",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7191,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-navegacion-y-comercio-maritimos",
-      "source_article": "328",
-      "target_law_raw": "Ley de Navegación y Comercio Marítimos y la fracción I del artículo 44 de la Ley de Puertos",
-      "target_law_id": "unresolved",
-      "target_article": "44",
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Navegación y Comercio Marítimos y la fracción I del artículo 44 de la Ley de Puertos.  Publicado en el Diario Oficial de la Federación el 23 de enero de 2014  Artículo Primero.- Se reforman los artículos 8, fracción VI; 55, párrafos p",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9091,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4727272727272727,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-navegacion-y-comercio-maritimos",
-      "source_article": "328",
       "target_law_raw": "Ley de Puertos",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -979,5 +889,5 @@
       "char_offset": 2959
     }
   ],
-  "resolved_at": "2026-03-30T12:00:33.805598+00:00"
+  "resolved_at": "2026-03-30T12:18:48.765345+00:00"
 }

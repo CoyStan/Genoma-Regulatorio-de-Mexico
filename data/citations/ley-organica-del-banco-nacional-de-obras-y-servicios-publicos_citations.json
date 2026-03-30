@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-  "extracted_at": "2026-03-30T12:00:14.267491+00:00",
-  "total_citations": 34,
+  "extracted_at": "2026-03-30T12:18:26.419100+00:00",
+  "total_citations": 30,
   "citations": [
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
@@ -198,21 +198,6 @@
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
       "source_article": "35",
-      "target_law_raw": "Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de 180 días",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "en la Ley que se abroga, continuarán en vigor hasta que no sean revocados o modificados por los órganos y autoridades competentes.  Artículo Cuarto.- El Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de 180 días, contados a partir de la fecha de la vigencia de la presente Ley. Hasta en tanto, continuará en vigor el expedido el 26 de julio de 1985.  Artículo Q",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2179,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.42105263157894735,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-      "source_article": "35",
       "target_law_raw": "Reglamento Orgánico a que se refiere el artículo anterior",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -224,36 +209,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4580152671755725,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-      "source_article": "35",
-      "target_law_raw": "Ley de Instituciones de Crédito",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "ez Savigñac.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4137,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-      "source_article": "35",
-      "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "SITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4176,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
@@ -303,17 +258,32 @@
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
       "source_article": "35",
-      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito y la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_raw": "Ley de Instituciones de Crédito",
+      "target_law_id": "ley-instituciones-credito",
       "target_article": null,
-      "citation_text": "Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, la Ley General de Títulos y Operaciones de Crédito y la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos.  Publicado en el Diario Oficial de la Federación el 1º de febrero de 2008  QUINTO.- Se REFORMA el artículo 17, primer párrafo y fracción III de la L",
+      "citation_text": "ULO SEGUNDO.- La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noven",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 10929,
+      "char_offset": 5704,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de instituciones de crédito"
+    },
+    {
+      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
+      "source_article": "35",
+      "target_law_raw": "Ley Orgánica de Nacional Financiera",
+      "target_law_id": "ley-pemex",
+      "target_article": null,
+      "citation_text": "ábiles siguientes a la fecha en que entre en vigor el presente Decreto.  ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan qu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 7108,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
+      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
@@ -329,21 +299,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-      "source_article": "35",
-      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "eden derogadas.  ARTÍCULO SÉPTIMO.- Sin perjuicio de lo que dispone el \"Decreto por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutua",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14804,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
@@ -453,6 +408,21 @@
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
       "source_article": "35",
+      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": " ARTÍCULO DÉCIMO TERCERO.- Hasta en tanto el Banco de México expida las disposiciones de carácter general a que se refieren los artículos 32 y 179 de la Ley General de Títulos y Operaciones de Crédito, seguirá aplicándose lo dispuesto en dichos artículos conforme al texto vigente antes de la entrada en vigor de este Decreto.  ARTÍCULO DÉCIMO CUARTO",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 25192,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
+      "source_article": "35",
       "target_law_raw": "Ley de Instituciones de Crédito que se adiciona por virtud del presente Decreto",
       "target_law_id": "ley-instituciones-credito",
       "target_article": null,
@@ -468,36 +438,6 @@
     {
       "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
       "source_article": "35",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "jandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  ARTÍCULO DÉCIMO QUINTO.- Se REFORMAN los artículos 3, primer párrafo; 7, fr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 30959,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-      "source_article": "35",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": " que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 32014,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
-      "source_article": "35",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -508,5 +448,5 @@
       "char_offset": 3159
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.096189+00:00"
+  "resolved_at": "2026-03-30T12:19:02.045710+00:00"
 }

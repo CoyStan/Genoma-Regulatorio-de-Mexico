@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-sector-hidrocarburos",
-  "extracted_at": "2026-03-30T12:00:09.782538+00:00",
-  "total_citations": 50,
+  "extracted_at": "2026-03-30T12:18:21.669509+00:00",
+  "total_citations": 44,
   "citations": [
     {
       "source_law": "ley-del-sector-hidrocarburos",
@@ -97,21 +97,6 @@
       "char_offset": 1689,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6578947368421053,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sector-hidrocarburos",
-      "source_article": "25",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 25.- El proceso de otorgamiento de una nueva Asignación para Desarrollo Mixto debe establecerse en el Reglamento de esta Ley, y en las reglas que para tal efecto emita la Secretaría de Energía, el cual debe considerar al menos lo siguiente: I.\tPetróleos Mexicanos, por condu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 108,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -386,51 +371,6 @@
     },
     {
       "source_law": "ley-del-sector-hidrocarburos",
-      "source_article": "76",
-      "target_law_raw": "Reglamento de esta Ley y demás regulación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ue las autoridades competentes requieran para fines de supervisión y estadísticos del sector energético, en los términos y condiciones que establezca el Reglamento de esta Ley y demás regulación aplicable, a fin de que ésta sea integrada a las plataformas de información electrónica que establezcan la Secretaría de Energía y demás autoridades competente",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1410,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.49230769230769234,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sector-hidrocarburos",
-      "source_article": "81",
-      "target_law_raw": "Reglamento de la presente Ley y las disposiciones administrativas que se emitan por las autoridades competentes",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s de planeación incorporados en la política pública. Adicionalmente, se pueden establecer los criterios de evaluación específicos que se requieran en el Reglamento de la presente Ley y las disposiciones administrativas que se emitan por las autoridades competentes.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 483,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4276729559748428,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sector-hidrocarburos",
-      "source_article": "89",
-      "target_law_raw": "reglamento de esta Ley y demás regulación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Energía o la Comisión Nacional de Energía requieran para fines de supervisión y estadísticos del sector energético, en términos de lo que establezca el reglamento de esta Ley y demás regulación aplicable; XIV.\tNo contar con los equipos y programas informáticos para llevar los controles volumétricos referidos en el artículo 119, fracción XXII de este o",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3069,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.49230769230769234,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "91",
       "target_law_raw": "Ley de Expropiación o cuando la persona Permisionaria incumpla sus obligaciones por causas no imputables a ésta",
       "target_law_id": "unresolved",
@@ -642,51 +582,6 @@
     {
       "source_law": "ley-del-sector-hidrocarburos",
       "source_article": "166",
-      "target_law_raw": "Ley de Hidrocarburos",
-      "target_law_id": "ley-hidrocarburos",
-      "target_article": null,
-      "citation_text": "Transitorios Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo.- Se abroga la Ley de Hidrocarburos, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014. Todas las referencias a la Ley de Hidrocarburos que se encuentren en otras ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 504,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de hidrocarburos"
-    },
-    {
-      "source_law": "ley-del-sector-hidrocarburos",
-      "source_article": "166",
-      "target_law_raw": "Ley de Hidrocarburos que se encuentren en otras leyes se entienden referenciadas a la Ley del Sector Hidrocarburos",
-      "target_law_id": "ley-hidrocarburos",
-      "target_article": null,
-      "citation_text": "ración. Segundo.- Se abroga la Ley de Hidrocarburos, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014. Todas las referencias a la Ley de Hidrocarburos que se encuentren en otras leyes se entienden referenciadas a la Ley del Sector Hidrocarburos. Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley. Cuarto.- Se abrogan las disposiciones administra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 626,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de hidrocarburos"
-    },
-    {
-      "source_law": "ley-del-sector-hidrocarburos",
-      "source_article": "166",
-      "target_law_raw": "Reglamento de esta Ley dentro de los ciento ochenta días naturales siguientes a la fecha de su entrada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "nto ochenta días naturales, contados a partir de la fecha de entrada en vigor de esta Ley. Octavo.- La persona Titular del Ejecutivo Federal expedirá el Reglamento de esta Ley dentro de los ciento ochenta días naturales siguientes a la fecha de su entrada en vigor. Los reglamentos de la Ley de Hidrocarburos continuarán vigentes en lo que no se opongan a esta Ley. Noveno.- Las solicitudes de autorización, aproba",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2358,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.375,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sector-hidrocarburos",
-      "source_article": "166",
       "target_law_raw": "Ley de Hidrocarburos continuarán",
       "target_law_id": "ley-hidrocarburos",
       "target_article": null,
@@ -697,6 +592,21 @@
       "char_offset": 2493,
       "resolution_confidence": "medium",
       "resolution_score": 0.7692307692307693,
+      "resolution_matched_alias": "ley de hidrocarburos"
+    },
+    {
+      "source_law": "ley-del-sector-hidrocarburos",
+      "source_article": "166",
+      "target_law_raw": "Ley de Hidrocarburos",
+      "target_law_id": "ley-hidrocarburos",
+      "target_article": null,
+      "citation_text": "eduría u operación suscritos por Petróleos Mexicanos, con fundamento en la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo y la Ley de Hidrocarburos, continuarán en vigor bajo los términos y condiciones en que hayan sido suscritos. Décimo Séptimo.- Respecto a los Permisos de Formulación a que hace",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 7065,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
       "resolution_matched_alias": "ley de hidrocarburos"
     },
     {
@@ -727,5 +637,5 @@
       "char_offset": 15266
     }
   ],
-  "resolved_at": "2026-03-30T12:00:37.842658+00:00"
+  "resolved_at": "2026-03-30T12:18:52.175625+00:00"
 }

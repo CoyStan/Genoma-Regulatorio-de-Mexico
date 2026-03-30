@@ -1,7 +1,7 @@
 {
   "law_id": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
-  "extracted_at": "2026-03-30T12:00:14.907787+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-03-30T12:18:27.074516+00:00",
+  "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
@@ -44,36 +44,6 @@
     },
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
-      "source_article": "19",
-      "target_law_raw": "reglamento de la presente Ley y dé a los términos de ésta",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "porcionar los servicios de su personal técnico para el fomento y desarrollo de las Asociaciones Agrícolas; facultándosele igualmente para que formule el reglamento de la presente Ley y dé a los términos de ésta, interpretación adecuada. Artículo reformado DOF 09-04-2012  TRANSITORIOS",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 268,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46017699115044247,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
-      "source_article": "1º",
-      "target_law_raw": "Ley sobre Cámaras Agrícolas Nacionales de 21 de diciembre de 1909 y todas las disposiciones que se opongan a la presente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTICULO 1º.- Se deroga la Ley sobre Cámaras Agrícolas Nacionales de 21 de diciembre de 1909 y todas las disposiciones que se opongan a la presente.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 24,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.39106145251396646,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
       "target_law_raw": "Ley sobre Cámaras Agrícolas",
       "target_law_id": "unresolved",
@@ -90,48 +60,18 @@
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
-      "target_law_raw": "Reglamento de esta ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "se ha organizado la Confederación, de acuerdo con esta ley, la Secretaría tomará las medidas necesarias para tal fin, en los términos que se fijen en el Reglamento de esta ley.  SEGUNDO.- Se derogan: La Ley de Asociaciones Agrícolas de 19 de agosto de 1932, únicamente por lo que se refiere a la constitución, organización y ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2568,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
-      "source_article": "2º",
-      "target_law_raw": "Ley de Asociaciones Agrícolas de 19 de agosto de 1932",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "esta ley, la Secretaría tomará las medidas necesarias para tal fin, en los términos que se fijen en el Reglamento de esta ley.  SEGUNDO.- Se derogan: La Ley de Asociaciones Agrícolas de 19 de agosto de 1932, únicamente por lo que se refiere a la constitución, organización y funcionamiento general, de las asociaciones e instituciones filiales a ellas, que",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2618,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
-      "source_article": "2º",
       "target_law_raw": "Ley de Asociaciones Agrícolas",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "rica.- Al C. Lic. Silvano Barba González, Secretario de Gobernación.-Presente.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Asociaciones Agrícolas.  Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2010  Artículo Único. Se reforman los artículos 2o. y 5o. y se adiciona una f",
+      "citation_text": "e de 2010  Artículo Único. Se reforman los artículos 2o. y 5o. y se adiciona una fracción VIII al artículo 3o. y un segundo párrafo al artículo 12 de la Ley de Asociaciones Agrícolas, para quedar como sigue:  .  TRANSITORIOS  Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 3565,
+      "char_offset": 3815,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6530612244897959,
       "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.372675+00:00"
+  "resolved_at": "2026-03-30T12:19:03.173209+00:00"
 }

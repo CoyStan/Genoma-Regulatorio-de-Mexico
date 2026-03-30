@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-geotermia",
-  "extracted_at": "2026-03-30T12:00:07.371790+00:00",
-  "total_citations": 27,
+  "extracted_at": "2026-03-30T12:18:19.208193+00:00",
+  "total_citations": 20,
   "citations": [
     {
       "source_law": "ley-de-geotermia",
@@ -107,21 +107,6 @@
     },
     {
       "source_law": "ley-de-geotermia",
-      "source_article": "16",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ".\tEvidencia documental y de campo que permita constatar la factibilidad social, técnica y financiera, y  IX.\tLos demás que la Secretaría determine en el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 880,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
       "source_article": "20",
       "target_law_raw": "Reglamento y las disposiciones que al efecto se emitan",
       "target_law_id": "unresolved",
@@ -152,21 +137,6 @@
     },
     {
       "source_law": "ley-de-geotermia",
-      "source_article": "30",
-      "target_law_raw": "Reglamento de la presente Ley debe establecer",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 30.- El Reglamento de la presente Ley debe establecer, entre otros aspectos, el procedimiento y requisitos para el otorgamiento de Permisos de Exploración, Concesiones, prórrogas, y demás situaciones par",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.47058823529411764,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
       "source_article": "31",
       "target_law_raw": "Reglamento de esta Ley",
       "target_law_id": "unresolved",
@@ -176,21 +146,6 @@
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 648,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
-      "source_article": "34",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "y  IV.\tSe trate de los demás supuestos previstos en el Permiso de Exploración o título de Concesión, sin perjuicio de los que, en su caso, establezca el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 967,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
@@ -238,36 +193,6 @@
       "char_offset": 623,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.46153846153846156,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
-      "source_article": "48",
-      "target_law_raw": "Reglamento de la presente Ley y en la regulación que para tal efecto emita",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "operación de los Aprovechamientos Geotérmicos Exentos, con el fin de promover su uso para el desarrollo social, se deben definir por la Secretaría en el Reglamento de la presente Ley y en la regulación que para tal efecto emita.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 207,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4411764705882353,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
-      "source_article": "49",
-      "target_law_raw": "Reglamento de esta Ley y en las Disposiciones Administrativas de Carácter General que para tal efecto emita la Secretaría",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rte, terminación, revocación y caducidad de los Permisos de Usos Diversos y los avisos de Aprovechamientos Geotérmicos Exentos se deben establecer en el Reglamento de esta Ley y en las Disposiciones Administrativas de Carácter General que para tal efecto emita la Secretaría.  Capítulo V Otras Disposiciones",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 218,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.39361702127659576,
       "resolution_matched_alias": null
     },
     {
@@ -348,21 +273,6 @@
     {
       "source_law": "ley-de-geotermia",
       "source_article": "66",
-      "target_law_raw": "Ley de Energía Geotérmica",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "itorios  Primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se abroga la Ley de Energía Geotérmica publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, y las demás disposiciones que se opongan al presente ordenamiento.  Tercero.- En tanto se emita la nueva regulación o se modifique la regulación cor",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 401,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6037735849056604,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
-      "source_article": "66",
       "target_law_raw": "Ley de Energía Geotérmica se entienden hechas en lo",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -378,21 +288,6 @@
     {
       "source_law": "ley-de-geotermia",
       "source_article": "66",
-      "target_law_raw": "Reglamento de esta Ley dentro de un plazo de ciento ochenta días hábiles",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "jercer las atribuciones que le otorga la presente Ley a partir de su entrada en vigor.  Quinto.- La persona titular del Ejecutivo Federal debe emitir el Reglamento de esta Ley dentro de un plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor de esta.  Sexto.- Los permisos y concesiones otorgados por la Secretaría de Energía para llevar a ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1316,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.42758620689655175,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
-      "source_article": "66",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -403,5 +298,5 @@
       "char_offset": 4256
     }
   ],
-  "resolved_at": "2026-03-30T12:00:30.225153+00:00"
+  "resolved_at": "2026-03-30T12:18:45.563257+00:00"
 }

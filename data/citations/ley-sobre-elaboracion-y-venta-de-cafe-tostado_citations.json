@@ -1,7 +1,7 @@
 {
   "law_id": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
-  "extracted_at": "2026-03-30T12:00:14.946688+00:00",
-  "total_citations": 5,
+  "extracted_at": "2026-03-30T12:18:27.114815+00:00",
+  "total_citations": 4,
   "citations": [
     {
       "source_law": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
@@ -51,21 +51,6 @@
     {
       "source_law": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
       "source_article": "9o",
-      "target_law_raw": "Reglamento para la Torrefacción y Venta de café",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " medidas de seguridad, establece el Código Sanitario de los Estados Unidos Mexicanos. Artículo reformado DOF 08-01-1974  Artículo Tercero.- Se abroga el Reglamento para la Torrefacción y Venta de café, publicado en el Diario Oficial de la Federación del 23 de julio de 1960 y se derogan todas las disposiciones legales que se opongan a la presente Le",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1136,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
-      "source_article": "9o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -76,5 +61,5 @@
       "char_offset": 1568
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.516348+00:00"
+  "resolved_at": "2026-03-30T12:19:03.255504+00:00"
 }

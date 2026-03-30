@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-instituto-mexicano-de-la-juventud",
-  "extracted_at": "2026-03-30T12:00:09.513055+00:00",
-  "total_citations": 15,
+  "extracted_at": "2026-03-30T12:18:21.391349+00:00",
+  "total_citations": 14,
   "citations": [
     {
       "source_law": "ley-del-instituto-mexicano-de-la-juventud",
@@ -177,21 +177,6 @@
     {
       "source_law": "ley-del-instituto-mexicano-de-la-juventud",
       "source_article": "17",
-      "target_law_raw": "Ley del Instituto Mexicano de la Juventud y el artículo 73",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "brica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman los artículos 3 Bis y 9, fracción XIV, de la Ley del Instituto Mexicano de la Juventud y el artículo 73, primer párrafo, de la Ley de Premios, Estímulos y Recompensas Civiles.  Publicado en el Diario Oficial de la Federación el 2 de abril de 2015  Artíc",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10289,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-del-instituto-mexicano-de-la-juventud",
-      "source_article": "17",
       "target_law_raw": "Ley de Premios",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -217,5 +202,5 @@
       "char_offset": 1862
     }
   ],
-  "resolved_at": "2026-03-30T12:00:37.118223+00:00"
+  "resolved_at": "2026-03-30T12:18:51.567713+00:00"
 }

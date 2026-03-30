@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
-  "extracted_at": "2026-03-30T12:00:14.153831+00:00",
-  "total_citations": 43,
+  "extracted_at": "2026-03-30T12:18:26.299603+00:00",
+  "total_citations": 40,
   "citations": [
     {
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
@@ -197,51 +197,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
-      "source_article": "28",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ecretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13964,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
-      "source_article": "28",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "rancisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14005,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
-      "source_article": "28",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14033,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
@@ -646,5 +601,5 @@
       "char_offset": 3650
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.605272+00:00"
+  "resolved_at": "2026-03-30T12:19:01.585705+00:00"
 }

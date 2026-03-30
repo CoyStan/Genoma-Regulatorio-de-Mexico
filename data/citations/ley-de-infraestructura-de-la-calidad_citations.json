@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-infraestructura-de-la-calidad",
-  "extracted_at": "2026-03-30T12:00:07.410563+00:00",
-  "total_citations": 68,
+  "extracted_at": "2026-03-30T12:18:19.246876+00:00",
+  "total_citations": 56,
   "citations": [
     {
       "source_law": "ley-de-infraestructura-de-la-calidad",
@@ -78,21 +78,6 @@
     {
       "source_law": "ley-de-infraestructura-de-la-calidad",
       "source_article": "26",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de trabajo respectivo. La integración, organización, operación y funcionamiento de los Comités Consultivos Nacionales de Normalización se preverá en el Reglamento de esta Ley.  Dichos comités estarán integrados de manera equilibrada por dependencias, cámaras empresariales y confederaciones, organizaciones de industriales, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 416,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "26",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "",
@@ -115,21 +100,6 @@
       "char_offset": 747,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "30",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "spondiente, en los términos previstos en el Reglamento de la presente Ley, buscando que exista una sola Norma Oficial Mexicana por sector o materia.  El Reglamento de esta Ley y, en su caso, la Comisión establecerán la clasificación de las Normas Oficiales Mexicanas considerando los objetivos legítimos de interés público que ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 869,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -176,21 +146,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "41",
-      "target_law_raw": "Reglamento de esta Ley podrá establecer procedimientos simplificados de modificación y cancelación de Normas Oficiales Mexicanas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 41. El procedimiento de modificación de una Norma Oficial Mexicana se ajustará a lo previsto en el artículo 35 de esta Ley. El Reglamento de esta Ley podrá establecer procedimientos simplificados de modificación y cancelación de Normas Oficiales Mexicanas.  El procedimiento de modificación o cancelación de las Normas Oficiales Mexicanas podrá iniciarse en cualquier momento, siempre que la Norma Oficial",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 133,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-infraestructura-de-la-calidad",
@@ -308,21 +263,6 @@
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 403,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "56",
-      "target_law_raw": "Reglamento de esta ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "stablezcan en las Normas Oficiales Mexicanas, así como en los Estándares y Normas internacionales aplicables u otros instrumentos técnicos que prevea el Reglamento de esta ley;  II.\tPrestar sus servicios en condiciones no discriminatorias, con imparcialidad e independencia y observar las demás disposiciones en materia de co",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 280,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
@@ -449,21 +389,6 @@
     },
     {
       "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "74",
-      "target_law_raw": "Reglamento de esta Ley y sin perjuicio de que la Comisión amplíe y defina el uso de dicha clasificación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 74. Los Estándares se clasifican, según se prevea en el Reglamento de esta Ley y sin perjuicio de que la Comisión amplíe y defina el uso de dicha clasificación, en industrial; agrícola; pecuaria; medio ambiente; energético; comercial; de gestión; de metrología; y general.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 62,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.384180790960452,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
       "source_article": "75",
       "target_law_raw": "Reglamento de esta Ley",
       "target_law_id": "unresolved",
@@ -490,21 +415,6 @@
       "char_offset": 28,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.47540983606557374,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "77",
-      "target_law_raw": "Reglamento de esta Ley establecerá los requisitos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 77. El Reglamento de esta Ley establecerá los requisitos, reglas y mecanismos para desarrollar Estándares de forma conjunta por más de un sujeto facultado para estandarizar u Organismo Nacional de Estandari",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4266666666666667,
       "resolution_matched_alias": null
     },
     {
@@ -539,36 +449,6 @@
     },
     {
       "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "80",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 80. Para la elaboración de los Estándares se seguirá el siguiente procedimiento, mismo que se detallará en el Reglamento de esta Ley:  I.\tElaboración de la propuesta de Estándar por los Organismos Nacionales de Estandarización, los demás sujetos facultados para estandarizar o, por e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 116,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "81",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "es competentes.  La integración, organización, funcionamiento y, en su caso, coordinación de los comités técnicos de estandarización se precisarán en el Reglamento de esta Ley.  Los comités técnicos de estandarización deberán subsistir en tanto los Estándares que hayan elaborado continúen vigentes.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 780,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
       "source_article": "84",
       "target_law_raw": "Reglamento de esta Ley y que estará sujeta a la supervisión de la Secretaría",
       "target_law_id": "unresolved",
@@ -580,21 +460,6 @@
       "char_offset": 492,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4057971014492754,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "84",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ceso de elaboración de los Estándares serán atendidas por la Secretaría, ya sea por si, o a través de las instancias y demás medios que se definan en el Reglamento de esta Ley. Entre esas instancias, podrá preverse la constitución de una asociación civil integrada por los Organismos Nacionales de Estandarización y demás suj",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 220,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -818,36 +683,6 @@
     },
     {
       "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "131",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "cionales de Normalización, Comités Mexicanos, así como de los comités técnicos en materia de estandarización, y  XIII.\tAquellos que se establezcan en el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2204,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "133",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "as demás excepciones de confidencialidad y protección de datos personales previstas en la legislación aplicable, y las que expresamente se prevean en el Reglamento de esta Ley.  La información reportada en la Plataforma Tecnológica Integral de Infraestructura de la Calidad es responsabilidad de quien la genera.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 459,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
       "source_article": "135",
       "target_law_raw": "Reglamento de esta Ley",
       "target_law_id": "unresolved",
@@ -874,21 +709,6 @@
       "char_offset": 529,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6086956521739131,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-infraestructura-de-la-calidad",
-      "source_article": "137",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o para la selección de los acreedores al Premio Nacional de Calidad, la forma de usarlo y las demás prevenciones que sean necesarias, las establecerá el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 562,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -1009,5 +829,5 @@
       "char_offset": 5734
     }
   ],
-  "resolved_at": "2026-03-30T12:00:30.391526+00:00"
+  "resolved_at": "2026-03-30T12:18:45.678807+00:00"
 }

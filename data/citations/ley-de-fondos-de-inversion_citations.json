@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-fondos-de-inversion",
-  "extracted_at": "2026-03-30T12:00:07.357735+00:00",
-  "total_citations": 90,
+  "extracted_at": "2026-03-30T12:18:19.194014+00:00",
+  "total_citations": 84,
   "citations": [
     {
       "source_law": "ley-de-fondos-de-inversion",
@@ -981,21 +981,6 @@
     {
       "source_law": "ley-de-fondos-de-inversion",
       "source_article": "97",
-      "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de Sociedades de Inversión publicada en el Diario Oficial de la Federación el 14 de enero de 1985, y se derogan los incisos m) y n) del artículo 7 de la Ley de Inversión Extranjera.  TERCERO. Las sociedades de inversión que tengan dividido su capital fijo en dos o más clases de acciones, contarán con un plazo de seis meses conta",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 859,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
       "target_law_raw": "Ley del Impuesto Sobre la Renta",
       "target_law_id": "ley-isr",
       "target_article": null,
@@ -1007,51 +992,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
-      "target_law_raw": "Ley de Instituciones de Crédito",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "ntiago Creel Miranda.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley Federal de Instituciones de Fianzas; de la Ley ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4550,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituciones y Sociedades M",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4589,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
-      "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "A  DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; de la Ley del Mercado de Valo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4628,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-fondos-de-inversion",
@@ -1116,32 +1056,47 @@
     {
       "source_law": "ley-de-fondos-de-inversion",
       "source_article": "97",
-      "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
+      "target_law_raw": "Ley de Instituciones de Crédito",
+      "target_law_id": "ley-instituciones-credito",
       "target_article": null,
-      "citation_text": "Miranda.- Rúbrica.   DECRETO por el que se reforman diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Socie",
+      "citation_text": "iversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Merca",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 6082,
+      "char_offset": 6135,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de instituciones de crédito"
+    },
+    {
+      "source_law": "ley-de-fondos-de-inversion",
+      "source_article": "97",
+      "target_law_raw": "Ley de Ahorro y Crédito Popular",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Ins",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 6174,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
+      "resolution_score": 0.5483870967741935,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-fondos-de-inversion",
       "source_article": "97",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
+      "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
+      "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "ncisco Javier Ramírez Acuña.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  FONDOS DE INVERSIÓN  ARTÍCULO TRIGÉSIMO SEXTO.- Se REFORMAN la denominación",
+      "citation_text": "ientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Sociedades de Inversión; de la Ley del Mercado de Valores; de la Ley Federal de Instituciones de Fianzas; de la Ley General de Instituc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 7901,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
+      "char_offset": 6213,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.6470588235294118,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-fondos-de-inversion",
@@ -1191,21 +1146,6 @@
     {
       "source_law": "ley-de-fondos-de-inversion",
       "source_article": "97",
-      "target_law_raw": "Ley General de Sociedades Mercantiles",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "rnación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Ad",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 24946,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
       "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -1236,6 +1176,21 @@
     {
       "source_law": "ley-de-fondos-de-inversion",
       "source_article": "97",
+      "target_law_raw": "Ley General de Sociedades Mercantiles",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "a electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Adminis",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 25937,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-de-fondos-de-inversion",
+      "source_article": "97",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -1247,51 +1202,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 27249,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "cretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 27306,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-de-fondos-de-inversion",
-      "source_article": "97",
-      "target_law_raw": "Ley del Mercado de Valores y de la Ley de Fondos de Inversión",
-      "target_law_id": "ley-mercado-valores",
-      "target_article": null,
-      "citation_text": "rnación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Mercado de Valores y de la Ley de Fondos de Inversión.  Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023  Artículo Segundo.- Se reforman los artículos 1, párrafo segundo; 5 Bis,",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 39418,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del mercado de valores"
     },
     {
       "source_law": "ley-de-fondos-de-inversion",
@@ -1336,5 +1246,5 @@
       "char_offset": 4047
     }
   ],
-  "resolved_at": "2026-03-30T12:00:30.104843+00:00"
+  "resolved_at": "2026-03-30T12:18:45.494881+00:00"
 }

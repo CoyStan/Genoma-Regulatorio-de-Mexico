@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-  "extracted_at": "2026-03-30T12:00:07.501808+00:00",
-  "total_citations": 77,
+  "extracted_at": "2026-03-30T12:18:19.342394+00:00",
+  "total_citations": 74,
   "citations": [
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -191,21 +191,6 @@
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 258,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-      "source_article": "10",
-      "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "fraestructura de Petróleos Mexicanos que, hasta antes de la entrada en vigor del Decreto por el que se adicionan y reforman diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 13 de noviembre de 2008, eran considerados proyectos de infraestructura productiva de largo plazo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 568,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
@@ -990,36 +975,6 @@
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
-      "target_law_raw": "Ley Federal de Derechos",
-      "target_law_id": "lfda",
-      "target_article": null,
-      "citation_text": "a de administración, determinación, liquidación, cobro, recaudación y fiscalización de las contribuciones se hacen a la Comisión Nacional del Agua en la Ley Federal de Derechos, así como en los artículos 51 de la Ley de Coordinación Fiscal y Décimo Tercero de las Disposiciones Transitorias del Decreto por el que se reforman ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1345,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8,
-      "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-      "source_article": "34",
-      "target_law_raw": "Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ey de Coordinación Fiscal y Décimo Tercero de las Disposiciones Transitorias del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013 y las disposiciones que emanen de dichos ordenamientos se entenderán hecha",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1559,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4838709677419355,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-      "source_article": "34",
       "target_law_raw": "Ley de Coordinación Fiscal",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1150,5 +1105,5 @@
       "char_offset": 18775
     }
   ],
-  "resolved_at": "2026-03-30T12:00:30.728428+00:00"
+  "resolved_at": "2026-03-30T12:18:46.019809+00:00"
 }

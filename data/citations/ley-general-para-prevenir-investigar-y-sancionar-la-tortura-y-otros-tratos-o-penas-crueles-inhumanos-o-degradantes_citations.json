@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
-  "extracted_at": "2026-03-30T12:00:13.761869+00:00",
-  "total_citations": 50,
+  "extracted_at": "2026-03-30T12:18:25.856451+00:00",
+  "total_citations": 46,
   "citations": [
     {
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
@@ -579,21 +579,6 @@
     {
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
       "source_article": "96",
-      "target_law_raw": "Ley Federal para Prevenir y Sancionar la Tortura",
-      "target_law_id": "ley-prevencion-lavado-dinero",
-      "target_article": null,
-      "citation_text": "sitorios  Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publicada en el Diario Oficial de la Federación el 27 de diciembre de 1991.  Los procedimientos iniciados por hechos que ocurran a partir de la entr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 515,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
-      "source_article": "96",
       "target_law_raw": "Ley General de Víctimas",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -605,66 +590,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
-      "source_article": "96",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ca.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9551,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
-      "source_article": "96",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ong.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9608,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
-      "source_article": "96",
-      "target_law_raw": "Ley Federal para Prevenir y Eliminar la Discriminación",
-      "target_law_id": "ley-prevencion-lavado-dinero",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres y Hombres, la Ley General de Víctimas, la Ley General en Materia de Desaparición Forzada de Personas, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 22637,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
-      "source_article": "96",
-      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres y Hombres, la Ley General de Víctimas, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Naci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 22696,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
@@ -729,6 +654,21 @@
     {
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
       "source_article": "96",
+      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "eguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.  Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los eje",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 24403,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.3769633507853403,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
+      "source_article": "96",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -739,5 +679,5 @@
       "char_offset": 9116
     }
   ],
-  "resolved_at": "2026-03-30T12:00:47.681455+00:00"
+  "resolved_at": "2026-03-30T12:19:00.683145+00:00"
 }

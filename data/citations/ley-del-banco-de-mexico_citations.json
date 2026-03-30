@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-banco-de-mexico",
-  "extracted_at": "2026-03-30T12:00:08.932320+00:00",
-  "total_citations": 57,
+  "extracted_at": "2026-03-30T12:18:20.780787+00:00",
+  "total_citations": 54,
   "citations": [
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -216,36 +216,6 @@
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
-      "target_law_raw": "Ley Orgánica del Banco de México del 21 de diciembre de 1984",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": ", o a este último, la referencia se entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.  DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.  Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8767,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-del-banco-de-mexico",
-      "source_article": "68",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "pectivamente.  DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.  Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de In",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8876,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-del-banco-de-mexico",
-      "source_article": "68",
       "target_law_raw": "Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -261,17 +231,17 @@
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
+      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
+      "target_law_id": "loapf",
       "target_article": null,
-      "citation_text": "TO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades d",
+      "citation_text": "siciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artícu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 12237,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
+      "char_offset": 9325,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -279,11 +249,11 @@
       "target_law_raw": "Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "o por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.  SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, publicada en el Diario Oficial de la Federación de fecha 31 de diciembre de 1959; sin embargo, seguirá siendo aplicable en lo referente a las infrac",
+      "citation_text": "nte a las infracciones y faltas que se hubiesen cometido durante la vigencia del referido ordenamiento.  OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.  NOVENO.- Lo disp",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 13317,
+      "char_offset": 13676,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5833333333333334,
       "resolution_matched_alias": null
@@ -501,36 +471,6 @@
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16703,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-del-banco-de-mexico",
-      "source_article": "68",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16874,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-del-banco-de-mexico",
-      "source_article": "68",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -726,6 +666,21 @@
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
+      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
+      "target_law_id": "ley-fintech",
+      "target_article": null,
+      "citation_text": " casas de bolsa y especialistas bursátiles, se convierten en acciones de la serie \"O\" con las características que se contienen en los artículos 18 de la Ley para Regular las Agrupaciones Financieras, 13 de la Ley de Instituciones de Crédito, y 17-bis de la Ley del Mercado de Valores, sin necesidad de acuerdo de asamblea de accionistas y a partir ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 20016,
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
+    },
+    {
+      "source_law": "ley-del-banco-de-mexico",
+      "source_article": "68",
       "target_law_raw": "Ley del Mercado de Valores",
       "target_law_id": "ley-mercado-valores",
       "target_article": null,
@@ -771,21 +726,6 @@
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
-      "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley de Instituciones de Crédito, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Transparencia y de Fomento a la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 27401,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-banco-de-mexico",
-      "source_article": "68",
       "target_law_raw": "Ley para Regular las Sociedades de Información Crediticia",
       "target_law_id": "ley-fintech",
       "target_article": null,
@@ -816,6 +756,21 @@
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
+      "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "ue operen antes de la entrada en vigor del presente Decreto como Cámaras de Compensación en términos de lo dispuesto por los artículos 19 y 19 Bis de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, tendrán un plazo de noventa días naturales contados a partir de la fecha en que entren en vigor las disposiciones de carácter general que se emitan ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 29027,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.546875,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-del-banco-de-mexico",
+      "source_article": "68",
       "target_law_raw": "Ley sobre el Contrato de Seguro",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -841,5 +796,5 @@
       "char_offset": 9879
     }
   ],
-  "resolved_at": "2026-03-30T12:00:35.186383+00:00"
+  "resolved_at": "2026-03-30T12:18:49.928516+00:00"
 }

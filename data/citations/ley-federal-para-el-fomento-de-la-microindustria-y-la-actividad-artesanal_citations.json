@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
-  "extracted_at": "2026-03-30T12:00:11.553562+00:00",
-  "total_citations": 17,
+  "extracted_at": "2026-03-30T12:18:23.565585+00:00",
+  "total_citations": 16,
   "citations": [
     {
       "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
@@ -132,36 +132,6 @@
     {
       "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
       "source_article": "33",
-      "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Feder",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1668,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
-      "source_article": "33",
-      "target_law_raw": "Ley General de Sociedades Mercantiles",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "nando Gutiérrez Barrios.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Le",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1703,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
-      "source_article": "33",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -207,6 +177,21 @@
     {
       "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
       "source_article": "33",
+      "target_law_raw": "Ley General de Sociedades Mercantiles",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "ra quedar como sigue:  .  TRANSITORIOS  PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Activida",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 2427,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
+      "source_article": "33",
       "target_law_raw": "Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -247,5 +232,5 @@
       "char_offset": 1183
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.597988+00:00"
+  "resolved_at": "2026-03-30T12:18:56.393032+00:00"
 }

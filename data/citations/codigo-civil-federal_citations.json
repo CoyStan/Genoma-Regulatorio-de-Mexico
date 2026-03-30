@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-civil-federal",
-  "extracted_at": "2026-03-30T12:00:04.789876+00:00",
-  "total_citations": 140,
+  "extracted_at": "2026-03-30T12:18:16.511090+00:00",
+  "total_citations": 125,
   "citations": [
     {
       "source_law": "codigo-civil-federal",
@@ -104,21 +104,6 @@
     },
     {
       "source_law": "codigo-civil-federal",
-      "source_article": "265",
-      "target_law_raw": "Código de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "os que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor, incurrirán en las penas que señale el Código de la materia. Artículo reformado DOF 03-06-2019  CAPITULO X Del Divorcio",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 166,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-civil-federal",
       "source_article": "267",
       "target_law_raw": "ley una pena que pase de un año de prisión",
       "target_law_id": "unresolved",
@@ -130,21 +115,6 @@
       "char_offset": 2818,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4888888888888889,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "272",
-      "target_law_raw": "Código de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " legales si se comprueba que los cónyuges tienen hijos y no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia. Párrafo reformado DOF 03-06-2019  Los consortes que no se encuentren en el caso previsto en los anteriores párrafos de este artículo, pueden divorci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1041,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
       "resolution_matched_alias": null
     },
     {
@@ -327,21 +297,6 @@
     {
       "source_law": "codigo-civil-federal",
       "source_article": "732",
-      "target_law_raw": "Código de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 732.- Si se llenan las condiciones exigidas en el artículo anterior, el Juez, previos los trámites que fije el Código de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 117,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "732",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "",
@@ -350,21 +305,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 151
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "733",
-      "target_law_raw": "Código de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " artículo 730, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para la constitución fije el Código de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 266,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-civil-federal",
@@ -514,21 +454,6 @@
       "char_offset": 193,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5384615384615384,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "835",
-      "target_law_raw": "Código de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 835.- La infracción del artículo que precede, se castigará como delito, de acuerdo con lo que disponga el Código de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 112,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
       "resolution_matched_alias": null
     },
     {
@@ -722,21 +647,6 @@
     },
     {
       "source_law": "codigo-civil-federal",
-      "source_article": "1707",
-      "target_law_raw": "Código de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "arios, señalando la parte de ellos que cada bimestre deberá entregarse a los herederos o legatarios.  El juez, observando el procedimiento fijado por el Código de la materia, aprobará o modificará la proposición hecha, según corresponda.  El albacea que no presente la proposición de que se trata o que durante dos bimestre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 334,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-civil-federal",
       "source_article": "1712",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares",
       "target_law_id": "codigo-nacional-procedimientos-penales",
@@ -896,21 +806,6 @@
     },
     {
       "source_law": "codigo-civil-federal",
-      "source_article": "2100",
-      "target_law_raw": "Código de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 2100.- La consignación se hará siguiéndose el procedimiento que establezca el Código de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 84,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-civil-federal",
       "source_article": "2118",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares",
       "target_law_id": "codigo-nacional-procedimientos-penales",
@@ -1049,21 +944,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7789473684210526,
       "resolution_matched_alias": "código nacional de procedimientos penales"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "2448",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 2448 A.- No deberá darse en arrendamiento una localidad que no reúna las condiciones de higiene y salubridad exigidas por la Ley de la materia. Artículo adicionado DOF 07-02-1985",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 131,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-civil-federal",
@@ -1728,21 +1608,6 @@
     {
       "source_law": "codigo-civil-federal",
       "source_article": "3042",
-      "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "brica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica de Nacional Financiera; del Código de Comercio; de la Ley General de Títulos y Operaciones de Crédito; y del Código Civil para el Distrito Federal en Materia Común y para t",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16494,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "3042",
       "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -1754,36 +1619,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "3042",
-      "target_law_raw": "Ley Federal de Procedimiento Administrativo",
-      "target_law_id": "lfpa",
-      "target_article": null,
-      "citation_text": "ca.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19099,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "3042",
-      "target_law_raw": "Ley Federal sobre Metrología y Normalización",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Chemor.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en mate",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19150,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-civil-federal",
@@ -1833,21 +1668,6 @@
     {
       "source_law": "codigo-civil-federal",
       "source_article": "3042",
-      "target_law_raw": "Ley Federal de Competencia Económica",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "cisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 37594,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "3042",
       "target_law_raw": "Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Protección y Defensa al Usuario de Servicios Financieros",
       "target_law_id": "ley-federal-anticorrupcion",
       "target_article": null,
@@ -1859,21 +1679,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "3042",
-      "target_law_raw": "Ley de Instituciones de Crédito y del Código Civil Federal",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito y del Código Civil Federal.  Publicado en el Diario Oficial de la Federación el 27 de marzo de 2020  Artículo Segundo. Se reforman los artículos 430 y 635, y se adiciona un seg",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 49670,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de instituciones de crédito"
     },
     {
       "source_law": "codigo-civil-federal",
@@ -1923,36 +1728,6 @@
     {
       "source_law": "codigo-civil-federal",
       "source_article": "3042",
-      "target_law_raw": "Ley General de los Derechos de Niñas",
-      "target_law_id": "lfda",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, y del Código Civil Federal.  Publicado en el Diario Oficial de la Federación el 11 de enero de 2021  Artículo Segundo. Se refo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 53112,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7647058823529411,
-      "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "3042",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, del Código Civil Federal y del Código Penal Federal, en materia de violencia a través de interpósita persona.  Publicado en el Diario Oficial de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 54436,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "codigo-civil-federal",
-      "source_article": "3042",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -1981,5 +1756,5 @@
       "resolution_matched_alias": "ley federal de telecomunicaciones y radiodifusión"
     }
   ],
-  "resolved_at": "2026-03-30T12:00:20.666958+00:00"
+  "resolved_at": "2026-03-30T12:18:37.179743+00:00"
 }

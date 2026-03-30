@@ -1,6 +1,6 @@
 {
   "law_id": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
-  "extracted_at": "2026-03-30T12:00:12.447787+00:00",
+  "extracted_at": "2026-03-30T12:18:24.463561+00:00",
   "total_citations": 24,
   "citations": [
     {
@@ -228,21 +228,6 @@
     {
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "70",
-      "target_law_raw": "Ley General del Sistema de Medios de Impugnación",
-      "target_law_id": "ley-federal-anticorrupcion",
-      "target_article": null,
-      "citation_text": "orios  Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley General del Sistema de Medios de Impugnación en Materia Electoral, publicada el 22 de noviembre de 1996 en el Diario Oficial de la Federación.  Tercero. Se derogan todas aquellas disposiciones que se opongan al pres",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1999,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
-    },
-    {
-      "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
-      "source_article": "70",
       "target_law_raw": "Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto",
       "target_law_id": "lgipe",
       "target_article": null,
@@ -268,21 +253,6 @@
       "char_offset": 12737,
       "resolution_confidence": "high",
       "resolution_score": 0.9166666666666666,
-      "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
-      "source_article": "70",
-      "target_law_raw": "Ley General de Partidos Políticos",
-      "target_law_id": "lgpp",
-      "target_article": null,
-      "citation_text": "ez del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación y se expide la Ley General de los Medios de Impugnación en Materia Electoral, publicado en el",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16050,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de partidos políticos"
     },
     {
@@ -333,6 +303,36 @@
     {
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "70",
+      "target_law_raw": "Ley General de Partidos Políticos",
+      "target_law_id": "lgpp",
+      "target_article": null,
+      "citation_text": ". Esto abarca, desde luego, las disposiciones reformadas, adicionadas y derogadas de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación, así como la totalidad de la Ley General del Sistema de Medios de Impugnación en Materia Elec",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 20973,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de partidos políticos"
+    },
+    {
+      "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
+      "source_article": "70",
+      "target_law_raw": "Ley General del Sistema de Medios de Impugnación",
+      "target_law_id": "ley-federal-anticorrupcion",
+      "target_article": null,
+      "citation_text": "Procedimientos Electorales, de la Ley General de Partidos Políticos, de la Ley Orgánica del Poder Judicial de la Federación, así como la totalidad de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, que se encontraban vigentes hasta antes de la entrada en vigor del decreto impugnado.  204.\tAdicionalmente, tal como se hizo en la acción de inconst",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 21092,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
+    },
+    {
+      "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
+      "source_article": "70",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "41,",
@@ -343,5 +343,5 @@
       "char_offset": 153
     }
   ],
-  "resolved_at": "2026-03-30T12:00:44.730128+00:00"
+  "resolved_at": "2026-03-30T12:18:58.269165+00:00"
 }

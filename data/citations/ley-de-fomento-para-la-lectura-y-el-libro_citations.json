@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-fomento-para-la-lectura-y-el-libro",
-  "extracted_at": "2026-03-30T12:00:07.259390+00:00",
-  "total_citations": 29,
+  "extracted_at": "2026-03-30T12:18:19.095410+00:00",
+  "total_citations": 28,
   "citations": [
     {
       "source_law": "ley-de-fomento-para-la-lectura-y-el-libro",
@@ -77,21 +77,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de educación"
-    },
-    {
-      "source_law": "ley-de-fomento-para-la-lectura-y-el-libro",
-      "source_article": "28",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": ".- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.  Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015  ARTÍCULO S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3520,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
       "source_law": "ley-de-fomento-para-la-lectura-y-el-libro",
@@ -436,5 +421,5 @@
       "char_offset": 1735
     }
   ],
-  "resolved_at": "2026-03-30T12:00:29.808233+00:00"
+  "resolved_at": "2026-03-30T12:18:45.205865+00:00"
 }

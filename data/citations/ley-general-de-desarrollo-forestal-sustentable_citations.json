@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-desarrollo-forestal-sustentable",
-  "extracted_at": "2026-03-30T12:00:12.060594+00:00",
-  "total_citations": 53,
+  "extracted_at": "2026-03-30T12:18:24.069718+00:00",
+  "total_citations": 44,
   "citations": [
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
@@ -88,21 +88,6 @@
       "char_offset": 2523,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6153846153846154,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "7",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " LII.\tReforestación: Establecimiento de especies forestales en terrenos forestales;  LIII.\tRegistro: El Registro Forestal Nacional;  LIV.\tReglamento: El Reglamento de la presente Ley;  LV.\tRendimiento sostenido: La producción que puede generar un área forestal en forma persistente, sin merma de su capacidad productiva;  LVI.\tResta",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14295,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -323,21 +308,6 @@
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "65",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "os en esta Ley, su Reglamento y en las Normas Oficiales Mexicanas.  La suspensión se hará en los términos, condiciones y plazos que se establezcan en el Reglamento de la presente Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 697,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "68",
       "target_law_raw": "Ley de Comercio Exterior",
       "target_law_id": "unresolved",
@@ -364,21 +334,6 @@
       "char_offset": 234,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.44954128440366975,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "74",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "starán obligados a presentar un informe sobre la ejecución, desarrollo y cumplimiento del programa de manejo forestal, en los términos que establezca el Reglamento de la presente Ley.  En caso de no rendir el informe señalado en el párrafo anterior se negará la emisión de remisiones forestales para realizar el transporte de materi",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 220,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -428,51 +383,6 @@
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "95",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ón del cambio de uso de suelo establecido en la autorización respectiva, siempre que lo solicite el interesado, en los términos que se establezcan en el Reglamento de la presente Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 321,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "96",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o de suelo en terrenos forestales deberán presentar los informes periódicos sobre la ejecución y desarrollo del mismo, en los términos que establezca el Reglamento de la presente Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 210,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "97",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "que se acredite a la Secretaría que la vegetación forestal afectada se ha regenerado, mediante los mecanismos que, para tal efecto, se establezcan en el Reglamento de esta Ley. Artículo reformado DOF 26-04-2021",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 360,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "100",
       "target_law_raw": "Reglamento y una vez que se hubieran realizado las verificaciones de gabinete y de campo necesarios",
       "target_law_id": "unresolved",
@@ -484,36 +394,6 @@
       "char_offset": 534,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.3756906077348066,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "106",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " forestales, dependencias de los tres órdenes de gobierno y demás actores del sector forestal, en las Unidades de Manejo Forestal, se establecerán en el Reglamento de la presente Ley.  En la planeación del desarrollo forestal sustentable, se elaborarán programas y estudios regionales forestales en cada Unidad de Manejo Forestal, y",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 534,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "106",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " elaboración y ejecución.  La Secretaría autorizará dichos programas y estudios regionales conforme al contenido y procedimiento que se establezca en el Reglamento de esta Ley.  La Comisión promoverá que los gobiernos de las Entidades Federativas se coordinen a efecto de participar en la elaboración de dichos programas y es",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 891,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -741,21 +621,6 @@
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "163",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " procedimientos y solicitudes que se encuentren en trámite se regirán en los términos de la Ley que se abroga.  Segundo. El Ejecutivo Federal emitirá el Reglamento de la presente Ley, dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor.  Tercero. La Secretaría inscribirá en el Registro Forestal Nacional aque",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1429,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-desarrollo-forestal-sustentable",
-      "source_article": "163",
       "target_law_raw": "Ley General de Desarrollo Forestal Sustentable y que no cuenten con el registro correspondiente",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -781,5 +646,5 @@
       "char_offset": 3817
     }
   ],
-  "resolved_at": "2026-03-30T12:00:43.806942+00:00"
+  "resolved_at": "2026-03-30T12:18:57.460394+00:00"
 }

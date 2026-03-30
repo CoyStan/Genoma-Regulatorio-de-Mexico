@@ -1,23 +1,8 @@
 {
   "law_id": "ley-de-comercio-exterior",
-  "extracted_at": "2026-03-30T12:00:06.903300+00:00",
-  "total_citations": 18,
+  "extracted_at": "2026-03-30T12:18:18.733154+00:00",
+  "total_citations": 17,
   "citations": [
-    {
-      "source_law": "ley-de-comercio-exterior",
-      "source_article": "3o",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "re regulaciones y restricciones no arancelarias y programas e instrumentos de comercio exterior, y Fracción adicionada DOF 24-01-2006  V. Reglamento, el Reglamento de esta Ley. Fracción adicionada DOF 24-01-2006  Cuando esta Ley se refiera a plazos en días se entenderán días hábiles y cuando se refiera a meses o años se ent",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 676,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
     {
       "source_law": "ley-de-comercio-exterior",
       "source_article": "4o",
@@ -268,5 +253,5 @@
       "char_offset": 1713
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.954016+00:00"
+  "resolved_at": "2026-03-30T12:18:43.484955+00:00"
 }

@@ -1,23 +1,8 @@
 {
   "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
-  "extracted_at": "2026-03-30T12:00:06.864371+00:00",
-  "total_citations": 30,
+  "extracted_at": "2026-03-30T12:18:18.693479+00:00",
+  "total_citations": 26,
   "citations": [
-    {
-      "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
-      "source_article": "2o",
-      "target_law_raw": "Código de la materia y surtirá los efectos que en él se determinen",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "y la empresa y por su contenido se decidirán las cuestiones que se susciten con motivo del transporte de las cosas; contendrá las menciones que exige el Código de la materia y surtirá los efectos que en él se determinen;  III. Derecho de vía: Franja de terreno que se requiere para la construcción, conservación, ampliación, protección y en general para el uso adecuado",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 607,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.41509433962264153,
-      "resolution_matched_alias": null
-    },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "4o",
@@ -216,36 +201,6 @@
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "80",
-      "target_law_raw": "Ley sobre Construcción de Caminos en Cooperación con los Estados",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "lo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Artículo Segundo.- Se abroga la Ley sobre Construcción de Caminos en Cooperación con los Estados, publicada en el Diario Oficial de la Federación el 8 de mayo de 1934.  Artículo Tercero.- Se derogan los artículos 1o., fracciones VI y VII; 8o., pá",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 412,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5390070921985816,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
-      "source_article": "80",
-      "target_law_raw": "Ley de la Policía Federal Preventiva y se reforman diversas disposiciones de otros ordenamientos legales",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ario de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Policía Federal Preventiva y se reforman diversas disposiciones de otros ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 4 de enero de 1999  ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN IV Y SE DEROGA LA FRACCIÓN VII DEL ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2906,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.484472049689441,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
-      "source_article": "80",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -369,28 +324,13 @@
       "target_law_raw": "Ley General para la Prevención y Gestión Integral de los Residuos",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Prevención y Gestión Integral de los Residuos, y de la Ley de Caminos, Puentes y Autotransporte Federal.  Publicado en el Diario Oficial de la Federación el 4 de junio de 2014  ARTÍCULO SEGUNDO.-",
+      "citation_text": "guiente al de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- En términos de lo establecido por la fracción XXVIII del artículo 7 de la Ley General para la Prevención y Gestión Integral de los Residuos, el Ejecutivo Federal deberá desarrollar una Estrategia Nacional para la Gestión Integral de Neumáticos Usados.  TERCERO.- Los responsables de form",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 19960,
+      "char_offset": 20606,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5521472392638037,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
-      "source_article": "80",
-      "target_law_raw": "Ley del Registro Público Vehicular y de la Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ", Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman diversos artículos de la Ley de Caminos, Puentes y Autotransporte Federal, de la Ley del Registro Público Vehicular y de la Ley Reglamentaria del Servicio Ferroviario.  Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2017  Artículo Primero.- Se reforman los artículos 63 y 74 Ter, fracción II d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25781,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -451,5 +391,5 @@
       "char_offset": 2402
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.781636+00:00"
+  "resolved_at": "2026-03-30T12:18:43.310957+00:00"
 }

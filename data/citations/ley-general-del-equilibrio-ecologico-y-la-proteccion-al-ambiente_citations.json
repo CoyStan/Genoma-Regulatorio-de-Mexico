@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-  "extracted_at": "2026-03-30T12:00:13.435250+00:00",
-  "total_citations": 99,
+  "extracted_at": "2026-03-30T12:18:25.506462+00:00",
+  "total_citations": 88,
   "citations": [
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -132,21 +132,6 @@
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "source_article": "28",
-      "target_law_raw": "Reglamento de la presente Ley determinará las obras o actividades a que se refiere este artículo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "límites y condiciones establecidos en las disposiciones jurídicas relativas a la preservación del equilibrio ecológico y la protección del ambiente.  El Reglamento de la presente Ley determinará las obras o actividades a que se refiere este artículo, que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen o puedan causar desequilib",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2623,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.38235294117647056,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "28",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "27",
@@ -155,21 +140,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 1108
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "30",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "reventivo, así como las características y las modalidades de las manifestaciones de impacto ambiental y los estudios de riesgo serán establecidos por el Reglamento de la presente Ley. Artículo reformado DOF 13-12-1996",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1380,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -182,21 +152,6 @@
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1045,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "34",
-      "target_law_raw": "reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "as o actividades que puedan generar desequilibrios ecológicos graves o daños a la salud pública o a los ecosistemas, de conformidad con lo que señale el reglamento de la presente Ley, la Secretaría, en coordinación con las autoridades locales, podrá organizar una reunión pública de información en la que el promovente explicará los",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1595,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
@@ -593,21 +548,6 @@
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "143",
-      "target_law_raw": "Reglamento de esta Ley establecerá la regulación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " respectivas competencias, la Secretaría y las Secretarías de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, de Salud y de Economía. El Reglamento de esta Ley establecerá la regulación, que dentro del mismo marco de coordinación deba observarse en actividades relacionadas con dichos materiales, incluyendo la disposición final de sus",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 307,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "source_article": "144",
       "target_law_raw": "Ley Federal de Sanidad Vegetal y las demás disposiciones legales y reglamentarías",
       "target_law_id": "ley-federal-competencia-economica",
@@ -632,36 +572,6 @@
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 576,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "152",
-      "target_law_raw": "Reglamento de la presente Ley y las normas oficiales mexicanas que se expidan",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o a estimular su reuso y reciclaje.  En aquellos casos en que los residuos peligrosos puedan ser utilizados en un proceso distinto al que los generó, el Reglamento de la presente Ley y las normas oficiales mexicanas que se expidan, deberán establecer los mecanismos y procedimientos que hagan posible su manejo eficiente desde el punto de vista ambiental y económico.  Los residuo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 276,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.41509433962264153,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "152",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "neró, dentro del mismo predio, serán sujetos a un control interno por parte de la empresa responsable, de acuerdo con las formalidades que establezca el Reglamento de la presente Ley.  En el caso de que los residuos señalados en el párrafo anterior, sean transportados a un predio distinto a aquél en el que se generaron, se estará ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 744,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
@@ -777,11 +687,11 @@
       "target_law_raw": "Ley Federal de Protección al Ambiente",
       "target_law_id": "ley-federal-proteccion-consumidor",
       "target_article": null,
-      "citation_text": "-12-1996  ARTICULOS TRANSITORIOS  PRIMERO.- Esta Ley entrará en vigor el día primero de marzo de mil novecientos ochenta y ocho.  SEGUNDO.- Se abroga la Ley Federal de Protección al Ambiente, de treinta de diciembre de mil novecientos ochenta y uno, publicada en el Diario Oficial de la Federación el once de enero de mil novecientos ochent",
+      "citation_text": "eglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan. Las referencias legales o reglamentarias a la Ley Federal de Protección al Ambiente, se entienden hechas en lo aplicable, a la presente Ley.  CUARTO.- Todos los procedimientos y recursos administrativos relacionados con las materias ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 458,
+      "char_offset": 1409,
       "resolution_confidence": "medium",
       "resolution_score": 0.8157894736842105,
       "resolution_matched_alias": "ley federal de protección al consumidor"
@@ -800,36 +710,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8095238095238095,
       "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "204",
-      "target_law_raw": "Ley sobre la Zona Exclusiva de Pesca de la Nación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "IMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  ARTÍCULO SEGUNDO.- Se derogan la Ley sobre la Zona Exclusiva de Pesca de la Nación, publicada en el Diario Oficial de la Federación el 20 de enero de 1967, la Ley de Conservación del Suelo y Agua, publicada en dicho órgano de difusi",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8151,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5979381443298969,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "204",
-      "target_law_raw": "Ley de Conservación del Suelo y Agua",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "LO SEGUNDO.- Se derogan la Ley sobre la Zona Exclusiva de Pesca de la Nación, publicada en el Diario Oficial de la Federación el 20 de enero de 1967, la Ley de Conservación del Suelo y Agua, publicada en dicho órgano de difusión el 6 de julio de 1946, así como todas las disposiciones legales que se opongan a lo previsto en el presente De",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8277,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5588235294117647,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -909,21 +789,6 @@
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "source_article": "204",
-      "target_law_raw": "Ley General de Vida Silvestre",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "ica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y de la Ley General de Vida Silvestre.  Publicado en el Diario Oficial de la Federación el 6 de abril de 2010  ARTÍCULO PRIMERO.- Se reforma la fracción I del artículo 79; se reforma la f",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 34544,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "204",
       "target_law_raw": "Ley Federal de Procedimiento Contencioso Administrativo",
       "target_law_id": "lfpa",
       "target_article": null,
@@ -935,36 +800,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8775510204081632,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "204",
-      "target_law_raw": "Código Federal de Procedimientos Civiles",
-      "target_law_id": "codigo-federal-procedimientos-civiles",
-      "target_article": null,
-      "citation_text": "e Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 39976,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "código federal de procedimientos civiles"
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "204",
-      "target_law_raw": "Ley Federal de Competencia Económica",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "sé Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 40046,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -999,21 +834,6 @@
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "source_article": "204",
-      "target_law_raw": "Ley General del Equilibro Ecológico y la Protección al Ambiente",
-      "target_law_id": "lgeepa",
-      "target_article": null,
-      "citation_text": " vigor del presente Decreto, deberá publicar en el Diario Oficial de la Federación, el Decreto por el que se reforma el artículo 61 del Reglamento de la Ley General del Equilibro Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas, a fin de que se ajuste a lo previsto en el presente Decreto.  México, D. F., a 3 de abril de 2013.- Sen. Ernesto Cordero Arroyo, Presidente.- Dip. F",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 56296,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9921259842519685,
-      "resolution_matched_alias": "ley general del equilibrio ecológico y la protección al ambiente"
-    },
-    {
-      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "source_article": "204",
       "target_law_raw": "Ley Federal de Responsabilidad Ambiental y se reforman",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -1025,6 +845,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
+    },
+    {
+      "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
+      "source_article": "204",
+      "target_law_raw": "Ley General de Vida Silvestre",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "ilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvestre, de la Ley General para la Prevención y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Na",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 60452,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -1474,5 +1309,5 @@
       "char_offset": 2075
     }
   ],
-  "resolved_at": "2026-03-30T12:00:46.756129+00:00"
+  "resolved_at": "2026-03-30T12:18:59.811291+00:00"
 }

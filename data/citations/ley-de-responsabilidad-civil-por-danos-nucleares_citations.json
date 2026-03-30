@@ -1,23 +1,8 @@
 {
   "law_id": "ley-de-responsabilidad-civil-por-danos-nucleares",
-  "extracted_at": "2026-03-30T12:00:08.700304+00:00",
-  "total_citations": 4,
+  "extracted_at": "2026-03-30T12:18:20.534691+00:00",
+  "total_citations": 3,
   "citations": [
-    {
-      "source_law": "ley-de-responsabilidad-civil-por-danos-nucleares",
-      "source_article": "30",
-      "target_law_raw": "reglamento de esta Ley establecerá las bases de seguridad en las instalaciones nucleares",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTICULO 30.- El reglamento de esta Ley establecerá las bases de seguridad en las instalaciones nucleares; de ingresos o acceso; egreso o salida de todo su personal incluyendo el sindicalizado; y todas las demás que se requieran para la ejecución de la pr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4297520661157025,
-      "resolution_matched_alias": null
-    },
     {
       "source_law": "ley-de-responsabilidad-civil-por-danos-nucleares",
       "source_article": "31",
@@ -61,5 +46,5 @@
       "char_offset": 523
     }
   ],
-  "resolved_at": "2026-03-30T12:00:34.486115+00:00"
+  "resolved_at": "2026-03-30T12:18:49.343648+00:00"
 }

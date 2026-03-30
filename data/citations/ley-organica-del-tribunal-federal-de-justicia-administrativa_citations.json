@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
-  "extracted_at": "2026-03-30T12:00:14.468259+00:00",
-  "total_citations": 52,
+  "extracted_at": "2026-03-30T12:18:26.627504+00:00",
+  "total_citations": 51,
   "citations": [
     {
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
@@ -714,21 +714,6 @@
     {
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
       "source_article": "70",
-      "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ero Transitorio anterior y en los párrafos siguientes.  A partir de la entrada en vigor de la Ley a que se refiere el presente transitorio, se abroga la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa, publicada en el Diario Oficial de la Federación el seis de diciembre del año dos mil siete.  El Reglamento Interior del Tribunal que se encuentre vi",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5083,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
-      "source_article": "70",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y la Ley Orgánica del Tribunal Federal de Justicia Administrativa",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -747,11 +732,11 @@
       "target_law_raw": "Ley de Amparo",
       "target_law_id": "ley-amparo",
       "target_article": null,
-      "citation_text": ".- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley O",
+      "citation_text": "a Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.  Una vez realizadas las adecuaciones al sistema, el Órgano de Administración Judicial publicará en el Diario Oficial de la Federación y en su propio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 11246,
+      "char_offset": 12807,
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de amparo"
@@ -769,5 +754,5 @@
       "char_offset": 9023
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.707717+00:00"
+  "resolved_at": "2026-03-30T12:19:02.589680+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-derechos",
-  "extracted_at": "2026-03-30T12:00:10.620963+00:00",
-  "total_citations": 226,
+  "extracted_at": "2026-03-30T12:18:22.591617+00:00",
+  "total_citations": 206,
   "citations": [
     {
       "source_law": "ley-federal-de-derechos",
@@ -839,21 +839,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del impuesto especial sobre producción y servicios"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "56",
-      "target_law_raw": "Ley del Servicio Público de Energía Eléctrica",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ente artículo, cuando la modificación implique un análisis técnico, jurídico, financiero o la opinión del suministrador en términos del Reglamento de la Ley del Servicio Público de Energía Eléctrica.  b). (Se deroga). Inciso derogado DOF 24-12-2007  IV.\tPor el análisis, evaluación y, en su caso, aprobación, modificación y publicación del catálogo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1343,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2022,21 +2007,6 @@
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
-      "target_law_raw": "Ley de Impuestos y Fomento a la Minería",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "al 66% de dicha cuota y a partir del año de 1985 pagarán en los términos del artículo 238 de la Ley antes citada.  ARTICULO DECIMOSEGUNDO.- Se deroga la Ley de Impuestos y Fomento a la Minería publicada en el Diario Oficial de la Federación de 30 de diciembre de 1977, a excepción de los artículos 16 fracciones III y IV, 17 y 18, mismos que seguirán vigentes hasta el 31 de diciembre de 1983. Los contribuyentes que ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 22314,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6857142857142857,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
       "target_law_raw": "Ley Federal de Derechos son",
       "target_law_id": "lfda",
       "target_article": null,
@@ -2078,21 +2048,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley de Referencia",
-      "target_law_id": "lgtaip",
-      "target_article": null,
-      "citation_text": "21-A; 237-A; 238 con las fracciones XIV a XIX; 240 con un segundo párrafo, pasando el segundo a ser el último párrafo y 242 con un último párrafo, de la Ley de Referencia; y se DEROGAN los artículos 91, fracción II; 99, inciso d) de la fracción I y los subincisos 4 y 5 del inciso c) de la fracción III y los dos primero",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 68683,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7567567567567568,
-      "resolution_matched_alias": "ley de transparencia"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2412,36 +2367,6 @@
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
-      "target_law_raw": "Ley Federal de Derechos y de la Ley Federal de Cinematografía",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley Federal de Cinematografía.  Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002  ARTÍCULO PRIMERO.- Se REFORMAN los artículos 3o., segundo, tercero y qu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 397666,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley Federal de Derechos que por virtud de la presente Ley hayan sufrido modificaciones únicamente en su texto",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "cional de Precios al Consumidor de noviembre de 2002 entre el Índice Nacional de Precios al Consumidor de noviembre de 2001.  II. En los artículos de la Ley Federal de Derechos que por virtud de la presente Ley hayan sufrido modificaciones únicamente en su texto, y no así en su cuota correspondiente, ésta se actualizará en el mes de enero de 2003, de conformidad con el cuarto párrafo del artículo 1o. de la Le",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 402818,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
       "target_law_raw": "Ley Federal de Derechos y le seguirán siendo",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -2483,21 +2408,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley del Impuesto al Valor Agregado",
-      "target_law_id": "ley-iva",
-      "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley del Impuesto sobre Tenencia o Uso de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 417566,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto al valor agregado"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2547,17 +2457,17 @@
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
-      "target_law_raw": "Ley Federal de Derechos y la Ley Federal de Cinematografía\"",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_raw": "Ley del Impuesto al Valor Agregado",
+      "target_law_id": "ley-iva",
       "target_article": null,
-      "citation_text": " 8.  XVI. Queda sin efectos el artículo Cuarto Transitorio del \"Decreto por medio del cual se Reforman, Adicionan y Derogan Diversas Disposiciones de la Ley Federal de Derechos y la Ley Federal de Cinematografía\", publicado en el Diario Oficial de la Federación el 30 de diciembre de 2002.  XVII. (Se deroga). Fracción derogada DOF 13-11-2008  XVIII. Se condonan",
+      "citation_text": "RIOS  PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.  SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impuesto al Valor Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.  México, D.F., a 2",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 438227,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "char_offset": 439107,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del impuesto al valor agregado"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2742,21 +2652,6 @@
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
-      "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Inversión Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Feder",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 598935,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -2768,21 +2663,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "n Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.  Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011  ARTÍCULO CUARTO.- Se derogan las fracciones I, II y VII y se reforma la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 599103,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2857,66 +2737,6 @@
       "char_offset": 610750,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.55,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley Federal de Derechos",
-      "target_law_id": "lfda",
-      "target_article": null,
-      "citation_text": "refiere el párrafo quinto de la fracción IV del transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos, publicado en el Diario Oficial de la Federación el 24 de diciembre de 2007, hasta el 31 de diciembre de 2014.  Para tales efectos, aquellos contribu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 620300,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7857142857142857,
-      "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley Federal de Derechos se haga referencia a los artículos 92",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ias para la correcta y debida aplicación de la presente disposición.  Décimo. (Se deroga) Artículo derogado DOF 18-11-2015  Décimo Primero. Cuando en la Ley Federal de Derechos se haga referencia a los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta que se abroga, se entenderá que se refiere a los artículos 11, 179 y 180 de la Ley del Impuesto sobr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 623627,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley del Impuesto sobre la Renta que se abroga",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "Se deroga) Artículo derogado DOF 18-11-2015  Décimo Primero. Cuando en la Ley Federal de Derechos se haga referencia a los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta que se abroga, se entenderá que se refiere a los artículos 11, 179 y 180 de la Ley del Impuesto sobre la Renta, respectivamente.  Décimo Segundo. Para los efectos ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 623706,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8157894736842105,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en r",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 626493,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
       "resolution_matched_alias": null
     },
     {
@@ -3057,21 +2877,6 @@
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
-      "target_law_raw": "Ley Federal de Derechos contenidas en el artículo Sexto del Decreto por el que se reforman",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "blecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.  Tercero. Se deroga el artículo Décimo de las Disposiciones Transitorias de la Ley Federal de Derechos contenidas en el artículo Sexto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado; de la Ley del Impuesto Especial sobre Producción y Servicios; d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 641143,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
       "target_law_raw": "Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2016",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -3113,21 +2918,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8,
       "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Administradora General Jurídica, María de los Angeles Jasso Cisneros.- Rúbrica.   DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Pre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 674819,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -3222,36 +3012,6 @@
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
-      "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 675535,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley General de Cambio Climático",
-      "target_law_id": "lgpp",
-      "target_article": null,
-      "citation_text": " la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 675602,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
       "target_law_raw": "Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -3282,77 +3042,17 @@
     {
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
+      "target_law_raw": "Ley Federal de Derechos",
+      "target_law_id": "lfda",
       "target_article": null,
-      "citation_text": "o, a 22 de diciembre de 2020.- La Jefa del Servicio de Administración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
+      "citation_text": "os necesarios para la extinción del fideicomiso público de administración y pago sin estructura orgánica denominado Fideicomiso del artículo 18-A de la Ley Federal de Derechos, en términos de las disposiciones jurídicas aplicables.  Los remanentes del patrimonio del fideicomiso referido en el párrafo anterior que se generen",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 701882,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ministración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 701939,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley Federal de Derechos y de la Ley General de Turismo",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ministrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley General de Turismo.  Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023  Artículo Primero.- Se reforma el primer párrafo y se adiciona un segundo párr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 728788,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley General de Turismo surtirá efectos a partir del 1 de enero de 2024",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " tercero del presente Decreto.  Segundo.- (Se deroga). Artículo derogado DOF 13-11-2023  Tercero.- La derogación de la fracción IV del artículo 43 de la Ley General de Turismo surtirá efectos a partir del 1 de enero de 2024.  Cuarto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 729431,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-federal-de-derechos",
-      "source_article": "292",
-      "target_law_raw": "Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "polio de conformidad con los artículos Segundo y Sexto Transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.  En tanto se integra el Pleno de la Comisión Nacional Antimonopolio, la Comi",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 763379,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "char_offset": 752965,
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7857142857142857,
+      "resolution_matched_alias": "ley federal del derecho de autor"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -3367,5 +3067,5 @@
       "char_offset": 7108
     }
   ],
-  "resolved_at": "2026-03-30T12:00:40.208411+00:00"
+  "resolved_at": "2026-03-30T12:18:54.373012+00:00"
 }

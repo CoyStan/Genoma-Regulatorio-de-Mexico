@@ -1,6 +1,6 @@
 {
   "law_id": "ley-de-nacionalidad",
-  "extracted_at": "2026-03-30T12:00:08.432813+00:00",
+  "extracted_at": "2026-03-30T12:18:20.254638+00:00",
   "total_citations": 8,
   "citations": [
     {
@@ -106,5 +106,5 @@
       "char_offset": 877
     }
   ],
-  "resolved_at": "2026-03-30T12:00:33.696792+00:00"
+  "resolved_at": "2026-03-30T12:18:48.691001+00:00"
 }

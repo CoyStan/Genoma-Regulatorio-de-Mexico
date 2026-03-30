@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
-  "extracted_at": "2026-03-30T12:00:12.354280+00:00",
-  "total_citations": 165,
+  "extracted_at": "2026-03-30T12:18:24.367209+00:00",
+  "total_citations": 155,
   "citations": [
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
@@ -65,36 +65,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 476
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "7",
-      "target_law_raw": "ley de la materia y solicitar su registro de manera independiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tores.  3. Es derecho de las ciudadanas y los ciudadanos ser votados para todos los puestos de elección popular, teniendo las calidades que establece la ley de la materia y solicitar su registro de manera independiente, cuando cumplan los requisitos, condiciones y términos que determine esta Ley. Numeral reformado DOF 13-04-2020  4. [Es derecho y obligación de los c",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 635,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.49586776859504134,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "7",
-      "target_law_raw": "ley de la materia y en los procesos de participación ciudadana que estén previstos en la legislación correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " 4. [Es derecho y obligación de los ciudadanos, votar en las consultas populares sobre temas de trascendencia nacional, en los términos que determine la ley de la materia y en los procesos de participación ciudadana que estén previstos en la legislación correspondiente.] Numeral reformado DOF 02-03-2023 Numeral declarado inválido y recupera su vigencia con el texto que tenía al 2 de marzo de 2023 por sentencia de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 966,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.37894736842105264,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
@@ -878,21 +848,6 @@
     },
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "150",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "n estar comprendidos en las observaciones originalmente formuladas. De no cumplirse con dichos requisitos, independientemente de los demás que señale la Ley de la materia, será desechado por notoriamente improcedente. El medio de impugnación se interpondrá ante el Consejo General dentro de los tres días siguientes a aq",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1765,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "158",
       "target_law_raw": "Reglamento de Sesiones y Funcionamiento de las comisiones de vigilancia a que se refiere este artículo",
       "target_law_id": "unresolved",
@@ -1221,21 +1176,6 @@
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "247",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " las disposiciones civiles y penales aplicables.  4. El derecho a que se refiere el párrafo anterior se ejercerá en la forma y términos que determine la ley de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1764,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "247",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "",
@@ -1343,21 +1283,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 131
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "338",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rán impugnar ante el Tribunal Electoral el informe a que se refiere el párrafo anterior. La impugnación se sujetará a lo establecido en esta Ley y en la ley de la materia.  5. Si no se impugna el informe o, en su caso, una vez que el Tribunal Electoral haya resuelto las impugnaciones, el Consejo General sesionará para ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 944,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
@@ -1662,21 +1587,6 @@
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "456",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "orma sistemática en la misma conducta, el Consejo General dará aviso a la autoridad competente a fin de que aplique la sanción que proceda conforme a la ley de la materia, debiendo informar al Consejo General;  h)\tRespecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:  I.\tCon amonesta",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12819,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "456",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "",
@@ -1944,21 +1854,6 @@
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "535",
-      "target_law_raw": "Código Federal de Instituciones y Procedimientos Electorales",
-      "target_law_id": "lgipe",
-      "target_article": null,
-      "citation_text": "TRANSITORIOS  Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga el Código Federal de Instituciones y Procedimientos Electorales publicado en el Diario Oficial de la Federación el 14 de enero de 2008, así como sus reformas y adiciones.  Tercero. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos co",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 404,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8888888888888888,
-      "resolution_matched_alias": "ley general de instituciones y procedimientos electorales"
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "535",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación",
       "target_law_id": "lopjf",
       "target_article": null,
@@ -2030,36 +1925,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "535",
-      "target_law_raw": "Ley Federal de Competencia Económica",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "Distrito Federal, a veinticinco de junio de dos mil quince.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26777,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "535",
-      "target_law_raw": "Ley de la Comisión Nacional de los Derechos Humanos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "dos mil quince.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26821,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
@@ -2139,21 +2004,6 @@
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "535",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 31420,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "source_article": "535",
       "target_law_raw": "Ley General",
       "target_law_id": "lgipe",
       "target_article": null,
@@ -2224,5 +2074,5 @@
       "char_offset": 3294
     }
   ],
-  "resolved_at": "2026-03-30T12:00:44.501128+00:00"
+  "resolved_at": "2026-03-30T12:18:58.087092+00:00"
 }

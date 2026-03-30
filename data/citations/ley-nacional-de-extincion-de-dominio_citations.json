@@ -1,7 +1,7 @@
 {
   "law_id": "ley-nacional-de-extincion-de-dominio",
-  "extracted_at": "2026-03-30T12:00:13.922357+00:00",
-  "total_citations": 40,
+  "extracted_at": "2026-03-30T12:18:26.039038+00:00",
+  "total_citations": 39,
   "citations": [
     {
       "source_law": "ley-nacional-de-extincion-de-dominio",
@@ -423,11 +423,11 @@
       "target_law_raw": "Ley Federal de Extinción de Dominio",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
-      "citation_text": "r al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidad",
+      "citation_text": "rán armonizar su legislación respectiva con el presente Decreto.  Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 663,
+      "char_offset": 1325,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
@@ -465,29 +465,14 @@
     {
       "source_law": "ley-nacional-de-extincion-de-dominio",
       "source_article": "251",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "rnación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7734,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-nacional-de-extincion-de-dominio",
-      "source_article": "251",
       "target_law_raw": "Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
       "target_law_id": "ley-prevencion-lavado-dinero",
       "target_article": null,
-      "citation_text": "vila.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposi",
+      "citation_text": "se expide la Ley Nacional de Extinción de Dominio, y se reforman y adicionan diversas disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal, publicado el 9 de agosto de 2019.  Publicado en el Dia",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 7788,
+      "char_offset": 8077,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
@@ -565,5 +550,5 @@
       "char_offset": 721
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.041746+00:00"
+  "resolved_at": "2026-03-30T12:19:01.074843+00:00"
 }

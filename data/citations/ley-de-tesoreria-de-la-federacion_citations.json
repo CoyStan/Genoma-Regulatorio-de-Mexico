@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-tesoreria-de-la-federacion",
-  "extracted_at": "2026-03-30T12:00:08.754565+00:00",
-  "total_citations": 30,
+  "extracted_at": "2026-03-30T12:18:20.595947+00:00",
+  "total_citations": 26,
   "citations": [
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
@@ -62,21 +62,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-tesoreria-de-la-federacion",
-      "source_article": "2",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "el Gobierno Federal, así como de las garantías otorgadas a favor del mismo, en términos de los Títulos Segundo y Tercero de esta Ley;  X.\tReglamento: el Reglamento de esta Ley;  XI.\tSecretaría: la Secretaría de Hacienda y Crédito Público;  XII.\tSistema de Cuenta Única de Tesorería: el conjunto de cuentas administradas y ope",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2997,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
@@ -345,51 +330,6 @@
     {
       "source_law": "ley-de-tesoreria-de-la-federacion",
       "source_article": "60",
-      "target_law_raw": "Ley del Servicio de Inspección Fiscal",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "SEGUNDO.- Se abrogan la Ley del Servicio de Tesorería de la Federación, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1985, y la Ley del Servicio de Inspección Fiscal, publicada en el Diario Oficial de la Federación el 13 de abril de 1936.  TERCERO.- Se derogan todas aquellas disposiciones jurídicas que se opongan ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2863,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-tesoreria-de-la-federacion",
-      "source_article": "60",
-      "target_law_raw": "Ley del Servicio de Tesorería de la Federación que se abroga",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a lo establecido en la presente Ley.  El Reglamento de la Ley del Servicio de Tesorería de la Federación y demás disposiciones jurídicas derivadas de la Ley del Servicio de Tesorería de la Federación que se abroga, seguirán vigentes en todo lo que no se opongan a la Ley de Tesorería de la Federación, hasta en tanto se expida el Reglamento de esta última o las d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3203,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5740740740740741,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-tesoreria-de-la-federacion",
-      "source_article": "60",
-      "target_law_raw": "Reglamento de esta última o las disposiciones jurídicas que las sustituyan",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rería de la Federación que se abroga, seguirán vigentes en todo lo que no se opongan a la Ley de Tesorería de la Federación, hasta en tanto se expida el Reglamento de esta última o las disposiciones jurídicas que las sustituyan.  CUARTO.- Los asuntos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciars",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3380,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.43609022556390975,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-tesoreria-de-la-federacion",
-      "source_article": "60",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal que corresponda",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -445,5 +385,5 @@
       "char_offset": 7880
     }
   ],
-  "resolved_at": "2026-03-30T12:00:34.654634+00:00"
+  "resolved_at": "2026-03-30T12:18:49.483118+00:00"
 }

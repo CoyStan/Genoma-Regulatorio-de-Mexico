@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-correduria-publica",
-  "extracted_at": "2026-03-30T12:00:10.271503+00:00",
-  "total_citations": 33,
+  "extracted_at": "2026-03-30T12:18:22.205058+00:00",
+  "total_citations": 30,
   "citations": [
     {
       "source_law": "ley-federal-de-correduria-publica",
@@ -44,21 +44,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 1217
-    },
-    {
-      "source_law": "ley-federal-de-correduria-publica",
-      "source_article": "16",
-      "target_law_raw": "reglamento de esta ley y los criterios que al efecto emita la Secretaría",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "racterísticas de orden y contenido similares a las versiones que señalan los dos párrafos anteriores y conforme a las disposiciones que se prevean en el reglamento de esta ley y los criterios que al efecto emita la Secretaría. Artículo reformado DOF 08-06-2011",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 873,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4172661870503597,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-correduria-publica",
@@ -254,36 +239,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "ley-federal-de-correduria-publica",
-      "source_article": "23",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4767,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-federal-de-correduria-publica",
-      "source_article": "23",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4938,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "ley-federal-de-correduria-publica",
@@ -493,5 +448,5 @@
       "char_offset": 2444
     }
   ],
-  "resolved_at": "2026-03-30T12:00:39.230876+00:00"
+  "resolved_at": "2026-03-30T12:18:53.479296+00:00"
 }

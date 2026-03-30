@@ -1,23 +1,8 @@
 {
   "law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
-  "extracted_at": "2026-03-30T12:00:09.959533+00:00",
-  "total_citations": 14,
+  "extracted_at": "2026-03-30T12:18:21.854490+00:00",
+  "total_citations": 13,
   "citations": [
-    {
-      "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
-      "source_article": "11",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rminos que establezca su nombramiento;  VI. Guardar reserva de la información, documentación y en general, de los asuntos que conozca, en términos de la ley de la materia;  VII. Asistir puntualmente a sus labores y respetar los horarios de actividades;  VIII. Proporcionar la información y documentación necesarias al fu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 898,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "source_article": "12",
@@ -123,16 +108,16 @@
     {
       "source_law": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
       "source_article": "80",
-      "target_law_raw": "Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días",
+      "target_law_raw": "Ley del Servicio Profesional de Carrera en la Administración Pública Federal para quedar como sigue",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "mero.- Esta Ley entrará en vigor a partir de ciento ochenta días después de su publicación en el Diario Oficial de la Federación.  Artículo Segundo.- El Reglamento de la presente Ley deberá emitirse en un plazo no mayor a 180 días, contados a partir de la entrada en vigor de la misma.  El Consejo deberá estar integrado a más tardar dentro de los 45 días siguientes a la entrada ",
+      "citation_text": "istración Pública Federal.  Publicado en el Diario Oficial de la Federación el 1º de septiembre de 2005  Artículo Unico.- Se reforma el Artículo 8 de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal para quedar como sigue:  ..........  TRANSITORIOS  Primero.- Los criterios y mecanismos de profesionalización de los servidores públicos de la Secretaría de Relaciones Exter",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 377,
+      "char_offset": 4916,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.36507936507936506,
+      "resolution_score": 0.6081081081081081,
       "resolution_matched_alias": null
     },
     {
@@ -208,5 +193,5 @@
       "char_offset": 4236
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.590450+00:00"
+  "resolved_at": "2026-03-30T12:18:52.853519+00:00"
 }

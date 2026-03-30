@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-fiscalia-general-de-la-republica",
-  "extracted_at": "2026-03-30T12:00:08.214579+00:00",
-  "total_citations": 91,
+  "extracted_at": "2026-03-30T12:18:20.029618+00:00",
+  "total_citations": 89,
   "citations": [
     {
       "source_law": "ley-de-la-fiscalia-general-de-la-republica",
@@ -289,21 +289,6 @@
       "char_offset": 8837,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5964912280701754,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-fiscalia-general-de-la-republica",
-      "source_article": "19",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "federales y de las entidades federativas, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones, en términos de la ley de la materia, y  b)\tPara formular el pedimento que corresponda, en las acciones de inconstitucionalidad promovidas por otros sujetos legitimados;  XXXVIII.\tSolici",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9162,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -1056,21 +1041,6 @@
     {
       "source_law": "ley-de-la-fiscalia-general-de-la-republica",
       "source_article": "101",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "publicación en el Diario Oficial de la Federación y se expide en cumplimento al artículo Décimo Tercero transitorio del Decreto por el que se expidió la Ley Orgánica de la Fiscalía General de la República.  Segundo. Se abroga la Ley Orgánica de la Fiscalía General de la República.  Todas las referencias normativas a la Procuraduría General de la Repúbl",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 649,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-de-la-fiscalia-general-de-la-republica",
-      "source_article": "101",
       "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1288,5 +1258,5 @@
       "char_offset": 1163
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.962178+00:00"
+  "resolved_at": "2026-03-30T12:18:48.107711+00:00"
 }

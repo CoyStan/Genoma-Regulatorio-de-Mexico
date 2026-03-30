@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-banco-nacional-de-comercio-exterior",
-  "extracted_at": "2026-03-30T12:00:14.251793+00:00",
-  "total_citations": 22,
+  "extracted_at": "2026-03-30T12:18:26.402623+00:00",
+  "total_citations": 20,
   "citations": [
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
@@ -216,36 +216,6 @@
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "36",
-      "target_law_raw": "Ley de Instituciones de Crédito",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "queira Olea.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3990,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
-      "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "SITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4029,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -291,32 +261,32 @@
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "36",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
+      "target_law_raw": "Ley de Instituciones de Crédito",
+      "target_law_id": "ley-instituciones-credito",
       "target_article": null,
-      "citation_text": "jandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  ARTÍCULO DÉCIMO CUARTO.- Se REFORMAN los artículos 7, primer párrafo, y fra",
+      "citation_text": "ULO SEGUNDO.- La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noven",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 12208,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
+      "char_offset": 5480,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de instituciones de crédito"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "36",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
+      "target_law_raw": "Ley Orgánica de Nacional Financiera",
+      "target_law_id": "ley-pemex",
       "target_article": null,
-      "citation_text": " que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de",
+      "citation_text": "ábiles siguientes a la fecha en que entre en vigor el presente Decreto.  ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan qu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 13235,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+      "char_offset": 6884,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
@@ -331,5 +301,5 @@
       "char_offset": 2761
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.058170+00:00"
+  "resolved_at": "2026-03-30T12:19:02.007951+00:00"
 }

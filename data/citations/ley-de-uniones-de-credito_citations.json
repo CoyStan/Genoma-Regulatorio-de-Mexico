@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-uniones-de-credito",
-  "extracted_at": "2026-03-30T12:00:08.807926+00:00",
-  "total_citations": 31,
+  "extracted_at": "2026-03-30T12:18:20.650537+00:00",
+  "total_citations": 29,
   "citations": [
     {
       "source_law": "ley-de-uniones-de-credito",
@@ -381,44 +381,14 @@
       "target_law_raw": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": "rará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se deroga el Capítulo III del Título Segundo de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, publicada en el Diario Oficial de la Federación el 14 de enero de 1985, así como toda referencia en dicha Ley a uniones de crédito.  Las uniones de ",
+      "citation_text": "de Uniones de Crédito.  Quinto.- Las autorizaciones otorgadas a las uniones de crédito y los demás actos administrativos realizados con fundamento en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, que conforme a lo dispuesto en el presente Decreto corresponda llevar a cabo a la Comisión Nacional Bancaria y de Valores, continuarán en vigor, has",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 670,
+      "char_offset": 2689,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-uniones-de-credito",
-      "source_article": "145",
-      "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.  Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.  México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6321,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-uniones-de-credito",
-      "source_article": "145",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "LOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  UNIONES DE CRÉDITO  ARTÍCULO NOVENO. Se REFORMAN el inciso a) de la fracció",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7173,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
     },
     {
       "source_law": "ley-de-uniones-de-credito",
@@ -463,5 +433,5 @@
       "char_offset": 6627
     }
   ],
-  "resolved_at": "2026-03-30T12:00:34.760857+00:00"
+  "resolved_at": "2026-03-30T12:18:49.567465+00:00"
 }

@@ -1,6 +1,6 @@
 {
   "law_id": "ley-de-seguridad-interior",
-  "extracted_at": "2026-03-30T12:00:08.708154+00:00",
+  "extracted_at": "2026-03-30T12:18:20.542848+00:00",
   "total_citations": 20,
   "citations": [
     {
@@ -283,5 +283,5 @@
       "char_offset": 228
     }
   ],
-  "resolved_at": "2026-03-30T12:00:34.517226+00:00"
+  "resolved_at": "2026-03-30T12:18:49.374152+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-aguas-nacionales",
-  "extracted_at": "2026-03-30T12:00:06.451818+00:00",
-  "total_citations": 125,
+  "extracted_at": "2026-03-30T12:18:18.277630+00:00",
+  "total_citations": 117,
   "citations": [
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -386,21 +386,6 @@
     },
     {
       "source_law": "ley-de-aguas-nacionales",
-      "source_article": "18",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "25  Independientemente de lo anterior, la explotación, uso o aprovechamiento de las aguas del subsuelo causará las contribuciones fiscales que señale la Ley de la materia. En las declaraciones fiscales correspondientes, las personas concesionarias o asignatarias deberán señalar que su aprovechamiento se encuentra inscr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2907,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
       "source_article": "19",
       "target_law_raw": "Ley General de Transparencia y Acceso a la Información Pública",
       "target_law_id": "lgtaip",
@@ -473,21 +458,6 @@
       "resolution_confidence": "high",
       "resolution_score": 0.967741935483871,
       "resolution_matched_alias": "ley general del equilibrio ecológico y la protección al ambiente"
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
-      "source_article": "21",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ias, la Autoridad del Agua podrá requerir, por una sola ocasión a la persona solicitante para que la subsane, en los términos y plazos que disponga el reglamento de esta Ley. La ausencia total de la documentación señalada en este artículo o la falta de desahogo al requerimiento de información motivará el desechamiento de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2035,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -662,21 +632,6 @@
     },
     {
       "source_law": "ley-de-aguas-nacionales",
-      "source_article": "37",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "nsiderarse en el cálculo de la disponibilidad.  La operación, funcionamiento e integración del fondo de reserva de aguas nacionales se determinará en el reglamento de esta Ley. Artículo adicionado DOF 29-04-2004. Reformado DOF 11-12-2025",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 865,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
       "source_article": "40",
       "target_law_raw": "decreto de veda correspondiente deberá señalar",
       "target_law_id": "unresolved",
@@ -733,21 +688,6 @@
       "char_offset": 479,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5957446808510638,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
-      "source_article": "66",
-      "target_law_raw": "reglamento del servicio de riego se ajustará a lo dispuesto en el Artículo 51 de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": "51",
-      "citation_text": "rá su cumplimiento. El reglamento no podrá contravenir lo dispuesto en la concesión y se someterá a sanción del Organismo de Cuenca que corresponda.  El reglamento del servicio de riego se ajustará a lo dispuesto en el Artículo 51 de la presente Ley. Artículo reformado DOF 29-04-2004",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 529,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4470588235294118,
       "resolution_matched_alias": null
     },
     {
@@ -956,21 +896,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7619047619047619,
       "resolution_matched_alias": "ley general del equilibrio ecológico y la protección al ambiente"
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
-      "source_article": "86",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "as nacionales;  II. Promover en los términos de la presente Ley y sus reglamentos, las reservas de aguas nacionales o la reserva ecológica conforme a la ley de la materia, para la preservación de los humedales;  III. Proponer las Normas Oficiales Mexicanas para preservar, proteger y, en su caso, restaurar los humedales",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 652,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -1410,51 +1335,6 @@
     {
       "source_law": "ley-de-aguas-nacionales",
       "source_article": "124",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26395,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
-      "source_article": "124",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "men Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26436,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
-      "source_article": "124",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26464,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-aguas-nacionales",
-      "source_article": "124",
       "target_law_raw": "Ley General de Cambio Climático",
       "target_law_id": "lgpp",
       "target_article": null,
@@ -1855,5 +1735,5 @@
       "char_offset": 1562
     }
   ],
-  "resolved_at": "2026-03-30T12:00:26.717722+00:00"
+  "resolved_at": "2026-03-30T12:18:42.447124+00:00"
 }

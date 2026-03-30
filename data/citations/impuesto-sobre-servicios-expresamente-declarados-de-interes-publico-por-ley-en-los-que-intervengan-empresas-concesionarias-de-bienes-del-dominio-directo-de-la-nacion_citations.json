@@ -1,23 +1,8 @@
 {
   "law_id": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
-  "extracted_at": "2026-03-30T12:00:06.138134+00:00",
-  "total_citations": 2,
+  "extracted_at": "2026-03-30T12:18:17.940984+00:00",
+  "total_citations": 1,
   "citations": [
-    {
-      "source_law": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
-      "source_article": "0",
-      "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "Código Fiscal de la Federación.  Las empresas de construcción no estarán obligadas a hacer los pagos provisionales a que se refiere el artículo 35 de la Ley del Impuesto sobre la Renta.  ARTICULO SEPTIMO.- Se deroga el artículo 14 de la Ley que establece, reforma y adiciona las disposiciones relativas a diversos impuestos, de fecha ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5877,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
     {
       "source_law": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
       "source_article": "0",
@@ -31,5 +16,5 @@
       "char_offset": 6421
     }
   ],
-  "resolved_at": "2026-03-30T12:00:25.174014+00:00"
+  "resolved_at": "2026-03-30T12:18:41.110034+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-servicio-exterior-mexicano",
-  "extracted_at": "2026-03-30T12:00:09.928788+00:00",
-  "total_citations": 60,
+  "extracted_at": "2026-03-30T12:18:21.823101+00:00",
+  "total_citations": 55,
   "citations": [
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -77,21 +77,6 @@
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
-      "source_article": "11",
-      "target_law_raw": "Reglamento de la presente Ley se establecerán modalidades",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de rotación anual, procurando que el personal de carrera no permanezca menos de dos años, ni más de seis en una misma adscripción en el exterior.  En el Reglamento de la presente Ley se establecerán modalidades, a fin de favorecer una equilibrada rotación del personal de carrera, entre áreas geográficas diversas y de especialización temática, así como para e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 933,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4691358024691358,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "17",
       "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
       "target_law_id": "ley-issste",
@@ -155,21 +140,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 319
-    },
-    {
-      "source_law": "ley-del-servicio-exterior-mexicano",
-      "source_article": "37",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " DOF 19-04-2018  II. Exámenes escritos y orales para determinar la capacidad de los aspirantes a ascenso. Fracción reformada DOF 25-01-2002  Conforme el Reglamento de esta Ley, podrá otorgarse puntuación adicional por obras o trabajos publicados, estudios realizados y títulos académicos obtenidos con posterioridad al último",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1034,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -471,36 +441,6 @@
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
       "source_article": "65",
-      "target_law_raw": "Ley Orgánica del Servicio Exterior Mexicano",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ANSITORIOS  PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abroga la Ley Orgánica del Servicio Exterior Mexicano, publicada en el Diario Oficial de la Federación del 8 de enero de 1982 y se derogan todas las demás disposiciones que se opongan a la presente Ley. ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 583,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-del-servicio-exterior-mexicano",
-      "source_article": "65",
-      "target_law_raw": "Reglamento de la Ley que se abroga en aquellas partes que no se opongan a la Ley que se decreta",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "8 de enero de 1982 y se derogan todas las demás disposiciones que se opongan a la presente Ley. En tanto se expide su Reglamento, continuará en vigor el Reglamento de la Ley que se abroga en aquellas partes que no se opongan a la Ley que se decreta.  TERCERO.- La imposición de sanciones administrativas a los miembros del Servicio Exterior que deriven de procedimientos en trámite se ajustarán a l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 833,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.384180790960452,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-exterior-mexicano",
-      "source_article": "65",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanas",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -662,21 +602,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "ley-del-servicio-exterior-mexicano",
-      "source_article": "65",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5107,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "ley-del-servicio-exterior-mexicano",
@@ -886,5 +811,5 @@
       "char_offset": 2598
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.390410+00:00"
+  "resolved_at": "2026-03-30T12:18:52.678964+00:00"
 }

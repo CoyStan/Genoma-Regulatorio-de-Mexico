@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-guardia-nacional",
-  "extracted_at": "2026-03-30T12:00:08.233995+00:00",
-  "total_citations": 58,
+  "extracted_at": "2026-03-30T12:18:20.049842+00:00",
+  "total_citations": 55,
   "citations": [
     {
       "source_law": "ley-de-la-guardia-nacional",
@@ -188,36 +188,6 @@
     },
     {
       "source_law": "ley-de-la-guardia-nacional",
-      "source_article": "23",
-      "target_law_raw": "reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a Guardia Nacional, incluso anónimas, para llevar a cabo actividades de vigilancia, inspección, supervisión e investigación y las demás que determine el reglamento de la presente Ley. Además, contará con una Coordinación de Asuntos Jurídicos, cuyas funciones se establecerán en el reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 585,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-guardia-nacional",
-      "source_article": "23",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s demás que determine el reglamento de la presente Ley. Además, contará con una Coordinación de Asuntos Jurídicos, cuyas funciones se establecerán en el reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 713,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-guardia-nacional",
       "source_article": "26",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
       "target_law_id": "ley-federal-anticorrupcion",
@@ -362,21 +332,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
-    },
-    {
-      "source_law": "ley-de-la-guardia-nacional",
-      "source_article": "44",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "e que la persona titular del Ejecutivo Federal considere procedente su petición y no se encuentre comprendido en alguna causal de retiro señalada por la ley de la materia, éste se halle físicamente útil para el servicio, exista vacante y no hayan transcurrido más de seis años desde la fecha de su separación del activo ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1208,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-la-guardia-nacional",
@@ -841,5 +796,5 @@
       "char_offset": 2500
     }
   ],
-  "resolved_at": "2026-03-30T12:00:33.069620+00:00"
+  "resolved_at": "2026-03-30T12:18:48.212982+00:00"
 }

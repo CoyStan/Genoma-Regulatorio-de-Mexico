@@ -1,7 +1,7 @@
 {
   "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-  "extracted_at": "2026-03-30T12:00:14.943788+00:00",
-  "total_citations": 12,
+  "extracted_at": "2026-03-30T12:18:27.111741+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
@@ -26,21 +26,6 @@
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 155,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-      "source_article": "33",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s.- Los accesorios en que se reproduzcan la Bandera o el Himno Nacionales para efectos comerciales, deberán cumplir con los requisitos que establezca el Reglamento de esta Ley, de conformidad con lo previsto en la presente Ley. Artículo adicionado DOF 11-05-2018",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 164,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
@@ -108,21 +93,6 @@
     {
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "60",
-      "target_law_raw": "Ley sobre las características y el uso del Escudo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTÍCULO 60.- Derogado Artículo adicionado DOF 09-05-1995. Derogado DOF 11-05-2018  TRANSITORIOS  PRIMERO.- Se abroga la Ley sobre las características y el uso del Escudo, la Bandera y el Himno Nacionales, de fecha 23 de diciembre de 1967, publicada en el Diario Oficial de la Federación de fecha 17 de agosto de 1968.  ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 118,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-      "source_article": "60",
       "target_law_raw": "Ley sobre el Escudo",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -138,36 +108,6 @@
     {
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "60",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "formas, la elaboración de réplicas de la Bandera Nacional se apegará fielmente a lo preceptuado en esta Ley.  TERCERO.- El Ejecutivo Federal expedirá el reglamento de esta Ley, en el que determinará las atribuciones que corresponden a cada dependencia del gobierno Federal y la coordinación entre éste y los gobiernos del Dis",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5528,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-      "source_article": "60",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": ".- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.  Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015  ARTÍCULO D",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25783,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-      "source_article": "60",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -178,5 +118,5 @@
       "char_offset": 1082
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.496548+00:00"
+  "resolved_at": "2026-03-30T12:19:03.243895+00:00"
 }

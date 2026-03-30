@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-contra-la-delincuencia-organizada",
-  "extracted_at": "2026-03-30T12:00:10.149269+00:00",
-  "total_citations": 66,
+  "extracted_at": "2026-03-30T12:18:22.078246+00:00",
+  "total_citations": 61,
   "citations": [
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -597,21 +597,6 @@
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
-      "target_law_raw": "ley de la materia que al efecto se expida",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Estados Unidos Mexicanos, para ejercer el derecho respecto al ejercicio de la acción penal ante la autoridad judicial por el delito de secuestro, en la ley de la materia que al efecto se expida.  Décimo Segundo. En un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley se realizarán las adecuaciones necesarias a",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 15473,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-contra-la-delincuencia-organizada",
-      "source_article": "45",
       "target_law_raw": "Ley de Migración y se reforman",
       "target_law_id": "ley-inmigracion",
       "target_article": null,
@@ -747,36 +732,6 @@
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
-      "target_law_raw": "Ley de Migración",
-      "target_law_id": "ley-inmigracion",
-      "target_article": null,
-      "citation_text": "emás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.  CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se deroga",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 18586,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de migración"
-    },
-    {
-      "source_law": "ley-federal-contra-la-delincuencia-organizada",
-      "source_article": "45",
-      "target_law_raw": "Ley General de Población que se derogan",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "ntenderán referidas a la Ley de Migración.  CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.  México, D. F., a 29 de abril de 2011.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Jorge Carlos Ra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 18714,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-federal-contra-la-delincuencia-organizada",
-      "source_article": "45",
       "target_law_raw": "Ley de la Policía Federal y de la Ley General del Sistema Nacional de Seguridad Pública",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -818,21 +773,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "código nacional de procedimientos penales"
-    },
-    {
-      "source_law": "ley-federal-contra-la-delincuencia-organizada",
-      "source_article": "45",
-      "target_law_raw": "Ley de Seguridad Nacional",
-      "target_law_id": "ley-seguridad-nacional",
-      "target_article": null,
-      "citation_text": "Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.  Publicado en el Diario Oficial de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 35609,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de seguridad nacional"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -897,32 +837,17 @@
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
+      "target_law_raw": "Ley de Seguridad Nacional",
+      "target_law_id": "ley-seguridad-nacional",
       "target_article": null,
-      "citation_text": "l López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
+      "citation_text": "decisión.  CUARTO. Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el qu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 39915,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-contra-la-delincuencia-organizada",
-      "source_article": "45",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 39972,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "char_offset": 54373,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de seguridad nacional"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -982,5 +907,5 @@
       "char_offset": 1080
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.914208+00:00"
+  "resolved_at": "2026-03-30T12:18:53.180976+00:00"
 }

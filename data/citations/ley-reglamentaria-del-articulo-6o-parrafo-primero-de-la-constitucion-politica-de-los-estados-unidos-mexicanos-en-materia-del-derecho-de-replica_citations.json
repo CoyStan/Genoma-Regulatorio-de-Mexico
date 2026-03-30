@@ -1,7 +1,7 @@
 {
   "law_id": "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
-  "extracted_at": "2026-03-30T12:00:14.880465+00:00",
-  "total_citations": 11,
+  "extracted_at": "2026-03-30T12:18:27.044042+00:00",
+  "total_citations": 9,
   "citations": [
     {
       "source_law": "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
@@ -44,21 +44,6 @@
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
-      "source_article": "34",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "horas siguientes.  Las resoluciones que emita el juez serán públicas y estarán disponibles para su consulta electrónica, en los términos que disponga la ley de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 476,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
       "source_article": "35",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares",
       "target_law_id": "codigo-nacional-procedimientos-penales",
@@ -86,21 +71,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de amparo"
-    },
-    {
-      "source_law": "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
-      "source_article": "42",
-      "target_law_raw": "Ley sobre Delitos de Imprenta",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ", contenido en el Artículo Primero del Decreto, dentro del plazo señalado en el artículo transitorio anterior.  Tercero.- Se deroga el artículo 27 de la Ley sobre Delitos de Imprenta publicada en el Diario Oficial de la Federación el 12 de abril de 1917, así como todas aquellas disposiciones legales y administrativas que se opongan a la presente Ley.  Artículo Segundo.- .  Transitorio  Único. El p",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 614,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5666666666666667,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
@@ -160,5 +130,5 @@
       "char_offset": 1264
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.252591+00:00"
+  "resolved_at": "2026-03-30T12:19:03.090079+00:00"
 }

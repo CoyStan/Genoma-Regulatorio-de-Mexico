@@ -1,7 +1,7 @@
 {
   "law_id": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
-  "extracted_at": "2026-03-30T12:00:14.860664+00:00",
-  "total_citations": 22,
+  "extracted_at": "2026-03-30T12:18:27.021359+00:00",
+  "total_citations": 21,
   "citations": [
     {
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
@@ -276,21 +276,6 @@
     {
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
       "source_article": "68",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "as las disposiciones normativas, legales y reglamentarias que se opongan al sentido de la presente Ley.  Tercero. El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley, dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley.  Cuarto. Los integrantes de la Junta Directiva y del Consejo T",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 487,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
-      "source_article": "68",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "123",
@@ -301,5 +286,5 @@
       "char_offset": 108
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.196498+00:00"
+  "resolved_at": "2026-03-30T12:19:03.054032+00:00"
 }

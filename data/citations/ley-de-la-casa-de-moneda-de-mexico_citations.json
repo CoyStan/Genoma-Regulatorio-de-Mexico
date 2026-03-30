@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-casa-de-moneda-de-mexico",
-  "extracted_at": "2026-03-30T12:00:08.012038+00:00",
-  "total_citations": 38,
+  "extracted_at": "2026-03-30T12:18:19.837428+00:00",
+  "total_citations": 35,
   "citations": [
     {
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
@@ -119,51 +119,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6808510638297872,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-casa-de-moneda-de-mexico",
-      "source_article": "17",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "rica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5420,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-la-casa-de-moneda-de-mexico",
-      "source_article": "17",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "andro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5461,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-de-la-casa-de-moneda-de-mexico",
-      "source_article": "17",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5489,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
@@ -568,5 +523,5 @@
       "char_offset": 129
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.353988+00:00"
+  "resolved_at": "2026-03-30T12:18:47.483346+00:00"
 }

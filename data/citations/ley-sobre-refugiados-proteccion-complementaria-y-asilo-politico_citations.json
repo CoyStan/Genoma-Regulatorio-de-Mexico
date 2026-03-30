@@ -1,7 +1,7 @@
 {
   "law_id": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
-  "extracted_at": "2026-03-30T12:00:14.969094+00:00",
-  "total_citations": 30,
+  "extracted_at": "2026-03-30T12:18:27.136400+00:00",
+  "total_citations": 26,
   "citations": [
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -77,21 +77,6 @@
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
-      "source_article": "15",
-      "target_law_raw": "reglamento de esta Ley y demás ordenamientos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "los procedimientos de reconocimiento, cesación, revocación y cancelación de la condición de refugiado, y  XV. Las demás atribuciones que le confieran el reglamento de esta Ley y demás ordenamientos aplicables.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2342,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4782608695652174,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "20",
       "target_law_raw": "Ley General de los Derechos de Niñas",
       "target_law_id": "lfda",
@@ -119,21 +104,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7647058823529411,
       "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
-      "source_article": "36",
-      "target_law_raw": "reglamento de esta Ley establecerá los términos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "V. Cualquier otra circunstancia derivada del caso fortuito o fuerza mayor que imposibilite a la Secretaría el adecuado desarrollo del procedimiento.  El reglamento de esta Ley establecerá los términos, condiciones y requisitos bajo los cuales se podrá tramitar dicha ampliación.  Los procedimientos de cesación, revocación o cancelación del reconocim",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1025,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -236,21 +206,6 @@
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
-      "source_article": "69",
-      "target_law_raw": "reglamento de esta Ley establecerá el plazo para tales efectos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 69. La decisión sobre el otorgamiento o no del asilo político será comunicada al solicitante del mismo; el reglamento de esta Ley establecerá el plazo para tales efectos.  En los casos en los cuales la Secretaría de Relaciones Exteriores, otorgue asilo político, ésta y la Representación, de manera coordinada, tomarán ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 113,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4067796610169492,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "73",
       "target_law_raw": "Ley de Migración",
       "target_law_id": "ley-inmigracion",
@@ -342,21 +297,6 @@
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "76",
-      "target_law_raw": "Ley sobre Refugiados y Protección Complementaria",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman y adicionan diversas disposiciones, así como la denominación de la Ley sobre Refugiados y Protección Complementaria; y se reforman y adicionan diversos artículos de la Ley de Migración.  Publicado en el Diario Oficial de la Federación el 30 de octubre de 2014  Artí",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2664,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5316455696202531,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
-      "source_article": "76",
       "target_law_raw": "Ley sobre Refugiados y Protección Complementaria para quedar como Ley sobre Refugiados",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -402,17 +342,17 @@
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
       "source_article": "76",
-      "target_law_raw": "Ley de Migración y de la Ley sobre Refugiados",
-      "target_law_id": "ley-inmigracion",
+      "target_law_raw": "Ley sobre Refugiados y Protección Complementaria",
+      "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "ique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman diversos artículos de la Ley de Migración y de la Ley sobre Refugiados, Protección Complementaria y Asilo Político, en materia de Infancia Migrante.  Publicado en el Diario Oficial de la Federación el 11 de noviembre de ",
+      "citation_text": "Bis; 14 Ter; 35 Bis; un Título Séptimo, denominado Del Asilo; los artículos 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75 y 76 a la Ley sobre Refugiados y Protección Complementaria, para quedar como sigue:    Transitorios  Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 5484,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de migración"
+      "char_offset": 3650,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.5316455696202531,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
@@ -442,5 +382,5 @@
       "char_offset": 2135
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.608639+00:00"
+  "resolved_at": "2026-03-30T12:19:03.321087+00:00"
 }

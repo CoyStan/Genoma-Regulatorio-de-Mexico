@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
-  "extracted_at": "2026-03-30T12:00:11.652145+00:00",
-  "total_citations": 34,
+  "extracted_at": "2026-03-30T12:18:23.667274+00:00",
+  "total_citations": 31,
   "citations": [
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
@@ -306,66 +306,6 @@
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
       "source_article": "88",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "  SEXTO. Conforme a lo dispuesto en el artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, las modificaciones previstas en el presente Decreto para los artículos 38, 39",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14905,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
-      "source_article": "88",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19283,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
-      "source_article": "88",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19340,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
-      "source_article": "88",
-      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ernández.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres y Hombres, la Ley General de Víctimas, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Naci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 32719,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
-      "source_article": "88",
       "target_law_raw": "Ley General de Víctimas",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -456,6 +396,21 @@
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
       "source_article": "88",
+      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "eguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.  Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los eje",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 34331,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.3769633507853403,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
+      "source_article": "88",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -496,5 +451,5 @@
       "char_offset": 2368
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.847342+00:00"
+  "resolved_at": "2026-03-30T12:18:56.616814+00:00"
 }

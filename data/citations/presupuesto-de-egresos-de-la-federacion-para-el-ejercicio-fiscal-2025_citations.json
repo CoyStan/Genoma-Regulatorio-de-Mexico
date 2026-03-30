@@ -1,7 +1,7 @@
 {
   "law_id": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-  "extracted_at": "2026-03-30T12:00:15.173668+00:00",
-  "total_citations": 96,
+  "extracted_at": "2026-03-30T12:18:27.340545+00:00",
+  "total_citations": 89,
   "citations": [
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
@@ -254,21 +254,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "source_article": "5",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": ",128, para atender lo dispuesto en el Segundo Transitorio del Decreto por el que se adicionan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación el 4 de junio de 2019. Durante el ejercicio fiscal 2025, el Instituto Mexicano del Seguro Social deb",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 718,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8324873096446701,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
@@ -650,51 +635,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "source_article": "15",
-      "target_law_raw": "Ley Federal del Trabajo",
-      "target_law_id": "ley-federal-del-trabajo",
-      "target_article": null,
-      "citation_text": "cargo a este capítulo de gasto, en cumplimiento a lo establecido en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1565,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "source_article": "15",
-      "target_law_raw": "Ley del Seguro Social",
-      "target_law_id": "ley-del-seguro-social",
-      "target_article": null,
-      "citation_text": " en cumplimiento a lo establecido en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1596,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "source_article": "15",
-      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "cido en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabaj",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1625,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
@@ -1272,36 +1212,6 @@
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
       "source_article": "39",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal\"",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "ansión de la educación inicial. 6/ A efecto de otorgar cumplimiento al \"Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal\", publicado en el Diario Oficial de la Federación del 28 de noviembre de 2024, los recursos previstos en este Presupuesto de Egresos para la Unidad Re",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16296,
-      "resolution_confidence": "high",
-      "resolution_score": 0.98989898989899,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "source_article": "39",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "ión 2,564,426,153 2,564,426,153 1_/ A efecto de otorgar cumplimiento al Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación del 28 de noviembre de 2024, los recursos previstos en este Presupuesto de Egresos para la Unidad Re",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 46175,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "source_article": "39",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -1377,21 +1287,6 @@
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
       "source_article": "39",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal publicado en el DOF el 28 de noviembre de 2024",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "6,364,372KCZFinanciera para el Bienestar 1/1,106,364,3721/ Derivado del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal publicado en el DOF el 28 de noviembre de 2024 (Decreto), la entidad queda sectorizada a la SHCP, en términos del mismo Decreto las atribuciones en materia de telecomunicaciones con que cuenta dich",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 217575,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-      "source_article": "39",
       "target_law_raw": "Ley General de Salud",
       "target_law_id": "ley-general-salud",
       "target_article": null,
@@ -1417,5 +1312,5 @@
       "char_offset": 10523
     }
   ],
-  "resolved_at": "2026-03-30T12:00:51.020106+00:00"
+  "resolved_at": "2026-03-30T12:19:03.678021+00:00"
 }

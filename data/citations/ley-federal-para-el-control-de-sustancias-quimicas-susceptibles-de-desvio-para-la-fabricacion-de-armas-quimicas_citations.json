@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
-  "extracted_at": "2026-03-30T12:00:11.544439+00:00",
-  "total_citations": 23,
+  "extracted_at": "2026-03-30T12:18:23.556241+00:00",
+  "total_citations": 18,
   "citations": [
     {
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
@@ -77,36 +77,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
-      "source_article": "9",
-      "target_law_raw": "Reglamento de la presente Ley a la Secretaría",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "mercancías a territorio de la República o áreas bajo la jurisdicción del Estado mexicano, dar aviso dentro del plazo y en los términos que establezca el Reglamento de la presente Ley a la Secretaría, de la importación, exportación y retorno de sustancias químicas del Listado Nacional, el cual deberá incluir los datos relativos a la operación, dec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 504,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4473684210526316,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
-      "source_article": "9",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "os obligados.  La consulta a que se refiere el párrafo anterior deberá formularse y desahogarse dentro de los plazos y en los términos que establezca el Reglamento de la presente Ley, y se realizará a efecto de que la Secretaría verifique el cumplimiento de las obligaciones registrales y declarativas, así como verificar que el Suj",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1804,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
@@ -246,21 +216,6 @@
     {
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
       "source_article": "75",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "an o se opongan a lo dispuesto en el presente Decreto.  Tercero. El Ejecutivo Federal deberá emitir y publicar en el Diario Oficial de la Federación, el Reglamento de la presente Ley.  Cuarto. Las autoridades competentes deberán emitir y publicar en el Diario Oficial de la Federación, las sustancias químicas del Listado Nacional, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12320,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
-      "source_article": "75",
       "target_law_raw": "Ley Federal para el control de Sustancias Químicas susceptibles de Desvío para la Fabricación de Armas Químicas",
       "target_law_id": "ley-prevencion-lavado-dinero",
       "target_article": null,
@@ -272,36 +227,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
-      "source_article": "75",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "nal  Grupo 4  2 Floruro de Potasio (7789-23-3)Apéndice Uno Listado Nacional  Grupo 4  2 Fluoruro de Potasio (7789-23-3)  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 18413,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
-      "source_article": "75",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "o Listado Nacional  Grupo 4  2 Fluoruro de Potasio (7789-23-3)  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 18470,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
@@ -346,5 +271,5 @@
       "char_offset": 16809
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.571152+00:00"
+  "resolved_at": "2026-03-30T12:18:56.366343+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ordenanza-general-de-la-armada",
-  "extracted_at": "2026-03-30T12:00:15.102141+00:00",
-  "total_citations": 17,
+  "extracted_at": "2026-03-30T12:18:27.265533+00:00",
+  "total_citations": 16,
   "citations": [
     {
       "source_law": "ordenanza-general-de-la-armada",
@@ -228,21 +228,6 @@
     {
       "source_law": "ordenanza-general-de-la-armada",
       "source_article": "1",
-      "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Armada Nacionales",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de México.  Publicado en el Diario Oficial de la Federación el 14 de enero de 1985  TRANSITORIOS  ARTICULO PRIMERO.- Se derogan las disposiciones de la Ley de Ascensos y Recompensas del Ejército y Armada Nacionales, de 11 de marzo de 1926, en lo que se opongan a la presente Ley.  ARTICULO SEGUNDO.- La presente Ley deroga todas las disposiciones legales que se le",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1094,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5116279069767442,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ordenanza-general-de-la-armada",
-      "source_article": "1",
       "target_law_raw": "Reglamento del Ceremonial Militar",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -256,5 +241,5 @@
       "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.712961+00:00"
+  "resolved_at": "2026-03-30T12:19:03.413694+00:00"
 }

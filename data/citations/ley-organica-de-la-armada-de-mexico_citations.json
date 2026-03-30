@@ -1,6 +1,6 @@
 {
   "law_id": "ley-organica-de-la-armada-de-mexico",
-  "extracted_at": "2026-03-30T12:00:14.142690+00:00",
+  "extracted_at": "2026-03-30T12:18:26.287126+00:00",
   "total_citations": 17,
   "citations": [
     {
@@ -235,5 +235,5 @@
       "char_offset": 2265
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.558222+00:00"
+  "resolved_at": "2026-03-30T12:19:01.540213+00:00"
 }

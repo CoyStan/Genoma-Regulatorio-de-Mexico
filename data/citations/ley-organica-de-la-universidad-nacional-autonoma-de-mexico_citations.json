@@ -1,6 +1,6 @@
 {
   "law_id": "ley-organica-de-la-universidad-nacional-autonoma-de-mexico",
-  "extracted_at": "2026-03-30T12:00:14.190194+00:00",
+  "extracted_at": "2026-03-30T12:18:26.337488+00:00",
   "total_citations": 3,
   "citations": [
     {
@@ -43,5 +43,5 @@
       "char_offset": 287
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.802014+00:00"
+  "resolved_at": "2026-03-30T12:19:01.753131+00:00"
 }

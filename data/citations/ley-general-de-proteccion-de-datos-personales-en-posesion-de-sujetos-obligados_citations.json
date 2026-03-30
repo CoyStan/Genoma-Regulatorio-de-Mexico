@@ -1,6 +1,6 @@
 {
   "law_id": "ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados",
-  "extracted_at": "2026-03-30T12:00:12.770517+00:00",
+  "extracted_at": "2026-03-30T12:18:24.795579+00:00",
   "total_citations": 20,
   "citations": [
     {
@@ -292,5 +292,5 @@
       "char_offset": 15872
     }
   ],
-  "resolved_at": "2026-03-30T12:00:45.464674+00:00"
+  "resolved_at": "2026-03-30T12:18:58.778155+00:00"
 }

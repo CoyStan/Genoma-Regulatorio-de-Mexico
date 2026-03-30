@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-sistemas-de-pagos",
-  "extracted_at": "2026-03-30T12:00:08.734193+00:00",
-  "total_citations": 14,
+  "extracted_at": "2026-03-30T12:18:20.572555+00:00",
+  "total_citations": 13,
   "citations": [
     {
       "source_law": "ley-de-sistemas-de-pagos",
@@ -74,21 +74,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7789473684210526,
       "resolution_matched_alias": "código nacional de procedimientos penales"
-    },
-    {
-      "source_law": "ley-de-sistemas-de-pagos",
-      "source_article": "13",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Ahorro Bancario o la Comisión Nacional Bancaria y de Valores demande la declaración de concurso mercantil de alguna institución de crédito conforme a la ley de la materia, en la fecha de presentación de la demanda respectiva deberá informar por escrito a la institución de que se trate sobre la presentación de la misma,",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 801,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-sistemas-de-pagos",
@@ -208,5 +193,5 @@
       "char_offset": 2634
     }
   ],
-  "resolved_at": "2026-03-30T12:00:34.574059+00:00"
+  "resolved_at": "2026-03-30T12:18:49.431967+00:00"
 }

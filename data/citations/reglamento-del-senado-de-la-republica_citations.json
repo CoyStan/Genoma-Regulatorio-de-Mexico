@@ -1,7 +1,7 @@
 {
   "law_id": "reglamento-del-senado-de-la-republica",
-  "extracted_at": "2026-03-30T12:00:15.347475+00:00",
-  "total_citations": 92,
+  "extracted_at": "2026-03-30T12:18:27.518118+00:00",
+  "total_citations": 88,
   "citations": [
     {
       "source_law": "reglamento-del-senado-de-la-republica",
@@ -1034,51 +1034,6 @@
     },
     {
       "source_law": "reglamento-del-senado-de-la-republica",
-      "source_article": "290",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "y actos del Senado en que deben rendirse honores a la bandera e interpretarse el Himno Nacional Mexicano, el ceremonial se realiza conforme lo ordena la ley de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 182,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "reglamento-del-senado-de-la-republica",
-      "source_article": "295",
-      "target_law_raw": "ley de la materia y este Reglamento",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "información pública gubernamental, el Senado garantiza el acceso de toda persona a la información de que dispone, en los términos de la Constitución, la ley de la materia y este Reglamento.  2.\tEl Comité de Garantía de Acceso y Transparencia de la Información del Senado es el órgano garante, especializado e imparcial, dotado de autonomí",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 229,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.59375,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "reglamento-del-senado-de-la-republica",
-      "source_article": "295",
-      "target_law_raw": "ley de la materia por parte de los órganos y unidades administrativas del Senado",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ano garante, especializado e imparcial, dotado de autonomía operativa y de gestión, responsable de coordinar y supervisar el adecuado cumplimiento de la ley de la materia por parte de los órganos y unidades administrativas del Senado.  3.\tCorresponde también al Comité realizar las funciones que la ley y este Reglamento le asignan, incluidas la de determinar la información reservad",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 509,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "reglamento-del-senado-de-la-republica",
       "source_article": "295",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -1100,21 +1055,6 @@
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1183,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "reglamento-del-senado-de-la-republica",
-      "source_article": "301",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s del artículo 135 de la Ley; así como de la Unidad de Enlace para la Transparencia y el Acceso a la Información Pública del Senado creada conforme a la ley de la materia. Numeral reformado DOF 20-12-2011",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1054,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
@@ -1162,5 +1102,5 @@
       "resolution_matched_alias": "ley orgánica de pemex"
     }
   ],
-  "resolved_at": "2026-03-30T12:00:51.223026+00:00"
+  "resolved_at": "2026-03-30T12:19:03.838948+00:00"
 }

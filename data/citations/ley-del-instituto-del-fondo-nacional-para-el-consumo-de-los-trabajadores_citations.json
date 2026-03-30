@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-  "extracted_at": "2026-03-30T12:00:09.504587+00:00",
-  "total_citations": 21,
+  "extracted_at": "2026-03-30T12:18:21.382569+00:00",
+  "total_citations": 18,
   "citations": [
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
@@ -228,36 +228,6 @@
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
       "source_article": "33",
-      "target_law_raw": "Reglamento de esta Ley en un plazo máximo de 90 días",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "uesto autorizado al Fideicomiso denominado \"Fondo de Fomento y Garantía para el Consumo de los Trabajadores\".  DÉCIMO.- El Ejecutivo Federal expedirá el Reglamento de esta Ley en un plazo máximo de 90 días.  México, D.F., a 16 de marzo de 2006.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Marcela González Salas P., Presidenta.- Sen. Saúl López Solla",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6577,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.41025641025641024,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-      "source_article": "33",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "LOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  ARTÍCULO CUARTO.- Se REFORMA el artículo 9, último párrafo; de la Ley del I",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7456,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-      "source_article": "33",
       "target_law_raw": "Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -269,21 +239,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-      "source_article": "33",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "agentes económicos, en las proporciones necesarias para eliminar efectos anticompetitivos, y el resto de las medidas facultadas por la Constitución y la ley de la materia.  II.\tLas obligaciones derivadas del presente Decreto a cargo de las Instituciones Financieras entrarán en vigor a los noventa días naturales siguien",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9112,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
@@ -313,5 +268,5 @@
       "char_offset": 6906
     }
   ],
-  "resolved_at": "2026-03-30T12:00:37.091321+00:00"
+  "resolved_at": "2026-03-30T12:18:51.541798+00:00"
 }

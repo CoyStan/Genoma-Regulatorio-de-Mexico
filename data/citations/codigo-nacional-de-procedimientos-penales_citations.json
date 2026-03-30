@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-nacional-de-procedimientos-penales",
-  "extracted_at": "2026-03-30T12:00:05.673656+00:00",
-  "total_citations": 87,
+  "extracted_at": "2026-03-30T12:18:17.449323+00:00",
+  "total_citations": 84,
   "citations": [
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -215,21 +215,6 @@
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
-      "source_article": "50",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "el principio de presunción de inocencia o los derechos a la privacidad o a la intimidad de las partes, o bien, se encuentre expresamente prohibido en la ley de la materia.  El Órgano jurisdiccional autorizará la expedición de copias de los contenidos de las carpetas digitales o de la parte de ellos que le fueren solici",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 577,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "74",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -239,21 +224,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 190
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-penales",
-      "source_article": "87",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "n que por sistema se confirme que recibió el archivo electrónico correspondiente.  Asimismo, podrá notificarse mediante otros sistemas autorizados en la ley de la materia, siempre que no causen indefensión. También podrá notificarse por correo certificado y el plazo correrá a partir del día siguiente hábil en que fue r",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 281,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -1041,36 +1011,6 @@
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "490",
-      "target_law_raw": "Ley de Seguridad Nacional",
-      "target_law_id": "ley-seguridad-nacional",
-      "target_article": null,
-      "citation_text": "ávila.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.  Publicado en el Diario Oficial de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 36908,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de seguridad nacional"
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-penales",
-      "source_article": "490",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 38760,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-penales",
-      "source_article": "490",
       "target_law_raw": "Ley General",
       "target_law_id": "lgipe",
       "target_article": null,
@@ -1127,6 +1067,21 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4409448818897638,
       "resolution_matched_alias": null
+    },
+    {
+      "source_law": "codigo-nacional-de-procedimientos-penales",
+      "source_article": "490",
+      "target_law_raw": "Ley de Seguridad Nacional",
+      "target_law_id": "ley-seguridad-nacional",
+      "target_article": null,
+      "citation_text": "decisión.  CUARTO. Se declara la invalidez de los artículos 167, párrafo séptimo, del Código Nacional de Procedimientos Penales, 5, fracción XIII, de la Ley de Seguridad Nacional, y 2°, párrafo primero, fracciones VIII, VIII Bis y VIII Ter, de la Ley Federal contra la Delincuencia Organizada, contenidas en el Decreto por el qu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 46043,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de seguridad nacional"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -1231,5 +1186,5 @@
       "char_offset": 395
     }
   ],
-  "resolved_at": "2026-03-30T12:00:23.416794+00:00"
+  "resolved_at": "2026-03-30T12:18:39.597515+00:00"
 }

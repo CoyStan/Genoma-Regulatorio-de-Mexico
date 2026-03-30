@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
-  "extracted_at": "2026-03-30T12:00:09.495394+00:00",
-  "total_citations": 73,
+  "extracted_at": "2026-03-30T12:18:21.372987+00:00",
+  "total_citations": 70,
   "citations": [
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -735,21 +735,6 @@
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "71",
-      "target_law_raw": "Ley de Instituciones de Crédito y las demás disposiciones que se opongan a lo dispuesto en este decreto",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "á en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO A NOVENO.- Se deroga el artículo 108 segundo párrafo de la Ley de Instituciones de Crédito y las demás disposiciones que se opongan a lo dispuesto en este decreto.  TERCERO.- Quedan en vigor las Reglas, Resoluciones y demás disposiciones emitidas con anterioridad en materia de los Sistemas de Ahorro para el Ret",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 31115,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
-      "source_article": "71",
       "target_law_raw": "Ley para la Coordinación de los Sistemas de Ahorro para el Retiro a efecto de que dentro de un plazo de veinte días",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -828,29 +813,14 @@
       "target_law_raw": "Ley del Instituto del Fondo Nacional para la Vivienda de los Trabajadores",
       "target_law_id": "ley-del-infonavit",
       "target_article": null,
-      "citation_text": "lderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se adiciona el artículo 71 a la Ley del Instituto del Fondo Nacional para la Vivienda de los Trabajadores.  Publicado en el Diario Oficial de la Federación el 15 de enero de 2014  ARTÍCULO ÚNICO.- Se adiciona el artículo 71 a la Ley del Instituto del Fond",
+      "citation_text": " Vivienda de los Trabajadores.  Publicado en el Diario Oficial de la Federación el 15 de enero de 2014  ARTÍCULO ÚNICO.- Se adiciona el artículo 71 a la Ley del Instituto del Fondo Nacional para la Vivienda de los Trabajadores, para quedar como sigue:    TRANSITORIO  ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 54383,
+      "char_offset": 54580,
       "resolution_confidence": "high",
       "resolution_score": 0.9178082191780822,
       "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
-      "source_article": "71",
-      "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación",
-      "target_law_id": "lopjf",
-      "target_article": null,
-      "citation_text": ", Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 63389,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
@@ -990,21 +960,6 @@
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "source_article": "71",
-      "target_law_raw": "Ley del Seguro Social y 146 de la Ley Federal del Trabajo",
-      "target_law_id": "ley-del-seguro-social",
-      "target_article": null,
-      "citation_text": " Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman los artículos 251 de la Ley del Seguro Social y 146 de la Ley Federal del Trabajo, y se adiciona un artículo 59 Bis a la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.  Publicado en el Diario Oficial de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 104519,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
-      "source_article": "71",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1090,5 +1045,5 @@
       "char_offset": 1707
     }
   ],
-  "resolved_at": "2026-03-30T12:00:37.007261+00:00"
+  "resolved_at": "2026-03-30T12:18:51.465980+00:00"
 }

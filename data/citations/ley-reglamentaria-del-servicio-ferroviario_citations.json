@@ -1,7 +1,7 @@
 {
   "law_id": "ley-reglamentaria-del-servicio-ferroviario",
-  "extracted_at": "2026-03-30T12:00:14.903883+00:00",
-  "total_citations": 43,
+  "extracted_at": "2026-03-30T12:18:27.070483+00:00",
+  "total_citations": 37,
   "citations": [
     {
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
@@ -246,21 +246,6 @@
     {
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
       "source_article": "62",
-      "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "sente Ley, 180 días después de que la misma entre en vigor.  Tercero. Se derogan:  I. Los artículos 1, fracción V; 9, fracción I, y del 129 al 145 de la Ley de Vías Generales de Comunicación;  II. Los artículos 5, fracción X, y 7, fracción IV, inciso s) de la Ley de Inversión Extranjera, y  III. Todas las disposiciones que se opongan a la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 760,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
-      "source_article": "62",
       "target_law_raw": "Ley de Inversión Extranjera",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -287,51 +272,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
-      "source_article": "62",
-      "target_law_raw": "Ley de Caminos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman diversos artículos de la Ley de Caminos, Puentes y Autotransporte Federal, de la Ley del Registro Público Vehicular y de la Ley Reglamentaria del Servicio Ferroviario.  Publicado en el Diar",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10349,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
-      "source_article": "62",
-      "target_law_raw": "Ley del Registro Público Vehicular y de la Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ", Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman diversos artículos de la Ley de Caminos, Puentes y Autotransporte Federal, de la Ley del Registro Público Vehicular y de la Ley Reglamentaria del Servicio Ferroviario.  Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2017  Artículo Tercero.- Se reforma la fracción VII del artículo 6 Bis de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10405,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
-      "source_article": "62",
-      "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Pre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12773,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
@@ -471,51 +411,6 @@
     {
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
       "source_article": "62",
-      "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "taria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13407,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
-      "source_article": "62",
-      "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13489,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
-      "source_article": "62",
-      "target_law_raw": "Ley General de Cambio Climático",
-      "target_law_id": "lgpp",
-      "target_article": null,
-      "citation_text": " la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13556,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
-      "source_article": "62",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -576,17 +471,32 @@
     {
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
       "source_article": "62",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
+      "target_law_raw": "Ley de Caminos",
+      "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "ernández.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en ma",
+      "citation_text": "cionan y derogan diversas disposiciones de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 31825,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+      "char_offset": 31882,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.7407407407407407,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-reglamentaria-del-servicio-ferroviario",
+      "source_article": "62",
+      "target_law_raw": "Ley de Vías Generales de Comunicación",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "entaria del Servicio Ferroviario; de la Ley Orgánica de la Administración Pública Federal; de la Ley de Caminos, Puentes y Autotransporte Federal; de la Ley de Vías Generales de Comunicación, y de la Ley General de Bienes Nacionales, en materia ferroviaria y de armonización normativa.  Publicado en el Diario Oficial de la Federación el 16",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 31938,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.7213114754098361,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
@@ -646,5 +556,5 @@
       "char_offset": 2887
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.321748+00:00"
+  "resolved_at": "2026-03-30T12:19:03.160126+00:00"
 }

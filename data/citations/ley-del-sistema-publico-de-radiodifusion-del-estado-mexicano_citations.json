@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
-  "extracted_at": "2026-03-30T12:00:10.043557+00:00",
-  "total_citations": 57,
+  "extracted_at": "2026-03-30T12:18:21.942594+00:00",
+  "total_citations": 51,
   "citations": [
     {
       "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
@@ -318,21 +318,6 @@
     {
       "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
       "source_article": "32",
-      "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.  VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 34750,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
-      "source_article": "32",
       "target_law_raw": "Código Nacional de Procedimientos Penales",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -359,81 +344,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de instituciones y procedimientos electorales"
-    },
-    {
-      "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
-      "source_article": "32",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52562,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
-      "source_article": "32",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52619,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
-      "source_article": "32",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64782,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
-      "source_article": "32",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "men Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64823,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
-      "source_article": "32",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64851,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
@@ -853,5 +763,5 @@
       "char_offset": 141
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.782184+00:00"
+  "resolved_at": "2026-03-30T12:18:53.043205+00:00"
 }

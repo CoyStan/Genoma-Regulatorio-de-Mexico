@@ -1,7 +1,7 @@
 {
   "law_id": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
-  "extracted_at": "2026-03-30T12:00:15.237602+00:00",
-  "total_citations": 95,
+  "extracted_at": "2026-03-30T12:18:27.407817+00:00",
+  "total_citations": 91,
   "citations": [
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -254,21 +254,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
-      "source_article": "5",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": ",139, para atender lo dispuesto en el Segundo transitorio del Decreto por el que se adicionan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y de la Ley Federal del Trabajo, publicado en el Diario Oficial de la Federación el 4 de junio de 2019. Durante el ejercicio fiscal 2026, el Instituto Mexicano del Seguro Social deb",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 718,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8324873096446701,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -665,51 +650,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
-      "source_article": "15",
-      "target_law_raw": "Ley Federal del Trabajo",
-      "target_law_id": "ley-federal-del-trabajo",
-      "target_article": null,
-      "citation_text": "cargo a este capítulo de gasto, en cumplimiento a lo establecido en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1753,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
-      "source_article": "15",
-      "target_law_raw": "Ley del Seguro Social",
-      "target_law_id": "ley-del-seguro-social",
-      "target_article": null,
-      "citation_text": " en cumplimiento a lo establecido en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1784,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
-      "source_article": "15",
-      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "cido en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabaj",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1813,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1399,5 +1339,5 @@
       "char_offset": 14013
     }
   ],
-  "resolved_at": "2026-03-30T12:00:51.044967+00:00"
+  "resolved_at": "2026-03-30T12:19:03.702589+00:00"
 }

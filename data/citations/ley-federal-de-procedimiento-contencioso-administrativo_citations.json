@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-procedimiento-contencioso-administrativo",
-  "extracted_at": "2026-03-30T12:00:10.856238+00:00",
-  "total_citations": 38,
+  "extracted_at": "2026-03-30T12:18:22.852173+00:00",
+  "total_citations": 34,
   "citations": [
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -303,21 +303,6 @@
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "63",
-      "target_law_raw": "Ley del Servicio de Administración Tributaria y 6° de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Secciones de la Sala Superior o por las Salas Regionales que decreten o nieguen el sobreseimiento, las que dicten en términos de los artículos 34 de la Ley del Servicio de Administración Tributaria y 6° de esta Ley, así como las que se dicten conforme a la Ley Federal de Responsabilidad Patrimonial del Estado y las sentencias definitivas que emitan, podrán ser i",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 206,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
-      "source_article": "63",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -423,21 +408,6 @@
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "79",
-      "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "amírez Acuña.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Prev",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4255,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
-      "source_article": "79",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -483,21 +453,6 @@
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "79",
-      "target_law_raw": "Ley Federal de Responsabilidad Patrimonial del Estado y de la Ley Federal de Procedimiento Contencioso Administrativo",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "brica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se reforman diversas disposiciones de la Ley Federal de Responsabilidad Patrimonial del Estado y de la Ley Federal de Procedimiento Contencioso Administrativo.  Publicado en el Diario Oficial de la Federación el 12 de junio de 2009  ARTÍCULO SEGUNDO.- Se adiciona un artículo 50-A y un inciso d) a la fracció",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12659,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
-      "source_article": "79",
       "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa que se reforman conforme al presente Decreto",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -509,21 +464,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
-      "source_article": "79",
-      "target_law_raw": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
-      "target_law_id": "lgeepa",
-      "target_article": null,
-      "citation_text": "Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforma y adiciona el artículo 180 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y se reforma la fracción I del artículo 8o. de la Ley Federal de Procedimiento Contencioso Administrativo.  Publicado en el Diario Oficial de la Fed",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19633,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general del equilibrio ecológico y la protección al ambiente"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -568,5 +508,5 @@
       "char_offset": 1780
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.180423+00:00"
+  "resolved_at": "2026-03-30T12:18:55.164975+00:00"
 }

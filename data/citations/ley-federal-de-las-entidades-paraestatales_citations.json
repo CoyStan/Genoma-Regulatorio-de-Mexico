@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-las-entidades-paraestatales",
-  "extracted_at": "2026-03-30T12:00:10.683045+00:00",
-  "total_citations": 85,
+  "extracted_at": "2026-03-30T12:18:22.656963+00:00",
+  "total_citations": 72,
   "citations": [
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
@@ -132,21 +132,6 @@
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
       "source_article": "25",
-      "target_law_raw": "reglamento de esta Ley determinará la constitución y funcionamiento del Registro",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "etos que ordenen las mismas; y Fracción reformada DOF 24-07-1992  VI. Los demás documentos o actos que determine el reglamento de este ordenamiento.  El reglamento de esta Ley determinará la constitución y funcionamiento del Registro, así como las formalidades de las inscripciones y sus anotaciones.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 916,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5109489051094891,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "25",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "",
@@ -215,21 +200,6 @@
     },
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "47",
-      "target_law_raw": "Reglamento de la presente Ley establecerá los criterios para definir la duración de los plazos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "sto y financiamiento autorizadas. Dentro de tales directrices las entidades formularán sus programas institucionales a corto, mediano y largo plazos. El Reglamento de la presente Ley establecerá los criterios para definir la duración de los plazos.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 378,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
       "source_article": "49",
       "target_law_raw": "Ley de Planeación y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan",
       "target_law_id": "unresolved",
@@ -261,21 +231,6 @@
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
       "source_article": "58",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rnos, los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos;  VII. Aprobar de acuerdo con las leyes aplicables y el reglamento de esta Ley, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con ter",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1882,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "58",
       "target_law_raw": "Ley General de Bienes Nacionales considere como del dominio público de la Federación",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -287,21 +242,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "58",
-      "target_law_raw": "Reglamento de la presente Ley establecerá los procedimientos respectivos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ión de aquellos inmuebles de organismos descentralizados que la Ley General de Bienes Nacionales considere como del dominio público de la Federación. El Reglamento de la presente Ley establecerá los procedimientos respectivos;  XV. Analizar y aprobar, en su caso, los informes periódicos que rinda la persona Titular de la Dirección General con la intervención que correspond",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4568,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5271317829457365,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
@@ -476,36 +416,6 @@
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3643,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "nta y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.   DECRETO por el que se reforma la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y la Ley Federal de Responsabilidades de los Servidores Públicos.  Publicado en el Diario Oficial de l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4946,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
-      "target_law_raw": "Ley Federal de las Entidades Paraestatales y la Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ecretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.   DECRETO por el que se reforma la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y la Ley Federal de Responsabilidades de los Servidores Públicos.  Publicado en el Diario Oficial de la Federación el 24 de diciembre de 1996  ARTÍCULO SEGUNDO.- Se reforman el primer párrafo y la fracción I del ar",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5000,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
@@ -693,36 +603,6 @@
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
       "source_article": "68",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9678,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9849,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
       "target_law_raw": "Ley de la Comisión Nacional de Derechos Humanos",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -883,21 +763,6 @@
       "char_offset": 10987,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.56,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
-      "target_law_raw": "Ley de Creación del Instituto Nacional Indigenista",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ntiago Creel Miranda.- Rúbrica.   DECRETO por el que se expide la Ley de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas y se abroga la Ley de Creación del Instituto Nacional Indigenista; se reforma la fracción VI y se deroga la fracción VII del artículo 32 de la Ley Orgánica de la Administración Pública Federal; y se reforma el prime",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14236,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5567010309278351,
       "resolution_matched_alias": null
     },
     {
@@ -1068,21 +933,6 @@
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
       "source_article": "68",
-      "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.  VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 56585,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
       "target_law_raw": "Código Nacional de Procedimientos Penales",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -1143,21 +993,6 @@
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
       "source_article": "68",
-      "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "pez Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforma el artículo 3o. de la Ley de Vías Generales de Comunicación, y se adicionan un segundo párrafo al artículo 10 de la Ley Reglamentaria del Servicio Ferroviario y un artículo 59 Bis a la Ley Federal de las Entid",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 79380,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
       "target_law_raw": "Ley General",
       "target_law_id": "lgipe",
       "target_article": null,
@@ -1188,21 +1023,6 @@
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
       "source_article": "68",
-      "target_law_raw": "Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "sitorios  Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.  Tercero. Se derogan todas aquellas disposiciones que se opongan a la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 81374,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5030674846625767,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
       "target_law_raw": "Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1214,21 +1034,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.49696969696969695,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-las-entidades-paraestatales",
-      "source_article": "68",
-      "target_law_raw": "Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "cretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica y de la Ley Federal de las Entidades Paraestatales.  Publicado en el Diario Oficial de la Federación el 16 de julio de 2025  Artículo Segundo.- Se reforma el párrafo primero y se adiciona un párrafo t",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 89710,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "ley-federal-de-las-entidades-paraestatales",
@@ -1258,5 +1063,5 @@
       "char_offset": 3150
     }
   ],
-  "resolved_at": "2026-03-30T12:00:40.525054+00:00"
+  "resolved_at": "2026-03-30T12:18:54.612613+00:00"
 }

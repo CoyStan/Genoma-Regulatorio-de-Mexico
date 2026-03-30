@@ -1,6 +1,6 @@
 {
   "law_id": "ley-federal-de-revocacion-de-mandato",
-  "extracted_at": "2026-03-30T12:00:11.079008+00:00",
+  "extracted_at": "2026-03-30T12:18:23.084521+00:00",
   "total_citations": 20,
   "citations": [
     {
@@ -274,5 +274,5 @@
       "char_offset": 1830
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.768050+00:00"
+  "resolved_at": "2026-03-30T12:18:55.688542+00:00"
 }

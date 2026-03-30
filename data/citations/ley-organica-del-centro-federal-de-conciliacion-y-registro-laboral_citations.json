@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
-  "extracted_at": "2026-03-30T12:00:14.284982+00:00",
-  "total_citations": 30,
+  "extracted_at": "2026-03-30T12:18:26.437490+00:00",
+  "total_citations": 29,
   "citations": [
     {
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
@@ -245,21 +245,6 @@
     },
     {
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
-      "source_article": "14",
-      "target_law_raw": "Ley Federal de las Entidades Paraestatales y 12 de esta Ley",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "herentes al objeto del Centro con sujeción a las disposiciones legales correspondientes, y salvo aquellas facultades referidas en los artículos 58 de la Ley Federal de las Entidades Paraestatales y 12 de esta Ley, podrá delegar discrecionalmente sus facultades en el Director General.  Sección Única De las Sesiones de la Junta de Gobierno",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 240,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "20",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -430,5 +415,5 @@
       "char_offset": 3172
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.177454+00:00"
+  "resolved_at": "2026-03-30T12:19:02.123211+00:00"
 }

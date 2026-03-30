@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-seguridad-privada",
-  "extracted_at": "2026-03-30T12:00:11.152463+00:00",
-  "total_citations": 18,
+  "extracted_at": "2026-03-30T12:18:23.159873+00:00",
+  "total_citations": 17,
   "citations": [
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -243,21 +243,6 @@
     {
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "50",
-      "target_law_raw": "Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en el presente Decreto",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s, contados a partir de la entrada en vigor del presente Decreto, para regularizar su situación conforme a las reformas contenidas en éste.  Tercero. El Reglamento de la presente Ley deberá adecuarse conforme a las reformas contenidas en el presente Decreto, dentro de un plazo no mayor de noventa días hábiles siguientes a la fecha de su entrada en vigor.  México, D.F., a 28 de octubre de 2010.- Dip. Jorg",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4301,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.39603960396039606,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-seguridad-privada",
-      "source_article": "50",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -268,5 +253,5 @@
       "char_offset": 2911
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.999033+00:00"
+  "resolved_at": "2026-03-30T12:18:55.853068+00:00"
 }

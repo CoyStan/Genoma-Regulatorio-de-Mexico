@@ -1,23 +1,8 @@
 {
   "law_id": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
-  "extracted_at": "2026-03-30T12:00:14.778211+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-03-30T12:18:26.937187+00:00",
+  "total_citations": 7,
   "citations": [
-    {
-      "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
-      "source_article": "14",
-      "target_law_raw": "reglamento de esta ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "y Crédito Público para fijar las normas complementarias en el contrato de fideicomiso que celebre con el Banco de México, S. A. El Ejecutivo expedirá el reglamento de esta ley. Artículo reformado DOF 23-12-1993 (se deja sin efecto en lo referente al Banco de México)  TRANSITORIOS:  Artículo Primero.- El Ejecutivo Federal de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 206,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "14",
@@ -44,36 +29,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7640449438202247,
       "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
-    },
-    {
-      "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
-      "source_article": "5o",
-      "target_law_raw": "Ley Orgánica del Banco de México del 21 de diciembre de 1984",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.  SEGUNDO A DECIMO SEPTIMO.- ..........  DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.  Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 847,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
-      "source_article": "5o",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": ".- ..........  DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.  Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de In",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 956,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
@@ -108,6 +63,21 @@
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "5o",
+      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
+      "target_law_id": "loapf",
+      "target_article": null,
+      "citation_text": "siciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artícu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 1405,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+    },
+    {
+      "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
+      "source_article": "5o",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -133,5 +103,5 @@
       "char_offset": 1959
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.016351+00:00"
+  "resolved_at": "2026-03-30T12:19:02.890585+00:00"
 }

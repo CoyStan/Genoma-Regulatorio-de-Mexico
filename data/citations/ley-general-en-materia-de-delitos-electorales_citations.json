@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-en-materia-de-delitos-electorales",
-  "extracted_at": "2026-03-30T12:00:13.560580+00:00",
-  "total_citations": 42,
+  "extracted_at": "2026-03-30T12:18:25.637172+00:00",
+  "total_citations": 37,
   "citations": [
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
@@ -41,21 +41,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 388
-    },
-    {
-      "source_law": "ley-general-en-materia-de-delitos-electorales",
-      "source_article": "8",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tenerse de votar por un partido político, coalición o candidato;  VII. Instale, abra o cierre una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado, o impida su instalación;  VIII. Expulse u ordene, sin causa prevista por la ley, el retiro de l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 986,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
@@ -99,29 +84,14 @@
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
       "source_article": "26",
-      "target_law_raw": "Código Nacional de Procedimientos Penales",
-      "target_law_id": "codigo-nacional-procedimientos-penales",
-      "target_article": null,
-      "citation_text": "ocedimental penal, se entenderán a las legislaciones procedimentales penales de la Federación y las entidades federativas, en tanto entre en vigencia el Código Nacional de Procedimientos Penales.  Artículo Séptimo. Conforme a lo dispuesto en el artículo Décimo Octavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1867,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "código nacional de procedimientos penales"
-    },
-    {
-      "source_law": "ley-general-en-materia-de-delitos-electorales",
-      "source_article": "26",
       "target_law_raw": "Ley General",
       "target_law_id": "lgipe",
       "target_article": null,
-      "citation_text": "DECRETO por el que se reforman los artículos 7, fracciones VII y XIV; 9, fracción VII; 10, primer párrafo y fracciones I y II; 11, fracción I y 16 de la Ley General en Materia de Delitos Electorales.  Publicado en el Diario Oficial de la Federación el 27 de junio de 2014  ARTÍCULO ÚNICO.- Se reforman los artículos 7, fracciones VII, primer párraf",
+      "citation_text": ".- Se reforman los artículos 7, fracciones VII, primer párrafo y XIV; 9, fracción VII; 10, primer párrafo y fracciones I y II; 11, fracción I y 16 de la Ley General en Materia de Delitos Electorales, para quedar como sigue:    TRANSITORIO  ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Fe",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 3450,
+      "char_offset": 3737,
       "resolution_confidence": "medium",
       "resolution_score": 0.75,
       "resolution_matched_alias": "ley electoral"
@@ -459,36 +429,6 @@
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
       "source_article": "26",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7452,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-en-materia-de-delitos-electorales",
-      "source_article": "26",
-      "target_law_raw": "Ley General de Instituciones y Procedimientos Electorales",
-      "target_law_id": "lgipe",
-      "target_article": null,
-      "citation_text": "ica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley General de Partidos Políticos, de la Ley General en Materia d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7526,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de instituciones y procedimientos electorales"
-    },
-    {
-      "source_law": "ley-general-en-materia-de-delitos-electorales",
-      "source_article": "26",
       "target_law_raw": "Ley General de Partidos Políticos",
       "target_law_id": "lgpp",
       "target_article": null,
@@ -594,21 +534,6 @@
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
       "source_article": "26",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "l López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12055,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-en-materia-de-delitos-electorales",
-      "source_article": "26",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "Décimo Octavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones",
@@ -619,5 +544,5 @@
       "char_offset": 1962
     }
   ],
-  "resolved_at": "2026-03-30T12:00:47.136727+00:00"
+  "resolved_at": "2026-03-30T12:19:00.180216+00:00"
 }

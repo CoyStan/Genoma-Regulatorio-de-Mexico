@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-fiscal-de-la-federacion",
-  "extracted_at": "2026-03-30T12:00:05.310260+00:00",
-  "total_citations": 247,
+  "extracted_at": "2026-03-30T12:18:17.053452+00:00",
+  "total_citations": 230,
   "citations": [
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -92,21 +92,6 @@
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "15",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de los bienes, las cargas financieras y los demás accesorios y a adoptar al vencimiento del contrato alguna de las opciones terminales que establece la Ley de la materia.  En las operaciones de arrendamiento financiero, el contrato respectivo deberá celebrarse por escrito y consignar expresamente el valor del bien obj",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 497,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "15-D",
       "target_law_raw": "Ley del Impuesto sobre la Renta y en la Ley del Impuesto al Valor Agregado",
       "target_law_id": "ley-isr",
@@ -134,21 +119,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del mercado de valores"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "17-C",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " por organismos fiscales autónomos, las disposiciones de este Código en materia de medios electrónicos sólo serán aplicables cuando así lo establezca la ley de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 208,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -542,21 +512,6 @@
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "31",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ónica que señale el citado Servicio mediante reglas de carácter general y siempre que se hubieran pagado los derechos que al efecto se establezcan en la ley de la materia. Reforma DOF 12-11-2021: Derogó del artículo los entonces párrafos décimo quinto y décimo sexto",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7004,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "31-A",
       "target_law_raw": "Ley del Impuesto sobre la Renta",
       "target_law_id": "ley-isr",
@@ -836,21 +791,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "40-A",
-      "target_law_raw": "ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.  b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3440,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.36893203883495146,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -1527,14 +1467,14 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "81",
-      "target_law_raw": "Ley del Impuesto sobre la Renta o presentarlos en forma extemporánea",
+      "target_law_raw": "Ley del Impuesto al Valor Agregado o presentarla incompleta o con errores",
       "target_law_id": "ley-isr",
       "target_article": null,
-      "citation_text": "corporación o desincorporación al régimen opcional para grupos de sociedades en términos de los artículos 66, cuarto párrafo y 68, quinto párrafo, de la Ley del Impuesto sobre la Renta o presentarlos en forma extemporánea.  XIII. (Se deroga).  XIV.\tNo proporcionar la información de las operaciones efectuadas en el año de calendario anterior, a través de fideicomisos po",
+      "citation_text": " Ley del Impuesto sobre la Renta.  XXIII. No proporcionar la información a que se refiere el penúltimo párrafo de la fracción VIII del artículo 29 de la Ley del Impuesto al Valor Agregado o presentarla incompleta o con errores.  XXIV.\tNo proporcionar la constancia a que se refiere la fracción II del artículo 55 de la Ley del Impuesto sobre la Renta.  XXV.\tNo dar cumplimient",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 3713,
+      "char_offset": 5616,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del impuesto sobre la renta"
@@ -1545,26 +1485,11 @@
       "target_law_raw": "Ley del Impuesto al Valor Agregado a través de los medios",
       "target_law_id": "ley-isr",
       "target_article": null,
-      "citation_text": " Impuesto sobre la Renta, según sea el caso.  XV. (Se deroga).  XVI. No proporcionar la información a que se refiere la fracción V del artículo 32 de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.  XVII.\tNo presentar la declaración informativa de ",
+      "citation_text": "ido el plazo de clausura. Inciso adicionado DOF 07-11-2025  XXVI. No proporcionar la información a que se refiere la fracción VIII del artículo 32 de la Ley del Impuesto al Valor Agregado a través de los medios, formatos electrónicos y plazos establecidos en dicha Ley, o presentarla incompleta o con errores.  XXVII. No proporcionar la información a que se re",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 4195,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "81",
-      "target_law_raw": "Ley del Impuesto al Valor Agregado o presentarla incompleta o con errores",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": " Ley del Impuesto sobre la Renta.  XXIII. No proporcionar la información a que se refiere el penúltimo párrafo de la fracción VIII del artículo 29 de la Ley del Impuesto al Valor Agregado o presentarla incompleta o con errores.  XXIV.\tNo proporcionar la constancia a que se refiere la fracción II del artículo 55 de la Ley del Impuesto sobre la Renta.  XXV.\tNo dar cumplimient",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5616,
+      "char_offset": 8706,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del impuesto sobre la renta"
@@ -1627,21 +1552,6 @@
       "char_offset": 2702,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "83",
-      "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "ficar en la contabilidad las operaciones con partes relacionadas, en términos de lo dispuesto por los artículos 76, fracción IX y 110, fracción XI de la Ley del Impuesto sobre la Renta. Fracción reformada DOF 12-11-2021  XVI. (Se deroga).  XVII.\tNo presentar o presentar de manera incompleta o con errores la información sobre su situ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3424,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
       "resolution_matched_alias": "ley del impuesto sobre la renta"
     },
     {
@@ -2139,21 +2049,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "145",
-      "target_law_raw": "ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.  g) Los bienes muebles no comprendidos en las fracciones anteriores.  h) La nego",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2980,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.36893203883495146,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "145",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -2184,21 +2079,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "155",
-      "target_law_raw": "Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.  En el caso de que se embarguen depósitos bancarios, otros depósitos o seguros d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 839,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.36893203883495146,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "155",
       "target_law_raw": "Ley de los Sistemas de Ahorro para el Retiro",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -2209,21 +2089,6 @@
       "char_offset": 987,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6470588235294118,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "156-Bis",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de ahorro para el retiro, incluidas las aportaciones voluntarias que se hayan realizado hasta por el monto de las aportaciones efectuadas conforme a la Ley de la materia, de acuerdo con lo siguiente:  I. Cuando los créditos fiscales se encuentren firmes.  II. Tratándose de créditos fiscales que se encuentren impugnado",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 569,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -2514,21 +2379,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "263",
-      "target_law_raw": "Reglamento del Registro Federal de Contribuyentes",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "83.  Artículo Segundo.- A partir de la entrada en vigor de este Código se deroga el Código Fiscal de la Federación de fecha 30 de diciembre de 1966.  El Reglamento del Registro Federal de Contribuyentes de fecha 13 de junio de 1980, el Reglamento del Artículo 85 del Código Fiscal de la Federación de fecha 9 de abril de 1980, el Reglamento para el Cobro y Aplicación de los Gastos",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 414,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.47191011235955055,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "263",
       "target_law_raw": "Reglamento del Artículo 85 del Código Fiscal de la Federación",
       "target_law_id": "unresolved",
       "target_article": "85 del Código Fiscal",
@@ -2540,21 +2390,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6593406593406593,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "263",
-      "target_law_raw": "Ley del Impuesto Especial sobre Producción y Servicios",
-      "target_law_id": "ley-ieps",
-      "target_article": null,
-      "citation_text": "o de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.   DECRETO por el que se modifican diversas disposiciones del Código Fiscal de la Federación y de la Ley del Impuesto Especial sobre Producción y Servicios.  Publicado en el Diario Oficial de la Federación el 29 de mayo de 1998  CODIGO FISCAL DE LA FEDERACION  Artículo Primero.- Se DEROGA la Fracción XX,",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 46027,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto especial sobre producción y servicios"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -2649,21 +2484,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "263",
-      "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rnación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación, de la Ley de Vías Generales de Comunicación, de la Ley de Caminos, Puentes y Autotransporte Federal y de la Ley de la Policía Federal Preventiva.  Publicado en el Diario Oficial de la Federació",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 108349,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "263",
       "target_law_raw": "Ley de la Policía Federal Preventiva",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -2739,21 +2559,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "263",
-      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "l Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.   DECRETO por el que se reforman, derogan y adicionan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley de Instituciones de Crédito, Ley General de Instituciones y Sociedades Mutua",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 127208,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "263",
       "target_law_raw": "Ley de Instituciones de Crédito",
       "target_law_id": "ley-instituciones-credito",
       "target_article": null,
@@ -2765,6 +2570,21 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de instituciones de crédito"
+    },
+    {
+      "source_law": "codigo-fiscal-de-la-federacion",
+      "source_article": "263",
+      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "ículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendad",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 130283,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -2829,36 +2649,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "263",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "mo, se estará al régimen transitorio que para las mismas se prevé en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 147284,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "263",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005.  DÉCIMO QUINTO.- Las sociedades financieras de objeto múltiple se reputan intermediarios financieros rurales para los efectos de la Ley Orgánica de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 147475,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3875,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "263",
       "target_law_raw": "Ley Federal del Impuesto sobre Automóviles Nuevos y de la Ley Federal de Procedimiento Contencioso Administrativo",
       "target_law_id": "ley-federal-del-trabajo",
       "target_article": null,
@@ -2870,6 +2660,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal del trabajo"
+    },
+    {
+      "source_law": "codigo-fiscal-de-la-federacion",
+      "source_article": "263",
+      "target_law_raw": "Ley del Impuesto Especial sobre Producción y Servicios",
+      "target_law_id": "ley-ieps",
+      "target_article": null,
+      "citation_text": "ue hayan causado el impuesto especial sobre producción y servicios de conformidad con lo dispuesto en el artículo 2o., fracción I, incisos G) y H) de la Ley del Impuesto Especial sobre Producción y Servicios, vigente antes de la entrada en vigor del presente Decreto, deberán cumplir con las obligaciones correspondientes a dicho impuesto en las formas y pl",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 151523,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del impuesto especial sobre producción y servicios"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -2896,21 +2701,6 @@
       "char_offset": 8367,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "84",
-      "target_law_raw": "Ley del Servicio de Administración Tributaria",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ", Alfredo Gutiérrez Ortiz Mena.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones del Código Fiscal de la Federación y de la Ley del Servicio de Administración Tributaria.  Publicado en el Diario Oficial de la Federación el 6 de mayo de 2009  ARTÍCULO PRIMERO. Se reforma el artículo 132, primer párrafo y se adicionan l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1815,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
       "resolution_matched_alias": null
     },
     {
@@ -2949,11 +2739,11 @@
       "target_law_raw": "Ley Federal de Competencia Económica",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
-      "citation_text": "irma el Administrador General Jurídico, Jesús Rojas Ibáñez.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, del Código Penal Federal y del Código Fiscal de la Federación.  Publicado en el Diario Oficial de la Federación el 10 de mayo de 2011  ARTÍCULO TERC",
+      "citation_text": "en vigor del presente decreto, el Pleno publicará los criterios técnicos a que hace referencia el artículo 24, fracción XVIII bis, incisos a) a j) de la Ley Federal de Competencia Económica.  ARTÍCULO TERCERO. El artículo 28, párrafos primero y segundo, de la Ley Federal de Competencia Económica entrará en vigor una vez que concluya el p",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 19837,
+      "char_offset": 20604,
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de competencia económica"
@@ -3138,21 +2928,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "21",
-      "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "brica.   DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Est",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17016,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "21",
       "target_law_raw": "Ley Federal de Extinción de Dominio",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -3164,21 +2939,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "21",
-      "target_law_raw": "Ley del Impuesto Especial sobre Producción y Servicios",
-      "target_law_id": "ley-ieps",
-      "target_article": null,
-      "citation_text": "teles Núñez Sánchez.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20195,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto especial sobre producción y servicios"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3209,6 +2969,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del impuesto sobre la renta"
+    },
+    {
+      "source_law": "codigo-fiscal-de-la-federacion",
+      "source_article": "21",
+      "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "e Hidrocarburos; y se reforman, adicionan y derogan diversas disposiciones del Código Federal de Procedimientos Penales; del Código Penal Federal; de la Ley Federal contra la Delincuencia Organizada; de la Ley Federal de Extinción de Dominio, reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos; del Código Fis",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 29447,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.5679012345679012,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3348,32 +3123,17 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "21",
-      "target_law_raw": "Ley Federal de Procedimiento Contencioso Administrativo y al Código Fiscal de la Federación",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_raw": "Ley del Impuesto Especial sobre Producción y Servicios y del Código Fiscal de la Federación",
+      "target_law_id": "ley-isr",
       "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Procedimiento Contencioso Administrativo y al Código Fiscal de la Federación.  Publicado en el Diario Oficial de la Federación el 27 de enero de 2017  Artículo Tercero.- Se adiciona al Título V, Capítulo I, una Sección Cuarta ",
+      "citation_text": "or el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Especial sobre Producción y Servicios y del Código Fiscal de la Federación.  Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2019  CÓDIGO FISCAL DE LA FEDERACIÓN  Artículo Séptimo.- Se reforman los artíc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 41872,
+      "char_offset": 54479,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "21",
-      "target_law_raw": "Ley de Seguridad Nacional",
-      "target_law_id": "ley-seguridad-nacional",
-      "target_article": null,
-      "citation_text": "ávila.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal contra la Delincuencia Organizada, de la Ley de Seguridad Nacional, del Código Nacional de Procedimientos Penales, del Código Fiscal de la Federación y del Código Penal Federal.  Publicado en el Diario Oficial de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52686,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de seguridad nacional"
+      "resolution_matched_alias": "ley del impuesto sobre la renta"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3435,66 +3195,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "32-H",
-      "target_law_raw": "Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": " Buenrostro Sánchez.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado y del Código Fiscal de la Federación.  Publicado en el Diario Oficial de la Federación el 8 de diciembre de 2020  CÓDIGO FISCAL DE LA FEDERACIÓN  Artículo Cuarto. Se reforman los artícul",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2555,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "32-H",
-      "target_law_raw": "Ley Federal del Trabajo",
-      "target_law_id": "ley-federal-del-trabajo",
-      "target_article": null,
-      "citation_text": "io de Administración Tributaria, Raquel Buenrostro Sánchez.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9004,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "32-H",
-      "target_law_raw": "Ley del Seguro Social",
-      "target_law_id": "ley-del-seguro-social",
-      "target_article": null,
-      "citation_text": ", Raquel Buenrostro Sánchez.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9035,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "32-H",
-      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabaj",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9064,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "32-H",
       "target_law_raw": "Ley del Impuesto al Valor Agregado",
       "target_law_id": "ley-iva",
       "target_article": null,
@@ -3525,6 +3225,36 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "32-H",
+      "target_law_raw": "Ley Federal del Trabajo",
+      "target_law_id": "ley-federal-del-trabajo",
+      "target_article": null,
+      "citation_text": " la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.  Tercero. A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obte",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 10601,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal del trabajo"
+    },
+    {
+      "source_law": "codigo-fiscal-de-la-federacion",
+      "source_article": "32-H",
+      "target_law_raw": "Ley del Seguro Social",
+      "target_law_id": "ley-del-seguro-social",
+      "target_article": null,
+      "citation_text": "fecto de la relación de trabajo. Artículo reformado DOF 31-07-2021  Quinto. Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 11641,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del seguro social"
+    },
+    {
+      "source_law": "codigo-fiscal-de-la-federacion",
+      "source_article": "32-H",
       "target_law_raw": "Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social",
       "target_law_id": "ley-del-seguro-social",
       "target_article": null,
@@ -3536,6 +3266,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del seguro social"
+    },
+    {
+      "source_law": "codigo-fiscal-de-la-federacion",
+      "source_article": "32-H",
+      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "target_law_id": "ley-del-infonavit",
+      "target_article": null,
+      "citation_text": " Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.  Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 17175,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3597,21 +3342,6 @@
     {
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "17-F",
-      "target_law_raw": "Ley de Amparo",
-      "target_law_id": "ley-amparo",
-      "target_article": null,
-      "citation_text": "irma el Administrador General Jurídico, Lic. Ricardo Carrasco Varona.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley O",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4650,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de amparo"
-    },
-    {
-      "source_law": "codigo-fiscal-de-la-federacion",
-      "source_article": "17-F",
       "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -3623,6 +3353,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
+    },
+    {
+      "source_law": "codigo-fiscal-de-la-federacion",
+      "source_article": "17-F",
+      "target_law_raw": "Ley de Amparo",
+      "target_law_id": "ley-amparo",
+      "target_article": null,
+      "citation_text": "a Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo.  Una vez realizadas las adecuaciones al sistema, el Órgano de Administración Judicial publicará en el Diario Oficial de la Federación y en su propio",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 6195,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de amparo"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3682,5 +3427,5 @@
       "char_offset": 4689
     }
   ],
-  "resolved_at": "2026-03-30T12:00:22.727986+00:00"
+  "resolved_at": "2026-03-30T12:18:38.927299+00:00"
 }

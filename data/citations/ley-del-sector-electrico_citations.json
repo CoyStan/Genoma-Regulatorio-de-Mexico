@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-sector-electrico",
-  "extracted_at": "2026-03-30T12:00:09.735182+00:00",
-  "total_citations": 40,
+  "extracted_at": "2026-03-30T12:18:21.621000+00:00",
+  "total_citations": 38,
   "citations": [
     {
       "source_law": "ley-del-sector-electrico",
@@ -169,21 +169,6 @@
       "char_offset": 874,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.43312101910828027,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sector-electrico",
-      "source_article": "38",
-      "target_law_raw": "Reglamento de la presente Ley o disposiciones generales que emita la Secretaría",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ares, lo deben hacer a través de los siguientes esquemas: I.\tProducción de largo plazo; II.\tInversión mixta, y III.\tCualquier otro esquema que defina el Reglamento de la presente Ley o disposiciones generales que emita la Secretaría. Estos esquemas deben sujetarse a los programas de planeación vinculante emitidos por la Secretaría para el Sistema Eléctrico Nacional y cumplir con ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 257,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.410958904109589,
       "resolution_matched_alias": null
     },
     {
@@ -440,21 +425,6 @@
     },
     {
       "source_law": "ley-del-sector-electrico",
-      "source_article": "171",
-      "target_law_raw": "ley de la materia y los estatutos del permisionario intervenido",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "es con los propósitos que considere necesarios o convenientes, debiendo observar los requisitos y formalidades que para las convocatorias establezcan la ley de la materia y los estatutos del permisionario intervenido. Las menciones hechas en este artículo a las personas directivas, órganos de administración o personas apoderadas, incluyen a la asamblea de accionis",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 755,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.49635036496350365,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sector-electrico",
       "source_article": "188",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
       "target_law_id": "lfpa",
@@ -467,21 +437,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-del-sector-electrico",
-      "source_article": "188",
-      "target_law_raw": "Ley de la Industria Eléctrica",
-      "target_law_id": "ley-industria-electrica",
-      "target_article": null,
-      "citation_text": "vo. Transitorios Primero. La presente Ley entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo. Se abroga la Ley de la Industria Eléctrica, publicada en el Diario Oficial de la Federación el 11 de agosto de 2014 y demás disposiciones que se opongan al presente Decreto. Tercero. La operac",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 499,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de la industria eléctrica"
     },
     {
       "source_law": "ley-del-sector-electrico",
@@ -546,6 +501,21 @@
     {
       "source_law": "ley-del-sector-electrico",
       "source_article": "188",
+      "target_law_raw": "Ley de la Industria Eléctrica",
+      "target_law_id": "ley-industria-electrica",
+      "target_article": null,
+      "citation_text": "í como cualquier otro acto que derive de los mismos que hayan sido celebrados con las empresas productivas del Estado y sus subsidiarias al amparo de la Ley de la Industria Eléctrica, se deben transferir a las Empresas Públicas del Estado, por lo que continúan rigiéndose en los términos establecidos en los actos jurídicos y las de",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 5477,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la industria eléctrica"
+    },
+    {
+      "source_law": "ley-del-sector-electrico",
+      "source_article": "188",
       "target_law_raw": "Ley de la Empresa Pública del Estado",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -571,5 +541,5 @@
       "char_offset": 9668
     }
   ],
-  "resolved_at": "2026-03-30T12:00:37.724477+00:00"
+  "resolved_at": "2026-03-30T12:18:52.104912+00:00"
 }

@@ -1,6 +1,6 @@
 {
   "law_id": "ley-federal-de-los-derechos-del-contribuyente",
-  "extracted_at": "2026-03-30T12:00:10.688333+00:00",
+  "extracted_at": "2026-03-30T12:18:22.662272+00:00",
   "total_citations": 6,
   "citations": [
     {
@@ -91,5 +91,5 @@
       "char_offset": 2655
     }
   ],
-  "resolved_at": "2026-03-30T12:00:40.526915+00:00"
+  "resolved_at": "2026-03-30T12:18:54.614327+00:00"
 }

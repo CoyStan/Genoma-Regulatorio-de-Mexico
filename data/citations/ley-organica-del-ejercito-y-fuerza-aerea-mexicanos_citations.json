@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-  "extracted_at": "2026-03-30T12:00:14.370613+00:00",
-  "total_citations": 59,
+  "extracted_at": "2026-03-30T12:18:26.525827+00:00",
+  "total_citations": 52,
   "citations": [
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -101,21 +101,6 @@
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "124",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tificados que correspondan a las Carreras y Cursos que se impartan. La propia Secretaría será el conducto para el registro de los Títulos, conforme a la Ley de la materia.  CAPITULO VIII DE LOS UNIFORMES Y LAS DIVISAS Fe de erratas a la denominación del Capítulo DOF 13-02-1987",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 252,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "127",
       "target_law_raw": "Ley respectiva",
       "target_law_id": "unresolved",
@@ -188,21 +173,6 @@
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "173",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tud, siempre que el Presidente de la República considere procedente su petición y no se encuentre comprendido en alguna causal de retiro señalada por la Ley de la materia, éste se halle físicamente útil para el servicio, exista vacante y no hayan transcurrido más de seis años desde la fecha de su separación del activo ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 750,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "175",
       "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
       "target_law_id": "ley-del-infonavit",
@@ -215,21 +185,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "189",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTICULO 189. La situación de retiro es aquella en que son colocados los militares, con la suma de derechos y obligaciones que fije la Ley de la materia.  CAPITULO IV ESCALAFONES Fe de erratas a la denominación del Capítulo DOF 13-02-1987",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 132,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -504,36 +459,6 @@
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5612,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "209",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5783,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "209",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -744,21 +669,6 @@
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "209",
-      "target_law_raw": "Ley Orgánica de la Armada de México y el primer párrafo del artículo 175 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
-      "target_article": "175",
-      "citation_text": "alderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforma el artículo 81 Bis de la Ley Orgánica de la Armada de México y el primer párrafo del artículo 175 Bis de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.  Publicado en el Diario Oficial de la Federación el 3 de abril de 2012  Artículo Segundo.- Se reforma el primer párrafo del artículo 175 BIS de la L",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13468,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "209",
       "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -777,11 +687,11 @@
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
-      "citation_text": "cretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fue",
+      "citation_text": "ción de inconstitucionalidad.  SEGUNDO. Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 24383,
+      "char_offset": 33158,
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
@@ -792,11 +702,11 @@
       "target_law_raw": "Ley de la Guardia Nacional",
       "target_law_id": "ley-aguas-nacionales",
       "target_article": null,
-      "citation_text": "z.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de",
+      "citation_text": "I de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto po",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 24440,
+      "char_offset": 33303,
       "resolution_confidence": "medium",
       "resolution_score": 0.8163265306122449,
       "resolution_matched_alias": "ley de aguas nacionales"
@@ -815,21 +725,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5384615384615384,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "209",
-      "target_law_raw": "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-general-educacion",
-      "target_article": null,
-      "citation_text": "ías naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo Federal deberá realizar las adecuaciones normativas al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, en materia de baja definitiva de las fuerzas armadas de discentes, a fin de proveer la exacta observancia de la reforma.  Cuarto.- Se derogan aquell",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 55763,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de educación"
     },
     {
       "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
@@ -874,5 +769,5 @@
       "char_offset": 1926
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.345504+00:00"
+  "resolved_at": "2026-03-30T12:19:02.260493+00:00"
 }

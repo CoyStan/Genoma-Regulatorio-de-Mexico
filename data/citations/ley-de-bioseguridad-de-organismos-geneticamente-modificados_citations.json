@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-  "extracted_at": "2026-03-30T12:00:06.830186+00:00",
-  "total_citations": 77,
+  "extracted_at": "2026-03-30T12:18:18.658723+00:00",
+  "total_citations": 73,
   "citations": [
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -242,21 +242,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "12",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ganismos, que tengan fines productivos agrícolas, pecuarios, acuícolas o fitozoosanitarios, y  VII. En los demás organismos y productos que determine el reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1591,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -576,21 +561,6 @@
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "124",
-      "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Santiago Creel Miranda.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Pre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6358,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
       "target_law_raw": "Ley de Cooperación Internacional para el Desarrollo",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -726,36 +696,6 @@
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "124",
-      "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "taria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6992,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Ley General de Cambio Climático",
-      "target_law_id": "lgpp",
-      "target_article": null,
-      "citation_text": " la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7141,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -801,32 +741,17 @@
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "124",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_raw": "Ley General de Cambio Climático",
+      "target_law_id": "lgpp",
       "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
+      "citation_text": "icionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 23821,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "men Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 23862,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
+      "char_offset": 23937,
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley general de partidos políticos"
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -932,6 +857,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de instituciones de crédito"
+    },
+    {
+      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "source_article": "124",
+      "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "icias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitució",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 24508,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.4878048780487805,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -1156,5 +1096,5 @@
       "char_offset": 5856
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.740592+00:00"
+  "resolved_at": "2026-03-30T12:18:43.301170+00:00"
 }

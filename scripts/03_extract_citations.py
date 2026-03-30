@@ -46,6 +46,27 @@ CITATIONS_DIR.mkdir(parents=True, exist_ok=True)
 
 CONTEXT_CHARS = 150  # Characters of context to capture around each match
 
+# ---------------------------------------------------------------------------
+# False-positive suppression for direct_mention
+# ---------------------------------------------------------------------------
+
+_DEROGATION_CTX = re.compile(
+    r"\b(?:se\s+derogan?|quedan?\s+(?:abrogad|derogad)|se\s+abroga)\b",
+    re.IGNORECASE,
+)
+_AMENDMENT_CTX = re.compile(
+    r"\bDECRETO\s+por\s+el\s+que\s+se\s+(?:reform|adic)",
+    re.IGNORECASE,
+)
+_GENERIC_RAW = re.compile(
+    r"(?:de\s+la\s+materia"
+    r"|de\s+esta\s+[Ll]ey"
+    r"|de\s+la\s+presente\s+[Ll]ey"
+    r"|[Rr]eglamento\s+de\s+esta"
+    r"|[Rr]eglamento\s+de\s+la\s+presente)",
+    re.IGNORECASE,
+)
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -57,6 +78,16 @@ log = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 # Citation extraction
 # ---------------------------------------------------------------------------
+
+def _is_direct_mention_false_positive(raw_name: str, context: str) -> bool:
+    if _DEROGATION_CTX.search(context):
+        return True
+    if _AMENDMENT_CTX.search(context):
+        return True
+    if _GENERIC_RAW.search(raw_name):
+        return True
+    return False
+
 
 def extract_citations_from_article(
     article: dict,
@@ -90,6 +121,11 @@ def extract_citations_from_article(
                 start = max(0, match.start() - CONTEXT_CHARS)
                 end = min(len(text), match.end() + CONTEXT_CHARS)
                 context = text[start:end].replace("\n", " ")
+
+                # Suppress false positives for direct_mention only
+                if pat_info["name"] == "direct_mention":
+                    if _is_direct_mention_false_positive(raw_name, context):
+                        continue
 
                 # Try to find target article number in the match text
                 target_article = None

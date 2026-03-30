@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
-  "extracted_at": "2026-03-30T12:00:13.699635+00:00",
-  "total_citations": 21,
+  "extracted_at": "2026-03-30T12:18:25.786752+00:00",
+  "total_citations": 15,
   "citations": [
     {
       "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
@@ -210,96 +210,6 @@
     {
       "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
       "source_article": "60",
-      "target_law_raw": "Reglamento de esta Ley en un plazo de ciento ochenta días contados a partir de la entrada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "onas con Discapacidad dentro de los treinta días siguientes al inicio de la vigencia de la presente Ley.  Cuarto. El Poder Ejecutivo Federal expedirá el Reglamento de esta Ley en un plazo de ciento ochenta días contados a partir de la entrada en vigor de esta Ley.  Quinto. Los recursos financieros, materiales y humanos para el establecimiento y funcionamiento del organismo que se crea en el presente decreto, s",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 917,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.38333333333333336,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
-      "source_article": "60",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": " Blake Mora.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.  Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015  ARTÍCULO S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2897,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
-      "source_article": "60",
-      "target_law_raw": "Ley de Instituciones de Seguros y de Fianzas y la Ley General para la Inclusión de las Personas con Discapacidad",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Seguros y de Fianzas y la Ley General para la Inclusión de las Personas con Discapacidad.  Publicado en el Diario Oficial de la Federación el 22 de junio de 2018  Artículo Segundo.- Se adicionan las fracciones IX, X, XI, XII y XIII, recor",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8348,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
-      "source_article": "60",
-      "target_law_raw": "Ley General de Salud y de la Ley General de Población",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Inclusión de las Personas con Discapacidad, de la Ley General de Salud y de la Ley General de Población.  Publicado en el Diario Oficial de la Federación el 12 de julio de 2018  Artículo Segundo.- Se adiciona la fracción XXV y se recorren las subsecuent",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10542,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
-      "source_article": "60",
-      "target_law_raw": "Ley de Vivienda",
-      "target_law_id": "ley-iva",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Vivienda, de la Ley de los Derechos de las Personas Adultas Mayores y de la Ley General para la Inclusión de las Personas con Discapacidad.  Publicado en el D",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20542,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7692307692307693,
-      "resolution_matched_alias": "ley del iva"
-    },
-    {
-      "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
-      "source_article": "60",
-      "target_law_raw": "Ley de los Derechos de las Personas Adultas Mayores y de la Ley General para la Inclusión de las Personas con Discapacidad",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ia de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Vivienda, de la Ley de los Derechos de las Personas Adultas Mayores y de la Ley General para la Inclusión de las Personas con Discapacidad.  Publicado en el Diario Oficial de la Federación el 14 de junio de 2024  Artículo Tercero. Se reforma el artículo 18; y se adiciona una fracción X a",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20565,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.44221105527638194,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
-      "source_article": "60",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -310,5 +220,5 @@
       "char_offset": 2385
     }
   ],
-  "resolved_at": "2026-03-30T12:00:47.520800+00:00"
+  "resolved_at": "2026-03-30T12:19:00.536570+00:00"
 }

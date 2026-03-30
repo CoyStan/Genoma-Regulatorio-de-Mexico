@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
-  "extracted_at": "2026-03-30T12:00:07.175801+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-03-30T12:18:19.009663+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -39,11 +39,11 @@
       "target_law_raw": "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos",
       "target_law_id": "ley-general-educacion",
       "target_article": null,
-      "citation_text": "ión, Carlos María Abascal Carranza.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman los artículos 1 y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.  Publicado en el Diario Oficial de la Federación el 22 de mayo de 2018  Artículo Único.- Se reforman los artículos 1, párrafo primero y 28 de la Ley",
+      "citation_text": "icanos.  Publicado en el Diario Oficial de la Federación el 22 de mayo de 2018  Artículo Único.- Se reforman los artículos 1, párrafo primero y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:  ..  Transitorio  Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 1330,
+      "char_offset": 1539,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de educación"
@@ -77,21 +77,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
-      "source_article": "51",
-      "target_law_raw": "Ley de la Guardia Nacional",
-      "target_law_id": "ley-aguas-nacionales",
-      "target_article": null,
-      "citation_text": "ios  Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.  Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6442,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8163265306122449,
-      "resolution_matched_alias": "ley de aguas nacionales"
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -136,5 +121,5 @@
       "char_offset": 830
     }
   ],
-  "resolved_at": "2026-03-30T12:00:29.223157+00:00"
+  "resolved_at": "2026-03-30T12:18:44.634202+00:00"
 }

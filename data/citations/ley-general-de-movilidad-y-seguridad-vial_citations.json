@@ -1,6 +1,6 @@
 {
   "law_id": "ley-general-de-movilidad-y-seguridad-vial",
-  "extracted_at": "2026-03-30T12:00:12.497861+00:00",
+  "extracted_at": "2026-03-30T12:18:24.514460+00:00",
   "total_citations": 20,
   "citations": [
     {
@@ -283,5 +283,5 @@
       "char_offset": 2489
     }
   ],
-  "resolved_at": "2026-03-30T12:00:44.859634+00:00"
+  "resolved_at": "2026-03-30T12:18:58.385752+00:00"
 }

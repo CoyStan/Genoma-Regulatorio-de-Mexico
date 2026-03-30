@@ -1,7 +1,7 @@
 {
   "law_id": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
-  "extracted_at": "2026-03-30T12:00:14.739400+00:00",
-  "total_citations": 27,
+  "extracted_at": "2026-03-30T12:18:26.897776+00:00",
+  "total_citations": 25,
   "citations": [
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
@@ -336,36 +336,6 @@
     {
       "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
       "source_article": "145",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7722,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
-      "source_article": "145",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ida.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7779,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
-      "source_article": "145",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -406,5 +376,5 @@
       "char_offset": 7296
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.001596+00:00"
+  "resolved_at": "2026-03-30T12:19:02.872379+00:00"
 }

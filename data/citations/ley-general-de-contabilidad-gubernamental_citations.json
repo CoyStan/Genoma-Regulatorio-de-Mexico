@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-contabilidad-gubernamental",
-  "extracted_at": "2026-03-30T12:00:11.950437+00:00",
-  "total_citations": 70,
+  "extracted_at": "2026-03-30T12:18:23.954635+00:00",
+  "total_citations": 61,
   "citations": [
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -71,21 +71,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 1261
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "23",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s a un servicio público conforme a la normativa aplicable; excepto los considerados como monumentos arqueológicos, artísticos o históricos conforme a la Ley de la materia;  II.\tMobiliario y equipo, incluido el de cómputo, vehículos y demás bienes muebles al servicio de los entes públicos, y  III.\tCualesquiera otros bie",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 290,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -263,21 +248,6 @@
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "75",
-      "target_law_raw": "Ley de Coordinación Fiscal y 46 y 47 de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a población en rezago social y pobreza extrema para que por su conducto se incluya en los informes trimestrales a que se refieren los artículos 48 de la Ley de Coordinación Fiscal y 46 y 47 de esta Ley.  La Secretaría de Desarrollo Social del Gobierno Federal remitirá trimestralmente a la Cámara de Diputados del Congreso de la Unión, la información ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 433,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "76",
       "target_law_raw": "Ley de Coordinación Fiscal",
       "target_law_id": "unresolved",
@@ -289,21 +259,6 @@
       "char_offset": 418,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "78",
-      "target_law_raw": "Ley de Coordinación Fiscal y 46 y 47 de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ios observando lo establecido en el artículo 56 de esta Ley publicarán e incluirán en los informes trimestrales a que se refieren los artículos 48 de la Ley de Coordinación Fiscal y 46 y 47 de esta Ley, la información relativa a las características de las obligaciones a que se refieren los artículos 37, 47, fracción II, y 50 de la Ley de Coordinació",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 203,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -441,21 +396,6 @@
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "86",
-      "target_law_raw": "Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental.  Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013  ARTÍCULO SEGUNDO.- Se reforma el artículo 73, párrafo primero y fracción",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16816,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4838709677419355,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "86",
       "target_law_raw": "Ley de Coordinación Fiscal",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -516,21 +456,6 @@
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "86",
-      "target_law_raw": "Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "II del artículo Segundo del Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios, publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007, así como las Reglas para la aplicación del artículo segundo, fracción II",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 28241,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "86",
       "target_law_raw": "Ley de Coordinación Fiscal contenidas en dicho Decreto",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -542,36 +467,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "86",
-      "target_law_raw": "Ley General de Contabilidad Gubernamental y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Contabilidad Gubernamental y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015  Artículo Primero.- Se reforman los artículos 4, fracción XII; 9, fracci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 31491,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "86",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 32862,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -662,21 +557,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "86",
-      "target_law_raw": "Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "encias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.  TERCERO.- Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Fede",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 47859,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -996,21 +876,6 @@
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "86",
-      "target_law_raw": "Ley General de Desarrollo Social",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": ".- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental.  Publicado en el Diario Oficial de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 58286,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-contabilidad-gubernamental",
-      "source_article": "86",
       "target_law_raw": "Ley General de la Alimentación Adecuada y Sostenible",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -1036,5 +901,5 @@
       "char_offset": 9744
     }
   ],
-  "resolved_at": "2026-03-30T12:00:43.492138+00:00"
+  "resolved_at": "2026-03-30T12:18:57.190179+00:00"
 }

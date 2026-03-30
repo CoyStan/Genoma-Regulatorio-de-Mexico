@@ -1,7 +1,7 @@
 {
   "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
-  "extracted_at": "2026-03-30T12:00:14.006700+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-03-30T12:18:26.126675+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
@@ -93,21 +93,6 @@
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "114",
-      "target_law_raw": "Ley General de Mejora Regulatoria",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "sitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo.- Se abroga la Ley General de Mejora Regulatoria, publicada en el Diario Oficial de la Federación el 18 de mayo de 2018. Tercero.- Se derogan todas aquellas disposiciones que se opongan a lo dispues",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 439,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
-      "source_article": "114",
       "target_law_raw": "Ley Nacional para Eliminar Trámites Burocráticos contenida en el presente Decreto",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -133,5 +118,5 @@
       "char_offset": 10357
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.257069+00:00"
+  "resolved_at": "2026-03-30T12:19:01.284897+00:00"
 }

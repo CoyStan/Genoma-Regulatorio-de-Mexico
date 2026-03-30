@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-penal",
-  "extracted_at": "2026-03-30T12:00:11.626402+00:00",
-  "total_citations": 25,
+  "extracted_at": "2026-03-30T12:18:23.641316+00:00",
+  "total_citations": 23,
   "citations": [
     {
       "source_law": "ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-penal",
@@ -321,36 +321,6 @@
     {
       "source_law": "ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-penal",
       "source_article": "50",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8834,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-penal",
-      "source_article": "50",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "cretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8891,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-penal",
-      "source_article": "50",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -361,5 +331,5 @@
       "char_offset": 1561
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.846322+00:00"
+  "resolved_at": "2026-03-30T12:18:56.615967+00:00"
 }

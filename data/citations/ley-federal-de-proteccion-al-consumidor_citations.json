@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-proteccion-al-consumidor",
-  "extracted_at": "2026-03-30T12:00:10.990637+00:00",
-  "total_citations": 69,
+  "extracted_at": "2026-03-30T12:18:22.991045+00:00",
+  "total_citations": 62,
   "citations": [
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -35,21 +35,6 @@
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
-      "source_article": "2",
-      "target_law_raw": "Reglamento de esta ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, respectivamente y conforme a los requisitos que se establezcan en el Reglamento de esta ley. Párrafo adicionado DOF 04-02-2004  II. Proveedor: la persona física o moral en términos del Código Civil Federal, que habitual o periódicamente ofre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1073,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "8",
       "target_law_raw": "Ley Federal de Competencia Económica",
       "target_law_id": "ley-federal-competencia-economica",
@@ -77,21 +62,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8695652173913043,
       "resolution_matched_alias": "ley general de transparencia y acceso a la información pública"
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-al-consumidor",
-      "source_article": "23",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "no del Distrito Federal; Fracción reformada DOF 04-02-2004  IV. Los ingresos que perciba por los servicios que proporcione en los términos que señale la ley de la materia; y  V. Los demás bienes que adquiera por cualquier otro título legal.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 471,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -852,36 +822,6 @@
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "143",
-      "target_law_raw": "Ley Federal de Protección al Consumidor y del Código de Comercio",
-      "target_law_id": "ley-federal-proteccion-consumidor",
-      "target_article": null,
-      "citation_text": "05.- El Procurador Federal del Consumidor, Carlos Francisco Arce Macías.- Rúbrica.   DECRETO por el que se reforman y adicionan diversos artículos de la Ley Federal de Protección al Consumidor y del Código de Comercio.  Publicado en el Diario Oficial de la Federación el 6 de junio de 2006  Artículo Primero. Se adiciona el artículo 65 Bis y se reforma el artículo 12",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 51052,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7572815533980582,
-      "resolution_matched_alias": "ley federal de protección al consumidor"
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-al-consumidor",
-      "source_article": "143",
-      "target_law_raw": "Ley para la Protección de los Derechos de Niñas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "brica.   DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64655,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6075949367088608,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-al-consumidor",
-      "source_article": "143",
       "target_law_raw": "Ley General de Educación",
       "target_law_id": "ley-general-educacion",
       "target_article": null,
@@ -912,36 +852,6 @@
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
       "source_article": "143",
-      "target_law_raw": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": " Morales de la Peña.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor y de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.  Publicado en el Diario Oficial de la Federación el 28 de enero de 2011  Artículo Primero. Se reforman los artículos 8 Bis; 99, en su párrafo primer",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 69989,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-al-consumidor",
-      "source_article": "143",
-      "target_law_raw": "Ley Federal de Competencia Económica",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "sé Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 72584,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-al-consumidor",
-      "source_article": "143",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación",
       "target_law_id": "lopjf",
       "target_article": null,
@@ -968,21 +878,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-al-consumidor",
-      "source_article": "143",
-      "target_law_raw": "Ley Federal de Protección al Consumidor",
-      "target_law_id": "ley-federal-proteccion-consumidor",
-      "target_article": null,
-      "citation_text": "  DECRETO por el que se reforman los artículos Cuarto y Quinto Transitorios del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Protección al Consumidor, publicado en el Diario Oficial de la Federación el 11 de enero de 2018.  Publicado en el Diario Oficial de la Federación el 25 de junio de 2018  Art",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 107178,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9873417721518988,
-      "resolution_matched_alias": "ley federal de protección al consumidor"
     },
     {
       "source_law": "ley-federal-de-proteccion-al-consumidor",
@@ -1027,5 +922,5 @@
       "char_offset": 1437
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.472926+00:00"
+  "resolved_at": "2026-03-30T12:18:55.398352+00:00"
 }

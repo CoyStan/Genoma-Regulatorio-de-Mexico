@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-03-30T12:00:08.275858+00:00",
-  "total_citations": 4,
+  "extracted_at": "2026-03-30T12:18:20.092789+00:00",
+  "total_citations": 3,
   "citations": [
     {
       "source_law": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
@@ -33,21 +33,6 @@
     {
       "source_law": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
       "source_article": "7",
-      "target_law_raw": "Ley del Sistema de Horario en los Estados Unidos Mexicanos",
-      "target_law_id": "ley-sistemas-pagos",
-      "target_article": null,
-      "citation_text": "rios  Primero.- La presente Ley entrará en vigor el 30 de octubre de 2022.  Segundo.- A partir de la entrada en vigor del presente Decreto, se abroga la Ley del Sistema de Horario en los Estados Unidos Mexicanos, publicada el 29 de diciembre de 2001 en el Diario Oficial de la Federación.  Tercero.- A partir de la entrada en vigor de la presente Ley, queda abr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 552,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del sistema de pagos"
-    },
-    {
-      "source_law": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
-      "source_article": "7",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -58,5 +43,5 @@
       "char_offset": 1345
     }
   ],
-  "resolved_at": "2026-03-30T12:00:33.246131+00:00"
+  "resolved_at": "2026-03-30T12:18:48.321922+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
-  "extracted_at": "2026-03-30T12:00:13.185750+00:00",
-  "total_citations": 80,
+  "extracted_at": "2026-03-30T12:18:25.243769+00:00",
+  "total_citations": 73,
   "citations": [
     {
       "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
@@ -416,21 +416,6 @@
     },
     {
       "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "351",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "da sin transmisión de posesión que existan en la masa, podrán ser ejecutados por el acreedor prendario, mediante la acción que corresponda conforme a la ley de la materia, ante el juez de concurso mercantil, el cual deberá decretar, sin más trámite, la ejecución solicitada. Párrafo reformado DOF 13-06-2014  Si hubiera ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 221,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
       "source_article": "355",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -582,21 +567,6 @@
     {
       "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
       "source_article": "435",
-      "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "de 1996  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica de Nacional Financiera; del Código de Comercio; de la Ley General de Títulos y Operaciones de Crédito; y del Código Civil para el Distrito Federal en Materia Común y para t",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4547,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "435",
       "target_law_raw": "Ley de Instituciones de Crédito",
       "target_law_id": "ley-instituciones-credito",
       "target_article": null,
@@ -713,51 +683,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.75,
       "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "435",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "mo, se estará al régimen transitorio que para las mismas se prevé en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 31707,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "435",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005.  DÉCIMO QUINTO.- Las sociedades financieras de objeto múltiple se reputan intermediarios financieros rurales para los efectos de la Ley Orgánica de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 31898,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3875,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "435",
-      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito y la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "María Abascal Carranza.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, la Ley General de Títulos y Operaciones de Crédito y la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos.  Publicado en el Diario Oficial de la Federación el 1º de febrero de 2008  SEGUNDO.- Se REFORMAN los artículos 32, tercer párrafo; 179, segundo párr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 34093,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
@@ -927,36 +852,6 @@
     {
       "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
       "source_article": "435",
-      "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.  Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.  México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 61053,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "435",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": " que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64157,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "435",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -1032,21 +927,6 @@
     {
       "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
       "source_article": "435",
-      "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en r",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 77778,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
-      "source_article": "435",
       "target_law_raw": "Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -1057,6 +937,21 @@
       "char_offset": 77867,
       "resolution_confidence": "medium",
       "resolution_score": 0.7538461538461538,
+      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+    },
+    {
+      "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
+      "source_article": "435",
+      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
+      "target_law_id": "loapf",
+      "target_article": null,
+      "citation_text": "ral de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Administración Pública Federal.  Tercero. Las disposiciones previstas en los artículos 163, 199 y 201 de la Ley General de Sociedades Mercantiles, entrarán en vigor, en lo relativo",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 80089,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
@@ -1162,5 +1057,5 @@
       "char_offset": 3601
     }
   ],
-  "resolved_at": "2026-03-30T12:00:46.188103+00:00"
+  "resolved_at": "2026-03-30T12:18:59.351815+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-federal-de-procedimientos-civiles",
-  "extracted_at": "2026-03-30T12:00:05.077797+00:00",
-  "total_citations": 36,
+  "extracted_at": "2026-03-30T12:18:16.805221+00:00",
+  "total_citations": 32,
   "citations": [
     {
       "source_law": "codigo-federal-de-procedimientos-civiles",
@@ -255,21 +255,6 @@
     {
       "source_law": "codigo-federal-de-procedimientos-civiles",
       "source_article": "3º",
-      "target_law_raw": "Ley Federal de Competencia Económica",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "sé Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforman y adicionan el Código Federal de Procedimientos Civiles, el Código Civil Federal, la Ley Federal de Competencia Económica, la Ley Federal de Protección al Consumidor, la Ley Orgánica del Poder Judicial de la Federación, la Ley General del Equilibrio Ecológico y la Protec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16955,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "codigo-federal-de-procedimientos-civiles",
-      "source_article": "3º",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación",
       "target_law_id": "lopjf",
       "target_article": null,
@@ -356,51 +341,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.7428571428571429,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-federal-de-procedimientos-civiles",
-      "source_article": "3º",
-      "target_law_raw": "Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "ras Públicas y Servicios Relacionados con las Mismas; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; la Ley de Expropiación; la Ley General de Bienes Nacionales y el Código Federal de Procedimientos Civiles.  Publicado en el Diario Oficial de la Federación el 16 de enero de 2012  Artículo Sexto. Se deroga el Capítulo IV del Título Primero del Libro Terce",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 19973,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "codigo-federal-de-procedimientos-civiles",
-      "source_article": "3º",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 24609,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-federal-de-procedimientos-civiles",
-      "source_article": "3º",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "rio de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 24666,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "codigo-federal-de-procedimientos-civiles",
@@ -535,5 +475,5 @@
       "resolution_matched_alias": "ley general de transparencia y acceso a la información pública"
     }
   ],
-  "resolved_at": "2026-03-30T12:00:21.592944+00:00"
+  "resolved_at": "2026-03-30T12:18:37.893642+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-  "extracted_at": "2026-03-30T12:00:08.003651+00:00",
-  "total_citations": 66,
+  "extracted_at": "2026-03-30T12:18:19.830857+00:00",
+  "total_citations": 60,
   "citations": [
     {
       "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
@@ -227,21 +227,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7954545454545454,
       "resolution_matched_alias": "ley general de responsabilidades administrativas"
-    },
-    {
-      "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-      "source_article": "7o",
-      "target_law_raw": "Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia",
-      "target_law_id": "lgeepa",
-      "target_article": null,
-      "citation_text": " lagunas, ríos, lagos y esteros conectados con el mar, litorales o las zonas federales de las áreas antes mencionadas, en términos del artículo 28 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente y del Reglamento de la materia;  II.\tAutorización para emitir olores, gases o partículas sólidas o líquidas a la atmósfera por las Instalaciones del Sector Hidrocarburos, en términ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 590,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8050314465408805,
-      "resolution_matched_alias": "ley general del equilibrio ecológico y la protección al ambiente"
     },
     {
       "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
@@ -509,81 +494,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 665
-    },
-    {
-      "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-      "source_article": "38",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ca.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5067,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-      "source_article": "38",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ong.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5124,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-      "source_article": "38",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17345,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-      "source_article": "38",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "men Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17386,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-      "source_article": "38",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17414,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
@@ -988,5 +898,5 @@
       "char_offset": 4621
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.315027+00:00"
+  "resolved_at": "2026-03-30T12:18:47.443318+00:00"
 }

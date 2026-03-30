@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-bienes-nacionales",
-  "extracted_at": "2026-03-30T12:00:11.854625+00:00",
-  "total_citations": 110,
+  "extracted_at": "2026-03-30T12:18:23.859995+00:00",
+  "total_citations": 87,
   "citations": [
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -132,21 +132,6 @@
     {
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "6",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a ley inalienables e imprescriptibles;  VIII.- Los inmuebles federales considerados como monumentos arqueológicos, históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente;  IX.- Los terrenos ganados natural o artificialmente al mar, ríos, corrientes, lagos, lagunas o esteros de propiedad nacional;  X.- Los inmuebles fe",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1120,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "Decimoséptimo Transitorio",
@@ -185,21 +170,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8095238095238095,
       "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "7",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s y demás partes integrantes establecidas en la ley federal de la materia;  XII.- Los inmuebles considerados como monumentos arqueológicos conforme a la ley de la materia;  XIII.- Las plazas, paseos y parques públicos cuya construcción o conservación esté a cargo del Gobierno Federal y las construcciones levantadas por",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1481,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -260,21 +230,6 @@
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "23",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "vación, mantenimiento y aprovechamiento de dichos inmuebles.  Tratándose de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, darán la intervención que corresponda conforme a la legislación aplicable, a la Secretaría de Cultura. Párrafo reformado DOF 17-12-2015",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1461,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "28",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -284,36 +239,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 3250
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "30",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "erá competente para poseer, vigilar, conservar, administrar y controlar los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de la materia, así como las zonas de monumentos arqueológicos. Párrafo reformado DOF 17-12-2015  Los inmuebles federales considerados como monumentos arqueológicos",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 190,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "30",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "omún. Párrafo reformado DOF 17-12-2015  Cuando los inmuebles federales considerados como monumentos arqueológicos, históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, se encuentren dentro de la zona federal marítimo terrestre, de los terrenos ganados al mar, de las áreas naturales protegidas o de cualquiera otra s",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1042,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -329,21 +254,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8695652173913043,
       "resolution_matched_alias": "ley general de transparencia y acceso a la información pública"
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "40",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rán a efectuar las anotaciones respectivas en sus registros.  Los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, no podrán ser objeto de fusión o subdivisión.  Las memorias técnicas, los planos, las descripciones analítico topográficas y demás medios gráficos a",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 370,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -387,21 +297,6 @@
     {
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "50",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "servicio, cuando no sea posible o conveniente su adquisición. En el caso de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, éstos se sujetarán a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos. Párrafo reformado DOF 20-05-2021  La Secretaría",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2010,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "50",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -416,21 +311,6 @@
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "58",
-      "target_law_raw": "ley de la materia disponga la adquisición de todos los bienes afectos a la misma",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "irir los inmuebles afectos se ejercerá en la parte proporcional al tiempo transcurrido de la propia concesión, permiso o autorización, excepto cuando la ley de la materia disponga la adquisición de todos los bienes afectos a la misma.  Sección Segunda Del Destino de los Inmuebles",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1690,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4397163120567376,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "59",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -440,36 +320,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 698
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "62",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "acional de Bellas Artes y Literatura, según corresponda, tratándose de inmuebles federales considerados Monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente. Fracción reformada DOF 17-12-2015  La Secretaría y la Secretaría de Medio Ambiente y Recursos Naturales, emitirán los lineamientos correspondientes ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 662,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "64",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "nar o reasignar a título gratuito a favor de particulares, espacios de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que tenga destinados a su servicio, únicamente cuando se trate de cumplir convenios de colaboración institucional relacionados con actividades acadé",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1387,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -500,21 +350,6 @@
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "79",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ra su mantenimiento, conservación y óptimo aprovechamiento, con excepción de aquéllos considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente;  IV.- Vigilar la construcción, reconstrucción, ampliación y mantenimiento de los inmuebles federales utilizados para fines religiosos, con excepción",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 953,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "80",
       "target_law_raw": "Ley de Asociaciones Religiosas y Culto Público",
       "target_law_id": "unresolved",
@@ -526,36 +361,6 @@
       "char_offset": 1458,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6548672566371682,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "81",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "muebles e inmuebles federales utilizados para fines religiosos y sus anexidades están considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Cultura le corresponderá respecto de estos bienes: Párrafo reformado DOF 17-12-2015  I.- Resolver administrativamente todas las c",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 171,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "82",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ederales utilizados para fines religiosos y sus anexidades, con excepción de aquellos considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente: Párrafo reformado DOF 19-01-2018  I.- Vigilar su conservación y preservación, así como la de los muebles ubicados en dichos inmuebles que se consider",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 421,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -576,21 +381,6 @@
     {
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "83",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " informar de ello inmediatamente a la Secretaría y, tratándose de inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Cultura; Fracción reformada DOF 17-12-2015  IV.- Coadyuvar con la Secretaría en la integración de la información y documentación ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 708,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "83",
       "target_law_raw": "Ley Federal de Derechos",
       "target_law_id": "lfda",
       "target_article": null,
@@ -602,21 +392,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8,
       "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "84",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "stifiquen en términos de esta Ley o de las leyes aplicables.  Los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, no podrán ser objeto de desincorporación del régimen de dominio público de la Federación.  Los inmuebles federales señalados en el párrafo anterior,",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3183,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -644,21 +419,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de adquisiciones"
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "87",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " destinarlos al servicio público, de uso común, los utilizados para fines religiosos y los considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, podrán afectarse al desarrollo de dichas acciones, a través de las instituciones públicas o privadas que lleven a cabo actividades de tal naturaleza",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 316,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -719,21 +479,6 @@
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "103",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "onservación, preservación, mantenimiento y aprovechamiento de los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas. Artículo reformado DOF 17-12-2015",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 419,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "104",
       "target_law_raw": "Ley de Obras Públicas y Servicios Relacionados con las Mismas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
       "target_law_id": "ley-obras-publicas",
@@ -746,21 +491,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de obras públicas y servicios relacionados con las mismas"
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "104",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Párrafo reformado DOF 03-05-2023  Para la realización de obras en inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas, se requerirá de la autorización previa de la Secretaría de Cultura. Párrafo reformad",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 585,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -943,21 +673,6 @@
       "char_offset": 24002,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5955056179775281,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "154",
-      "target_law_raw": "ley de la materia o la declaratoria correspondiente",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ey, hubieren adquirido de la Federación, mediante enajenación a título gratuito, inmuebles considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, están obligados a absorber los costos de reparación, conservación y mantenimiento y a dar a los inmuebles un uso compatible con su naturaleza.  SEXT",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2098,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
       "resolution_matched_alias": null
     },
     {
@@ -1154,21 +869,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.45962732919254656,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "154",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": ".- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.  Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015  ARTÍCULO D",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17518,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -1488,51 +1188,6 @@
     {
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "154",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "l López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 29312,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "154",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 29369,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "154",
-      "target_law_raw": "Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
-      "target_law_id": "ley-prevencion-lavado-dinero",
-      "target_article": null,
-      "citation_text": " Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforma el artículo 132 de la Ley General de Bienes Nacionales, y los artículos 31 y 38 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.  Publicado en el Diario Oficial de la Federación el 14 de septiembre de 2021  Artículo Primero.- Se reforman los párrafos primero y séptimo del artí",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 42933,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-general-de-bienes-nacionales",
-      "source_article": "154",
       "target_law_raw": "Ley de Caminos",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1603,5 +1258,5 @@
       "char_offset": 1331
     }
   ],
-  "resolved_at": "2026-03-30T12:00:43.272865+00:00"
+  "resolved_at": "2026-03-30T12:18:57.008519+00:00"
 }

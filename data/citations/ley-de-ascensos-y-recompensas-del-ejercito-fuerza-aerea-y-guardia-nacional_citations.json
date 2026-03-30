@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
-  "extracted_at": "2026-03-30T12:00:06.659853+00:00",
-  "total_citations": 25,
+  "extracted_at": "2026-03-30T12:18:18.491571+00:00",
+  "total_citations": 21,
   "citations": [
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -122,21 +122,6 @@
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
-      "source_article": "35",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ado sujeto a proceso en el que se haya retirado la acción penal dentro del último año de su antigüedad;  V.\tHaber alcanzado la edad límite que señala la ley de la materia, y  VI.\tEncontrarse en trámite de retiro potestativo.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 488,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "59",
       "target_law_raw": "Reglamento de esta Ley y será",
       "target_law_id": "unresolved",
@@ -148,36 +133,6 @@
       "char_offset": 298,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4489795918367347,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
-      "source_article": "64",
-      "target_law_raw": "Reglamento de esta Ley y en el Manual de Organización y Funcionamiento Interior de la Legión de Honor Mexicana",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTÍCULO 64.- La Condecoración de la Legión de Honor se otorgará a los militares que cumplan con los requisitos que se establecen en el Reglamento de esta Ley y en el Manual de Organización y Funcionamiento Interior de la Legión de Honor Mexicana.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 133,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.39520958083832336,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
-      "source_article": "69",
-      "target_law_raw": "Reglamento de esta Ley determinará la forma",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTÍCULO 69.- El Reglamento de esta Ley determinará la forma, tamaño, material y demás características de cada una de las Condecoraciones que establece la presente Ley, así como el protocolo de su imposición y ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4657534246575342,
       "resolution_matched_alias": null
     },
     {
@@ -228,31 +183,16 @@
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "76",
-      "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Nacionales del 31 de diciembre de 1955",
+      "target_law_raw": "Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "PRIMERO.- La Presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.  ARTÍCULO SEGUNDO.- Se abroga la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Nacionales del 31 de diciembre de 1955, así como todas las demás disposiciones que se opongan a la presente Ley.  ARTÍCULO TERCERO.- El Ejecutivo Federal expedirá el Reglamento de la prese",
+      "citation_text": "o en el Diario Oficial de la Federación el 12 de junio de 2009  Artículo Segundo.- Se reforman los artículos 35, fracción I, y 60, párrafo primero de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:  .  Transitorios  Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 439,
+      "char_offset": 2256,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.425,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
-      "source_article": "76",
-      "target_law_raw": "Reglamento de la presente Ley en un plazo no mayor de seis meses contados a partir de la fecha de su entrada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "l 31 de diciembre de 1955, así como todas las demás disposiciones que se opongan a la presente Ley.  ARTÍCULO TERCERO.- El Ejecutivo Federal expedirá el Reglamento de la presente Ley en un plazo no mayor de seis meses contados a partir de la fecha de su entrada en vigor.  ARTÍCULO CUARTO.- Las Condecoraciones otorgadas conforme a las leyes, decretos y disposiciones anteriores, podrán seguirse usando con arreglo a las",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 663,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3894736842105263,
+      "resolution_score": 0.5074626865671642,
       "resolution_matched_alias": null
     },
     {
@@ -273,14 +213,14 @@
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "76",
-      "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos",
+      "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
       "target_law_id": "ley-pemex",
       "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos.  Publicado en el Diario Oficial de la Federación el 1 de junio de 2011  Artículo Segundo.- Se reforman los artículos 9, fracción III; 18, fracciones",
+      "citation_text": "o entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo.- La reforma de los artículos 191, 193 y 195 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciat",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 4933,
+      "char_offset": 5718,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
@@ -306,11 +246,11 @@
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
-      "citation_text": "cretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fue",
+      "citation_text": "ción de inconstitucionalidad.  SEGUNDO. Se sobresee en la presente acción de inconstitucionalidad respecto de los artículos 30 Bis, fracción XXVII de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 13617,
+      "char_offset": 22306,
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
@@ -321,11 +261,11 @@
       "target_law_raw": "Ley de la Guardia Nacional",
       "target_law_id": "ley-aguas-nacionales",
       "target_article": null,
-      "citation_text": "z.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de",
+      "citation_text": "I de la Ley Orgánica de la Administración Pública Federal; 7, fracciones VII y VIII, 15, fracción XVII, 34, fracciones I y III, numerales b) y c), de la Ley de la Guardia Nacional; y, 138, fracciones V y VI y 170, fracción II, apartados F y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, contenidos en el Decreto po",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 13674,
+      "char_offset": 22451,
       "resolution_confidence": "medium",
       "resolution_score": 0.8163265306122449,
       "resolution_matched_alias": "ley de aguas nacionales"
@@ -373,5 +313,5 @@
       "char_offset": 1228
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.254723+00:00"
+  "resolved_at": "2026-03-30T12:18:42.858762+00:00"
 }

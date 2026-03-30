@@ -1,7 +1,7 @@
 {
   "law_id": "reglamento-de-la-camara-de-diputados",
-  "extracted_at": "2026-03-30T12:00:15.298798+00:00",
-  "total_citations": 62,
+  "extracted_at": "2026-03-30T12:18:27.468802+00:00",
+  "total_citations": 60,
   "citations": [
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
@@ -762,36 +762,6 @@
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "316",
-      "target_law_raw": "Código de Ética de la Cámara de Diputados del Honorable Congreso de la Unión",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Juan Manuel Celis Aguirre, Secretario.- Rúbrica.   DECRETO por el que se adiciona el artículo 8 del Reglamento de la Cámara de Diputados y se expide el Código de Ética de la Cámara de Diputados del Honorable Congreso de la Unión.  Publicado en el Diario Oficial de la Federación el 10 de mayo de 2016  Artículo Primero.- Se adiciona una fracción XX, recorriéndose en su orden la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 23779,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.46153846153846156,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "reglamento-de-la-camara-de-diputados",
-      "source_article": "316",
-      "target_law_raw": "Reglamento para la Contingencia Sanitaria",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "  ..  Transitorios  Primero. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga el Reglamento para la Contingencia Sanitaria, que la Cámara de Diputados aplicará en las Sesiones Ordinarias y Extraordinarias durante el Tercer Año Legislativo de la LXIV Legislatura, publicado",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 44043,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5161290322580645,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "reglamento-de-la-camara-de-diputados",
-      "source_article": "316",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "35",
@@ -802,5 +772,5 @@
       "char_offset": 20993
     }
   ],
-  "resolved_at": "2026-03-30T12:00:51.131606+00:00"
+  "resolved_at": "2026-03-30T12:19:03.768901+00:00"
 }

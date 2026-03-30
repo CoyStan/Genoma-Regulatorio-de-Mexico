@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-organizaciones-ganaderas",
-  "extracted_at": "2026-03-30T12:00:08.545145+00:00",
-  "total_citations": 15,
+  "extracted_at": "2026-03-30T12:18:20.372506+00:00",
+  "total_citations": 12,
   "citations": [
     {
       "source_law": "ley-de-organizaciones-ganaderas",
@@ -83,36 +83,6 @@
     },
     {
       "source_law": "ley-de-organizaciones-ganaderas",
-      "source_article": "8o",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s de producción individuales o colectivas, criadores de cuando menos cinco vientres bovinos o su equivalencia en otras especies, conforme lo disponga el reglamento de esta Ley.  Las asociaciones ganaderas locales especializadas estarán integradas por lo menos, por diez ganaderos criadores de cualquier especie-producto anima",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 286,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-organizaciones-ganaderas",
-      "source_article": "10",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "  Los asuntos del conocimiento de la Confederación Nacional de Organizaciones Ganaderas, se resolverán mediante el sistema de votación que establezca el reglamento de esta Ley; cada unión ganadera representará dos votos que se ejercerán por conducto de sus delegados.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 458,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-organizaciones-ganaderas",
       "source_article": "11",
       "target_law_raw": "reglamento de esta Ley",
       "target_law_id": "unresolved",
@@ -186,21 +156,6 @@
     {
       "source_law": "ley-de-organizaciones-ganaderas",
       "source_article": "26",
-      "target_law_raw": "Ley de Asociaciones Ganaderas del doce de mayo de mil novecientos treinta y seis",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "  TRANSITORIOS  PRIMERO.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abroga la Ley de Asociaciones Ganaderas del doce de mayo de mil novecientos treinta y seis.  TERCERO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, continuarán aplicándose las que sobre la materia se hubieren expedido c",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 286,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.48175182481751827,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-organizaciones-ganaderas",
-      "source_article": "26",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -211,5 +166,5 @@
       "char_offset": 2958
     }
   ],
-  "resolved_at": "2026-03-30T12:00:33.918141+00:00"
+  "resolved_at": "2026-03-30T12:18:48.847108+00:00"
 }

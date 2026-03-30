@@ -1,7 +1,7 @@
 {
   "law_id": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-03-30T12:00:14.837578+00:00",
-  "total_citations": 35,
+  "extracted_at": "2026-03-30T12:18:26.997311+00:00",
+  "total_citations": 32,
   "citations": [
     {
       "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -270,21 +270,6 @@
     {
       "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "73",
-      "target_law_raw": "Ley de Coordinación Fiscal",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "os en las disposiciones aplicables al momento en que se iniciaron.  TERCERO.- Se derogan los párrafos segundo a cuarto, inclusive, del artículo 12 de la Ley de Coordinación Fiscal, así como todas las disposiciones legales y reglamentarias que se opongan a esta ley.  CUARTO.- En tanto entra en vigor el presente decreto, la Supre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 568,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "73",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación",
       "target_law_id": "lopjf",
       "target_article": null,
@@ -368,36 +353,6 @@
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8310,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "73",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10889,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "73",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "cretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10946,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
@@ -490,5 +445,5 @@
       "char_offset": 1146
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.164492+00:00"
+  "resolved_at": "2026-03-30T12:19:03.022693+00:00"
 }

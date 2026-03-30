@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-  "extracted_at": "2026-03-30T12:00:10.796799+00:00",
-  "total_citations": 140,
+  "extracted_at": "2026-03-30T12:18:22.789813+00:00",
+  "total_citations": 123,
   "citations": [
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -191,21 +191,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 6354
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "3",
-      "target_law_raw": "Ley Federal de Procedimiento Administrativo y el Código Fiscal de la Federación serán supletorios de esta Ley en lo conducente",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "e en el ámbito de competencia del Ejecutivo Federal, corresponde a la Secretaría y a la Función Pública en el ámbito de sus respectivas atribuciones. La Ley Federal de Procedimiento Administrativo y el Código Fiscal de la Federación serán supletorios de esta Ley en lo conducente.  Las dependencias y entidades deberán observar las disposiciones generales que emitan la Secretaría y la Función Pública, en el ámbito de sus respec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 238,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1326,21 +1311,6 @@
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
-      "target_law_raw": "Ley de Presupuesto",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "determinarse por las autoridades competentes.  TRANSITORIOS  PRIMERO. El presente Decreto entrará en vigor el 1 de abril de 2006.  SEGUNDO. Se abroga la Ley de Presupuesto, Contabilidad y Gasto Público Federal y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.  TERCERO. Las disposicio",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 369,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
       "target_law_raw": "Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1371,21 +1341,6 @@
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
-      "target_law_raw": "Ley de Coordinación Fiscal y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "al Carranza.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006  ARTÍCULO SEGUNDO. Se Deroga el inciso ñ), de la fracción II del artícul",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4055,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5072463768115942,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
       "target_law_raw": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1411,21 +1366,6 @@
       "char_offset": 5150,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.  México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Patricia Villanu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12590,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3783783783783784,
       "resolution_matched_alias": null
     },
     {
@@ -1536,66 +1476,6 @@
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
-      "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": ".- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilida",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52143,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley del Impuesto Especial sobre Producción y Servicios",
-      "target_law_id": "ley-ieps",
-      "target_article": null,
-      "citation_text": " Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52182,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto especial sobre producción y servicios"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley General de Contabilidad Gubernamental y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Contabilidad Gubernamental y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación el 30 de diciembre de 2015  Artículo Segundo.- Se reforman los artículos 6, párrafo primero y 111, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 56285,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 57486,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
       "target_law_raw": "Ley General de Responsabilidades Administrativas y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -1622,21 +1502,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Pre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 65107,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1776,51 +1641,6 @@
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
-      "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "taria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 65741,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 65823,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley General de Cambio Climático",
-      "target_law_id": "lgpp",
-      "target_article": null,
-      "citation_text": " la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 65890,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1866,51 +1686,6 @@
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "l López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 82815,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 82872,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley General de Partidos Políticos y un artículo 19 Ter a la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": "19",
-      "citation_text": "La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se adicionan los artículos 23 y 25 de la Ley General de Partidos Políticos y un artículo 19 Ter a la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación el 27 de febrero de 2022  Artículo Segundo.- Se adiciona un artículo 19 Ter a la Ley Federal de Pre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 95108,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
       "target_law_raw": "Ley General de Partidos Políticos",
       "target_law_id": "lgpp",
       "target_article": null,
@@ -1937,36 +1712,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.88,
       "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley del Seguro Social",
-      "target_law_id": "ley-del-seguro-social",
-      "target_article": null,
-      "citation_text": ".- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Tr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 117322,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "ón, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 117351,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -2016,6 +1761,21 @@
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
+      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "target_law_id": "ley-del-infonavit",
+      "target_article": null,
+      "citation_text": " presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.  SEGUNDO. El Banco de México actu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 118420,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
+    },
+    {
+      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "source_article": "118",
       "target_law_raw": "Ley del Seguro Social a partir del día primero de julio de mil novecientos noventa y siete",
       "target_law_id": "ley-del-seguro-social",
       "target_article": null,
@@ -2027,21 +1787,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "source_article": "118",
-      "target_law_raw": "Ley General de Desarrollo Social",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": ".- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Desarrollo Social, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y de la Ley General de Contabilidad Gubernamental.  Publicado en el Diario Oficial de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 129219,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -2071,5 +1816,5 @@
       "char_offset": 3535
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.061571+00:00"
+  "resolved_at": "2026-03-30T12:18:55.092808+00:00"
 }

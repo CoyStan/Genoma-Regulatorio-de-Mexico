@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-  "extracted_at": "2026-03-30T12:00:11.586432+00:00",
-  "total_citations": 84,
+  "extracted_at": "2026-03-30T12:18:23.599905+00:00",
+  "total_citations": 77,
   "citations": [
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -31,21 +31,6 @@
       "char_offset": 97,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5074626865671642,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "2o",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "-2019  X.-\tMonetización: El producto de la conversión de un bien o activo, en su valor en dinero; Fracción reformada DOF 09-08-2019  XI.-\tReglamento: El Reglamento de esta Ley; Fracción reformada DOF 23-02-2005, 09-08-2019  XII.- Secretaría: La Secretaría de Hacienda y Crédito Público, y Fracción reformada DOF 23-02-2005  X",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3975,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -564,21 +549,6 @@
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
-      "target_law_raw": "Ley Federal para la Administración de Bienes Asegurados",
-      "target_law_id": "ley-prevencion-lavado-dinero",
-      "target_article": null,
-      "citation_text": "en vigor a los 180 días naturales contados a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados.  Tercero. Se derogan todas las disposiciones legales, reglamentarias y administrativas, que se opongan a lo dispuesto en ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 733,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
       "target_law_raw": "Reglamento de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -590,6 +560,21 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5104166666666666,
       "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
+      "source_article": "93",
+      "target_law_raw": "Ley Federal para la Administración de Bienes Asegurados",
+      "target_law_id": "ley-prevencion-lavado-dinero",
+      "target_article": null,
+      "citation_text": "iones conducentes a efecto de extinguir el Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito.  Noveno. Las referencias a la Ley Federal para la Administración de Bienes Asegurados, Decomisados y Abandonados que hagan las leyes y demás disposiciones, se entenderán hechas a la Ley Federal para la Administración y Enajenación de B",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 2887,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -627,11 +612,11 @@
       "target_law_raw": "Ley Federal de Extinción de Dominio",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
-      "citation_text": "r al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidad",
+      "citation_text": "rán armonizar su legislación respectiva con el presente Decreto.  Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 14474,
+      "char_offset": 15136,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
@@ -665,81 +650,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 21498,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
-      "target_law_raw": "Ley General de Bienes Nacionales",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "brica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforma el artículo 132 de la Ley General de Bienes Nacionales, y los artículos 31 y 38 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.  Publicado en el Diario Oficial de la F",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 23995,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25297,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "án Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25338,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25366,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1134,36 +1044,6 @@
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
-      "target_law_raw": "Ley del Seguro Social",
-      "target_law_id": "ley-del-seguro-social",
-      "target_article": null,
-      "citation_text": "cretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Tr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 29210,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
-      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": " Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Seguro Social, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 29239,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
-      "source_article": "93",
       "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
       "target_law_id": "ley-issste",
       "target_article": null,
@@ -1209,6 +1089,21 @@
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
+      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "target_law_id": "ley-del-infonavit",
+      "target_article": null,
+      "citation_text": " presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, excepto por la reforma al artículo 39 de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, la cual entrará en vigor el primer día hábil del ejercicio fiscal posterior a la publicación del presente Decreto.  SEGUNDO. El Banco de México actu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 30411,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
+    },
+    {
+      "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
+      "source_article": "93",
       "target_law_raw": "Ley del Seguro Social a partir del día primero de julio de mil novecientos noventa y siete",
       "target_law_id": "ley-del-seguro-social",
       "target_article": null,
@@ -1249,5 +1144,5 @@
       "char_offset": 3417
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.713768+00:00"
+  "resolved_at": "2026-03-30T12:18:56.506628+00:00"
 }

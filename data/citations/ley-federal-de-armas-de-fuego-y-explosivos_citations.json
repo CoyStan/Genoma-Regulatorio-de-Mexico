@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
-  "extracted_at": "2026-03-30T12:00:10.174652+00:00",
-  "total_citations": 26,
+  "extracted_at": "2026-03-30T12:18:22.104155+00:00",
+  "total_citations": 21,
   "citations": [
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
@@ -92,21 +92,6 @@
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "14",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "egistro o, en caso de su fallecimiento o ausencia declarada, por la persona responsable designada, en los términos y por los conductos que establezca el Reglamento de esta Ley y demás disposiciones emitidas por dicha Secretaría. Artículo reformado DOF 08-02-1985, 29-05-2025  CAPITULO II Posesión de armas en el domicilio",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 420,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
       "source_article": "20",
       "target_law_raw": "Reglamento de esta Ley",
       "target_law_id": "unresolved",
@@ -118,21 +103,6 @@
       "char_offset": 268,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "29",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "os que, por sus funciones de carácter público, justifiquen su necesidad deben expedir a su personal operativo, inscrito en el registro que establezca la ley de la materia, credenciales foliadas de identificación personal, por lapsos de dos años, las cuales, durante su vigencia, se deben asimilar a licencias individuale",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1394,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -161,21 +131,6 @@
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1332,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "45",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a autoridad correspondiente en materia de Protección Civil; además, deben reunir las condiciones de funcionamiento técnico y producción que determine el Reglamento de esta Ley. Artículo reformado DOF 29-05-2025",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 394,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
@@ -212,21 +167,6 @@
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "87",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " personas que no tengan el permiso correspondiente de la Secretaría, tratándose de artificios pirotécnicos se sujetarán a la cantidad establecida por el Reglamento de esta Ley. Fracción reformada DOF 29-05-2025",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1095,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
       "source_article": "92",
       "target_law_raw": "Decreto para el Fomento y Modernización de la Industria Automotriz",
       "target_law_id": "unresolved",
@@ -254,21 +194,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "92",
-      "target_law_raw": "Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "RANSITORIOS  PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abroga:  I.- La Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera, publicada en el Diario Oficial de la Federación el 9 de marzo de 1973;  II.- La Ley Orgánica de la Fracción I del Artículo 27 Constitucional, public",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4598,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4696969696969697,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
@@ -388,5 +313,5 @@
       "char_offset": 2603
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.983179+00:00"
+  "resolved_at": "2026-03-30T12:18:53.254807+00:00"
 }

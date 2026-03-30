@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-servicio-postal-mexicano",
-  "extracted_at": "2026-03-30T12:00:09.946724+00:00",
-  "total_citations": 5,
+  "extracted_at": "2026-03-30T12:18:21.841107+00:00",
+  "total_citations": 4,
   "citations": [
     {
       "source_law": "ley-del-servicio-postal-mexicano",
@@ -51,21 +51,6 @@
     {
       "source_law": "ley-del-servicio-postal-mexicano",
       "source_article": "72",
-      "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ará en vigor 90 días después de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se derogan el Libro Sexto Comunicaciones Postales de la Ley de Vías Generales de Comunicación, así como todas aquellas disposiciones que se opongan a esta Ley.  México, D. F., a 10 de diciembre de 1986.- Sen. Gonzalo Martínez Corbalá, Presiden",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1449,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-postal-mexicano",
-      "source_article": "72",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -76,5 +61,5 @@
       "char_offset": 1851
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.466226+00:00"
+  "resolved_at": "2026-03-30T12:18:52.716073+00:00"
 }

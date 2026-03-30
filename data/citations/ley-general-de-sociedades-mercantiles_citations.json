@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-sociedades-mercantiles",
-  "extracted_at": "2026-03-30T12:00:13.109688+00:00",
-  "total_citations": 35,
+  "extracted_at": "2026-03-30T12:18:25.161800+00:00",
+  "total_citations": 32,
   "citations": [
     {
       "source_law": "ley-general-de-sociedades-mercantiles",
@@ -249,36 +249,6 @@
     {
       "source_law": "ley-general-de-sociedades-mercantiles",
       "source_article": "4º",
-      "target_law_raw": "Ley Federal de Procedimiento Administrativo",
-      "target_law_id": "lfpa",
-      "target_article": null,
-      "citation_text": ".....   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA A partir de 1996  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1071,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-general-de-sociedades-mercantiles",
-      "source_article": "4º",
-      "target_law_raw": "Ley Federal sobre Metrología y Normalización",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "MA A partir de 1996  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Procedimiento Administrativo; de la Ley Federal sobre Metrología y Normalización; de la Ley Minera; de la Ley de Inversión Extranjera; de la Ley General de Sociedades Mercantiles y del Código Civil para el Distrito Federal en mate",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1122,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-sociedades-mercantiles",
-      "source_article": "4º",
       "target_law_raw": "Ley de Inversión Extranjera",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -384,21 +354,6 @@
     {
       "source_law": "ley-general-de-sociedades-mercantiles",
       "source_article": "4º",
-      "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en r",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7092,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-sociedades-mercantiles",
-      "source_article": "4º",
       "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -484,5 +439,5 @@
       "char_offset": 235
     }
   ],
-  "resolved_at": "2026-03-30T12:00:45.932030+00:00"
+  "resolved_at": "2026-03-30T12:18:59.114915+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-  "extracted_at": "2026-03-30T12:00:12.425146+00:00",
-  "total_citations": 73,
+  "extracted_at": "2026-03-30T12:18:24.440307+00:00",
+  "total_citations": 69,
   "citations": [
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -570,21 +570,6 @@
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
       "source_article": "154",
-      "target_law_raw": "Ley para la Protección de los Derechos de Niñas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el transitorio anterior.  CUARTO. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.  QUINTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 851,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6075949367088608,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-      "source_article": "154",
       "target_law_raw": "Ley General de Derechos de Niñas",
       "target_law_id": "lfda",
       "target_article": null,
@@ -618,29 +603,14 @@
       "target_law_raw": "Ley General de Prestación de Servicios para la Atención",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": "S DE DECRETOS DE REFORMA  DECRETO por el que se reforman diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.  Publicado en el Diario Oficial de la Federación el 23 de junio de 2017  Artículo Primero.- Se reforman los ",
+      "citation_text": "o entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 5459,
+      "char_offset": 6809,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-      "source_article": "154",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal y de la Ley General de los Derechos de Niñas",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "a.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal y de la Ley General de los Derechos de Niñas, Niños y Adolescentes.  Publicado en el Diario Oficial de la Federación el 9 de marzo de 2018  Artículo Segundo.- Se reforman los artículos 149, segu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9258,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -671,36 +641,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del sistema de pagos"
-    },
-    {
-      "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-      "source_article": "154",
-      "target_law_raw": "Ley Federal para Prevenir y Eliminar la Discriminación",
-      "target_law_id": "ley-prevencion-lavado-dinero",
-      "target_article": null,
-      "citation_text": "a.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres y Hombres, la Ley General de Víctimas, la Ley General en Materia de Desaparición Forzada de Personas, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25811,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-      "source_article": "154",
-      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ernández.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal para Prevenir y Eliminar la Discriminación, la Ley General para la Igualdad entre Mujeres y Hombres, la Ley General de Víctimas, la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Naci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25870,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -795,17 +735,17 @@
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
       "source_article": "154",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto",
+      "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado",
+      "citation_text": "eguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.  Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los eje",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 43297,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
+      "char_offset": 27547,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.3769633507853403,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -990,17 +930,17 @@
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
       "source_article": "154",
-      "target_law_raw": "Ley del Instituto Nacional de las Mujeres",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": " Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el present",
+      "citation_text": "ones que se opongan a lo dispuesto en el presente Decreto.  Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.  Cuarto. Las autoridades competentes de la Federac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 44676,
+      "char_offset": 44972,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
@@ -1030,5 +970,5 @@
       "char_offset": 4915
     }
   ],
-  "resolved_at": "2026-03-30T12:00:44.619706+00:00"
+  "resolved_at": "2026-03-30T12:18:58.167796+00:00"
 }

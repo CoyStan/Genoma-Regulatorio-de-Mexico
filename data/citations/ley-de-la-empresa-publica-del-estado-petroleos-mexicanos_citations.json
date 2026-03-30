@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
-  "extracted_at": "2026-03-30T12:00:08.174507+00:00",
-  "total_citations": 43,
+  "extracted_at": "2026-03-30T12:18:19.987598+00:00",
+  "total_citations": 41,
   "citations": [
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
@@ -308,21 +308,6 @@
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
-      "source_article": "84",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de: I.\tEl recurso de reconsideración ante la instancia colegiada que se determine en el Estatuto Orgánico, y conforme al procedimiento que establezca el Reglamento de esta Ley, o II.\tLa acción jurisdiccional que corresponda ante el Tribunal Federal de Justicia Administrativa. Contra las demás resoluciones emitidas en las et",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 272,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "source_article": "89",
       "target_law_raw": "Ley General de Responsabilidades Administrativas",
       "target_law_id": "ley-responsabilidades-administrativas",
@@ -573,21 +558,6 @@
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "source_article": "126",
-      "target_law_raw": "Ley de Petróleos Mexicanos",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "Transitorios Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo.- Se abroga la Ley de Petróleos Mexicanos publicada en el Diario Oficial de la Federación el 11 de agosto de 2014, y se derogan todas las disposiciones legales y administrativas que se opongan a la presente Ley. Tercero.- Petróleos Mexicanos se transforma en empr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 463,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de petróleos mexicanos"
-    },
-    {
-      "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
-      "source_article": "126",
       "target_law_raw": "Ley del Sector Hidrocarburos y las demás disposiciones jurídicas",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -613,5 +583,5 @@
       "char_offset": 826
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.726530+00:00"
+  "resolved_at": "2026-03-30T12:18:47.870363+00:00"
 }

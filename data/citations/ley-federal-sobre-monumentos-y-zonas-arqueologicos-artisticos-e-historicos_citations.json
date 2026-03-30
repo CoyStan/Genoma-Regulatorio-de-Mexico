@@ -1,23 +1,8 @@
 {
   "law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-  "extracted_at": "2026-03-30T12:00:11.675443+00:00",
-  "total_citations": 50,
+  "extracted_at": "2026-03-30T12:18:23.690923+00:00",
+  "total_citations": 44,
   "citations": [
-    {
-      "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-      "source_article": "2o",
-      "target_law_raw": "reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "F 16-02-2018  El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, de acuerdo con lo que establezca el reglamento de esta Ley, organizarán o autorizarán asociaciones civiles, juntas vecinales, y uniones de campesinos como órganos auxiliares para impedir el saqueo arqueológic",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 734,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
     {
       "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "source_article": "5o",
@@ -95,21 +80,6 @@
     },
     {
       "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-      "source_article": "17",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "y Federal de Derechos de Autor. Se exceptúa la producción artesanal en lo que se estará a lo dispuesto por la Ley de la materia, y en su defecto, por el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 355,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "source_article": "48",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
       "target_law_id": "ley-federal-competencia-economica",
@@ -156,21 +126,6 @@
     {
       "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "source_article": "55",
-      "target_law_raw": "Ley Federal del Patrimonio Cultural de la Nación de 23 de diciembre de 1968",
-      "target_law_id": "ley-federal-del-trabajo",
-      "target_article": null,
-      "citation_text": "ICULO PRIMERO.- Esta ley entrará en vigor a los treinta días de su publicación en el \"Diario Oficial\" de la Federación.  ARTICULO SEGUNDO.- Se abroga la Ley Federal del Patrimonio Cultural de la Nación de 23 de diciembre de 1968, publicada en el \"Diario Oficial\" de la Federación del 16 de diciembre de 1970 y se derogan todas las disposiciones que se opongan a la presente Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 568,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-      "source_article": "55",
       "target_law_raw": "Ley Federal sobre Monumentos y Zonas Arqueológicos",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -182,51 +137,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5301204819277109,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-      "source_article": "55",
-      "target_law_raw": "Ley General de Población",
-      "target_law_id": "ley-general-educacion",
-      "target_article": null,
-      "citation_text": " entrará en vigor el día 1o. de enero de 1982.  ARTICULOS SEGUNDO A VIGESIMO NOVENO.- ..........  ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos; 160 párrafos tercero y cuarto de la Ley General de Instituciones de Crédito y Organizaciones Au",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3864,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8333333333333334,
-      "resolution_matched_alias": "ley general de educación"
-    },
-    {
-      "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-      "source_article": "55",
-      "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ro de 1982.  ARTICULOS SEGUNDO A VIGESIMO NOVENO.- ..........  ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos; 160 párrafos tercero y cuarto de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares; 106 párrafos tercero a noveno de la Ley Gen",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3899,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-      "source_article": "55",
-      "target_law_raw": "Ley General de Instituciones de Crédito y Organizaciones Auxiliares",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "O.- Se derogan los artículos 70 de la Ley General de Población; 28 de la Ley Federal de Armas de Fuego y Explosivos; 160 párrafos tercero y cuarto de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares; 106 párrafos tercero a noveno de la Ley General de Instituciones de Seguros; 53 de la Ley del Mercado de Valores; 21 último párrafo y 49 de la Ley d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3979,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
@@ -751,5 +661,5 @@
       "char_offset": 1348
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.899345+00:00"
+  "resolved_at": "2026-03-30T12:18:56.657281+00:00"
 }

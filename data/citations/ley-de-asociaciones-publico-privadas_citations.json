@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-asociaciones-publico-privadas",
-  "extracted_at": "2026-03-30T12:00:06.714043+00:00",
-  "total_citations": 60,
+  "extracted_at": "2026-03-30T12:18:18.548173+00:00",
+  "total_citations": 56,
   "citations": [
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -131,36 +131,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7789473684210526,
       "resolution_matched_alias": "código nacional de procedimientos penales"
-    },
-    {
-      "source_law": "ley-de-asociaciones-publico-privadas",
-      "source_article": "11",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "car los programas anuales en la materia, de las dependencias y entidades; el registro único de desarrolladores, en los términos en que los establezca el Reglamento de esta Ley; el registro de desarrolladores sancionados; las convocatorias a la licitación y sus modificaciones; las invitaciones a cuando menos tres personas; l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1001,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-asociaciones-publico-privadas",
-      "source_article": "12",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o-privada;  XV. Promotor: Persona que promueve, ante una instancia del sector público, un proyecto de asociación público-privada; y  XVI. Reglamento: El Reglamento de la presente Ley.  Capítulo Segundo De la Preparación e Inicio de los Proyectos  Sección Primera De la Preparación de los Proyectos",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2856,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -466,21 +436,6 @@
       "char_offset": 2445,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-asociaciones-publico-privadas",
-      "source_article": "87",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "  c) Independientemente del plazo inicial por el que se otorgue la autorización, su duración, con las prórrogas que en su caso se otorguen conforme a la ley de la materia, no podrá exceder el plazo máximo señalado por dicha ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 967,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -801,21 +756,6 @@
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
       "source_article": "143",
-      "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.  VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 38589,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-asociaciones-publico-privadas",
-      "source_article": "143",
       "target_law_raw": "Código Nacional de Procedimientos Penales",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -886,5 +826,5 @@
       "char_offset": 3147
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.447913+00:00"
+  "resolved_at": "2026-03-30T12:18:43.037628+00:00"
 }

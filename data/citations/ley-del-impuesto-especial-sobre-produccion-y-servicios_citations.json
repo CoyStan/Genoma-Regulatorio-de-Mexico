@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-  "extracted_at": "2026-03-30T12:00:09.101838+00:00",
-  "total_citations": 53,
+  "extracted_at": "2026-03-30T12:18:20.966207+00:00",
+  "total_citations": 49,
   "citations": [
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -110,21 +110,6 @@
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-      "source_article": "7o",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "e la Federación, el faltante de materias primas o de bienes en los inventarios de los contribuyentes que no cumplan con los requisitos que establezca el Reglamento de esta Ley. En este último caso, la presunción admite prueba en contrario.  Para los efectos de esta Ley, también se considera enajenación de los bienes a que h",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 266,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "8o",
       "target_law_raw": "Ley del Sistema Nacional de Información Estadística y Geográfica",
       "target_law_id": "ley-sistemas-pagos",
@@ -197,21 +182,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "código fiscal de la federación"
-    },
-    {
-      "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-      "source_article": "19",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " y en las demás disposiciones fiscales, las siguientes:  I.\tLlevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas. Asimismo, se deberán identificar las operaciones en las q",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 284,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -471,21 +441,6 @@
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "29",
-      "target_law_raw": "Reglamento de Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "al de Reforma Agraria, podrán tener derecho a la devolución del Impuesto al Valor Agregado aun cuando no lleven los libros de contabilidad que señale el Reglamento de Ley de la materia. El trámite de devolución deberá ajustarse a los requisitos que señale la Secretaría de Hacienda y Crédito Público en reglas de carácter general.  Mé",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17276,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-      "source_article": "29",
       "target_law_raw": "Ley del Impuesto sobre la Renta y TRIGESIMO OCTAVO respecto de la Ley Orgánica del Tribunal Fiscal de la Federación",
       "target_law_id": "ley-isr",
       "target_article": null,
@@ -711,21 +666,6 @@
     {
       "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "source_article": "29",
-      "target_law_raw": "Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ey de Coordinación Fiscal y Décimo Tercero de las Disposiciones Transitorias del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013 y las disposiciones que emanen de dichos ordenamientos se entenderán hecha",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 182046,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4838709677419355,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-      "source_article": "29",
       "target_law_raw": "Ley de Ingresos de la Federación a que se refiere el artículo 23 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
       "target_law_id": "unresolved",
       "target_article": "23",
@@ -796,5 +736,5 @@
       "char_offset": 10559
     }
   ],
-  "resolved_at": "2026-03-30T12:00:35.794652+00:00"
+  "resolved_at": "2026-03-30T12:18:50.456954+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-del-mar",
-  "extracted_at": "2026-03-30T12:00:11.247769+00:00",
-  "total_citations": 17,
+  "extracted_at": "2026-03-30T12:18:23.260436+00:00",
+  "total_citations": 16,
   "citations": [
     {
       "source_law": "ley-federal-del-mar",
@@ -194,21 +194,6 @@
     },
     {
       "source_law": "ley-federal-del-mar",
-      "source_article": "37",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "línea de bajamar a lo largo de la costa, cuando esta línea no se toma como base para medir el Mar Territorial de conformidad con las disposiciones en el Reglamento de la presente Ley, tal como aparezca en las cartas a gran escala reconocidas oficialmente por los Estados Unidos Mexicanos.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 231,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-del-mar",
       "source_article": "49",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -232,5 +217,5 @@
       "char_offset": 1699
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.379098+00:00"
+  "resolved_at": "2026-03-30T12:18:56.201129+00:00"
 }

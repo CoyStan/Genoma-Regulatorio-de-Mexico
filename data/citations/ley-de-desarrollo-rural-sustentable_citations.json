@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-desarrollo-rural-sustentable",
-  "extracted_at": "2026-03-30T12:00:07.093543+00:00",
-  "total_citations": 55,
+  "extracted_at": "2026-03-30T12:18:18.925241+00:00",
+  "total_citations": 53,
   "citations": [
     {
       "source_law": "ley-de-desarrollo-rural-sustentable",
@@ -708,36 +708,6 @@
     {
       "source_law": "ley-de-desarrollo-rural-sustentable",
       "source_article": "191",
-      "target_law_raw": "Ley de Distritos de Desarrollo Rural",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ción en el Diario Oficial de la Federación.  SEGUNDO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.  TERCERO. Se abroga la Ley de Distritos de Desarrollo Rural, publicada en el Diario Oficial de la Federación el 28 de enero de 1988.  CUARTO. Se abroga la Ley de Fomento Agropecuario publicada en el Diario Ofi",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2576,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6176470588235294,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-desarrollo-rural-sustentable",
-      "source_article": "191",
-      "target_law_raw": "Ley de Fomento Agropecuario",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ERCERO. Se abroga la Ley de Distritos de Desarrollo Rural, publicada en el Diario Oficial de la Federación el 28 de enero de 1988.  CUARTO. Se abroga la Ley de Fomento Agropecuario publicada en el Diario Oficial de la Federación el 2 de enero de 1981. El Fideicomiso de Riesgo Compartido mantendrá su estructura y funciones en los términos de las disposiciones hasta hoy vigentes, de sus normas const",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2708,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-desarrollo-rural-sustentable",
-      "source_article": "191",
       "target_law_raw": "Ley de Desarrollo Rural",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -778,5 +748,5 @@
       "char_offset": 4776
     }
   ],
-  "resolved_at": "2026-03-30T12:00:28.785243+00:00"
+  "resolved_at": "2026-03-30T12:18:44.249712+00:00"
 }

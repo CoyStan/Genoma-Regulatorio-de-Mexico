@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-concursos-mercantiles",
-  "extracted_at": "2026-03-30T12:00:06.966509+00:00",
-  "total_citations": 68,
+  "extracted_at": "2026-03-30T12:18:18.796720+00:00",
+  "total_citations": 63,
   "citations": [
     {
       "source_law": "ley-de-concursos-mercantiles",
@@ -336,29 +336,14 @@
       "target_law_raw": "Ley de Quiebras y de Suspensión de Pagos",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "014  TRANSITORIOS  PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abroga la Ley de Quiebras y de Suspensión de Pagos publicada en el Diario Oficial de la Federación el día 20 de abril de 1943, y se derogan o modifican todas las demás disposiciones legales que se opongan a lo dispuesto en esta Ley.  TERCERO.- Las referencias que otras leyes",
+      "citation_text": "ientos de quiebra y de suspensión de pagos que hubiesen sido iniciados con anterioridad a la entrada en vigor de esta Ley, continuarán rigiéndose por la Ley de Quiebras y de Suspensión de Pagos publicada en el Diario Oficial de la Federación el día 20 de abril de 1943.  SEXTO.- Dentro de los treinta días naturales siguientes a la entrada en vigor de la presente Ley, deberá instalarse el Instituto y dentro de los se",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 619,
+      "char_offset": 1543,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.59375,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-concursos-mercantiles",
-      "source_article": "342",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "ncisco Javier Ramírez Acuña.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  CONCURSOS MERCANTILES  ARTÍCULO VIGÉSIMO SEXTO.- Se REFORMAN los artículos ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6707,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
     },
     {
       "source_law": "ley-de-concursos-mercantiles",
@@ -456,11 +441,11 @@
       "target_law_raw": "Ley Federal de Extinción de Dominio",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
-      "citation_text": "r al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. A partir de la entrada en vigor del presente Decreto, se abroga la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, así como las leyes de extinción de dominio de las Entidad",
+      "citation_text": "rán armonizar su legislación respectiva con el presente Decreto.  Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 17588,
+      "char_offset": 18250,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
@@ -494,66 +479,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-concursos-mercantiles",
-      "source_article": "342",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman la Ley Orgánica de la Administración Pública Federal, la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y, el Artículo Séptimo Transitorio del Decreto por el que se expide",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 24612,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-concursos-mercantiles",
-      "source_article": "342",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26831,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-concursos-mercantiles",
-      "source_article": "342",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "men Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26872,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-de-concursos-mercantiles",
-      "source_article": "342",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 26900,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-concursos-mercantiles",
@@ -988,5 +913,5 @@
       "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-03-30T12:00:28.013248+00:00"
+  "resolved_at": "2026-03-30T12:18:43.545898+00:00"
 }

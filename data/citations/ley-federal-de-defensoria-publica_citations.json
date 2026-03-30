@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-defensoria-publica",
-  "extracted_at": "2026-03-30T12:00:10.302596+00:00",
-  "total_citations": 59,
+  "extracted_at": "2026-03-30T12:18:22.242800+00:00",
+  "total_citations": 55,
   "citations": [
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -104,36 +104,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
-    },
-    {
-      "source_law": "ley-federal-de-defensoria-publica",
-      "source_article": "39",
-      "target_law_raw": "Ley Federal de Defensoría Pública y las reformas a la Ley Orgánica del Poder Judicial de la Federación",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ión, y su conocimiento, será de la exclusiva competencia del Consejo de la Judicatura Federal.  ARTÍCULO SEGUNDO.- ..........  TRANSITORIOS  PRIMERO. La Ley Federal de Defensoría Pública y las reformas a la Ley Orgánica del Poder Judicial de la Federación, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO. Se abroga la Ley de la Defensoría de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 421,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-defensoria-publica",
-      "source_article": "39",
-      "target_law_raw": "Ley de la Defensoría de Oficio Federal",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Judicial de la Federación, entrarán en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO. Se abroga la Ley de la Defensoría de Oficio Federal, publicada en el Diario Oficial de la Federación el día 9 de febrero de 1922.  TERCERO. Todos los recursos humanos y materiales adscritos a la Unidad",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 650,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -246,11 +216,11 @@
       "target_law_raw": "Ley Federal de Justicia para Adolescentes y se adiciona la Ley Orgánica del Poder Judicial de la Federación",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
-      "citation_text": "de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforma el artículo primero transitorio del Decreto por el que se expide la Ley Federal de Justicia para Adolescentes y se adiciona la Ley Orgánica del Poder Judicial de la Federación, se reforma la Ley Orgánica de la Administración Pública Federal, se adiciona la Ley Orgánica de la Procuraduría General de la República y se reforma",
+      "citation_text": "ario Oficial de la Federación el 24 de diciembre de 2014  Artículo Único. Se reforma el Artículo Primero Transitorio del Decreto por el que se expide la Ley Federal de Justicia para Adolescentes y se adiciona la Ley Orgánica del Poder Judicial de la Federación, se reforma la Ley Orgánica de la Administración Pública Federal, se adiciona la Ley Orgánica de la Procuraduría General de la República y se reforma",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 8603,
+      "char_offset": 9109,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
@@ -434,36 +404,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-federal-de-defensoria-publica",
-      "source_article": "39",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "enero de dos mil veintidós.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 54166,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-federal-de-defensoria-publica",
-      "source_article": "39",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 54194,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -883,5 +823,5 @@
       "char_offset": 2333
     }
   ],
-  "resolved_at": "2026-03-30T12:00:39.299234+00:00"
+  "resolved_at": "2026-03-30T12:18:53.530311+00:00"
 }

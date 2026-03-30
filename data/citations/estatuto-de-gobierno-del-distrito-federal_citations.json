@@ -1,7 +1,7 @@
 {
   "law_id": "estatuto-de-gobierno-del-distrito-federal",
-  "extracted_at": "2026-03-30T12:00:06.135404+00:00",
-  "total_citations": 89,
+  "extracted_at": "2026-03-30T12:18:17.938285+00:00",
+  "total_citations": 83,
   "citations": [
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -155,21 +155,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "estatuto-de-gobierno-del-distrito-federal",
-      "source_article": "15",
-      "target_law_raw": "ley federal de la materia en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ito Federal, salvo las de los servidores de los tribunales encargados de la función judicial del fuero común en el Distrito Federal, se regularán por la ley federal de la materia en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos. Artículo reformado DOF 04-12-1997  TITULO SEGUNDO DE LOS DERECHOS Y OBLIGACIONES DE CARACTER PUBLICO  CAPITULO I DE LOS DERECHOS Y OBLIGACIONES DE L",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 245,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -588,21 +573,6 @@
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "67",
-      "target_law_raw": "ley general de la materia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "urales protegidas de competencia federal;  b) El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones de la ley general de la materia;  c) La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal; y  d) Las demás prev",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7006,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "estatuto-de-gobierno-del-distrito-federal",
-      "source_article": "67",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "",
@@ -674,21 +644,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 176
-    },
-    {
-      "source_law": "estatuto-de-gobierno-del-distrito-federal",
-      "source_article": "82",
-      "target_law_raw": "ley federal de la materia",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y de la ley federal de la materia.  En la ratificación de magistrados intervendrán las mismas autoridades y se seguirán las mismas formalidades que para su designación. Párrafo adicio",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 256,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -817,21 +772,6 @@
       "char_offset": 179,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.7272727272727273,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "estatuto-de-gobierno-del-distrito-federal",
-      "source_article": "108",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o, observando lo dispuesto en el párrafo anterior.  Las sanciones distintas a la remoción serán aplicadas conforme a las disposiciones conducentes de la ley de la materia.  Los Jefes Delegacionales deberán observar y hacer cumplir las resoluciones que emitan el Jefe de Gobierno, la Asamblea Legislativa, el Tribunal Sup",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2623,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -1080,21 +1020,6 @@
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "145",
-      "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": " Moctezuma Barragán.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones del Estatuto de Gobierno del Distrito Federal y de la Ley Federal de Responsabilidades de los Servidores Públicos.  Publicado en el Diario Oficial de la Federación el 12 de diciembre de 1995  ARTICULO PRIMERO.- Se reforman los artículos 77, 83, 84, 85, y se adici",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13060,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "estatuto-de-gobierno-del-distrito-federal",
-      "source_article": "145",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación",
       "target_law_id": "lopjf",
       "target_article": null,
@@ -1106,21 +1031,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
-    },
-    {
-      "source_law": "estatuto-de-gobierno-del-distrito-federal",
-      "source_article": "145",
-      "target_law_raw": "Ley General del Sistema de Medios de Impugnación",
-      "target_law_id": "ley-federal-anticorrupcion",
-      "target_article": null,
-      "citation_text": "to Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Estatuto de Gobierno del Distrito Federal; y se expide la Ley General del Sistema de Medios de Impugnación en Materia Electoral.  Publicado en el Diario Oficial de la Federación el 22 de noviembre de 1996  ARTICULOS TRANSITORIOS DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 15243,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -1210,5 +1120,5 @@
       "char_offset": 1308
     }
   ],
-  "resolved_at": "2026-03-30T12:00:25.171919+00:00"
+  "resolved_at": "2026-03-30T12:18:41.108285+00:00"
 }

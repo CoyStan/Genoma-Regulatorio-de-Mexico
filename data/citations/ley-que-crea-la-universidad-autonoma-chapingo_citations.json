@@ -1,7 +1,7 @@
 {
   "law_id": "ley-que-crea-la-universidad-autonoma-chapingo",
-  "extracted_at": "2026-03-30T12:00:14.789902+00:00",
-  "total_citations": 10,
+  "extracted_at": "2026-03-30T12:18:26.948973+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
@@ -102,36 +102,6 @@
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "16",
-      "target_law_raw": "Ley de los Trabajadores al Servicio del Estado",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "RTO.- La Universidad reconocerá los derechos adquiridos por el personal que ha prestado sus servicios a la Escuela Nacional de Agricultura conforme a la Ley de los Trabajadores al Servicio del Estado Reglamentaria del Apartado \"B\" del Artículo 123 Constitucional. Artículo reformado DOF 30-12-1977  QUINTO.- Se abroga la Ley de Educación Agrícola de 1946 y se derogan todas las disposiciones que se opongan a la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2036,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
-      "source_article": "16",
-      "target_law_raw": "Ley de Educación Agrícola de 1946 y se derogan todas las disposiciones que se opongan a la presente Ley",
-      "target_law_id": "ley-general-educacion",
-      "target_article": null,
-      "citation_text": "ajadores al Servicio del Estado Reglamentaria del Apartado \"B\" del Artículo 123 Constitucional. Artículo reformado DOF 30-12-1977  QUINTO.- Se abroga la Ley de Educación Agrícola de 1946 y se derogan todas las disposiciones que se opongan a la presente Ley.  México, D. F., a 21 de diciembre de 1974.- Víctor Cervera Pacheco, D. P.- Francisco Luna Kan, S. P.- José Octavio Ferrer Guzmán, D. S.- Carlos Pére",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2204,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de educación"
-    },
-    {
-      "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
-      "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -142,5 +112,5 @@
       "char_offset": 2542
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.092056+00:00"
+  "resolved_at": "2026-03-30T12:19:02.949036+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-  "extracted_at": "2026-03-30T12:00:14.177627+00:00",
-  "total_citations": 58,
+  "extracted_at": "2026-03-30T12:18:26.324405+00:00",
+  "total_citations": 50,
   "citations": [
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
@@ -29,21 +29,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de seguridad social para los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "2",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "minos de la normatividad correspondiente;  XVI. Preparar, ejercitar la acción y ser parte en el procedimiento de extinción de dominio, en términos de la ley de la materia;  XVII. Promover la participación de la ciudadanía en los programas de su competencia;  XVIII. Realizar estudios, formular lineamientos y ejecutar es",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3641,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
@@ -86,21 +71,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "código de procedimientos civiles federal"
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "3",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ", no obstante haber sido citado en tres ocasiones, con un espacio de 15 días hábiles, entre una y otra citación; y,  f)\tEn los demás casos que prevea el Reglamento de esta Ley.  Esta determinación, será impugnable a través del Recurso de Inconformidad, cuya tramitación habrá de preverse en el Reglamento.  XVI. Determinar el",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3839,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
@@ -187,21 +157,6 @@
       "char_offset": 2720,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "14",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ón del monto de su reparación;  VI. Promover el acuerdo de conciliación y las demás formas alternativas de solución de los conflictos, en términos de la ley de la materia;  VII. Solicitar las medidas cautelares cuando la audiencia a que se refiere los párrafos cuarto y quinto del artículo 28 de la Ley de Justicia para ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1315,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -455,21 +410,6 @@
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "44",
-      "target_law_raw": "reglamento de esta ley establecerá el número de unidades administrativas y órganos desconcentrados de la Procuraduría",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 44. (Adscripción de unidades administrativas). El reglamento de esta ley establecerá el número de unidades administrativas y órganos desconcentrados de la Procuraduría, las atribuciones de cada una de ellas y la forma en que sus titulares serán suplidos en sus ausencias, con base en la especialización necesaria y ap",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 56,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.43636363636363634,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
       "source_article": "45",
       "target_law_raw": "Ley que resulte",
       "target_law_id": "unresolved",
@@ -512,21 +452,6 @@
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "51",
-      "target_law_raw": "reglamento de esta ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "III. Aplicar las evaluaciones de Conocimientos Generales y de Competencias Profesionales; y,  IX. Las demás que le confieran las normas contenidas en el reglamento de esta ley y demás disposiciones aplicables.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2009,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
       "source_article": "52",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
       "target_law_id": "ley-federal-anticorrupcion",
@@ -551,21 +476,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 1087
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "53",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "II. Sugerir el diseño, desarrollo y funcionamiento del Servicio Profesional de Carrera de la Institución, en los términos de las normas contenidas en el Reglamento de esta Ley y demás disposiciones legales aplicables;  IV. Opinar acerca de los planes y programas de estudio para la formación inicial o básica, permanencia, promoción y especialización de los servidor",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 675,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
@@ -623,21 +533,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 235
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "69",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o árbitro;  V. Conocer de los asuntos en los que tenga interés personal, salvo lo dispuesto en la fracción II; y  VI. Las demás que se establezcan en el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1421,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
@@ -798,21 +693,6 @@
     {
       "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
       "source_article": "84",
-      "target_law_raw": "Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal y el Código de Procedimientos Civiles para el Distrito Federal",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ía de Procesos en Juzgados de Delitos No Graves, de conformidad con lo dispuesto en el artículo quinto transitorio del Decreto por el que se reforma la Ley Orgánica del Tribunal Superior de Justicia del Distrito Federal y el Código de Procedimientos Civiles para el Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el 18 de marzo de 2011.  México, D.F., a 29 de abril de 2011.- Dip. Jorge Carlos Ramírez Marín, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1434,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
-      "source_article": "84",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -823,5 +703,5 @@
       "char_offset": 1945
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.764351+00:00"
+  "resolved_at": "2026-03-30T12:19:01.716010+00:00"
 }

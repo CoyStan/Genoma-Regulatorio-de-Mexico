@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-militar-de-procedimientos-penales",
-  "extracted_at": "2026-03-30T12:00:05.394043+00:00",
-  "total_citations": 53,
+  "extracted_at": "2026-03-30T12:18:17.145585+00:00",
+  "total_citations": 50,
   "citations": [
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
@@ -206,21 +206,6 @@
     },
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
-      "source_article": "48",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "el principio de presunción de inocencia o los derechos a la privacidad o a la intimidad de las partes, o bien, se encuentre expresamente prohibido en la ley de la materia.  El Órgano jurisdiccional militar autorizará la expedición de copias de los contenidos de las carpetas digitales o de la parte de ellos que le fuere",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 585,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-militar-de-procedimientos-penales",
       "source_article": "73",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -230,21 +215,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 192
-    },
-    {
-      "source_law": "codigo-militar-de-procedimientos-penales",
-      "source_article": "84",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "n que por sistema se confirme que recibió el archivo electrónico correspondiente.  Asimismo, podrá notificarse mediante otros sistemas autorizados en la ley de la materia, siempre que no causen indefensión. También podrá notificarse por correo certificado y el plazo correrá a partir del día siguiente hábil en que fue r",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 281,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
@@ -645,21 +615,6 @@
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
       "source_article": "451",
-      "target_law_raw": "Ley de la Guardia Nacional",
-      "target_law_id": "ley-aguas-nacionales",
-      "target_article": null,
-      "citation_text": "ios  Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.  Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 27308,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8163265306122449,
-      "resolution_matched_alias": "ley de aguas nacionales"
-    },
-    {
-      "source_law": "codigo-militar-de-procedimientos-penales",
-      "source_article": "451",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -730,5 +685,5 @@
       "char_offset": 593
     }
   ],
-  "resolved_at": "2026-03-30T12:00:22.798229+00:00"
+  "resolved_at": "2026-03-30T12:18:39.008529+00:00"
 }

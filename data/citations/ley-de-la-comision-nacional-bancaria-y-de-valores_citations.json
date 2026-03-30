@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-  "extracted_at": "2026-03-30T12:00:08.040521+00:00",
-  "total_citations": 98,
+  "extracted_at": "2026-03-30T12:18:19.861483+00:00",
+  "total_citations": 91,
   "citations": [
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
@@ -267,21 +267,6 @@
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "source_article": "21",
-      "target_law_raw": "Ley de Instituciones de Crédito",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "0-06-2005  TRANSITORIOS  PRIMERO.- La presente Ley entrará en vigor el 1o. de mayo de 1995.  SEGUNDO.- Se derogan el Capítulo I del Título Séptimo de la Ley de Instituciones de Crédito; los artículos 40, 41 fracciones I, II, III, IV, VI a VIII, XI a XXII y último párrafo y 42 a 46 de la Ley del Mercado de Valores, y la fracción V de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1960,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
       "target_law_raw": "Ley de Sociedades de Inversión",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -522,36 +507,6 @@
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "source_article": "21",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8469,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8640,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -732,21 +687,6 @@
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "source_article": "21",
-      "target_law_raw": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Institucione",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11009,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
       "target_law_raw": "Ley General de Instituciones y Sociedades Mutualistas de Seguros",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -758,21 +698,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
-      "target_law_raw": "Ley del Mercado de Valores y de la Ley de la Comisión Nacional Bancaria y de Valores",
-      "target_law_id": "ley-mercado-valores",
-      "target_article": null,
-      "citation_text": ".- El Secretario de Gobernación, Francisco Labastida Ochoa.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Mercado de Valores y de la Ley de la Comisión Nacional Bancaria y de Valores.  Publicado en el Diario Oficial de la Federación el 1º de junio de 2001  ARTICULO TERCERO.- Se REFORMAN los artículos 3, fracción IV, 4, fracciones ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12328,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del mercado de valores"
     },
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
@@ -852,17 +777,17 @@
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "source_article": "21",
-      "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
+      "target_law_raw": "Ley del Mercado de Valores y de la Ley de la Comisión Nacional Bancaria y de Valores",
+      "target_law_id": "ley-mercado-valores",
       "target_article": null,
-      "citation_text": "ril de dos mil cinco.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se abroga la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, publicada el 26 de enero de 2004, se expide la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y se reforman, adicionan y dero",
+      "citation_text": " párrafo al artículo décimo primero transitorio del decreto publicado el 1 de junio de 2001 y reforman, adicionan y derogan diversas disposiciones de la Ley del Mercado de Valores y de la Ley de la Comisión Nacional Bancaria y de Valores.  Publicado en el Diario Oficial de la Federación el 23 de enero de 2004  Artículo Unico.- Se adiciona un segundo párrafo al artículo décimo primero ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 22909,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
+      "char_offset": 20436,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley del mercado de valores"
     },
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
@@ -897,17 +822,17 @@
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "source_article": "21",
-      "target_law_raw": "Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes",
-      "target_law_id": "lgtaip",
+      "target_law_raw": "Ley de Instituciones de Crédito",
+      "target_law_id": "ley-instituciones-credito",
       "target_article": null,
-      "citation_text": "cieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004.  ARTÍCULO SEXTO.- Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:  I.\tLos artículos 3, fracción I, 10 y 16 primer párrafo.  II.\tEl artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entida",
+      "citation_text": "presente decreto, a efecto de adecuarse a las disposiciones del mismo.  ARTÍCULO CUARTO.- Para los efectos de lo dispuesto en el artículo 48 Bis 2 de la Ley de Instituciones de Crédito, el Banco de México dispondrá de treinta días a partir de la entrada en vigor del presente decreto, para emitir las disposiciones de carácter general",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 24962,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de transparencia"
+      "char_offset": 24490,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de instituciones de crédito"
     },
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
@@ -942,36 +867,6 @@
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "source_article": "21",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " por el Artículo SEXTO del presente Decreto al Artículo Séptimo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.  TERCERO.- En tanto la Comisión Nacional Bancaria y de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 32943,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5396825396825397,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "jandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  SANCIONES E INVERSIÓN EXTRANJERA  ARTÍCULO CUADRAGÉSIMO PRIMERO.- Se REFORM",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 36306,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
       "target_law_raw": "Ley sobre el Contrato de Seguro",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -982,6 +877,36 @@
       "char_offset": 37620,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5925925925925926,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "source_article": "21",
+      "target_law_raw": "Ley General de Organizaciones y Actividades Auxiliares del Crédito",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "de Tecnología Financiera y se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 39835,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "source_article": "21",
+      "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley pa",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 39909,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.546875,
       "resolution_matched_alias": null
     },
     {
@@ -1002,6 +927,21 @@
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "source_article": "21",
+      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
+      "target_law_id": "ley-fintech",
+      "target_article": null,
+      "citation_text": "nancieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Proc",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 40122,
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
+    },
+    {
+      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "source_article": "21",
       "target_law_raw": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
       "target_law_id": "ley-prevencion-lavado-dinero",
       "target_article": null,
@@ -1013,51 +953,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 41474,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "ús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 41515,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "source_article": "21",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 41543,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
@@ -1462,5 +1357,5 @@
       "char_offset": 6142
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.427441+00:00"
+  "resolved_at": "2026-03-30T12:18:47.557970+00:00"
 }

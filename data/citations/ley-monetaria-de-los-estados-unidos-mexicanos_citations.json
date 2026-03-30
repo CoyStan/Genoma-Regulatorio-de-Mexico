@@ -1,7 +1,7 @@
 {
   "law_id": "ley-monetaria-de-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-03-30T12:00:13.840994+00:00",
-  "total_citations": 14,
+  "extracted_at": "2026-03-30T12:18:25.943743+00:00",
+  "total_citations": 13,
   "citations": [
     {
       "source_law": "ley-monetaria-de-los-estados-unidos-mexicanos",
@@ -126,36 +126,6 @@
     {
       "source_law": "ley-monetaria-de-los-estados-unidos-mexicanos",
       "source_article": "15",
-      "target_law_raw": "Ley Orgánica del Banco de México del 21 de diciembre de 1984",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": ", o a este último, la referencia se entenderá hecha a la presente Ley y a la Institución que ésta regula, respectivamente.  DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.  Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 59802,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-monetaria-de-los-estados-unidos-mexicanos",
-      "source_article": "15",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "pectivamente.  DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.  Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de In",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 59911,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-monetaria-de-los-estados-unidos-mexicanos",
-      "source_article": "15",
       "target_law_raw": "Ley de Instituciones de Crédito",
       "target_law_id": "ley-instituciones-credito",
       "target_article": null,
@@ -186,6 +156,21 @@
     {
       "source_law": "ley-monetaria-de-los-estados-unidos-mexicanos",
       "source_article": "15",
+      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
+      "target_law_id": "loapf",
+      "target_article": null,
+      "citation_text": "siciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artícu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 60360,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+    },
+    {
+      "source_law": "ley-monetaria-de-los-estados-unidos-mexicanos",
+      "source_article": "15",
       "target_law_raw": "Ley en comento",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -211,5 +196,5 @@
       "char_offset": 2878
     }
   ],
-  "resolved_at": "2026-03-30T12:00:47.893641+00:00"
+  "resolved_at": "2026-03-30T12:19:00.905023+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
-  "extracted_at": "2026-03-30T12:00:13.640400+00:00",
-  "total_citations": 45,
+  "extracted_at": "2026-03-30T12:18:25.722450+00:00",
+  "total_citations": 44,
   "citations": [
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -594,21 +594,6 @@
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "100",
-      "target_law_raw": "Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "sitorios  Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abrogan la Ley de Ciencia y Tecnología y la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, ambas publicadas en el Diario Oficial de la Federación el 5 de junio de 2002.  Tercero. Se derogan todas aquellas disposiciones que se opongan a la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 889,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5030674846625767,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
-      "source_article": "100",
       "target_law_raw": "Ley de Ciencia y Tecnología o a la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -649,5 +634,5 @@
       "char_offset": 8794
     }
   ],
-  "resolved_at": "2026-03-30T12:00:47.380050+00:00"
+  "resolved_at": "2026-03-30T12:19:00.413460+00:00"
 }

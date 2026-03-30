@@ -1,7 +1,7 @@
 {
   "law_id": "ley-nacional-de-ejecucion-penal",
-  "extracted_at": "2026-03-30T12:00:13.883169+00:00",
-  "total_citations": 38,
+  "extracted_at": "2026-03-30T12:18:25.992481+00:00",
+  "total_citations": 37,
   "citations": [
     {
       "source_law": "ley-nacional-de-ejecucion-penal",
@@ -14,21 +14,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 530
-    },
-    {
-      "source_law": "ley-nacional-de-ejecucion-penal",
-      "source_article": "2",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "onas sujetas a prisión preventiva o sentenciadas por delincuencia organizada, debe estarse además a las excepciones previstas en la Constitución y en la ley de la materia.  En lo conducente y para la aplicación de esta Ley deben atenderse también los estándares internacionales.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 702,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-nacional-de-ejecucion-penal",
@@ -526,5 +511,5 @@
       "char_offset": 1685
     }
   ],
-  "resolved_at": "2026-03-30T12:00:47.952768+00:00"
+  "resolved_at": "2026-03-30T12:19:00.968738+00:00"
 }

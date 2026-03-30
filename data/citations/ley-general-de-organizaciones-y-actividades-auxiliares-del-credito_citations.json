@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-  "extracted_at": "2026-03-30T12:00:12.590443+00:00",
-  "total_citations": 106,
+  "extracted_at": "2026-03-30T12:18:24.610270+00:00",
+  "total_citations": 99,
   "citations": [
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -719,21 +719,6 @@
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "87-K",
-      "target_law_raw": "Ley para Regular las Sociedades de Información Crediticia en atención a lo previsto por el artículo 87-C Bis de esta Ley",
-      "target_law_id": "ley-fintech",
-      "target_article": "87-C",
-      "citation_text": "r actualizada la información que deba proporcionarse en términos de esta Ley, la de Protección y Defensa de los Usuarios de Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia en atención a lo previsto por el artículo 87-C Bis de esta Ley, y de las disposiciones que de ellas emanen;  b)\tEn forma reiterada, aquellas sociedades a las que les resulte aplicable incumplan con las disposicio",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2847,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "87-L",
       "target_law_raw": "Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado otorga a la Comisión Nacional Bancaria y de Valores",
       "target_law_id": "lgtaip",
@@ -963,29 +948,14 @@
       "target_law_raw": "Ley General de Instituciones de Crédito y Organizaciones Auxiliares",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": "ITORIOS  Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se deroga la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, publicada en el Diario Oficial de la Federación el 31 de mayo de 1941, en lo conducente a organizaciones auxiliares de crédito y a la actividad de p",
+      "citation_text": "oneda nacional.  Quinto.- Para el trámite de las infracciones relacionadas con organizaciones auxiliares del crédito cometidas durante la vigencia de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, se seguirá observando lo dispuesto por los textos anteriormente aplicables de esta Ley.  Sexto.- Las organizaciones auxiliares del crédito, deberán ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 281,
+      "char_offset": 2417,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "103",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "ANSITORIOS DE DECRETOS DE REFORMA A partir del 23 de diciembre de 1993  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4219,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1008,11 +978,11 @@
       "target_law_raw": "Ley de Instituciones de Crédito",
       "target_law_id": "ley-instituciones-credito",
       "target_article": null,
-      "citation_text": "io de Gobernación, José Patrocinio González Blanco Garrido.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito, Ley del Mercado de Valores, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley General de Instituciones y Sociedades Mutualista",
+      "citation_text": "ia del presente Decreto.  TERCERO.- Las instituciones de crédito deberán establecer las unidades especializadas a que se refiere el artículo 118-B de la Ley de Instituciones de Crédito, en un plazo máximo de noventa días contado a partir del inicio de la vigencia del presente Decreto.  CUARTO.- Las reclamaciones presentadas por los ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 12234,
+      "char_offset": 13605,
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de instituciones de crédito"
@@ -1023,11 +993,11 @@
       "target_law_raw": "Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "o por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir del inicio de la vigencia del mismo.  SEPTIMO.- Se abroga la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, publicada en el Diario Oficial de la Federación de fecha 31 de diciembre de 1959; sin embargo, seguirá siendo aplicable en lo referente a las infrac",
+      "citation_text": "nte a las infracciones y faltas que se hubiesen cometido durante la vigencia del referido ordenamiento.  OCTAVO.- Las disposiciones del Reglamento de la Ley sobre el Servicio de Vigilancia de Fondos y Valores de la Federación, continuarán vigentes en tanto no se reforme, en lo conducente, el Reglamento de la Ley del Servicio de Tesorería de la Federación.  NOVENO.- Lo disp",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 15376,
+      "char_offset": 15735,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5833333333333334,
       "resolution_matched_alias": null
@@ -1118,21 +1088,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "3o",
-      "target_law_raw": "Ley de Instituciones de Crédito",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "e Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Socied",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1655,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de instituciones de crédito"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1272,17 +1227,17 @@
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "3o",
-      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_raw": "Ley de Instituciones de Crédito",
+      "target_law_id": "ley-instituciones-credito",
       "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, del Código de Comercio, de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Instituciones y Sociedades Mut",
+      "citation_text": " por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito, del Código de Comercio, de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, de la Ley Federal de Instituciones de Fian",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 24928,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
+      "char_offset": 25007,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de instituciones de crédito"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1298,6 +1253,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
+    },
+    {
+      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+      "source_article": "3o",
+      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "ículo 5 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, se sujetarán a las disposiciones aplicables a dichas operaciones de la Ley General de Títulos y Operaciones de Crédito. A dichas personas no les será aplicable el régimen que la Ley General de Organizaciones y Actividades Auxiliares del Crédito prevé para las arrendad",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 32578,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1362,36 +1332,6 @@
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "3o",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ado en el Diario Oficial de la Federación el 27 de enero de 2003, así como en el Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicadas en el mismo Diario el 27 de mayo de 2005.  DÉCIMO QUINTO.- Las sociedades financieras de objeto múltiple se reputan intermediarios financieros rurales para los efectos de la Ley Orgánica de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 49770,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3875,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "3o",
-      "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dos mil seis.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.   DECRETO por el que se abroga la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, publicada el 26 de enero de 2004, se expide la Ley para la Transparencia y Ordenamiento de los Servicios Financieros y se reforman, adicionan y dero",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 51880,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.546875,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "3o",
       "target_law_raw": "Ley de Protección y Defensa al Usuario de Servicios Financieros y la Ley de la Comisión Nacional Bancaria y de Valores",
       "target_law_id": "ley-federal-proteccion-consumidor",
       "target_article": null,
@@ -1403,36 +1343,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de protección al consumidor"
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "3o",
-      "target_law_raw": "Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes",
-      "target_law_id": "lgtaip",
-      "target_article": null,
-      "citation_text": "cieros publicada en el Diario Oficial de la Federación el 26 de enero de 2004.  ARTÍCULO SEXTO.- Al entrar en vigor el presente Decreto se derogan de la Ley de Transparencia y de Fomento a la Competencia en el Crédito Garantizado los preceptos legales siguientes:  I.\tLos artículos 3, fracción I, 10 y 16 primer párrafo.  II.\tEl artículo 4. Sin perjuicio de lo anterior continuarán en vigor, respecto de la Entida",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 53734,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de transparencia"
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "3o",
-      "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "z Acuña.- Rúbrica.   DECRETO por el que se reforman diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Socie",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 57221,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1467,21 +1377,6 @@
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
       "source_article": "3o",
-      "target_law_raw": "Ley de Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Oficial de la Federación aquéllas autorizaciones que conforme a este artículo queden sin efecto.  Décimo.- Se deroga la fracción IV del artículo 6 de la Ley de Inversión Extranjera.  México, D.F., a 30 de abril de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Gabino Cué Monteagudo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 65686,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "3o",
       "target_law_raw": "Ley General de Títulos y Operaciones de Crédito",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -1493,6 +1388,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+      "source_article": "3o",
+      "target_law_raw": "Ley para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "de la Ley de Instituciones de Crédito, de la Ley del Mercado de Valores, de la Ley General de Organizaciones y Actividades Auxiliares del Crédito, de la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley pa",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 88664,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.546875,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1523,21 +1433,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
-      "source_article": "3o",
-      "target_law_raw": "Ley General de Títulos y Operaciones de Crédito y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": ".- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Títulos y Operaciones de Crédito y de la Ley General de Organizaciones y Actividades Auxiliares del Crédito.  Publicado en el Diario Oficial de la Federación el 26 de marzo de 2024  Artículo Segundo.- Se reforman los artículos 11 Bis, párrafos primero, actu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 92907,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
@@ -1582,5 +1477,5 @@
       "char_offset": 923
     }
   ],
-  "resolved_at": "2026-03-30T12:00:45.036004+00:00"
+  "resolved_at": "2026-03-30T12:18:58.521278+00:00"
 }

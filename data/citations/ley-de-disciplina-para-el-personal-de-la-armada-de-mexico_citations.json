@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
-  "extracted_at": "2026-03-30T12:00:07.170013+00:00",
-  "total_citations": 4,
+  "extracted_at": "2026-03-30T12:18:19.003347+00:00",
+  "total_citations": 2,
   "citations": [
     {
       "source_law": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
@@ -20,36 +20,6 @@
     },
     {
       "source_law": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
-      "source_article": "7",
-      "target_law_raw": "reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Los cargos o comisiones que le sean encomendados por los mandos facultados le exige e impone el cumplimiento de los deberes y funciones que establece el reglamento de la presente Ley, los manuales de organización, procedimientos sistemáticos de operación y demás disposiciones aplicables.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 508,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
-      "source_article": "80",
-      "target_law_raw": "Ley de Disciplina de la Armada de México",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ANSITORIOS  Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo.- Se abroga la Ley de Disciplina de la Armada de México, publicada en el Diario Oficial de la Federación con fecha 26 de diciembre de 1978.  México, D.F., a 31 de octubre de 2002.- Sen. Enrique Jackson Ram",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 416,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
       "source_article": "80",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -61,5 +31,5 @@
       "char_offset": 832
     }
   ],
-  "resolved_at": "2026-03-30T12:00:29.215633+00:00"
+  "resolved_at": "2026-03-30T12:18:44.615557+00:00"
 }

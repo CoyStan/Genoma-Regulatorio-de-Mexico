@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
-  "extracted_at": "2026-03-30T12:00:12.374235+00:00",
-  "total_citations": 18,
+  "extracted_at": "2026-03-30T12:18:24.387355+00:00",
+  "total_citations": 16,
   "citations": [
     {
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
@@ -101,21 +101,6 @@
     },
     {
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
-      "source_article": "22",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 22. Las personas productoras y distribuidoras de alimentos deberán proveer, en los términos que establezca el Reglamento de esta Ley, la información que se les solicite en cuanto a los insumos o procesos que utilicen para generar sus productos o servicios, sin perjuicio de lo dispu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 116,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
       "source_article": "33",
       "target_law_raw": "Ley Federal de Competencia Económica",
       "target_law_id": "ley-federal-competencia-economica",
@@ -203,21 +188,6 @@
     },
     {
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
-      "source_article": "93",
-      "target_law_raw": "Reglamento de esta Ley determinará la forma y condiciones en que se convocarán y desarrollarán estas reuniones",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ón de problemas alimentarios, así como para el desarrollo, ejecución, supervisión y valoración de políticas agroalimentarias nacionales y regionales. El Reglamento de esta Ley determinará la forma y condiciones en que se convocarán y desarrollarán estas reuniones.  En estas reuniones, se tratarán los avances que se han tenido en materia de ejercicio del derecho a la alimentación adecuada, los retos a superar, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 366,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3850267379679144,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
       "source_article": "107",
       "target_law_raw": "Ley General de Responsabilidades Administrativas",
       "target_law_id": "ley-responsabilidades-administrativas",
@@ -259,5 +229,5 @@
       "char_offset": 3144
     }
   ],
-  "resolved_at": "2026-03-30T12:00:44.529293+00:00"
+  "resolved_at": "2026-03-30T12:18:58.096169+00:00"
 }

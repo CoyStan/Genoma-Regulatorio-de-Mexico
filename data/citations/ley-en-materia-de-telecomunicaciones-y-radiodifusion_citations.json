@@ -1,7 +1,7 @@
 {
   "law_id": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
-  "extracted_at": "2026-03-30T12:00:10.121154+00:00",
-  "total_citations": 61,
+  "extracted_at": "2026-03-30T12:18:22.048976+00:00",
+  "total_citations": 60,
   "citations": [
     {
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
@@ -446,21 +446,6 @@
     },
     {
       "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
-      "source_article": "100",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "isa. Cada una de las partes cubrirá la mitad de los gastos que se originen por el peritaje. Los derechos de los trabajadores se respetarán conforme a la ley de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1549,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "source_article": "102",
       "target_law_raw": "Ley Federal de Protección al Consumidor",
       "target_law_id": "ley-federal-proteccion-consumidor",
@@ -853,5 +838,5 @@
       "char_offset": 641
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.894411+00:00"
+  "resolved_at": "2026-03-30T12:18:53.160068+00:00"
 }

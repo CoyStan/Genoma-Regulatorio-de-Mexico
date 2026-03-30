@@ -1,6 +1,6 @@
 # Genoma Regulatorio de México — Diagnóstico Estructural
 
-_Generado: 2026-03-30T12:01:56.067529+00:00_
+_Generado: 2026-03-30T12:19:09.151505+00:00_
 
 ---
 
@@ -11,19 +11,19 @@ _(Citas a leyes abrogadas o desconocidas: 0 encontradas)_
 ## 2. Leyes Más Centrales (Columnas Vertebrales del Sistema)
 _(Ordenadas por PageRank — mayor valor = mayor importancia estructural)_
 
-1. **Constitución Política de los Estados Unidos Mexicanos (CPEUM)** — PageRank: 0.0847, citada por 316 leyes, impacto en cascada: 317 leyes
-2. **Ley Federal de Competencia Económica (LFCE)** — PageRank: 0.0326, citada por 220 leyes, impacto en cascada: 230 leyes
-3. **Ley General de Sociedades Mercantiles (LGSM)** — PageRank: 0.0294, citada por 205 leyes, impacto en cascada: 230 leyes
-4. **Ley de Petróleos Mexicanos (LPEMEX)** — PageRank: 0.0265, citada por 169 leyes, impacto en cascada: 205 leyes
-5. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — PageRank: 0.0174, citada por 119 leyes, impacto en cascada: 177 leyes
-6. **Ley General de Educación (LGE)** — PageRank: 0.0168, citada por 109 leyes, impacto en cascada: 169 leyes
-7. **Ley Federal de Procedimiento Administrativo (LFPA)** — PageRank: 0.0153, citada por 94 leyes, impacto en cascada: 111 leyes
-8. **Código Nacional de Procedimientos Penales (CNPP)** — PageRank: 0.0143, citada por 103 leyes, impacto en cascada: 108 leyes
-9. **LEY Federal del Trabajo (LFT)** — PageRank: 0.0132, citada por 97 leyes, impacto en cascada: 121 leyes
-10. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — PageRank: 0.0118, citada por 83 leyes, impacto en cascada: 158 leyes
+1. **Constitución Política de los Estados Unidos Mexicanos (CPEUM)** — PageRank: 0.0893, citada por 316 leyes, impacto en cascada: 317 leyes
+2. **Ley Federal de Competencia Económica (LFCE)** — PageRank: 0.0341, citada por 218 leyes, impacto en cascada: 228 leyes
+3. **Ley General de Sociedades Mercantiles (LGSM)** — PageRank: 0.0308, citada por 203 leyes, impacto en cascada: 228 leyes
+4. **Ley de Petróleos Mexicanos (LPEMEX)** — PageRank: 0.0230, citada por 138 leyes, impacto en cascada: 186 leyes
+5. **Ley General de Educación (LGE)** — PageRank: 0.0172, citada por 107 leyes, impacto en cascada: 168 leyes
+6. **Ley Federal de Procedimiento Administrativo (LFPA)** — PageRank: 0.0154, citada por 91 leyes, impacto en cascada: 101 leyes
+7. **Código Nacional de Procedimientos Penales (CNPP)** — PageRank: 0.0149, citada por 102 leyes, impacto en cascada: 107 leyes
+8. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — PageRank: 0.0144, citada por 91 leyes, impacto en cascada: 159 leyes
+9. **LEY Federal del Trabajo (LFT)** — PageRank: 0.0135, citada por 92 leyes, impacto en cascada: 119 leyes
+10. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — PageRank: 0.0122, citada por 83 leyes, impacto en cascada: 157 leyes
 
 ## 3. Leyes Aisladas (Posiblemente Obsoletas)
-_(Leyes con 2 o menos conexiones totales: 38 encontradas)_
+_(Leyes con 2 o menos conexiones totales: 40 encontradas)_
 
 - **LEY de los Impuestos Generales de Importación y de Exportaci** — In: 0, Out: 0
 - **LEY para el Desarrollo de la Competitividad de la Micro, Peq** — In: 0, Out: 1
@@ -32,28 +32,28 @@ _(Leyes con 2 o menos conexiones totales: 38 encontradas)_
 - **LEY de Recompensas de la Armada de México** — In: 0, Out: 1
 - **LEY para Conservar la Neutralidad del País** — In: 0, Out: 1
 - **LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominar** — In: 0, Out: 1
+- **IMPUESTO sobre Servicios Expresamente Declarados de Interés ** — In: 0, Out: 1
 - **LEY Reglamentaria de la Fracción XVIII del Artículo 73 Const** — In: 0, Out: 1
 - **LEY de Educación Naval** — In: 0, Out: 1
-- **LEY que Establece Bases para la Ejecución en México, por el ** — In: 0, Out: 1
 
 ## 4. Análisis de Impacto en Cascada
 _(¿Cuántas leyes se verían afectadas por una reforma a esta ley?)_
 
 1. **Constitución Política de los Estados Unidos Mexicanos (CPEUM)** — afecta directamente a 316 leyes, impacto total en 317 leyes
-2. **Ley Federal de Competencia Económica (LFCE)** — afecta directamente a 220 leyes, impacto total en 230 leyes
-3. **Ley General de Sociedades Mercantiles (LGSM)** — afecta directamente a 205 leyes, impacto total en 230 leyes
-4. **Ley de Petróleos Mexicanos (LPEMEX)** — afecta directamente a 169 leyes, impacto total en 205 leyes
-5. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — afecta directamente a 119 leyes, impacto total en 177 leyes
-6. **Ley General de Educación (LGE)** — afecta directamente a 109 leyes, impacto total en 169 leyes
-7. **Ley General de Transparencia y Acceso a la Información Públi (LGTAIP)** — afecta directamente a 77 leyes, impacto total en 163 leyes
-8. **Ley de Instituciones de Crédito (LIC)** — afecta directamente a 79 leyes, impacto total en 158 leyes
-9. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — afecta directamente a 83 leyes, impacto total en 158 leyes
-10. **Ley General de Salud (LGS)** — afecta directamente a 77 leyes, impacto total en 155 leyes
+2. **Ley Federal de Competencia Económica (LFCE)** — afecta directamente a 218 leyes, impacto total en 228 leyes
+3. **Ley General de Sociedades Mercantiles (LGSM)** — afecta directamente a 203 leyes, impacto total en 228 leyes
+4. **Ley de Petróleos Mexicanos (LPEMEX)** — afecta directamente a 138 leyes, impacto total en 186 leyes
+5. **Ley General de Educación (LGE)** — afecta directamente a 107 leyes, impacto total en 168 leyes
+6. **Ley General de Transparencia y Acceso a la Información Públi (LGTAIP)** — afecta directamente a 75 leyes, impacto total en 160 leyes
+7. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — afecta directamente a 91 leyes, impacto total en 159 leyes
+8. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — afecta directamente a 83 leyes, impacto total en 157 leyes
+9. **Ley de Instituciones de Crédito (LIC)** — afecta directamente a 77 leyes, impacto total en 156 leyes
+10. **Ley General de Responsabilidades Administrativas (LGRA)** — afecta directamente a 60 leyes, impacto total en 152 leyes
 
 ## 5. Dependencias Circulares
 _(Grupos de leyes que se referencian mutuamente: 1 encontrados)_
 
-- `ley-federal-del-trabajo → ley-del-seguro-social → ley-federal-del-trabajo` (ciclo de 2 leyes)
+- `ley-del-seguro-social → ley-federal-del-trabajo → ley-del-seguro-social` (ciclo de 2 leyes)
 
 ## 6. Conflictos de Definiciones
 _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
@@ -72,14 +72,13 @@ _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
 ## 7. Comunidades Regulatorias
 _(Grupos de leyes que se citan frecuentemente entre sí)_
 
-- **Cluster 5** (87 leyes) — Sector dominante: unknown — Ley central: Constitución Política de los Estados Unidos Mexica
-- **Cluster 2** (76 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Competencia Económica
-- **Cluster 4** (73 leyes) — Sector dominante: unknown — Ley central: Ley General de Sociedades Mercantiles
-- **Cluster 1** (50 leyes) — Sector dominante: unknown — Ley central: Ley de Petróleos Mexicanos
-- **Cluster 0** (33 leyes) — Sector dominante: financiero — Ley central: Ley de Instituciones de Crédito
-- **Cluster 7** (23 leyes) — Sector dominante: unknown — Ley central: Código Nacional de Procedimientos Penales
-- **Cluster 6** (18 leyes) — Sector dominante: fiscal — Ley central: Ley del Impuesto sobre la Renta
-- **Cluster 3** (1 leyes) — Sector dominante: fiscal — Ley central: LEY de los Impuestos Generales de Importación y de
+- **Cluster 6** (111 leyes) — Sector dominante: unknown — Ley central: Constitución Política de los Estados Unidos Mexica
+- **Cluster 5** (82 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Competencia Económica
+- **Cluster 4** (56 leyes) — Sector dominante: financiero — Ley central: Ley General de Sociedades Mercantiles
+- **Cluster 3** (43 leyes) — Sector dominante: fiscal — Ley central: Ley General de Educación
+- **Cluster 2** (37 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Procedimiento Administrativo
+- **Cluster 1** (31 leyes) — Sector dominante: unknown — Ley central: Ley General de Salud
+- **Cluster 0** (1 leyes) — Sector dominante: fiscal — Ley central: LEY de los Impuestos Generales de Importación y de
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
-  "extracted_at": "2026-03-30T12:00:07.106618+00:00",
-  "total_citations": 18,
+  "extracted_at": "2026-03-30T12:18:18.938452+00:00",
+  "total_citations": 16,
   "citations": [
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -170,21 +170,6 @@
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
-      "source_article": "68",
-      "target_law_raw": "Ley de Infraestructura de la Calidad y de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 68. Las organizaciones sociales que participan en la Comisión podrán colaborar con información, en términos de la Ley de Infraestructura de la Calidad y de esta Ley, en el diseño de las Normas Oficiales Mexicanas sobre calidad del café que se comercialice en cualquiera de sus presentaciones.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 120,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5057471264367817,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "74",
       "target_law_raw": "Ley de Comercio Exterior",
       "target_law_id": "unresolved",
@@ -246,21 +231,6 @@
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "85",
-      "target_law_raw": "Ley sobre Elaboración y Venta de Café Tostado",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " e Importadoras Nacionales de Café se llevará a cabo de manera progresiva y con el apoyo del Comité Nacional Sistema Producto Café. Quinto. Se abroga la Ley sobre Elaboración y Venta de Café Tostado, publicada en el Diario Oficial de la Federación el 25 de mayo de 1972. Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del p",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 955,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5352112676056338,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
-      "source_article": "85",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -271,5 +241,5 @@
       "char_offset": 1640
     }
   ],
-  "resolved_at": "2026-03-30T12:00:28.885034+00:00"
+  "resolved_at": "2026-03-30T12:18:44.331488+00:00"
 }

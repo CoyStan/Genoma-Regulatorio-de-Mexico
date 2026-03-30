@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-  "extracted_at": "2026-03-30T12:00:06.345724+00:00",
-  "total_citations": 43,
+  "extracted_at": "2026-03-30T12:18:18.162025+00:00",
+  "total_citations": 33,
   "citations": [
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -33,21 +33,6 @@
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "5",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "en de las proposiciones aceptadas técnicamente en el procedimiento de contratación, y a éste se le resta el porcentaje que determine la Secretaría en el Reglamento de esta Ley; XVI.\tProveedor: la persona que celebre contratos de adquisiciones, arrendamientos o servicios; XVII.\tSecretaría: la Secretaría Anticorrupción y Buen",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3983,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "43",
@@ -56,21 +41,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 442
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "10",
-      "target_law_raw": "Reglamento de esta Ley se establecerán las directrices para fomentar la participación de las Mipymes",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ores de Mipymes nacionales para generar cadenas de proveeduría respecto de bienes y servicios que liciten regularmente, con un enfoque sostenible. En el Reglamento de esta Ley se establecerán las directrices para fomentar la participación de las Mipymes, cooperativas y otros organismos del sector social de la economía certificados por el Instituto Nacional de la Economía Social, incluyendo aquellos c",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1039,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4074074074074074,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -146,21 +116,6 @@
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "24",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ulnerables, así como con organizaciones constituidas o conformadas por grupos de atención prioritaria, en los términos que al efecto se establezca en el Reglamento de la presente Ley. Para estos efectos se determinarán las dependencias o entidades obligadas a sujetarse a los acuerdos marco con dichas organizaciones. Hacienda podrá",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1658,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
       "target_law_id": "lfpa",
@@ -187,21 +142,6 @@
       "char_offset": 1087,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5483870967741935,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "31",
-      "target_law_raw": "Reglamento de esta Ley establecerá las bases conforme a las cuales el Comité podrá",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " de los asuntos que se sometan a su consideración; d)\tEl Comité deberá dictaminar en la misma sesión los asuntos que se presenten a su consideración. El Reglamento de esta Ley establecerá las bases conforme a las cuales el Comité podrá, de manera excepcional, dictaminar los asuntos en una siguiente sesión; e)\tLos integrantes del Comité con derecho a voz y voto, así como los asesores",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1727,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3717948717948718,
       "resolution_matched_alias": null
     },
     {
@@ -233,36 +173,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "34",
-      "target_law_raw": "Reglamento de esta Ley establecerá los supuestos que deberán seguirse para el desarrollo del diálogo estratégico",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "arrollo de los diálogos estratégicos las dependencias y entidades podrán negociar con los particulares los aspectos señalados en el párrafo anterior. El Reglamento de esta Ley establecerá los supuestos que deberán seguirse para el desarrollo del diálogo estratégico. Título Segundo De los Procedimientos de Contratación Capítulo Primero Generalidades",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 717,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.40476190476190477,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "35",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ción previstos en este artículo, las dependencias y entidades deberán realizar una investigación de mercado, conforme a la metodología que establezca el Reglamento de esta Ley y, en su caso, los lineamientos que emita la Secretaría, de la cual se desprendan las condiciones que imperan en el mismo, respecto del bien, arrendami",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2335,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -335,21 +245,6 @@
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "59",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ulo 59. La asignación de contratos específicos que derivan de un acuerdo marco, se realizará conforme al procedimiento que al efecto se establezca en el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 155,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "66",
       "target_law_raw": "Ley Monetaria de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -391,36 +286,6 @@
       "char_offset": 590,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4580152671755725,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "75",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " los términos señalados en el contrato respectivo y en la legislación aplicable. Los proveedores cubrirán las cuotas compensatorias a que, conforme a la ley de la materia, pudiere estar sujeta la importación de bienes objeto de un contrato, y en estos casos no procederán incrementos a los precios pactados, ni cualquier",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 926,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "81",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "odrá autorizar que se lleven a cabo los procedimientos de contratación sin utilizar la Plataforma, conforme a las disposiciones que se establezcan en el Reglamento de esta Ley. La Secretaría emitirá las disposiciones para la operación de dicha Plataforma y establecerá los controles necesarios para garantizar la inalterabili",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 860,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -575,30 +440,15 @@
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "114",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Comercio. No será materia de arbitraje la rescisión administrativa, la terminación anticipada de los contratos, así como aquellos casos que disponga el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 438,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "120",
       "target_law_raw": "Ley de Adquisiciones",
       "target_law_id": "ley-contrataciones-publicas",
       "target_article": null,
-      "citation_text": "sitorios Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo.- Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, publicada en el Diario Oficial de la Federación el 4 de enero de 2000 y sus modificaciones posteriore",
+      "citation_text": "as necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 81 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 371,
+      "char_offset": 1066,
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de adquisiciones"
@@ -631,5 +481,5 @@
       "char_offset": 8133
     }
   ],
-  "resolved_at": "2026-03-30T12:00:26.061319+00:00"
+  "resolved_at": "2026-03-30T12:18:41.786089+00:00"
 }

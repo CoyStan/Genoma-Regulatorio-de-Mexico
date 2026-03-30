@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-de-comercio",
-  "extracted_at": "2026-03-30T12:00:04.928868+00:00",
-  "total_citations": 78,
+  "extracted_at": "2026-03-30T12:18:16.652903+00:00",
+  "total_citations": 65,
   "citations": [
     {
       "source_law": "codigo-de-comercio",
@@ -70,21 +70,6 @@
       "char_offset": 594,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.53125,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "30",
-      "target_law_raw": "ley de la materia a garantizar el ejercicio de sus funciones",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "alente a 10 000 veces el salario mínimo diario vigente en el Distrito Federal.  En caso de que los notarios o corredores públicos estén obligados por la ley de la materia a garantizar el ejercicio de sus funciones, sólo otorgarán la fianza o garantía a que se refiere el párrafo anterior por un monto equivalente a la diferencia entre ésta y la otorgada. Esta gar",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1019,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4782608695652174,
       "resolution_matched_alias": null
     },
     {
@@ -191,36 +176,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "código penal"
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "640",
-      "target_law_raw": "Ley de Navegación",
-      "target_law_id": "ley-inmigracion",
-      "target_article": null,
-      "citation_text": "- Se deroga Artículo reformado DOF 09-04-2012. Derogado DOF 10-01-2014   Nota: De conformidad con la fracción III del artículo Tercero Transitorio de la Ley de Navegación, publicada en el DOF 04-01-1994, se establece que se derogan los artículos () 641 a 944 () del Código de Comercio, que conforman el Libro Tercero",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 163,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8,
-      "resolution_matched_alias": "ley de inmigración"
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "640",
-      "target_law_raw": "Ley de Navegación y Comercio Marítimo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "e Código. Sin embargo, los artículos del Libro Tercero ya habían sido previamente derogados conforme lo establecido en el artículo 2o. Transitorio de la Ley de Navegación y Comercio Marítimo, publicada en el DOF 21-11-1963. LIBRO TERCERO Del Comercio Marítimo (Se deroga). Libro derogado DOF 21-11-1963  TITULO PRIMERO De las Embarcaciones ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 490,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5294117647058824,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-de-comercio",
@@ -350,21 +305,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8695652173913043,
       "resolution_matched_alias": "ley general de transparencia y acceso a la información pública"
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "1391",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ". Derogada DOF 14-12-2011  VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en la ley de la materia; Fracción reformada DOF 24-05-1996  VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialm",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 875,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-de-comercio",
@@ -756,21 +696,6 @@
     {
       "source_law": "codigo-de-comercio",
       "source_article": "5",
-      "target_law_raw": "Reglamento de Corredores para la Plaza de México de 1o",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "e en el Diario Oficial de la Federación.  QUINTO.- Mientras se expide el reglamento correspondiente, continuará siendo aplicable en toda la República el Reglamento de Corredores para la Plaza de México de 1o. de noviembre de 1891, en cuanto no se oponga a lo establecido en la presente ley.   DECRETO por el que se reforman y adicionan diversas disposicione",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6100,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.44155844155844154,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
       "target_law_raw": "Ley para el Desarrollo de la Marina Mercante Mexicana",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -801,36 +726,6 @@
     {
       "source_law": "codigo-de-comercio",
       "source_article": "5",
-      "target_law_raw": "Ley de Subvenciones a la Marina Mercante Nacional",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Servicio de Cabotaje, interior del Puerto y Fluvial de la República, publicada en el Diario Oficial de la Federación el 2 de febrero de 1929; y  III. La Ley de Subvenciones a la Marina Mercante Nacional, publicada en el Diario Oficial de la Federación el 11 de diciembre de 1930.  TERCERO.- Se derogan:  I. La Ley de Navegación y Comercio Marítimos, ex",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7741,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5822784810126582,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
-      "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de Subvenciones a la Marina Mercante Nacional, publicada en el Diario Oficial de la Federación el 11 de diciembre de 1930.  TERCERO.- Se derogan:  I. La Ley de Navegación y Comercio Marítimos, excepto los artículos 222 al 232 y 234 al 250;  II. Los artículos 1o., fracciones I a IV 169 a 305, 543 a 545 y 547 a 554 de la Ley de Vías Generale",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7898,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
       "target_law_raw": "Ley de Vías Generales de Comunicación",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -842,21 +737,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.7213114754098361,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
-      "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "brica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica de Nacional Financiera; del Código de Comercio; de la Ley General de Títulos y Operaciones de Crédito; y del Código Civil para el Distrito Federal en Materia Común y para t",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9812,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "codigo-de-comercio",
@@ -966,66 +846,6 @@
     {
       "source_law": "codigo-de-comercio",
       "source_article": "5",
-      "target_law_raw": "Ley Federal de Protección al Consumidor y del Código de Comercio",
-      "target_law_id": "ley-federal-proteccion-consumidor",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.   DECRETO por el que se reforman y adicionan diversos artículos de la Ley Federal de Protección al Consumidor y del Código de Comercio.  Publicado en el Diario Oficial de la Federación el 6 de junio de 2006  Artículo Segundo. Se reforma el artículo 75 fracción X del Código de Comerci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 33186,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7572815533980582,
-      "resolution_matched_alias": "ley federal de protección al consumidor"
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
-      "target_law_raw": "Ley General de Sociedades Mercantiles",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se reforman diversas disposiciones del Código de Comercio y de la Ley General de Sociedades Mercantiles.  Publicado en el Diario Oficial de la Federación el 2 de junio de 2009  Artículo Primero. Se reforman los artículos 19, 21, fracciones V, VII y XII,",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 39972,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
-      "target_law_raw": "Ley de Cámaras Empresariales",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ecretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Cámaras Empresariales y sus Confederaciones y del Código de Comercio.  Publicado en el Diario Oficial de la Federación el 9 de junio de 2009  Artículo Segundo. Se adiciona un párrafo segundo, recorriéndose en su orden ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 43283,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6896551724137931,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "defonso Guajardo Villarreal.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  OTORGAMIENTO Y EJECUCIÓN DE GARANTÍAS  ARTÍCULO VIGÉSIMO SEGUNDO.- Se REFOR",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 62998,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación que se adiciona",
       "target_law_id": "lopjf",
       "target_article": null,
@@ -1056,21 +876,6 @@
     {
       "source_law": "codigo-de-comercio",
       "source_article": "5",
-      "target_law_raw": "Ley de Fondos de Inversión",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del Código de Comercio, de la Ley General de Sociedades Mercantiles, de la Ley de Fondos de Inversión, de la Ley General de Títulos y Operaciones de Crédito, de la Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal, en r",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 67364,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6938775510204082,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
       "target_law_raw": "Ley Federal de Derechos y de la Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -1086,6 +891,21 @@
     {
       "source_law": "codigo-de-comercio",
       "source_article": "5",
+      "target_law_raw": "Ley General de Sociedades Mercantiles",
+      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_article": null,
+      "citation_text": "a electrónico señalado en los artículos 50 Bis y 600 del Código de Comercio; los artículos 9, 99, 119, 132, 136, 186, 223, 228 Bis, 243, 247 y 251 de la Ley General de Sociedades Mercantiles; el artículo 212 de la Ley General de Títulos y Operaciones de Crédito, así como en la fracción XXXI del artículo 34 de la Ley Orgánica de la Adminis",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 68906,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "codigo-de-comercio",
+      "source_article": "5",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
       "target_law_id": "loapf",
       "target_article": null,
@@ -1097,21 +917,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "codigo-de-comercio",
-      "source_article": "5",
-      "target_law_raw": "Ley Federal de Procedimiento Administrativo y se reforman y adicionan diversas disposiciones de los artículos 90 Bis",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": "90",
-      "citation_text": "a Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforma el artículo 35, fracción II de la Ley Federal de Procedimiento Administrativo y se reforman y adicionan diversas disposiciones de los artículos 90 Bis, 91 y 92 del Código de Comercio.  Publicado en el Diario Oficial de la Federación el 2 de mayo de 2017  Artículo Segundo.- Se reforma el artículo 90 ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 82535,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
     },
     {
       "source_law": "codigo-de-comercio",
@@ -1156,5 +961,5 @@
       "char_offset": 706
     }
   ],
-  "resolved_at": "2026-03-30T12:00:21.087879+00:00"
+  "resolved_at": "2026-03-30T12:18:37.495027+00:00"
 }

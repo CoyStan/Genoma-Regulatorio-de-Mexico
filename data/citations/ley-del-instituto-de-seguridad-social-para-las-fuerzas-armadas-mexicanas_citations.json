@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
-  "extracted_at": "2026-03-30T12:00:09.369945+00:00",
-  "total_citations": 42,
+  "extracted_at": "2026-03-30T12:18:21.241650+00:00",
+  "total_citations": 41,
   "citations": [
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -453,21 +453,6 @@
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "21",
-      "target_law_raw": "Ley de la Guardia Nacional",
-      "target_law_id": "ley-aguas-nacionales",
-      "target_article": null,
-      "citation_text": "ios  Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.  Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20512,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8163265306122449,
-      "resolution_matched_alias": "ley de aguas nacionales"
-    },
-    {
-      "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
-      "source_article": "21",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -625,5 +610,5 @@
       "char_offset": 437
     }
   ],
-  "resolved_at": "2026-03-30T12:00:36.468313+00:00"
+  "resolved_at": "2026-03-30T12:18:51.015240+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-  "extracted_at": "2026-03-30T12:00:11.611321+00:00",
-  "total_citations": 56,
+  "extracted_at": "2026-03-30T12:18:23.625862+00:00",
+  "total_citations": 52,
   "citations": [
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -239,21 +239,6 @@
       "resolution_confidence": "high",
       "resolution_score": 0.9733333333333334,
       "resolution_matched_alias": "ley federal de protección de datos personales en posesión de los particulares"
-    },
-    {
-      "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-      "source_article": "6",
-      "target_law_raw": "Ley de quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de esta Ley y de las Entidades Colegiadas",
-      "target_law_id": "unresolved",
-      "target_article": "17 de esta Ley y",
-      "citation_text": " Sección Segunda del Capítulo III;  I Bis.\tEstablecer los requisitos para el alta y registro en el sistema electrónico que determine el Reglamento de la Ley de quienes realicen las Actividades Vulnerables establecidas en el artículo 17 de esta Ley y de las Entidades Colegiadas, así como recibir y administrar la información de dichos trámites; Fracción adicionada DOF 16-07-2025  II. Requerir la información, documentación, da",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 300,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.40404040404040403,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -651,21 +636,6 @@
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "65",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " entrará en vigor a los nueve meses siguientes al día de su publicación en el Diario Oficial de la Federación.  Segundo. El Ejecutivo Federal emitirá el Reglamento de la presente Ley, dentro de los treinta días siguientes a la entrada en vigor de esta Ley.  Tercero. Los Avisos que deban presentarse por quienes realicen Actividades",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 766,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-      "source_article": "65",
       "target_law_raw": "Ley de Instituciones de Crédito",
       "target_law_id": "ley-instituciones-credito",
       "target_article": null,
@@ -786,36 +756,6 @@
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "65",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5259,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-      "source_article": "65",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5316,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-      "source_article": "65",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -826,5 +766,5 @@
       "char_offset": 2712
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.821290+00:00"
+  "resolved_at": "2026-03-30T12:18:56.592540+00:00"
 }

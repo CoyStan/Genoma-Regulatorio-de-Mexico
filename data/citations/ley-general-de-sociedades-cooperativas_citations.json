@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-sociedades-cooperativas",
-  "extracted_at": "2026-03-30T12:00:13.075770+00:00",
-  "total_citations": 51,
+  "extracted_at": "2026-03-30T12:18:25.127025+00:00",
+  "total_citations": 49,
   "citations": [
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -285,21 +285,6 @@
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
-      "target_law_raw": "Ley General de Sociedades Cooperativas que se abroga",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "al registro de sociedades cooperativas y demás que estén en trámite, se podrán continuar hasta su terminación de conformidad con las disposiciones de la Ley General de Sociedades Cooperativas que se abroga, o cancelarse y, en caso procedente, iniciarse ante el Registro Público de Comercio.  México, D.F., a 13 de julio de 1994.- Dip. Miguel González Avel",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2084,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-sociedades-cooperativas",
-      "source_article": "94",
       "target_law_raw": "Ley de Ahorro y Crédito Popular y por las disposiciones que resulten",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -340,21 +325,6 @@
       "char_offset": 15334,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5166666666666667,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-sociedades-cooperativas",
-      "source_article": "94",
-      "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " por el Artículo SEXTO del presente Decreto al Artículo Séptimo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Ahorro y Crédito Popular publicado en el Diario Oficial de la Federación el 27 de mayo de 2005, entrarán en vigor a los 180 días naturales siguientes a la publicación del presente Decreto.  TERCERO.- En tanto la Comisión Nacional Bancaria y de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17385,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5396825396825397,
       "resolution_matched_alias": null
     },
     {
@@ -745,5 +715,5 @@
       "char_offset": 2499
     }
   ],
-  "resolved_at": "2026-03-30T12:00:45.877520+00:00"
+  "resolved_at": "2026-03-30T12:18:59.064896+00:00"
 }

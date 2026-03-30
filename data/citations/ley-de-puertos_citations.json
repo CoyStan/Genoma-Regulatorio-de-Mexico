@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-puertos",
-  "extracted_at": "2026-03-30T12:00:08.686768+00:00",
-  "total_citations": 21,
+  "extracted_at": "2026-03-30T12:18:20.520949+00:00",
+  "total_citations": 15,
   "citations": [
     {
       "source_law": "ley-de-puertos",
@@ -110,21 +110,6 @@
     },
     {
       "source_law": "ley-de-puertos",
-      "source_article": "41",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "abotaje. Párrafo reformado DOF 11-06-2012  El programa maestro de desarrollo portuario y las modificaciones substanciales a éste que se determinen en el Reglamento de esta Ley, serán elaborados por el administrador portuario, y autorizados por la Secretaría, con base en las políticas y programas para el desarrollo de la inf",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 849,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
       "source_article": "44",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos y Reglamentos",
       "target_law_id": "unresolved",
@@ -166,21 +151,6 @@
       "char_offset": 435,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5945945945945946,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "cada en el Diario Oficial de la Federación el 29 de diciembre de 1970.  TERCERO. Se derogan:  I. Los artículos del 172 al 183, 190, 210, 298 y 299 de la Ley de Vías Generales de Comunicación;  II. Los artículos 9o., fracciones I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 777,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7213114754098361,
       "resolution_matched_alias": null
     },
     {
@@ -246,66 +216,6 @@
     {
       "source_law": "ley-de-puertos",
       "source_article": "69",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": "rica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.  Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013  AR",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8904,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Ley de Puertos y de la Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "iré Romero.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Puertos y de la Ley de Navegación y Comercio Marítimos.  Publicado en el Diario Oficial de la Federación el 26 de diciembre de 2013  ARTÍCULO SEGUNDO.- Se reforman el párrafo primero del artículo 1o.; la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8961,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5217391304347826,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Ley de Navegación y Comercio Marítimos y la fracción I del artículo 44 de la Ley de Puertos",
-      "target_law_id": "unresolved",
-      "target_article": "44",
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Navegación y Comercio Marítimos y la fracción I del artículo 44 de la Ley de Puertos.  Publicado en el Diario Oficial de la Federación el 23 de enero de 2014  Artículo Segundo.- Se adiciona un segundo párrafo a la fracción I del artíc",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10738,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4727272727272727,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Ley de Navegación y Comercio Marítimos y de la Ley de Puertos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "g.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley de Puertos.  Publicado en el Diario Oficial de la Federación el 19 de diciembre de 2016  Artículo Tercero.- Se REFORMAN los artículos 13; 16, fracción VIII; 17;",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 13749,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.48951048951048953,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -316,5 +226,5 @@
       "char_offset": 4334
     }
   ],
-  "resolved_at": "2026-03-30T12:00:34.448009+00:00"
+  "resolved_at": "2026-03-30T12:18:49.319592+00:00"
 }

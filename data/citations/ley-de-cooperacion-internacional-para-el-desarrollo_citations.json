@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-cooperacion-internacional-para-el-desarrollo",
-  "extracted_at": "2026-03-30T12:00:06.983795+00:00",
-  "total_citations": 25,
+  "extracted_at": "2026-03-30T12:18:18.814072+00:00",
+  "total_citations": 20,
   "citations": [
     {
       "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
@@ -118,36 +118,6 @@
       "char_offset": 2157,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
-      "source_article": "42",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": " Blake Mora.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, así como de otras leyes para crear la Secretaría de Cultura.  Publicado en el Diario Oficial de la Federación el 17 de diciembre de 2015  ARTÍCULO T",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4125,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
-      "source_article": "42",
-      "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Pre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9443,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
       "resolution_matched_alias": null
     },
     {
@@ -273,51 +243,6 @@
     {
       "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
       "source_article": "42",
-      "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "taria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10077,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
-      "source_article": "42",
-      "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10159,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
-      "source_article": "42",
-      "target_law_raw": "Ley General de Cambio Climático",
-      "target_law_id": "lgpp",
-      "target_article": null,
-      "citation_text": " la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo Social para Ex Trabajadores Migratorios ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10226,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-de-cooperacion-internacional-para-el-desarrollo",
-      "source_article": "42",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -373,5 +298,5 @@
       "char_offset": 3617
     }
   ],
-  "resolved_at": "2026-03-30T12:00:28.046439+00:00"
+  "resolved_at": "2026-03-30T12:18:43.579832+00:00"
 }

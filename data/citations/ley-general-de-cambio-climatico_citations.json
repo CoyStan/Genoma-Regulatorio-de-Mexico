@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-cambio-climatico",
-  "extracted_at": "2026-03-30T12:00:11.896283+00:00",
-  "total_citations": 81,
+  "extracted_at": "2026-03-30T12:18:23.898577+00:00",
+  "total_citations": 78,
   "citations": [
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -663,21 +663,6 @@
     {
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
-      "target_law_raw": "Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se reforman y derogan diversas disposiciones de la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas; de la Ley de Cooperación Internacional para el Desarrollo; de la Ley de Hidrocarburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Pre",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 27631,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5769230769230769,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-cambio-climatico",
-      "source_article": "116",
       "target_law_raw": "Ley de Cooperación Internacional para el Desarrollo",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -783,36 +768,6 @@
     {
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
-      "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "taria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 28265,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4878048780487805,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-cambio-climatico",
-      "source_article": "116",
-      "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organismos Genéticamente Modificados; de la Ley General de Cambio Climático; de la Ley General de Víctimas y se abroga la Ley que crea el Fideicomiso que administrará el Fondo de Apoyo S",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 28347,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5043478260869565,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-cambio-climatico",
-      "source_article": "116",
       "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -854,36 +809,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8,
       "resolution_matched_alias": "ley del iva"
-    },
-    {
-      "source_law": "ley-general-de-cambio-climatico",
-      "source_article": "116",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 45449,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-general-de-cambio-climatico",
-      "source_article": "116",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "men Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 45490,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -993,6 +918,21 @@
     {
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
+      "target_law_raw": "Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "icias del Estado Mexicano, de la Ley del Sistema Público de Radiodifusión del Estado Mexicano, de la Ley de Instituciones de Seguros y de Fianzas, de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de la Ley de la Industria Eléctrica, de la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Octavo del Artículo 25 de la Constitució",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 46136,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.4878048780487805,
+      "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-general-de-cambio-climatico",
+      "source_article": "116",
       "target_law_raw": "Ley de la Economía Social y Solidaria",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1034,6 +974,21 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7719298245614035,
       "resolution_matched_alias": "ley de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-general-de-cambio-climatico",
+      "source_article": "116",
+      "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": "s Unidos Mexicanos, en lo referente al Sector Social de la Economía, de la Ley de la Casa de Moneda de México, de la Ley de Concursos Mercantiles, de la Ley de Bioseguridad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 46537,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.5043478260869565,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -1213,5 +1168,5 @@
       "char_offset": 7959
     }
   ],
-  "resolved_at": "2026-03-30T12:00:43.332601+00:00"
+  "resolved_at": "2026-03-30T12:18:57.068722+00:00"
 }

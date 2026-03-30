@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-mercado-de-valores",
-  "extracted_at": "2026-03-30T12:00:09.684380+00:00",
-  "total_citations": 126,
+  "extracted_at": "2026-03-30T12:18:21.568332+00:00",
+  "total_citations": 121,
   "citations": [
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1419,51 +1419,6 @@
     {
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "423",
-      "target_law_raw": "Ley del Mercado de Valores que se abroga mediante la presente Ley",
-      "target_law_id": "ley-mercado-valores",
-      "target_article": null,
-      "citation_text": "de 13 de abril de 1993.  Los asientos registrales de cualquier tipo que constan en el Registro Nacional de Valores a que se refiere el artículo 10 de la Ley del Mercado de Valores que se abroga mediante la presente Ley, se entenderán como hechos en el Registro a que se refiere el artículo 70 de esta Ley. Asimismo, los asientos registrales realizados con anterioridad",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5856,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del mercado de valores"
-    },
-    {
-      "source_law": "ley-del-mercado-de-valores",
-      "source_article": "423",
-      "target_law_raw": "Ley del Mercado de Valores que se abroga por virtud de esta Ley",
-      "target_law_id": "ley-mercado-valores",
-      "target_article": null,
-      "citation_text": "a la inscripción de los valores en el Registro Nacional de Valores, en los mismos términos y con las salvedades previstas para la sección especial en la Ley del Mercado de Valores que se abroga por virtud de esta Ley.  Décimo Primero.- En tanto la Comisión reconozca las normas y procedimientos de auditoría a que hacen referencia los artículos 87, fracción I y 352,",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7290,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del mercado de valores"
-    },
-    {
-      "source_law": "ley-del-mercado-de-valores",
-      "source_article": "423",
-      "target_law_raw": "Ley del Mercado de Valores que se abroga",
-      "target_law_id": "ley-mercado-valores",
-      "target_article": null,
-      "citation_text": "nal de Valores e Intermediarios vigente hasta el 2 de junio de 2001, o en virtud de estar autorizadas para organizarse y operar como tales conforme a la Ley del Mercado de Valores que se abroga, se tendrán por autorizadas en términos del artículo 114 de esta Ley.  Las casas de bolsa señaladas en el párrafo anterior quedarán sujetas a lo prev",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8678,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7878787878787878,
-      "resolution_matched_alias": "ley del mercado de valores"
-    },
-    {
-      "source_law": "ley-del-mercado-de-valores",
-      "source_article": "423",
       "target_law_raw": "código de conducta a que hacen referencia los artículos 326 y 336 de la misma",
       "target_law_id": "unresolved",
       "target_article": "326 y 336",
@@ -1474,21 +1429,6 @@
       "char_offset": 13518,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5165562913907285,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-mercado-de-valores",
-      "source_article": "423",
-      "target_law_raw": "Ley Federal contra la Delincuencia Organizada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "DECRETOS DE REFORMA  DECRETO por el que se reforman diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; de la Ley de Instituciones de Crédito; de la Ley de Ahorro y Crédito Popular; de la Ley de los Sistemas de Ahorro para el Retiro; de la Ley de Socie",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14479,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5679012345679012,
       "resolution_matched_alias": null
     },
     {
@@ -1595,21 +1535,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-del-mercado-de-valores",
-      "source_article": "423",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "Francisco Gómez Mont Urueta.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  ARTÍCULO TRIGÉSIMO CUARTO.- Se ADICIONA un último párrafo al artículo 156, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17405,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1794,6 +1719,21 @@
     {
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "423",
+      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
+      "target_law_id": "ley-fintech",
+      "target_article": null,
+      "citation_text": "nancieros, de la Ley para Regular las Sociedades de Información Crediticia, de la Ley de Protección y Defensa al Usuario de Servicios Financieros, de la Ley para Regular las Agrupaciones Financieras, de la Ley de la Comisión Nacional Bancaria y de Valores y, de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Proc",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 41333,
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
+    },
+    {
+      "source_law": "ley-del-mercado-de-valores",
+      "source_article": "423",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1820,21 +1760,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-del-mercado-de-valores",
-      "source_article": "423",
-      "target_law_raw": "Ley del Mercado de Valores y de la Ley de Fondos de Inversión",
-      "target_law_id": "ley-mercado-valores",
-      "target_article": null,
-      "citation_text": "rnación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Mercado de Valores y de la Ley de Fondos de Inversión.  Publicado en el Diario Oficial de la Federación el 28 de diciembre de 2023  Artículo Primero.- Se reforman los artículos 2, fracción XVIII, segundo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 44459,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del mercado de valores"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1879,5 +1804,5 @@
       "char_offset": 13904
     }
   ],
-  "resolved_at": "2026-03-30T12:00:37.555899+00:00"
+  "resolved_at": "2026-03-30T12:18:51.974027+00:00"
 }

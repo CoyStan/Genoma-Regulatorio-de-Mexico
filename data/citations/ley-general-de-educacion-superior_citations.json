@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-educacion-superior",
-  "extracted_at": "2026-03-30T12:00:12.122225+00:00",
-  "total_citations": 47,
+  "extracted_at": "2026-03-30T12:18:24.132767+00:00",
+  "total_citations": 45,
   "citations": [
     {
       "source_law": "ley-general-de-educacion-superior",
@@ -157,21 +157,6 @@
       "char_offset": 524,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6666666666666666,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-educacion-superior",
-      "source_article": "24",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "esarrollo regional, y  VII.\tLa democratización de la información científica, tecnológica, humanística y de innovación, en los términos que establezca la ley de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1499,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -591,21 +576,6 @@
     {
       "source_law": "ley-general-de-educacion-superior",
       "source_article": "77",
-      "target_law_raw": "Ley para la Coordinación de la Educación Superior",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Transitorios  Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley para la Coordinación de la Educación Superior, publicada en el Diario Oficial de la Federación el 29 de diciembre de 1978 y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácte",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1000,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5979381443298969,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-educacion-superior",
-      "source_article": "77",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás normatividad",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -646,5 +616,5 @@
       "char_offset": 13561
     }
   ],
-  "resolved_at": "2026-03-30T12:00:44.057061+00:00"
+  "resolved_at": "2026-03-30T12:18:57.665723+00:00"
 }

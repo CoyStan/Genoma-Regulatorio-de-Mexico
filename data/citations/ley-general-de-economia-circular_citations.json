@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-economia-circular",
-  "extracted_at": "2026-03-30T12:00:12.093114+00:00",
-  "total_citations": 18,
+  "extracted_at": "2026-03-30T12:18:24.103504+00:00",
+  "total_citations": 17,
   "citations": [
     {
       "source_law": "ley-general-de-economia-circular",
@@ -89,21 +89,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-economia-circular",
-      "source_article": "23",
-      "target_law_raw": "Reglamento de la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "del cumplimiento a lo dispuesto por esta Ley. Los requisitos y formalidades para el uso del Distintivo Nacional de Economía Circular se establecen en el Reglamento de la presente Ley. El uso del Distintivo queda sujeto a la autorización que emita la Secretaría con base en el proceso de auditoría ambiental voluntaria de acuerdo con",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 424,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-economia-circular",
@@ -268,5 +253,5 @@
       "char_offset": 3379
     }
   ],
-  "resolved_at": "2026-03-30T12:00:43.934856+00:00"
+  "resolved_at": "2026-03-30T12:18:57.552508+00:00"
 }

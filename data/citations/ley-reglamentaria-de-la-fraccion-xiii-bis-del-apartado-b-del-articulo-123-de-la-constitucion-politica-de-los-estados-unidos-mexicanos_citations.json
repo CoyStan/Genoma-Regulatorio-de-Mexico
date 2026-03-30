@@ -1,7 +1,7 @@
 {
   "law_id": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-03-30T12:00:14.815647+00:00",
-  "total_citations": 28,
+  "extracted_at": "2026-03-30T12:18:26.975455+00:00",
+  "total_citations": 25,
   "citations": [
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -167,21 +167,6 @@
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "17",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ones que otorguen las instituciones, en sustitución del Instituto Mexicano del Seguro Social, gozarán de los mismos derechos que al Instituto concede la Ley de la materia.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1760,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "19",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -206,36 +191,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.711864406779661,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "24",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "jandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  ARTÍCULO DÉCIMO SEGUNDO.- Se ADICIONA un cuarto párrafo al artículo 3º de l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4588,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "24",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
-      "target_article": null,
-      "citation_text": " que se refiere el párrafo segundo del artículo segundo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013, preverá un sistema de control y evaluación especial para las instituciones de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5470,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -266,51 +221,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "24",
-      "target_law_raw": "Ley Federal del Trabajo",
-      "target_law_id": "ley-federal-del-trabajo",
-      "target_article": null,
-      "citation_text": ".- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9155,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "24",
-      "target_law_raw": "Ley del Seguro Social",
-      "target_law_id": "ley-del-seguro-social",
-      "target_article": null,
-      "citation_text": ", Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9186,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "24",
-      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo; de la Ley del Seguro Social; de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores; del Código Fiscal de la Federación; de la Ley del Impuesto sobre la Renta; de la Ley del Impuesto al Valor Agregado; de la Ley Federal de los Trabaj",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9215,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -360,6 +270,36 @@
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "24",
+      "target_law_raw": "Ley Federal del Trabajo",
+      "target_law_id": "ley-federal-del-trabajo",
+      "target_article": null,
+      "citation_text": " la Secretaría del Trabajo y Previsión Social deberá expedir las disposiciones de carácter general a que se refiere el artículo 15, párrafo sexto, de la Ley Federal del Trabajo.  Tercero. A la fecha de entrada en vigor del presente Decreto, las personas físicas o morales que presten servicios de subcontratación, deberán obte",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 10682,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal del trabajo"
+    },
+    {
+      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "source_article": "24",
+      "target_law_raw": "Ley del Seguro Social",
+      "target_law_id": "ley-del-seguro-social",
+      "target_article": null,
+      "citation_text": "fecto de la relación de trabajo. Artículo reformado DOF 31-07-2021  Quinto. Aquellos patrones que, en términos del segundo párrafo del artículo 75 de la Ley del Seguro Social, previo a la entrada en vigor del presente Decreto, hubiesen solicitado al Instituto Mexicano del Seguro Social la asignación de uno o más registros ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 11722,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del seguro social"
+    },
+    {
+      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "source_article": "24",
       "target_law_raw": "Ley del Seguro Social como en el Reglamento de la Ley del Seguro Social",
       "target_law_id": "ley-del-seguro-social",
       "target_article": null,
@@ -371,6 +311,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley del seguro social"
+    },
+    {
+      "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "source_article": "24",
+      "target_law_raw": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "target_law_id": "ley-del-infonavit",
+      "target_article": null,
+      "citation_text": " Vivienda para los Trabajadores deberá expedir las reglas que establezcan los procedimientos a que se refiere el artículo 29 Bis, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.  Las personas físicas o morales que presten servicios especializados o ejecuten obras especializadas, deberán empezar a proporcionar la información ",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 17256,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -415,5 +370,5 @@
       "char_offset": 1482
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.138953+00:00"
+  "resolved_at": "2026-03-30T12:19:02.996465+00:00"
 }

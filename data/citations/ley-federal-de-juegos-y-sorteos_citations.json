@@ -1,23 +1,8 @@
 {
   "law_id": "ley-federal-de-juegos-y-sorteos",
-  "extracted_at": "2026-03-30T12:00:10.648670+00:00",
-  "total_citations": 2,
+  "extracted_at": "2026-03-30T12:18:22.620396+00:00",
+  "total_citations": 1,
   "citations": [
-    {
-      "source_law": "ley-federal-de-juegos-y-sorteos",
-      "source_article": "11",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "LO 11.- La Secretaría de Gobernación queda facultada para autorizar, en las ferias regionales, el cruce de apuestas en los espectáculos que determine el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 156,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
     {
       "source_law": "ley-federal-de-juegos-y-sorteos",
       "source_article": "17",
@@ -31,5 +16,5 @@
       "char_offset": 2022
     }
   ],
-  "resolved_at": "2026-03-30T12:00:40.341863+00:00"
+  "resolved_at": "2026-03-30T12:18:54.488753+00:00"
 }

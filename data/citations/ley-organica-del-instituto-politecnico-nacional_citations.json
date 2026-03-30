@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-instituto-politecnico-nacional",
-  "extracted_at": "2026-03-30T12:00:14.382598+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-03-30T12:18:26.538567+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
@@ -102,21 +102,6 @@
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "34",
-      "target_law_raw": "Ley Orgánica que se abroga",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "eneral de Instituto continuará en el ejercicio de sus funciones hasta el término de la duración del nombramiento que, de acuerdo con el artículo 8 de la Ley Orgánica que se abroga, expidió a su favor el Secretario de Educación Pública.  CUARTO.- Se derogan las demás disposiciones que se opongan a la presente Ley.  México, D. F.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1003,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6956521739130435,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-instituto-politecnico-nacional",
-      "source_article": "34",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -127,5 +112,5 @@
       "char_offset": 1405
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.397193+00:00"
+  "resolved_at": "2026-03-30T12:19:02.292018+00:00"
 }

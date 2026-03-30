@@ -1,7 +1,7 @@
 {
   "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
-  "extracted_at": "2026-03-30T12:00:14.504717+00:00",
-  "total_citations": 15,
+  "extracted_at": "2026-03-30T12:18:26.664676+00:00",
+  "total_citations": 14,
   "citations": [
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
@@ -47,21 +47,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "15",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s;  III.\tSea personal técnico o especializado expuesto a emanaciones radiológicas o nucleares, y  IV.\tSe ubique en alguno de los supuestos que prevea el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 434,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
@@ -204,11 +189,11 @@
       "target_law_raw": "Ley para la Comprobación",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "as del régimen de usurpación, en los años 1913 y 1914.  Por ningún motivo se contará tiempo anterior al 20 de noviembre de 1910.  TERCERO.- Se abroga la Ley para la Comprobación, Ajuste y Cómputo de Servicios, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1943.  CUARTO.- Se derogan todas las disposicio",
+      "citation_text": "do en el Diario Oficial de la Federación el 12 de junio de 2009  Artículo Tercero.- Se reforman los artículos 18, fracción I, párrafo primero y 20 de la Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:  .  Transitorios  Artículo Primero.- El presente Decr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 1754,
+      "char_offset": 3286,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6296296296296297,
       "resolution_matched_alias": null
@@ -226,5 +211,5 @@
       "char_offset": 2259
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.798376+00:00"
+  "resolved_at": "2026-03-30T12:19:02.679723+00:00"
 }

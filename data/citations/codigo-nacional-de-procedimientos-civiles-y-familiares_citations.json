@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
-  "extracted_at": "2026-03-30T12:00:05.572615+00:00",
-  "total_citations": 100,
+  "extracted_at": "2026-03-30T12:18:17.342389+00:00",
+  "total_citations": 95,
   "citations": [
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -44,21 +44,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
-      "source_article": "2",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "arecidas, así como las leyes especiales de la materia en las Entidades Federativas;  XXIX.\tPersonas Mayores. Las personas determinadas como tales por la ley de la materia;  XXX.\tPersona Representante Autorizada. La persona autorizada por cualquiera de las partes con funciones de representación en el procedimiento judic",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8519,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -284,21 +269,6 @@
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
-      "source_article": "130",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " que justifique la designación de persona diversa, sin perjuicio de dictar las providencias y medidas de protección especiales o urgentes, conforme a la Ley de la materia y, los tratados internacionales que resulten aplicables.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1164,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "151",
       "target_law_raw": "Ley Orgánica",
       "target_law_id": "loapf",
@@ -439,21 +409,6 @@
       "char_offset": 1266,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.512396694214876,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
-      "source_article": "234",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "utoridad jurisdiccional tenga conocimiento de que las partes están participando en un procedimiento alternativo de solución de conflictos, conforme a la Ley de la materia, y  d)\tEn los demás casos previstos por la Ley.  X.\tContra la declaración de caducidad de la primera instancia procede el recurso de apelación en amb",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3872,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -773,21 +728,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de migración"
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
-      "source_article": "610",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a de cada Entidad Federativa], la persona tutora que lo sustituya, el pupilo que dejare de serlo, el Ministerio Público y las demás personas que fija la ley de la materia; Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad notificada para efectos legales 14-08-2024 y publicada DOF 04-",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1865,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -1188,36 +1128,6 @@
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "1191",
-      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " Ciudad de México a diecinueve de noviembre de dos mil veinticuatro.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares.  Publicado en",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 23530,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
-      "source_article": "1191",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "icuatro.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y del Código Nacional de Procedimientos Civiles y Familiares.  Publicado en el Diario Oficial de la Federación el 16 de diciembre de 2024  Artículo Tercero. Se reforman los artículo 554 y 573, último párrafo, d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 23590,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
-      "source_article": "1191",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -1428,17 +1338,32 @@
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "1191",
-      "target_law_raw": "Ley del Instituto Nacional de las Mujeres",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": " Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el present",
+      "citation_text": "ones que se opongan a lo dispuesto en el presente Decreto.  Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.  Cuarto. Las autoridades competentes de la Federac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 26884,
+      "char_offset": 27180,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "source_article": "1191",
+      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 28397,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.5393258426966292,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -1468,5 +1393,5 @@
       "char_offset": 13234
     }
   ],
-  "resolved_at": "2026-03-30T12:00:23.210635+00:00"
+  "resolved_at": "2026-03-30T12:18:39.388681+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-coordinacion-fiscal",
-  "extracted_at": "2026-03-30T12:00:07.051559+00:00",
-  "total_citations": 94,
+  "extracted_at": "2026-03-30T12:18:18.882704+00:00",
+  "total_citations": 87,
   "citations": [
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -702,21 +702,6 @@
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
-      "target_law_raw": "Ley de Coordinación Fiscal entre la Federación y los Estados de 28 de diciembre de 1953",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "el Capítulo IV, las que entrarán en vigor en lo conducente, el 1o. de enero de 1979.  Artículo Segundo.- Al entrar en vigor la presente Ley se abroga la Ley de Coordinación Fiscal entre la Federación y los Estados de 28 de diciembre de 1953.  Artículo Tercero.- A partir de la fecha en que entre en vigor la presente Ley, quedarán abrogadas la Ley que Regula el Pago de Participaciones en I",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2163,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.475,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
       "target_law_raw": "Ley del Impuesto al Valor Agregado",
       "target_law_id": "ley-iva",
       "target_article": null,
@@ -787,21 +772,6 @@
       "char_offset": 16326,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6197183098591549,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "información mensual que presentan los fabricantes, ensambladores y distribuidores de automóviles nuevos conforme a lo dispuesto por el artículo 13 de la Ley de la materia.  b)\tA los precios de los automóviles contenidos en la información a que se refiere la fracción anterior; se aplicará la tarifa a que se refiere el a",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16951,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -927,21 +897,6 @@
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
-      "target_law_raw": "Ley de Coordinación Fiscal y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2006  ARTÍCULO PRIMERO.- Se Reforman los artículos 25, en sus fracciones VI y",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 45602,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5072463768115942,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
       "target_law_raw": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -957,36 +912,6 @@
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
-      "target_law_raw": "Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO. Se derogan el artículo 41 de la Ley del Servicio de Tesorería de la Federación y las demás disposiciones que se opongan a lo previsto en el presente Decreto.  México, D.F., a 14 de septiembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Patricia Villanu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 48680,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3783783783783784,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
-      "target_law_raw": "Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "r Ramírez Acuña.- Rúbrica.   DECRETO por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley del Impuesto Especial sobre Producción y Servicios.  Publicado en el Diario Oficial de la Federación el 21 de diciembre de 2007  ARTÍCULO PRIMERO.- Se REFORMAN los artículos 2o., cuarto, quinto y sext",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 49634,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
       "target_law_raw": "Ley de Coordinación Fiscal previstas en el artículo anterior se estará a lo siguiente",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -998,6 +923,21 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4793388429752066,
       "resolution_matched_alias": null
+    },
+    {
+      "source_law": "ley-de-coordinacion-fiscal",
+      "source_article": "52",
+      "target_law_raw": "Ley del Impuesto sobre Tenencia o Uso de Vehículos",
+      "target_law_id": "ley-isr",
+      "target_article": null,
+      "citation_text": " 2011. Sin perjuicio de lo anterior deberán cumplir con sus obligaciones en materia de registro estatal de vehículos en términos del artículo 16-A de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, vigente hasta el 31 de diciembre de 2011 y demás disposiciones aplicables.  II.\tLa Comisión Nacional del Agua sólo podrá solicitar la retención a qu",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 51561,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley del impuesto sobre la renta"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1057,36 +997,6 @@
       "char_offset": 60221,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4484848484848485,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
-      "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "Unión.  Publicado en el Diario Oficial de la Federación el 24 de julio de 2008   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos y de la Ley de Coordinación Fiscal.  Publicado en el Diario Oficial de la Federación el 31 ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 65571,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
-      "target_law_raw": "Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental.  Publicado en el Diario Oficial de la Federación el 9 de diciembre de 2013  ARTÍCULO PRIMERO.- Se REFORMAN los artículos 1o.; 2o., segundo, quinto y",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 69731,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4838709677419355,
       "resolution_matched_alias": null
     },
     {
@@ -1332,21 +1242,6 @@
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
-      "target_law_raw": "Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "encias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la Ley General del Sistema Nacional Anticorrupción, de la Ley General de Responsabilidades Administrativas y de las nuevas facultades del Tribunal Federal de Justicia Administrativa, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.  TERCERO.- Se abroga la Ley de Fiscalización y Rendición de Cuentas de la Fede",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 104163,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-coordinacion-fiscal",
-      "source_article": "52",
       "target_law_raw": "Ley General de Salud",
       "target_law_id": "ley-general-salud",
       "target_article": null,
@@ -1402,5 +1297,5 @@
       "char_offset": 5263
     }
   ],
-  "resolved_at": "2026-03-30T12:00:28.563517+00:00"
+  "resolved_at": "2026-03-30T12:18:44.032692+00:00"
 }

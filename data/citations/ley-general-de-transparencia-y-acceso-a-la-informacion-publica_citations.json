@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
-  "extracted_at": "2026-03-30T12:00:13.231443+00:00",
-  "total_citations": 33,
+  "extracted_at": "2026-03-30T12:18:25.293044+00:00",
+  "total_citations": 31,
   "citations": [
     {
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -191,36 +191,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
-      "source_article": "71",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "trevistas que lleve a cabo con personas que representen los intereses de los agentes económicos para tratar asuntos de su competencia, en términos de la ley de la materia; II.\tLas versiones públicas de las resoluciones que califiquen las excusas o recusaciones; III.\tEl listado de los asuntos por resolver; IV.\tLas notif",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 396,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
-      "source_article": "72",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "trevistas que lleve a cabo con personas que representen los intereses de los agentes económicos para tratar asuntos de su competencia, en términos de la ley de la materia; II.\tLos procesos de consultas públicas, el calendario de consultas a realizar y las respuestas o propuestas recibidas; III.\tLos programas sobre band",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 393,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -469,5 +439,5 @@
       "char_offset": 15991
     }
   ],
-  "resolved_at": "2026-03-30T12:00:46.244481+00:00"
+  "resolved_at": "2026-03-30T12:18:59.404707+00:00"
 }

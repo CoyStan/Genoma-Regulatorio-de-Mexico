@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
-  "extracted_at": "2026-03-30T12:00:11.241366+00:00",
-  "total_citations": 33,
+  "extracted_at": "2026-03-30T12:18:23.253553+00:00",
+  "total_citations": 30,
   "citations": [
     {
       "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
@@ -17,36 +17,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "código fiscal de la federación"
-    },
-    {
-      "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
-      "source_article": "14",
-      "target_law_raw": "Ley del Impuesto al Valor Agregado",
-      "target_law_id": "ley-iva",
-      "target_article": null,
-      "citation_text": "ca.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley del Impuesto sobre Tenencia o Uso de ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7358,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto al valor agregado"
-    },
-    {
-      "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
-      "source_article": "14",
-      "target_law_raw": "Ley del Impuesto Sobre la Renta",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "Chuayffet Chemor.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado, de la Ley del Impuesto Sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, de la Ley Federal del Impues",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7400,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
     },
     {
       "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
@@ -92,6 +62,21 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal del trabajo"
+    },
+    {
+      "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
+      "source_article": "14",
+      "target_law_raw": "Ley del Impuesto al Valor Agregado",
+      "target_law_id": "ley-iva",
+      "target_article": null,
+      "citation_text": "RIOS  PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero de 2004.  SEGUNDO. Para los efectos de lo dispuesto en el artículo 2-C de la Ley del Impuesto al Valor Agregado, los pagos correspondientes a los meses de enero, febrero, marzo y abril del 2004, se pagarán durante el mes de mayo de dicho año.  México, D.F., a 2",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 8215,
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del impuesto al valor agregado"
     },
     {
       "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
@@ -315,36 +300,6 @@
     {
       "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
       "source_article": "8o",
-      "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-isr",
-      "target_article": null,
-      "citation_text": "io de Administración Tributaria, Aristóteles Núñez Sánchez.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, del Código Fiscal de la Federación y de la Ley Federal del Impuesto sobre Automóviles Nuevos.  Publicado e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 305,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
-      "source_article": "8o",
-      "target_law_raw": "Ley del Impuesto al Valor Agregado",
-      "target_law_id": "ley-iva",
-      "target_article": null,
-      "citation_text": "teles Núñez Sánchez.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto al Valor Agregado, del Código Fiscal de la Federación y de la Ley Federal del Impuesto sobre Automóviles Nuevos.  Publicado en el Diario Oficial de la Federación el 30",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 344,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto al valor agregado"
-    },
-    {
-      "source_law": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
-      "source_article": "8o",
       "target_law_raw": "Ley Federal del ISAN para el año 2017",
       "target_law_id": "ley-federal-del-trabajo",
       "target_article": null,
@@ -493,5 +448,5 @@
       "resolution_matched_alias": "ley federal del trabajo"
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.346538+00:00"
+  "resolved_at": "2026-03-30T12:18:56.167389+00:00"
 }

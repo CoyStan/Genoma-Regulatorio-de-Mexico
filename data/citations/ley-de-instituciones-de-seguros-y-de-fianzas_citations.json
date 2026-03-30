@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-instituciones-de-seguros-y-de-fianzas",
-  "extracted_at": "2026-03-30T12:00:07.948401+00:00",
-  "total_citations": 156,
+  "extracted_at": "2026-03-30T12:18:19.773436+00:00",
+  "total_citations": 150,
   "citations": [
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -560,21 +560,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 268
-    },
-    {
-      "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
-      "source_article": "191",
-      "target_law_raw": "Ley sobre el Contrato de Seguro o 290 de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a, según corresponda, de haber recibido el pago de la reclamación de la póliza, o la certificación en términos de lo previsto en los artículos 158 de la Ley sobre el Contrato de Seguro o 290 de esta Ley, de que la Institución de que se trate pagó al asegurado del seguro de caución o al beneficiario de la fianza;  II.\tEn su caso, y sin más formalidad ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 922,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4857142857142857,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -1785,21 +1770,6 @@
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
-      "target_law_raw": "Ley para Regular las Agrupaciones Financieras",
-      "target_law_id": "ley-fintech",
-      "target_article": null,
-      "citation_text": "LOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras.  Publicado en el Diario Oficial de la Federación el 10 de enero de 2014  ARTÍCULO CUADRAGÉSIMO SÉPTIMO.- Se REFORMAN los artículos 49, décimo párraf",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 15678,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.75,
-      "resolution_matched_alias": "ley para regular las instituciones de tecnología financiera"
-    },
-    {
-      "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
-      "source_article": "510",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -1811,66 +1781,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.56,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
-      "source_article": "510",
-      "target_law_raw": "Ley de Instituciones de Seguros y de Fianzas y la Ley General para la Inclusión de las Personas con Discapacidad",
-      "target_law_id": "ley-instituciones-credito",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Seguros y de Fianzas y la Ley General para la Inclusión de las Personas con Discapacidad.  Publicado en el Diario Oficial de la Federación el 22 de junio de 2018  Artículo Primero.- Se adiciona un segundo párrafo a la fracción IV del artí",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 18840,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
-      "source_article": "510",
-      "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "a.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuradu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20902,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
-      "source_article": "510",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
-      "target_article": null,
-      "citation_text": "ús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contri",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20943,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
-      "source_article": "510",
-      "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20971,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -2290,5 +2200,5 @@
       "char_offset": 15148
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.046114+00:00"
+  "resolved_at": "2026-03-30T12:18:47.205470+00:00"
 }

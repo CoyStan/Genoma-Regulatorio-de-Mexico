@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-servicio-de-administracion-tributaria",
-  "extracted_at": "2026-03-30T12:00:09.902912+00:00",
-  "total_citations": 20,
+  "extracted_at": "2026-03-30T12:18:21.795339+00:00",
+  "total_citations": 19,
   "citations": [
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
@@ -130,21 +130,6 @@
       "char_offset": 898,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.7096774193548387,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-de-administracion-tributaria",
-      "source_article": "24",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ". Recaudación del Impuesto sobre la Renta de personas morales; personas físicas; residentes en el extranjero y otros regímenes fiscales que establece la ley de la materia; asimismo, presentar datos sobre el número de contribuyentes por régimen fiscal y recaudación por sector de actividad y por tamaño de contribuyente. ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 781,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -295,5 +280,5 @@
       "char_offset": 5988
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.224011+00:00"
+  "resolved_at": "2026-03-30T12:18:52.537232+00:00"
 }

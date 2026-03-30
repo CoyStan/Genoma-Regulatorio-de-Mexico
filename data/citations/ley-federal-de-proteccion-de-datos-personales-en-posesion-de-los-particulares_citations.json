@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
-  "extracted_at": "2026-03-30T12:00:11.004858+00:00",
-  "total_citations": 13,
+  "extracted_at": "2026-03-30T12:18:23.005555+00:00",
+  "total_citations": 12,
   "citations": [
     {
       "source_law": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
@@ -46,21 +46,6 @@
       "char_offset": 2269,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5070422535211268,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
-      "source_article": "49",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " del acuerdo respectivo.  Para efectos de la conciliación a que se alude en el presente ordenamiento, se estará al procedimiento que se establezca en el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 518,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -190,5 +175,5 @@
       "char_offset": 15824
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.482103+00:00"
+  "resolved_at": "2026-03-30T12:18:55.407460+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-de-justicia-militar",
-  "extracted_at": "2026-03-30T12:00:05.004789+00:00",
-  "total_citations": 60,
+  "extracted_at": "2026-03-30T12:18:16.731489+00:00",
+  "total_citations": 55,
   "citations": [
     {
       "source_law": "codigo-de-justicia-militar",
@@ -303,21 +303,6 @@
     {
       "source_law": "codigo-de-justicia-militar",
       "source_article": "2o",
-      "target_law_raw": "Ley de Indulto para los Reos de los Fueros Militar",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "TORIOS  PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abroga la Ley de Indulto para los Reos de los Fueros Militar, Federal y del Orden Común del Distrito y Territorios Federales, publicada en el Diario Oficial de la Federación el 18 de octubre de 1946.  México, D",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1375,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5660377358490566,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "codigo-de-justicia-militar",
-      "source_article": "2o",
       "target_law_raw": "Ley del Servicio Exterior Mexicano",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -494,36 +479,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del seguro social"
-    },
-    {
-      "source_law": "codigo-de-justicia-militar",
-      "source_article": "2o",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6543,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "codigo-de-justicia-militar",
-      "source_article": "2o",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6714,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
     },
     {
       "source_law": "codigo-de-justicia-militar",
@@ -738,21 +693,6 @@
     {
       "source_law": "codigo-de-justicia-militar",
       "source_article": "2o",
-      "target_law_raw": "Ley Orgánica de los Tribunales Militares",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "darán derogadas, una vez que entre en vigor la legislación en materia de Ejecución de Sentencias, que apruebe el Congreso de la Unión.  VI. Se abroga la Ley Orgánica de los Tribunales Militares publicada en el Diario Oficial de la Federación el 22 de junio de 1929.  VII. Todas las referencias que en este Código y demás ordenamientos se hagan al Supremo Tribunal Militar; a la Procuraduría General de Justicia Mil",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 25610,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "codigo-de-justicia-militar",
-      "source_article": "2o",
       "target_law_raw": "Código de Justicia Militar promulgado el día veintinueve de agosto de 1933 en el Diario Oficial de la Federación seguirá rigiendo",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -813,21 +753,6 @@
     {
       "source_law": "codigo-de-justicia-militar",
       "source_article": "2o",
-      "target_law_raw": "Ley de la Guardia Nacional",
-      "target_law_id": "ley-aguas-nacionales",
-      "target_article": null,
-      "citation_text": "ios  Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se abroga la Ley de la Guardia Nacional, publicada en el Diario Oficial de la Federación el 27 de mayo de 2019.  Tercero.- Las disposiciones legales, lineamientos, acuerdos y cualquier otra",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 54840,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8163265306122449,
-      "resolution_matched_alias": "ley de aguas nacionales"
-    },
-    {
-      "source_law": "codigo-de-justicia-militar",
-      "source_article": "2o",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -868,5 +793,5 @@
       "char_offset": 139
     }
   ],
-  "resolved_at": "2026-03-30T12:00:21.440907+00:00"
+  "resolved_at": "2026-03-30T12:18:37.777063+00:00"
 }

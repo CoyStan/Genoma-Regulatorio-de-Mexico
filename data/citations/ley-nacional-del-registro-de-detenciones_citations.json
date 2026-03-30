@@ -1,6 +1,6 @@
 {
   "law_id": "ley-nacional-del-registro-de-detenciones",
-  "extracted_at": "2026-03-30T12:00:13.939948+00:00",
+  "extracted_at": "2026-03-30T12:18:26.057321+00:00",
   "total_citations": 8,
   "citations": [
     {
@@ -115,5 +115,5 @@
       "char_offset": 1490
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.067530+00:00"
+  "resolved_at": "2026-03-30T12:19:01.099819+00:00"
 }

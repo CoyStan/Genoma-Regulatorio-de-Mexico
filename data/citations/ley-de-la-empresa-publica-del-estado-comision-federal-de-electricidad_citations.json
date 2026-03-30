@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
-  "extracted_at": "2026-03-30T12:00:08.140324+00:00",
-  "total_citations": 43,
+  "extracted_at": "2026-03-30T12:18:19.953914+00:00",
+  "total_citations": 40,
   "citations": [
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
@@ -182,21 +182,6 @@
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
-      "source_article": "65",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "- La Comisión Federal de Electricidad, con el propósito de realizar las actividades de transmisión y distribución de energía eléctrica en términos de la ley de la materia, puede: I.\tCelebrar contratos con sus empresas filiales o con particulares para llevar a cabo, entre otros, instalación, mantenimiento y ampliación d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 162,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "69",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -272,21 +257,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 5757
-    },
-    {
-      "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
-      "source_article": "86",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de: I.\tEl recurso de reconsideración ante la instancia colegiada que se determine en el Estatuto Orgánico, y conforme al procedimiento que establezca el Reglamento de esta Ley, o II.\tLa acción jurisdiccional que corresponda ante el Tribunal Federal de Justicia Administrativa. Contra las demás resoluciones emitidas en las et",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 272,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
@@ -570,21 +540,6 @@
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "131",
-      "target_law_raw": "Ley de la Comisión Federal de Electricidad",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Transitorios Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. Segundo.- Se abroga la Ley de la Comisión Federal de Electricidad publicada en el Diario Oficial de la Federación el 11 de agosto de 2014; así mismo, se derogan todas aquellas disposiciones legales y administrativas que se opongan a la presente Ley. Tercero.- La Comisión Federal de Elec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 372,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.647887323943662,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
-      "source_article": "131",
       "target_law_raw": "Ley del Sector Eléctrico y las demás disposiciones jurídicas",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -610,5 +565,5 @@
       "char_offset": 781
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.647048+00:00"
+  "resolved_at": "2026-03-30T12:18:47.789042+00:00"
 }

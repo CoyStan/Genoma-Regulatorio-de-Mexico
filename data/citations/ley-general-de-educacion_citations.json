@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-de-educacion",
-  "extracted_at": "2026-03-30T12:00:12.172362+00:00",
-  "total_citations": 75,
+  "extracted_at": "2026-03-30T12:18:24.183443+00:00",
+  "total_citations": 71,
   "citations": [
     {
       "source_law": "ley-general-de-educacion",
@@ -89,21 +89,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 199
-    },
-    {
-      "source_law": "ley-general-de-educacion",
-      "source_article": "48",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "era gradual, comenzando con el nivel de licenciatura y, progresivamente, con los demás niveles de este tipo educativo, en los términos que establezca la ley de la materia, priorizando la inclusión de los pueblos y comunidades indígenas y afromexicanas y los grupos sociales más desfavorecidos para proporcionar la presta",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1018,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-educacion",
@@ -383,21 +368,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 637
-    },
-    {
-      "source_law": "ley-general-de-educacion",
-      "source_article": "111",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 111. El Sistema Educativo Nacional contribuirá a la mejora continua de la educación con base en las disposiciones aplicables en la ley de la materia. Para tal efecto, dicha ley establecerá el Sistema de Mejora Continua de la Educación previsto en la fracción IX del artículo 3o. de la Constitución ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 137,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-educacion",
@@ -756,21 +726,6 @@
     {
       "source_law": "ley-general-de-educacion",
       "source_article": "181",
-      "target_law_raw": "Ley General de la Infraestructura Física Educativa",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "s leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.  Tercero. Se abroga la Ley General de la Infraestructura Física Educativa, publicada el 1 de febrero de 2008 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes secundarias y q",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 689,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-educacion",
-      "source_article": "181",
       "target_law_raw": "Ley General de Educación y se realicen las adecuaciones normativas en esta materia de infraestructura educativa",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
@@ -812,36 +767,6 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-educacion",
-      "source_article": "181",
-      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ".- La Secretaria de Gobernación, Luisa María Alcalde Luján.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Fede",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 32954,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5393258426966292,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-educacion",
-      "source_article": "181",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": " Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres; de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia; del Código Nacional de Procedimientos Civiles y Familiares; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 33014,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
     },
     {
       "source_law": "ley-general-de-educacion",
@@ -1026,17 +951,32 @@
     {
       "source_law": "ley-general-de-educacion",
       "source_article": "181",
-      "target_law_raw": "Ley del Instituto Nacional de las Mujeres",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+      "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": " Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el present",
+      "citation_text": "ones que se opongan a lo dispuesto en el presente Decreto.  Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.  Cuarto. Las autoridades competentes de la Federac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 34431,
+      "char_offset": 34727,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
+      "resolution_matched_alias": "ley general de sociedades mercantiles"
+    },
+    {
+      "source_law": "ley-general-de-educacion",
+      "source_article": "181",
+      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
+      "target_law_id": "unresolved",
+      "target_article": null,
+      "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 35944,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.5393258426966292,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-educacion",
@@ -1066,5 +1006,5 @@
       "char_offset": 10948
     }
   ],
-  "resolved_at": "2026-03-30T12:00:44.219534+00:00"
+  "resolved_at": "2026-03-30T12:18:57.828572+00:00"
 }

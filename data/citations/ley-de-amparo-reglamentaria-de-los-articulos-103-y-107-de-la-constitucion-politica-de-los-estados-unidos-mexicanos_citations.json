@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-03-30T12:00:06.630075+00:00",
-  "total_citations": 67,
+  "extracted_at": "2026-03-30T12:18:18.459775+00:00",
+  "total_citations": 63,
   "citations": [
     {
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -309,21 +309,6 @@
     {
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "170",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "rrafo reformado DOF 17-06-2016, 13-03-2025  Para la procedencia del juicio deberán agotarse previamente los recursos ordinarios que se establezcan en la ley de la materia, por virtud de los cuales aquellas sentencias definitivas o laudos y resoluciones puedan ser modificados o revocados, salvo el caso en que la ley per",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 908,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "170",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "104",
@@ -594,11 +579,11 @@
       "target_law_raw": "Ley de Amparo",
       "target_law_id": "ley-amparo",
       "target_article": null,
-      "citation_text": "TRANSITORIOS  PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO. Se abroga la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federació",
+      "citation_text": "tancia, así como al cumplimiento y ejecución de las sentencias de amparo.  CUARTO. A las personas que hayan cometido un delito de los contemplados en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 Constitucionales publicada en el Diario Oficial de la Federación de 10 de enero de 1936, incluidas las proc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 494,
+      "char_offset": 1254,
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de amparo"
@@ -692,21 +677,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de protección al consumidor"
-    },
-    {
-      "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "271",
-      "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.  VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 39805,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -831,36 +801,6 @@
     {
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "271",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64846,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "271",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 64903,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "271",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -916,5 +856,5 @@
       "char_offset": 533
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.034178+00:00"
+  "resolved_at": "2026-03-30T12:18:42.729318+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
-  "extracted_at": "2026-03-30T12:00:14.871594+00:00",
-  "total_citations": 40,
+  "extracted_at": "2026-03-30T12:18:27.033760+00:00",
+  "total_citations": 38,
   "citations": [
     {
       "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
@@ -71,21 +71,6 @@
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 141
-    },
-    {
-      "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
-      "source_article": "72",
-      "target_law_raw": "Ley Federal del Trabajo ni a los gestores a que se refiere el artículo 26 de esta Ley",
-      "target_law_id": "ley-federal-del-trabajo",
-      "target_article": null,
-      "citation_text": "mpoco se aplicará sanción a los dirigentes de los Sindicatos cuando ejerciten actividades de índole profesional dentro de los términos prevenidos por la Ley Federal del Trabajo ni a los gestores a que se refiere el artículo 26 de esta Ley.  Se exceptúan también de las sanciones que impone este capítulo a las demás personas exceptuadas por la Ley Federal del Trabajo de poseer título, no",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 300,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal del trabajo"
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
@@ -185,21 +170,6 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7848101265822784,
       "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
-      "source_article": "22",
-      "target_law_raw": "Ley para la Protección de los Derechos de Niñas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "brica.   DECRETO por el que se reforman y adicionan diversas disposiciones del Código Penal Federal; del Código Federal de Procedimientos Penales; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes; de la Ley General de Educación; de la Ley de Asociaciones Religiosas y Culto Público; de la Ley Federal de Protección al Consu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6771,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6075949367088608,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
@@ -589,5 +559,5 @@
       "char_offset": 319
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.245146+00:00"
+  "resolved_at": "2026-03-30T12:19:03.089116+00:00"
 }

@@ -1,6 +1,6 @@
 {
   "law_id": "ley-federal-de-austeridad-republicana",
-  "extracted_at": "2026-03-30T12:00:10.185518+00:00",
+  "extracted_at": "2026-03-30T12:18:22.115440+00:00",
   "total_citations": 36,
   "citations": [
     {
@@ -526,5 +526,5 @@
       "char_offset": 4820
     }
   ],
-  "resolved_at": "2026-03-30T12:00:39.057809+00:00"
+  "resolved_at": "2026-03-30T12:18:53.336146+00:00"
 }

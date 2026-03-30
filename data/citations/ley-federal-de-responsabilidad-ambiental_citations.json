@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-responsabilidad-ambiental",
-  "extracted_at": "2026-03-30T12:00:11.039482+00:00",
-  "total_citations": 41,
+  "extracted_at": "2026-03-30T12:18:23.042147+00:00",
+  "total_citations": 38,
   "citations": [
     {
       "source_law": "ley-federal-de-responsabilidad-ambiental",
@@ -161,21 +161,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 771
-    },
-    {
-      "source_law": "ley-federal-de-responsabilidad-ambiental",
-      "source_article": "7o",
-      "target_law_raw": "Ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "nados al ambiente, la Secretaría deberá emitir paulatinamente normas oficiales mexicanas, que tengan por objeto establecer caso por caso y atendiendo la Ley de la materia, las cantidades mínimas de deterioro, pérdida, cambio, menoscabo, afectación, modificación y contaminación, necesarias para considerarlos como advers",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 270,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-responsabilidad-ambiental",
@@ -531,36 +516,6 @@
     {
       "source_law": "ley-federal-de-responsabilidad-ambiental",
       "source_article": "56",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ca.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2051,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-responsabilidad-ambiental",
-      "source_article": "56",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ong.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2108,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-federal-de-responsabilidad-ambiental",
-      "source_article": "56",
       "target_law_raw": "Código Nacional de Procedimientos Civiles y Familiares las Cámaras de Diputados y Senadores que integran el Congreso de la Unión",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -601,5 +556,5 @@
       "char_offset": 1607
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.675673+00:00"
+  "resolved_at": "2026-03-30T12:18:55.601204+00:00"
 }

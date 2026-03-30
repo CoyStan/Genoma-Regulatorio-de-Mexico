@@ -1,6 +1,6 @@
 {
   "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
-  "extracted_at": "2026-03-30T12:00:06.842198+00:00",
+  "extracted_at": "2026-03-30T12:18:18.670747+00:00",
   "total_citations": 10,
   "citations": [
     {
@@ -114,11 +114,11 @@
       "target_law_raw": "Ley de Cámaras Empresariales",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": " ARTÍCULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  ARTÍCULO SEGUNDO.- Se abroga la Ley de Cámaras Empresariales y sus Confederaciones, publicada en el Diario Oficial de la Federación el 20 de diciembre de 1996, así como sus reformas y adiciones.  ARTÍCULO TERCERO.- Las Cámaras de In",
+      "citation_text": "adiciona una fracción VIII, recorriéndose las fracciones VIII a X, manteniendo su contenido para quedar como fracciones IX, X y XI del artículo 22 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:  .  TRANSITORIO  Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 423,
+      "char_offset": 3035,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6896551724137931,
       "resolution_matched_alias": null
@@ -136,5 +136,5 @@
       "char_offset": 2162
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.742211+00:00"
+  "resolved_at": "2026-03-30T12:18:43.302909+00:00"
 }

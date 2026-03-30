@@ -1,6 +1,6 @@
 {
   "law_id": "ley-de-la-comision-nacional-de-energia",
-  "extracted_at": "2026-03-30T12:00:08.055269+00:00",
+  "extracted_at": "2026-03-30T12:18:19.873057+00:00",
   "total_citations": 16,
   "citations": [
     {
@@ -241,5 +241,5 @@
       "char_offset": 8435
     }
   ],
-  "resolved_at": "2026-03-30T12:00:32.497651+00:00"
+  "resolved_at": "2026-03-30T12:18:47.628386+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-03-30T12:00:14.334199+00:00",
-  "total_citations": 75,
+  "extracted_at": "2026-03-30T12:18:26.488045+00:00",
+  "total_citations": 71,
   "citations": [
     {
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
@@ -323,21 +323,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de responsabilidades administrativas"
-    },
-    {
-      "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
-      "source_article": "53",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " las personas servidoras públicas; dar seguimiento, investigar y verificar la evolución patrimonial; emitir el certificado de no anomalías conforme a la ley de la materia y demás disposiciones aplicables, así como, certificar documentos que, por el ejercicio de sus funciones, obren en sus archivos. Artículo reformado DOF 24-12-2007, 07-07-2025",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4391,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
@@ -861,21 +846,6 @@
     {
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "source_article": "144",
-      "target_law_raw": "Ley General del Sistema de Medios de Impugnación",
-      "target_law_id": "ley-federal-anticorrupcion",
-      "target_article": null,
-      "citation_text": "rica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley Orgánica de la Administración Pública Federal y del Código Federal de Instituciones y Procedimientos Electorales en materia de Iniciativa ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 43978,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
-    },
-    {
-      "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
-      "source_article": "144",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados-Unidos Mexicanos",
       "target_law_id": "ley-pemex",
       "target_article": null,
@@ -887,36 +857,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
-      "source_article": "144",
-      "target_law_raw": "Ley Federal de Comqpetencia Económica",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "ia.- Rúbrica.- Sen. María Elena Barrera Tapia.- Secretaria.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Comqpetencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52157,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9863013698630136,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
-      "source_article": "144",
-      "target_law_raw": "Ley de la Comisión Nacional de los Derechos Humanos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": ".- Secretaria.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Comqpetencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 52202,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
@@ -1006,5 +946,5 @@
       "char_offset": 12364
     }
   ],
-  "resolved_at": "2026-03-30T12:00:49.291209+00:00"
+  "resolved_at": "2026-03-30T12:19:02.228339+00:00"
 }

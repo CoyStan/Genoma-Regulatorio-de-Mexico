@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-zonas-economicas-especiales",
-  "extracted_at": "2026-03-30T12:00:11.178969+00:00",
-  "total_citations": 29,
+  "extracted_at": "2026-03-30T12:18:23.187766+00:00",
+  "total_citations": 25,
   "citations": [
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -65,36 +65,6 @@
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
-      "source_article": "8",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "á celebrarse el Convenio de Coordinación;  VI. La fecha a partir de la cual iniciará operaciones la Zona, y  VII.\tLos demás requisitos que establezca el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1157,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-zonas-economicas-especiales",
-      "source_article": "9",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "plazos requeridos para tal efecto, la cual servirá de base para la elaboración del Programa de Desarrollo, y  VI. La demás información que establezca el Reglamento de esta Ley.  Una vez que el Dictamen cuente con la aprobación de la Comisión Intersecretarial, la Secretaría someterá a consideración del Titular del Ejecutivo ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3020,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-zonas-economicas-especiales",
       "source_article": "10",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
       "target_law_id": "ley-federal-anticorrupcion",
@@ -152,21 +122,6 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley aduanera"
-    },
-    {
-      "source_law": "ley-federal-de-zonas-economicas-especiales",
-      "source_article": "16",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "gularidades que, en su caso, detecte en relación con la operación de las Zonas, para los efectos legales que procedan, e  i) Las demás que establezca el Reglamento de esta Ley.  Sección IV Del impacto social y ambiental",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3821,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -335,21 +290,6 @@
     },
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
-      "source_article": "38",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "tuido el mismo, con representantes de dichos sectores.  Las bases de organización y funcionamiento de la Comisión Intersecretarial se determinarán en el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 886,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-zonas-economicas-especiales",
       "source_article": "42",
       "target_law_raw": "Ley de Ingresos de la Federación del ejercicio fiscal correspondiente",
       "target_law_id": "unresolved",
@@ -436,5 +376,5 @@
       "char_offset": 1872
     }
   ],
-  "resolved_at": "2026-03-30T12:00:42.082135+00:00"
+  "resolved_at": "2026-03-30T12:18:55.938959+00:00"
 }

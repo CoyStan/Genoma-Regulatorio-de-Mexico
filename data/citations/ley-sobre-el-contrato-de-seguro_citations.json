@@ -1,7 +1,7 @@
 {
   "law_id": "ley-sobre-el-contrato-de-seguro",
-  "extracted_at": "2026-03-30T12:00:14.927645+00:00",
-  "total_citations": 16,
+  "extracted_at": "2026-03-30T12:18:27.094761+00:00",
+  "total_citations": 12,
   "citations": [
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
@@ -135,36 +135,6 @@
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
       "source_article": "181",
-      "target_law_raw": "Ley Sobre el Contrato de Seguro para quedar redactado en los siguientes términos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a el artículo 41 de la ley mencionada para quedar redactado en los siguientes términos:  ..........  ARTICULO SEPTIMO.- Se reforma el artículo 180 de la Ley Sobre el Contrato de Seguro para quedar redactado en los siguientes términos:  ..........  TRANSITORIOS  ARTICULO PRIMERO.- Se derogan las disposiciones de la Ley Sobre el Contrato de Seguro en lo que se opongan a estas reforma",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2932,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4691358024691358,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-el-contrato-de-seguro",
-      "source_article": "181",
-      "target_law_raw": "Ley Sobre el Contrato de Seguro en lo que se opongan a estas reformas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "el Contrato de Seguro para quedar redactado en los siguientes términos:  ..........  TRANSITORIOS  ARTICULO PRIMERO.- Se derogan las disposiciones de la Ley Sobre el Contrato de Seguro en lo que se opongan a estas reformas.  ARTICULO SEGUNDO.- Las disposiciones actualmente en vigor continuarán rigiendo para los contratos de seguros celebrados con anterioridad a estas re",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3095,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4768211920529801,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-el-contrato-de-seguro",
-      "source_article": "181",
       "target_law_raw": "Ley sobre el Contrato de Seguro para quedar como sigue",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -183,44 +153,14 @@
       "target_law_raw": "Ley General de Instituciones y Sociedades Mutualistas de Seguros",
       "target_law_id": "ley-general-sociedades-mercantiles",
       "target_article": null,
-      "citation_text": "da.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, de la Ley Federal de Instituciones de Fianzas y de la Ley sobre el Contrato de Seguro.  Publicado en el Diario Oficial de la Federación el 24 de abr",
+      "citation_text": "GUNDO.- A las instituciones de seguros que a la entrada en vigor del presente Decreto cuenten con la autorización a que se refiere el artículo 7o. de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, para practicar el ramo de seguro de crédito y otras operaciones o ramos, no les será aplicable la limitación prevista en el penúltimo párrafo que se",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 5660,
+      "char_offset": 6385,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-sobre-el-contrato-de-seguro",
-      "source_article": "181",
-      "target_law_raw": "Ley Federal de Instituciones de Fianzas y de la Ley sobre el Contrato de Seguro",
-      "target_law_id": "ley-federal-competencia-economica",
-      "target_article": null,
-      "citation_text": "brica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, de la Ley Federal de Instituciones de Fianzas y de la Ley sobre el Contrato de Seguro.  Publicado en el Diario Oficial de la Federación el 24 de abril de 2006  ARTÍCULO TERCERO.- Se REFORMAN los artículos 145, párrafo segundo, y 145 Bi",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5732,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-sobre-el-contrato-de-seguro",
-      "source_article": "181",
-      "target_law_raw": "Ley sobre el Contrato de Seguro y de la Ley de Protección y Defensa al Usuario de Servicios Financieros",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "brica.- El Secretario de Gobernación, Carlos María Abascal Carranza.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley sobre el Contrato de Seguro y de la Ley de Protección y Defensa al Usuario de Servicios Financieros.  Publicado en el Diario Oficial de la Federación el 6 de mayo de 2009  ARTÍCULO PRIMERO.- Se reforma el artículo 81; se adicionan las fracciones I y",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8486,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4777777777777778,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
@@ -235,5 +175,5 @@
       "char_offset": 809
     }
   ],
-  "resolved_at": "2026-03-30T12:00:50.456521+00:00"
+  "resolved_at": "2026-03-30T12:19:03.213434+00:00"
 }

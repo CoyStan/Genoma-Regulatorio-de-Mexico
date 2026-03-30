@@ -1,6 +1,6 @@
 {
   "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
-  "extracted_at": "2026-03-30T12:00:14.015780+00:00",
+  "extracted_at": "2026-03-30T12:18:26.136165+00:00",
   "total_citations": 9,
   "citations": [
     {
@@ -133,5 +133,5 @@
       "char_offset": 1039
     }
   ],
-  "resolved_at": "2026-03-30T12:00:48.285225+00:00"
+  "resolved_at": "2026-03-30T12:19:01.313851+00:00"
 }

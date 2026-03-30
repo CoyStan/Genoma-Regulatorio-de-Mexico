@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
-  "extracted_at": "2026-03-30T12:00:10.001061+00:00",
-  "total_citations": 66,
+  "extracted_at": "2026-03-30T12:18:21.898294+00:00",
+  "total_citations": 61,
   "citations": [
     {
       "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
@@ -390,21 +390,6 @@
     {
       "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
       "source_article": "126",
-      "target_law_raw": "Ley de Información Estadística y Geográfica y las demás disposiciones que se opongan a la presente Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "en proceso de generación por parte de las Unidades, deberá apegarse a las disposiciones que al efecto emita el Instituto.  DÉCIMO SÉPTIMO.- Se abroga la Ley de Información Estadística y Geográfica y las demás disposiciones que se opongan a la presente Ley.  México, D.F., a 11 de marzo de 2008.- Sen. Santiago Creel Miranda, Presidente.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Adrián Rivera Pérez, ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11959,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3880597014925373,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
-      "source_article": "126",
       "target_law_raw": "Ley del Sistema Público de Radiodifusión del Estado Mexicano",
       "target_law_id": "ley-sistemas-pagos",
       "target_article": null,
@@ -495,21 +480,6 @@
     {
       "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
       "source_article": "126",
-      "target_law_raw": "Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, se deroga el último párrafo del artículo 14 de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2014.  VIGÉSIMO QUINTO. Lo dispuesto en la fracción V del artículo 118 de la Ley Federal de Telecomunicaciones y Radiodifusión, entrará en vigor el 1 de e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 48044,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4716981132075472,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
-      "source_article": "126",
       "target_law_raw": "Código Nacional de Procedimientos Penales",
       "target_law_id": "codigo-nacional-procedimientos-penales",
       "target_article": null,
@@ -536,21 +506,6 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de instituciones y procedimientos electorales"
-    },
-    {
-      "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
-      "source_article": "126",
-      "target_law_raw": "Ley de la Comisión Nacional de los Derechos Humanos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "l Osorio Chong.- Rúbrica.   DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Competencia Económica, de la Ley de la Comisión Nacional de los Derechos Humanos, de la Ley Federal de Telecomunicaciones y Radiodifusión, de la Ley del Sistema Nacional de Información Estadística y Geográfica, de la Ley General d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 63630,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5909090909090909,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
@@ -930,36 +885,6 @@
     {
       "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
       "source_article": "126",
-      "target_law_raw": "Ley de la Fiscalía General de la República",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamiento",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 74965,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
-      "source_article": "126",
-      "target_law_raw": "Ley Orgánica de la Fiscalía General de la República y se reforman",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": " de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley de la Fiscalía General de la República, se abroga la Ley Orgánica de la Fiscalía General de la República y se reforman, adicionan y derogan diversas disposiciones de distintos ordenamientos legales.  Publicado en el Diario Oficial de la Federación el 20 de mayo de 202",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 75022,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
-      "source_article": "126",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "89",
@@ -970,5 +895,5 @@
       "char_offset": 12345
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.671435+00:00"
+  "resolved_at": "2026-03-30T12:18:52.923871+00:00"
 }

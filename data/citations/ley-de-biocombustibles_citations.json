@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-biocombustibles",
-  "extracted_at": "2026-03-30T12:00:06.797286+00:00",
-  "total_citations": 30,
+  "extracted_at": "2026-03-30T12:18:18.625201+00:00",
+  "total_citations": 26,
   "citations": [
     {
       "source_law": "ley-de-biocombustibles",
@@ -200,21 +200,6 @@
     },
     {
       "source_law": "ley-de-biocombustibles",
-      "source_article": "3",
-      "target_law_raw": "Ley de Planeación y las demás leyes y ordenamientos relacionados que regulen las materias de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "esiduos, la Ley General de Cambio Climático, la Ley General de Desarrollo Forestal Sustentable, la Ley Orgánica de la Administración Pública Federal, la Ley de Planeación y las demás leyes y ordenamientos relacionados que regulen las materias de esta Ley, así como los tratados internacionales de los que México sea parte.  TÍTULO SEGUNDO De las Autoridades Competentes y de la Coordinación  Capítulo I D",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 493,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5308641975308642,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-biocombustibles",
       "source_article": "5",
       "target_law_raw": "Reglamento de la presente Ley",
       "target_law_id": "unresolved",
@@ -257,21 +242,6 @@
     },
     {
       "source_law": "ley-de-biocombustibles",
-      "source_article": "21",
-      "target_law_raw": "ley de la materia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s de sus investigaciones, sin perjuicio de los derechos de propiedad intelectual y de la información que por su naturaleza deba reservarse conforme a la ley de la materia, y  XI.\tLas demás que expresamente le atribuya esta Ley, sus disposiciones reglamentarias, las normas oficiales que de ella deriven, las leyes y regl",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2886,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-biocombustibles",
       "source_article": "22",
       "target_law_raw": "Reglamento de la presente Ley",
       "target_law_id": "unresolved",
@@ -298,21 +268,6 @@
       "char_offset": 794,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5333333333333333,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-biocombustibles",
-      "source_article": "32",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "2.- Los permisos y autorizaciones a que se refiere el presente Capítulo se otorgan, modifican, actualizan, suspenden, revocan y extinguen con base en el Reglamento de esta Ley y, en su caso, los lineamientos específicos emitidos por las autoridades competentes, los cuales al menos deben señalar:  I.\tLos términos y condiciones",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 160,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -393,31 +348,16 @@
     {
       "source_law": "ley-de-biocombustibles",
       "source_article": "46",
-      "target_law_raw": "Ley de Promoción y Desarrollo de los Bioenergéticos",
+      "target_law_raw": "Ley de Promoción y Desarrollo de los Bioenergéticos se entienden hechas",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "ansitorios  Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo.- Se abroga la Ley de Promoción y Desarrollo de los Bioenergéticos, publicada en el Diario Oficial de la Federación el 1 de febrero de 2008 y se derogan todas aquellas disposiciones que se opongan a lo dispuesto en l",
+      "citation_text": "ficadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.  Las referencias legales o reglamentarias a la Ley de Promoción y Desarrollo de los Bioenergéticos se entienden hechas, en lo aplicable, a la Ley de Biocombustibles.  Cuarto.- En tanto se expiden los reglamentos correspondientes, la SADER, la SENER y la SEMARNAT tiene",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 383,
+      "char_offset": 1049,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5263157894736842,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-biocombustibles",
-      "source_article": "46",
-      "target_law_raw": "Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a la fecha de su entrada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "nes jurídicas que para el efecto haya emitido la autoridad competente con anterioridad a la presente Ley.  Quinto.- El Ejecutivo Federal debe expedir el Reglamento de la presente Ley dentro de los ciento ochenta días siguientes a la fecha de su entrada en vigor.  Sexto.- La SADER y la SENER deben publicar en el Diario Oficial de la Federación los formatos de solicitud de permisos previstos en el artículo 30 ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1672,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.39593908629441626,
+      "resolution_score": 0.48148148148148145,
       "resolution_matched_alias": null
     },
     {
@@ -448,5 +388,5 @@
       "char_offset": 4860
     }
   ],
-  "resolved_at": "2026-03-30T12:00:27.680790+00:00"
+  "resolved_at": "2026-03-30T12:18:43.241868+00:00"
 }

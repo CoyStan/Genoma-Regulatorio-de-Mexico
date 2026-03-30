@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-servicio-militar",
-  "extracted_at": "2026-03-30T12:00:09.939649+00:00",
-  "total_citations": 39,
+  "extracted_at": "2026-03-30T12:18:21.833597+00:00",
+  "total_citations": 31,
   "citations": [
     {
       "source_law": "ley-del-servicio-militar",
@@ -29,81 +29,6 @@
     },
     {
       "source_law": "ley-del-servicio-militar",
-      "source_article": "10",
-      "target_law_raw": "Reglamento de esta Ley fijará las causas de excepción total o parcial para el servicio de las armas",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTICULO 10.- El Reglamento de esta Ley fijará las causas de excepción total o parcial para el servicio de las armas, señalando los impedimentos de orden físico, moral y social y la manera de comprobarlos. La Secretaría de la Defensa Nacional, por virtud de esta Ley",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4431818181818182,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
-      "source_article": "16",
-      "target_law_raw": "Reglamento de esta Ley se determinen",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTICULO 16.- Los individuos de la primera y segunda reservas, concurrirán a los períodos de instrucción que en el Reglamento de esta Ley se determinen.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 112,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.45454545454545453,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
-      "source_article": "24",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "es párrafo segundo Fracción reformada DOF 18-08-1944  III.- Se deroga. Fracción derogada DOF 18-05-2022  IV.- Satisfacer los requisitos que determine el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 559,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
-      "source_article": "30",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "el buen desempeño de sus deberes militares, serán nombrados Subtenientes de Complemento, previo examen que sustentarán en los términos que establezca el Reglamento de esta Ley.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 348,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
-      "source_article": "52",
-      "target_law_raw": "Reglamento de esta Ley determine para que tengan lugar los reconocimientos médicos quedarán exentos de todo otro servicio militar",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTICULO 52.- Los médicos de que habla el artículo 48 durante los períodos que el Reglamento de esta Ley determine para que tengan lugar los reconocimientos médicos quedarán exentos de todo otro servicio militar.",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 79,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.3964757709251101,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
       "source_article": "63",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
@@ -113,21 +38,6 @@
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 537
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
-      "source_article": "3º",
-      "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ARTICULO 3º.- Mientras se expide el Reglamento de esta Ley, el Ejecutivo de la Unión o la Secretaría de la Defensa Nacional dictarán las disposiciones que sean necesarias para el inmediato cumplimiento de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 33,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-servicio-militar",
@@ -339,36 +249,6 @@
     {
       "source_law": "ley-del-servicio-militar",
       "source_article": "2º",
-      "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-issste",
-      "target_article": null,
-      "citation_text": "iación Civil; 189, 216 y 612, fracción I, de la Ley Federal del Trabajo; 267 de la Ley del Seguro Social; 156, fracción I, y 166, segundo párrafo, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armada",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2571,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
-      "source_article": "2º",
-      "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
-      "target_article": null,
-      "citation_text": "de Seguridad y Servicios Sociales de los Trabajadores del Estado; 28, primer párrafo, 50, fracción IV, y se deroga la fracción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constituciona",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2742,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del instituto del fondo nacional de la vivienda para los trabajadores"
-    },
-    {
-      "source_law": "ley-del-servicio-militar",
-      "source_article": "2º",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
       "target_law_id": "ley-federal-competencia-economica",
       "target_article": null,
@@ -574,5 +454,5 @@
       "char_offset": 139
     }
   ],
-  "resolved_at": "2026-03-30T12:00:38.453854+00:00"
+  "resolved_at": "2026-03-30T12:18:52.702600+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
-  "extracted_at": "2026-03-30T12:00:13.475243+00:00",
-  "total_citations": 74,
+  "extracted_at": "2026-03-30T12:18:25.548176+00:00",
+  "total_citations": 72,
   "citations": [
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
@@ -513,29 +513,14 @@
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
       "source_article": "112",
-      "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y de la Ley General del Sistema de Medios de Impugnación",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "ffet Chemor.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General del Sistema de Medios de Impugnación en Materia Electoral.  Publicado en el Diario Oficial de la Federación el 1º de julio de 2008  Artículo Segundo. SE REFORMAN los artículos 3, párrafo 2, inciso d); 4, pár",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6239,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
-      "source_article": "112",
-      "target_law_raw": "Ley General del Sistema de Medios de Impugnación",
+      "target_law_raw": "LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN",
       "target_law_id": "ley-federal-anticorrupcion",
       "target_article": null,
-      "citation_text": "a fracción IV; 77 Bis; 80, párrafo 1, un inciso g) y un párrafo 3; y SE DEROGAN del artículo 44, el párrafo 2; y del 51, el párrafo 2; todos ellos de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:  .  DISPOSICIONES TRANSITORIAS DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL  Artículo Primero",
+      "citation_text": "2; todos ellos de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, para quedar como sigue:  .  DISPOSICIONES TRANSITORIAS DE LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL  Artículo Primero.- Las facultades y atribuciones de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación contenidas en la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 8006,
+      "char_offset": 8138,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general del sistema nacional anticorrupción"
@@ -558,21 +543,6 @@
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
       "source_article": "112",
-      "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
-      "target_article": null,
-      "citation_text": "Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley Orgánica de la Administración Pública Federal y del Código Fe",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10077,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
-    },
-    {
-      "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
-      "source_article": "112",
       "target_law_raw": "Ley General de Instituciones y Procedimientos Electorales",
       "target_law_id": "lgipe",
       "target_article": null,
@@ -584,6 +554,21 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de instituciones y procedimientos electorales"
+    },
+    {
+      "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
+      "source_article": "112",
+      "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
+      "target_law_id": "ley-pemex",
+      "target_article": null,
+      "citation_text": "mientos Electorales; y se reforman y adicionan diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.  Publicado en el Diario Oficial de la Federación el 23 de mayo de 2014  ARTÍCULO SEGUNDO.- Se REFORMAN los párrafos 1 y 2 del artículo 2; los inciso",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 12020,
+      "resolution_confidence": "low",
+      "resolution_score": 0.85,
+      "resolution_matched_alias": "ley orgánica de pemex"
     },
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
@@ -933,21 +918,6 @@
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
       "source_article": "112",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se reforman y adicionan diversas disposiciones de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley General de Instituciones y Procedimientos Electorales, de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17929,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
-      "source_article": "112",
       "target_law_raw": "Ley General de Partidos Políticos",
       "target_law_id": "lgpp",
       "target_article": null,
@@ -1063,5 +1033,5 @@
       "char_offset": 2946
     }
   ],
-  "resolved_at": "2026-03-30T12:00:46.885095+00:00"
+  "resolved_at": "2026-03-30T12:18:59.929430+00:00"
 }

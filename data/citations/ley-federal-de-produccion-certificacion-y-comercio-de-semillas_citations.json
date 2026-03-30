@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
-  "extracted_at": "2026-03-30T12:00:10.866833+00:00",
-  "total_citations": 36,
+  "extracted_at": "2026-03-30T12:18:22.863288+00:00",
+  "total_citations": 31,
   "citations": [
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
@@ -272,21 +272,6 @@
     },
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
-      "source_article": "28",
-      "target_law_raw": "Reglamento de esta Ley y en las Reglas para cada especie",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Artículo 28.- En el Reglamento de esta Ley y en las Reglas para cada especie, se establecerán los requisitos para la conservación de generaciones de cada categoría, excepto la Certificada. Lo anterior será aplicable también a ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 17,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4307692307692308,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "30",
       "target_law_raw": "Ley Federal sobre Metrología y Normalización",
       "target_law_id": "unresolved",
@@ -408,21 +393,6 @@
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "37",
-      "target_law_raw": "Reglamento de esta Ley se establecerán los mecanismos para la constitución",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ión de tecnologías en semillas y variedades vegetales aplicables a las diversas condiciones agroambientales y socioeconómicas de los productores.  En el Reglamento de esta Ley se establecerán los mecanismos para la constitución, integración y operación de estos Comités.  CAPÍTULO IX DE LAS INFRACCIONES Y SANCIONES",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1392,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
-      "source_article": "37",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
       "target_law_id": "constitucion-politica",
       "target_article": "",
@@ -465,59 +435,14 @@
     {
       "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
       "source_article": "42",
-      "target_law_raw": "Reglamento de la presente Ley dentro de los doce meses siguientes a su entrada",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ará en vigor a los sesenta días siguientes al de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- El Ejecutivo Federal deberá expedir el Reglamento de la presente Ley dentro de los doce meses siguientes a su entrada en vigor. En tanto, se aplicará de forma supletoria, en lo que no la contravenga, el Reglamento de la Ley sobre Producción, Certificación y Comercio de Semill",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 621,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4090909090909091,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
-      "source_article": "42",
-      "target_law_raw": "Reglamento de la Ley sobre Producción",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de la presente Ley dentro de los doce meses siguientes a su entrada en vigor. En tanto, se aplicará de forma supletoria, en lo que no la contravenga, el Reglamento de la Ley sobre Producción, Certificación y Comercio de Semillas, publicado en el Diario Oficial de la Federación el 26 de mayo de 1993.  TERCERO.- Se abroga la Ley sobre Produ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 785,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
-      "source_article": "42",
-      "target_law_raw": "Ley sobre Producción",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "y sobre Producción, Certificación y Comercio de Semillas, publicado en el Diario Oficial de la Federación el 26 de mayo de 1993.  TERCERO.- Se abroga la Ley sobre Producción, Certificación y Comercio de Semillas, publicada en el Diario Oficial de la Federación el 15 de julio de 1991, así como todas las disposiciones que s",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 957,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7222222222222222,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
-      "source_article": "42",
       "target_law_raw": "Ley Federal de Producción",
       "target_law_id": "ley-general-educacion",
       "target_article": null,
-      "citation_text": "ón, Francisco Javier Ramírez Acuña.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se reforman los artículos 4 y 18 de la Ley Federal de Producción, Certificación y Comercio de Semillas.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2018  Artículo Único.- Se reforman la fracci",
+      "citation_text": "rio Oficial de la Federación el 11 de mayo de 2018  Artículo Único.- Se reforman la fracción XI del artículo 4 y el cuarto párrafo del artículo 18 de la Ley Federal de Producción, Certificación y Comercio de Semillas, para quedar como sigue:  ..  TRANSITORIO  ÚNICO. El presente Decreto entrará en vigor al día siguiente de su p",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 3110,
+      "char_offset": 3348,
       "resolution_confidence": "medium",
       "resolution_score": 0.8163265306122449,
       "resolution_matched_alias": "ley general de educación"
@@ -535,5 +460,5 @@
       "char_offset": 2604
     }
   ],
-  "resolved_at": "2026-03-30T12:00:41.277966+00:00"
+  "resolved_at": "2026-03-30T12:18:55.217234+00:00"
 }
