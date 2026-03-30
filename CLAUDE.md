@@ -85,6 +85,10 @@ All edges carry confidence levels (`high`/`medium`/`low`/`unresolved`), used in 
 
 `frontend/` is a standalone static site. `graph.js` loads `data/graph/graph.json` (produced by Stage 6) and renders a D3.js v7 force-directed graph. It has a demo mode ("Cargar demostración") with 20 sample laws when no data directory is available.
 
+## Working Style
+
+- **Token efficiency**: Be concise. Before generating large outputs (notebooks, long scripts, big rewrites), ask the user verbally first. Never create Jupyter notebooks unless explicitly requested.
+
 ## Testing
 
 Tests cover the two most logic-dense modules:
