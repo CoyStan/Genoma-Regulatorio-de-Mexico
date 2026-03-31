@@ -406,7 +406,7 @@
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "42",
       "target_law_raw": "Ley Orgánica de los tribunales encargados de la función judicial del fuero común en el Distrito Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " al programa general de desarrollo del Distrito Federal que le remita el Jefe de Gobierno del Distrito Federal para su examen y opinión;  VI. Expedir la Ley Orgánica de los tribunales encargados de la función judicial del fuero común en el Distrito Federal, que incluirá lo relativo a las responsabilidades de los servidores públicos de dichos órganos;  VII. Expedir la Ley Orgánica del Tribunal de lo Cont",
       "pattern_name": "direct_mention",
@@ -415,13 +415,13 @@
       "char_offset": 2602,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "42",
       "target_law_raw": "Ley Orgánica del Tribunal de lo Contencioso Administrativo del Distrito Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " del fuero común en el Distrito Federal, que incluirá lo relativo a las responsabilidades de los servidores públicos de dichos órganos;  VII. Expedir la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Distrito Federal, la cual regulará su organización y funcionamiento, su competencia, el procedimiento, los recursos contra sus resoluciones y la forma de integrar su ",
       "pattern_name": "direct_mention",
@@ -430,7 +430,7 @@
       "char_offset": 2819,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -448,7 +448,7 @@
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "43",
       "target_law_raw": "Ley Orgánica de la Asamblea Legislativa",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "cienda, que se regirá por su propia Ley Orgánica. La vigilancia del cumplimiento de sus funciones estará a cargo de la comisión respectiva que señale la Ley Orgánica de la Asamblea Legislativa.  La revisión de la Cuenta Pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señ",
       "pattern_name": "direct_mention",
@@ -457,7 +457,7 @@
       "char_offset": 291,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -490,7 +490,7 @@
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "51",
       "target_law_raw": "Ley Orgánica de la propia Asamblea",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ARTÍCULO 51.- En los recesos de la Asamblea Legislativa del Distrito Federal, la Comisión de Gobierno, además de las atribuciones que le confiera la Ley Orgánica de la propia Asamblea, tendrá las siguientes: Párrafo reformado DOF 04-12-1997  I. Derogada. Fracción derogada DOF 04-12-1997  II. Acordar a petición del Jefe de Gobierno ",
       "pattern_name": "direct_mention",
@@ -499,7 +499,7 @@
       "char_offset": 146,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -733,7 +733,7 @@
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
       "source_article": "104",
       "target_law_raw": "Ley Orgánica de la Administración Pública del Distrito Federal el número de Delegaciones",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "riales y los órganos político-administrativos en cada una de ellas se denominarán genéricamente Delegaciones.  La Asamblea Legislativa establecerá en la Ley Orgánica de la Administración Pública del Distrito Federal el número de Delegaciones, su ámbito territorial y su identificación nominativa. Artículo reformado DOF 14-10-1999",
       "pattern_name": "direct_mention",
@@ -742,7 +742,7 @@
       "char_offset": 364,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "estatuto-de-gobierno-del-distrito-federal",
@@ -1120,5 +1120,5 @@
       "char_offset": 1308
     }
   ],
-  "resolved_at": "2026-03-30T23:30:03.997651+00:00"
+  "resolved_at": "2026-03-31T00:21:35.643400+00:00"
 }

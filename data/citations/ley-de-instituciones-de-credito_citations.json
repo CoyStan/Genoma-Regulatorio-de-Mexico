@@ -445,7 +445,7 @@
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "44",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal y en la Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " de desarrollo y de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, como excepción a lo dispuesto en el artículo 37 de la Ley Orgánica de la Administración Pública Federal y en la Ley Federal de las Entidades Paraestatales, sólo tendrán competencia para realizar el control, evaluación y vigilancia de las disposiciones administrativas que les sean aplicables a las instit",
       "pattern_name": "direct_mention",
@@ -454,7 +454,7 @@
       "char_offset": 269,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
@@ -2452,7 +2452,7 @@
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "281",
       "target_law_raw": "Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "do de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Públ",
       "pattern_name": "direct_mention",
@@ -2461,7 +2461,7 @@
       "char_offset": 32190,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
@@ -2914,7 +2914,7 @@
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "1o",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Comercio Exterior",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de l",
       "pattern_name": "direct_mention",
@@ -2923,13 +2923,13 @@
       "char_offset": 26817,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "1o",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros ",
       "pattern_name": "direct_mention",
@@ -2938,13 +2938,13 @@
       "char_offset": 26877,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "1o",
       "target_law_raw": "Ley Orgánica del Banco Nacional del Ejército",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
       "pattern_name": "direct_mention",
@@ -2953,13 +2953,13 @@
       "char_offset": 26946,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "1o",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal.  Publicado en el Diario Oficial de la Federación el 24 de junio de 2002  ARTICULO PRIMERO.- Se reforman los artículos 31 primero y segundo párrafo; ",
       "pattern_name": "direct_mention",
@@ -2968,13 +2968,13 @@
       "char_offset": 27021,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "1o",
       "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ábiles siguientes a la fecha en que entre en vigor el presente Decreto.  ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan qu",
       "pattern_name": "direct_mention",
@@ -2983,7 +2983,7 @@
       "char_offset": 29625,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
@@ -3466,7 +3466,7 @@
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "41",
       "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "CRETO por el que se reforman y adicionan diversas disposiciones de la Ley de Instituciones de Crédito, y se reforma la fracción X del artículo 5o. de la Ley Orgánica de Nacional Financiera.  Publicado en el Diario Oficial de la Federación el 6 de mayo de 2009  Artículo Primero. Se reforman los artículos 31, tercer párrafo, y 55 Bis 1; y",
       "pattern_name": "direct_mention",
@@ -3475,7 +3475,7 @@
       "char_offset": 84554,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
@@ -3571,7 +3571,7 @@
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "41",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "do en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.  IV.\tLas funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCIC",
       "pattern_name": "direct_mention",
@@ -3580,7 +3580,7 @@
       "char_offset": 105733,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
@@ -3895,5 +3895,5 @@
       "char_offset": 4860
     }
   ],
-  "resolved_at": "2026-03-30T23:30:13.119947+00:00"
+  "resolved_at": "2026-03-31T00:21:44.816557+00:00"
 }

@@ -490,7 +490,7 @@
       "source_law": "ley-general-de-responsabilidades-administrativas",
       "source_article": "229",
       "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": ", el Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.  Quinto. La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los p",
       "pattern_name": "direct_mention",
@@ -499,7 +499,7 @@
       "char_offset": 5164,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-responsabilidades-administrativas",
@@ -580,7 +580,7 @@
       "source_law": "ley-general-de-responsabilidades-administrativas",
       "source_article": "229",
       "target_law_raw": "Ley Orgánica de la Fiscalía General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "stema de Medios de Impugnación en Materia Electoral, de la Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.  Publicado en el Diario Oficial de ",
       "pattern_name": "direct_mention",
@@ -589,13 +589,13 @@
       "char_offset": 17311,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-responsabilidades-administrativas",
       "source_article": "229",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.  Publicado en el Diario Oficial de la Federación el 13 de abril de 2020  Artículo Octavo.- Se reforma el artículo 57 de la Ley General de Responsabi",
       "pattern_name": "direct_mention",
@@ -604,7 +604,7 @@
       "char_offset": 17370,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-responsabilidades-administrativas",
@@ -634,5 +634,5 @@
       "char_offset": 9432
     }
   ],
-  "resolved_at": "2026-03-30T23:30:30.357295+00:00"
+  "resolved_at": "2026-03-31T00:22:02.409272+00:00"
 }

@@ -7,7 +7,7 @@
       "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
       "source_article": "1o",
       "target_law_raw": "Ley Orgánica de la Armada de México",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " acto mediante el cual el Mando promueve al personal militar en servicio activo al grado superior en el orden jerárquico dentro de la escala que fija la Ley Orgánica de la Armada de México. Artículo reformado DOF 26-01-2011, 17-12-2025",
       "pattern_name": "direct_mention",
@@ -16,7 +16,7 @@
       "char_offset": 338,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
@@ -64,7 +64,7 @@
       "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
       "source_article": "26",
       "target_law_raw": "Ley Orgánica de la Armada de México",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ARTICULO 26.- El personal de los establecimientos de educación naval egresará con el grado que establece la Ley Orgánica de la Armada de México.  Al presentar y aprobar su examen profesional de acuerdo a los requisitos establecidos en el Reglamento respectivo para prácticas y examen profesion",
       "pattern_name": "direct_mention",
@@ -73,13 +73,13 @@
       "char_offset": 105,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
       "source_article": "56",
       "target_law_raw": "Ley Orgánica de la Armada de México reformada y adicionada el 24 diciembre de 1993 y el 12 de diciembre de 1995",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "s disposiciones aplicables de la Ley de Ascensos de la Armada de México publicada en el Diario Oficial de la Federación el 24 de diciembre de 1984, y la Ley Orgánica de la Armada de México reformada y adicionada el 24 diciembre de 1993 y el 12 de diciembre de 1995, hasta pasar a situación del retiro o causar baja en los términos que establecen las disposiciones aplicables.  México, D.F., a 28 de abril de 2004.-",
       "pattern_name": "direct_mention",
@@ -88,7 +88,7 @@
       "char_offset": 995,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
@@ -103,5 +103,5 @@
       "char_offset": 1502
     }
   ],
-  "resolved_at": "2026-03-30T23:30:07.450731+00:00"
+  "resolved_at": "2026-03-31T00:21:39.076691+00:00"
 }

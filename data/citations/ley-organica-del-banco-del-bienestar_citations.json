@@ -436,7 +436,7 @@
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley Orgánica del Patronato del Ahorro Nacional",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ntrada en vigor de la presente Ley, para ajustar su operación y administración a lo dispuesto en esta Ley.  Artículo Segundo.- La presente Ley abroga la Ley Orgánica del Patronato del Ahorro Nacional, publicada en el Diario Oficial de la Federación el 26 de diciembre de 1986 y deroga las demás disposiciones legales que se opongan a lo establecido ",
       "pattern_name": "direct_mention",
@@ -445,7 +445,7 @@
       "char_offset": 787,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
@@ -481,7 +481,7 @@
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Comercio Exterior",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de l",
       "pattern_name": "direct_mention",
@@ -490,13 +490,13 @@
       "char_offset": 7851,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros ",
       "pattern_name": "direct_mention",
@@ -505,13 +505,13 @@
       "char_offset": 7911,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley Orgánica del Banco Nacional del Ejército",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
       "pattern_name": "direct_mention",
@@ -520,13 +520,13 @@
       "char_offset": 7980,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal.  Publicado en el Diario Oficial de la Federación el 24 de junio de 2002  ARTICULO SEXTO.- Se reforman los artículos 17 fracción III; 19 fracción I; ",
       "pattern_name": "direct_mention",
@@ -535,13 +535,13 @@
       "char_offset": 8055,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ábiles siguientes a la fecha en que entre en vigor el presente Decreto.  ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan qu",
       "pattern_name": "direct_mention",
@@ -550,7 +550,7 @@
       "char_offset": 10392,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
@@ -610,5 +610,5 @@
       "char_offset": 7262
     }
   ],
-  "resolved_at": "2026-03-30T23:30:35.020505+00:00"
+  "resolved_at": "2026-03-31T00:22:07.314787+00:00"
 }

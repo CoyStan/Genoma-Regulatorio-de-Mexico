@@ -1885,7 +1885,7 @@
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "535",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "mientos Electorales; y se reforman y adicionan diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, publicado en el Diario Oficial de la Federación el veintitrés de mayo de dos mil catorce; por lo que se refiere a las reformas y adiciones de los tr",
       "pattern_name": "direct_mention",
@@ -1894,7 +1894,7 @@
       "char_offset": 13815,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
@@ -1990,7 +1990,7 @@
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "535",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.  Publicado en el Diario Oficial de la Federación el 27 de enero de 2017  Artículo Quinto. Se reforman los artículos 39, numerales 4, 5, 6 y 7; 44, n",
       "pattern_name": "direct_mention",
@@ -1999,7 +1999,7 @@
       "char_offset": 27215,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
@@ -2020,7 +2020,7 @@
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
       "source_article": "535",
       "target_law_raw": "Ley Orgánica de la Fiscalía General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "stema de Medios de Impugnación en Materia Electoral, de la Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.  Publicado en el Diario Oficial de ",
       "pattern_name": "direct_mention",
@@ -2029,7 +2029,7 @@
       "char_offset": 31730,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-instituciones-y-procedimientos-electorales",
@@ -2074,5 +2074,5 @@
       "char_offset": 3294
     }
   ],
-  "resolved_at": "2026-03-30T23:30:29.529916+00:00"
+  "resolved_at": "2026-03-31T00:22:01.524024+00:00"
 }

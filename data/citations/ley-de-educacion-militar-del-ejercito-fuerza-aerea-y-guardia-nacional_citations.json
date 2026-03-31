@@ -82,7 +82,7 @@
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "á su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.  Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el",
       "pattern_name": "direct_mention",
@@ -91,7 +91,7 @@
       "char_offset": 7562,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -121,5 +121,5 @@
       "char_offset": 830
     }
   ],
-  "resolved_at": "2026-03-30T23:30:10.645510+00:00"
+  "resolved_at": "2026-03-31T00:21:42.287670+00:00"
 }

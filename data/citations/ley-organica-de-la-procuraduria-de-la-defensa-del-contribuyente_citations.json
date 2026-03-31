@@ -172,7 +172,7 @@
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
       "source_article": "28",
       "target_law_raw": "Ley Orgánica de la Procuraduría de la Defensa del Contribuyente establece",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "pre que sea convocado para ese efecto, ante el Pleno o las Comisiones camerales correspondientes; ()  .  SEXTO. .  El precepto legal impugnado de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente establece, en su parte conducente, lo que sigue:  \"Artículo. 12. El Organo de Gobierno de la Procuraduría es un cuerpo colegiado que se integra de la siguiente",
       "pattern_name": "direct_mention",
@@ -181,13 +181,13 @@
       "char_offset": 5732,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
       "source_article": "28",
       "target_law_raw": "Ley Orgánica de la Orgánica de la Procuraduría del Contribuyente",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "rdero de García Villegas y Presidente Guillermo I. Ortiz Mayagoitia, se aprobó la propuesta de declarar la invalidez del artículo 5, fracción VII, de la Ley Orgánica de la Orgánica de la Procuraduría del Contribuyente, y el Señor Ministro Juan N. Silva Meza votó en contra y se reservó su derecho para formular voto particular.  Por mayoría de siete votos de los seño",
       "pattern_name": "direct_mention",
@@ -196,7 +196,7 @@
       "char_offset": 9795,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
@@ -217,7 +217,7 @@
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
       "source_article": "28",
       "target_law_raw": "Ley Orgánica del Seminario de Cultura Mexicana",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federa",
       "pattern_name": "direct_mention",
@@ -226,7 +226,7 @@
       "char_offset": 14190,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
@@ -442,7 +442,7 @@
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
       "source_article": "28",
       "target_law_raw": "Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Veg",
       "pattern_name": "direct_mention",
@@ -451,7 +451,7 @@
       "char_offset": 15222,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
@@ -532,7 +532,7 @@
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
       "source_article": "28",
       "target_law_raw": "Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "d Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de parida",
       "pattern_name": "direct_mention",
@@ -541,7 +541,7 @@
       "char_offset": 15625,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
@@ -601,5 +601,5 @@
       "char_offset": 3650
     }
   ],
-  "resolved_at": "2026-03-30T23:30:34.382031+00:00"
+  "resolved_at": "2026-03-31T00:22:06.614087+00:00"
 }

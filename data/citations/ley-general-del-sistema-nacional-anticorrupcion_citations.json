@@ -304,7 +304,7 @@
       "source_law": "ley-general-del-sistema-nacional-anticorrupcion",
       "source_article": "60",
       "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Administrativa",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": ", el Ejecutivo Federal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.  Quinto. La Ley Orgánica del Tribunal Federal de Justicia Administrativa, entrará en vigor al día siguiente de la publicación del presente Decreto, sin perjuicio de lo previsto en el Tercero Transitorio anterior y en los p",
       "pattern_name": "direct_mention",
@@ -313,7 +313,7 @@
       "char_offset": 4997,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-del-sistema-nacional-anticorrupcion",
@@ -328,5 +328,5 @@
       "char_offset": 9265
     }
   ],
-  "resolved_at": "2026-03-30T23:30:32.333121+00:00"
+  "resolved_at": "2026-03-31T00:22:04.444157+00:00"
 }

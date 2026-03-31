@@ -7,7 +7,7 @@
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "2",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "a Aérea y Guardia Nacional, el Ejército Mexicano, la Fuerza Aérea Mexicana y la Guardia Nacional; Fracción reformada DOF 16-07-2025  V. Ley Orgánica, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;  VI.\tLey, la presente Ley;  VII.\tReglamento, el Reglamento de la Ley;  VIII.\tAscenso, el acto de mando mediante el cual es conferido al militar un g",
       "pattern_name": "direct_mention",
@@ -16,7 +16,7 @@
       "char_offset": 541,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -79,7 +79,7 @@
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "9",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "sa escala jerárquica hasta Teniente Coronel, siempre y cuando reúnan los demás requisitos establecidos en esta Ley, su reglamento, el artículo 196 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, así como las disposiciones que emita el Estado Mayor Conjunto de la Defensa Nacional; Fracción adicionada DOF 15-04-2025  IV.\tPor acreditación de la",
       "pattern_name": "direct_mention",
@@ -88,7 +88,7 @@
       "char_offset": 1963,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -214,7 +214,7 @@
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "76",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "o entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo.- La reforma de los artículos 191, 193 y 195 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, no aplicará a los discentes que en la fecha de entrada en vigor del presente Decreto, ya hayan iniciado estudios de tipo superior de nivel licenciat",
       "pattern_name": "direct_mention",
@@ -223,7 +223,7 @@
       "char_offset": 5718,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -313,5 +313,5 @@
       "char_offset": 1228
     }
   ],
-  "resolved_at": "2026-03-30T23:30:07.719982+00:00"
+  "resolved_at": "2026-03-31T00:21:39.349517+00:00"
 }

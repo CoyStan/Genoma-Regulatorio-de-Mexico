@@ -7,7 +7,7 @@
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "2",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ta: La Junta de Coordinación Política de la Cámara de Diputados;  IX. Junta Directiva: La Mesa Directiva de las comisiones y de los comités;  X. Ley: La Ley Orgánica del Congreso General de los Estados Unidos Mexicanos;  XI. Mesa Directiva: La Mesa Directiva de la Cámara de Diputados;  XII.\tPresidencia: La Diputada o Diputado que preside la Mesa Directiva de la Cáma",
       "pattern_name": "direct_mention",
@@ -16,7 +16,7 @@
       "char_offset": 854,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
@@ -664,7 +664,7 @@
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "284",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "midad con los derechos, prerrogativas, facultades, atribuciones y obligaciones previstas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, en este Reglamento y demás disposiciones aplicables. Artículo adicionado DOF 08-05-2018",
       "pattern_name": "direct_mention",
@@ -673,7 +673,7 @@
       "char_offset": 415,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
@@ -691,7 +691,7 @@
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "290",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y por este Reglamento",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " 1. Las funciones de la Cámara de Diputados en modalidad semipresencial serán reguladas por la Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y por este Reglamento. También serán aplicables de manera supletoria los acuerdos que los órganos de gobierno emitan para las sesiones en esta modalidad. Artículo adiciona",
       "pattern_name": "direct_mention",
@@ -700,7 +700,7 @@
       "char_offset": 163,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
@@ -733,7 +733,7 @@
       "source_law": "reglamento-de-la-camara-de-diputados",
       "source_article": "316",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "criterios para las justificaciones de inasistencias y los permisos del propio órgano de gobierno en términos del artículo 20, numeral 1, inciso B) de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicado en la Gaceta Parlamentaria el 12 de octubre de 2006;  e) El Acuerdo de la Mesa Directiva, mediante el cual se define la fecha en que habrá",
       "pattern_name": "direct_mention",
@@ -742,7 +742,7 @@
       "char_offset": 1558,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "reglamento-de-la-camara-de-diputados",
@@ -772,5 +772,5 @@
       "char_offset": 20993
     }
   ],
-  "resolved_at": "2026-03-30T23:30:39.068108+00:00"
+  "resolved_at": "2026-03-31T00:22:11.440804+00:00"
 }

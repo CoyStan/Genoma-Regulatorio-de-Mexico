@@ -172,7 +172,7 @@
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
       "source_article": "58",
       "target_law_raw": "Ley Orgánica del Banco Nacional del Ejército",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "MERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  ARTICULO SEGUNDO.- La presente Ley abroga la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada, de fecha 27 de diciembre de 1978.  ARTICULO TERCERO.- Las autorizaciones, poderes, mandatos y demás actos jurídicos y medidas",
       "pattern_name": "direct_mention",
@@ -181,7 +181,7 @@
       "char_offset": 1684,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
@@ -202,7 +202,7 @@
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
       "source_article": "58",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Comercio Exterior",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de l",
       "pattern_name": "direct_mention",
@@ -211,13 +211,13 @@
       "char_offset": 3854,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
       "source_article": "58",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros ",
       "pattern_name": "direct_mention",
@@ -226,13 +226,13 @@
       "char_offset": 3914,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
       "source_article": "58",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal.  Publicado en el Diario Oficial de la Federación el 24 de junio de 2002  ARTICULO QUINTO.- Se reforman los artículos 8o; 39 primer párrafo; 42 fracc",
       "pattern_name": "direct_mention",
@@ -241,7 +241,7 @@
       "char_offset": 4058,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
@@ -262,7 +262,7 @@
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
       "source_article": "58",
       "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ábiles siguientes a la fecha en que entre en vigor el presente Decreto.  ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan qu",
       "pattern_name": "direct_mention",
@@ -271,7 +271,7 @@
       "char_offset": 6618,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
@@ -286,5 +286,5 @@
       "char_offset": 2894
     }
   ],
-  "resolved_at": "2026-03-30T23:30:35.281962+00:00"
+  "resolved_at": "2026-03-31T00:22:07.593875+00:00"
 }

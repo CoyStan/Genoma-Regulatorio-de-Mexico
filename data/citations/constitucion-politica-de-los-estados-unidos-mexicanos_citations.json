@@ -727,7 +727,7 @@
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "136",
       "target_law_raw": "ley Orgánica de los Tribunales de Circuito y de Distrito",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "oral, hacer el cómputo de votos y calificar las elecciones de Presidente de la República, haciendo la declaratoria respectiva; y además, para expedir la ley Orgánica de los Tribunales de Circuito y de Distrito, la ley Orgánica de los Tribunales del Distrito Federal y Territorios, a fin de que la Suprema Corte de Justicia de la Nación haga inmediatamente los",
       "pattern_name": "direct_mention",
@@ -736,13 +736,13 @@
       "char_offset": 3532,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "136",
       "target_law_raw": "ley Orgánica de los Tribunales del Distrito Federal y Territorios",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " Presidente de la República, haciendo la declaratoria respectiva; y además, para expedir la ley Orgánica de los Tribunales de Circuito y de Distrito, la ley Orgánica de los Tribunales del Distrito Federal y Territorios, a fin de que la Suprema Corte de Justicia de la Nación haga inmediatamente los nombramientos de Magistrados de Circuito y Jueces de Distrito, y el m",
       "pattern_name": "direct_mention",
@@ -751,7 +751,7 @@
       "char_offset": 3593,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -832,7 +832,7 @@
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "136",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "u publicación en el Diario Oficial de la Federación.  SEGUNDO.- Al entrar en vigor el presente decreto, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y demás disposiciones legales aplicables en la materia.  México, D.F., a 30 de junio de 2004.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Jorge Uscanga Escobar, Secretario.- Rúbricas\".  En cumplimien",
       "pattern_name": "direct_mention",
@@ -841,7 +841,7 @@
       "char_offset": 100897,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -1417,7 +1417,7 @@
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "136",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "acional sin perder sus derechos y prestaciones.  El \"rango\" es sinónimo de \"grado\", conforme a la escala jerárquica en las Fuerzas Armadas, que prevé la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.  El \"grado\" tiene por objeto el ejercicio de la autoridad, de mando militar, de actividad técnica o de actividad administrativa en los diferentes ni",
       "pattern_name": "direct_mention",
@@ -1426,7 +1426,7 @@
       "char_offset": 464779,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -1474,5 +1474,5 @@
       "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-03-30T23:30:03.491304+00:00"
+  "resolved_at": "2026-03-31T00:21:35.064618+00:00"
 }

@@ -94,7 +94,7 @@
       "source_law": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
       "source_article": "26",
       "target_law_raw": "Ley Orgánica de la Universidad Agraria Antonio Narro del 4 de abril de 1989",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": ". Congreso del Estado apruebe y el Titular del Ejecutivo Estatal publique en el Periódico Oficial del Estado de Coahuila de Zaragoza la Abrogación de la Ley Orgánica de la Universidad Agraria Antonio Narro del 4 de abril de 1989, y la desincorporación de todos los bienes muebles e inmuebles que conforman el patrimonio de la Universidad.  SEGUNDO. El H. Consejo Universitario d",
       "pattern_name": "direct_mention",
@@ -103,7 +103,7 @@
       "char_offset": 592,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
@@ -148,5 +148,5 @@
       "char_offset": 1996
     }
   ],
-  "resolved_at": "2026-03-30T23:30:34.692264+00:00"
+  "resolved_at": "2026-03-31T00:22:06.950436+00:00"
 }

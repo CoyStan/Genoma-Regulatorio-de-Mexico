@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T23:30:39.313071+00:00",
+  "generated_at": "2026-03-31T00:22:11.708907+00:00",
   "total_citations": 12444,
   "resolved": 10844,
   "unresolved": 1600,
@@ -7,8 +7,8 @@
   "by_confidence": {
     "unresolved": 3686,
     "high": 3865,
-    "medium": 1541,
-    "low": 3352
+    "medium": 1540,
+    "low": 3353
   },
   "top_cited_laws": [
     {
@@ -27,9 +27,9 @@
       "citation_count": 1037
     },
     {
-      "law_id": "ley-pemex",
-      "name": "Ley de Petróleos Mexicanos",
-      "citation_count": 442
+      "law_id": "lopjf",
+      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "citation_count": 528
     },
     {
       "law_id": "codigo-nacional-procedimientos-penales",
@@ -90,11 +90,6 @@
       "law_id": "ley-mercado-valores",
       "name": "Ley del Mercado de Valores",
       "citation_count": 141
-    },
-    {
-      "law_id": "lopjf",
-      "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "citation_count": 132
     },
     {
       "law_id": "ley-del-seguro-social",
@@ -160,6 +155,11 @@
       "law_id": "ley-de-coordinacion-fiscal",
       "name": "ley-de-coordinacion-fiscal",
       "citation_count": 74
+    },
+    {
+      "law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "name": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "citation_count": 71
     }
   ],
   "top_unresolved": [

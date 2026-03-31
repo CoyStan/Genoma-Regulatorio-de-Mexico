@@ -1342,7 +1342,7 @@
       "source_law": "codigo-civil-federal",
       "source_article": "951",
       "target_law_raw": "Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "lica en materia federal, para quedar como sigue:    TRANSITORIOS  ARTICULO UNICO.- Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.   DECRETO que reforma el Artículo 951 del Código Civil p",
       "pattern_name": "direct_mention",
@@ -1351,7 +1351,7 @@
       "char_offset": 4152,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "codigo-civil-federal",
@@ -1372,7 +1372,7 @@
       "source_law": "codigo-civil-federal",
       "source_article": "951",
       "target_law_raw": "Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " el Distrito Federal en Materia Común, y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal, de la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal, y del Código de Comercio.  Publicado en el Diario Oficial de la Federación el 27 de diciembre de 1983",
       "pattern_name": "direct_mention",
@@ -1381,7 +1381,7 @@
       "char_offset": 14191,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "codigo-civil-federal",
@@ -1399,7 +1399,7 @@
       "source_law": "codigo-civil-federal",
       "source_article": "1",
       "target_law_raw": "Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "a el Distrito Federal en Materia Común y para toda la República en Materia Federal; del Código de Procedimientos Civiles para el Distrito Federal; de la Ley Orgánica de los Tribunales de Justicia del Fuero Común del Distrito Federal; y del Código de Comercio, publicado el día 27 de diciembre de 1983, Primera Sección.  Publicada en el Diario Oficial de la Federación el 8 de enero ",
       "pattern_name": "direct_mention",
@@ -1408,7 +1408,7 @@
       "char_offset": 744,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "codigo-civil-federal",
@@ -1756,5 +1756,5 @@
       "resolution_matched_alias": "ley federal de telecomunicaciones y radiodifusión"
     }
   ],
-  "resolved_at": "2026-03-30T23:29:57.357515+00:00"
+  "resolved_at": "2026-03-31T00:21:28.777146+00:00"
 }

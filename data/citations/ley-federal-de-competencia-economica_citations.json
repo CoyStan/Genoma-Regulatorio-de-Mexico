@@ -499,7 +499,7 @@
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "145",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ales, de la Ley del Instituto Nacional para la Evaluación de la Educación, de la Ley Federal de Transparencia y Acceso a la Información Pública, y de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.  Publicado en el Diario Oficial de la Federación el 27 de enero de 2017  Artículo Primero. Se reforman los artículos 3, fracción VII; 20, fracciones",
       "pattern_name": "direct_mention",
@@ -508,7 +508,7 @@
       "char_offset": 4487,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
@@ -553,5 +553,5 @@
       "char_offset": 1076
     }
   ],
-  "resolved_at": "2026-03-30T23:30:21.888609+00:00"
+  "resolved_at": "2026-03-31T00:21:53.635986+00:00"
 }

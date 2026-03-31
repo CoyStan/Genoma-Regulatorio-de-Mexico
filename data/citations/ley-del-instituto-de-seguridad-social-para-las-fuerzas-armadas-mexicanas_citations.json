@@ -142,7 +142,7 @@
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "22",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "Cuerpos de Defensas Rurales sólo tendrán derecho a las retribuciones, prestaciones o estímulos que se establezcan en los términos del artículo 121 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Fracción reformada DOF 20-11-2008  IV. Los soldados, marineros y cabos que no sean reenganchados y pasen a la reserva, y  V. El personal de la milic",
       "pattern_name": "direct_mention",
@@ -151,7 +151,7 @@
       "char_offset": 882,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -202,7 +202,7 @@
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "128",
       "target_law_raw": "Ley Orgánica del Banco Nacional del Ejército",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "Artículo 128. Los militares retirados podrán obtener conforme a la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada, SNC, préstamos con garantía hipotecaria, en primer lugar, sobre inmuebles urbanos en la medida de los recursos disponibles pa",
       "pattern_name": "direct_mention",
@@ -211,7 +211,7 @@
       "char_offset": 64,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -454,7 +454,7 @@
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "21",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "á su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.  Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el",
       "pattern_name": "direct_mention",
@@ -463,7 +463,7 @@
       "char_offset": 21632,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -610,5 +610,5 @@
       "char_offset": 437
     }
   ],
-  "resolved_at": "2026-03-30T23:30:18.103531+00:00"
+  "resolved_at": "2026-03-31T00:21:49.707861+00:00"
 }

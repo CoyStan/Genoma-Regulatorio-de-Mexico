@@ -412,7 +412,7 @@
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
       "source_article": "38",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "izados para el otorgamiento de la Deuda Estatal Garantizada. Adicionalmente, la comisión legislativa bicameral tendrá las atribuciones que le otorgue la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.",
       "pattern_name": "direct_mention",
@@ -421,7 +421,7 @@
       "char_offset": 1452,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
@@ -715,5 +715,5 @@
       "char_offset": 11488
     }
   ],
-  "resolved_at": "2026-03-30T23:30:10.643437+00:00"
+  "resolved_at": "2026-03-31T00:21:42.285967+00:00"
 }

@@ -865,7 +865,7 @@
       "source_law": "ley-general-de-cultura-fisica-y-deporte",
       "source_article": "155",
       "target_law_raw": "Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "rburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Gener",
       "pattern_name": "direct_mention",
@@ -874,7 +874,7 @@
       "char_offset": 14738,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-cultura-fisica-y-deporte",
@@ -970,7 +970,7 @@
       "source_law": "ley-general-de-cultura-fisica-y-deporte",
       "source_article": "155",
       "target_law_raw": "Ley Orgánica de la Procuraduría de la Defensa del Contribuyente",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "y Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del",
       "pattern_name": "direct_mention",
@@ -979,13 +979,13 @@
       "char_offset": 47707,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-cultura-fisica-y-deporte",
       "source_article": "155",
       "target_law_raw": "Ley Orgánica del Seminario de Cultura Mexicana",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federa",
       "pattern_name": "direct_mention",
@@ -994,7 +994,7 @@
       "char_offset": 47778,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-cultura-fisica-y-deporte",
@@ -1270,7 +1270,7 @@
       "source_law": "ley-general-de-cultura-fisica-y-deporte",
       "source_article": "155",
       "target_law_raw": "Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "d Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de parida",
       "pattern_name": "direct_mention",
@@ -1279,7 +1279,7 @@
       "char_offset": 49213,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-de-cultura-fisica-y-deporte",
@@ -1354,5 +1354,5 @@
       "char_offset": 4191
     }
   ],
-  "resolved_at": "2026-03-30T23:30:28.179343+00:00"
+  "resolved_at": "2026-03-31T00:22:00.093595+00:00"
 }

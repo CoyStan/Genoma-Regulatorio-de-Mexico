@@ -1012,7 +1012,7 @@
       "source_law": "ley-aduanera",
       "source_article": "203",
       "target_law_raw": "Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "orma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se ",
       "pattern_name": "direct_mention",
@@ -1021,7 +1021,7 @@
       "char_offset": 32609,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-aduanera",
@@ -1234,7 +1234,7 @@
       "source_law": "ley-aduanera",
       "source_article": "187",
       "target_law_raw": "Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "rburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Gener",
       "pattern_name": "direct_mention",
@@ -1243,7 +1243,7 @@
       "char_offset": 18381,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-aduanera",
@@ -1408,5 +1408,5 @@
       "char_offset": 3513
     }
   ],
-  "resolved_at": "2026-03-30T23:30:04.861734+00:00"
+  "resolved_at": "2026-03-31T00:21:36.497504+00:00"
 }

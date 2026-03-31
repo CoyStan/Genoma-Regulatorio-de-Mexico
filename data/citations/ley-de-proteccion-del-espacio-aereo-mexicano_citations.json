@@ -64,7 +64,7 @@
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
       "source_article": "4",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el Código Penal Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ano sea parte y, a falta de disposición expresa, por la Ley de Aviación Civil, la Ley de Aeropuertos, la Ley Federal de Procedimiento Administrativo, la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el Código Penal Federal.",
       "pattern_name": "direct_mention",
@@ -73,7 +73,7 @@
       "char_offset": 425,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
@@ -103,5 +103,5 @@
       "char_offset": 2456
     }
   ],
-  "resolved_at": "2026-03-30T23:30:16.157310+00:00"
+  "resolved_at": "2026-03-31T00:21:47.743974+00:00"
 }

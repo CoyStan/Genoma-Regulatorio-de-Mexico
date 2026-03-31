@@ -211,7 +211,7 @@
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "24",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "do en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.  IV.\tLas funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCIC",
       "pattern_name": "direct_mention",
@@ -220,7 +220,7 @@
       "char_offset": 6835,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -370,5 +370,5 @@
       "char_offset": 1482
     }
   ],
-  "resolved_at": "2026-03-30T23:30:37.127000+00:00"
+  "resolved_at": "2026-03-31T00:22:09.527711+00:00"
 }

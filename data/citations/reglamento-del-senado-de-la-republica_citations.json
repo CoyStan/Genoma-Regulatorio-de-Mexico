@@ -7,7 +7,7 @@
       "source_law": "reglamento-del-senado-de-la-republica",
       "source_article": "2",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "o por el tercer párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos;  Junta: La Junta de Coordinación Política;  Ley: La Ley Orgánica del Congreso General de los Estados Unidos Mexicanos;  Mesa: la Mesa Directiva del Senado;  Pleno: El máximo órgano de decisión del Senado, reunido conforme a las reglas del quórum;  Presidente: La Pres",
       "pattern_name": "direct_mention",
@@ -16,7 +16,7 @@
       "char_offset": 1013,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "reglamento-del-senado-de-la-republica",
@@ -526,7 +526,7 @@
       "source_law": "reglamento-del-senado-de-la-republica",
       "source_article": "171",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos se presentan en forma separada de cualquier otra",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "lación secundaria. En este caso, se indica en cada iniciativa la correlación entre las mismas.  2.\tLas iniciativas que se refieren a modificaciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos se presentan en forma separada de cualquier otra.",
       "pattern_name": "direct_mention",
@@ -535,7 +535,7 @@
       "char_offset": 370,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "reglamento-del-senado-de-la-republica",
@@ -1090,7 +1090,7 @@
       "source_law": "reglamento-del-senado-de-la-republica",
       "source_article": "312",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ciembre de 2004, publicado en el Diario Oficial de la Federación el 30 de diciembre del mismo año, por el que se reformó el artículo 3, numeral 1, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.  SEGUNDO. La Mesa Directiva y los grupos parlamentarios realizarán programas y acciones de difusión para con los senadores, e inducción y capacitaci",
       "pattern_name": "direct_mention",
@@ -1099,8 +1099,8 @@
       "char_offset": 1254,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     }
   ],
-  "resolved_at": "2026-03-30T23:30:39.218595+00:00"
+  "resolved_at": "2026-03-31T00:22:11.611788+00:00"
 }

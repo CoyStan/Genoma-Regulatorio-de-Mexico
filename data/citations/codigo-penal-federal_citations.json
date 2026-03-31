@@ -1882,7 +1882,7 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Preventiva, de la Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de la Ley Federal de Procedimiento Contencioso Administrativo. ",
       "pattern_name": "direct_mention",
@@ -1891,7 +1891,7 @@
       "char_offset": 76412,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -2197,7 +2197,7 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "se reforman y adicionan diversas disposiciones del Código Penal Federal, de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, de la Ley Orgánica de la Administración Pública Federal y de la Ley Orgánica de la Procuraduría General de la República.  Publicado en el Diario Oficial de la Federación el 14 de junio de 2012  Artículo Primero. Se reforman los artículos 30; el primer párrafo del artíc",
       "pattern_name": "direct_mention",
@@ -2206,7 +2206,7 @@
       "char_offset": 118547,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -2716,5 +2716,5 @@
       "char_offset": 12307
     }
   ],
-  "resolved_at": "2026-03-30T23:30:01.524189+00:00"
+  "resolved_at": "2026-03-31T00:21:33.071173+00:00"
 }

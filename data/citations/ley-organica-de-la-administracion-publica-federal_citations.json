@@ -676,7 +676,7 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "do de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Públ",
       "pattern_name": "direct_mention",
@@ -685,7 +685,7 @@
       "char_offset": 11966,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1051,7 +1051,7 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "d a lo establecido por el artículo sexto transitorio de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y por el artículo 14 de la Ley Orgánica de la Procuraduría General de la República.  México, D.F., a 30 de abril de 2012.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Guadalupe Acosta Naranjo, Presidente.- Sen. Renan Cleominio Zore",
       "pattern_name": "direct_mention",
@@ -1060,7 +1060,7 @@
       "char_offset": 60145,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1171,7 +1171,7 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y de la Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y de la Ley Orgánica de la Procuraduría General de la República.  Publicado en el Diario Oficial de la Federación el 2 de abril de 2013  ARTÍCULO CUARTO. Se adiciona una fracción XI, recorriéndose en su orden la s",
       "pattern_name": "direct_mention",
@@ -1180,7 +1180,7 @@
       "char_offset": 72701,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1600,7 +1600,7 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley Orgánica de la Fiscalía General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "igésimo Segundo.- Las modificaciones referidas en esta Ley a la Procuraduría General de la República surtirán efectos en el momento en que se apruebe la Ley Orgánica de la Fiscalía General de la República.  Ciudad de México, a 27 de noviembre de 2018.- Sen. Martí Batres Guadarrama, Presidente.- Dip. Porfirio Muñoz Ledo, Presidente.- Sen. Antares G. Váz",
       "pattern_name": "direct_mention",
@@ -1609,7 +1609,7 @@
       "char_offset": 51787,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1720,7 +1720,7 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; de la Ley de la Guardia Nacional; de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y de la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, en Materia de Guardia Nacional y Seguridad Pública.  Publicado en el Di",
       "pattern_name": "direct_mention",
@@ -1729,7 +1729,7 @@
       "char_offset": 75566,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -2062,5 +2062,5 @@
       "resolution_matched_alias": "ley de vías generales de comunicación"
     }
   ],
-  "resolved_at": "2026-03-30T23:30:34.267956+00:00"
+  "resolved_at": "2026-03-31T00:22:06.472983+00:00"
 }

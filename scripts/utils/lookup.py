@@ -379,7 +379,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "short": "LPEMEX",
         "aliases": [
             "Ley de PEMEX",
-            "Ley Orgánica de PEMEX",
+            "Ley de Petróleos Mexicanos",
         ],
         "sector": "energia",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEMEX.pdf",

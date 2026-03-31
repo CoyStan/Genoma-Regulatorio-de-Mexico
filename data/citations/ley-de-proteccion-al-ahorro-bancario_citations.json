@@ -340,7 +340,7 @@
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
       "source_article": "94",
       "target_law_raw": "Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "orma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se ",
       "pattern_name": "direct_mention",
@@ -349,7 +349,7 @@
       "char_offset": 28703,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
@@ -430,7 +430,7 @@
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
       "source_article": "94",
       "target_law_raw": "Ley Orgánica de la Procuraduría de la Defensa del Contribuyente",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "y Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del",
       "pattern_name": "direct_mention",
@@ -439,13 +439,13 @@
       "char_offset": 42619,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
       "source_article": "94",
       "target_law_raw": "Ley Orgánica del Seminario de Cultura Mexicana",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federa",
       "pattern_name": "direct_mention",
@@ -454,7 +454,7 @@
       "char_offset": 42690,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
@@ -655,7 +655,7 @@
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
       "source_article": "94",
       "target_law_raw": "Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Veg",
       "pattern_name": "direct_mention",
@@ -664,7 +664,7 @@
       "char_offset": 43722,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
@@ -745,7 +745,7 @@
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
       "source_article": "94",
       "target_law_raw": "Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "d Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de parida",
       "pattern_name": "direct_mention",
@@ -754,7 +754,7 @@
       "char_offset": 44125,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-proteccion-al-ahorro-bancario",
@@ -799,5 +799,5 @@
       "char_offset": 27284
     }
   ],
-  "resolved_at": "2026-03-30T23:30:16.155783+00:00"
+  "resolved_at": "2026-03-31T00:21:47.729921+00:00"
 }

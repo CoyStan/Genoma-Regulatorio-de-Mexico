@@ -112,7 +112,7 @@
       "source_law": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
       "source_article": "67",
       "target_law_raw": "Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "rburos; de la Ley de la Industria Eléctrica; de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley Gener",
       "pattern_name": "direct_mention",
@@ -121,7 +121,7 @@
       "char_offset": 5558,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
@@ -331,5 +331,5 @@
       "char_offset": 4740
     }
   ],
-  "resolved_at": "2026-03-30T23:30:36.708699+00:00"
+  "resolved_at": "2026-03-31T00:22:09.109950+00:00"
 }

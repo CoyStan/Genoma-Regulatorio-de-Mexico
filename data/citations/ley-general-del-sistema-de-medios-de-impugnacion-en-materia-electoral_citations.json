@@ -97,7 +97,7 @@
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
       "source_article": "24",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y el Reglamento Interno del propio Tribunal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "Párrafo reformado DOF 01-07-2008  2. Las Salas del Tribunal Electoral dictarán sus sentencias en sesión pública, de conformidad con lo que establezca la Ley Orgánica del Poder Judicial de la Federación y el Reglamento Interno del propio Tribunal, así como con las reglas y el procedimiento siguientes:  a) Abierta la sesión pública por el presidente de la Sala y verificado el quórum legal, se p",
       "pattern_name": "direct_mention",
@@ -106,7 +106,7 @@
       "char_offset": 437,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
@@ -529,7 +529,7 @@
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
       "source_article": "112",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación contenidos en el presente Decreto",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ios de Impugnación en Materia Electoral objeto del presente Decreto entrarán en vigor conforme a lo establecido en el Artículo Tercero Transitorio de la Ley Orgánica del Poder Judicial de la Federación contenidos en el presente Decreto.  Artículo Segundo.- Los casos radicados en la Sala Superior antes de la entrada en vigor de este Decreto serán sustanciados y resueltos por la misma",
       "pattern_name": "direct_mention",
@@ -538,7 +538,7 @@
       "char_offset": 8541,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
@@ -559,7 +559,7 @@
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
       "source_article": "112",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "mientos Electorales; y se reforman y adicionan diversas disposiciones de la Ley General del Sistema de Medios de Impugnación en Materia Electoral, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.  Publicado en el Diario Oficial de la Federación el 23 de mayo de 2014  ARTÍCULO SEGUNDO.- Se REFORMAN los párrafos 1 y 2 del artículo 2; los inciso",
       "pattern_name": "direct_mention",
@@ -568,7 +568,7 @@
       "char_offset": 12020,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
@@ -934,7 +934,7 @@
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
       "source_article": "112",
       "target_law_raw": "Ley Orgánica de la Fiscalía General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "stema de Medios de Impugnación en Materia Electoral, de la Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.  Publicado en el Diario Oficial de ",
       "pattern_name": "direct_mention",
@@ -943,7 +943,7 @@
       "char_offset": 18239,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
@@ -1033,5 +1033,5 @@
       "char_offset": 2946
     }
   ],
-  "resolved_at": "2026-03-30T23:30:32.331400+00:00"
+  "resolved_at": "2026-03-31T00:22:04.442466+00:00"
 }

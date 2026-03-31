@@ -346,7 +346,7 @@
       "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "73",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y de la Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y de la Ley Orgánica de la Procuraduría General de la República.  Publicado en el Diario Oficial de la Federación el 2 de abril de 2013  ARTÍCULO TERCERO. Se reforma el artículo 43 y se adicionan los artículos 9o ",
       "pattern_name": "direct_mention",
@@ -355,13 +355,13 @@
       "char_offset": 8310,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "73",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "l López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) ",
       "pattern_name": "direct_mention",
@@ -370,7 +370,7 @@
       "char_offset": 23153,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -445,5 +445,5 @@
       "char_offset": 1146
     }
   ],
-  "resolved_at": "2026-03-30T23:30:37.204421+00:00"
+  "resolved_at": "2026-03-31T00:22:09.605225+00:00"
 }

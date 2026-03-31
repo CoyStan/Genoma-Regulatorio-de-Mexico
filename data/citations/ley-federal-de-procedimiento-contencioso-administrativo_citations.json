@@ -22,7 +22,7 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "2o",
       "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ARTÍCULO 2o.- El juicio contencioso administrativo federal, procede contra las resoluciones administrativas definitivas que establece la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.  Asimismo, procede dicho juicio contra los actos administrativos, Decretos y Acuerdos de carácter general, diversos a los Reglamentos, cuando sean a",
       "pattern_name": "direct_mention",
@@ -31,7 +31,7 @@
       "char_offset": 134,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -157,7 +157,7 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "30",
       "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "O 30. Las Salas Regionales serán competentes para conocer de los juicios por razón de territorio, de conformidad con lo previsto en el artículo 34 de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.  En caso de duda, será competente por razón de territorio la Sala Regional ante quien se haya presentado el asunto.  Cuando una sala esté conociendo",
       "pattern_name": "direct_mention",
@@ -166,7 +166,7 @@
       "char_offset": 157,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -424,7 +424,7 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "79",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " que Establece las Normas Mínimas sobre Readaptación Social de Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Preventiva, de la Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de la Ley Federal de Procedimiento Contencioso Administrativo. ",
       "pattern_name": "direct_mention",
@@ -433,7 +433,7 @@
       "char_offset": 4464,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -454,7 +454,7 @@
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
       "source_article": "79",
       "target_law_raw": "Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa que se reforman conforme al presente Decreto",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ativo, y los artículos 1o, fracción III, 65, 66, 67, 68, 69 y 70 de la Ley Federal de Procedimiento Contencioso Administrativo, y 41, fracción XXX de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa que se reforman conforme al presente Decreto, entrarán en vigor a partir de los 240 días naturales siguientes, a la fecha de publicación de este ordenamiento.  Asimismo, el Tribunal deberá reali",
       "pattern_name": "direct_mention",
@@ -463,7 +463,7 @@
       "char_offset": 17169,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-procedimiento-contencioso-administrativo",
@@ -508,5 +508,5 @@
       "char_offset": 1780
     }
   ],
-  "resolved_at": "2026-03-30T23:30:24.733082+00:00"
+  "resolved_at": "2026-03-31T00:21:56.595970+00:00"
 }

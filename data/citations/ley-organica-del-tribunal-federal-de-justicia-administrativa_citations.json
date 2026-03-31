@@ -715,7 +715,7 @@
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
       "source_article": "70",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y la Ley Orgánica del Tribunal Federal de Justicia Administrativa",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "S DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley General de Mecanismos Alternativos de Solución de Controversias y se reforma y adiciona la Ley Orgánica del Poder Judicial de la Federación y la Ley Orgánica del Tribunal Federal de Justicia Administrativa.  Publicado en el Diario Oficial de la Federación el 26 de enero de 2024  Artículo Tercero. Se adiciona un segundo párrafo y se recorren los subsecue",
       "pattern_name": "direct_mention",
@@ -724,7 +724,7 @@
       "char_offset": 9552,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
@@ -754,5 +754,5 @@
       "char_offset": 9023
     }
   ],
-  "resolved_at": "2026-03-30T23:30:36.467880+00:00"
+  "resolved_at": "2026-03-31T00:22:08.865683+00:00"
 }

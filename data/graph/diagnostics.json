@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-03-31T00:16:38.175965+00:00",
+  "generated_at": "2026-03-31T00:22:34.020923+00:00",
   "graph_stats": {
     "num_nodes": 361,
-    "num_edges": 4185
+    "num_edges": 4152
   },
   "orphan_references": [
     {
@@ -9006,7 +9006,7 @@
       "sector": "constitucional",
       "in_degree": 316,
       "out_degree": 0,
-      "pagerank": 0.077826,
+      "pagerank": 0.077786,
       "betweenness": 0.0,
       "cascade_score": 317
     },
@@ -9017,7 +9017,7 @@
       "sector": "competencia",
       "in_degree": 218,
       "out_degree": 0,
-      "pagerank": 0.030793,
+      "pagerank": 0.031018,
       "betweenness": 0.0,
       "cascade_score": 266
     },
@@ -9028,20 +9028,20 @@
       "sector": "mercantil",
       "in_degree": 203,
       "out_degree": 0,
-      "pagerank": 0.027321,
+      "pagerank": 0.027502,
       "betweenness": 0.0,
       "cascade_score": 264
     },
     {
-      "law_id": "ley-pemex",
-      "name": "Ley de Petróleos Mexicanos",
-      "short": "LPEMEX",
-      "sector": "energia",
+      "law_id": "lopjf",
+      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "short": "LOPJF",
+      "sector": "judicial",
       "in_degree": 138,
       "out_degree": 0,
-      "pagerank": 0.020505,
+      "pagerank": 0.018378,
       "betweenness": 0.0,
-      "cascade_score": 261
+      "cascade_score": 255
     },
     {
       "law_id": "ley-general-educacion",
@@ -9050,7 +9050,7 @@
       "sector": "educacion",
       "in_degree": 107,
       "out_degree": 0,
-      "pagerank": 0.014727,
+      "pagerank": 0.014777,
       "betweenness": 0.0,
       "cascade_score": 251
     },
@@ -9061,7 +9061,7 @@
       "sector": "penal",
       "in_degree": 102,
       "out_degree": 0,
-      "pagerank": 0.013533,
+      "pagerank": 0.01362,
       "betweenness": 0.0,
       "cascade_score": 251
     },
@@ -9072,7 +9072,7 @@
       "sector": "administrativo",
       "in_degree": 91,
       "out_degree": 0,
-      "pagerank": 0.013137,
+      "pagerank": 0.013183,
       "betweenness": 0.0,
       "cascade_score": 251
     },
@@ -9083,7 +9083,7 @@
       "sector": "administrativo",
       "in_degree": 91,
       "out_degree": 0,
-      "pagerank": 0.012492,
+      "pagerank": 0.012656,
       "betweenness": 0.0,
       "cascade_score": 246
     },
@@ -9094,8 +9094,8 @@
       "sector": "trabajo",
       "in_degree": 92,
       "out_degree": 32,
-      "pagerank": 0.011645,
-      "betweenness": 0.042671,
+      "pagerank": 0.011746,
+      "betweenness": 0.04302,
       "cascade_score": 239
     },
     {
@@ -9105,7 +9105,7 @@
       "sector": "telecomunicaciones",
       "in_degree": 83,
       "out_degree": 0,
-      "pagerank": 0.010791,
+      "pagerank": 0.010865,
       "betweenness": 0.0,
       "cascade_score": 251
     },
@@ -9116,7 +9116,7 @@
       "sector": "electoral",
       "in_degree": 82,
       "out_degree": 0,
-      "pagerank": 0.010531,
+      "pagerank": 0.010613,
       "betweenness": 0.0,
       "cascade_score": 248
     },
@@ -9127,7 +9127,7 @@
       "sector": "propiedad-intelectual",
       "in_degree": 77,
       "out_degree": 0,
-      "pagerank": 0.010198,
+      "pagerank": 0.010275,
       "betweenness": 0.0,
       "cascade_score": 244
     },
@@ -9138,7 +9138,7 @@
       "sector": "transparencia",
       "in_degree": 75,
       "out_degree": 0,
-      "pagerank": 0.010095,
+      "pagerank": 0.010135,
       "betweenness": 0.0,
       "cascade_score": 248
     },
@@ -9149,7 +9149,7 @@
       "sector": "anticorrupcion",
       "in_degree": 71,
       "out_degree": 0,
-      "pagerank": 0.00956,
+      "pagerank": 0.009661,
       "betweenness": 0.0,
       "cascade_score": 249
     },
@@ -9160,7 +9160,7 @@
       "sector": "financiero",
       "in_degree": 77,
       "out_degree": 0,
-      "pagerank": 0.009281,
+      "pagerank": 0.009391,
       "betweenness": 0.0,
       "cascade_score": 245
     },
@@ -9171,20 +9171,9 @@
       "sector": "anticorrupcion",
       "in_degree": 60,
       "out_degree": 0,
-      "pagerank": 0.009121,
+      "pagerank": 0.00917,
       "betweenness": 0.0,
       "cascade_score": 246
-    },
-    {
-      "law_id": "lopjf",
-      "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "short": "LOPJF",
-      "sector": "judicial",
-      "in_degree": 69,
-      "out_degree": 0,
-      "pagerank": 0.008381,
-      "betweenness": 0.0,
-      "cascade_score": 245
     },
     {
       "law_id": "ley-general-salud",
@@ -9193,7 +9182,7 @@
       "sector": "salud",
       "in_degree": 59,
       "out_degree": 0,
-      "pagerank": 0.008305,
+      "pagerank": 0.008365,
       "betweenness": 0.0,
       "cascade_score": 245
     },
@@ -9204,7 +9193,7 @@
       "sector": "financiero",
       "in_degree": 76,
       "out_degree": 0,
-      "pagerank": 0.00825,
+      "pagerank": 0.008305,
       "betweenness": 0.0,
       "cascade_score": 242
     },
@@ -9215,9 +9204,20 @@
       "sector": "consumidor",
       "in_degree": 68,
       "out_degree": 0,
-      "pagerank": 0.007837,
+      "pagerank": 0.007873,
       "betweenness": 0.0,
       "cascade_score": 242
+    },
+    {
+      "law_id": "ley-pemex",
+      "name": "Ley de Petróleos Mexicanos",
+      "short": "LPEMEX",
+      "sector": "energia",
+      "in_degree": 36,
+      "out_degree": 0,
+      "pagerank": 0.007617,
+      "betweenness": 0.0,
+      "cascade_score": 250
     }
   ],
   "isolated_laws": [
@@ -9477,11 +9477,11 @@
       ]
     },
     {
-      "law_id": "ley-pemex",
-      "name": "Ley de Petróleos Mexicanos",
-      "short": "LPEMEX",
-      "sector": "energia",
-      "cascade_size": 261,
+      "law_id": "lopjf",
+      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "short": "LOPJF",
+      "sector": "judicial",
+      "cascade_size": 255,
       "direct_dependents": 138,
       "sample_dependents": [
         "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
@@ -9549,6 +9549,21 @@
         "ley-de-proteccion-del-espacio-aereo-mexicano",
         "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
         "ley-de-asociaciones-publico-privadas"
+      ]
+    },
+    {
+      "law_id": "ley-pemex",
+      "name": "Ley de Petróleos Mexicanos",
+      "short": "LPEMEX",
+      "sector": "energia",
+      "cascade_size": 250,
+      "direct_dependents": 36,
+      "sample_dependents": [
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
+        "ley-general-de-titulos-y-operaciones-de-credito",
+        "ley-de-tesoreria-de-la-federacion",
+        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025"
       ]
     },
     {
@@ -9669,21 +9684,6 @@
         "ley-general-para-el-control-del-tabaco",
         "ley-general-de-desarrollo-social",
         "ley-de-ayuda-alimentaria-para-los-trabajadores"
-      ]
-    },
-    {
-      "law_id": "lopjf",
-      "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "short": "LOPJF",
-      "sector": "judicial",
-      "cascade_size": 245,
-      "direct_dependents": 69,
-      "sample_dependents": [
-        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
-        "ley-federal-de-cinematografia",
-        "ley-general-en-materia-de-delitos-electorales",
-        "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
-        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos"
       ]
     },
     {
@@ -9884,12 +9884,36 @@
     {
       "length": 2,
       "law_ids": [
-        "codigo-de-justicia-militar",
-        "ley-de-la-guardia-nacional"
+        "codigo-penal-federal",
+        "ley-de-navegacion-y-comercio-maritimos"
       ],
       "law_names": [
-        "CÓDIGO de Justicia Militar",
-        "LEY de la Guardia Nacional"
+        "CÓDIGO Penal Federal",
+        "LEY de Navegación y Comercio Marítimos"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "codigo-penal-federal",
+        "ley-federal-contra-la-delincuencia-organizada"
+      ],
+      "law_names": [
+        "CÓDIGO Penal Federal",
+        "LEY Federal contra la Delincuencia Organizada"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-aeropuertos",
+        "ley-de-aviacion-civil"
+      ],
+      "law_names": [
+        "LEY de Aeropuertos",
+        "LEY de Aviación Civil"
       ],
       "type": "direct"
     },
@@ -9933,30 +9957,6 @@
       "length": 2,
       "law_ids": [
         "ley-de-asistencia-social",
-        "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos"
-      ],
-      "law_names": [
-        "LEY de Asistencia Social",
-        "LEY de la Agencia Nacional de Seguridad Industrial"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-asistencia-social",
-        "ley-de-la-casa-de-moneda-de-mexico"
-      ],
-      "law_names": [
-        "LEY de Asistencia Social",
-        "LEY de la Casa de Moneda de México"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-asistencia-social",
         "ley-de-la-comision-nacional-bancaria-y-de-valores"
       ],
       "law_names": [
@@ -9980,6 +9980,30 @@
     {
       "length": 2,
       "law_ids": [
+        "ley-de-asociaciones-publico-privadas",
+        "ley-de-expropiacion"
+      ],
+      "law_names": [
+        "LEY de Asociaciones Público Privadas",
+        "LEY de Expropiación"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-asociaciones-religiosas-y-culto-publico",
+        "ley-de-inversion-extranjera"
+      ],
+      "law_names": [
+        "LEY de Asociaciones Religiosas y Culto Público",
+        "LEY de Inversión Extranjera"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
         "ley-de-asociaciones-religiosas-y-culto-publico",
         "ley-de-la-policia-federal"
       ],
@@ -9992,12 +10016,24 @@
     {
       "length": 2,
       "law_ids": [
+        "ley-de-asociaciones-religiosas-y-culto-publico",
+        "ley-federal-contra-la-delincuencia-organizada"
+      ],
+      "law_names": [
+        "LEY de Asociaciones Religiosas y Culto Público",
+        "LEY Federal contra la Delincuencia Organizada"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
         "ley-de-aviacion-civil",
-        "ley-de-aeropuertos"
+        "ley-de-inversion-extranjera"
       ],
       "law_names": [
         "LEY de Aviación Civil",
-        "LEY de Aeropuertos"
+        "LEY de Inversión Extranjera"
       ],
       "type": "direct"
     },
@@ -10040,30 +10076,6 @@
     {
       "length": 2,
       "law_ids": [
-        "ley-de-aviacion-civil",
-        "ley-del-servicio-militar"
-      ],
-      "law_names": [
-        "LEY de Aviación Civil",
-        "LEY del Servicio Militar"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-aviacion-civil",
-        "ley-federal-del-trabajo"
-      ],
-      "law_names": [
-        "LEY de Aviación Civil",
-        "LEY Federal del Trabajo"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
         "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
         "ley-de-la-casa-de-moneda-de-mexico"
       ],
@@ -10077,11 +10089,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-        "ley-de-la-economia-social-y-solidaria"
+        "ley-de-los-institutos-nacionales-de-salud"
       ],
       "law_names": [
         "LEY de Bioseguridad de Organismos Genéticamente Mo",
-        "LEY de la Economía Social y Solidaria"
+        "LEY de los Institutos Nacionales de Salud"
       ],
       "type": "direct"
     },
@@ -10100,24 +10112,12 @@
     {
       "length": 2,
       "law_ids": [
-        "ley-de-concursos-mercantiles",
-        "ley-nacional-de-extincion-de-dominio"
-      ],
-      "law_names": [
-        "LEY de Concursos Mercantiles",
-        "LEY Nacional de Extinción de Dominio"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
         "ley-de-coordinacion-fiscal",
-        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026"
+        "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion"
       ],
       "law_names": [
         "LEY de Coordinación Fiscal",
-        "LEY de Ingresos de la Federación para el Ejercicio"
+        "LEY de Fiscalización y Rendición de Cuentas de la "
       ],
       "type": "direct"
     },
@@ -10137,11 +10137,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-coordinacion-fiscal",
-        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
+        "ley-de-tesoreria-de-la-federacion"
       ],
       "law_names": [
         "LEY de Coordinación Fiscal",
-        "LEY del Fondo Mexicano del Petróleo para la Estabi"
+        "LEY de Tesorería de la Federación"
       ],
       "type": "direct"
     },
@@ -10149,11 +10149,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-coordinacion-fiscal",
-        "ley-general-del-sistema-nacional-de-seguridad-publica"
+        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
       ],
       "law_names": [
         "LEY de Coordinación Fiscal",
-        "LEY General del Sistema Nacional de Seguridad Públ"
+        "LEY del Fondo Mexicano del Petróleo para la Estabi"
       ],
       "type": "direct"
     },
@@ -10172,24 +10172,48 @@
     {
       "length": 2,
       "law_ids": [
-        "ley-de-expropiacion",
-        "ley-de-asociaciones-publico-privadas"
+        "ley-de-fomento-para-la-lectura-y-el-libro",
+        "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos"
       ],
       "law_names": [
-        "LEY de Expropiación",
-        "LEY de Asociaciones Público Privadas"
+        "LEY de Fomento para la Lectura y el Libro",
+        "LEY Federal sobre Monumentos y Zonas Arqueológicos"
       ],
       "type": "direct"
     },
     {
       "length": 2,
       "law_ids": [
-        "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+        "ley-de-geotermia",
+        "ley-de-planeacion-y-transicion-energetica"
+      ],
+      "law_names": [
+        "LEY de Geotermia",
+        "LEY de Planeación y Transición Energética"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
         "ley-de-coordinacion-fiscal"
       ],
       "law_names": [
-        "LEY de Fiscalización y Rendición de Cuentas de la ",
+        "LEY de Ingresos de la Federación para el Ejercicio",
         "LEY de Coordinación Fiscal"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+        "ley-de-ingresos-sobre-hidrocarburos"
+      ],
+      "law_names": [
+        "LEY de Ingresos de la Federación para el Ejercicio",
+        "LEY de Ingresos sobre Hidrocarburos"
       ],
       "type": "direct"
     },
@@ -10209,18 +10233,6 @@
       "length": 2,
       "law_ids": [
         "ley-de-ingresos-sobre-hidrocarburos",
-        "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026"
-      ],
-      "law_names": [
-        "LEY de Ingresos sobre Hidrocarburos",
-        "LEY de Ingresos de la Federación para el Ejercicio"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-ingresos-sobre-hidrocarburos",
         "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
       ],
       "law_names": [
@@ -10233,35 +10245,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-inversion-extranjera",
-        "ley-de-asociaciones-religiosas-y-culto-publico"
+        "ley-de-la-comision-nacional-bancaria-y-de-valores"
       ],
       "law_names": [
         "LEY de Inversión Extranjera",
-        "LEY de Asociaciones Religiosas y Culto Público"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-inversion-extranjera",
-        "ley-de-aviacion-civil"
-      ],
-      "law_names": [
-        "LEY de Inversión Extranjera",
-        "LEY de Aviación Civil"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-inversion-extranjera",
-        "ley-de-la-comision-nacional-de-los-derechos-humanos"
-      ],
-      "law_names": [
-        "LEY de Inversión Extranjera",
-        "LEY de la Comisión Nacional de los Derechos Humano"
+        "LEY de la Comisión Nacional Bancaria y de Valores"
       ],
       "type": "direct"
     },
@@ -10281,18 +10269,6 @@
       "length": 2,
       "law_ids": [
         "ley-de-inversion-extranjera",
-        "ley-del-seguro-social"
-      ],
-      "law_names": [
-        "LEY de Inversión Extranjera",
-        "LEY del Seguro Social"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-inversion-extranjera",
         "ley-del-servicio-exterior-mexicano"
       ],
       "law_names": [
@@ -10304,24 +10280,12 @@
     {
       "length": 2,
       "law_ids": [
-        "ley-de-inversion-extranjera",
-        "ley-del-servicio-militar"
+        "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
+        "ley-de-asistencia-social"
       ],
       "law_names": [
-        "LEY de Inversión Extranjera",
-        "LEY del Servicio Militar"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-inversion-extranjera",
-        "ley-federal-del-trabajo"
-      ],
-      "law_names": [
-        "LEY de Inversión Extranjera",
-        "LEY Federal del Trabajo"
+        "LEY de la Agencia Nacional de Seguridad Industrial",
+        "LEY de Asistencia Social"
       ],
       "type": "direct"
     },
@@ -10341,11 +10305,23 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-        "ley-de-la-casa-de-moneda-de-mexico"
+        "ley-de-la-comision-nacional-bancaria-y-de-valores"
       ],
       "law_names": [
         "LEY de la Agencia Nacional de Seguridad Industrial",
-        "LEY de la Casa de Moneda de México"
+        "LEY de la Comisión Nacional Bancaria y de Valores"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
+        "ley-de-los-institutos-nacionales-de-salud"
+      ],
+      "law_names": [
+        "LEY de la Agencia Nacional de Seguridad Industrial",
+        "LEY de los Institutos Nacionales de Salud"
       ],
       "type": "direct"
     },
@@ -10365,11 +10341,35 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-casa-de-moneda-de-mexico",
-        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
+        "ley-de-asistencia-social"
       ],
       "law_names": [
         "LEY de la Casa de Moneda de México",
-        "LEY del Fondo Mexicano del Petróleo para la Estabi"
+        "LEY de Asistencia Social"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-la-casa-de-moneda-de-mexico",
+        "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos"
+      ],
+      "law_names": [
+        "LEY de la Casa de Moneda de México",
+        "LEY de la Agencia Nacional de Seguridad Industrial"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-la-casa-de-moneda-de-mexico",
+        "ley-de-la-economia-social-y-solidaria"
+      ],
+      "law_names": [
+        "LEY de la Casa de Moneda de México",
+        "LEY de la Economía Social y Solidaria"
       ],
       "type": "direct"
     },
@@ -10389,30 +10389,6 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-comision-nacional-bancaria-y-de-valores",
-        "ley-de-inversion-extranjera"
-      ],
-      "law_names": [
-        "LEY de la Comisión Nacional Bancaria y de Valores",
-        "LEY de Inversión Extranjera"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-la-comision-nacional-bancaria-y-de-valores",
-        "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos"
-      ],
-      "law_names": [
-        "LEY de la Comisión Nacional Bancaria y de Valores",
-        "LEY de la Agencia Nacional de Seguridad Industrial"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-la-comision-nacional-bancaria-y-de-valores",
         "ley-de-la-casa-de-moneda-de-mexico"
       ],
       "law_names": [
@@ -10425,11 +10401,23 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-comision-nacional-bancaria-y-de-valores",
-        "ley-de-la-economia-social-y-solidaria"
+        "ley-de-la-comision-nacional-de-los-derechos-humanos"
       ],
       "law_names": [
         "LEY de la Comisión Nacional Bancaria y de Valores",
-        "LEY de la Economía Social y Solidaria"
+        "LEY de la Comisión Nacional de los Derechos Humano"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-la-comision-nacional-bancaria-y-de-valores",
+        "ley-de-los-institutos-nacionales-de-salud"
+      ],
+      "law_names": [
+        "LEY de la Comisión Nacional Bancaria y de Valores",
+        "LEY de los Institutos Nacionales de Salud"
       ],
       "type": "direct"
     },
@@ -10449,11 +10437,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-comision-nacional-bancaria-y-de-valores",
-        "ley-del-servicio-exterior-mexicano"
+        "ley-del-seguro-social"
       ],
       "law_names": [
         "LEY de la Comisión Nacional Bancaria y de Valores",
-        "LEY del Servicio Exterior Mexicano"
+        "LEY del Seguro Social"
       ],
       "type": "direct"
     },
@@ -10461,11 +10449,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-comision-nacional-bancaria-y-de-valores",
-        "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros"
+        "ley-del-servicio-exterior-mexicano"
       ],
       "law_names": [
         "LEY de la Comisión Nacional Bancaria y de Valores",
-        "LEY para la Transparencia y Ordenamiento de los Se"
+        "LEY del Servicio Exterior Mexicano"
       ],
       "type": "direct"
     },
@@ -10485,11 +10473,23 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-comision-nacional-de-los-derechos-humanos",
-        "ley-de-la-comision-nacional-bancaria-y-de-valores"
+        "ley-de-inversion-extranjera"
       ],
       "law_names": [
         "LEY de la Comisión Nacional de los Derechos Humano",
-        "LEY de la Comisión Nacional Bancaria y de Valores"
+        "LEY de Inversión Extranjera"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-la-comision-nacional-de-los-derechos-humanos",
+        "ley-de-los-sistemas-de-ahorro-para-el-retiro"
+      ],
+      "law_names": [
+        "LEY de la Comisión Nacional de los Derechos Humano",
+        "LEY de los Sistemas de Ahorro para el Retiro"
       ],
       "type": "direct"
     },
@@ -10509,23 +10509,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-comision-nacional-de-los-derechos-humanos",
-        "ley-del-servicio-exterior-mexicano"
+        "ley-del-servicio-militar"
       ],
       "law_names": [
         "LEY de la Comisión Nacional de los Derechos Humano",
-        "LEY del Servicio Exterior Mexicano"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-la-comision-nacional-de-los-derechos-humanos",
-        "ley-federal-del-trabajo"
-      ],
-      "law_names": [
-        "LEY de la Comisión Nacional de los Derechos Humano",
-        "LEY Federal del Trabajo"
+        "LEY del Servicio Militar"
       ],
       "type": "direct"
     },
@@ -10545,6 +10533,18 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-economia-social-y-solidaria",
+        "ley-de-bioseguridad-de-organismos-geneticamente-modificados"
+      ],
+      "law_names": [
+        "LEY de la Economía Social y Solidaria",
+        "LEY de Bioseguridad de Organismos Genéticamente Mo"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-la-economia-social-y-solidaria",
         "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos"
       ],
       "law_names": [
@@ -10557,23 +10557,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-la-economia-social-y-solidaria",
-        "ley-de-la-casa-de-moneda-de-mexico"
+        "ley-de-la-comision-nacional-bancaria-y-de-valores"
       ],
       "law_names": [
         "LEY de la Economía Social y Solidaria",
-        "LEY de la Casa de Moneda de México"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-la-economia-social-y-solidaria",
-        "ley-de-los-institutos-nacionales-de-salud"
-      ],
-      "law_names": [
-        "LEY de la Economía Social y Solidaria",
-        "LEY de los Institutos Nacionales de Salud"
+        "LEY de la Comisión Nacional Bancaria y de Valores"
       ],
       "type": "direct"
     },
@@ -10604,6 +10592,18 @@
     {
       "length": 2,
       "law_ids": [
+        "ley-de-la-guardia-nacional",
+        "codigo-de-justicia-militar"
+      ],
+      "law_names": [
+        "LEY de la Guardia Nacional",
+        "CÓDIGO de Justicia Militar"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
         "ley-de-la-policia-federal",
         "ley-de-inversion-extranjera"
       ],
@@ -10616,24 +10616,12 @@
     {
       "length": 2,
       "law_ids": [
-        "ley-de-los-institutos-nacionales-de-salud",
-        "ley-de-bioseguridad-de-organismos-geneticamente-modificados"
+        "ley-de-la-policia-federal",
+        "ley-federal-contra-la-delincuencia-organizada"
       ],
       "law_names": [
-        "LEY de los Institutos Nacionales de Salud",
-        "LEY de Bioseguridad de Organismos Genéticamente Mo"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-los-institutos-nacionales-de-salud",
-        "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos"
-      ],
-      "law_names": [
-        "LEY de los Institutos Nacionales de Salud",
-        "LEY de la Agencia Nacional de Seguridad Industrial"
+        "LEY de la Policía Federal",
+        "LEY Federal contra la Delincuencia Organizada"
       ],
       "type": "direct"
     },
@@ -10653,11 +10641,23 @@
       "length": 2,
       "law_ids": [
         "ley-de-los-institutos-nacionales-de-salud",
-        "ley-de-la-comision-nacional-bancaria-y-de-valores"
+        "ley-de-la-economia-social-y-solidaria"
       ],
       "law_names": [
         "LEY de los Institutos Nacionales de Salud",
-        "LEY de la Comisión Nacional Bancaria y de Valores"
+        "LEY de la Economía Social y Solidaria"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-de-los-institutos-nacionales-de-salud",
+        "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo"
+      ],
+      "law_names": [
+        "LEY de los Institutos Nacionales de Salud",
+        "LEY del Fondo Mexicano del Petróleo para la Estabi"
       ],
       "type": "direct"
     },
@@ -10701,11 +10701,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-los-sistemas-de-ahorro-para-el-retiro",
-        "ley-de-la-comision-nacional-de-los-derechos-humanos"
+        "ley-del-servicio-exterior-mexicano"
       ],
       "law_names": [
         "LEY de los Sistemas de Ahorro para el Retiro",
-        "LEY de la Comisión Nacional de los Derechos Humano"
+        "LEY del Servicio Exterior Mexicano"
       ],
       "type": "direct"
     },
@@ -10713,35 +10713,11 @@
       "length": 2,
       "law_ids": [
         "ley-de-los-sistemas-de-ahorro-para-el-retiro",
-        "ley-del-servicio-militar"
+        "ley-federal-del-trabajo"
       ],
       "law_names": [
         "LEY de los Sistemas de Ahorro para el Retiro",
-        "LEY del Servicio Militar"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-navegacion-y-comercio-maritimos",
-        "codigo-penal-federal"
-      ],
-      "law_names": [
-        "LEY de Navegación y Comercio Marítimos",
-        "CÓDIGO Penal Federal"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-navegacion-y-comercio-maritimos",
-        "ley-de-puertos"
-      ],
-      "law_names": [
-        "LEY de Navegación y Comercio Marítimos",
-        "LEY de Puertos"
+        "LEY Federal del Trabajo"
       ],
       "type": "direct"
     },
@@ -10760,24 +10736,12 @@
     {
       "length": 2,
       "law_ids": [
-        "ley-de-planeacion-y-transicion-energetica",
-        "ley-de-geotermia"
+        "ley-de-puertos",
+        "ley-de-navegacion-y-comercio-maritimos"
       ],
       "law_names": [
-        "LEY de Planeación y Transición Energética",
-        "LEY de Geotermia"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-de-tesoreria-de-la-federacion",
-        "ley-de-coordinacion-fiscal"
-      ],
-      "law_names": [
-        "LEY de Tesorería de la Federación",
-        "LEY de Coordinación Fiscal"
+        "LEY de Puertos",
+        "LEY de Navegación y Comercio Marítimos"
       ],
       "type": "direct"
     },
@@ -10821,11 +10785,11 @@
       "length": 2,
       "law_ids": [
         "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
-        "ley-de-los-institutos-nacionales-de-salud"
+        "ley-de-la-casa-de-moneda-de-mexico"
       ],
       "law_names": [
         "LEY del Fondo Mexicano del Petróleo para la Estabi",
-        "LEY de los Institutos Nacionales de Salud"
+        "LEY de la Casa de Moneda de México"
       ],
       "type": "direct"
     },
@@ -10845,11 +10809,11 @@
       "length": 2,
       "law_ids": [
         "ley-del-seguro-social",
-        "ley-de-la-comision-nacional-bancaria-y-de-valores"
+        "ley-de-inversion-extranjera"
       ],
       "law_names": [
         "LEY del Seguro Social",
-        "LEY de la Comisión Nacional Bancaria y de Valores"
+        "LEY de Inversión Extranjera"
       ],
       "type": "direct"
     },
@@ -10869,23 +10833,11 @@
       "length": 2,
       "law_ids": [
         "ley-del-seguro-social",
-        "ley-del-servicio-exterior-mexicano"
+        "ley-del-servicio-militar"
       ],
       "law_names": [
         "LEY del Seguro Social",
-        "LEY del Servicio Exterior Mexicano"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-del-seguro-social",
-        "ley-federal-del-trabajo"
-      ],
-      "law_names": [
-        "LEY del Seguro Social",
-        "LEY Federal del Trabajo"
+        "LEY del Servicio Militar"
       ],
       "type": "direct"
     },
@@ -10905,11 +10857,11 @@
       "length": 2,
       "law_ids": [
         "ley-del-servicio-exterior-mexicano",
-        "ley-de-los-sistemas-de-ahorro-para-el-retiro"
+        "ley-de-la-comision-nacional-de-los-derechos-humanos"
       ],
       "law_names": [
         "LEY del Servicio Exterior Mexicano",
-        "LEY de los Sistemas de Ahorro para el Retiro"
+        "LEY de la Comisión Nacional de los Derechos Humano"
       ],
       "type": "direct"
     },
@@ -10917,11 +10869,35 @@
       "length": 2,
       "law_ids": [
         "ley-del-servicio-exterior-mexicano",
-        "ley-del-servicio-militar"
+        "ley-del-seguro-social"
       ],
       "law_names": [
         "LEY del Servicio Exterior Mexicano",
-        "LEY del Servicio Militar"
+        "LEY del Seguro Social"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-del-servicio-militar",
+        "ley-de-aviacion-civil"
+      ],
+      "law_names": [
+        "LEY del Servicio Militar",
+        "LEY de Aviación Civil"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-del-servicio-militar",
+        "ley-de-inversion-extranjera"
+      ],
+      "law_names": [
+        "LEY del Servicio Militar",
+        "LEY de Inversión Extranjera"
       ],
       "type": "direct"
     },
@@ -10941,11 +10917,11 @@
       "length": 2,
       "law_ids": [
         "ley-del-servicio-militar",
-        "ley-de-la-comision-nacional-de-los-derechos-humanos"
+        "ley-de-los-sistemas-de-ahorro-para-el-retiro"
       ],
       "law_names": [
         "LEY del Servicio Militar",
-        "LEY de la Comisión Nacional de los Derechos Humano"
+        "LEY de los Sistemas de Ahorro para el Retiro"
       ],
       "type": "direct"
     },
@@ -10953,35 +10929,11 @@
       "length": 2,
       "law_ids": [
         "ley-del-servicio-militar",
-        "ley-del-seguro-social"
+        "ley-del-servicio-exterior-mexicano"
       ],
       "law_names": [
         "LEY del Servicio Militar",
-        "LEY del Seguro Social"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-federal-contra-la-delincuencia-organizada",
-        "codigo-penal-federal"
-      ],
-      "law_names": [
-        "LEY Federal contra la Delincuencia Organizada",
-        "CÓDIGO Penal Federal"
-      ],
-      "type": "direct"
-    },
-    {
-      "length": 2,
-      "law_ids": [
-        "ley-federal-contra-la-delincuencia-organizada",
-        "ley-de-asociaciones-religiosas-y-culto-publico"
-      ],
-      "law_names": [
-        "LEY Federal contra la Delincuencia Organizada",
-        "LEY de Asociaciones Religiosas y Culto Público"
+        "LEY del Servicio Exterior Mexicano"
       ],
       "type": "direct"
     },
@@ -11001,23 +10953,35 @@
       "length": 2,
       "law_ids": [
         "ley-federal-contra-la-delincuencia-organizada",
-        "ley-de-la-policia-federal"
+        "ley-nacional-de-extincion-de-dominio"
       ],
       "law_names": [
         "LEY Federal contra la Delincuencia Organizada",
-        "LEY de la Policía Federal"
+        "LEY Nacional de Extinción de Dominio"
       ],
       "type": "direct"
     },
     {
       "length": 2,
       "law_ids": [
-        "ley-federal-contra-la-delincuencia-organizada",
-        "ley-nacional-de-extincion-de-dominio"
+        "ley-federal-del-trabajo",
+        "ley-de-aviacion-civil"
       ],
       "law_names": [
-        "LEY Federal contra la Delincuencia Organizada",
-        "LEY Nacional de Extinción de Dominio"
+        "LEY Federal del Trabajo",
+        "LEY de Aviación Civil"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-federal-del-trabajo",
+        "ley-de-inversion-extranjera"
+      ],
+      "law_names": [
+        "LEY Federal del Trabajo",
+        "LEY de Inversión Extranjera"
       ],
       "type": "direct"
     },
@@ -11037,11 +11001,23 @@
       "length": 2,
       "law_ids": [
         "ley-federal-del-trabajo",
-        "ley-de-los-sistemas-de-ahorro-para-el-retiro"
+        "ley-de-la-comision-nacional-de-los-derechos-humanos"
       ],
       "law_names": [
         "LEY Federal del Trabajo",
-        "LEY de los Sistemas de Ahorro para el Retiro"
+        "LEY de la Comisión Nacional de los Derechos Humano"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-federal-del-trabajo",
+        "ley-del-seguro-social"
+      ],
+      "law_names": [
+        "LEY Federal del Trabajo",
+        "LEY del Seguro Social"
       ],
       "type": "direct"
     },
@@ -11073,23 +11049,23 @@
       "length": 2,
       "law_ids": [
         "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-        "ley-de-fomento-para-la-lectura-y-el-libro"
+        "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos"
       ],
       "law_names": [
         "LEY Federal sobre Monumentos y Zonas Arqueológicos",
-        "LEY de Fomento para la Lectura y el Libro"
+        "LEY General para la Prevención y Gestión Integral "
       ],
       "type": "direct"
     },
     {
       "length": 2,
       "law_ids": [
-        "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
-        "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos"
+        "ley-general-del-sistema-nacional-de-seguridad-publica",
+        "ley-de-coordinacion-fiscal"
       ],
       "law_names": [
-        "LEY Federal sobre Monumentos y Zonas Arqueológicos",
-        "LEY General para la Prevención y Gestión Integral "
+        "LEY General del Sistema Nacional de Seguridad Públ",
+        "LEY de Coordinación Fiscal"
       ],
       "type": "direct"
     },
@@ -11140,126 +11116,176 @@
         "LEY de Navegación y Comercio Marítimos"
       ],
       "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-nacional-de-extincion-de-dominio",
+        "ley-de-concursos-mercantiles"
+      ],
+      "law_names": [
+        "LEY Nacional de Extinción de Dominio",
+        "LEY de Concursos Mercantiles"
+      ],
+      "type": "direct"
+    },
+    {
+      "length": 2,
+      "law_ids": [
+        "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+        "ley-de-la-comision-nacional-bancaria-y-de-valores"
+      ],
+      "law_names": [
+        "LEY para la Transparencia y Ordenamiento de los Se",
+        "LEY de la Comisión Nacional Bancaria y de Valores"
+      ],
+      "type": "direct"
     }
   ],
   "community_analysis": [
     {
-      "community_id": 0,
-      "size": 131,
+      "community_id": 4,
+      "size": 85,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 57,
-        "penal": 12,
-        "constitucional": 10,
-        "seguridad": 8,
-        "anticorrupcion": 6
+        "unknown": 40,
+        "constitucional": 8,
+        "educacion": 7,
+        "penal": 6,
+        "mercantil": 4
       },
       "central_law": "constitucion-politica",
       "central_law_name": "Constitución Política de los Estados Unidos Mexicanos",
       "members": [
         "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
-        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
         "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
         "ley-general-de-sociedades-mercantiles",
         "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
         "ley-federal-de-revocacion-de-mandato",
         "ley-organica-del-instituto-politecnico-nacional",
-        "ley-de-ayuda-alimentaria-para-los-trabajadores",
         "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
-        "ley-de-seguridad-interior"
+        "ley-federal-de-competencia-economica",
+        "ley-general-de-educacion",
+        "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja"
       ]
     },
     {
-      "community_id": 3,
-      "size": 65,
+      "community_id": 6,
+      "size": 59,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 29,
-        "administrativo": 6,
-        "salud": 5,
-        "fiscal": 4,
-        "educacion": 4
-      },
-      "central_law": "ley-federal-competencia-economica",
-      "central_law_name": "Ley Federal de Competencia Económica",
-      "members": [
-        "ley-federal-de-armas-de-fuego-y-explosivos",
-        "ley-de-caminos-puentes-y-autotransporte-federal",
-        "ley-de-asociaciones-publico-privadas",
-        "ley-general-para-el-control-del-tabaco",
-        "ley-general-de-desarrollo-social",
-        "ley-de-tesoreria-de-la-federacion",
-        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
-        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
-        "ley-federal-de-sanidad-animal",
-        "ley-reglamentaria-del-servicio-ferroviario"
-      ]
-    },
-    {
-      "community_id": 4,
-      "size": 56,
-      "dominant_sector": "financiero",
-      "sector_distribution": {
-        "financiero": 21,
-        "unknown": 17,
-        "mercantil": 5,
-        "educacion": 3,
-        "constitucional": 2
+        "unknown": 20,
+        "fiscal": 6,
+        "ambiental": 6,
+        "electoral": 5,
+        "penal": 3
       },
       "central_law": "ley-general-sociedades-mercantiles",
       "central_law_name": "Ley General de Sociedades Mercantiles",
       "members": [
         "ley-de-fomento-para-la-lectura-y-el-libro",
         "ley-general-en-materia-de-delitos-electorales",
-        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-        "ley-de-proteccion-al-ahorro-bancario",
         "ley-general-de-contabilidad-gubernamental",
-        "ley-general-de-titulos-y-operaciones-de-credito",
-        "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
-        "ley-para-regular-las-sociedades-de-informacion-crediticia",
-        "ley-de-ahorro-y-credito-popular",
-        "ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos"
+        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
+        "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
+        "ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-asociaciones-religiosas-y-culto-publico",
+        "ley-general-de-sociedades-cooperativas",
+        "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
+        "ley-de-fomento-a-la-confianza-ciudadana"
       ]
     },
     {
-      "community_id": 2,
+      "community_id": 3,
       "size": 48,
-      "dominant_sector": "fiscal",
+      "dominant_sector": "unknown",
       "sector_distribution": {
-        "fiscal": 14,
-        "unknown": 10,
-        "educacion": 4,
-        "migracion": 3,
-        "trabajo": 2
+        "unknown": 23,
+        "financiero": 4,
+        "mercantil": 3,
+        "educacion": 3,
+        "salud": 3
       },
-      "central_law": "ley-general-educacion",
-      "central_law_name": "Ley General de Educación",
+      "central_law": "ley-federal-competencia-economica",
+      "central_law_name": "Ley Federal de Competencia Económica",
       "members": [
         "ley-federal-de-cinematografia",
+        "ley-de-proteccion-al-ahorro-bancario",
+        "ley-general-de-desarrollo-social",
+        "ley-de-ayuda-alimentaria-para-los-trabajadores",
+        "ley-de-tesoreria-de-la-federacion",
+        "ley-de-cooperacion-internacional-para-el-desarrollo",
+        "ley-federal-de-sanidad-animal",
+        "ley-reglamentaria-del-servicio-ferroviario",
+        "ley-de-la-economia-social-y-solidaria",
+        "ley-del-instituto-mexicano-de-la-juventud"
+      ]
+    },
+    {
+      "community_id": 0,
+      "size": 41,
+      "dominant_sector": "unknown",
+      "sector_distribution": {
+        "unknown": 12,
+        "seguridad": 7,
+        "penal": 5,
+        "administrativo": 3,
+        "educacion": 2
+      },
+      "central_law": "codigo-nacional-procedimientos-penales",
+      "central_law_name": "Código Nacional de Procedimientos Penales",
+      "members": [
+        "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+        "ley-federal-de-armas-de-fuego-y-explosivos",
+        "ley-de-caminos-puentes-y-autotransporte-federal",
+        "ley-general-para-el-control-del-tabaco",
+        "ley-de-seguridad-interior",
+        "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
+        "codigo-de-comercio",
+        "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
+        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+        "ley-de-seguridad-nacional"
+      ]
+    },
+    {
+      "community_id": 7,
+      "size": 37,
+      "dominant_sector": "fiscal",
+      "sector_distribution": {
+        "fiscal": 12,
+        "unknown": 8,
+        "migracion": 3,
+        "trabajo": 2,
+        "seguridad-social": 2
+      },
+      "central_law": "lfda",
+      "central_law_name": "Ley Federal del Derecho de Autor",
+      "members": [
         "ley-del-impuesto-al-valor-agregado",
         "ley-aduanera",
         "ley-general-de-cultura-y-derechos-culturales",
         "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
         "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
-        "ley-general-de-educacion",
-        "ley-de-cooperacion-internacional-para-el-desarrollo",
         "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
-        "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica"
+        "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
+        "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+        "ley-del-servicio-postal-mexicano",
+        "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion"
       ]
     },
     {
       "community_id": 1,
-      "size": 32,
+      "size": 33,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 12,
+        "unknown": 14,
         "seguridad": 5,
-        "financiero": 3,
         "constitucional": 2,
-        "militar": 2
+        "militar": 2,
+        "civil": 2
       },
-      "central_law": "ley-pemex",
-      "central_law_name": "Ley de Petróleos Mexicanos",
+      "central_law": "lopjf",
+      "central_law_name": "Ley Orgánica del Poder Judicial de la Federación",
       "members": [
         "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
         "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
@@ -11274,29 +11300,55 @@
       ]
     },
     {
-      "community_id": 5,
-      "size": 29,
+      "community_id": 2,
+      "size": 30,
       "dominant_sector": "unknown",
       "sector_distribution": {
-        "unknown": 11,
-        "energia": 6,
-        "ambiental": 4,
-        "educacion": 2,
-        "mercantil": 2
+        "unknown": 14,
+        "energia": 5,
+        "administrativo": 3,
+        "fiscal": 2,
+        "educacion": 2
       },
       "central_law": "lfpa",
       "central_law_name": "Ley Federal de Procedimiento Administrativo",
       "members": [
+        "ley-de-asociaciones-publico-privadas",
+        "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
         "ley-de-mineria",
         "ley-de-capitalizacion-del-procampo",
         "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
         "ley-de-biocombustibles",
+        "ley-de-expropiacion",
         "ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contravengan-el-derecho-internacional",
         "ley-federal-de-zonas-economicas-especiales",
-        "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
-        "ley-de-navegacion-y-comercio-maritimos",
-        "ley-de-firma-electronica-avanzada",
-        "ley-de-aguas-nacionales"
+        "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos"
+      ]
+    },
+    {
+      "community_id": 5,
+      "size": 28,
+      "dominant_sector": "financiero",
+      "sector_distribution": {
+        "financiero": 19,
+        "unknown": 5,
+        "mercantil": 2,
+        "educacion": 1,
+        "consumidor": 1
+      },
+      "central_law": "ley-instituciones-credito",
+      "central_law_name": "Ley de Instituciones de Crédito",
+      "members": [
+        "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+        "ley-general-de-titulos-y-operaciones-de-credito",
+        "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
+        "ley-para-regular-las-sociedades-de-informacion-crediticia",
+        "ley-de-ahorro-y-credito-popular",
+        "ley-para-regular-las-agrupaciones-financieras",
+        "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+        "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
+        "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+        "ley-organica-de-sociedad-hipotecaria-federal"
       ]
     }
   ],

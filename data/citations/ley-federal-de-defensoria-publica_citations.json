@@ -139,7 +139,7 @@
       "source_law": "ley-federal-de-defensoria-publica",
       "source_article": "39",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de la República y se reforma la Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ntes; y se adiciona la Ley Orgánica del Poder Judicial de la Federación, se reforma la Ley Orgánica de la Administración Pública Federal, se adiciona la Ley Orgánica de la Procuraduría General de la República y se reforma la Ley Federal de Defensoría Pública.  Publicado en el Diario Oficial de la Federación el 27 de diciembre de 2012  ARTÍCULO QUINTO. Se reforman los artículos 4, fracción I, y 10; y se ad",
       "pattern_name": "direct_mention",
@@ -148,7 +148,7 @@
       "char_offset": 3017,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -334,7 +334,7 @@
       "source_law": "ley-federal-de-defensoria-publica",
       "source_article": "39",
       "target_law_raw": "Ley Orgánica del Centro Federal de Conciliación y Registro Laboral",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " Orgánica del Centro Federal. Dentro de los ciento ochenta días siguientes a que entre en vigor el presente Decreto, el Congreso de la Unión expedirá la Ley Orgánica del Centro Federal de Conciliación y Registro Laboral.  Tercero. Plazo de inicio de funciones de la Autoridad Registral. El Centro Federal de Conciliación y Registro Laboral iniciará sus funciones en mat",
       "pattern_name": "direct_mention",
@@ -343,7 +343,7 @@
       "char_offset": 16821,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -379,7 +379,7 @@
       "source_law": "ley-federal-de-defensoria-publica",
       "source_article": "39",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "l López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) ",
       "pattern_name": "direct_mention",
@@ -388,7 +388,7 @@
       "char_offset": 38596,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -424,7 +424,7 @@
       "source_law": "ley-federal-de-defensoria-publica",
       "source_article": "39",
       "target_law_raw": "Ley Orgánica de la Procuraduría de la Defensa del Contribuyente",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "y Federal de Defensoría Pública, de la Ley General de Salud, de la Ley General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del",
       "pattern_name": "direct_mention",
@@ -433,13 +433,13 @@
       "char_offset": 54280,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
       "source_article": "39",
       "target_law_raw": "Ley Orgánica del Seminario de Cultura Mexicana",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "General de Cultura Física y Deporte, de la Ley General de Cambio Climático, de la Ley Orgánica de la Procuraduría de la Defensa del Contribuyente, de la Ley Orgánica del Seminario de Cultura Mexicana, de la Ley de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos, de la Ley de la Comisión Federa",
       "pattern_name": "direct_mention",
@@ -448,7 +448,7 @@
       "char_offset": 54351,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -664,7 +664,7 @@
       "source_law": "ley-federal-de-defensoria-publica",
       "source_article": "39",
       "target_law_raw": "Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ad de Organismos Genéticamente Modificados, de la Ley de Aguas Nacionales, de la Ley de Asistencia Social, de la Ley General de Desarrollo Social, de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Veg",
       "pattern_name": "direct_mention",
@@ -673,7 +673,7 @@
       "char_offset": 55383,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -754,7 +754,7 @@
       "source_law": "ley-federal-de-defensoria-publica",
       "source_article": "39",
       "target_law_raw": "Ley Orgánica del Consejo Nacional de Ciencia y Tecnología",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "d Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de parida",
       "pattern_name": "direct_mention",
@@ -763,7 +763,7 @@
       "char_offset": 55786,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-defensoria-publica",
@@ -823,5 +823,5 @@
       "char_offset": 2333
     }
   ],
-  "resolved_at": "2026-03-30T23:30:22.023462+00:00"
+  "resolved_at": "2026-03-31T00:21:53.789258+00:00"
 }

@@ -217,7 +217,7 @@
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "do de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Públ",
       "pattern_name": "direct_mention",
@@ -226,7 +226,7 @@
       "char_offset": 9108,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -307,7 +307,7 @@
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanas",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": ", segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado \"Del Reclutamiento\", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artíc",
       "pattern_name": "direct_mention",
@@ -316,13 +316,13 @@
       "char_offset": 15355,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica de la Armada de México",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "70 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los a",
       "pattern_name": "direct_mention",
@@ -331,7 +331,7 @@
       "char_offset": 15499,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -382,7 +382,7 @@
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "es para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120",
       "pattern_name": "direct_mention",
@@ -391,13 +391,13 @@
       "char_offset": 16053,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos",
       "pattern_name": "direct_mention",
@@ -406,7 +406,7 @@
       "char_offset": 16162,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -517,7 +517,7 @@
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica del Instituto Nacional de Antropología e Historia",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nac",
       "pattern_name": "direct_mention",
@@ -526,7 +526,7 @@
       "char_offset": 17270,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -592,7 +592,7 @@
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica de los Tribunales Agrarios",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "e la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los",
       "pattern_name": "direct_mention",
@@ -601,7 +601,7 @@
       "char_offset": 17681,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -712,7 +712,7 @@
       "source_law": "ley-del-banco-de-mexico",
       "source_article": "68",
       "target_law_raw": "Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "orma la denominación del Tribunal Fiscal de la Federación por la de Tribunal Federal de Justicia Fiscal y Administrativa. En consecuencia, se reforma la Ley Orgánica del Tribunal Fiscal de la Federación tanto en su título como en sus disposiciones, así como en todas aquellas contenidas en el Código Fiscal de la Federación y en las demás leyes fiscales y administrativas federales, en las que se ",
       "pattern_name": "direct_mention",
@@ -721,7 +721,7 @@
       "char_offset": 25792,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-banco-de-mexico",
@@ -796,5 +796,5 @@
       "char_offset": 9879
     }
   ],
-  "resolved_at": "2026-03-30T23:30:17.438130+00:00"
+  "resolved_at": "2026-03-31T00:21:48.995831+00:00"
 }

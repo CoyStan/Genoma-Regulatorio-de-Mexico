@@ -517,7 +517,7 @@
       "source_law": "ley-de-asociaciones-publico-privadas",
       "source_article": "128",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal y su respectivo reglamento interior le conceden",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ten aplicables.  La Secretaría de la Función Pública vigilará los procesos de contratación materia de esta ley, en los términos de las facultades que la Ley Orgánica de la Administración Pública Federal y su respectivo reglamento interior le conceden. De la misma forma la Auditoria Superior de la Federación ejercerá sus atribuciones de auditoría y fiscalización en los términos que las disposicione",
       "pattern_name": "direct_mention",
@@ -526,7 +526,7 @@
       "char_offset": 438,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -826,5 +826,5 @@
       "char_offset": 3147
     }
   ],
-  "resolved_at": "2026-03-30T23:30:07.965557+00:00"
+  "resolved_at": "2026-03-31T00:21:39.614447+00:00"
 }

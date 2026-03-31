@@ -277,7 +277,7 @@
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "80",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "feridas por este Decreto, las cuales corresponderán a las autoridades administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal y demás ordenamientos reformados por este Decreto.  TERCERO. El Ejecutivo Federal, dentro de los 180 días siguientes, a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adi",
       "pattern_name": "direct_mention",
@@ -286,7 +286,7 @@
       "char_offset": 8274,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
@@ -391,5 +391,5 @@
       "char_offset": 2402
     }
   ],
-  "resolved_at": "2026-03-30T23:30:08.506693+00:00"
+  "resolved_at": "2026-03-31T00:21:40.178315+00:00"
 }

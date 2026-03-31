@@ -310,7 +310,7 @@
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
       "source_article": "7o",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanas",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": ", segundo párrafo, y se adicionan el artículo 148 BIS al capítulo denominado \"Del Reclutamiento\", y un inciso F) a la fracción II del artículo 170 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artíc",
       "pattern_name": "direct_mention",
@@ -319,13 +319,13 @@
       "char_offset": 2603,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
       "source_article": "7o",
       "target_law_raw": "Ley Orgánica de la Armada de México",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "70 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanas; se reforma el artículo 57 y se adiciona un inciso E) a la fracción I del artículo 105 de la Ley Orgánica de la Armada de México; se reforma el artículo 4, fracción I, del Código de Justicia Militar; se adiciona el artículo 5 BIS a la Ley del Servicio Militar; se reforman los a",
       "pattern_name": "direct_mention",
@@ -334,7 +334,7 @@
       "char_offset": 2747,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
@@ -385,7 +385,7 @@
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
       "source_article": "7o",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "es para el Distrito Federal en Materia Común y para toda la República en Materia Federal; 20, inciso a), 22 y 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120",
       "pattern_name": "direct_mention",
@@ -394,13 +394,13 @@
       "char_offset": 3301,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
       "source_article": "7o",
       "target_law_raw": "Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " 23, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de la República; 19, 34 y 35, en sus respectivas fracciones I, de la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal; 76, 91, 103, 114 y 120, en sus respectivos incisos a), del Código Federal de Instituciones y Procedimientos Electorales; 22 y 50, en sus respectivos",
       "pattern_name": "direct_mention",
@@ -409,7 +409,7 @@
       "char_offset": 3410,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
@@ -520,7 +520,7 @@
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
       "source_article": "7o",
       "target_law_raw": "Ley Orgánica del Instituto Nacional de Antropología e Historia",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nac",
       "pattern_name": "direct_mention",
@@ -529,7 +529,7 @@
       "char_offset": 4518,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
@@ -595,7 +595,7 @@
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
       "source_article": "7o",
       "target_law_raw": "Ley Orgánica de los Tribunales Agrarios",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "e la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro; 12, fracción I, de la Ley Orgánica de los Tribunales Agrarios; 39, fracción I, de la Ley del Banco de México; 26, fracción I, de la Ley Federal de Competencia Económica; 121, fracción I, de la Ley Federal de los",
       "pattern_name": "direct_mention",
@@ -604,7 +604,7 @@
       "char_offset": 4929,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
@@ -820,7 +820,7 @@
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
       "source_article": "7o",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "l López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.   DECRETO por el que se expide la Ley Orgánica del Poder Judicial de la Federación y la Ley de Carrera Judicial del Poder Judicial de la Federación; se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) ",
       "pattern_name": "direct_mention",
@@ -829,7 +829,7 @@
       "char_offset": 23680,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
@@ -1084,5 +1084,5 @@
       "char_offset": 435
     }
   ],
-  "resolved_at": "2026-03-30T23:30:23.204568+00:00"
+  "resolved_at": "2026-03-31T00:21:55.005611+00:00"
 }

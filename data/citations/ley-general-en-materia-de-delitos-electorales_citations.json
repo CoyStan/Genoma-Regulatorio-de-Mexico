@@ -445,7 +445,7 @@
       "source_law": "ley-general-en-materia-de-delitos-electorales",
       "source_article": "26",
       "target_law_raw": "Ley Orgánica de la Fiscalía General de la República",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "stema de Medios de Impugnación en Materia Electoral, de la Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.  Publicado en el Diario Oficial de ",
       "pattern_name": "direct_mention",
@@ -454,13 +454,13 @@
       "char_offset": 7762,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
       "source_article": "26",
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "Ley General de Partidos Políticos, de la Ley General en Materia de Delitos Electorales, de la Ley Orgánica de la Fiscalía General de la República, de la Ley Orgánica del Poder Judicial de la Federación y de la Ley General de Responsabilidades Administrativas.  Publicado en el Diario Oficial de la Federación el 13 de abril de 2020  Artículo Quinto.- Se reforma la fracción XIV del artículo 3 y se adicionan ",
       "pattern_name": "direct_mention",
@@ -469,7 +469,7 @@
       "char_offset": 7821,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
@@ -544,5 +544,5 @@
       "char_offset": 1962
     }
   ],
-  "resolved_at": "2026-03-30T23:30:32.637294+00:00"
+  "resolved_at": "2026-03-31T00:22:04.784652+00:00"
 }

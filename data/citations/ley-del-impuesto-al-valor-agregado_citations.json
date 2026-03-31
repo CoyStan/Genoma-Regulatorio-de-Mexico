@@ -832,7 +832,7 @@
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "43",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Comercio Exterior",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r el que se reforman, adicionan y derogan diversas disposiciones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de l",
       "pattern_name": "direct_mention",
@@ -841,13 +841,13 @@
       "char_offset": 114291,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "43",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros ",
       "pattern_name": "direct_mention",
@@ -856,13 +856,13 @@
       "char_offset": 114351,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "43",
       "target_law_raw": "Ley Orgánica del Banco Nacional del Ejército",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
       "pattern_name": "direct_mention",
@@ -871,13 +871,13 @@
       "char_offset": 114420,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "43",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal\"",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal\", publicado en el Diario Oficial de la Federación el 24 de junio de 2002 y aclarado mediante fe de erratas publicada en ese mismo medio el 8 de julio ",
       "pattern_name": "direct_mention",
@@ -886,13 +886,13 @@
       "char_offset": 114495,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "43",
       "target_law_raw": "Ley Orgánica de Sociedad Hipotecaria Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "quellas obligaciones que asuma la Sociedad al amparo de las fracciones I y II del artículo 24 Ter que, por virtud del presente Decreto, se adiciona a la Ley Orgánica de Sociedad Hipotecaria Federal.  QUINTO. Cualquier pasivo que asuma el Fondo de Operación y Financiamiento Bancario a la Vivienda para hacer frente a las obligaciones contraídas co",
       "pattern_name": "direct_mention",
@@ -901,13 +901,13 @@
       "char_offset": 114945,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
       "source_article": "43",
       "target_law_raw": "Ley Orgánica de Sociedad Hipotecaria Federal\"",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "iento Bancario a la Vivienda para hacer frente a las obligaciones contraídas con anterioridad a la entrada en vigor del \"Decreto por el que se expide la Ley Orgánica de Sociedad Hipotecaria Federal\", publicado en el Diario Oficial de la Federación el 11 de octubre de 2001, seguirá contando con la Garantía del Gobierno Federal, en los mismos térmi",
       "pattern_name": "direct_mention",
@@ -916,7 +916,7 @@
       "char_offset": 115213,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-del-impuesto-al-valor-agregado",
@@ -1186,5 +1186,5 @@
       "char_offset": 9450
     }
   ],
-  "resolved_at": "2026-03-30T23:30:17.508207+00:00"
+  "resolved_at": "2026-03-31T00:21:49.102237+00:00"
 }

@@ -742,7 +742,7 @@
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "source_article": "144",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados Unidos Mexicanos entrará",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "e la LVII Legislatura ejercerán los derechos y prerrogativas que se contienen en el presente Decreto. Lo dispuesto en el párrafo 2 del artículo 29 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos entrará en vigor para el ejercicio fiscal del año 2000.  III). La integración de las Comisiones previstas en los artículos 39 y 40, así como del Comité a que se refiere el párrafo 2 del artículo 46 de la ",
       "pattern_name": "direct_mention",
@@ -751,7 +751,7 @@
       "char_offset": 1459,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
@@ -847,7 +847,7 @@
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "source_article": "144",
       "target_law_raw": "Ley Orgánica del Congreso General de los Estados-Unidos Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "icables para ambas Cámaras.  Tercero. Las mesas directivas de las Cámaras de Diputados y de Senadores, en ejercicio de las facultades que les concede la Ley Orgánica del Congreso General de los Estados-Unidos Mexicanos, harán las previsiones presupuestales para asignar los recursos necesarios para el cumplimiento del presente Decreto.  Cuarto. Las unidades de admini",
       "pattern_name": "direct_mention",
@@ -856,7 +856,7 @@
       "char_offset": 50795,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
@@ -946,5 +946,5 @@
       "char_offset": 12364
     }
   ],
-  "resolved_at": "2026-03-30T23:30:35.723520+00:00"
+  "resolved_at": "2026-03-31T00:22:08.062969+00:00"
 }

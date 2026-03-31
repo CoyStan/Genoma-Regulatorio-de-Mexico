@@ -157,7 +157,7 @@
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "30",
       "target_law_raw": "Ley Orgánica del Banco de México y por las demás disposiciones",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": " la Sociedad, se regirán por lo dispuesto en la presente Ley, y supletoriamente por la Ley Reglamentaria del Servicio Público de Banca y Crédito, por la Ley Orgánica del Banco de México y por las demás disposiciones aplicables.",
       "pattern_name": "direct_mention",
@@ -166,7 +166,7 @@
       "char_offset": 194,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
@@ -217,7 +217,7 @@
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "36",
       "target_law_raw": "Ley Orgánica del Banco Nacional de Obras y Servicios Públicos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ones de la Ley de Instituciones de Crédito; de la Ley Orgánica de Nacional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros ",
       "pattern_name": "direct_mention",
@@ -226,13 +226,13 @@
       "char_offset": 4132,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "36",
       "target_law_raw": "Ley Orgánica del Banco Nacional del Ejército",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ional Financiera; de la Ley Orgánica del Banco Nacional de Comercio Exterior; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
       "pattern_name": "direct_mention",
@@ -241,13 +241,13 @@
       "char_offset": 4201,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "36",
       "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "r; de la Ley Orgánica del Banco Nacional de Obras y Servicios Públicos; de la Ley Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada; de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y de la Ley Orgánica de Sociedad Hipotecaria Federal.  Publicado en el Diario Oficial de la Federación el 24 de junio de 2002  ARTICULO TERCERO.- Se reforman los artículos 6o. fracciones IV y VI; 9o.; 1",
       "pattern_name": "direct_mention",
@@ -256,7 +256,7 @@
       "char_offset": 4276,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
@@ -277,7 +277,7 @@
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
       "source_article": "36",
       "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "lopjf",
       "target_article": null,
       "citation_text": "ábiles siguientes a la fecha en que entre en vigor el presente Decreto.  ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan qu",
       "pattern_name": "direct_mention",
@@ -286,7 +286,7 @@
       "char_offset": 6884,
       "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica de pemex"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
@@ -301,5 +301,5 @@
       "char_offset": 2761
     }
   ],
-  "resolved_at": "2026-03-30T23:30:35.191992+00:00"
+  "resolved_at": "2026-03-31T00:22:07.503695+00:00"
 }
