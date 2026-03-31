@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-03-30T20:33:34.154199+00:00",
+  "generated_at": "2026-03-30T23:30:39.313071+00:00",
   "total_citations": 12444,
-  "resolved": 10665,
-  "unresolved": 1779,
-  "resolution_rate": 0.857,
+  "resolved": 10844,
+  "unresolved": 1600,
+  "resolution_rate": 0.8714,
   "by_confidence": {
-    "unresolved": 3865,
-    "high": 3700,
-    "medium": 1527,
+    "unresolved": 3686,
+    "high": 3865,
+    "medium": 1541,
     "low": 3352
   },
   "top_cited_laws": [
@@ -157,9 +157,9 @@
       "citation_count": 78
     },
     {
-      "law_id": "ley-iva",
-      "name": "Ley del Impuesto al Valor Agregado",
-      "citation_count": 71
+      "law_id": "ley-de-coordinacion-fiscal",
+      "name": "ley-de-coordinacion-fiscal",
+      "citation_count": 74
     }
   ],
   "top_unresolved": [
@@ -182,14 +182,6 @@
     {
       "raw_name": "Ley General para Prevenir y Sancionar los Delitos",
       "count": 47
-    },
-    {
-      "raw_name": "Ley de Ciencia y Tecnología",
-      "count": 47
-    },
-    {
-      "raw_name": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "count": 22
     },
     {
       "raw_name": "reglamento respectivo",
@@ -244,19 +236,11 @@
       "count": 10
     },
     {
-      "raw_name": "Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación",
-      "count": 9
-    },
-    {
       "raw_name": "Reglamento de la Ley del Seguro Social",
       "count": 8
     },
     {
       "raw_name": "Reglamento de la Ley de Migración",
-      "count": 8
-    },
-    {
-      "raw_name": "Ley de Inversión Extranjera y la Ley General de Turismo",
       "count": 8
     },
     {
@@ -270,14 +254,6 @@
     {
       "raw_name": "Ley de Mecanismos Alternativos",
       "count": 8
-    },
-    {
-      "raw_name": "Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales",
-      "count": 7
-    },
-    {
-      "raw_name": "Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto",
-      "count": 6
     },
     {
       "raw_name": "Ley para su ingreso o permanencia",
@@ -300,19 +276,7 @@
       "count": 6
     },
     {
-      "raw_name": "Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal",
-      "count": 5
-    },
-    {
       "raw_name": "Ley Nacional de Extinción de Dominio para su óptimo funcionamiento",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley del Congreso",
       "count": 5
     },
     {
@@ -329,10 +293,6 @@
     },
     {
       "raw_name": "Ley para la Protección de los Derechos de Niñas",
-      "count": 5
-    },
-    {
-      "raw_name": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
       "count": 5
     },
     {
@@ -361,6 +321,46 @@
     },
     {
       "raw_name": "ley respectiva",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley y el Reglamento",
+      "count": 4
+    },
+    {
+      "raw_name": "Reglamento respectivo",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley de Ingresos del año de que se trate",
+      "count": 4
+    },
+    {
+      "raw_name": "Decreto de Presupuesto de Egresos de la Federación",
+      "count": 4
+    },
+    {
+      "raw_name": "Estatuto orgánico",
+      "count": 4
+    },
+    {
+      "raw_name": "reglamento de esta ley",
+      "count": 4
+    },
+    {
+      "raw_name": "Reglamento de Uniformes",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley de Fiscalización Superior de la Federación",
+      "count": 4
+    },
+    {
+      "raw_name": "Decreto por el que se reforman",
+      "count": 4
+    },
+    {
+      "raw_name": "Ley Federal Anticorrupción en Contrataciones Públicas",
       "count": 4
     }
   ]

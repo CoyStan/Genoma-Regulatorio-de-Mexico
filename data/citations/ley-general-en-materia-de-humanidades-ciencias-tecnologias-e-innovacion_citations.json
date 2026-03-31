@@ -580,16 +580,16 @@
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "source_article": "100",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.  Al término del plazo señalado en el",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 4701,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
@@ -634,5 +634,5 @@
       "char_offset": 8794
     }
   ],
-  "resolved_at": "2026-03-30T20:33:26.392511+00:00"
+  "resolved_at": "2026-03-30T23:30:32.951221+00:00"
 }

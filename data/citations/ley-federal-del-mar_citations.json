@@ -181,16 +181,16 @@
       "source_law": "ley-federal-del-mar",
       "source_article": "33",
       "target_law_raw": "Ley de Vías Generales de Comunicación y otras disposiciones legales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "icanos en la materia y su inspección, vigilancia y control quedan sujetas exclusivamente a la jurisdicción y competencia del Poder Ejecutivo Federal, en los términos de la Ley de Vías Generales de Comunicación y otras disposiciones legales vigentes.  CAPITULO II De las Aguas Marinas Interiores",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 338,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7115384615384616,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-federal-del-mar",
@@ -217,5 +217,5 @@
       "char_offset": 1699
     }
   ],
-  "resolved_at": "2026-03-30T20:33:19.001102+00:00"
+  "resolved_at": "2026-03-30T23:30:26.186294+00:00"
 }

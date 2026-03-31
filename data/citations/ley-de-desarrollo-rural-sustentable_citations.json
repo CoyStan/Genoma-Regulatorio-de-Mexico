@@ -490,16 +490,16 @@
       "source_law": "ley-de-desarrollo-rural-sustentable",
       "source_article": "147",
       "target_law_raw": "Ley de Organizaciones Ganaderas y demás ordenamientos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-organizaciones-ganaderas",
       "target_article": null,
       "citation_text": "anizaciones a que se refiere este Capítulo. El registro generará efectos de fe pública, para los aspectos regulados por esta Ley, los considerados en la Ley de Organizaciones Ganaderas y demás ordenamientos aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 284,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7380952380952381,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de organizaciones ganaderas"
     },
     {
       "source_law": "ley-de-desarrollo-rural-sustentable",
@@ -748,5 +748,5 @@
       "char_offset": 4776
     }
   ],
-  "resolved_at": "2026-03-30T20:32:58.646039+00:00"
+  "resolved_at": "2026-03-30T23:30:09.776086+00:00"
 }

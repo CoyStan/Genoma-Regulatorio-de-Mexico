@@ -40,6 +40,37 @@ LOOKUP_DIR.mkdir(parents=True, exist_ok=True)
 
 FUZZY_THRESHOLD = 0.75
 
+# ---------------------------------------------------------------------------
+# Explicit aliases for abrogated/renamed laws and short names
+# Maps raw citation name (lowercase) → corpus law_id
+# ---------------------------------------------------------------------------
+
+MANUAL_ALIASES: dict[str, str] = {
+    # Abrogada en 2023, sucedida por Ley de Humanidades
+    "ley de ciencia y tecnología": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+    # Nombre corto
+    "ley de cámaras empresariales": "ley-de-camaras-empresariales-y-sus-confederaciones",
+    # Nombre anterior de la ley de geotermia
+    "ley de energía geotérmica": "ley-de-geotermia",
+    # Ley abrogada, sucedida por la ley vigente de seguridad pública
+    "ley general que establece las bases de coordinación del sistema nacional de seguridad pública": "ley-general-del-sistema-nacional-de-seguridad-publica",
+    # Nombre del congreso
+    "ley del congreso": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
+    "ley orgánica del congreso": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
+}
+
+# Suffixes to strip before resolving (boilerplate captured by regex)
+import re as _re
+_TRAILING_JUNK = _re.compile(
+    r"\s+(?:para quedar como sigue|y dem[aá]s ordenamientos|y dem[aá]s leyes|"
+    r"y dem[aá]s disposiciones|en su art[ií]culo\s+\w+|con anterioridad a|"
+    r"del a[ñn]o de que se trate|por el plazo que corresponda|"
+    r"y otras leyes|y otras disposiciones|y los dem[aá]s|"
+    r"y la ley\s+\w|y de la ley\s+\w|y la presente ley|"
+    r"siguientes|contenidas en dicho decreto|o de justicia alternativa respectiva).*$",
+    _re.IGNORECASE,
+)
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -118,15 +149,35 @@ def resolve_from_corpus(raw_name: str) -> dict:
 _resolution_cache: dict[str, dict] = {}
 
 
+def _clean_raw_name(raw_name: str) -> str:
+    """Strip trailing boilerplate and compound conjunctions captured by regex."""
+    return _TRAILING_JUNK.sub("", raw_name).strip()
+
+
 def resolve_cached(raw_name: str) -> dict:
     """
-    Resolve with memoization. Tries lookup.py first, then falls back
-    to the full corpus registry built from data/processed/.
+    Resolve with memoization.
+    Order: manual aliases → lookup.py → corpus registry (with cleaned name).
     """
     if raw_name not in _resolution_cache:
-        result = resolve_law_name(raw_name)
-        if not result["law_id"]:
-            result = resolve_from_corpus(raw_name)
+        # 1. Manual aliases (abrogated/renamed laws)
+        lower = raw_name.strip().lower()
+        if lower in MANUAL_ALIASES:
+            result = {
+                "law_id": MANUAL_ALIASES[lower],
+                "confidence": "high",
+                "matched_alias": lower,
+                "score": 1.0,
+            }
+        else:
+            # 2. lookup.py (48 hardcoded laws)
+            result = resolve_law_name(raw_name)
+            if not result["law_id"]:
+                # 3. Corpus registry with cleaned name
+                cleaned = _clean_raw_name(raw_name)
+                result = resolve_from_corpus(cleaned)
+                if not result["law_id"] and cleaned != raw_name:
+                    result = resolve_from_corpus(raw_name)
         _resolution_cache[raw_name] = result
     return _resolution_cache[raw_name]
 

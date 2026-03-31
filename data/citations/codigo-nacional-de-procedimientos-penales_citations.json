@@ -982,16 +982,16 @@
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "490",
       "target_law_raw": "Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-concursos-mercantiles",
       "target_article": null,
       "citation_text": " disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal.  Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019  Artículo Segundo. Se reforman la fracción III, del artículo 230; los párraf",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 28834,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.725925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de concursos mercantiles"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -1057,16 +1057,16 @@
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "490",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "tos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.  Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021  Artículo Primero.- Se reforman el artículo 167, párrafo tercero, los párr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 41478,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6617647058823529,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -1162,16 +1162,16 @@
       "source_law": "codigo-nacional-de-procedimientos-penales",
       "source_article": "490",
       "target_law_raw": "Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "versas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.  Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025  Artículo Tercero.- Se reforman los artículos 167, párrafos tercero y cu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 68960,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6808510638297872,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-penales",
@@ -1186,5 +1186,5 @@
       "char_offset": 395
     }
   ],
-  "resolved_at": "2026-03-30T20:32:47.591323+00:00"
+  "resolved_at": "2026-03-30T23:30:01.014925+00:00"
 }

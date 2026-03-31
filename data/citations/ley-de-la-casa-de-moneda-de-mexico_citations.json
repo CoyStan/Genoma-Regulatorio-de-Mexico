@@ -19,16 +19,16 @@
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
       "source_article": "4o",
       "target_law_raw": "Ley Monetaria de los Estados Unidos Mexicanos y de la Ley Orgánica de este último",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-monetaria-de-los-estados-unidos-mexicanos",
       "target_article": null,
       "citation_text": "nforme a las características y denominaciones que establezcan los decretos del Congreso de la Unión y a las órdenes de acuñación del Banco de México, en los términos de la Ley Monetaria de los Estados Unidos Mexicanos y de la Ley Orgánica de este último.",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 323,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7142857142857143,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley monetaria de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
@@ -499,16 +499,16 @@
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
       "source_article": "17",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "rgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo Décimo Sexto. Se reforma el artícu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7239,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
@@ -523,5 +523,5 @@
       "char_offset": 129
     }
   ],
-  "resolved_at": "2026-03-30T20:33:04.236020+00:00"
+  "resolved_at": "2026-03-30T23:30:13.812938+00:00"
 }

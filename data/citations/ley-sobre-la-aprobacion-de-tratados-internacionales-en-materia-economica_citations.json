@@ -88,16 +88,16 @@
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "14",
       "target_law_raw": "Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.  ARTÍCULOS TRANSITORIOS  PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUND",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 115,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6486486486486487,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
@@ -112,5 +112,5 @@
       "char_offset": 887
     }
   ],
-  "resolved_at": "2026-03-30T20:33:32.454868+00:00"
+  "resolved_at": "2026-03-30T23:30:37.781234+00:00"
 }

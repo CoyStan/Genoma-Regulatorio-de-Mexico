@@ -520,16 +520,16 @@
       "source_law": "ley-general-en-materia-de-delitos-electorales",
       "source_article": "26",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "tos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.  Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021  Artículo Segundo.- Se adiciona un párrafo segundo al artículo 6; así como",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9962,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6617647058823529,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-general-en-materia-de-delitos-electorales",
@@ -544,5 +544,5 @@
       "char_offset": 1962
     }
   ],
-  "resolved_at": "2026-03-30T20:33:26.027280+00:00"
+  "resolved_at": "2026-03-30T23:30:32.637294+00:00"
 }

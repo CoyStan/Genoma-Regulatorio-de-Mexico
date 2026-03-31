@@ -1738,16 +1738,16 @@
       "source_law": "ley-organica-del-poder-judicial-de-la-federacion",
       "source_article": "307",
       "target_law_raw": "Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "versas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.  Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025  Artículo Sexto.- Se reforma el artículo 49 de la Ley Orgánica del Poder",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 17790,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6808510638297872,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-organica-del-poder-judicial-de-la-federacion",
@@ -1777,5 +1777,5 @@
       "char_offset": 1897
     }
   ],
-  "resolved_at": "2026-03-30T20:33:30.872888+00:00"
+  "resolved_at": "2026-03-30T23:30:36.391718+00:00"
 }

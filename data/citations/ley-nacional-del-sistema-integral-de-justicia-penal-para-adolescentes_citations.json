@@ -61,16 +61,16 @@
       "source_law": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
       "source_article": "10",
       "target_law_raw": "Ley Nacional de Ejecución Penal y la Ley General de Víctimas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-ejecucion-penal",
       "target_article": null,
       "citation_text": "iedad Sólo en lo no previsto por esta Ley deberán aplicarse supletoriamente las leyes penales, el Código Nacional, la Ley de Mecanismos Alternativos, la Ley Nacional de Ejecución Penal y la Ley General de Víctimas, siempre que sus normas no se opongan a los principios rectores del sistema y sean en beneficio de la persona sujeta a la presente Ley.  Solo serán a",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 171,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6813186813186813,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de ejecución penal"
     },
     {
       "source_law": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
@@ -874,5 +874,5 @@
       "char_offset": 2018
     }
   ],
-  "resolved_at": "2026-03-30T20:33:27.933920+00:00"
+  "resolved_at": "2026-03-30T23:30:33.892973+00:00"
 }

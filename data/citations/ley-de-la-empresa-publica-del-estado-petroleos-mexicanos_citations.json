@@ -31,16 +31,16 @@
       "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "source_article": "8",
       "target_law_raw": "Ley de Biocombustibles y demás leyes que resulten",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-biocombustibles",
       "target_article": null,
       "citation_text": " distribución, la comercialización y la formulación con biocombustibles, así como el uso eficiente de energías renovables y litio, de conformidad con lo dispuesto en la Ley de Biocombustibles y demás leyes que resulten aplicables; IX.\tLa investigación y desarrollo tecnológicos requeridos para las actividades que realice en las industrias petrolera, petroquímica y química, la c",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2167,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6197183098591549,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de biocombustibles"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
@@ -583,5 +583,5 @@
       "char_offset": 826
     }
   ],
-  "resolved_at": "2026-03-30T20:33:05.107294+00:00"
+  "resolved_at": "2026-03-30T23:30:14.488752+00:00"
 }

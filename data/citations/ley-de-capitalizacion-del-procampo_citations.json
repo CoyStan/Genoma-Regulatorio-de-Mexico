@@ -109,16 +109,16 @@
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "14",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable en su artículo séptimo y demás",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "nes de vida de la población rural y responder a los desequilibrios del mercado internacional, con las condiciones y para los propósitos que establece la Ley de Desarrollo Rural Sustentable en su artículo séptimo y demás aplicables.  Mientras persistan condiciones desfavorables de competencia en el mercado internacional se continuarán aportando a los productores apoyos directos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 593,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.693069306930693,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
@@ -148,5 +148,5 @@
       "char_offset": 1471
     }
   ],
-  "resolved_at": "2026-03-30T20:32:56.856226+00:00"
+  "resolved_at": "2026-03-30T23:30:08.599324+00:00"
 }

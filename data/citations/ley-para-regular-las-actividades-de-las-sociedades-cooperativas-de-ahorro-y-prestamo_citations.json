@@ -664,16 +664,16 @@
       "source_law": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
       "source_article": "132",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "amo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito, publicado el 13 de agosto de 2009.  Publicada en el Diario Oficial de la Federación el 21 de agosto de 2009  En la Tercera Sección, página 4, artícu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 41942,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7101449275362319,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
@@ -718,5 +718,5 @@
       "char_offset": 41216
     }
   ],
-  "resolved_at": "2026-03-30T20:33:31.567285+00:00"
+  "resolved_at": "2026-03-30T23:30:37.019115+00:00"
 }

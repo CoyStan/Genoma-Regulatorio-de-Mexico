@@ -481,16 +481,16 @@
       "source_law": "ley-nacional-de-extincion-de-dominio",
       "source_article": "251",
       "target_law_raw": "Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-concursos-mercantiles",
       "target_article": null,
       "citation_text": " disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal, publicado el 9 de agosto de 2019.  Publicado en el Diario Oficial de la Federación el 22 de enero de 2020  Artículo Tercero. Se reforma el artículo ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8162,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.725925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de concursos mercantiles"
     },
     {
       "source_law": "ley-nacional-de-extincion-de-dominio",
@@ -511,16 +511,16 @@
       "source_law": "ley-nacional-de-extincion-de-dominio",
       "source_article": "251",
       "target_law_raw": "Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "versas disposiciones del Código Penal Federal, del Código Nacional de Procedimientos Penales, de la Ley Federal contra la Delincuencia Organizada, de la Ley Nacional de Extinción de Dominio y de la Ley Orgánica del Poder Judicial de la Federación.  Publicado en el Diario Oficial de la Federación el 28 de noviembre de 2025  Artículo Quinto.- Se reforma el segundo párrafo del inciso k) del segun",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23237,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6808510638297872,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-nacional-de-extincion-de-dominio",
@@ -550,5 +550,5 @@
       "char_offset": 721
     }
   ],
-  "resolved_at": "2026-03-30T20:33:27.475494+00:00"
+  "resolved_at": "2026-03-30T23:30:33.564579+00:00"
 }

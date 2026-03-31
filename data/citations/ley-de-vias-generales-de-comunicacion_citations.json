@@ -232,16 +232,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "4º",
       "target_law_raw": "Ley de Vías Generales de Comunicación en los términos siguientes",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "Ley de Vías Generales de Comunicación, con una nueva fracción que diga:  .........  ARTICULO TERCERO.- Se reforma la fracción III del artículo 166 de la Ley de Vías Generales de Comunicación en los términos siguientes:  .........  José Gómez Esparza, D. P.- Esteban García de Alba, S. P.- Emilio Gutiérrez Roldán, D. S.-Fernando Cruz Chávez, S. S.-Rúbricas\".  En cumpl",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2941,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7326732673267327,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8222222222222222,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -778,16 +778,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "3",
       "target_law_raw": "Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "as que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.  TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución poli",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 33286,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.578125,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -1018,16 +1018,16 @@
       "source_law": "ley-de-vias-generales-de-comunicacion",
       "source_article": "3",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "tos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.  Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021  Artículo Noveno.- Se reforman los artículos 533, primer párrafo y 534 de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 95313,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6617647058823529,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-de-vias-generales-de-comunicacion",
@@ -1087,5 +1087,5 @@
       "char_offset": 571
     }
   ],
-  "resolved_at": "2026-03-30T20:33:08.605486+00:00"
+  "resolved_at": "2026-03-30T23:30:17.273474+00:00"
 }

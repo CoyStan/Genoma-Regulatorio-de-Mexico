@@ -337,16 +337,16 @@
       "source_law": "ley-de-migracion",
       "source_article": "65",
       "target_law_raw": "Ley de Inversión Extranjera y demás leyes y disposiciones",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "eces, en lo relativo a cuestiones inmobiliarias, y los corredores de comercio.  De conformidad con lo dispuesto en el artículo 27 de la Constitución, la Ley de Inversión Extranjera y demás leyes y disposiciones aplicables, los extranjeros deberán formular las renuncias correspondientes.  TÍTULO QUINTO DE LA PROTECCIÓN A LOS MIGRANTES QUE TRANSITAN POR EL TERRITORIO NAC",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 372,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-migracion",
@@ -808,16 +808,16 @@
       "source_law": "ley-de-migracion",
       "source_article": "162",
       "target_law_raw": "Ley de Inversión Extranjera y la Ley General de Turismo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "án en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.  Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.  TERCERO. Las referencias que en otras leyes y demás disposic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6038,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6585365853658537,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-migracion",
@@ -1057,5 +1057,5 @@
       "char_offset": 3872
     }
   ],
-  "resolved_at": "2026-03-30T20:33:06.144644+00:00"
+  "resolved_at": "2026-03-30T23:30:15.254576+00:00"
 }

@@ -559,16 +559,16 @@
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "470",
       "target_law_raw": "Ley de mecanismos alternativos de solución de controversias o de justicia alternativa respectiva",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
       "target_article": null,
       "citation_text": " de la materia de cada Entidad Federativa;  VIII.\tLos convenios emanados del procedimiento de mediación o conciliación que cumplan con los requisitos previstos en la Ley de mecanismos alternativos de solución de controversias o de justicia alternativa respectiva, y  IX.\tLos demás a los que se les reconozca ese carácter por la Ley.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1531,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7403314917127072,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 0.9365079365079365,
+      "resolution_matched_alias": "ley general de mecanismos alternativos de solución de controversias"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -913,16 +913,16 @@
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
       "source_article": "811",
       "target_law_raw": "Ley de Concursos Mercantiles y demás leyes especiales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-concursos-mercantiles",
       "target_article": null,
       "citation_text": "na deudora no comerciante, que no pueda hacer frente a sus obligaciones líquidas y exigibles, siempre que no se encuentre en los supuestos que regula la Ley de Concursos Mercantiles y demás leyes especiales.  El procedimiento puede ser extrajudicial o judicial, asimismo, podrá ser necesario o voluntario. Es necesario, cuando un acreedor de plazo cumplido",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 234,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.691358024691358,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de concursos mercantiles"
     },
     {
       "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -1393,5 +1393,5 @@
       "char_offset": 13234
     }
   ],
-  "resolved_at": "2026-03-30T20:32:47.109571+00:00"
+  "resolved_at": "2026-03-30T23:30:00.749542+00:00"
 }

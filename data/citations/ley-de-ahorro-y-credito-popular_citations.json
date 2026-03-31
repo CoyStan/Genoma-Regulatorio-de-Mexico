@@ -595,16 +595,16 @@
       "source_law": "ley-de-ahorro-y-credito-popular",
       "source_article": "158",
       "target_law_raw": "Ley de Ahorro y Crédito Popular para quedar como sigue",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "y de Ahorro y Crédito Popular.  Publicado en el Diario Oficial de la Federación el 28 de junio de 2005  Artículo Único.- Se reforma el artículo 46 de la Ley de Ahorro y Crédito Popular para quedar como sigue:  ..........  Transitorio  ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Méx",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 44296,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7294117647058823,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-de-ahorro-y-credito-popular",
@@ -745,31 +745,31 @@
       "source_law": "ley-de-ahorro-y-credito-popular",
       "source_article": "158",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "amo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito.  Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009  ARTÍCULO SEGUNDO.- Se REFORMAN los Artículos 1o.; 3o.; 4o.; 6o.; 7o.; 8o; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 105019,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7101449275362319,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-de-ahorro-y-credito-popular",
       "source_article": "158",
       "target_law_raw": "Ley de Ahorro y Crédito Popular con anterioridad a la entrada",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "e se estipulan mediante el presente Decreto.  ARTÍCULO NOVENO.- Las Sociedades Financieras Populares que se hayan constituido y autorizado conforme a la Ley de Ahorro y Crédito Popular con anterioridad a la entrada en vigor del presente Decreto, podrán transformarse en Sociedades Financieras Comunitarias mediante acuerdo de la mayoría de los socios o asociados con derecho a voto. La transfor",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 118526,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6739130434782609,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ahorro y crédito popular"
     },
     {
       "source_law": "ley-de-ahorro-y-credito-popular",
@@ -814,5 +814,5 @@
       "char_offset": 8151
     }
   ],
-  "resolved_at": "2026-03-30T20:32:55.242512+00:00"
+  "resolved_at": "2026-03-30T23:30:07.327329+00:00"
 }

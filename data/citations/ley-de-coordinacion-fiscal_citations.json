@@ -673,16 +673,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Ingresos de la Federación del año de que se trate",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": " la exploración y extracción de hidrocarburos, a que se refiere la Ley de Ingresos sobre Hidrocarburos, que se determinen conforme a las proporciones previstas en la Ley de Ingresos de la Federación del año de que se trate.  Para determinar la recaudación federal participable referida en el párrafo anterior, se deberá considerar lo siguiente:  a)\tTratándose de la propor",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 86991,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6776859504132231,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -793,16 +793,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Coordinación Fiscal para quedar como sigue",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": ", último párrafo, 35, penúltimo y último párrafos, 36, primer párrafo, 37, 44 y 45, se ADICIONA el artículo 3o. con un penúltimo y último párrafos de la Ley de Coordinación Fiscal para quedar como sigue:  ..........  TRANSITORIO  Único. La presente Ley entrará en vigor el 1o. de enero de 2000.  México, D.F., a 15 de diciembre de 1999.- Dip. Francisco ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 29944,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6933333333333334,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -898,16 +898,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "rdinación Fiscal se sujetará a los acuerdos y resoluciones que establezca el Consejo Nacional de Seguridad Pública en los términos del artículo 11 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.  Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los recursos del Fondo de Aportaciones para el F",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 46510,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1048,16 +1048,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley de Coordinación Fiscal contenidas en dicho Decreto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "Federación el 21 de diciembre de 2007, así como las Reglas para la aplicación del artículo segundo, fracción II, de las disposiciones transitorias de la Ley de Coordinación Fiscal contenidas en dicho Decreto, publicadas en el Diario Oficial de la Federación el 28 de marzo de 2008, y modificadas mediante acuerdo publicado en dicho órgano de difusión oficia",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 82645,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.65,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1297,5 +1297,5 @@
       "char_offset": 5263
     }
   ],
-  "resolved_at": "2026-03-30T20:32:58.064079+00:00"
+  "resolved_at": "2026-03-30T23:30:09.187286+00:00"
 }

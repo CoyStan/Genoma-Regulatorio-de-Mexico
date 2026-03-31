@@ -559,16 +559,16 @@
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
       "target_law_raw": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": ", de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera; 14, fracción I, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública; 5o., fracción I, de la Ley de la Comisión Reguladora de Energía; 10, fracción I y 14, fracción I de la Ley de los Sistemas de Ahorro para el Retiro;",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20283,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -964,16 +964,16 @@
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
       "target_law_raw": "Ley de Inversión Extranjera y la Ley General de Turismo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "án en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.  Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.  TERCERO. Las referencias que en otras leyes y demás disposic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 62665,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6585365853658537,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -1243,5 +1243,5 @@
       "char_offset": 5700
     }
   ],
-  "resolved_at": "2026-03-30T20:33:03.780389+00:00"
+  "resolved_at": "2026-03-30T23:30:13.639795+00:00"
 }

@@ -22,16 +22,16 @@
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "6",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "bierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural, de conformidad con lo estipulado en la Ley de Ciencia y Tecnología. Fracción reformada DOF 16-02-2018  III. Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, y celebrar co",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 693,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
@@ -586,16 +586,16 @@
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "58",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "rgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo Trigésimo. Se reforman los artícul",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26482,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
@@ -610,5 +610,5 @@
       "char_offset": 3363
     }
   ],
-  "resolved_at": "2026-03-30T20:33:05.771789+00:00"
+  "resolved_at": "2026-03-30T23:30:15.012137+00:00"
 }

@@ -352,16 +352,16 @@
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
       "source_article": "62",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "daria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematogr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13187,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-reglamentaria-del-servicio-ferroviario",
@@ -556,5 +556,5 @@
       "char_offset": 2887
     }
   ],
-  "resolved_at": "2026-03-30T20:33:32.142221+00:00"
+  "resolved_at": "2026-03-30T23:30:37.563402+00:00"
 }

@@ -562,16 +562,16 @@
       "source_law": "ley-aduanera",
       "source_article": "144",
       "target_law_raw": "Ley de Cámaras Empresariales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "target_article": null,
       "citation_text": "l.\tDar a conocer la información contenida en los pedimentos, a las Cámaras y Asociaciones Industriales agrupadas por la Confederación, en términos de la Ley de Cámaras Empresariales y sus Confederaciones, que participen con el Servicio de Administración Tributaria en el Programa de Control Aduanero y Fiscalización por Sector Industrial. Asimismo, podr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9216,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.717948717948718,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de cámaras empresariales"
     },
     {
       "source_law": "ley-aduanera",
@@ -952,16 +952,16 @@
       "source_law": "ley-aduanera",
       "source_article": "203",
       "target_law_raw": "Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "as que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.  TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución poli",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23610,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.578125,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-aduanera",
@@ -1249,16 +1249,16 @@
       "source_law": "ley-aduanera",
       "source_article": "187",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "daria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematogr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 18482,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-aduanera",
@@ -1408,5 +1408,5 @@
       "char_offset": 3513
     }
   ],
-  "resolved_at": "2026-03-30T20:32:52.226013+00:00"
+  "resolved_at": "2026-03-30T23:30:04.861734+00:00"
 }

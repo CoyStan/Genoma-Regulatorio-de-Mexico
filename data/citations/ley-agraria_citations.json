@@ -175,16 +175,16 @@
       "source_law": "ley-agraria",
       "source_article": "93",
       "target_law_raw": "Ley de Expropiación y otras leyes",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-expropiacion",
       "target_article": null,
       "citation_text": "as Generales de Comunicación y líneas de conducción de energía, obras hidráulicas, sus pasos de acceso y demás obras relacionadas; y  VIII. Las demás previstas en la Ley de Expropiación y otras leyes.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1288,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7307692307692307,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de expropiación"
     },
     {
       "source_law": "ley-agraria",
@@ -574,5 +574,5 @@
       "char_offset": 2205
     }
   ],
-  "resolved_at": "2026-03-30T20:32:52.745615+00:00"
+  "resolved_at": "2026-03-30T23:30:05.318913+00:00"
 }

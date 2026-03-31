@@ -7,16 +7,16 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
       "source_article": "2",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable y la Ley Federal de Procedimiento Administrativo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": " comercialización, relacionadas con la cafeticultura en el territorio nacional. En todo lo no previsto por esta Ley se aplicarán de manera supletoria la Ley de Desarrollo Rural Sustentable y la Ley Federal de Procedimiento Administrativo.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 341,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6771653543307087,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -241,5 +241,5 @@
       "char_offset": 1640
     }
   ],
-  "resolved_at": "2026-03-30T20:32:59.049220+00:00"
+  "resolved_at": "2026-03-30T23:30:10.107822+00:00"
 }

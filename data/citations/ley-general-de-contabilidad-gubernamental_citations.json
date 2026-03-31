@@ -160,16 +160,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "69",
       "target_law_raw": "Ley de Coordinación Fiscal y los demás casos previstos en las disposiciones legales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "que estén garantizadas con la afectación de sus participaciones o aportaciones federales, en términos de lo dispuesto por los artículos 9, 50 y 51 de la Ley de Coordinación Fiscal y los demás casos previstos en las disposiciones legales aplicables. Artículo adicionado DOF 12-11-2012",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1702,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.47706422018348627,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -457,16 +457,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "86",
       "target_law_raw": "Ley de Coordinación Fiscal contenidas en dicho Decreto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "Federación el 21 de diciembre de 2007, así como las Reglas para la aplicación del artículo segundo, fracción II, de las disposiciones transitorias de la Ley de Coordinación Fiscal contenidas en dicho Decreto, publicadas en el Diario Oficial de la Federación el 28 de marzo de 2008, y modificadas mediante acuerdo publicado en dicho órgano de difusión oficia",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 28547,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.65,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -901,5 +901,5 @@
       "char_offset": 9744
     }
   ],
-  "resolved_at": "2026-03-30T20:33:20.888538+00:00"
+  "resolved_at": "2026-03-30T23:30:27.842600+00:00"
 }

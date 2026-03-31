@@ -1216,16 +1216,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "69-B",
       "target_law_raw": "Ley de Ingresos de la Federación por el plazo que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "días siguientes a la publicación del listado a que se refiere este artículo, podrán aplicar las tasas de recargos por prórroga determinada conforme a la Ley de Ingresos de la Federación por el plazo que corresponda.  Transcurrido el plazo a que se refiere el párrafo anterior, cuando el contribuyente no hubiere corregido su situación fiscal, la autoridad estará e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6191,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6825396825396826,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -1291,16 +1291,16 @@
       "source_law": "codigo-fiscal-de-la-federacion",
       "source_article": "70-A",
       "target_law_raw": "Ley de Ingresos de la Federación por el plazo que corresponda",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "ucirán el monto de las multas por infracción a las disposiciones fiscales en 100% y aplicarán la tasa de recargos por prórroga determinada conforme a la Ley de Ingresos de la Federación por el plazo que corresponda.  La reducción de la multa y la aplicación de la tasa de recargos a que se refiere este artículo, se condicionará a que el adeudo sea pagado ante las",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2594,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6825396825396826,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "codigo-fiscal-de-la-federacion",
@@ -3427,5 +3427,5 @@
       "char_offset": 4689
     }
   ],
-  "resolved_at": "2026-03-30T20:32:45.889574+00:00"
+  "resolved_at": "2026-03-30T23:29:59.765658+00:00"
 }

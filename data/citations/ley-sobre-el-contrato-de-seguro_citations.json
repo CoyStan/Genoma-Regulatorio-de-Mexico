@@ -121,31 +121,31 @@
       "source_law": "ley-sobre-el-contrato-de-seguro",
       "source_article": "181",
       "target_law_raw": "Ley Sobre el Contrato de Seguro para quedar en los siguientes términos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "sobre el Contrato de Seguro.  Publicadas en el Diario Oficial de la Federación el 5 de enero de 1966  ARTICULO PRIMERO.- Se reforma el artículo 35 de la Ley Sobre el Contrato de Seguro para quedar en los siguientes términos:  ..........  ARTICULO SEGUNDO.- Se reforma el artículo 37 de la ley citada para quedar en los siguientes términos:  ..........  ARTICULO TERCERO.- Se",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2164,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6138613861386139,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7654320987654321,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
       "source_article": "181",
       "target_law_raw": "Ley sobre el Contrato de Seguro para quedar como sigue",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "ONAN los artículos 40 con un segundo párrafo, 111 con un cuarto párrafo, 145 con un segundo párrafo, 145 Bis, 150 Bis y 152 con un tercer párrafo, de la Ley sobre el Contrato de Seguro para quedar como sigue:  .........  TRANSITORIO  ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.  Méxi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4698,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7294117647058823,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
@@ -175,5 +175,5 @@
       "char_offset": 809
     }
   ],
-  "resolved_at": "2026-03-30T20:33:32.391282+00:00"
+  "resolved_at": "2026-03-30T23:30:37.766683+00:00"
 }

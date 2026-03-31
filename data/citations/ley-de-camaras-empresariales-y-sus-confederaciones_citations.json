@@ -112,16 +112,16 @@
       "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "source_article": "45",
       "target_law_raw": "Ley de Cámaras Empresariales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "target_article": null,
       "citation_text": "adiciona una fracción VIII, recorriéndose las fracciones VIII a X, manteniendo su contenido para quedar como fracciones IX, X y XI del artículo 22 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:  .  TRANSITORIO  Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3035,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.717948717948718,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de cámaras empresariales"
     },
     {
       "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
@@ -136,5 +136,5 @@
       "char_offset": 2162
     }
   ],
-  "resolved_at": "2026-03-30T20:32:56.629528+00:00"
+  "resolved_at": "2026-03-30T23:30:08.472069+00:00"
 }

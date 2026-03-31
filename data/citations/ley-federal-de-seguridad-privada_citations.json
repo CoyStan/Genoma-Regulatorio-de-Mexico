@@ -22,16 +22,16 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "3",
       "target_law_raw": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "para la mejor organización, funcionamiento, regulación y control de los servicios de seguridad privada, en el marco de las normas que se contienen en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1737,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -67,16 +67,16 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "7",
       "target_law_raw": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "l, y  V. La homologación de los criterios, requisitos, obligaciones y sanciones en esta materia, respetando la distribución de competencias que prevé la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, entre la Federación y las entidades federativas, con el fin de garantizar que los servicios de seguridad privada se realicen en las mejores condicio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 877,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -169,16 +169,16 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "29",
       "target_law_raw": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "ue se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, eficiencia, profesionalismo y honradez señalados en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 665,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -199,16 +199,16 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "33",
       "target_law_raw": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "edades y violencia, además de regirse por los principios de actuación y deberes previstos para los integrantes de los cuerpos de seguridad pública en la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;  VII. En caso de portar armas, hacer uso responsable de ellas y contar con la licencia o su equivalente que autorice su portación, y  VIII. En caso ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1298,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -253,5 +253,5 @@
       "char_offset": 2911
     }
   ],
-  "resolved_at": "2026-03-30T20:33:18.546467+00:00"
+  "resolved_at": "2026-03-30T23:30:25.907824+00:00"
 }

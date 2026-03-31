@@ -196,16 +196,16 @@
       "source_law": "ley-de-planeacion",
       "source_article": "44",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "que haya emitido el Consejo Nacional de Ciencia y Tecnología en el marco del Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas de conformidad con la Ley de Ciencia y Tecnología, únicamente se les reconocerá su vigencia hasta por un año, contado a partir de la entrada en vigor de esta Ley.  Al término del plazo señalado en el",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 30078,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -226,16 +226,16 @@
       "source_law": "ley-de-planeacion",
       "source_article": "44",
       "target_law_raw": "Ley de Planeación para quedar como sigue",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion",
       "target_article": null,
       "citation_text": "n III; 3; 8, párrafo segundo; 9, párrafo primero; 16, fracciones I y III; 17, fracciones I y II; 21, párrafo segundo; 27; 40, párrafo primero y 41 de la Ley de Planeación para quedar como sigue:  ..........  TRANSITORIOS  PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2602,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5964912280701754,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación"
     },
     {
       "source_law": "ley-de-planeacion",
@@ -580,5 +580,5 @@
       "char_offset": 1329
     }
   ],
-  "resolved_at": "2026-03-30T20:33:07.089940+00:00"
+  "resolved_at": "2026-03-30T23:30:16.002231+00:00"
 }

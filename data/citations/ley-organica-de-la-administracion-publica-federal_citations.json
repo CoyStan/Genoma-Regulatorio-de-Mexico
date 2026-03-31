@@ -220,16 +220,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "33",
       "target_law_raw": "Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-sector-electrico",
       "target_article": null,
       "citation_text": "nformación que permita conocer el desempeño del sector eléctrico y del sector hidrocarburos y, dictar las medidas que resulten aplicables, conforme a la Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos; Fracción adicionada DOF 11-08-2014. Reformada DOF 18-03-2025  XXIX.\tFijar la política de desarrollo del sector eléctrico que garantice el suministro",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9256,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del sector eléctrico"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -751,16 +751,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "as que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.  TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución poli",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 27075,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.578125,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -796,31 +796,31 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "rman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Radio y Televisión, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de la Policía Federal Preventiva y de la Ley de Pesca.  Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2000  ARTÍCU",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 31687,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley de la Policía Federal Preventiva y de la Ley de Pesca",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-policia-federal",
       "target_article": null,
       "citation_text": "ral, de la Ley Federal de Radio y Televisión, de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, de la Ley de la Policía Federal Preventiva y de la Ley de Pesca.  Publicado en el Diario Oficial de la Federación el 30 de noviembre de 2000  ARTÍCULO PRIMERO.- Se reforman los artículos 8o., 26, 27; la fracción X",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 31788,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6097560975609756,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.819672131147541,
+      "resolution_matched_alias": "ley de la policía federal"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1630,16 +1630,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-concursos-mercantiles",
       "target_article": null,
       "citation_text": " disposiciones del Código Nacional de Procedimientos Penales, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley de Concursos Mercantiles y de la Ley Orgánica de la Administración Pública Federal.  Publicado en el Diario Oficial de la Federación el 9 de agosto de 2019  Artículo Quinto. Se adicionan las fracciones XXII, XXIII y XXIV, pasando la",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 55148,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.725925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de concursos mercantiles"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1765,16 +1765,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley de Aeropuertos y de la Ley de Aviación Civil",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-aeropuertos",
       "target_article": null,
       "citation_text": "an y derogan diversos artículos de la Ley Orgánica de la Administración Pública Federal, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, de la Ley de Aeropuertos y de la Ley de Aviación Civil, en Materia de Protección del Espacio Aéreo Mexicano.  Publicado en el Diario Oficial de la Federación el 3 de mayo de 2023  Artículo Primero.- Se ad",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 90166,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6086956521739131,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de aeropuertos"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -2062,5 +2062,5 @@
       "resolution_matched_alias": "ley de vías generales de comunicación"
     }
   ],
-  "resolved_at": "2026-03-30T20:33:28.432626+00:00"
+  "resolved_at": "2026-03-30T23:30:34.267956+00:00"
 }

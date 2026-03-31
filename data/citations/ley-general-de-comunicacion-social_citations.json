@@ -121,16 +121,16 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "6",
       "target_law_raw": "Ley de Fiscalización y Rendición de Cuentas de la Federación y la Ley General de Transparencia y Acceso a la Información Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
       "target_article": null,
       "citation_text": "l de Procedimiento Administrativo, la Ley General de Instituciones y Procedimientos Electorales, la Ley General de Responsabilidades Administrativas, la Ley de Fiscalización y Rendición de Cuentas de la Federación y la Ley General de Transparencia y Acceso a la Información Pública.  Los Medios de Comunicación tienen garantizado el pleno ejercicio del desarrollo a la libertad de expresión en la contratación y difusión de propaga",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 266,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6526315789473685,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
     },
     {
       "source_law": "ley-general-de-comunicacion-social",
@@ -268,5 +268,5 @@
       "char_offset": 3222
     }
   ],
-  "resolved_at": "2026-03-30T20:33:20.751374+00:00"
+  "resolved_at": "2026-03-30T23:30:27.758177+00:00"
 }

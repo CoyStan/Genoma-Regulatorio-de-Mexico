@@ -454,16 +454,16 @@
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
       "source_article": "64",
       "target_law_raw": "Ley de Ingresos de la Federación del año de que se trate",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "óleo a que se refiere el artículo 93 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la estimación por el mismo concepto contenida en la Ley de Ingresos de la Federación del año de que se trate.  II.\tCuando los recursos recibidos por las entidades federativas y los municipios procedentes de los ingresos que, en términos de este Decreto, se i",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9146,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6776859504132231,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-de-ingresos-sobre-hidrocarburos",
@@ -565,5 +565,5 @@
       "resolution_matched_alias": "ley de ingresos sobre hidrocarburos"
     }
   ],
-  "resolved_at": "2026-03-30T20:33:02.473002+00:00"
+  "resolved_at": "2026-03-30T23:30:12.642710+00:00"
 }

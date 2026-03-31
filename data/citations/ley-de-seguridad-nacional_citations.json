@@ -31,16 +31,16 @@
       "source_law": "ley-de-seguridad-nacional",
       "source_article": "8",
       "target_law_raw": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "n expresa en la presente Ley, se estará a las siguientes reglas de supletoriedad:  I.\tRespecto del apoyo que deban prestar las Instancias se estará a lo dispuesto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;  II.\tEn lo relativo al régimen disciplinario de los servidores públicos de las dependencias federales que integran el Consejo, se aplicará la Ley Fe",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 182,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-de-seguridad-nacional",
@@ -271,5 +271,5 @@
       "char_offset": 2607
     }
   ],
-  "resolved_at": "2026-03-30T20:33:07.716264+00:00"
+  "resolved_at": "2026-03-30T23:30:16.571448+00:00"
 }

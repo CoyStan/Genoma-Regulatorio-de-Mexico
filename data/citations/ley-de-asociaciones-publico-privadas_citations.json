@@ -19,16 +19,16 @@
       "source_law": "ley-de-asociaciones-publico-privadas",
       "source_article": "3",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "ón público privada les resultarán aplicables los principios orientadores del apoyo a la investigación científica, desarrollo Tecnológico e Innovación previstos en la Ley de Ciencia y Tecnología. Estas asociaciones se regirán por lo dispuesto en esta ley y en lo que les resulte aplicable por la Ley de Ciencia y Tecnología.  Con el propósito d",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 668,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -148,16 +148,16 @@
       "source_law": "ley-de-asociaciones-publico-privadas",
       "source_article": "13",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": " artículo 3, vinculados a innovación y desarrollo tecnológico, se requerirá además, la previa aprobación del Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología. Para el análisis y aprobación de estos proyectos el Foro Consultivo Científico y Tecnológico deberá ajustarse a los principios orientadores del apoy",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 767,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-asociaciones-publico-privadas",
@@ -826,5 +826,5 @@
       "char_offset": 3147
     }
   ],
-  "resolved_at": "2026-03-30T20:32:56.009271+00:00"
+  "resolved_at": "2026-03-30T23:30:07.965557+00:00"
 }

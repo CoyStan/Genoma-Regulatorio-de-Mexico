@@ -322,16 +322,16 @@
       "source_law": "codigo-militar-de-procedimientos-penales",
       "source_article": "133",
       "target_law_raw": "Código de Justicia Militar y en este Código y otras disposiciones",
-      "target_law_id": "unresolved",
+      "target_law_id": "codigo-de-justicia-militar",
       "target_article": null,
       "citation_text": "presentará en público al imputado o acusado como culpable si no existiera condena;  VI.\tMantener el orden en las salas de audiencias;  VII.\tLos demás establecidos en el Código de Justicia Militar y en este Código y otras disposiciones aplicables.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 940,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7536231884057971,
+      "resolution_matched_alias": "código de justicia militar"
     },
     {
       "source_law": "codigo-militar-de-procedimientos-penales",
@@ -685,5 +685,5 @@
       "char_offset": 593
     }
   ],
-  "resolved_at": "2026-03-30T20:32:46.135986+00:00"
+  "resolved_at": "2026-03-30T23:30:00.001246+00:00"
 }

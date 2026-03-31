@@ -67,16 +67,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "6",
       "target_law_raw": "Ley del Contrato de Seguro y la Ley General de Instituciones y Sociedades Mutualistas de Seguros",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-el-contrato-de-seguro",
       "target_article": null,
       "citation_text": "edimiento Administrativo;  VII.\tLos Códigos Civil Federal y Nacional de Procedimientos Civiles y Familiares; Fracción reformada DOF 14-11-2025  VIII. La Ley del Contrato de Seguro y la Ley General de Instituciones y Sociedades Mutualistas de Seguros;  IX. La Ley Federal del Trabajo; y  X. Los usos y las costumbres marítimas internacionales.  CAPÍTULO II Autoridad Marítima Nacional Denominación de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 550,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5432098765432098,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8771929824561403,
+      "resolution_matched_alias": "ley sobre el contrato de seguro"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -820,16 +820,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "328",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales.  Publicado en el Diario Oficial de la Federación el 7 de junio de 2013  ARTÍCULO OCTAVO.- Se adiciona un artículo 77 BIS de la Ley de Navegación y C",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5179,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6495726495726496,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -889,5 +889,5 @@
       "char_offset": 2959
     }
   ],
-  "resolved_at": "2026-03-30T20:33:06.388675+00:00"
+  "resolved_at": "2026-03-30T23:30:15.477027+00:00"
 }

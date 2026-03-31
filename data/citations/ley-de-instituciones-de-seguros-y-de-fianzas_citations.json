@@ -2146,16 +2146,16 @@
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
       "source_article": "510",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "rgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo Décimo Segundo. Se reforma el prim",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22721,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
@@ -2200,5 +2200,5 @@
       "char_offset": 15148
     }
   ],
-  "resolved_at": "2026-03-30T20:33:03.525531+00:00"
+  "resolved_at": "2026-03-30T23:30:13.384330+00:00"
 }

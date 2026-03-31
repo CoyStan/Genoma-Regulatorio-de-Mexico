@@ -1303,16 +1303,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "233",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "cuando estén inscritos en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas a que se refiere el artículo 17, fracción II de la Ley de Ciencia y Tecnología. Fracción reformada DOF 18-11-2015  IV.\tNo pagarán las asociaciones y sociedades civiles sin fines de lucro que tengan concesión o permiso para el us",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1253,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2848,16 +2848,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Ingresos de la Federación del año de que se trate",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-tesoreria-de-la-federacion",
       "target_article": null,
       "citation_text": "óleo a que se refiere el artículo 93 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y la estimación por el mismo concepto contenida en la Ley de Ingresos de la Federación del año de que se trate.  II.\tCuando los recursos recibidos por las entidades federativas y los municipios procedentes de los ingresos que, en términos de este Decreto, se i",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 632192,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6776859504132231,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8307692307692308,
+      "resolution_matched_alias": "ley de tesorería de la federación"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -2968,16 +2968,16 @@
       "source_law": "ley-federal-de-derechos",
       "source_article": "292",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "daria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematogr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 675233,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-federal-de-derechos",
@@ -3067,5 +3067,5 @@
       "char_offset": 7108
     }
   ],
-  "resolved_at": "2026-03-30T20:33:14.872067+00:00"
+  "resolved_at": "2026-03-30T23:30:22.542251+00:00"
 }

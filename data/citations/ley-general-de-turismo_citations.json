@@ -403,16 +403,16 @@
       "source_law": "ley-general-de-turismo",
       "source_article": "73",
       "target_law_raw": "Ley de Inversión Extranjera y la Ley General de Turismo",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-inversion-extranjera",
       "target_article": null,
       "citation_text": "án en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.  Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de Inversión Extranjera y la Ley General de Turismo, entrarán en vigor hasta que se encuentre vigente el Reglamento de la Ley de Migración.  TERCERO. Las referencias que en otras leyes y demás disposic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6431,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6585365853658537,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de inversión extranjera"
     },
     {
       "source_law": "ley-general-de-turismo",
@@ -547,5 +547,5 @@
       "char_offset": 4423
     }
   ],
-  "resolved_at": "2026-03-30T20:33:25.146908+00:00"
+  "resolved_at": "2026-03-30T23:30:31.756381+00:00"
 }

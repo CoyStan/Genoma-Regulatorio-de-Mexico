@@ -277,61 +277,61 @@
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "20",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "jo Consultivo Científico se realizará mediante convocatoria pública que emitan conjuntamente el CONACyT y el Foro Consultivo Científico y Tecnológico previsto en la Ley de Ciencia y Tecnología, garantizando el principio de paridad de género. Entre las funciones del Consejo Consultivo se preverá la formulación de protocolos de investigación,",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 970,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "28",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "ión científica y tecnológica en materia de bioseguridad y de biotecnología a través de las políticas y los instrumentos establecidos en esta Ley y en la Ley de Ciencia y Tecnología. En materia de biotecnología, estos apoyos se orientarán a impulsar proyectos de investigación y desarrollo e innovación, formación de recursos human",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 231,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "29",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "Foro Consultivo Científico y Tecnológico, y de la CIBIOGEM.  Dicho programa formará parte del Programa Especial de Ciencia y Tecnología que establece la Ley de Ciencia y Tecnología.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 805,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "31",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "de Fomento y Apoyo a la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología de conformidad con lo dispuesto en la presente Ley, en la Ley de Ciencia y Tecnología, y demás disposiciones aplicables. Artículo reformado DOF 06-11-2020  TÍTULO SEGUNDO De los Permisos  CAPÍTULO I Disposiciones Comunes",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 203,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -637,16 +637,16 @@
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "124",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "daria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematogr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6772,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -1096,5 +1096,5 @@
       "char_offset": 5856
     }
   ],
-  "resolved_at": "2026-03-30T20:32:56.628083+00:00"
+  "resolved_at": "2026-03-30T23:30:08.470617+00:00"
 }

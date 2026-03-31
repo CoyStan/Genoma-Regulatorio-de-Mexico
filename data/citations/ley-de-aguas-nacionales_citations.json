@@ -49,16 +49,16 @@
       "source_law": "ley-de-aguas-nacionales",
       "source_article": "3",
       "target_law_raw": "Ley de Energía Geotérmica",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-geotermia",
       "target_article": null,
       "citation_text": "guas nacionales delimitado por la cota de la creciente máxima ordinaria;  LXI BIS. Yacimiento geotérmico hidrotermal: Aquel definido en términos de la Ley de Energía Geotérmica; Fracción adicionada DOF 11-08-2014  LXII. \"Zona de Protección\": La faja de terreno inmediata a las presas, estructuras hidráulicas y otra infraestru",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26443,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7317073170731707,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de energía geotérmica"
     },
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -418,16 +418,16 @@
       "source_law": "ley-de-aguas-nacionales",
       "source_article": "20",
       "target_law_raw": "Ley de Coordinación Fiscal y otras disposiciones",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-coordinacion-fiscal",
       "target_article": null,
       "citation_text": "eterminados actos administrativos y fiscales relacionados con el presente Título, en los términos de lo que establece esta Ley, la Ley de Planeación, la Ley de Coordinación Fiscal y otras disposiciones aplicables, para contribuir a la descentralización de la administración del agua. Párrafo reformado DOF 11-12-2025  Cuando las disposiciones a partir del presen",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3062,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7027027027027027,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de coordinación fiscal"
     },
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -781,16 +781,16 @@
       "source_law": "ley-de-aguas-nacionales",
       "source_article": "81",
       "target_law_raw": "Ley de Energía Geotérmica",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-geotermia",
       "target_article": null,
       "citation_text": ", la dependencia ante la cual se realizarán los trámites relativos a su otorgamiento y modificación, será la que señala el artículo 2 fracción XVI de la Ley de Energía Geotérmica.  Como parte de los requisitos que establece la Ley de Geotermia y su Reglamento para el otorgamiento de concesiones de agua, la persona interesada d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 838,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7317073170731707,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de energía geotérmica"
     },
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -1291,16 +1291,16 @@
       "source_law": "ley-de-aguas-nacionales",
       "source_article": "124",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales.  Publicado en el Diario Oficial de la Federación el 7 de junio de 2013  ARTÍCULO SEXTO.- Se reforman la fracción III y IV del artículo 14 BIS 4; el ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20430,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6495726495726496,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -1696,16 +1696,16 @@
       "source_law": "ley-de-aguas-nacionales",
       "source_article": "124",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "rgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo Décimo Noveno. Se reforman los pár",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 28214,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-de-aguas-nacionales",
@@ -1735,5 +1735,5 @@
       "char_offset": 1562
     }
   ],
-  "resolved_at": "2026-03-30T20:32:54.405495+00:00"
+  "resolved_at": "2026-03-30T23:30:06.690338+00:00"
 }

@@ -316,16 +316,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "amo y se reforman, adicionan y derogan diversas disposiciones de la Ley General de Sociedades Cooperativas, de la Ley de Ahorro y Crédito Popular, de la Ley de la Comisión Nacional Bancaria y de Valores y de la Ley de Instituciones de Crédito.  Publicado en el Diario Oficial de la Federación el 13 de agosto de 2009  ARTÍCULO TERCERO. Se REFORMAN el Artículo 1o; fracción V del Artículo 11, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15334,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7101449275362319,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -691,16 +691,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-economia-social-y-solidaria",
       "target_article": null,
       "citation_text": "endamientos y Servicios del Sector Público y, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana; de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas.  Publicado en el Diario Oficial de la Federación el 16 de abril de 2025  Artículo Cuarto.- Se reforman los artículos 12; 13 y 17 y se adicionan una ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22164,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6229508196721312,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la economía social y solidaria"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -715,5 +715,5 @@
       "char_offset": 2499
     }
   ],
-  "resolved_at": "2026-03-30T20:33:24.241141+00:00"
+  "resolved_at": "2026-03-30T23:30:30.859637+00:00"
 }

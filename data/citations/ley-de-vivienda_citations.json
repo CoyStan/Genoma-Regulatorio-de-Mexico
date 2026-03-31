@@ -61,16 +61,16 @@
       "source_law": "ley-de-vivienda",
       "source_article": "9",
       "target_law_raw": "Ley de Planeación y la Ley General de Desarrollo Social",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-planeacion",
       "target_article": null,
       "citation_text": "iante decreto y estará sometido a un proceso permanente de control y evaluación, observando lo dispuesto en este ordenamiento y, en lo conducente, en la Ley de Planeación y la Ley General de Desarrollo Social. Párrafo reformado DOF 14-05-2019  En la formulación del Programa Nacional se considerarán las propuestas de los gobiernos de las entidades federativ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 276,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.735632183908046,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de planeación"
     },
     {
       "source_law": "ley-de-vivienda",
@@ -733,5 +733,5 @@
       "char_offset": 1931
     }
   ],
-  "resolved_at": "2026-03-30T20:33:08.817984+00:00"
+  "resolved_at": "2026-03-30T23:30:17.436593+00:00"
 }

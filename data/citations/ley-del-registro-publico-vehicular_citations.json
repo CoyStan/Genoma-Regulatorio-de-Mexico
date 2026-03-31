@@ -7,16 +7,16 @@
       "source_law": "ley-del-registro-publico-vehicular",
       "source_article": "5",
       "target_law_raw": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "Artículo 5.- En lo no previsto expresamente en esta Ley, se aplicará supletoriamente la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.  TÍTULO SEGUNDO DEL REGISTRO  CAPÍTULO I DE SU OBJETO E INTEGRACIÓN",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 85,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-del-registro-publico-vehicular",
@@ -61,5 +61,5 @@
       "char_offset": 2256
     }
   ],
-  "resolved_at": "2026-03-30T20:33:11.297342+00:00"
+  "resolved_at": "2026-03-30T23:30:19.656964+00:00"
 }

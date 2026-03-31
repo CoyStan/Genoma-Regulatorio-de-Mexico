@@ -64,16 +64,16 @@
       "source_law": "ley-de-infraestructura-de-la-calidad",
       "source_article": "16",
       "target_law_raw": "Ley de Cámaras Empresariales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "target_article": null,
       "citation_text": "tuyan;  IV.\tRepresentantes de las cámaras y confederaciones así como, asociaciones de industriales y comerciales del país constituidas en el marco de la Ley de Cámaras Empresariales y sus Confederaciones, que serán elegidos de acuerdo con lo previsto en el Reglamento de la Ley;  V.\tRepresentantes de instituciones públicas y privadas de la academia, es",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2222,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.717948717948718,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de cámaras empresariales"
     },
     {
       "source_law": "ley-de-infraestructura-de-la-calidad",
@@ -829,5 +829,5 @@
       "char_offset": 5734
     }
   ],
-  "resolved_at": "2026-03-30T20:33:01.731536+00:00"
+  "resolved_at": "2026-03-30T23:30:12.264906+00:00"
 }

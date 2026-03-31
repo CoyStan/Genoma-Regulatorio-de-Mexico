@@ -34,31 +34,31 @@
       "source_law": "ley-de-geotermia",
       "source_article": "2",
       "target_law_raw": "Ley del Sector Eléctrico y en las siguientes definiciones",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-sector-electrico",
       "target_article": null,
       "citation_text": "la presente Ley, se deben entender los conceptos y las definiciones, en singular o plural, previstos en la Ley de Planeación y Transición Energética, la Ley del Sector Eléctrico y en las siguientes definiciones:  I.\tAgua Geotérmica: Agua en el subsuelo en estado líquido o gaseoso que se encuentra a una temperatura igual o superior a 80 grados centígrados en f",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 213,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5925925925925926,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8421052631578947,
+      "resolution_matched_alias": "ley del sector eléctrico"
     },
     {
       "source_law": "ley-de-geotermia",
       "source_article": "5",
       "target_law_raw": "Ley del Sector Hidrocarburos y la Ley de Minería",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-sector-hidrocarburos",
       "target_article": null,
       "citation_text": "ispuesto en esta Ley y su Reglamento pueden explotar los subproductos a que se refiere este artículo con excepción del litio y aquellos previstos por la Ley del Sector Hidrocarburos y la Ley de Minería; en su caso, deben obtener la Concesión o autorización correspondiente.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 711,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7368421052631579,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del sector hidrocarburos"
     },
     {
       "source_law": "ley-de-geotermia",
@@ -298,5 +298,5 @@
       "char_offset": 4256
     }
   ],
-  "resolved_at": "2026-03-30T20:33:01.383506+00:00"
+  "resolved_at": "2026-03-30T23:30:11.923620+00:00"
 }

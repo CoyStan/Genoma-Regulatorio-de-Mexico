@@ -967,16 +967,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-federal-contra-la-delincuencia-organizada",
       "target_article": null,
       "citation_text": "tos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicación.  Publicado en el Diario Oficial de la Federación el 19 de febrero de 2021  Artículo Séptimo.- Se adiciona un segundo párrafo al artículo 480 de la L",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 230884,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6617647058823529,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal contra la delincuencia organizada"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1387,16 +1387,16 @@
       "source_law": "ley-general-de-salud",
       "source_article": "482",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "rgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales de Salud, de la Ley de Ciencia y Tecnología, en materia de paridad de género.  Publicado en el Diario Oficial de la Federación el 11 de mayo de 2022  Artículo Segundo. Se reforma el artículo 15",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 257609,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-general-de-salud",
@@ -1636,5 +1636,5 @@
       "char_offset": 3860
     }
   ],
-  "resolved_at": "2026-03-30T20:33:24.176545+00:00"
+  "resolved_at": "2026-03-30T23:30:30.793631+00:00"
 }

@@ -3301,16 +3301,16 @@
       "source_law": "ley-de-instituciones-de-credito",
       "source_article": "41",
       "target_law_raw": "Ley de la Comisión Nacional Bancaria y de Valores y demás leyes relativas al sistema financiero mexicano",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
       "target_article": null,
       "citation_text": "cto de aquellas otras disposiciones y reglas de carácter general aplicables a cualesquiera entidades financieras que corresponda expedir al amparo de la Ley de la Comisión Nacional Bancaria y de Valores y demás leyes relativas al sistema financiero mexicano, así como respecto de los demás actos administrativos que, en cumplimiento de las leyes, deban publicarse en el mismo medio.  .........  TRANSITORIOS",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 56380,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6405228758169934,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de la comisión nacional bancaria y de valores"
     },
     {
       "source_law": "ley-de-instituciones-de-credito",
@@ -3895,5 +3895,5 @@
       "char_offset": 4860
     }
   ],
-  "resolved_at": "2026-03-30T20:33:03.252786+00:00"
+  "resolved_at": "2026-03-30T23:30:13.119947+00:00"
 }

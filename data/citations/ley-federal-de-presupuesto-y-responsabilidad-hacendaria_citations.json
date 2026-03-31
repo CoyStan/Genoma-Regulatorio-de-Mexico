@@ -577,16 +577,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "41",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "19-01-2012  r) Las previsiones de gasto que correspondan al Programa de Ciencia, Tecnología e Innovación, conforme a lo previsto en el artículo 22 de la Ley de Ciencia y Tecnología; Inciso adicionado DOF 19-01-2012  s) Las previsiones de gasto que correspondan a la Estrategia Nacional para la Transición Energética y el Aprovecha",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3414,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1342,16 +1342,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "rdinación Fiscal se sujetará a los acuerdos y resoluciones que establezca el Consejo Nacional de Seguridad Pública en los términos del artículo 11 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.  Tercero. Para el ejercicio fiscal 2007, la distribución entre los Estados y el Distrito Federal de los recursos del Fondo de Aportaciones para el F",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4824,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.726027397260274,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1582,16 +1582,16 @@
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "source_article": "118",
       "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
       "target_article": null,
       "citation_text": "daria; de la Ley General de Protección Civil; de la Ley Orgánica de la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; de la Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematogr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 65521,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6274509803921569,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de ciencia y tecnología"
     },
     {
       "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
@@ -1816,5 +1816,5 @@
       "char_offset": 3535
     }
   ],
-  "resolved_at": "2026-03-30T20:33:17.086767+00:00"
+  "resolved_at": "2026-03-30T23:30:24.587023+00:00"
 }

@@ -37,16 +37,16 @@
       "source_law": "ley-federal-de-proteccion-a-la-propiedad-industrial",
       "source_article": "4",
       "target_law_raw": "Ley sobre la celebración de Tratados y la Ley sobre la aprobación de Tratados Internacionales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "l, a la persona Titular de la Dirección General del Instituto Mexicano de la Propiedad Industrial, y  VI.- Tratados Internacionales, a los celebrados de conformidad con la Ley sobre la celebración de Tratados y la Ley sobre la aprobación de Tratados Internacionales en Materia Económica, en los que México sea parte.",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 461,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6181818181818182,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-federal-de-proteccion-a-la-propiedad-industrial",
@@ -631,5 +631,5 @@
       "char_offset": 8661
     }
   ],
-  "resolved_at": "2026-03-30T20:33:17.520096+00:00"
+  "resolved_at": "2026-03-30T23:30:24.976945+00:00"
 }

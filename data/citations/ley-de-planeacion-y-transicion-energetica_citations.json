@@ -49,31 +49,31 @@
       "source_law": "ley-de-planeacion-y-transicion-energetica",
       "source_article": "3",
       "target_law_raw": "Ley de Biocombustibles y de la Ley de Geotermia",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-biocombustibles",
       "target_article": null,
       "citation_text": "materia de electricidad e hidrocarburos reguladas en la Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos respectivamente, así como aquellas establecidas en la Ley de Biocombustibles y de la Ley de Geotermia, y cualquier otra que correspondan a la Secretaría y sus organismos sectorizados, de acuerdo con la Ley Orgánica de la Administración Pública Federal",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 6056,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6376811594202898,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de biocombustibles"
     },
     {
       "source_law": "ley-de-planeacion-y-transicion-energetica",
       "source_article": "3",
       "target_law_raw": "Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos respectivamente",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-sector-electrico",
       "target_article": null,
       "citation_text": "to de la Ley de Planeación y Transición Energética; XXIII.\tSector Energético: Se refiere a las actividades en materia de electricidad e hidrocarburos reguladas en la Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos respectivamente, así como aquellas establecidas en la Ley de Biocombustibles y de la Ley de Geotermia, y cualquier otra que correspondan a la Secretaría y sus organi",
       "pattern_name": "regulada_por",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 5946,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5490196078431373,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del sector eléctrico"
     },
     {
       "source_law": "ley-de-planeacion-y-transicion-energetica",
@@ -109,16 +109,16 @@
       "source_law": "ley-de-planeacion-y-transicion-energetica",
       "source_article": "3",
       "target_law_raw": "Ley de Geotermia y en las siguientes definiciones",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-geotermia",
       "target_article": null,
       "citation_text": "eptos y las definiciones, en singular o plural, previstas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Biocombustibles, la Ley de Geotermia y en las siguientes definiciones: I.\tAprovechamiento Sustentable de la Energía: El uso óptimo de la energía y que contribuya a la conservación de los recursos energéticos y del medio ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 256,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5656565656565656,
-      "resolution_matched_alias": null
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7804878048780488,
+      "resolution_matched_alias": "ley de geotermia"
     },
     {
       "source_law": "ley-de-planeacion-y-transicion-energetica",
@@ -289,16 +289,16 @@
       "source_law": "ley-de-planeacion-y-transicion-energetica",
       "source_article": "51",
       "target_law_raw": "Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-del-sector-electrico",
       "target_article": null,
       "citation_text": "Artículo 51.- El Fondo de Servicio Universal Energético se integra, en los términos previstos por la Ley del Sector Eléctrico y la Ley del Sector Hidrocarburos, por lo siguiente: I.\tRecursos por el excedente de ingresos que resulte de la gestión de pérdidas técnicas del Mercado Eléctrico Mayorista; II.\tDonat",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 98,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6511627906976745,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del sector eléctrico"
     },
     {
       "source_law": "ley-de-planeacion-y-transicion-energetica",
@@ -448,5 +448,5 @@
       "char_offset": 4047
     }
   ],
-  "resolved_at": "2026-03-30T20:33:06.899223+00:00"
+  "resolved_at": "2026-03-30T23:30:15.851762+00:00"
 }

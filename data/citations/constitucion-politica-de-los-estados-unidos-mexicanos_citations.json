@@ -172,31 +172,31 @@
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "35",
       "target_law_raw": "Ley del Congreso",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "target_article": null,
       "citation_text": "s que establezca la ley; Fracción adicionada DOF 09-08-2012  VII.\tIniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley; Fracción adicionada DOF 09-08-2012. Reformada DOF 10-02",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1309,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6190476190476191,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del congreso"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "69",
       "target_law_raw": "Ley del Congreso",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "target_article": null,
       "citation_text": " los Secretarios de Estado y a los directores de las entidades paraestatales, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad. Párrafo reformado DOF 10-02-2014  En el primer año de su mandato, en la apertura del segundo periodo de sesi",
       "pattern_name": "ley_y_reglamentos",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 797,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6190476190476191,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del congreso"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -217,16 +217,16 @@
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "72",
       "target_law_raw": "Ley del Congreso",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "target_article": null,
       "citation_text": "culo 72. Todo proyecto de ley o decreto, cuya resolución no sea exclusiva de alguna de las Cámaras, se discutirá sucesivamente en ambas, observándose la Ley del Congreso y sus reglamentos respectivos, sobre la forma, intervalos y modo de proceder en las discusiones y votaciones: Párrafo reformado DOF 17-08-2011  A. Aprobado un proyecto",
       "pattern_name": "ley_y_reglamentos",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 154,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6190476190476191,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del congreso"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -382,16 +382,16 @@
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "84",
       "target_law_raw": "Ley del Congreso",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "target_article": null,
       "citation_text": "iatamente en Colegio Electoral y nombrará en escrutinio secreto y por mayoría absoluta de votos, un presidente interino, en los términos que disponga la Ley del Congreso. El mismo Congreso expedirá, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección del Presidente que deba conclu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1170,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6190476190476191,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del congreso"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -427,16 +427,16 @@
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "93",
       "target_law_raw": "Ley del Congreso",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
       "target_article": null,
       "citation_text": " un término no mayor a 15 días naturales a partir de su recepción. Párrafo adicionado DOF 15-08-2008  El ejercicio de estas atribuciones se realizará de conformidad con la Ley del Congreso y sus reglamentos. Párrafo adicionado DOF 15-08-2008 Artículo reformado DOF 31-01-1974  Capítulo IV Del Poder Judicial",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1424,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6190476190476191,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley del congreso"
     },
     {
       "source_law": "constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -1474,5 +1474,5 @@
       "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-03-30T20:32:50.502768+00:00"
+  "resolved_at": "2026-03-30T23:30:03.491304+00:00"
 }

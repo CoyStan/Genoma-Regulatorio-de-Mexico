@@ -628,16 +628,16 @@
       "source_law": "ley-general-de-vida-silvestre",
       "source_article": "130",
       "target_law_raw": "Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
       "target_article": null,
       "citation_text": "y Gestión Integral de los Residuos, de la Ley General de Desarrollo Forestal Sustentable, de la Ley de Aguas Nacionales, del Código Penal Federal, de la Ley de Navegación y Comercio Marítimos y de la Ley General de Bienes Nacionales.  Publicado en el Diario Oficial de la Federación el 7 de junio de 2013  ARTÍCULO TERCERO.- Se reforman los artículos 106, párrafo primero; 107, párr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 24583,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6495726495726496,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de navegación y comercio marítimos"
     },
     {
       "source_law": "ley-general-de-vida-silvestre",
@@ -967,5 +967,5 @@
       "char_offset": 3693
     }
   ],
-  "resolved_at": "2026-03-30T20:33:25.371844+00:00"
+  "resolved_at": "2026-03-30T23:30:31.974891+00:00"
 }

@@ -232,16 +232,16 @@
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "80",
       "target_law_raw": "Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto",
-      "target_law_id": "unresolved",
+      "target_law_id": "ley-de-vias-generales-de-comunicacion",
       "target_article": null,
       "citation_text": "as que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.  TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución poli",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3887,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.578125,
-      "resolution_matched_alias": null
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley de vías generales de comunicación"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
@@ -391,5 +391,5 @@
       "char_offset": 2402
     }
   ],
-  "resolved_at": "2026-03-30T20:32:56.664541+00:00"
+  "resolved_at": "2026-03-30T23:30:08.506693+00:00"
 }
