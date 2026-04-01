@@ -6,8 +6,76 @@
   <title>Genoma Regulatorio de México</title>
   <meta name="description" content="Red de citación interactiva del corpus jurídico federal mexicano. Cada ley es un nodo. Cada referencia cruzada, una arista." />
   <link rel="stylesheet" href="style.css" />
+  <style>
+    /* Tab navigation */
+    #tab-nav { display:flex; background:#111827; border-bottom:2px solid #1e3a5f; z-index:100; position:relative; }
+    .tab-btn { padding:10px 22px; background:none; border:none; color:#94a3b8; font-size:14px; font-weight:600; cursor:pointer; letter-spacing:.03em; border-bottom:3px solid transparent; transition:all .2s; }
+    .tab-btn:hover { color:#e2e8f0; }
+    .tab-btn.active { color:#60a5fa; border-bottom-color:#60a5fa; }
+    .tab-pane { display:none; }
+    .tab-pane.active { display:flex; flex-direction:column; height:calc(100vh - 100px); }
+
+    /* Articles tab layout */
+    #articles-tab { flex-direction:row; overflow:hidden; background:#0f172a; }
+    #art-sidebar { width:300px; min-width:220px; border-right:1px solid #1e3a5f; display:flex; flex-direction:column; overflow:hidden; }
+    #art-main { flex:1; overflow-y:auto; padding:16px; }
+
+    /* Sidebar law list */
+    #art-law-search { width:100%; box-sizing:border-box; padding:8px 10px; background:#1e293b; border:1px solid #334155; border-radius:6px; color:#e2e8f0; font-size:13px; margin-bottom:6px; }
+    #art-law-search::placeholder { color:#64748b; }
+    #art-law-list { flex:1; overflow-y:auto; }
+    .art-law-item { padding:8px 12px; cursor:pointer; border-bottom:1px solid #1e293b; transition:background .15s; }
+    .art-law-item:hover, .art-law-item.selected { background:#1e3a5f; }
+    .art-law-item .law-short { font-weight:700; color:#60a5fa; font-size:12px; }
+    .art-law-item .law-name-small { color:#94a3b8; font-size:11px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+
+    /* Top-cited articles table */
+    #art-top-section h2 { color:#e2e8f0; font-size:16px; margin:0 0 12px; }
+    .art-table { width:100%; border-collapse:collapse; font-size:13px; }
+    .art-table th { text-align:left; padding:6px 10px; color:#64748b; border-bottom:1px solid #1e3a5f; font-weight:600; font-size:11px; text-transform:uppercase; }
+    .art-table td { padding:6px 10px; border-bottom:1px solid #1a2744; color:#cbd5e1; }
+    .art-table tr:hover td { background:#1e293b; }
+    .art-table .art-num { font-weight:700; color:#f1c40f; }
+    .art-table .sector-badge { display:inline-block; padding:1px 6px; border-radius:10px; font-size:10px; font-weight:600; }
+    .bar-cell { width:100px; }
+    .bar-bg { background:#1e293b; border-radius:3px; height:8px; }
+    .bar-fill { height:8px; border-radius:3px; background:#3b82f6; }
+
+    /* Drilldown view */
+    #art-drilldown { display:none; }
+    #art-drilldown.visible { display:block; }
+    #art-top-section.hidden { display:none; }
+    #art-drilldown-title { color:#e2e8f0; font-size:16px; font-weight:700; margin:0 0 4px; }
+    #art-drilldown-sub { color:#64748b; font-size:12px; margin:0 0 14px; }
+    #art-back { background:none; border:1px solid #334155; color:#94a3b8; padding:5px 12px; border-radius:5px; cursor:pointer; font-size:12px; margin-bottom:14px; }
+    #art-back:hover { color:#e2e8f0; border-color:#60a5fa; }
+
+    .art-card { background:#1e293b; border-radius:8px; padding:12px 14px; margin-bottom:10px; border:1px solid #253354; }
+    .art-card-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:8px; }
+    .art-card-num { font-weight:700; color:#f1c40f; font-size:15px; }
+    .art-card-badges { display:flex; gap:6px; font-size:11px; }
+    .badge-in  { background:#1e3a5f; color:#60a5fa; padding:2px 7px; border-radius:10px; }
+    .badge-out { background:#1e3a1f; color:#4ade80; padding:2px 7px; border-radius:10px; }
+    .art-card-refs { font-size:11px; color:#94a3b8; }
+    .art-ref-group { margin-top:4px; }
+    .art-ref-group strong { color:#cbd5e1; }
+    .ref-pill { display:inline-block; background:#0f172a; border:1px solid #334155; color:#93c5fd; padding:1px 6px; border-radius:8px; font-size:10px; margin:2px; cursor:default; }
+    .ref-pill:hover { border-color:#60a5fa; }
+
+    @media(max-width:640px){
+      #art-sidebar { width:130px; min-width:100px; }
+      .art-law-item .law-name-small { display:none; }
+      #art-main { padding:10px 8px; }
+    }
+  </style>
 </head>
 <body>
+
+  <!-- Tab navigation -->
+  <nav id="tab-nav">
+    <button class="tab-btn active" data-tab="graph-tab">🕸 Red de Leyes</button>
+    <button class="tab-btn" data-tab="articles-tab">📄 Artículos</button>
+  </nav>
 
   <!-- Header -->
   <header id="app-header">
@@ -205,6 +273,42 @@ python scripts/06_build_graph.py</pre>
   <!-- Tooltip -->
   <div id="tooltip" class="hidden"></div>
 
+  <!-- Articles Tab pane -->
+  <div id="articles-tab" class="tab-pane">
+    <!-- Sidebar: law selector -->
+    <div id="art-sidebar">
+      <div style="padding:10px 10px 4px;">
+        <input id="art-law-search" type="text" placeholder="Buscar ley…" autocomplete="off" />
+      </div>
+      <div id="art-law-list"></div>
+    </div>
+
+    <!-- Main content -->
+    <div id="art-main">
+      <!-- Top cited articles -->
+      <div id="art-top-section">
+        <h2>📌 Artículos más citados en el corpus</h2>
+        <p style="color:#64748b;font-size:12px;margin:-8px 0 12px">Solo artículos específicos (excluye citas a la ley en general). Selecciona una ley en el panel izquierdo para ver su desglose.</p>
+        <table class="art-table" id="art-top-table">
+          <thead>
+            <tr>
+              <th>#</th><th>Ley</th><th>Artículo</th><th>Sector</th><th>Citado por</th><th>Intensidad</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+
+      <!-- Law drilldown -->
+      <div id="art-drilldown">
+        <button id="art-back">← Volver al ranking</button>
+        <h2 id="art-drilldown-title"></h2>
+        <p id="art-drilldown-sub"></p>
+        <div id="art-cards-container"></div>
+      </div>
+    </div>
+  </div>
+
   <!-- Footer -->
   <footer id="app-footer">
     <p>
@@ -222,6 +326,8 @@ python scripts/06_build_graph.py</pre>
   <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
   <!-- Graph visualization -->
   <script src="graph.js"></script>
+  <!-- Articles tab -->
+  <script src="articles.js"></script>
 
 </body>
 </html>
