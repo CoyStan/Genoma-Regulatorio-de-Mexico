@@ -93,15 +93,16 @@ def load_graph_from_json(json_path: Path) -> nx.DiGraph:
 def find_orphan_references(G: nx.DiGraph) -> list[dict]:
     """
     Find citations pointing to laws that:
-    - Are not in the canonical laws list (unknown)
+    - Are not a node in the graph with a known name (truly unknown target)
     - Are marked as abrogated
     """
     orphans = []
-    known_ids = set(CANONICAL_LAWS.keys())
 
     for source, target, data in G.edges(data=True):
         is_abrogated = target in ABROGATED_LAWS
-        is_unknown = target not in known_ids and not G.nodes[target].get("name", "").startswith("Ley")
+        # A target is truly unknown only if it has no name attribute in the graph
+        # (i.e., it was never resolved to a corpus law)
+        is_unknown = not G.nodes[target].get("name", "")
 
         if is_abrogated or is_unknown:
             orphans.append({

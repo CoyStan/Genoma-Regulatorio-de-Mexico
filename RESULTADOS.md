@@ -21,6 +21,7 @@ Se construyó una red de citaciones del corpus jurídico federal mexicano. Cada 
 | Comunidades regulatorias detectadas | 7 |
 | Dependencias circulares (citas mutuas) | 195 |
 | Leyes aisladas | 25 |
+| Referencias huérfanas reales | 18 (todas a Ley de Vías Generales de Comunicación, abrogada) |
 
 ### Las 10 leyes más centrales (por PageRank)
 
@@ -89,7 +90,7 @@ Términos definidos de forma distinta en múltiples leyes:
 ## Próximos Pasos Sugeridos
 
 1. Mejorar la clasificación de sectores para las comunidades etiquetadas como "unknown"
-2. Investigar las ~1,580 referencias huérfanas (nodos citados que no están en el corpus)
+2. ~~Investigar las referencias huérfanas~~ — resuelto: 1,580 falsas alarmas corregidas; solo 18 referencias reales (todas a Ley de Vías Generales de Comunicación, abrogada)
 3. Verificar manualmente una muestra de las 195 dependencias circulares
 4. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
 

@@ -1,22 +1,22 @@
 # Genoma Regulatorio de México — Diagnóstico Estructural
 
-_Generado: 2026-03-31T00:41:52.464318+00:00_
+_Generado: 2026-04-01T07:38:42.302762+00:00_
 
 ---
 
 ## 1. Referencias Huérfanas
-_(Citas a leyes abrogadas o desconocidas: 1580 encontradas)_
+_(Citas a leyes abrogadas o desconocidas: 18 encontradas)_
 
-- **LEY del Seguro Social** → `ley-de-los-sistemas-de-ahorro-para-el-retiro` (13 referencias, tipo: unknown)
-- **PRESUPUESTO de Egresos de la Federación para el Ej** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (11 referencias, tipo: unknown)
-- **PRESUPUESTO de Egresos de la Federación para el Ej** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (11 referencias, tipo: unknown)
-- **LEY General de Contabilidad Gubernamental** → `ley-de-coordinacion-fiscal` (10 referencias, tipo: unknown)
-- **LEY del Sector Hidrocarburos** → `ley-de-ingresos-sobre-hidrocarburos` (10 referencias, tipo: unknown)
-- **LEY de Navegación y Comercio Marítimos** → `ley-de-puertos` (9 referencias, tipo: unknown)
-- **LEY de Ingresos de la Federación para el Ejercicio** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (8 referencias, tipo: unknown)
-- **LEY de Desarrollo Sustentable de la Caña de Azúcar** → `ley-de-desarrollo-rural-sustentable` (8 referencias, tipo: unknown)
-- **LEY General de Contabilidad Gubernamental** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (7 referencias, tipo: unknown)
-- **LEY Aduanera** → `ley-de-los-impuestos-generales-de-importacion-y-de-exportacion` (7 referencias, tipo: unknown)
+- **LEY de Caminos, Puentes y Autotransporte Federal** → `ley-de-vias-generales-de-comunicacion` (3 referencias, tipo: abrogated)
+- **LEY Federal del Trabajo** → `ley-de-vias-generales-de-comunicacion` (3 referencias, tipo: abrogated)
+- **LEY Reglamentaria del Servicio Ferroviario** → `ley-de-vias-generales-de-comunicacion` (2 referencias, tipo: abrogated)
+- **CÓDIGO de Comercio** → `ley-de-vias-generales-de-comunicacion` (2 referencias, tipo: abrogated)
+- **LEY de Aviación Civil** → `ley-de-vias-generales-de-comunicacion` (2 referencias, tipo: abrogated)
+- **LEY Orgánica de la Administración Pública Federal** → `ley-de-vias-generales-de-comunicacion` (2 referencias, tipo: abrogated)
+- **CÓDIGO Penal Federal** → `ley-de-vias-generales-de-comunicacion` (2 referencias, tipo: abrogated)
+- **LEY Aduanera** → `ley-de-vias-generales-de-comunicacion` (1 referencias, tipo: abrogated)
+- **CÓDIGO Civil Federal** → `ley-de-vias-generales-de-comunicacion` (1 referencias, tipo: abrogated)
+- **LEY de Inversión Extranjera** → `ley-de-vias-generales-de-comunicacion` (1 referencias, tipo: abrogated)
 
 ## 2. Leyes Más Centrales (Columnas Vertebrales del Sistema)
 _(Ordenadas por PageRank — mayor valor = mayor importancia estructural)_
@@ -63,16 +63,16 @@ _(¿Cuántas leyes se verían afectadas por una reforma a esta ley?)_
 ## 5. Dependencias Circulares
 _(Grupos de leyes que se referencian mutuamente: 195 encontrados)_
 
-- `codigo-penal-federal → ley-de-navegacion-y-comercio-maritimos → codigo-penal-federal` (ciclo de 2 leyes)
+- `codigo-de-justicia-militar → ley-de-la-guardia-nacional → codigo-de-justicia-militar` (ciclo de 2 leyes)
+- `codigo-penal-federal → ley-federal-contra-la-delincuencia-organizada → codigo-penal-federal` (ciclo de 2 leyes)
 - `codigo-penal-federal → ley-federal-de-armas-de-fuego-y-explosivos → codigo-penal-federal` (ciclo de 2 leyes)
+- `ley-de-aeropuertos → ley-de-aviacion-civil → ley-de-aeropuertos` (ciclo de 2 leyes)
 - `ley-de-ahorro-y-credito-popular → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-ahorro-y-credito-popular` (ciclo de 2 leyes)
-- `ley-de-ahorro-y-credito-popular → ley-de-los-sistemas-de-ahorro-para-el-retiro → ley-de-ahorro-y-credito-popular` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-bioseguridad-de-organismos-geneticamente-modificados → ley-de-asistencia-social` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-de-la-casa-de-moneda-de-mexico → ley-de-asistencia-social` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-asistencia-social` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-la-economia-social-y-solidaria → ley-de-asistencia-social` (ciclo de 2 leyes)
-- `ley-de-asistencia-social → ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo → ley-de-asistencia-social` (ciclo de 2 leyes)
-- `ley-de-asistencia-social → ley-federal-de-sanidad-vegetal → ley-de-asistencia-social` (ciclo de 2 leyes)
 
 ## 6. Conflictos de Definiciones
 _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
