@@ -3,23 +3,18 @@
 const CONFIG = {
   articleGraphPath: "../data/graph/article_graph.json",
   maxHighlights: 6,
-  defaultVisibleNodes: 2500,
   highlightPalette: ["#ef476f", "#118ab2", "#06d6a0", "#f78c6b", "#7b61ff", "#ffbf69"],
   neutralNode: "#9db2c8",
   neutralLink: "rgba(142, 166, 192, 0.28)",
 };
 
 const state = {
-  fullGraph: null,
-  viewGraph: null,
+  graph: null,
   fg: null,
   selectedNode: null,
   highlights: new Map(),
   showLinks: true,
   showArticleInTooltip: true,
-  maxNodes: CONFIG.defaultVisibleNodes,
-  minEdgeWeight: 1,
-  focusLaw: "",
 };
 
 const el = {
@@ -30,7 +25,6 @@ const el = {
   empty: document.getElementById("empty"),
   tooltip: document.getElementById("tooltip"),
   lawSelect: document.getElementById("law-select"),
-  focusLawSelect: document.getElementById("focus-law-select"),
   addHighlight: document.getElementById("add-highlight"),
   highlightList: document.getElementById("highlight-list"),
   resetCamera: document.getElementById("reset-camera"),
@@ -40,88 +34,46 @@ const el = {
   searchInput: document.getElementById("search-input"),
   searchResults: document.getElementById("search-results"),
   loadDemo: document.getElementById("load-demo"),
-  maxNodesRange: document.getElementById("max-nodes-range"),
-  maxNodesLabel: document.getElementById("max-nodes-label"),
-  edgeWeightRange: document.getElementById("edge-weight-range"),
-  edgeWeightLabel: document.getElementById("edge-weight-label"),
-  applyPerformance: document.getElementById("apply-performance"),
 };
 
 function getNodeColor(node) {
   return state.highlights.get(node.law_id)?.color || CONFIG.neutralNode;
 }
 
-function computeViewGraph() {
-  const full = state.fullGraph;
-  if (!full) return null;
-
-  let nodes = full.nodes;
-  if (state.focusLaw) {
-    nodes = nodes.filter(n => n.law_id === state.focusLaw);
-  }
-
-  nodes = [...nodes]
-    .sort((a, b) => (b.weight || 0) - (a.weight || 0))
-    .slice(0, state.maxNodes);
-
-  const keep = new Set(nodes.map(n => n.id));
-
-  const links = full.links.filter(l => {
-    const s = typeof l.source === "object" ? l.source.id : l.source;
-    const t = typeof l.target === "object" ? l.target.id : l.target;
-    return keep.has(s) && keep.has(t) && (l.weight || 1) >= state.minEdgeWeight;
-  });
-
-  // keep orphan nodes out for cleaner view
-  const connected = new Set();
-  links.forEach(l => {
-    const s = typeof l.source === "object" ? l.source.id : l.source;
-    const t = typeof l.target === "object" ? l.target.id : l.target;
-    connected.add(s); connected.add(t);
-  });
-
-  const filteredNodes = nodes.filter(n => connected.has(n.id));
-  const laws = new Set(filteredNodes.map(n => n.law_id));
-
-  return { nodes: filteredNodes, links, meta: { laws_count: laws.size } };
-}
-
-function renderGraph(data) {
-  state.viewGraph = data;
+function buildGraph(data) {
+  state.graph = data;
 
   el.nodes.textContent = data.nodes.length.toLocaleString("es-MX");
   el.edges.textContent = data.links.length.toLocaleString("es-MX");
   el.laws.textContent = data.meta?.laws_count?.toLocaleString("es-MX") || "—";
 
-  if (!state.fg) {
-    state.fg = ForceGraph3D()(document.getElementById("graph-3d"))
-      .backgroundColor("#eef3fb")
-      .nodeLabel(() => "")
-      .nodeVal(n => Math.max(1.8, Math.min(8, (n.weight || 1) * 0.7)))
-      .linkOpacity(0.22)
-      .linkWidth(l => Math.min(1.8, 0.4 + (l.weight || 1) * 0.15))
-      .onNodeHover(handleNodeHover)
-      .onNodeClick(handleNodeClick)
-      .onBackgroundClick(() => {
-        state.selectedNode = null;
-        refreshColors();
-      })
-      .d3Force("charge").strength(-42)
-      .d3Force("link").distance(20)
-      .cooldownTicks(120)
-      .warmupTicks(30);
+  fillLawSelector(data.law_catalog || []);
 
-    state.fg.controls().enableDamping = true;
-    state.fg.controls().dampingFactor = 0.08;
-  }
+  const fg = ForceGraph3D()(document.getElementById("graph-3d"))
+    .graphData(data)
+    .backgroundColor("#eef3fb")
+    .nodeLabel(() => "")
+    .nodeColor(getNodeColor)
+    .nodeVal(n => Math.max(1.8, Math.min(8, (n.weight || 1) * 0.7)))
+    .linkColor(() => state.showLinks ? CONFIG.neutralLink : "rgba(0,0,0,0)")
+    .linkOpacity(0.23)
+    .linkWidth(l => Math.min(1.8, 0.4 + (l.weight || 1) * 0.15))
+    .onNodeHover(handleNodeHover)
+    .onNodeClick(handleNodeClick)
+    .onBackgroundClick(() => {
+      state.selectedNode = null;
+      refreshColors();
+    })
+    .d3Force("charge").strength(-45)
+    .d3Force("link").distance(22)
+    .cooldownTicks(150)
+    .warmupTicks(35);
 
-  state.fg.graphData(data);
+  fg.controls().enableDamping = true;
+  fg.controls().dampingFactor = 0.08;
+
+  state.fg = fg;
   refreshColors();
-}
-
-function rebuildAndRender() {
-  const view = computeViewGraph();
-  if (view) renderGraph(view);
 }
 
 function handleNodeHover(node) {
@@ -161,7 +113,7 @@ function handleNodeClick(node) {
 }
 
 function refreshColors() {
-  if (!state.fg || !state.viewGraph) return;
+  if (!state.fg) return;
   const selectedId = state.selectedNode?.id;
   const neighbors = selectedId ? buildNeighborSet(selectedId) : null;
 
@@ -182,7 +134,7 @@ function refreshColors() {
 
 function buildNeighborSet(id) {
   const set = new Set([id]);
-  for (const l of state.viewGraph.links) {
+  for (const l of state.graph.links) {
     const s = typeof l.source === "object" ? l.source.id : l.source;
     const t = typeof l.target === "object" ? l.target.id : l.target;
     if (s === id) set.add(t);
@@ -192,22 +144,14 @@ function buildNeighborSet(id) {
 }
 
 function fillLawSelector(catalog) {
-  const fragA = document.createDocumentFragment();
-  const fragB = document.createDocumentFragment();
+  const frag = document.createDocumentFragment();
   catalog.forEach((law) => {
-    const text = `${law.short || law.id} · ${law.name}`;
-    const optA = document.createElement("option");
-    optA.value = law.id;
-    optA.textContent = text;
-    fragA.appendChild(optA);
-
-    const optB = document.createElement("option");
-    optB.value = law.id;
-    optB.textContent = text;
-    fragB.appendChild(optB);
+    const opt = document.createElement("option");
+    opt.value = law.id;
+    opt.textContent = `${law.short || law.id} · ${law.name}`;
+    frag.appendChild(opt);
   });
-  el.lawSelect.appendChild(fragA);
-  el.focusLawSelect.appendChild(fragB);
+  el.lawSelect.appendChild(frag);
 }
 
 function addHighlightLaw() {
@@ -250,11 +194,11 @@ function setupSearch() {
   el.searchInput.addEventListener("input", () => {
     const q = el.searchInput.value.trim().toLowerCase();
     el.searchResults.innerHTML = "";
-    if (!q || !state.viewGraph) {
+    if (!q || !state.graph) {
       el.searchResults.classList.add("hidden");
       return;
     }
-    const matches = state.viewGraph.nodes
+    const matches = state.graph.nodes
       .filter(n => (n.law_name || "").toLowerCase().includes(q) || (n.article || "").toLowerCase().includes(q) || n.id.toLowerCase().includes(q))
       .slice(0, 8);
     matches.forEach((n) => {
@@ -277,10 +221,8 @@ async function loadRealData() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     if (!data?.nodes?.length) throw new Error("empty graph");
-    state.fullGraph = data;
-    fillLawSelector(data.law_catalog || []);
     el.loading.classList.add("hidden");
-    rebuildAndRender();
+    buildGraph(data);
   } catch {
     el.loading.classList.add("hidden");
     el.empty.classList.remove("hidden");
@@ -298,17 +240,39 @@ function demoData() {
   const nodes = [];
   const links = [];
   laws.forEach(([id, name, short], li) => {
-    for (let a = 1; a <= 120; a++) {
-      nodes.push({ id: `${id}::${a}`, law_id: id, law_name: name, law_short: short, article: String(a), weight: 1 + (a % 5) });
+    for (let a = 1; a <= 22; a++) {
+      nodes.push({
+        id: `${id}::${a}`,
+        law_id: id,
+        law_name: name,
+        law_short: short,
+        article: String(a),
+        weight: 1 + (a % 4),
+        in_degree: 0,
+        out_degree: 0,
+      });
       if (a > 1) links.push({ source: `${id}::${a}`, target: `${id}::${a - 1}`, weight: 1 });
-      if (li > 0 && a % 5 === 0) links.push({ source: `${id}::${a}`, target: `constitucion-politica::${(a % 60) + 1}`, weight: 2 });
+      if (li > 0 && a % 3 === 0) links.push({ source: `${id}::${a}`, target: `constitucion-politica::${(a % 15) + 1}`, weight: 2 });
     }
+  });
+  const degree = new Map();
+  links.forEach(l => {
+    const s = l.source; const t = l.target;
+    degree.set(s, (degree.get(s) || { in: 0, out: 0 }));
+    degree.set(t, (degree.get(t) || { in: 0, out: 0 }));
+    degree.get(s).out += 1;
+    degree.get(t).in += 1;
+  });
+  nodes.forEach(n => {
+    const d = degree.get(n.id) || { in: 0, out: 0 };
+    n.in_degree = d.in;
+    n.out_degree = d.out;
   });
   return {
     nodes,
     links,
     law_catalog: laws.map(([id, name, short]) => ({ id, name, short })),
-    meta: { laws_count: laws.length },
+    meta: { laws_count: laws.length }
   };
 }
 
@@ -327,25 +291,9 @@ function bindUI() {
   el.toggleArticles.addEventListener("change", (e) => {
     state.showArticleInTooltip = e.target.checked;
   });
-
-  el.maxNodesRange.addEventListener("input", (e) => {
-    state.maxNodes = Number(e.target.value);
-    el.maxNodesLabel.textContent = String(state.maxNodes);
-  });
-  el.edgeWeightRange.addEventListener("input", (e) => {
-    state.minEdgeWeight = Number(e.target.value);
-    el.edgeWeightLabel.textContent = String(state.minEdgeWeight);
-  });
-  el.focusLawSelect.addEventListener("change", (e) => {
-    state.focusLaw = e.target.value;
-  });
-  el.applyPerformance.addEventListener("click", rebuildAndRender);
-
   el.loadDemo.addEventListener("click", () => {
     el.empty.classList.add("hidden");
-    state.fullGraph = demoData();
-    fillLawSelector(state.fullGraph.law_catalog || []);
-    rebuildAndRender();
+    buildGraph(demoData());
   });
 }
 
