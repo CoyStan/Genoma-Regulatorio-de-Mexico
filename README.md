@@ -99,7 +99,10 @@ python scripts/05_extract_definitions.py
 # Paso 6: Construir el grafo y calcular métricas
 python scripts/06_build_graph.py
 
-# Paso 7: Ejecutar diagnósticos estructurales
+# Paso 7: Construir red 3D a nivel artículo para dashboard
+python scripts/10_build_article_graph.py
+
+# Paso 8: Ejecutar diagnósticos estructurales
 python scripts/07_diagnostics.py
 ```
 
