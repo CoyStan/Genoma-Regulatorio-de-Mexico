@@ -1,814 +1,356 @@
-/**
- * graph.js — D3.js force-directed citation network for Genoma Regulatorio de México
- *
- * Loads data/graph/graph.json and renders an interactive force-directed graph.
- * Falls back to demo data if the real graph file is not available.
- */
-
 "use strict";
 
-// ============================================================
-// Configuration
-// ============================================================
-
 const CONFIG = {
-  graphDataPath: "../data/graph/graph.json",
-  diagnosticsPath: "../data/graph/diagnostics.json",
-  simulation: {
-    chargeStrength: -200,
-    linkDistance: 60,
-    linkStrength: 0.3,
-    collideRadius: 12,
-    alphaDecay: 0.02,
-  },
-  node: {
-    minRadius: 4,
-    maxRadius: 28,
-    defaultColor: "#4ecdc4",
-  },
-  colors: {
-    // Color palette for community detection (Louvain)
-    community: [
-      "#e63946", "#457b9d", "#2a9d8f", "#e9c46a",
-      "#f4a261", "#264653", "#a8dadc", "#6d6875",
-      "#b5838d", "#e76f51", "#52b788", "#9b5de5",
-    ],
-    // Color scale for sectors
-    sector: {
-      "fiscal":              "#e9c46a",
-      "trabajo":             "#2a9d8f",
-      "constitucional":      "#e63946",
-      "penal":               "#6d6875",
-      "civil":               "#457b9d",
-      "financiero":          "#f4a261",
-      "administrativo":      "#52b788",
-      "ambiental":           "#57cc99",
-      "salud":               "#80b918",
-      "educacion":           "#9b5de5",
-      "transparencia":       "#4cc9f0",
-      "electoral":           "#ff6b6b",
-      "comercio":            "#f9844a",
-      "seguridad":           "#b5838d",
-      "energia":             "#f8961e",
-      "migracion":           "#90be6d",
-      "anticorrupcion":      "#c9184a",
-      "telecomunicaciones":  "#3a0ca3",
-      "propiedad-intelectual":"#7b2d8b",
-      "seguridad-social":    "#4895ef",
-      "default":             "#546e7a",
-    },
-  },
+  articleGraphPath: "../data/graph/article_graph.json",
+  maxHighlights: 6,
+  defaultVisibleNodes: 2500,
+  highlightPalette: ["#ef476f", "#118ab2", "#06d6a0", "#f78c6b", "#7b61ff", "#ffbf69"],
+  neutralNode: "#9db2c8",
+  neutralLink: "rgba(142, 166, 192, 0.28)",
 };
 
-// ============================================================
-// Demo data (used when real graph.json is not yet generated)
-// ============================================================
+const state = {
+  fullGraph: null,
+  viewGraph: null,
+  fg: null,
+  selectedNode: null,
+  highlights: new Map(),
+  showLinks: true,
+  showArticleInTooltip: true,
+  maxNodes: CONFIG.defaultVisibleNodes,
+  minEdgeWeight: 1,
+  focusLaw: "",
+};
 
-const DEMO_DATA = generateDemoData();
+const el = {
+  nodes: document.getElementById("stat-nodes"),
+  edges: document.getElementById("stat-edges"),
+  laws: document.getElementById("stat-laws"),
+  loading: document.getElementById("loading"),
+  empty: document.getElementById("empty"),
+  tooltip: document.getElementById("tooltip"),
+  lawSelect: document.getElementById("law-select"),
+  focusLawSelect: document.getElementById("focus-law-select"),
+  addHighlight: document.getElementById("add-highlight"),
+  highlightList: document.getElementById("highlight-list"),
+  resetCamera: document.getElementById("reset-camera"),
+  focusSelection: document.getElementById("focus-selection"),
+  toggleLinks: document.getElementById("toggle-links"),
+  toggleArticles: document.getElementById("toggle-articles"),
+  searchInput: document.getElementById("search-input"),
+  searchResults: document.getElementById("search-results"),
+  loadDemo: document.getElementById("load-demo"),
+  maxNodesRange: document.getElementById("max-nodes-range"),
+  maxNodesLabel: document.getElementById("max-nodes-label"),
+  edgeWeightRange: document.getElementById("edge-weight-range"),
+  edgeWeightLabel: document.getElementById("edge-weight-label"),
+  applyPerformance: document.getElementById("apply-performance"),
+};
 
-function generateDemoData() {
-  const sectors = ["fiscal", "trabajo", "penal", "civil", "financiero", "administrativo", "ambiental", "salud"];
-  const laws = [
-    { id: "constitucion-politica", name: "Constitución Política de los Estados Unidos Mexicanos", short: "CPEUM", sector: "constitucional" },
-    { id: "codigo-fiscal-federacion", name: "Código Fiscal de la Federación", short: "CFF", sector: "fiscal" },
-    { id: "ley-isr", name: "Ley del Impuesto sobre la Renta", short: "LISR", sector: "fiscal" },
-    { id: "ley-iva", name: "Ley del Impuesto al Valor Agregado", short: "LIVA", sector: "fiscal" },
-    { id: "ley-federal-del-trabajo", name: "Ley Federal del Trabajo", short: "LFT", sector: "trabajo" },
-    { id: "ley-del-seguro-social", name: "Ley del Seguro Social", short: "LSS", sector: "seguridad-social" },
-    { id: "codigo-penal-federal", name: "Código Penal Federal", short: "CPF", sector: "penal" },
-    { id: "codigo-civil-federal", name: "Código Civil Federal", short: "CCF", sector: "civil" },
-    { id: "ley-instituciones-credito", name: "Ley de Instituciones de Crédito", short: "LIC", sector: "financiero" },
-    { id: "loapf", name: "Ley Orgánica de la Administración Pública Federal", short: "LOAPF", sector: "administrativo" },
-    { id: "lgeepa", name: "Ley General del Equilibrio Ecológico", short: "LGEEPA", sector: "ambiental" },
-    { id: "ley-general-salud", name: "Ley General de Salud", short: "LGS", sector: "salud" },
-    { id: "ley-amparo", name: "Ley de Amparo", short: "LA", sector: "judicial" },
-    { id: "lgtaip", name: "Ley General de Transparencia", short: "LGTAIP", sector: "transparencia" },
-    { id: "ley-banco-mexico", name: "Ley del Banco de México", short: "LBM", sector: "financiero" },
-    { id: "ley-aduanera", name: "Ley Aduanera", short: "LA", sector: "comercio-exterior" },
-    { id: "ley-general-educacion", name: "Ley General de Educación", short: "LGE", sector: "educacion" },
-    { id: "lgipe", name: "Ley General de Instituciones y Procedimientos Electorales", short: "LGIPE", sector: "electoral" },
-    { id: "lftr", name: "Ley Federal de Telecomunicaciones y Radiodifusión", short: "LFTR", sector: "telecomunicaciones" },
-    { id: "ley-industria-electrica", name: "Ley de la Industria Eléctrica", short: "LIE", sector: "energia" },
-  ];
+function getNodeColor(node) {
+  return state.highlights.get(node.law_id)?.color || CONFIG.neutralNode;
+}
 
-  // Assign metrics
-  laws.forEach((law, i) => {
-    law.in_degree = Math.floor(Math.random() * 15) + (i < 5 ? 10 : 0);
-    law.out_degree = Math.floor(Math.random() * 12) + 1;
-    law.pagerank = Math.random() * 0.1 + (i < 5 ? 0.08 : 0.01);
-    law.betweenness = Math.random() * 0.1;
-    law.community = Math.floor(i / 4);
-    law.cascade_score = Math.floor(Math.random() * 50) + (i < 5 ? 20 : 0);
-    law.url = `https://www.diputados.gob.mx/LeyesBiblio/`;
+function computeViewGraph() {
+  const full = state.fullGraph;
+  if (!full) return null;
+
+  let nodes = full.nodes;
+  if (state.focusLaw) {
+    nodes = nodes.filter(n => n.law_id === state.focusLaw);
+  }
+
+  nodes = [...nodes]
+    .sort((a, b) => (b.weight || 0) - (a.weight || 0))
+    .slice(0, state.maxNodes);
+
+  const keep = new Set(nodes.map(n => n.id));
+
+  const links = full.links.filter(l => {
+    const s = typeof l.source === "object" ? l.source.id : l.source;
+    const t = typeof l.target === "object" ? l.target.id : l.target;
+    return keep.has(s) && keep.has(t) && (l.weight || 1) >= state.minEdgeWeight;
   });
 
-  // Create citation edges
-  const links = [
-    { source: "ley-isr", target: "codigo-fiscal-federacion", citation_count: 45, confidence: "high" },
-    { source: "ley-iva", target: "codigo-fiscal-federacion", citation_count: 38, confidence: "high" },
-    { source: "ley-del-seguro-social", target: "ley-federal-del-trabajo", citation_count: 22, confidence: "high" },
-    { source: "codigo-penal-federal", target: "constitucion-politica", citation_count: 18, confidence: "high" },
-    { source: "ley-instituciones-credito", target: "ley-banco-mexico", citation_count: 15, confidence: "high" },
-    { source: "ley-isr", target: "constitucion-politica", citation_count: 12, confidence: "high" },
-    { source: "ley-federal-del-trabajo", target: "constitucion-politica", citation_count: 25, confidence: "high" },
-    { source: "loapf", target: "constitucion-politica", citation_count: 30, confidence: "high" },
-    { source: "ley-amparo", target: "constitucion-politica", citation_count: 40, confidence: "high" },
-    { source: "lgeepa", target: "constitucion-politica", citation_count: 8, confidence: "high" },
-    { source: "ley-general-salud", target: "constitucion-politica", citation_count: 10, confidence: "high" },
-    { source: "lgtaip", target: "constitucion-politica", citation_count: 14, confidence: "high" },
-    { source: "lgipe", target: "constitucion-politica", citation_count: 20, confidence: "high" },
-    { source: "ley-aduanera", target: "codigo-fiscal-federacion", citation_count: 16, confidence: "high" },
-    { source: "ley-aduanera", target: "constitucion-politica", citation_count: 5, confidence: "medium" },
-    { source: "ley-general-educacion", target: "constitucion-politica", citation_count: 12, confidence: "high" },
-    { source: "ley-industria-electrica", target: "constitucion-politica", citation_count: 9, confidence: "high" },
-    { source: "lftr", target: "constitucion-politica", citation_count: 11, confidence: "high" },
-    { source: "ley-banco-mexico", target: "constitucion-politica", citation_count: 7, confidence: "high" },
-    { source: "codigo-civil-federal", target: "constitucion-politica", citation_count: 6, confidence: "medium" },
-    { source: "ley-instituciones-credito", target: "codigo-fiscal-federacion", citation_count: 8, confidence: "medium" },
-    { source: "ley-instituciones-credito", target: "constitucion-politica", citation_count: 10, confidence: "high" },
-  ];
-
-  return { nodes: laws, links };
-}
-
-// ============================================================
-// State
-// ============================================================
-
-let graphData = null;
-let simulation = null;
-let selectedNode = null;
-let colorMode = "community";
-let sizeMetric = "pagerank";
-let showLabels = true;
-let filterIsolated = false;
-let activeFilter = "";
-let svg, g, nodeGroup, linkGroup, labelGroup;
-let width, height;
-
-// D3 selections
-let linkSel, nodeSel, labelSel;
-
-// ============================================================
-// Color helpers
-// ============================================================
-
-function getNodeColor(d) {
-  if (colorMode === "community") {
-    const palette = CONFIG.colors.community;
-    return palette[(d.community || 0) % palette.length];
-  }
-  if (colorMode === "sector") {
-    return CONFIG.colors.sector[d.sector] || CONFIG.colors.sector.default;
-  }
-  if (colorMode === "pagerank") {
-    const scale = d3.scaleSequential(d3.interpolateYlOrRd)
-      .domain([0, graphData ? d3.max(graphData.nodes, n => n.pagerank) : 0.1]);
-    return scale(d.pagerank || 0);
-  }
-  return CONFIG.node.defaultColor;
-}
-
-function getNodeRadius(d) {
-  if (!graphData) return 6;
-  const vals = graphData.nodes.map(n => n[sizeMetric] || 0);
-  const maxVal = d3.max(vals) || 1;
-  const minR = CONFIG.node.minRadius;
-  const maxR = CONFIG.node.maxRadius;
-  const v = d[sizeMetric] || 0;
-  return minR + (v / maxVal) * (maxR - minR);
-}
-
-// ============================================================
-// Graph initialization
-// ============================================================
-
-function initSVG() {
-  const container = document.getElementById("graph-container");
-  width = container.clientWidth;
-  height = container.clientHeight;
-
-  svg = d3.select("#graph-svg")
-    .attr("width", width)
-    .attr("height", height);
-
-  g = d3.select("#graph-root");
-  linkGroup = d3.select("#links-layer");
-  nodeGroup = d3.select("#nodes-layer");
-  labelGroup = d3.select("#labels-layer");
-
-  // Zoom behavior
-  const zoom = d3.zoom()
-    .scaleExtent([0.05, 5])
-    .on("zoom", (event) => {
-      g.attr("transform", event.transform);
-    });
-
-  svg.call(zoom);
-
-  // Store zoom ref
-  svg._zoom = zoom;
-
-  // Reset zoom button
-  document.getElementById("btn-reset-zoom").addEventListener("click", () => {
-    svg.transition().duration(500).call(zoom.transform, d3.zoomIdentity);
+  // keep orphan nodes out for cleaner view
+  const connected = new Set();
+  links.forEach(l => {
+    const s = typeof l.source === "object" ? l.source.id : l.source;
+    const t = typeof l.target === "object" ? l.target.id : l.target;
+    connected.add(s); connected.add(t);
   });
 
-  // Fit all button
-  document.getElementById("btn-fit").addEventListener("click", fitGraph);
+  const filteredNodes = nodes.filter(n => connected.has(n.id));
+  const laws = new Set(filteredNodes.map(n => n.law_id));
 
-  // Handle resize
-  window.addEventListener("resize", () => {
-    width = container.clientWidth;
-    height = container.clientHeight;
-    svg.attr("width", width).attr("height", height);
-    if (simulation) {
-      simulation.force("center", d3.forceCenter(width / 2, height / 2));
-      simulation.alpha(0.1).restart();
-    }
-  });
-}
-
-function fitGraph() {
-  if (!nodeGroup) return;
-  const bounds = g.node().getBBox();
-  if (!bounds.width || !bounds.height) return;
-
-  const padding = 40;
-  const scale = Math.min(
-    (width - padding * 2) / bounds.width,
-    (height - padding * 2) / bounds.height,
-    2
-  );
-  const tx = width / 2 - scale * (bounds.x + bounds.width / 2);
-  const ty = height / 2 - scale * (bounds.y + bounds.height / 2);
-
-  svg.transition().duration(600)
-    .call(svg._zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale));
+  return { nodes: filteredNodes, links, meta: { laws_count: laws.size } };
 }
 
 function renderGraph(data) {
-  graphData = data;
+  state.viewGraph = data;
 
-  // Update header stats
-  document.getElementById("stat-nodes").textContent = data.nodes.length.toLocaleString("es-MX");
-  document.getElementById("stat-edges").textContent = data.links.length.toLocaleString("es-MX");
-  const numCommunities = new Set(data.nodes.map(n => n.community)).size;
-  document.getElementById("stat-communities").textContent = numCommunities;
+  el.nodes.textContent = data.nodes.length.toLocaleString("es-MX");
+  el.edges.textContent = data.links.length.toLocaleString("es-MX");
+  el.laws.textContent = data.meta?.laws_count?.toLocaleString("es-MX") || "—";
 
-  // Build sector filter
-  const sectors = [...new Set(data.nodes.map(n => n.sector).filter(Boolean))].sort();
-  const sectorSelect = document.getElementById("sector-filter");
-  sectors.forEach(s => {
-    const opt = document.createElement("option");
-    opt.value = s;
-    opt.textContent = s.charAt(0).toUpperCase() + s.slice(1).replace(/-/g, " ");
-    sectorSelect.appendChild(opt);
-  });
+  if (!state.fg) {
+    state.fg = ForceGraph3D()(document.getElementById("graph-3d"))
+      .backgroundColor("#eef3fb")
+      .nodeLabel(() => "")
+      .nodeVal(n => Math.max(1.8, Math.min(8, (n.weight || 1) * 0.7)))
+      .linkOpacity(0.22)
+      .linkWidth(l => Math.min(1.8, 0.4 + (l.weight || 1) * 0.15))
+      .onNodeHover(handleNodeHover)
+      .onNodeClick(handleNodeClick)
+      .onBackgroundClick(() => {
+        state.selectedNode = null;
+        refreshColors();
+      })
+      .d3Force("charge").strength(-42)
+      .d3Force("link").distance(20)
+      .cooldownTicks(120)
+      .warmupTicks(30);
 
-  // Build neighbor lookup
-  const neighborMap = new Map();
-  data.nodes.forEach(n => neighborMap.set(n.id, new Set()));
-  data.links.forEach(l => {
-    const s = typeof l.source === "object" ? l.source.id : l.source;
-    const t = typeof l.target === "object" ? l.target.id : l.target;
-    if (neighborMap.has(s)) neighborMap.get(s).add(t);
-    if (neighborMap.has(t)) neighborMap.get(t).add(s);
-  });
-  graphData._neighborMap = neighborMap;
-
-  // Build incoming/outgoing lookup for detail panel
-  const inMap = new Map();
-  const outMap = new Map();
-  data.nodes.forEach(n => { inMap.set(n.id, []); outMap.set(n.id, []); });
-  data.links.forEach(l => {
-    const s = typeof l.source === "object" ? l.source.id : l.source;
-    const t = typeof l.target === "object" ? l.target.id : l.target;
-    if (outMap.has(s)) outMap.get(s).push(t);
-    if (inMap.has(t)) inMap.get(t).push(s);
-  });
-  graphData._inMap = inMap;
-  graphData._outMap = outMap;
-
-  drawSimulation(data);
-}
-
-function drawSimulation(data) {
-  // Clear previous
-  linkGroup.selectAll("*").remove();
-  nodeGroup.selectAll("*").remove();
-  labelGroup.selectAll("*").remove();
-
-  // Filter if needed
-  let nodes = data.nodes.slice();
-  let links = data.links.slice();
-
-  if (filterIsolated) {
-    const connected = new Set();
-    links.forEach(l => {
-      connected.add(typeof l.source === "object" ? l.source.id : l.source);
-      connected.add(typeof l.target === "object" ? l.target.id : l.target);
-    });
-    nodes = nodes.filter(n => connected.has(n.id));
+    state.fg.controls().enableDamping = true;
+    state.fg.controls().dampingFactor = 0.08;
   }
 
-  if (activeFilter) {
-    nodes = nodes.filter(n => n.sector === activeFilter);
-    const nodeIds = new Set(nodes.map(n => n.id));
-    links = links.filter(l => {
-      const s = typeof l.source === "object" ? l.source.id : l.source;
-      const t = typeof l.target === "object" ? l.target.id : l.target;
-      return nodeIds.has(s) && nodeIds.has(t);
-    });
-  }
-
-  // Build D3 simulation
-  simulation = d3.forceSimulation(nodes)
-    .force("link", d3.forceLink(links).id(d => d.id)
-      .distance(CONFIG.simulation.linkDistance)
-      .strength(CONFIG.simulation.linkStrength))
-    .force("charge", d3.forceManyBody().strength(d => {
-      const r = getNodeRadius(d);
-      return CONFIG.simulation.chargeStrength * (r / CONFIG.node.minRadius);
-    }))
-    .force("center", d3.forceCenter(width / 2, height / 2))
-    .force("collide", d3.forceCollide().radius(d => getNodeRadius(d) + 4).iterations(2))
-    .alphaDecay(CONFIG.simulation.alphaDecay);
-
-  // Draw links
-  linkSel = linkGroup.selectAll(".link")
-    .data(links)
-    .join("line")
-    .attr("class", "link")
-    .attr("marker-end", "url(#arrow)")
-    .attr("stroke-width", d => Math.min(3, 0.5 + (d.citation_count || 1) / 15));
-
-  // Draw nodes
-  nodeSel = nodeGroup.selectAll(".node")
-    .data(nodes, d => d.id)
-    .join("g")
-    .attr("class", "node")
-    .call(d3.drag()
-      .on("start", dragStarted)
-      .on("drag", dragged)
-      .on("end", dragEnded))
-    .on("click", (event, d) => {
-      event.stopPropagation();
-      selectNode(d);
-    })
-    .on("mouseenter", (event, d) => showTooltip(event, d))
-    .on("mousemove", (event) => moveTooltip(event))
-    .on("mouseleave", hideTooltip);
-
-  nodeSel.append("circle")
-    .attr("r", d => getNodeRadius(d))
-    .attr("fill", d => getNodeColor(d))
-    .attr("stroke", d => d3.color(getNodeColor(d)).darker(0.5))
-    .attr("stroke-width", 1.5);
-
-  // Draw labels
-  labelSel = labelGroup.selectAll(".node-label")
-    .data(nodes.filter(d => getNodeRadius(d) > 8), d => d.id)
-    .join("text")
-    .attr("class", d => `node-label${showLabels ? "" : " hidden-label"}`)
-    .text(d => d.short || d.name.substring(0, 12));
-
-  // Click on background to deselect
-  svg.on("click", () => {
-    if (selectedNode) {
-      selectedNode = null;
-      resetHighlight();
-      closeDetailPanel();
-    }
-  });
-
-  // Simulation tick
-  simulation.on("tick", () => {
-    linkSel
-      .attr("x1", d => d.source.x)
-      .attr("y1", d => d.source.y)
-      .attr("x2", d => clampedTarget(d).x)
-      .attr("y2", d => clampedTarget(d).y);
-
-    nodeSel.attr("transform", d => `translate(${d.x},${d.y})`);
-
-    labelSel
-      .attr("x", d => d.x)
-      .attr("y", d => d.y + getNodeRadius(d) + 10);
-  });
-
-  // After graph settles, fit it
-  simulation.on("end", () => {
-    setTimeout(fitGraph, 100);
-  });
+  state.fg.graphData(data);
+  refreshColors();
 }
 
-// Pull arrow endpoint back to node edge
-function clampedTarget(d) {
-  const r = getNodeRadius(d.target) + 6;
-  const dx = d.target.x - d.source.x;
-  const dy = d.target.y - d.source.y;
-  const dist = Math.sqrt(dx * dx + dy * dy) || 1;
-  return {
-    x: d.target.x - (dx / dist) * r,
-    y: d.target.y - (dy / dist) * r,
+function rebuildAndRender() {
+  const view = computeViewGraph();
+  if (view) renderGraph(view);
+}
+
+function handleNodeHover(node) {
+  if (!node) {
+    el.tooltip.classList.add("hidden");
+    return;
+  }
+
+  const law = node.law_name || node.law_id || "Ley desconocida";
+  const article = node.article || "?";
+  const inDeg = node.in_degree ?? 0;
+  const outDeg = node.out_degree ?? 0;
+  el.tooltip.innerHTML = `
+    <strong>${law}</strong><br/>
+    ${state.showArticleInTooltip ? `Artículo: <b>${article}</b><br/>` : ""}
+    Citado por: <b>${inDeg}</b> · Cita a: <b>${outDeg}</b>
+  `;
+  el.tooltip.classList.remove("hidden");
+
+  window.onmousemove = (ev) => {
+    el.tooltip.style.left = `${ev.clientX + 12}px`;
+    el.tooltip.style.top = `${ev.clientY + 12}px`;
   };
 }
 
-// ============================================================
-// Drag
-// ============================================================
-
-function dragStarted(event, d) {
-  if (!event.active) simulation.alphaTarget(0.2).restart();
-  d.fx = d.x;
-  d.fy = d.y;
+function handleNodeClick(node) {
+  state.selectedNode = node;
+  if (!state.fg) return;
+  const dist = 65;
+  const ratio = 1 + dist / Math.hypot(node.x || 1, node.y || 1, node.z || 1);
+  state.fg.cameraPosition(
+    { x: (node.x || 0) * ratio, y: (node.y || 0) * ratio, z: (node.z || 0) * ratio },
+    node,
+    900
+  );
+  refreshColors();
 }
 
-function dragged(event, d) {
-  d.fx = event.x;
-  d.fy = event.y;
+function refreshColors() {
+  if (!state.fg || !state.viewGraph) return;
+  const selectedId = state.selectedNode?.id;
+  const neighbors = selectedId ? buildNeighborSet(selectedId) : null;
+
+  state.fg
+    .nodeColor((node) => {
+      const base = getNodeColor(node);
+      if (!neighbors) return base;
+      return neighbors.has(node.id) ? base : "rgba(183, 197, 214, 0.24)";
+    })
+    .linkColor((link) => {
+      if (!state.showLinks) return "rgba(0,0,0,0)";
+      if (!neighbors) return CONFIG.neutralLink;
+      const sid = typeof link.source === "object" ? link.source.id : link.source;
+      const tid = typeof link.target === "object" ? link.target.id : link.target;
+      return (sid === selectedId || tid === selectedId) ? "rgba(31,122,236,0.85)" : "rgba(190,205,224,0.08)";
+    });
 }
 
-function dragEnded(event, d) {
-  if (!event.active) simulation.alphaTarget(0);
-  d.fx = null;
-  d.fy = null;
-}
-
-// ============================================================
-// Node selection and highlighting
-// ============================================================
-
-function selectNode(d) {
-  selectedNode = d;
-  highlightNeighborhood(d);
-  showDetailPanel(d);
-}
-
-function highlightNeighborhood(d) {
-  const neighbors = graphData._neighborMap.get(d.id) || new Set();
-
-  nodeSel.classed("faded", n => n.id !== d.id && !neighbors.has(n.id));
-  nodeSel.classed("selected", n => n.id === d.id);
-
-  linkSel.classed("highlighted", l => {
+function buildNeighborSet(id) {
+  const set = new Set([id]);
+  for (const l of state.viewGraph.links) {
     const s = typeof l.source === "object" ? l.source.id : l.source;
     const t = typeof l.target === "object" ? l.target.id : l.target;
-    return s === d.id || t === d.id;
-  });
-  linkSel.classed("faded", l => {
-    const s = typeof l.source === "object" ? l.source.id : l.source;
-    const t = typeof l.target === "object" ? l.target.id : l.target;
-    return s !== d.id && t !== d.id;
-  });
-}
-
-function resetHighlight() {
-  nodeSel.classed("faded selected", false);
-  linkSel.classed("highlighted faded", false);
-}
-
-// ============================================================
-// Detail panel
-// ============================================================
-
-function showDetailPanel(d) {
-  const panel = document.getElementById("detail-panel");
-  panel.classList.remove("hidden");
-
-  document.getElementById("detail-short").textContent = d.short || "";
-  document.getElementById("detail-name").textContent = d.name;
-  document.getElementById("detail-sector").textContent = d.sector || "";
-
-  document.getElementById("d-pagerank").textContent = d.pagerank ? d.pagerank.toFixed(4) : "—";
-  document.getElementById("d-indegree").textContent = d.in_degree ?? "—";
-  document.getElementById("d-outdegree").textContent = d.out_degree ?? "—";
-  document.getElementById("d-cascade").textContent = d.cascade_score ?? "—";
-
-  // Populate source/target lists
-  const nodeById = new Map(graphData.nodes.map(n => [n.id, n]));
-  const sources = (graphData._inMap.get(d.id) || []).slice(0, 20);
-  const targets = (graphData._outMap.get(d.id) || []).slice(0, 20);
-
-  renderLawList("detail-sources", sources, nodeById);
-  renderLawList("detail-targets", targets, nodeById);
-
-  // URL
-  const urlEl = document.getElementById("detail-url");
-  if (d.url) {
-    urlEl.href = d.url;
-    urlEl.style.display = "inline-block";
-  } else {
-    urlEl.style.display = "none";
+    if (s === id) set.add(t);
+    if (t === id) set.add(s);
   }
+  return set;
 }
 
-function renderLawList(listId, ids, nodeById) {
-  const ul = document.getElementById(listId);
-  ul.innerHTML = "";
-  if (!ids.length) {
-    ul.innerHTML = '<li style="color:var(--text-muted);font-size:11px">Ninguna</li>';
+function fillLawSelector(catalog) {
+  const fragA = document.createDocumentFragment();
+  const fragB = document.createDocumentFragment();
+  catalog.forEach((law) => {
+    const text = `${law.short || law.id} · ${law.name}`;
+    const optA = document.createElement("option");
+    optA.value = law.id;
+    optA.textContent = text;
+    fragA.appendChild(optA);
+
+    const optB = document.createElement("option");
+    optB.value = law.id;
+    optB.textContent = text;
+    fragB.appendChild(optB);
+  });
+  el.lawSelect.appendChild(fragA);
+  el.focusLawSelect.appendChild(fragB);
+}
+
+function addHighlightLaw() {
+  const lawId = el.lawSelect.value;
+  if (!lawId || state.highlights.has(lawId)) return;
+  if (state.highlights.size >= CONFIG.maxHighlights) {
+    alert(`Límite alcanzado (${CONFIG.maxHighlights} leyes resaltadas).`);
     return;
   }
-  ids.forEach(id => {
-    const n = nodeById.get(id);
+  const color = CONFIG.highlightPalette[state.highlights.size % CONFIG.highlightPalette.length];
+  const label = el.lawSelect.options[el.lawSelect.selectedIndex].textContent;
+  state.highlights.set(lawId, { color, label });
+  renderHighlightList();
+  refreshColors();
+}
+
+function removeHighlightLaw(lawId) {
+  state.highlights.delete(lawId);
+  renderHighlightList();
+  refreshColors();
+}
+
+function renderHighlightList() {
+  el.highlightList.innerHTML = "";
+  state.highlights.forEach((v, lawId) => {
     const li = document.createElement("li");
     li.innerHTML = `
-      <span class="law-short">${(n && n.short) || ""}</span>
-      <span>${(n && n.name) || id}</span>
+      <div class="highlight-item-left">
+        <span class="swatch" style="background:${v.color}"></span>
+        <span title="${v.label}">${v.label}</span>
+      </div>
+      <button data-id="${lawId}">Quitar</button>
     `;
-    li.addEventListener("click", () => {
-      if (n) {
-        const nodeData = graphData.nodes.find(nd => nd.id === n.id);
-        if (nodeData) selectNode(nodeData);
-      }
-    });
-    ul.appendChild(li);
+    li.querySelector("button").addEventListener("click", () => removeHighlightLaw(lawId));
+    el.highlightList.appendChild(li);
   });
 }
 
-function closeDetailPanel() {
-  document.getElementById("detail-panel").classList.add("hidden");
-}
-
-document.getElementById("close-panel").addEventListener("click", () => {
-  closeDetailPanel();
-  resetHighlight();
-  selectedNode = null;
-});
-
-// ============================================================
-// Tooltip
-// ============================================================
-
-function showTooltip(event, d) {
-  const tt = document.getElementById("tooltip");
-  tt.classList.remove("hidden");
-  tt.innerHTML = `
-    <div class="tt-name">${d.short ? `<strong>${d.short}</strong> — ` : ""}${d.name}</div>
-    <div class="tt-row">Sector: <span>${d.sector || "—"}</span></div>
-    <div class="tt-row">Citada por: <span>${d.in_degree ?? 0}</span> leyes</div>
-    <div class="tt-row">Cita a: <span>${d.out_degree ?? 0}</span> leyes</div>
-    <div class="tt-row">PageRank: <span>${d.pagerank ? d.pagerank.toFixed(4) : "—"}</span></div>
-    <div class="tt-row">Impacto cascada: <span>${d.cascade_score ?? "—"}</span></div>
-  `;
-  moveTooltip(event);
-}
-
-function moveTooltip(event) {
-  const tt = document.getElementById("tooltip");
-  const margin = 16;
-  let x = event.clientX + margin;
-  let y = event.clientY + margin;
-  if (x + 280 > window.innerWidth) x = event.clientX - 280 - margin;
-  if (y + 150 > window.innerHeight) y = event.clientY - 150 - margin;
-  tt.style.left = `${x}px`;
-  tt.style.top = `${y}px`;
-}
-
-function hideTooltip() {
-  document.getElementById("tooltip").classList.add("hidden");
-}
-
-// ============================================================
-// Controls
-// ============================================================
-
-// Search
-const searchInput = document.getElementById("search-input");
-const searchResults = document.getElementById("search-results");
-
-searchInput.addEventListener("input", () => {
-  const q = searchInput.value.trim().toLowerCase();
-  searchResults.innerHTML = "";
-
-  if (!q || !graphData) {
-    searchResults.classList.add("hidden");
-    return;
-  }
-
-  const matches = graphData.nodes
-    .filter(n =>
-      n.name.toLowerCase().includes(q) ||
-      (n.short && n.short.toLowerCase().includes(q)) ||
-      n.id.includes(q)
-    )
-    .slice(0, 8);
-
-  if (!matches.length) {
-    searchResults.classList.add("hidden");
-    return;
-  }
-
-  matches.forEach(n => {
-    const item = document.createElement("div");
-    item.className = "dropdown-item";
-    item.innerHTML = `<span class="item-short">${n.short || ""}</span>${n.name}`;
-    item.addEventListener("click", () => {
-      searchInput.value = n.name;
-      searchResults.classList.add("hidden");
-      focusNode(n);
+function setupSearch() {
+  el.searchInput.addEventListener("input", () => {
+    const q = el.searchInput.value.trim().toLowerCase();
+    el.searchResults.innerHTML = "";
+    if (!q || !state.viewGraph) {
+      el.searchResults.classList.add("hidden");
+      return;
+    }
+    const matches = state.viewGraph.nodes
+      .filter(n => (n.law_name || "").toLowerCase().includes(q) || (n.article || "").toLowerCase().includes(q) || n.id.toLowerCase().includes(q))
+      .slice(0, 8);
+    matches.forEach((n) => {
+      const row = document.createElement("div");
+      row.textContent = `${n.law_id}::${n.article} · ${(n.law_name || "").slice(0, 72)}`;
+      row.addEventListener("click", () => {
+        handleNodeClick(n);
+        el.searchResults.classList.add("hidden");
+        el.searchInput.value = `${n.law_id}::${n.article}`;
+      });
+      el.searchResults.appendChild(row);
     });
-    searchResults.appendChild(item);
+    el.searchResults.classList.toggle("hidden", matches.length === 0);
   });
-
-  searchResults.classList.remove("hidden");
-});
-
-document.addEventListener("click", (e) => {
-  if (!searchInput.contains(e.target)) {
-    searchResults.classList.add("hidden");
-  }
-});
-
-function focusNode(d) {
-  selectNode(d);
-
-  // Pan to node
-  if (d.x != null && d.y != null) {
-    const transform = d3.zoomTransform(svg.node());
-    const newX = width / 2 - transform.k * d.x;
-    const newY = height / 2 - transform.k * d.y;
-    svg.transition().duration(600)
-      .call(svg._zoom.transform, d3.zoomIdentity.translate(newX, newY).scale(transform.k));
-  }
 }
 
-// Sector filter
-document.getElementById("sector-filter").addEventListener("change", (e) => {
-  activeFilter = e.target.value;
-  if (graphData) drawSimulation(graphData);
-});
-
-// Metric select
-document.getElementById("metric-select").addEventListener("change", (e) => {
-  sizeMetric = e.target.value;
-  if (nodeSel) {
-    nodeSel.select("circle")
-      .transition().duration(300)
-      .attr("r", d => getNodeRadius(d));
-  }
-});
-
-// Color mode
-document.getElementById("color-select").addEventListener("change", (e) => {
-  colorMode = e.target.value;
-  if (nodeSel) {
-    nodeSel.select("circle")
-      .transition().duration(300)
-      .attr("fill", d => getNodeColor(d))
-      .attr("stroke", d => d3.color(getNodeColor(d)).darker(0.5));
-  }
-});
-
-// Show labels toggle
-document.getElementById("show-labels").addEventListener("change", (e) => {
-  showLabels = e.target.checked;
-  if (labelSel) {
-    labelSel.classed("hidden-label", !showLabels);
-  }
-});
-
-// Filter isolated
-document.getElementById("filter-isolated").addEventListener("change", (e) => {
-  filterIsolated = e.target.checked;
-  if (graphData) drawSimulation(graphData);
-});
-
-// ============================================================
-// Diagnostics panel
-// ============================================================
-
-document.getElementById("diagnostics-toggle").addEventListener("click", () => {
-  const panel = document.getElementById("diagnostics-panel");
-  panel.classList.toggle("hidden");
-  if (!panel.classList.contains("hidden")) {
-    loadDiagnostics();
-  }
-});
-
-document.getElementById("close-diagnostics").addEventListener("click", () => {
-  document.getElementById("diagnostics-panel").classList.add("hidden");
-});
-
-async function loadDiagnostics() {
-  const content = document.getElementById("diagnostics-content");
-
+async function loadRealData() {
   try {
-    const res = await fetch(CONFIG.diagnosticsPath);
-    if (!res.ok) throw new Error("not found");
-    const data = await res.json();
-    renderDiagnostics(data);
-  } catch {
-    content.innerHTML = `
-      <p class="loading-text">
-        Los diagnósticos no están disponibles aún.<br/>
-        Ejecuta <code>python scripts/07_diagnostics.py</code>
-      </p>`;
-  }
-}
-
-function renderDiagnostics(data) {
-  const content = document.getElementById("diagnostics-content");
-  const esc = s => String(s).replace(/</g, "&lt;");
-
-  const sections = [];
-
-  // Hub laws
-  if (data.hub_laws && data.hub_laws.length) {
-    const items = data.hub_laws.slice(0, 8).map(h =>
-      `<li><strong>${esc(h.short || h.law_id)}</strong> — ${esc(h.name.substring(0, 45))}
-       <span class="diag-badge badge-high">PR: ${h.pagerank.toFixed(3)}</span></li>`
-    ).join("");
-    sections.push(`
-      <div class="diag-section">
-        <h4>Leyes más centrales <span class="diag-count">${data.hub_laws.length}</span></h4>
-        <ul class="diag-list">${items}</ul>
-      </div>`);
-  }
-
-  // Orphan references
-  if (data.orphan_references && data.orphan_references.length) {
-    const items = data.orphan_references.slice(0, 6).map(o =>
-      `<li><strong>${esc(o.source_name.substring(0, 35))}</strong> →
-       <code>${esc(o.target_law_id)}</code>
-       <span class="diag-badge badge-med">${esc(o.type)}</span></li>`
-    ).join("");
-    sections.push(`
-      <div class="diag-section">
-        <h4>Referencias huérfanas <span class="diag-count">${data.orphan_references.length}</span></h4>
-        <ul class="diag-list">${items}</ul>
-      </div>`);
-  }
-
-  // Circular dependencies
-  if (data.circular_dependencies && data.circular_dependencies.length) {
-    const items = data.circular_dependencies.slice(0, 6).map(c =>
-      `<li>${c.law_ids.join(" → ")} <span class="diag-badge badge-low">ciclo ${c.length}</span></li>`
-    ).join("");
-    sections.push(`
-      <div class="diag-section">
-        <h4>Dependencias circulares <span class="diag-count">${data.circular_dependencies.length}</span></h4>
-        <ul class="diag-list">${items}</ul>
-      </div>`);
-  }
-
-  // Definition conflicts
-  if (data.definition_conflicts && data.definition_conflicts.length) {
-    const items = data.definition_conflicts.slice(0, 6).map(c =>
-      `<li><strong>"${esc(c.term)}"</strong> — definida en ${c.num_laws} leyes</li>`
-    ).join("");
-    sections.push(`
-      <div class="diag-section">
-        <h4>Conflictos de definición <span class="diag-count">${data.definition_conflicts.length}</span></h4>
-        <ul class="diag-list">${items}</ul>
-      </div>`);
-  }
-
-  content.innerHTML = sections.join("") || '<p class="loading-text">No hay datos de diagnóstico.</p>';
-}
-
-// ============================================================
-// Data loading
-// ============================================================
-
-async function loadGraphData() {
-  try {
-    const res = await fetch(CONFIG.graphDataPath);
+    const res = await fetch(CONFIG.articleGraphPath);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
-
-    if (!data.nodes || !data.nodes.length) throw new Error("empty graph");
-
-    hideOverlay();
-    renderGraph(data);
-  } catch (err) {
-    console.warn("Could not load graph.json:", err.message);
-    showEmptyState();
+    if (!data?.nodes?.length) throw new Error("empty graph");
+    state.fullGraph = data;
+    fillLawSelector(data.law_catalog || []);
+    el.loading.classList.add("hidden");
+    rebuildAndRender();
+  } catch {
+    el.loading.classList.add("hidden");
+    el.empty.classList.remove("hidden");
   }
 }
 
-function hideOverlay() {
-  document.getElementById("loading-overlay").style.display = "none";
-  document.getElementById("empty-state").classList.add("hidden");
+function demoData() {
+  const laws = [
+    ["constitucion-politica", "Constitución", "CPEUM"],
+    ["codigo-fiscal-federacion", "Código Fiscal de la Federación", "CFF"],
+    ["ley-federal-del-trabajo", "Ley Federal del Trabajo", "LFT"],
+    ["ley-del-seguro-social", "Ley del Seguro Social", "LSS"],
+    ["ley-general-salud", "Ley General de Salud", "LGS"],
+  ];
+  const nodes = [];
+  const links = [];
+  laws.forEach(([id, name, short], li) => {
+    for (let a = 1; a <= 120; a++) {
+      nodes.push({ id: `${id}::${a}`, law_id: id, law_name: name, law_short: short, article: String(a), weight: 1 + (a % 5) });
+      if (a > 1) links.push({ source: `${id}::${a}`, target: `${id}::${a - 1}`, weight: 1 });
+      if (li > 0 && a % 5 === 0) links.push({ source: `${id}::${a}`, target: `constitucion-politica::${(a % 60) + 1}`, weight: 2 });
+    }
+  });
+  return {
+    nodes,
+    links,
+    law_catalog: laws.map(([id, name, short]) => ({ id, name, short })),
+    meta: { laws_count: laws.length },
+  };
 }
 
-function showEmptyState() {
-  document.getElementById("loading-overlay").style.display = "none";
-  document.getElementById("empty-state").classList.remove("hidden");
+function bindUI() {
+  el.addHighlight.addEventListener("click", addHighlightLaw);
+  el.resetCamera.addEventListener("click", () => {
+    if (state.fg) state.fg.cameraPosition({ x: 0, y: 0, z: 180 }, { x: 0, y: 0, z: 0 }, 600);
+  });
+  el.focusSelection.addEventListener("click", () => {
+    if (state.selectedNode) handleNodeClick(state.selectedNode);
+  });
+  el.toggleLinks.addEventListener("change", (e) => {
+    state.showLinks = e.target.checked;
+    refreshColors();
+  });
+  el.toggleArticles.addEventListener("change", (e) => {
+    state.showArticleInTooltip = e.target.checked;
+  });
+
+  el.maxNodesRange.addEventListener("input", (e) => {
+    state.maxNodes = Number(e.target.value);
+    el.maxNodesLabel.textContent = String(state.maxNodes);
+  });
+  el.edgeWeightRange.addEventListener("input", (e) => {
+    state.minEdgeWeight = Number(e.target.value);
+    el.edgeWeightLabel.textContent = String(state.minEdgeWeight);
+  });
+  el.focusLawSelect.addEventListener("change", (e) => {
+    state.focusLaw = e.target.value;
+  });
+  el.applyPerformance.addEventListener("click", rebuildAndRender);
+
+  el.loadDemo.addEventListener("click", () => {
+    el.empty.classList.add("hidden");
+    state.fullGraph = demoData();
+    fillLawSelector(state.fullGraph.law_catalog || []);
+    rebuildAndRender();
+  });
 }
-
-document.getElementById("btn-load-demo").addEventListener("click", () => {
-  document.getElementById("empty-state").classList.add("hidden");
-  renderGraph(DEMO_DATA);
-});
-
-// ============================================================
-// Bootstrap
-// ============================================================
 
 document.addEventListener("DOMContentLoaded", () => {
-  initSVG();
-  loadGraphData();
+  bindUI();
+  setupSearch();
+  loadRealData();
 });

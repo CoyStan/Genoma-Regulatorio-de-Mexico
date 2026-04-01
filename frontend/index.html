@@ -3,225 +3,87 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Genoma Regulatorio de México</title>
-  <meta name="description" content="Red de citación interactiva del corpus jurídico federal mexicano. Cada ley es un nodo. Cada referencia cruzada, una arista." />
+  <title>Genoma Regulatorio 3D · Artículos</title>
+  <meta name="description" content="Visualizador 3D de citaciones jurídicas a nivel artículo." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-
-  <!-- Header -->
-  <header id="app-header">
-    <div class="header-content">
-      <div class="header-title">
-        <h1>Genoma Regulatorio <span class="flag">🇲🇽</span></h1>
-        <p class="subtitle">Red de citación del corpus jurídico federal mexicano</p>
-      </div>
-      <div class="header-stats" id="header-stats">
-        <div class="stat">
-          <span class="stat-value" id="stat-nodes">—</span>
-          <span class="stat-label">Leyes</span>
-        </div>
-        <div class="stat">
-          <span class="stat-value" id="stat-edges">—</span>
-          <span class="stat-label">Referencias</span>
-        </div>
-        <div class="stat">
-          <span class="stat-value" id="stat-communities">—</span>
-          <span class="stat-label">Comunidades</span>
-        </div>
-      </div>
+  <header class="app-header">
+    <div>
+      <h1>Genoma Regulatorio 3D <span>🇲🇽</span></h1>
+      <p>Red de citaciones a nivel artículo</p>
+    </div>
+    <div class="stats">
+      <div><strong id="stat-nodes">—</strong><span>Artículos</span></div>
+      <div><strong id="stat-edges">—</strong><span>Citas</span></div>
+      <div><strong id="stat-laws">—</strong><span>Leyes</span></div>
     </div>
   </header>
 
-  <!-- Controls -->
-  <div id="controls">
-    <div class="control-group">
-      <label for="search-input">Buscar ley</label>
-      <input
-        type="text"
-        id="search-input"
-        placeholder="Ej: Ley Federal del Trabajo, LFT..."
-        autocomplete="off"
-      />
-      <div id="search-results" class="dropdown hidden"></div>
-    </div>
+  <aside class="left-panel">
+    <section>
+      <label for="search-input">Buscar artículo o ley</label>
+      <input id="search-input" type="text" placeholder="Ej. CFF::14, Ley Federal..." />
+      <div id="search-results" class="search-results hidden"></div>
+    </section>
 
-    <div class="control-group">
-      <label for="sector-filter">Filtrar por sector</label>
-      <select id="sector-filter">
-        <option value="">Todos los sectores</option>
-      </select>
-    </div>
+    <section>
+      <h2>Optimización</h2>
+      <label for="max-nodes-range">Artículos visibles: <strong id="max-nodes-label">2500</strong></label>
+      <input id="max-nodes-range" type="range" min="800" max="5000" step="100" value="2500" />
 
-    <div class="control-group">
-      <label for="metric-select">Tamaño del nodo</label>
-      <select id="metric-select">
-        <option value="pagerank">PageRank</option>
-        <option value="in_degree">Grado de entrada (citaciones recibidas)</option>
-        <option value="out_degree">Grado de salida (citaciones emitidas)</option>
-        <option value="betweenness">Centralidad de intermediación</option>
-        <option value="cascade_score">Impacto en cascada</option>
-      </select>
-    </div>
+      <label for="edge-weight-range">Peso mínimo de enlace: <strong id="edge-weight-label">1</strong></label>
+      <input id="edge-weight-range" type="range" min="1" max="8" step="1" value="1" />
 
-    <div class="control-group">
-      <label for="color-select">Color del nodo</label>
-      <select id="color-select">
-        <option value="community">Comunidad detectada</option>
-        <option value="sector">Sector jurídico</option>
-        <option value="pagerank">PageRank (calor)</option>
-      </select>
-    </div>
+      <label for="focus-law-select">Modo enfoque por ley</label>
+      <select id="focus-law-select"><option value="">Sin enfoque (todas)</option></select>
+      <button id="apply-performance">Aplicar filtros</button>
+    </section>
 
-    <div class="control-group">
-      <label>
-        <input type="checkbox" id="show-labels" checked />
-        Mostrar etiquetas
-      </label>
-    </div>
-
-    <div class="control-group">
-      <label>
-        <input type="checkbox" id="filter-isolated" />
-        Ocultar leyes aisladas
-      </label>
-    </div>
-
-    <div class="control-group">
-      <button id="btn-reset-zoom">Restablecer vista</button>
-      <button id="btn-fit">Ajustar todo</button>
-    </div>
-  </div>
-
-  <!-- Main graph canvas -->
-  <main id="graph-container">
-    <svg id="graph-svg">
-      <defs>
-        <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-          <path d="M0,0 L0,6 L8,3 z" fill="#888" opacity="0.6" />
-        </marker>
-        <filter id="glow">
-          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-          <feMerge>
-            <feMergeNode in="coloredBlur"/>
-            <feMergeNode in="SourceGraphic"/>
-          </feMerge>
-        </filter>
-      </defs>
-      <g id="graph-root">
-        <g id="links-layer"></g>
-        <g id="nodes-layer"></g>
-        <g id="labels-layer"></g>
-      </g>
-    </svg>
-
-    <!-- Loading overlay -->
-    <div id="loading-overlay">
-      <div class="loading-content">
-        <div class="spinner"></div>
-        <p>Cargando red jurídica...</p>
+    <section>
+      <h2>Resaltado por ley</h2>
+      <p class="hint">Selecciona hasta <strong id="max-laws-label">6</strong> leyes para colorearlas.</p>
+      <div class="row">
+        <label for="law-select" class="sr-only">Ley</label>
+        <select id="law-select"><option value="">Selecciona una ley…</option></select>
       </div>
-    </div>
+      <button id="add-highlight">Agregar resaltado</button>
+      <ul id="highlight-list" class="highlight-list"></ul>
+    </section>
 
-    <!-- Empty state (no data) -->
-    <div id="empty-state" class="hidden">
-      <div class="empty-content">
-        <p class="empty-icon">⚖️</p>
-        <h2>Red no disponible</h2>
-        <p>
-          El archivo de grafo (<code>data/graph/graph.json</code>) aún no ha sido generado.<br/>
-          Ejecuta el pipeline de datos primero:
-        </p>
-        <pre>python scripts/01_scrape.py
-python scripts/02_parse.py
-python scripts/03_extract_citations.py
-python scripts/04_resolve_entities.py
-python scripts/06_build_graph.py</pre>
-        <p>O explora la <strong>red de demostración</strong> con datos de muestra:</p>
-        <button id="btn-load-demo">Cargar demostración</button>
-      </div>
+    <section>
+      <h2>Vista</h2>
+      <label><input id="toggle-links" type="checkbox" checked /> Mostrar enlaces</label>
+      <label><input id="toggle-articles" type="checkbox" checked /> Mostrar texto de artículo en tooltip</label>
+      <button id="reset-camera">Restablecer cámara</button>
+      <button id="focus-selection">Enfocar selección</button>
+    </section>
+
+    <section class="legend">
+      <h2>Interacción</h2>
+      <ul>
+        <li>🖱️ Arrastra para rotar</li>
+        <li>🔍 Rueda para zoom</li>
+        <li>🎯 Click en nodo para fijar selección</li>
+        <li>✨ Hover para ver ley y artículo</li>
+      </ul>
+    </section>
+  </aside>
+
+  <main id="graph-wrap">
+    <div id="graph-3d"></div>
+    <div id="loading" class="overlay">Cargando red 3D…</div>
+    <div id="empty" class="overlay hidden">
+      <p>No se encontró <code>data/graph/article_graph.json</code>.</p>
+      <p>Corre: <code>python scripts/10_build_article_graph.py</code></p>
+      <button id="load-demo">Cargar demo</button>
     </div>
   </main>
 
-  <!-- Side panel: node detail -->
-  <aside id="detail-panel" class="hidden">
-    <button id="close-panel" aria-label="Cerrar">✕</button>
-    <div id="detail-content">
-      <div class="detail-header">
-        <span class="detail-short" id="detail-short"></span>
-        <h2 id="detail-name"></h2>
-        <span class="detail-sector" id="detail-sector"></span>
-      </div>
+  <div id="tooltip" class="tooltip hidden"></div>
 
-      <div class="detail-metrics">
-        <div class="metric-card">
-          <span class="metric-value" id="d-pagerank">—</span>
-          <span class="metric-label">PageRank</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" id="d-indegree">—</span>
-          <span class="metric-label">Citada por</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" id="d-outdegree">—</span>
-          <span class="metric-label">Cita a</span>
-        </div>
-        <div class="metric-card">
-          <span class="metric-value" id="d-cascade">—</span>
-          <span class="metric-label">Impacto cascada</span>
-        </div>
-      </div>
-
-      <div class="detail-section">
-        <h3>Leyes que citan a esta ley</h3>
-        <ul id="detail-sources" class="law-list"></ul>
-      </div>
-
-      <div class="detail-section">
-        <h3>Leyes citadas por esta ley</h3>
-        <ul id="detail-targets" class="law-list"></ul>
-      </div>
-
-      <div class="detail-links">
-        <a id="detail-url" href="#" target="_blank" rel="noopener">
-          Ver texto completo →
-        </a>
-      </div>
-    </div>
-  </aside>
-
-  <!-- Diagnostics panel (toggle) -->
-  <div id="diagnostics-toggle" title="Ver diagnósticos">⚠️ Diagnósticos</div>
-  <aside id="diagnostics-panel" class="hidden">
-    <div class="diagnostics-header">
-      <h3>Diagnósticos estructurales</h3>
-      <button id="close-diagnostics">✕</button>
-    </div>
-    <div id="diagnostics-content">
-      <p class="loading-text">Cargando diagnósticos...</p>
-    </div>
-  </aside>
-
-  <!-- Tooltip -->
-  <div id="tooltip" class="hidden"></div>
-
-  <!-- Footer -->
-  <footer id="app-footer">
-    <p>
-      Datos: <a href="https://www.diputados.gob.mx/LeyesBiblio/" target="_blank" rel="noopener">Cámara de Diputados — Leyes Federales</a>
-      · Código: <a href="https://github.com/quetzali-rg/genoma-regulatorio-mx" target="_blank" rel="noopener">GitHub</a>
-      · Licencia: MIT
-    </p>
-    <p class="disclaimer">
-      Este proyecto es un ejercicio de análisis estructural del marco jurídico mexicano.
-      No constituye asesoría legal.
-    </p>
-  </footer>
-
-  <!-- D3.js v7 -->
-  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
-  <!-- Graph visualization -->
+  <script src="https://unpkg.com/three@0.164.1/build/three.min.js"></script>
+  <script src="https://unpkg.com/3d-force-graph@1.77.0/dist/3d-force-graph.min.js"></script>
   <script src="graph.js"></script>
-
 </body>
 </html>
