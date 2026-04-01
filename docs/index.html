@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Genoma Regulatorio de México</title>
+  <meta name="description" content="Red de citación interactiva del corpus jurídico federal mexicano. Cada ley es un nodo. Cada referencia cruzada, una arista." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header id="app-header">
+    <div class="header-content">
+      <div class="header-title">
+        <h1>Genoma Regulatorio <span class="flag">🇲🇽</span></h1>
+        <p class="subtitle">Red de citación del corpus jurídico federal mexicano</p>
+      </div>
+      <div class="header-stats" id="header-stats">
+        <div class="stat">
+          <span class="stat-value" id="stat-nodes">—</span>
+          <span class="stat-label">Leyes</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="stat-edges">—</span>
+          <span class="stat-label">Referencias</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="stat-communities">—</span>
+          <span class="stat-label">Comunidades</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Controls -->
+  <div id="controls">
+    <div class="control-group">
+      <label for="search-input">Buscar ley</label>
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Ej: Ley Federal del Trabajo, LFT..."
+        autocomplete="off"
+      />
+      <div id="search-results" class="dropdown hidden"></div>
+    </div>
+
+    <div class="control-group">
+      <label for="sector-filter">Filtrar por sector</label>
+      <select id="sector-filter">
+        <option value="">Todos los sectores</option>
+      </select>
+    </div>
+
+    <div class="control-group">
+      <label for="metric-select">Tamaño del nodo</label>
+      <select id="metric-select">
+        <option value="pagerank">PageRank</option>
+        <option value="in_degree">Grado de entrada (citaciones recibidas)</option>
+        <option value="out_degree">Grado de salida (citaciones emitidas)</option>
+        <option value="betweenness">Centralidad de intermediación</option>
+        <option value="cascade_score">Impacto en cascada</option>
+      </select>
+    </div>
+
+    <div class="control-group">
+      <label for="color-select">Color del nodo</label>
+      <select id="color-select">
+        <option value="community">Comunidad detectada</option>
+        <option value="sector">Sector jurídico</option>
+        <option value="pagerank">PageRank (calor)</option>
+      </select>
+    </div>
+
+    <div class="control-group">
+      <label>
+        <input type="checkbox" id="show-labels" checked />
+        Mostrar etiquetas
+      </label>
+    </div>
+
+    <div class="control-group">
+      <label>
+        <input type="checkbox" id="filter-isolated" />
+        Ocultar leyes aisladas
+      </label>
+    </div>
+
+    <div class="control-group">
+      <button id="btn-reset-zoom">Restablecer vista</button>
+      <button id="btn-fit">Ajustar todo</button>
+    </div>
+  </div>
+
+  <!-- Main graph canvas -->
+  <main id="graph-container">
+    <svg id="graph-svg">
+      <defs>
+        <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+          <path d="M0,0 L0,6 L8,3 z" fill="#888" opacity="0.6" />
+        </marker>
+        <filter id="glow">
+          <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+      <g id="graph-root">
+        <g id="links-layer"></g>
+        <g id="nodes-layer"></g>
+        <g id="labels-layer"></g>
+      </g>
+    </svg>
+
+    <!-- Loading overlay -->
+    <div id="loading-overlay">
+      <div class="loading-content">
+        <div class="spinner"></div>
+        <p>Cargando red jurídica...</p>
+      </div>
+    </div>
+
+    <!-- Empty state (no data) -->
+    <div id="empty-state" class="hidden">
+      <div class="empty-content">
+        <p class="empty-icon">⚖️</p>
+        <h2>Red no disponible</h2>
+        <p>
+          El archivo de grafo (<code>data/graph/graph.json</code>) aún no ha sido generado.<br/>
+          Ejecuta el pipeline de datos primero:
+        </p>
+        <pre>python scripts/01_scrape.py
+python scripts/02_parse.py
+python scripts/03_extract_citations.py
+python scripts/04_resolve_entities.py
+python scripts/06_build_graph.py</pre>
+        <p>O explora la <strong>red de demostración</strong> con datos de muestra:</p>
+        <button id="btn-load-demo">Cargar demostración</button>
+      </div>
+    </div>
+  </main>
+
+  <!-- Side panel: node detail -->
+  <aside id="detail-panel" class="hidden">
+    <button id="close-panel" aria-label="Cerrar">✕</button>
+    <div id="detail-content">
+      <div class="detail-header">
+        <span class="detail-short" id="detail-short"></span>
+        <h2 id="detail-name"></h2>
+        <span class="detail-sector" id="detail-sector"></span>
+      </div>
+
+      <div class="detail-metrics">
+        <div class="metric-card">
+          <span class="metric-value" id="d-pagerank">—</span>
+          <span class="metric-label">PageRank</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" id="d-indegree">—</span>
+          <span class="metric-label">Citada por</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" id="d-outdegree">—</span>
+          <span class="metric-label">Cita a</span>
+        </div>
+        <div class="metric-card">
+          <span class="metric-value" id="d-cascade">—</span>
+          <span class="metric-label">Impacto cascada</span>
+        </div>
+      </div>
+
+      <div class="detail-section">
+        <h3>Leyes que citan a esta ley</h3>
+        <ul id="detail-sources" class="law-list"></ul>
+      </div>
+
+      <div class="detail-section">
+        <h3>Leyes citadas por esta ley</h3>
+        <ul id="detail-targets" class="law-list"></ul>
+      </div>
+
+      <div class="detail-links">
+        <a id="detail-url" href="#" target="_blank" rel="noopener">
+          Ver texto completo →
+        </a>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Diagnostics panel (toggle) -->
+  <div id="diagnostics-toggle" title="Ver diagnósticos">⚠️ Diagnósticos</div>
+  <aside id="diagnostics-panel" class="hidden">
+    <div class="diagnostics-header">
+      <h3>Diagnósticos estructurales</h3>
+      <button id="close-diagnostics">✕</button>
+    </div>
+    <div id="diagnostics-content">
+      <p class="loading-text">Cargando diagnósticos...</p>
+    </div>
+  </aside>
+
+  <!-- Tooltip -->
+  <div id="tooltip" class="hidden"></div>
+
+  <!-- Footer -->
+  <footer id="app-footer">
+    <p>
+      Datos: <a href="https://www.diputados.gob.mx/LeyesBiblio/" target="_blank" rel="noopener">Cámara de Diputados — Leyes Federales</a>
+      · Código: <a href="https://github.com/quetzali-rg/genoma-regulatorio-mx" target="_blank" rel="noopener">GitHub</a>
+      · Licencia: MIT
+    </p>
+    <p class="disclaimer">
+      Este proyecto es un ejercicio de análisis estructural del marco jurídico mexicano.
+      No constituye asesoría legal.
+    </p>
+  </footer>
+
+  <!-- D3.js v7 -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <!-- Graph visualization -->
+  <script src="graph.js"></script>
+
+</body>
+</html>
