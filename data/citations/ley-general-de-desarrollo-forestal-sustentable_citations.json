@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 2267,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -87,23 +87,23 @@
       "confidence": "high",
       "char_offset": 2523,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.625,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
       "source_article": "19",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "irector General quien será designado por el Titular del Poder Ejecutivo Federal, debiendo recaer tal nombramiento en persona que reúna los requisitos previstos en la Ley Federal de las Entidades Paraestatales.  El Director General representará legalmente a la Comisión en el cumplimiento de su objeto, adscribirá las unidades administrativas de la misma, adm",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 197,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-desarrollo-forestal-sustentable",
@@ -204,7 +204,7 @@
       "confidence": "high",
       "char_offset": 272,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.574468085106383,
+      "resolution_score": 0.5656565656565656,
       "resolution_matched_alias": null
     },
     {
@@ -288,7 +288,7 @@
       "confidence": "high",
       "char_offset": 51,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
+      "resolution_score": 0.5405405405405406,
       "resolution_matched_alias": null
     },
     {
@@ -363,7 +363,7 @@
       "confidence": "high",
       "char_offset": 91,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
+      "resolution_score": 0.6060606060606061,
       "resolution_matched_alias": null
     },
     {
@@ -378,7 +378,7 @@
       "confidence": "high",
       "char_offset": 271,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -393,7 +393,7 @@
       "confidence": "high",
       "char_offset": 534,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47368421052631576,
+      "resolution_score": 0.3756906077348066,
       "resolution_matched_alias": null
     },
     {
@@ -408,7 +408,7 @@
       "confidence": "high",
       "char_offset": 275,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -423,7 +423,7 @@
       "confidence": "medium",
       "char_offset": 128,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -585,7 +585,7 @@
       "confidence": "high",
       "char_offset": 1349,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -600,7 +600,7 @@
       "confidence": "high",
       "char_offset": 10958,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
+      "resolution_score": 0.5882352941176471,
       "resolution_matched_alias": null
     },
     {
@@ -646,5 +646,5 @@
       "char_offset": 3817
     }
   ],
-  "resolved_at": "2026-03-31T00:22:00.458181+00:00"
+  "resolved_at": "2026-03-31T00:30:10.875445+00:00"
 }

@@ -94,16 +94,16 @@
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
       "source_article": "9",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "Artículo 9.- En términos de lo dispuesto en el Artículo 14 de la Ley Federal de las Entidades Paraestatales, se constituye el Comité Nacional para el Desarrollo Sustentable de la Caña de Azúcar como un organismo público descentralizado, dependiente de la Ad",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 62,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
@@ -132,7 +132,7 @@
       "confidence": "high",
       "char_offset": 3256,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
@@ -171,7 +171,7 @@
       "confidence": "high",
       "char_offset": 96,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5901639344262295,
+      "resolution_score": 0.5411764705882353,
       "resolution_matched_alias": null
     },
     {
@@ -270,7 +270,7 @@
       "confidence": "high",
       "char_offset": 657,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -391,5 +391,5 @@
       "char_offset": 4099
     }
   ],
-  "resolved_at": "2026-03-31T00:21:41.765019+00:00"
+  "resolved_at": "2026-03-31T00:29:45.650694+00:00"
 }

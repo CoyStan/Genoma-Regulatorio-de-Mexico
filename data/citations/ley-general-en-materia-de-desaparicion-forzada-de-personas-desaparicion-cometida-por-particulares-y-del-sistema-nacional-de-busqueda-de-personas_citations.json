@@ -282,7 +282,7 @@
       "confidence": "high",
       "char_offset": 14246,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7380952380952381,
+      "resolution_score": 0.5542168674698795,
       "resolution_matched_alias": null
     },
     {
@@ -751,16 +751,16 @@
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
       "source_article": "173",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "res y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15113,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
@@ -834,7 +834,7 @@
       "confidence": "medium",
       "char_offset": 31022,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -879,7 +879,7 @@
       "confidence": "medium",
       "char_offset": 32471,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
+      "resolution_score": 0.3769633507853403,
       "resolution_matched_alias": null
     },
     {
@@ -910,5 +910,5 @@
       "char_offset": 14239
     }
   ],
-  "resolved_at": "2026-03-31T00:22:04.823268+00:00"
+  "resolved_at": "2026-03-31T00:30:16.238748+00:00"
 }

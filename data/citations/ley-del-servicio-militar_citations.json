@@ -63,7 +63,7 @@
       "confidence": "medium",
       "char_offset": 49,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.512396694214876,
+      "resolution_score": 0.4672897196261682,
       "resolution_matched_alias": null
     },
     {
@@ -78,7 +78,7 @@
       "confidence": "medium",
       "char_offset": 33,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5833333333333334,
+      "resolution_score": 0.5217391304347826,
       "resolution_matched_alias": null
     },
     {
@@ -250,16 +250,16 @@
       "source_law": "ley-del-servicio-militar",
       "source_article": "2º",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2864,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-servicio-militar",
@@ -280,16 +280,16 @@
       "source_law": "ley-del-servicio-militar",
       "source_article": "2º",
       "target_law_raw": "Ley Federal de Correduría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-correduria-publica",
       "target_article": null,
       "citation_text": "lamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera;",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3077,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de correduría pública"
     },
     {
       "source_law": "ley-del-servicio-militar",
@@ -454,5 +454,5 @@
       "char_offset": 139
     }
   ],
-  "resolved_at": "2026-03-31T00:21:52.995950+00:00"
+  "resolved_at": "2026-03-31T00:29:59.460508+00:00"
 }

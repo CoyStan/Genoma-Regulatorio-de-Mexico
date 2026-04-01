@@ -43,16 +43,16 @@
       "source_law": "ley-general-de-derechos-linguisticos-de-los-pueblos-indigenas",
       "source_article": "16",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": " 1).- La persona titular de la Secretaría de Cultura, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de las Entidades Paraestatales.  2).- Una persona representante de la Secretaría de Hacienda y Crédito Público con el nivel de Subsecretaría.  3).- Una persona representante de la ",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 756,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-derechos-linguisticos-de-los-pueblos-indigenas",
@@ -150,7 +150,7 @@
       "confidence": "medium",
       "char_offset": 19635,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "medium",
       "char_offset": 20927,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
+      "resolution_score": 0.3769633507853403,
       "resolution_matched_alias": null
     },
     {
@@ -196,5 +196,5 @@
       "char_offset": 3721
     }
   ],
-  "resolved_at": "2026-03-31T00:22:00.140123+00:00"
+  "resolved_at": "2026-03-31T00:30:10.480539+00:00"
 }

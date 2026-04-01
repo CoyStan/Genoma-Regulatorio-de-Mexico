@@ -145,16 +145,16 @@
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "7",
       "target_law_raw": "ley federal de la materia",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-del-mar",
       "target_article": null,
       "citation_text": "s caminos, carreteras, puentes y vías férreas que constituyen vías generales de comunicación, con sus servicios auxiliares y demás partes integrantes establecidas en la ley federal de la materia;  XII.- Los inmuebles considerados como monumentos arqueológicos conforme a la ley de la materia;  XIII.- Las plazas, paseos y parques públicos cuya ",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1360,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8636363636363636,
+      "resolution_matched_alias": "ley federal del mar"
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -291,7 +291,7 @@
       "confidence": "medium",
       "char_offset": 320,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5846153846153846,
+      "resolution_score": 0.5098039215686274,
       "resolution_matched_alias": null
     },
     {
@@ -474,7 +474,7 @@
       "confidence": "high",
       "char_offset": 522,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -553,16 +553,16 @@
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "116",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": " así como realizar cualquier acto jurídico sobre inmuebles de su propiedad, sujetándose a las normas y bases que establezcan sus órganos de gobierno, en los términos de la Ley Federal de las Entidades Paraestatales, sin requerir autorización de la Secretaría. Tratándose de la enajenación de inmuebles propiedad de organismos descentralizados, se estará a lo dispu",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 507,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -672,7 +672,7 @@
       "confidence": "high",
       "char_offset": 24002,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.639344262295082,
+      "resolution_score": 0.5955056179775281,
       "resolution_matched_alias": null
     },
     {
@@ -687,7 +687,7 @@
       "confidence": "medium",
       "char_offset": 3248,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.43243243243243246,
+      "resolution_score": 0.35789473684210527,
       "resolution_matched_alias": null
     },
     {
@@ -769,16 +769,16 @@
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "154",
       "target_law_raw": "Ley Federal de Responsabilidad Ambiental y se reforman",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidad-ambiental",
       "target_article": null,
       "citation_text": " Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Alejandro Alfonso Poiré Romero.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvest",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15166,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.851063829787234,
+      "resolution_matched_alias": "ley federal de responsabilidad ambiental"
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -927,7 +927,7 @@
       "confidence": "medium",
       "char_offset": 25294,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -942,7 +942,7 @@
       "confidence": "medium",
       "char_offset": 25482,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -1159,16 +1159,16 @@
       "source_law": "ley-general-de-bienes-nacionales",
       "source_article": "154",
       "target_law_raw": "Ley Federal de Archivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-archivos",
       "target_article": null,
       "citation_text": "iedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26579,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9130434782608695,
+      "resolution_matched_alias": "ley general de archivos"
     },
     {
       "source_law": "ley-general-de-bienes-nacionales",
@@ -1258,5 +1258,5 @@
       "char_offset": 1331
     }
   ],
-  "resolved_at": "2026-03-31T00:21:59.589599+00:00"
+  "resolved_at": "2026-03-31T00:30:09.704814+00:00"
 }

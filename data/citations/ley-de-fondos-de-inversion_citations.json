@@ -610,16 +610,16 @@
       "source_law": "ley-de-fondos-de-inversion",
       "source_article": "55",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "e se refiere el párrafo anterior, deberá formularse en todo caso, dentro del procedimiento de verificación a que se refieren los artículos 41 y 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;  IX.\tLa Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, para ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3024,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-fondos-de-inversion",
@@ -843,7 +843,7 @@
       "confidence": "high",
       "char_offset": 1547,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5411764705882353,
+      "resolution_score": 0.46875,
       "resolution_matched_alias": null
     },
     {
@@ -873,7 +873,7 @@
       "confidence": "high",
       "char_offset": 172,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4900662251655629,
+      "resolution_score": 0.43037974683544306,
       "resolution_matched_alias": null
     },
     {
@@ -1246,5 +1246,5 @@
       "char_offset": 4047
     }
   ],
-  "resolved_at": "2026-03-31T00:21:43.375658+00:00"
+  "resolved_at": "2026-03-31T00:29:47.393310+00:00"
 }

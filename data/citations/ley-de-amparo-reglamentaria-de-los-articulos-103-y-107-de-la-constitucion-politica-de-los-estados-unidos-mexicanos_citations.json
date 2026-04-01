@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 255,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47058823529411764,
+      "resolution_score": 0.45217391304347826,
       "resolution_matched_alias": null
     },
     {
@@ -342,7 +342,7 @@
       "confidence": "high",
       "char_offset": 7765,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5066666666666667,
+      "resolution_score": 0.47619047619047616,
       "resolution_matched_alias": null
     },
     {
@@ -750,7 +750,7 @@
       "confidence": "medium",
       "char_offset": 55572,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -772,16 +772,16 @@
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "271",
       "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-defensoria-publica",
       "target_article": null,
       "citation_text": "ia de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.  Publicado en el Diario Oficial de la Federación el 17 de junio de 2016 ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 55942,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de defensoría pública"
     },
     {
       "source_law": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -856,5 +856,5 @@
       "char_offset": 533
     }
   ],
-  "resolved_at": "2026-03-31T00:21:39.010927+00:00"
+  "resolved_at": "2026-03-31T00:29:42.349082+00:00"
 }

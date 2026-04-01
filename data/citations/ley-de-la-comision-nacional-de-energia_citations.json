@@ -52,16 +52,16 @@
       "source_law": "ley-de-la-comision-nacional-de-energia",
       "source_article": "5",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo y demás ordenamientos que resulten",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "ente Ley, las disposiciones contenidas en la Ley del Sector Eléctrico, la Ley del Sector Hidrocarburos, la Ley de Planeación y Transición Energética, la Ley Federal de Procedimiento Administrativo y demás ordenamientos que resulten aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 189,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de procedimiento administrativo"
     },
     {
       "source_law": "ley-de-la-comision-nacional-de-energia",
@@ -120,7 +120,7 @@
       "confidence": "medium",
       "char_offset": 473,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.56,
+      "resolution_score": 0.5098039215686274,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "medium",
       "char_offset": 3457,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4563758389261745,
+      "resolution_score": 0.3878787878787879,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "medium",
       "char_offset": 6661,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
+      "resolution_score": 0.5538461538461539,
       "resolution_matched_alias": null
     },
     {
@@ -241,5 +241,5 @@
       "char_offset": 8435
     }
   ],
-  "resolved_at": "2026-03-31T00:21:45.687607+00:00"
+  "resolved_at": "2026-03-31T00:29:50.804254+00:00"
 }

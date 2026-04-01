@@ -52,16 +52,16 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "4",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo y la Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "tículo 4. En todo lo no previsto por la presente ley, serán aplicables en forma supletoria, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Federal de Procedimiento Administrativo y la Ley Federal de Armas de Fuego y Explosivos. Artículo reformado DOF 27-01-2011  TÍTULO SEGUNDO De la Secretaría de Seguridad Pública y la Coordinación Interinstitucional  Capítulo I De sus Atri",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 152,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de procedimiento administrativo"
     },
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -139,16 +139,16 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "24",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "armas de fuego.  La portación de armas de fuego por parte del personal que preste servicios de seguridad privada, quedará sujeta a lo establecido por la Ley Federal de Armas de Fuego y Explosivos y demás disposiciones aplicables.  Capítulo III De los Requisitos para Prestar Servicios de Seguridad Privada",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 458,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -253,5 +253,5 @@
       "char_offset": 2911
     }
   ],
-  "resolved_at": "2026-03-31T00:21:57.744095+00:00"
+  "resolved_at": "2026-03-31T00:30:07.454084+00:00"
 }

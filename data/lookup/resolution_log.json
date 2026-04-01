@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-03-31T00:22:11.708907+00:00",
+  "generated_at": "2026-03-31T00:30:24.628010+00:00",
   "total_citations": 12444,
   "resolved": 10844,
   "unresolved": 1600,
   "resolution_rate": 0.8714,
   "by_confidence": {
     "unresolved": 3686,
-    "high": 3865,
-    "medium": 1540,
-    "low": 3353
+    "high": 4429,
+    "medium": 1667,
+    "low": 2662
   },
   "top_cited_laws": [
     {
@@ -22,14 +22,14 @@
       "citation_count": 1084
     },
     {
-      "law_id": "ley-federal-competencia-economica",
-      "name": "Ley Federal de Competencia Económica",
-      "citation_count": 1037
-    },
-    {
       "law_id": "lopjf",
       "name": "Ley Orgánica del Poder Judicial de la Federación",
       "citation_count": 528
+    },
+    {
+      "law_id": "ley-federal-competencia-economica",
+      "name": "Ley Federal de Competencia Económica",
+      "citation_count": 346
     },
     {
       "law_id": "codigo-nacional-procedimientos-penales",
@@ -64,6 +64,11 @@
     {
       "law_id": "ley-federal-anticorrupcion",
       "name": "Ley General del Sistema Nacional Anticorrupción",
+      "citation_count": 173
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "name": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "citation_count": 173
     },
     {
@@ -122,6 +127,11 @@
       "citation_count": 116
     },
     {
+      "law_id": "ley-federal-de-las-entidades-paraestatales",
+      "name": "ley-federal-de-las-entidades-paraestatales",
+      "citation_count": 109
+    },
+    {
       "law_id": "lgeepa",
       "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
       "citation_count": 105
@@ -137,6 +147,11 @@
       "citation_count": 97
     },
     {
+      "law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
+      "name": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
+      "citation_count": 91
+    },
+    {
       "law_id": "lgpp",
       "name": "Ley General de Partidos Políticos",
       "citation_count": 81
@@ -145,21 +160,6 @@
       "law_id": "ley-sistemas-pagos",
       "name": "Ley del Sistema de Pagos",
       "citation_count": 80
-    },
-    {
-      "law_id": "ley-issste",
-      "name": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "citation_count": 78
-    },
-    {
-      "law_id": "ley-de-coordinacion-fiscal",
-      "name": "ley-de-coordinacion-fiscal",
-      "citation_count": 74
-    },
-    {
-      "law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "name": "ley-de-la-comision-nacional-bancaria-y-de-valores",
-      "citation_count": 71
     }
   ],
   "top_unresolved": [

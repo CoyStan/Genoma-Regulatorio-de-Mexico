@@ -7,16 +7,16 @@
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "3",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ARTÍCULO 3. La Ley Federal de las Entidades Paraestatales y sus disposiciones reglamentarias, se aplicarán para los Institutos Nacionales de Salud en lo que no se contraponga con esta ley, particularmente, en lo que se refiere al fortalecimie",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 12,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
@@ -37,61 +37,61 @@
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "16",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ARTÍCULO 16. Las juntas de gobierno de los Institutos Nacionales de Salud tendrán, adicionalmente a las facultades que les confiere la Ley Federal de las Entidades Paraestatales, las atribuciones indelegables siguientes:  I. Aprobar la distribución del presupuesto anual definitivo de la entidad y el programa de inversiones, d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 132,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "18",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ritos académicos; Fracción reformada DOF 14-07-2008  IV. No encontrarse en alguno de los impedimentos que señala el artículo 19, fracciones II a V de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 14-07-2008  V. Tener experiencia en el desempeño de cargos de alto nivel decisorio cuyo ejercicio requiera conocimientos y ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1043,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "19",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "LO 19. Los directores generales de los Institutos Nacionales de Salud tendrán, además de las facultades y obligaciones señaladas en el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes:  I. Celebrar y otorgar toda clase de actos, convenios, contratos y documentos inherentes al objeto del Instituto;  II. Ejercer las m",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 156,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "32",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "rado por un comisario público propietario y un suplente designados por la Secretaría de la Función Pública, y tendrán las atribuciones que les otorga la Ley Federal de las Entidades Paraestatales. Artículo reformado DOF 09-04-2012",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 251,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
@@ -496,61 +496,61 @@
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "58",
       "target_law_raw": "Ley Federal de Variedades Vegetales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-variedades-vegetales",
       "target_article": null,
       "citation_text": "ional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizacio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26107,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de variedades vegetales"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "58",
       "target_law_raw": "Ley Federal de Sanidad Vegetal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-vegetal",
       "target_article": null,
       "citation_text": "restal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Or",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26150,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad vegetal"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "58",
       "target_law_raw": "Ley Federal de Sanidad Animal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-animal",
       "target_article": null,
       "citation_text": "ara la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Cienci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26188,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad animal"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "58",
       "target_law_raw": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
       "target_article": null,
       "citation_text": "e Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26225,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de fomento a las actividades realizadas por organizaciones de la sociedad civil"
     },
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
@@ -610,5 +610,5 @@
       "char_offset": 3363
     }
   ],
-  "resolved_at": "2026-03-31T00:21:46.715864+00:00"
+  "resolved_at": "2026-03-31T00:29:52.062230+00:00"
 }

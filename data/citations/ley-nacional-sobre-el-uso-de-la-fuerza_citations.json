@@ -7,16 +7,16 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "3",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos y su Reglamento",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": " cuando colaboren en tareas de seguridad pública;  II.\tArmas de fuego: las autorizadas para el uso de los miembros de las instituciones de seguridad, de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento;  III.\tArmas menos letales: aquellas a través de las cuales se disminuyen las funciones corporales de un individuo, reduciendo al mínimo el riesgo de",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 561,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.84,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
@@ -34,16 +34,16 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "15",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "angueras de agua a presión.  II.\tLetales:  a)\tArmas de fuego permitidas, y  b)\tExplosivos permitidos, en este y en el inciso anterior, en términos de la Ley Federal de Armas de Fuego y Explosivos.  Las instituciones de seguridad deberán dotar a los agentes con el equipo de protección y vehículos con y sin blindaje, a fin de proteger su integri",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 480,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
@@ -133,5 +133,5 @@
       "char_offset": 1039
     }
   ],
-  "resolved_at": "2026-03-31T00:22:06.174891+00:00"
+  "resolved_at": "2026-03-31T00:30:18.171922+00:00"
 }

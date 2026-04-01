@@ -111,7 +111,7 @@
       "confidence": "medium",
       "char_offset": 18,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44692737430167595,
+      "resolution_score": 0.4067796610169492,
       "resolution_matched_alias": null
     },
     {
@@ -292,5 +292,5 @@
       "resolution_matched_alias": "reglamento de la cámara de diputados"
     }
   ],
-  "resolved_at": "2026-03-31T00:22:11.700444+00:00"
+  "resolved_at": "2026-03-31T00:30:24.618763+00:00"
 }

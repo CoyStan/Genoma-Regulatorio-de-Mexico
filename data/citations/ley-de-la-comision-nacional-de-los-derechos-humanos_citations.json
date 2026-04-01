@@ -39,7 +39,7 @@
       "confidence": "high",
       "char_offset": 2546,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -285,7 +285,7 @@
       "confidence": "high",
       "char_offset": 31588,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -300,7 +300,7 @@
       "confidence": "high",
       "char_offset": 33748,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.5625,
       "resolution_matched_alias": null
     },
     {
@@ -517,16 +517,16 @@
       "source_law": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "source_article": "76",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5566,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-la-comision-nacional-de-los-derechos-humanos",
@@ -547,16 +547,16 @@
       "source_law": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "source_article": "76",
       "target_law_raw": "Ley Federal de Correduría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-correduria-publica",
       "target_article": null,
       "citation_text": "lamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera;",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5779,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de correduría pública"
     },
     {
       "source_law": "ley-de-la-comision-nacional-de-los-derechos-humanos",
@@ -720,7 +720,7 @@
       "confidence": "medium",
       "char_offset": 7726,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7230769230769231,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -757,16 +757,16 @@
       "source_law": "ley-de-la-comision-nacional-de-los-derechos-humanos",
       "source_article": "76",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": " que se reforman, adicionan y derogan diversas disposiciones de la Ley de la Comisión Nacional de los Derechos Humanos y se adiciona el artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.  Publicado en el Diario Oficial de la Federación el 15 de junio de 2012  ARTÍCULO PRIMERO.- Se reforman el párrafo primero del artículo 4o, y el pár",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 16589,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-la-comision-nacional-de-los-derechos-humanos",
@@ -901,5 +901,5 @@
       "char_offset": 700
     }
   ],
-  "resolved_at": "2026-03-31T00:21:45.748146+00:00"
+  "resolved_at": "2026-03-31T00:29:50.864474+00:00"
 }

@@ -34,16 +34,16 @@
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "6o",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ederal centralizada y paraestatal, de conformidad con las facultades que les confiere esta ley, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y demás disposiciones jurídicas aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 352,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -57,23 +57,23 @@
       "confidence": "medium",
       "char_offset": 5389,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5269461077844312,
+      "resolution_score": 0.47674418604651164,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "13",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "atrimonio propio y autonomía de gestión, sectorizado en la Secretaría de Medio Ambiente y Recursos Naturales, de conformidad con las disposiciones de la Ley Federal de las Entidades Paraestatales.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 332,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -94,16 +94,16 @@
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "19",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "os con la investigación, políticas y programas nacionales e internacionales sobre medio ambiente y cambio climático; además de cumplir los requisitos previstos en la Ley Federal de las Entidades Paraestatales.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 305,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -132,7 +132,7 @@
       "confidence": "medium",
       "char_offset": 660,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49645390070921985,
+      "resolution_score": 0.4482758620689655,
       "resolution_matched_alias": null
     },
     {
@@ -214,16 +214,16 @@
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "70",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "uestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación del ejercicio fiscal que corresponda y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 464,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -252,7 +252,7 @@
       "confidence": "medium",
       "char_offset": 323,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -319,16 +319,16 @@
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "nvestigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corre",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 32829,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.873015873015873,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -357,7 +357,7 @@
       "confidence": "medium",
       "char_offset": 20351,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -372,7 +372,7 @@
       "confidence": "medium",
       "char_offset": 20539,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -649,16 +649,16 @@
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
       "target_law_raw": "Ley Federal de Archivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-archivos",
       "target_article": null,
       "citation_text": "iedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 21636,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9130434782608695,
+      "resolution_matched_alias": "ley general de archivos"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -739,16 +739,16 @@
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
       "target_law_raw": "Ley Federal de Cinematografía",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-cinematografia",
       "target_article": null,
       "citation_text": " Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 28197,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de cinematografía"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -792,7 +792,7 @@
       "confidence": "medium",
       "char_offset": 37861,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4482758620689655,
+      "resolution_score": 0.37185929648241206,
       "resolution_matched_alias": null
     },
     {
@@ -1054,61 +1054,61 @@
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
       "target_law_raw": "Ley Federal de Variedades Vegetales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-variedades-vegetales",
       "target_article": null,
       "citation_text": "ional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizacio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 46893,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de variedades vegetales"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
       "target_law_raw": "Ley Federal de Sanidad Vegetal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-vegetal",
       "target_article": null,
       "citation_text": "restal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Or",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 46936,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad vegetal"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
       "target_law_raw": "Ley Federal de Sanidad Animal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-animal",
       "target_article": null,
       "citation_text": "ara la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Cienci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 46974,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad animal"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
       "source_article": "116",
       "target_law_raw": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
       "target_article": null,
       "citation_text": "e Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 47011,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de fomento a las actividades realizadas por organizaciones de la sociedad civil"
     },
     {
       "source_law": "ley-general-de-cambio-climatico",
@@ -1168,5 +1168,5 @@
       "char_offset": 7959
     }
   ],
-  "resolved_at": "2026-03-31T00:21:59.672760+00:00"
+  "resolved_at": "2026-03-31T00:30:09.938842+00:00"
 }

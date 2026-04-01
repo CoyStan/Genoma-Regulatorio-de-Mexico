@@ -15,7 +15,7 @@
       "confidence": "medium",
       "char_offset": 1654,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.717948717948718,
+      "resolution_score": 0.5757575757575758,
       "resolution_matched_alias": null
     },
     {
@@ -52,16 +52,16 @@
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "8o",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "oto, a las sesiones ordinarias y extraordinarias de la Junta Directiva del Instituto y tendrán las atribuciones que les confieren los artículos 60 de la Ley Federal de las Entidades Paraestatales, 29 y 30 de su Reglamento y demás disposiciones aplicables. Artículo reformado DOF 08-05-2006",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 362,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -82,16 +82,16 @@
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "9o",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "afo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto en los",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 708,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -112,16 +112,16 @@
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "12",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ormes periódicos que rinda el Director General con la intervención que corresponda a los comisarios, en los términos del artículo 58, fracción XV, de la Ley Federal de las Entidades Paraestatales;  XIII.\tConceder licencias a los miembros de la Junta; Fracción reformada DOF 16-07-2025  XIV.\tProponer al Ejecutivo Federal la expedición del reglam",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2332,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 896,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.625,
+      "resolution_score": 0.6101694915254238,
       "resolution_matched_alias": null
     },
     {
@@ -330,7 +330,7 @@
       "confidence": "high",
       "char_offset": 124,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6296296296296297,
       "resolution_matched_alias": null
     },
     {
@@ -345,7 +345,7 @@
       "confidence": "high",
       "char_offset": 369,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.5555555555555556,
       "resolution_matched_alias": null
     },
     {
@@ -382,16 +382,16 @@
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "source_article": "219",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": " Seguridad y Servicios Sociales de los Trabajadores del Estado.  Las responsabilidades de los funcionarios y empleados del Instituto, se normarán por la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás ordenamientos legales y administrativos aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 246,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
@@ -417,7 +417,7 @@
       "confidence": "high",
       "char_offset": 22086,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
+      "resolution_score": 0.5217391304347826,
       "resolution_matched_alias": null
     },
     {
@@ -477,7 +477,7 @@
       "confidence": "medium",
       "char_offset": 21980,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
+      "resolution_score": 0.45569620253164556,
       "resolution_matched_alias": null
     },
     {
@@ -610,5 +610,5 @@
       "char_offset": 437
     }
   ],
-  "resolved_at": "2026-03-31T00:21:49.707861+00:00"
+  "resolved_at": "2026-03-31T00:29:55.616974+00:00"
 }

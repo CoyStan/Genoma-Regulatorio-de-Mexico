@@ -175,16 +175,16 @@
       "source_law": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
       "source_article": "20",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "iciones presupuestarias que regulan el registro de programas y proyectos de inversión en la cartera a que se refiere el artículo 34, fracción III, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las dependencias y entidades deberán identificar, cuando así proceda, la vinculación de los programas y proyectos de inversión bajo su responsabilid",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 193,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
@@ -198,7 +198,7 @@
       "confidence": "high",
       "char_offset": 841,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.48175182481751827,
+      "resolution_score": 0.4423076923076923,
       "resolution_matched_alias": null
     },
     {
@@ -213,7 +213,7 @@
       "confidence": "high",
       "char_offset": 1298,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4642857142857143,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -244,5 +244,5 @@
       "char_offset": 3164
     }
   ],
-  "resolved_at": "2026-03-31T00:22:08.947782+00:00"
+  "resolved_at": "2026-03-31T00:30:21.065449+00:00"
 }

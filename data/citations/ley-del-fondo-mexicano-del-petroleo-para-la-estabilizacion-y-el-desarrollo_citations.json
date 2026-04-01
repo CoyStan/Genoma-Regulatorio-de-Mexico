@@ -46,16 +46,16 @@
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "8",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "la Federación a que se refiere el artículo 16, fracciones II, incisos f) y g), y IV de esta Ley, de acuerdo con lo establecido en el Título Quinto de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;  c)\tFijar las políticas y lineamientos conforme a los cuales el fiduciario realice las operaciones previstas en el artículo 18 de esta Ley y, en cas",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2027,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
@@ -73,16 +73,16 @@
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "16",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "podrán ser transferidos de manera extraordinaria a la Tesorería de la Federación para cubrir erogaciones del Presupuesto de Egresos de la Federación, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Lo anterior, incluyendo las transferencias que se realicen de conformidad con los montos aprobados por la Cámara de Diputados para el uso de los rec",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2453,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
@@ -160,16 +160,16 @@
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "nvestigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corre",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 11213,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.873015873015873,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
@@ -198,7 +198,7 @@
       "confidence": "medium",
       "char_offset": 3695,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5675675675675675,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -235,16 +235,16 @@
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Derechos y la Ley de Coordinación Fiscal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-derechos",
       "target_article": null,
       "citation_text": "nación Fiscal, sean menores a las que hubieran recibido de haber aplicado a las asignaciones vigentes en el año que corresponda, las disposiciones de la Ley Federal de Derechos y la Ley de Coordinación Fiscal vigentes hasta antes de la entrada en vigor de este Decreto, el Gobierno Federal entregará a las entidades federativas y los municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejerc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4607,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de derechos"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
@@ -355,16 +355,16 @@
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Cinematografía",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-cinematografia",
       "target_article": null,
       "citation_text": " Ley de Ciencia y Tecnología; de la Ley Aduanera; de la Ley Reglamentaria del Servicio Ferroviario; de la Ley General de Cultura Física y Deporte; de la Ley Federal de Cinematografía; de la Ley Federal de Derechos; de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; de la Ley de Bioseguridad de Organi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6880,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de cinematografía"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
@@ -408,7 +408,7 @@
       "confidence": "medium",
       "char_offset": 16245,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4482758620689655,
+      "resolution_score": 0.37185929648241206,
       "resolution_matched_alias": null
     },
     {
@@ -670,61 +670,61 @@
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Variedades Vegetales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-variedades-vegetales",
       "target_article": null,
       "citation_text": "ional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizacio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25277,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de variedades vegetales"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Sanidad Vegetal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-vegetal",
       "target_article": null,
       "citation_text": "restal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Or",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25320,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad vegetal"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Sanidad Animal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-animal",
       "target_article": null,
       "citation_text": "ara la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Cienci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25358,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad animal"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
       "source_article": "25",
       "target_law_raw": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
       "target_article": null,
       "citation_text": "e Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 25395,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de fomento a las actividades realizadas por organizaciones de la sociedad civil"
     },
     {
       "source_law": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
@@ -904,5 +904,5 @@
       "char_offset": 5830
     }
   ],
-  "resolved_at": "2026-03-31T00:21:48.997532+00:00"
+  "resolved_at": "2026-03-31T00:29:54.845846+00:00"
 }

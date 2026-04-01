@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 12871,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -37,16 +37,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "1o",
       "target_law_raw": "Ley Federal de Juegos y Sorteos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-juegos-y-sorteos",
       "target_article": null,
       "citation_text": "go de los concesionarios de vías generales de comunicación y de empresas de abastecimiento de energía eléctrica.792.512.Participaciones señaladas por la Ley Federal de Juegos y Sorteos.1,528.913.Regalías provenientes de fondos y explotación minera.0.014.Aportaciones de contratistas de obras públicas.26.715.Destinados al Fondo para e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7102,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de juegos y sorteos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -67,16 +67,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "1o",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "icho fondo, en los términos dispuestos por la Secretaría de Hacienda y Crédito Público. Para efectos de lo previsto en el artículo 107, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá incluir en los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública in",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13582,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -97,16 +97,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "2o",
       "target_law_raw": "Ley Federal de Deuda Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "Hacienda y Crédito Público, emita valores en moneda nacional y contrate empréstitos para canje o refinanciamiento de obligaciones del erario federal, en los términos de la Ley Federal de Deuda Pública. Asimismo, la persona titular del Ejecutivo Federal queda autorizada para contratar créditos o emitir valores en el exterior con el objeto de canjear",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2478,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -184,31 +184,31 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "5o",
       "target_law_raw": "Ley Federal de Deuda Pública y 32",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "á nuevos proyectos de infraestructura productiva de largo plazo de la Comisión Federal de Electricidad a los que hacen referencia los artículos 18 de la Ley Federal de Deuda Pública y 32, párrafos segundo a sexto de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como del Título Cuarto, Capítulo XIV del Reglamento de e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 228,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9180327868852459,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "5o",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " la Comisión Federal de Electricidad a los que hacen referencia los artículos 18 de la Ley Federal de Deuda Pública y 32, párrafos segundo a sexto de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como del Título Cuarto, Capítulo XIV del Reglamento de este último ordenamiento.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 294,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -244,16 +244,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "10",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "to de energía eléctrica, de otros aprovechamientos y de desincorporaciones distintos de entidades paraestatales, respectivamente, se podrán destinar, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a programas y proyectos de inversión. En tanto no sean autorizados los aprovechamientos a que se refiere este artículo para el ejercicio fiscal de 2",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 7881,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -454,16 +454,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "14",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "esta Ley a los ingresos que por cualquier concepto reciban las entidades de la Administración Pública Federal paraestatal que estén sujetas a control en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de su Reglamento y del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal de 2025, entre las que se comprende de manera enunciativa a ",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 193,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -559,16 +559,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "18",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "ción constitucional, las dependencias del Ejecutivo Federal y sus órganos administrativos desconcentrados, así como las entidades, se deberán aplicar en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, sin perjuicio de lo dispuesto en el artículo 12 de esta Ley. Para determinar los ingresos excedentes de la unidad generadora de las dependencias a q",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 479,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.873015873015873,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -604,16 +604,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "19",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " que se refiere la fracción III de este artículo se aplicarán en los términos de lo previsto en la fracción II y penúltimo párrafo del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2337,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -874,16 +874,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
       "source_article": "26",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "amientos se entenderán hechas también al Servicio de Administración Tributaria. Sexto.- Para efectos de lo previsto en el artículo 107, fracción I de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá reportar en los informes trimestrales la información sobre los ingresos excedentes que, en su cas",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3980,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
@@ -897,7 +897,7 @@
       "confidence": "medium",
       "char_offset": 4260,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6077348066298343,
+      "resolution_score": 0.40229885057471265,
       "resolution_matched_alias": null
     },
     {
@@ -957,7 +957,7 @@
       "confidence": "medium",
       "char_offset": 26112,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5360824742268041,
+      "resolution_score": 0.5420560747663551,
       "resolution_matched_alias": null
     },
     {
@@ -1063,5 +1063,5 @@
       "char_offset": 2136
     }
   ],
-  "resolved_at": "2026-03-31T00:21:44.142976+00:00"
+  "resolved_at": "2026-03-31T00:29:48.814058+00:00"
 }

@@ -211,16 +211,16 @@
       "source_law": "codigo-federal-de-procedimientos-civiles",
       "source_article": "3º",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "er Judicial de la Federación, al elaborar su proyecto de presupuesto de egresos anual, deberá observar los criterios generales de política económica, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.  Los Congresos Locales, en el ámbito de sus atribuciones, aprobarán los recursos presupuestarios correspondientes para los Poderes Judiciales de las",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 56003,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "codigo-federal-de-procedimientos-civiles",
@@ -376,16 +376,16 @@
       "source_law": "codigo-federal-de-procedimientos-civiles",
       "source_article": "3º",
       "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-defensoria-publica",
       "target_article": null,
       "citation_text": "iversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 37077,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de defensoría pública"
     },
     {
       "source_law": "codigo-federal-de-procedimientos-civiles",
@@ -475,5 +475,5 @@
       "resolution_matched_alias": "ley general de transparencia y acceso a la información pública"
     }
   ],
-  "resolved_at": "2026-03-31T00:21:30.127578+00:00"
+  "resolved_at": "2026-03-31T00:29:32.434851+00:00"
 }

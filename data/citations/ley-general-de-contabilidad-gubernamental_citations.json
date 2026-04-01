@@ -19,16 +19,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "5",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "retaría de la Función Pública, en el ámbito de sus respectivas atribuciones.  A falta de disposición expresa en esta Ley, se aplicará supletoriamente la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  En todo caso, la interpretación privilegiará los principios constitucionales relativos a la transparencia y máxima publicidad de la información fin",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 274,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -130,16 +130,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "66",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "Artículo 66.- La Secretaría de Hacienda publicará en el Diario Oficial de la Federación los calendarios de ingresos y de presupuesto de egresos en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Las secretarías de finanzas o sus equivalentes de las entidades federativas, así como las tesorerías de los municipios deberán publicar en Internet",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 144,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -190,16 +190,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "71",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "Artículo 71.- En términos de lo dispuesto en los artículos 79, 85, 107 y 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; 48 y 49, fracción V, de la Ley de Coordinación Fiscal, y 56 de esta Ley, las entidades federativas, los municipios y las demarcaciones territoriales",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 80,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -220,31 +220,31 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "72",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "Artículo 72.- Las entidades federativas remitirán a la Secretaría de Hacienda, a través del sistema de información a que se refiere el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la información sobre el ejercicio y destino de los recursos federales que reciban dichas entidades federativas y, por conducto de éstas, los municip",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 150,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "74",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "así lo soliciten, y  f) Incluir en su página de Internet la información que sea remitida por las entidades federativas en términos del artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, particularmente respecto a:  1. Número y tipo de las plazas existentes, el nombre y la Clave Única de Registro de Población y el Registro Federal de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3389,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -280,16 +280,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "79",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "timo día hábil de abril su programa anual de evaluaciones, así como las metodologías e indicadores de desempeño, de conformidad con el artículo 78 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Párrafo reformado DOF 16-07-2025  Los entes públicos deberán publicar a más tardar a los 30 días posteriores a la conclusión de las evaluaciones, lo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 245,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -303,7 +303,7 @@
       "confidence": "medium",
       "char_offset": 548,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7432432432432432,
+      "resolution_score": 0.49645390070921985,
       "resolution_matched_alias": null
     },
     {
@@ -325,16 +325,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "84",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "l incumplimiento a los preceptos establecidos en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos; las leyes equivalentes de las entidades federativas, y las demás disposiciones aplicables en términos del Título Cuarto de la Constitución Política ",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 201,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -360,23 +360,23 @@
       "confidence": "high",
       "char_offset": 32916,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4594594594594595,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "86",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "en lo que no se oponga a la presente Ley.  DÉCIMO SEGUNDO.- Cuando, en materia de contabilidad gubernamental, una disposición legal haga referencia a la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se aplicará lo previsto en esta Ley.  Artículo Segundo.- .  TRANSITORIOS  Primero.- El presente Decreto entrará en vigor el 1 de enero de 2009.  ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 9119,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -517,16 +517,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "86",
       "target_law_raw": "Ley Federal de Deuda Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "ministrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley General de Deuda Pública, se entenderán referidas a la Ley Federal de Deuda Pública.  Ciudad de México, a 17 de marzo de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthe",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 46357,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -585,7 +585,7 @@
       "confidence": "medium",
       "char_offset": 50720,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -600,7 +600,7 @@
       "confidence": "medium",
       "char_offset": 50908,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -862,16 +862,16 @@
       "source_law": "ley-general-de-contabilidad-gubernamental",
       "source_article": "86",
       "target_law_raw": "Ley Federal de Archivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-archivos",
       "target_article": null,
       "citation_text": "iedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 52005,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9130434782608695,
+      "resolution_matched_alias": "ley general de archivos"
     },
     {
       "source_law": "ley-general-de-contabilidad-gubernamental",
@@ -901,5 +901,5 @@
       "char_offset": 9744
     }
   ],
-  "resolved_at": "2026-03-31T00:21:59.745685+00:00"
+  "resolved_at": "2026-03-31T00:30:10.010310+00:00"
 }

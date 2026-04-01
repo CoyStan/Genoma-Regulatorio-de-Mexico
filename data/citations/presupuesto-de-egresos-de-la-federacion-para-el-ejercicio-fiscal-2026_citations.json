@@ -7,46 +7,46 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "ad y la presentación de la información presupuestaria, financiera y de resultados sobre la ejecución del presupuesto, se deben realizar conforme a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Austeridad Republicana, la Ley Federal de Remuneraciones de los Servidores Públicos, la Ley General de Contabilidad Gubernamental ",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 316,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Austeridad Republicana",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-austeridad-republicana",
       "target_article": null,
       "citation_text": "ltados sobre la ejecución del presupuesto, se deben realizar conforme a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Austeridad Republicana, la Ley Federal de Remuneraciones de los Servidores Públicos, la Ley General de Contabilidad Gubernamental y en las disposiciones que, en el marco de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 391,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de austeridad republicana"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": " se deben realizar conforme a lo establecido en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley Federal de Austeridad Republicana, la Ley Federal de Remuneraciones de los Servidores Públicos, la Ley General de Contabilidad Gubernamental y en las disposiciones que, en el marco de dichas leyes, estén establecidas en otros ordenamientos y en",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 433,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -82,16 +82,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "2",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "os importa la cantidad de $10,193,683,700,000, y corresponde al total de los ingresos aprobados en la Ley de Ingresos. En términos del artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, para el presente ejercicio fiscal se prevé un déficit presupuestario de $1,393,770,634,695.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 226,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -105,23 +105,23 @@
       "confidence": "high",
       "char_offset": 9464,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49056603773584906,
+      "resolution_score": 0.45255474452554745,
       "resolution_matched_alias": null
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "3",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "te Decreto y los Tomos II a IX, de este Presupuesto de Egresos. En el Tomo I se incluye la información establecida en el artículo 41, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; II. El gasto corriente estructural se incluye en el Anexo 2 de este Decreto; III. El capítulo específico que incorpora las erogaciones correspondien",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 546,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -180,7 +180,7 @@
       "confidence": "medium",
       "char_offset": 4540,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7291666666666666,
+      "resolution_score": 0.46296296296296297,
       "resolution_matched_alias": null
     },
     {
@@ -259,16 +259,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "6",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "inistrados siempre y cuando las entidades federativas y, en su caso, los municipios y demarcaciones territoriales de la Ciudad de México, cumplan con lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental, este Presupuesto de Egr",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1204,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -312,7 +312,7 @@
       "confidence": "high",
       "char_offset": 11357,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -357,7 +357,7 @@
       "confidence": "medium",
       "char_offset": 5737,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6474820143884892,
+      "resolution_score": 0.5294117647058824,
       "resolution_matched_alias": null
     },
     {
@@ -391,31 +391,31 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "7",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "iales y Económicas deben reportar a la Secretaría, en los términos que esta determine y a través del sistema al que hace referencia el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la información del contrato bajo el cual se realicen dichos proyectos, su ubicación geográfica, informes sobre sus avances y, en su caso, evidencias",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 368,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "8",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "Artículo 8. Los recursos correspondientes a los subejercicios que no sean subsanados en el plazo que establece el artículo 23, penúltimo párrafo, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el importe de los ahorros que se obtengan como resultado de la instrumentación de las medidas de austeridad y disciplina presupuestaria, se",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 149,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -489,7 +489,7 @@
       "confidence": "high",
       "char_offset": 1595,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6086956521739131,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -561,7 +561,7 @@
       "confidence": "high",
       "char_offset": 2995,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -576,7 +576,7 @@
       "confidence": "medium",
       "char_offset": 558,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4685714285714286,
+      "resolution_score": 0.45714285714285713,
       "resolution_matched_alias": null
     },
     {
@@ -591,38 +591,38 @@
       "confidence": "medium",
       "char_offset": 2494,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5306122448979592,
+      "resolution_score": 0.46153846153846156,
       "resolution_matched_alias": null
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "13",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "l Tomo IX de este Presupuesto de Egresos, conforme a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Remuneraciones de los Servidores Públicos: I. Las remuneraciones se integran, conforme a lo dispuesto en la referida disposición constitucional; los artículos 7 de la Ley Federal de Remuneraci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 345,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "13",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " disposición constitucional; los artículos 7 de la Ley Federal de Remuneraciones de los Servidores Públicos, y 2, fracciones XXXIII, XXXIV y XLVI, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, con la suma de la totalidad de percepciones ordinarias y extraordinarias que perciben las personas servidoras públicas de la Federación. Las percepc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 629,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -715,16 +715,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "15",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "nformación correspondiente a las jubilaciones, pensiones, compensaciones, haberes y demás prestaciones por retiro, a que se refiere el artículo 27 de la Ley Federal de Remuneraciones de los Servidores Públicos.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2794,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -742,31 +742,31 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "17",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": " otorgarse la potenciación del seguro de vida institucional, y la prima personal de riesgo a que se refiere el artículo 6, apartado B, fracción V, de la Ley Federal de Remuneraciones de los Servidores Públicos, hasta por el 30 por ciento sobre la percepción ordinaria bruta mensual, por concepto de sueldos y salarios. La Secretaría Anticorrupción y Buen Gobi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 480,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "18",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos y conforme a las disposiciones",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Artículo 18. En términos del artículo 6, apartado B, fracción II, de la Ley Federal de Remuneraciones de los Servidores Públicos y conforme a las disposiciones aplicables, se podrá otorgar al personal en activo de la Guardia Nacional, un apoyo económico mensual bruto por concepto de pago del arrendamiento de vivienda d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 69,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7832167832167832,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -817,16 +817,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "24",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos. Para tal efecto, de conformidad con los artículos 42, fracción VII, y 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las Dependencias y Entidades, al ejecutar dichas erogaciones y emitir reglas de operación o, en su caso, lineamientos, se ajustarán a lo siguiente: ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 473,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -871,16 +871,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "27",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "e se determine. Asimismo, podrán realizar contrataciones para que las evaluaciones a que se refiere este párrafo abarquen varios ejercicios fiscales, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. El total de las erogaciones que, en su caso, se efectúen para realizar las diferentes etapas de las evaluaciones se debe registrar de manera específ",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 6227,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -894,7 +894,7 @@
       "confidence": "medium",
       "char_offset": 9538,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6833333333333333,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -958,16 +958,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "31",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "os y a las demarcaciones territoriales de la Ciudad de México, en el marco de dichos convenios, estarán sujetos a lo establecido en el artículo 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como al Título Segundo y artículo 27, fracción XII, del presente Decreto, según corresponda. Estos instrumentos promoverán que las acciones y re",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1735,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1008,7 +1008,7 @@
       "confidence": "medium",
       "char_offset": 3261,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6306306306306306,
+      "resolution_score": 0.5076923076923077,
       "resolution_matched_alias": null
     },
     {
@@ -1060,16 +1060,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "34",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "ón Pública será responsable de emitir las reglas de operación de sus programas sujetos a las mismas, de acuerdo con lo dispuesto en el artículo 77 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, las cuales contendrán, entre otras reglas, las siguientes: I. Los recursos destinados a programas educativos deben ser ejercidos exclusivamente por ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 187,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1240,16 +1240,16 @@
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
       "source_article": "39",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": " para despensa 18,180 viii) Seguro de vida institucional 35,914 ix) Seguro colectivo de retiro 425 En términos del artículo 10, fracciones IV y V, de la Ley Federal de Remuneraciones de los Servidores Públicos, la Remuneración Anual Máxima es la referencia del monto máximo en términos brutos a que tiene derecho la persona titular de la Presidencia de la Rep",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 91936,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
@@ -1339,5 +1339,5 @@
       "char_offset": 14013
     }
   ],
-  "resolved_at": "2026-03-31T00:22:11.252875+00:00"
+  "resolved_at": "2026-03-31T00:30:24.071381+00:00"
 }

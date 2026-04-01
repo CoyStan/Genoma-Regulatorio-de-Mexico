@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 12302,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -37,16 +37,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "1o",
       "target_law_raw": "Ley Federal de Juegos y Sorteos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-juegos-y-sorteos",
       "target_article": null,
       "citation_text": " de los concesionarios de vías generales de comunicación y de empresas de abastecimiento de energía eléctrica.2,723.212.Participaciones señaladas por la Ley Federal de Juegos y Sorteos.2,578.313.Regalías provenientes de fondos y explotación minera.0.014.Aportaciones de contratistas de obras públicas.31.915.Destinados al Fondo para e",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7077,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de juegos y sorteos"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -82,31 +82,31 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "1o",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "izará hasta un monto equivalente a 3.6 por ciento del Producto Interno Bruto para efectos del equilibrio presupuestario previsto en el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Se entenderá por inversión en desarrollo de capital humano al gasto programable destinado a educación, salud pública preventiva y formación o certif",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 13729,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "2o",
       "target_law_raw": "Ley Federal de Deuda Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "Hacienda y Crédito Público, emita valores en moneda nacional y contrate empréstitos para canje o refinanciamiento de obligaciones del erario federal, en los términos de la Ley Federal de Deuda Pública. Asimismo, la persona titular del Ejecutivo Federal queda autorizada para contratar créditos o emitir valores en el exterior con el objeto de canjear",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2472,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -169,31 +169,31 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "8o",
       "target_law_raw": "Ley Federal de Deuda Pública y 32",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "eral a contratar proyectos de infraestructura productiva de largo plazo de la Comisión Federal de Electricidad en los términos de los artículos 18 de la Ley Federal de Deuda Pública y 32, párrafos segundo a sexto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como del Título Cuarto, Capítulo XIV del Reglamento de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 191,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9180327868852459,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "8o",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "lazo de la Comisión Federal de Electricidad en los términos de los artículos 18 de la Ley Federal de Deuda Pública y 32, párrafos segundo a sexto, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como del Título Cuarto, Capítulo XIV del Reglamento de este último ordenamiento, por un total de 32 mil 472.7 millones de pesos que corresponde ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 258,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -229,16 +229,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "13",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "to de energía eléctrica, de otros aprovechamientos y de desincorporaciones distintos de entidades paraestatales, respectivamente, se podrán destinar, en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, a programas y proyectos de inversión. En tanto no sean autorizados los aprovechamientos a que se refiere este artículo para el ejercicio fiscal de 2",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 8601,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -424,16 +424,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "18",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "esta Ley a los ingresos que por cualquier concepto reciban las entidades de la Administración Pública Federal Paraestatal que estén sujetas a control en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de su Reglamento y del Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2026, entre otras, las siguientes: I.\tInstituto Mexicano del",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 193,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -529,16 +529,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "22",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "ción constitucional, las dependencias del Ejecutivo Federal y sus órganos administrativos desconcentrados, así como las entidades, se deberán aplicar en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, sin perjuicio de lo dispuesto en el artículo 16 de esta Ley. Para determinar los ingresos excedentes de la unidad generadora de las dependencias a q",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 479,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.873015873015873,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -559,16 +559,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "23",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " que se refiere la fracción III de este artículo se aplicarán en los términos de lo previsto en la fracción II y penúltimo párrafo del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1920,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -799,16 +799,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "29",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "blicas y la Deuda Pública que se presenten al Congreso de la Unión en términos de lo previsto en los artículos 19, fracción II, y 107, fracción I, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la información del origen de los ingresos generados por los aprovechamientos a que se refiere el numeral 6.61.22.04 del artículo 1o. de la presente ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 832,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -946,16 +946,16 @@
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
       "source_article": "34",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "Artículo 34. Las unidades responsables de los fideicomisos, mandatos y análogos públicos, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, serán responsables en todo momento de continuar con su obligación de verificar que los recursos fideicomitidos o aportados se apliquen a los fines u",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 105,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
@@ -1014,7 +1014,7 @@
       "confidence": "medium",
       "char_offset": 14325,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5360824742268041,
+      "resolution_score": 0.5420560747663551,
       "resolution_matched_alias": null
     },
     {
@@ -1105,5 +1105,5 @@
       "char_offset": 18775
     }
   ],
-  "resolved_at": "2026-03-31T00:21:44.145032+00:00"
+  "resolved_at": "2026-03-31T00:29:48.906481+00:00"
 }

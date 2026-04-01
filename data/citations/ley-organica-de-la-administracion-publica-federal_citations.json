@@ -39,7 +39,7 @@
       "confidence": "high",
       "char_offset": 601,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5373134328358209,
+      "resolution_score": 0.49230769230769234,
       "resolution_matched_alias": null
     },
     {
@@ -69,7 +69,7 @@
       "confidence": "medium",
       "char_offset": 1800,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4928909952606635,
+      "resolution_score": 0.4205128205128205,
       "resolution_matched_alias": null
     },
     {
@@ -183,7 +183,7 @@
       "confidence": "high",
       "char_offset": 7019,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6292134831460674,
+      "resolution_score": 0.49382716049382713,
       "resolution_matched_alias": null
     },
     {
@@ -534,7 +534,7 @@
       "confidence": "high",
       "char_offset": 63456,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -729,7 +729,7 @@
       "confidence": "medium",
       "char_offset": 25987,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.484472049689441,
       "resolution_matched_alias": null
     },
     {
@@ -789,7 +789,7 @@
       "confidence": "medium",
       "char_offset": 28544,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5352112676056338,
+      "resolution_score": 0.5098039215686274,
       "resolution_matched_alias": null
     },
     {
@@ -849,23 +849,23 @@
       "confidence": "medium",
       "char_offset": 35364,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.52,
+      "resolution_score": 0.46153846153846156,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "s mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y se reforman la Ley Orgánica de la Administración Pública Federal y la Ley de Coordinación Fiscal.  Publicado en el Diario Oficial de la Federación",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 36702,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -946,16 +946,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": " se reforma la Fracción XXVII del Artículo 27 de la Ley Orgánica de la Administración Pública Federal; reforma el Párrafo Tercero del Artículo 3o. de la Ley Federal de las Entidades Paraestatales, y expide la Ley que crea la Agencia de Noticias del Estado Mexicano.  Publicado en el Diario Oficial de la Federación el 2 de junio de 2006  Artícul",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 49200,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -991,16 +991,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "n Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.  Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011  ARTÍCULO TERCERO.- Se reforma la fracción V del artículo 28 y se adicio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 55506,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de procedimiento administrativo"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1021,16 +1021,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-derechos",
       "target_article": null,
       "citation_text": " día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.  SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis m",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 56142,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de derechos"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1141,16 +1141,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "56",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "ara ese efecto por la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolescentes, y adultos jóvenes como una medida excepcional, se expedirán los ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 64005,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1314,7 +1314,7 @@
       "confidence": "medium",
       "char_offset": 128918,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
+      "resolution_score": 0.5538461538461539,
       "resolution_matched_alias": null
     },
     {
@@ -1398,7 +1398,7 @@
       "confidence": "high",
       "char_offset": 107991,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.684931506849315,
+      "resolution_score": 0.5555555555555556,
       "resolution_matched_alias": null
     },
     {
@@ -1428,7 +1428,7 @@
       "confidence": "high",
       "char_offset": 109434,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6575342465753424,
+      "resolution_score": 0.6333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -1473,7 +1473,7 @@
       "confidence": "high",
       "char_offset": 158223,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
+      "resolution_score": 0.5217391304347826,
       "resolution_matched_alias": null
     },
     {
@@ -1503,7 +1503,7 @@
       "confidence": "high",
       "char_offset": 23333,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4594594594594595,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -1555,16 +1555,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "o en el Diario Oficial de la Federación el 2 de enero de 2013.  Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.  Sexto.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23641,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1645,16 +1645,16 @@
       "source_law": "ley-organica-de-la-administracion-publica-federal",
       "source_article": "45",
       "target_law_raw": "Ley Federal de Extinción de Dominio",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "rán armonizar su legislación respectiva con el presente Decreto.  Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 56531,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8450704225352113,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-organica-de-la-administracion-publica-federal",
@@ -1683,7 +1683,7 @@
       "confidence": "medium",
       "char_offset": 61896,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7058823529411765,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -2028,7 +2028,7 @@
       "confidence": "medium",
       "char_offset": 158117,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
+      "resolution_score": 0.45569620253164556,
       "resolution_matched_alias": null
     },
     {
@@ -2062,5 +2062,5 @@
       "resolution_matched_alias": "ley de vías generales de comunicación"
     }
   ],
-  "resolved_at": "2026-03-31T00:22:06.472983+00:00"
+  "resolved_at": "2026-03-31T00:30:18.476185+00:00"
 }

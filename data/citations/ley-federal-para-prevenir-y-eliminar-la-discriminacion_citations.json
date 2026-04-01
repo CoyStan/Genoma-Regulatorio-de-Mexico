@@ -73,16 +73,16 @@
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
       "source_article": "24",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "Artículo 24.- La Junta de Gobierno tendrá, además de aquellas que establece el artículo 58 de la Ley Federal de las Entidades Paraestatales, las siguientes atribuciones:  I.\tAprobar y modificar su reglamento de sesiones, y el Estatuto Orgánico del Consejo, con base en la propuesta que pre",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 94,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
@@ -100,16 +100,16 @@
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
       "source_article": "30",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "Artículo 30.- La Presidencia del Consejo tendrá, además de aquellas que establece el artículo 59 de la Ley Federal de las Entidades Paraestatales, las siguientes atribuciones: Párrafo reformado DOF 20-03-2014  I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento del ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 100,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
@@ -123,7 +123,7 @@
       "confidence": "high",
       "char_offset": 683,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
@@ -138,7 +138,7 @@
       "confidence": "high",
       "char_offset": 162,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 293,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "high",
       "char_offset": 362,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
@@ -255,7 +255,7 @@
       "confidence": "high",
       "char_offset": 240,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
@@ -270,23 +270,23 @@
       "confidence": "high",
       "char_offset": 780,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
       "source_article": "79",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "natorias, además de las medidas administrativas y de reparación que se les impongan, quedarán sujetas a las responsabilidades en que hayan incurrido, en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.  El Consejo enviará la resolución al órgano constitucional autónomo en materia anticorrupción, al contralor interno o al titular del área de respons",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 299,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
@@ -360,7 +360,7 @@
       "confidence": "medium",
       "char_offset": 33038,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -405,7 +405,7 @@
       "confidence": "medium",
       "char_offset": 34331,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
+      "resolution_score": 0.3769633507853403,
       "resolution_matched_alias": null
     },
     {
@@ -451,5 +451,5 @@
       "char_offset": 2368
     }
   ],
-  "resolved_at": "2026-03-31T00:21:58.797825+00:00"
+  "resolved_at": "2026-03-31T00:30:08.673172+00:00"
 }

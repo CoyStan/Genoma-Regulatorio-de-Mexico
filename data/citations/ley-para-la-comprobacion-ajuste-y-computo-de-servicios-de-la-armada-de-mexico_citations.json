@@ -45,7 +45,7 @@
       "confidence": "medium",
       "char_offset": 408,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6296296296296297,
       "resolution_matched_alias": null
     },
     {
@@ -61,5 +61,5 @@
       "char_offset": 845
     }
   ],
-  "resolved_at": "2026-03-31T00:22:08.948349+00:00"
+  "resolved_at": "2026-03-31T00:30:21.066007+00:00"
 }

@@ -148,16 +148,16 @@
       "source_law": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
       "source_article": "73",
       "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-defensoria-publica",
       "target_article": null,
       "citation_text": " así como la realización de los concursos de oposición para Defensoras públicas o Defensores públicos y Asesoras o Asesores jurídicos, en términos de lo dispuesto en la Ley Federal de Defensoría Pública.  Los procesos de selección y oposición para el ingreso al servicio de carrera del Instituto Federal de Defensoría Pública se sujetarán, en lo conduc",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 360,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de defensoría pública"
     },
     {
       "source_law": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
@@ -202,5 +202,5 @@
       "char_offset": 1795
     }
   ],
-  "resolved_at": "2026-03-31T00:21:40.261477+00:00"
+  "resolved_at": "2026-03-31T00:29:43.906527+00:00"
 }

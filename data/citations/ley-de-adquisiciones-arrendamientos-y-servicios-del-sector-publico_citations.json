@@ -69,7 +69,7 @@
       "confidence": "high",
       "char_offset": 873,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -84,7 +84,7 @@
       "confidence": "high",
       "char_offset": 1088,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -148,31 +148,31 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "32",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y a las demás disposiciones",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " de las adquisiciones, arrendamientos y servicios se sujetará a las disposiciones específicas del Presupuesto de Egresos de la Federación, así como a lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y a las demás disposiciones aplicables; los recursos destinados a ese fin se administrarán con eficiencia, eficacia, economía, imparcialidad, transparencia y honradez para satisfacer los o",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 218,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7971014492753623,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "33",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "contraídas en ejercicios anteriores. Para los efectos del párrafo anterior, las dependencias y entidades observarán lo dispuesto en el artículo 50 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La información sobre estos contratos se difundirá a través de la Plataforma.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1963,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -240,7 +240,7 @@
       "confidence": "high",
       "char_offset": 2370,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -270,7 +270,7 @@
       "confidence": "high",
       "char_offset": 2745,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44755244755244755,
+      "resolution_score": 0.37410071942446044,
       "resolution_matched_alias": null
     },
     {
@@ -285,7 +285,7 @@
       "confidence": "medium",
       "char_offset": 590,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6410256410256411,
+      "resolution_score": 0.4580152671755725,
       "resolution_matched_alias": null
     },
     {
@@ -481,5 +481,5 @@
       "char_offset": 8133
     }
   ],
-  "resolved_at": "2026-03-31T00:21:37.129825+00:00"
+  "resolved_at": "2026-03-31T00:29:40.274102+00:00"
 }

@@ -66,7 +66,7 @@
       "confidence": "medium",
       "char_offset": 174,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5064935064935064,
+      "resolution_score": 0.4508670520231214,
       "resolution_matched_alias": null
     },
     {
@@ -391,16 +391,16 @@
       "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "73",
       "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-defensoria-publica",
       "target_article": null,
       "citation_text": "iversas disposiciones de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley Federal de Defensoría Pública; de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; de la Ley Reglamentaria d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23455,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de defensoría pública"
     },
     {
       "source_law": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
@@ -445,5 +445,5 @@
       "char_offset": 1146
     }
   ],
-  "resolved_at": "2026-03-31T00:22:09.605225+00:00"
+  "resolved_at": "2026-03-31T00:30:21.868304+00:00"
 }

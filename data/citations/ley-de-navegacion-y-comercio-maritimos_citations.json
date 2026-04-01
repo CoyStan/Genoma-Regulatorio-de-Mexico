@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 5775,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 290,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 883,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 1058,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -240,7 +240,7 @@
       "confidence": "high",
       "char_offset": 1204,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -277,16 +277,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "44",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "2-2016, 07-12-2020  El incumplimiento de lo dispuesto en este artículo, dará lugar a la aplicación de las sanciones y responsabilidades que establece la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.  Los plazos señalados en este artículo no serán aplicables al otorgamiento de permisos temporales de navegación, los cuales serán regulados exclusiv",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 913,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -330,7 +330,7 @@
       "confidence": "high",
       "char_offset": 1324,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -360,7 +360,7 @@
       "confidence": "high",
       "char_offset": 137,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -375,7 +375,7 @@
       "confidence": "high",
       "char_offset": 1287,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -402,7 +402,7 @@
       "confidence": "high",
       "char_offset": 218,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.3787878787878788,
       "resolution_matched_alias": null
     },
     {
@@ -417,7 +417,7 @@
       "confidence": "high",
       "char_offset": 276,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -447,7 +447,7 @@
       "confidence": "high",
       "char_offset": 1164,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -534,7 +534,7 @@
       "confidence": "high",
       "char_offset": 146,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -549,7 +549,7 @@
       "confidence": "medium",
       "char_offset": 141,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5428571428571428,
+      "resolution_score": 0.41509433962264153,
       "resolution_matched_alias": null
     },
     {
@@ -579,7 +579,7 @@
       "confidence": "high",
       "char_offset": 292,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -594,7 +594,7 @@
       "confidence": "high",
       "char_offset": 227,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -681,7 +681,7 @@
       "confidence": "high",
       "char_offset": 393,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -696,7 +696,7 @@
       "confidence": "medium",
       "char_offset": 459,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -730,16 +730,16 @@
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
       "source_article": "328",
       "target_law_raw": "Ley Federal de Responsabilidad Ambiental y se reforman",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidad-ambiental",
       "target_article": null,
       "citation_text": "011.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvest",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4781,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.851063829787234,
+      "resolution_matched_alias": "ley federal de responsabilidad ambiental"
     },
     {
       "source_law": "ley-de-navegacion-y-comercio-maritimos",
@@ -889,5 +889,5 @@
       "char_offset": 2959
     }
   ],
-  "resolved_at": "2026-03-31T00:21:47.120045+00:00"
+  "resolved_at": "2026-03-31T00:29:52.667887+00:00"
 }

@@ -124,16 +124,16 @@
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "30",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  México, D.F., a 8 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1341,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
@@ -148,5 +148,5 @@
       "char_offset": 1686
     }
   ],
-  "resolved_at": "2026-03-31T00:22:05.272806+00:00"
+  "resolved_at": "2026-03-31T00:30:16.908796+00:00"
 }

@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 1755,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6329113924050633,
+      "resolution_score": 0.5853658536585366,
       "resolution_matched_alias": null
     },
     {
@@ -79,16 +79,16 @@
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
       "source_article": "48",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Artículo 48.- La omisión en los informes a que se refiere el artículo anterior, dará lugar a las responsabilidades previstas, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 126,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
@@ -472,5 +472,5 @@
       "char_offset": 4544
     }
   ],
-  "resolved_at": "2026-03-31T00:21:47.776878+00:00"
+  "resolved_at": "2026-03-31T00:29:53.499108+00:00"
 }

@@ -15,23 +15,23 @@
       "confidence": "high",
       "char_offset": 5583,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "2o",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "1, 14-03-2014, 12-01-2016, 16-06-2016  II.\tAcopio y tráfico de armas, previstos en los artículos 83 Bis, 84, 84 Bis, párrafo primero, 85 y 85 Bis, de la Ley Federal de Armas de Fuego y Explosivos; Fracción reformada DOF 19-02-2021  III.\tTráfico de personas, previsto en el artículo 159 de la Ley de Migración; Fracción reformada DOF 25-05-2011, ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1149,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -75,7 +75,7 @@
       "confidence": "medium",
       "char_offset": 3427,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -246,7 +246,7 @@
       "confidence": "high",
       "char_offset": 9554,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4264705882352941,
+      "resolution_score": 0.4132231404958678,
       "resolution_matched_alias": null
     },
     {
@@ -261,7 +261,7 @@
       "confidence": "high",
       "char_offset": 14758,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -276,7 +276,7 @@
       "confidence": "high",
       "char_offset": 15155,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -321,7 +321,7 @@
       "confidence": "high",
       "char_offset": 67817,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -456,7 +456,7 @@
       "confidence": "medium",
       "char_offset": 6979,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6131386861313869,
+      "resolution_score": 0.47706422018348627,
       "resolution_matched_alias": null
     },
     {
@@ -486,7 +486,7 @@
       "confidence": "medium",
       "char_offset": 7647,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
+      "resolution_score": 0.38961038961038963,
       "resolution_matched_alias": null
     },
     {
@@ -523,16 +523,16 @@
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Preventiva, de la Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de la Ley Federal de Procedimiento Contencioso Administrativo.  Publicado en el Diario Oficial de la Federación el 23 de enero de 2009  ARTÍCULO S",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8790,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -696,7 +696,7 @@
       "confidence": "medium",
       "char_offset": 18134,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6530612244897959,
       "resolution_matched_alias": null
     },
     {
@@ -748,16 +748,16 @@
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley Federal de Extinción de Dominio",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "l Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.  Publicado en el Diario Oficial de la Federación el 14 de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23695,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8450704225352113,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -793,16 +793,16 @@
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
       "source_article": "45",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "res y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 37762,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-contra-la-delincuencia-organizada",
@@ -861,7 +861,7 @@
       "confidence": "medium",
       "char_offset": 55082,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5921052631578947,
+      "resolution_score": 0.3776223776223776,
       "resolution_matched_alias": null
     },
     {
@@ -907,5 +907,5 @@
       "char_offset": 1080
     }
   ],
-  "resolved_at": "2026-03-31T00:21:53.427085+00:00"
+  "resolved_at": "2026-03-31T00:30:00.349825+00:00"
 }

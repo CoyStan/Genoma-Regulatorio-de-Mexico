@@ -82,31 +82,31 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "2o",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "eral participable estará integrada por el 80.29% de los ingresos petroleros del Gobierno Federal a que se refiere el artículo 2, fracción XXX Bis, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como de los ingresos excedentes a que se refiere el tercer párrafo del artículo 93 de la misma ley. Párrafo adicionado DOF 11-08-2014  El Fondo ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2619,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "2-A",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "12-1986, 29-12-1993  II.- La transferencia del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo que, en términos del artículo 92 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se realice a los municipios colindantes con la frontera o litorales por los que se realice materialmente la salida del país de los hidrocarburos.  L",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2023,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -127,16 +127,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "4o-B",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "á conformado por los recursos que le transfiera el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, en términos del artículo 91 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Párrafo reformado DOF 31-12-2008, 11-08-2014  El Fondo a que se refiere este artículo será distribuido entre aquellas entidades que formen parte de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 210,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -373,16 +373,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "26-A",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "s bancarios en la localidad correspondiente, se realicen a través de otros mecanismos, la comprobación de las erogaciones se realizará en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.  Sin perjuicio de lo anterior, las autoridades educativas de las entidades federativas entregarán a cada uno de sus trabajadores el recibo de nómina",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4415,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -613,16 +613,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "48",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "r, por Entidad Federativa, en los informes trimestrales que deben entregarse al Congreso de la Unión en los términos del artículo 107, fracción I, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; asimismo, pondrá dicha información a disposición para consulta en su página electrónica de Internet, la cual deberá actualizar a más tardar en la fe",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 981,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -643,16 +643,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "49",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " V. El ejercicio de los recursos a que se refiere el presente capítulo deberá sujetarse a la evaluación del desempeño en términos del artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Los resultados del ejercicio de dichos recursos deberán ser evaluados, con base en indicadores, a fin de verificar el cumplimiento de los objetivos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4293,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -741,7 +741,7 @@
       "confidence": "medium",
       "char_offset": 10727,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5076923076923077,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -853,16 +853,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "diciembre de dos mil.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y se reforman la Ley Orgánica de la Administración Pública Federal y la Ley de Coordinación Fiscal.  Publicado en el Diario Oficial de la Federación",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 37073,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -891,7 +891,7 @@
       "confidence": "medium",
       "char_offset": 39102,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.5773195876288659,
       "resolution_matched_alias": null
     },
     {
@@ -921,7 +921,7 @@
       "confidence": "medium",
       "char_offset": 50714,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4852941176470588,
+      "resolution_score": 0.4793388429752066,
       "resolution_matched_alias": null
     },
     {
@@ -951,7 +951,7 @@
       "confidence": "medium",
       "char_offset": 51810,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5082872928176796,
+      "resolution_score": 0.4025974025974026,
       "resolution_matched_alias": null
     },
     {
@@ -996,7 +996,7 @@
       "confidence": "medium",
       "char_offset": 60221,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5208333333333334,
+      "resolution_score": 0.4484848484848485,
       "resolution_matched_alias": null
     },
     {
@@ -1078,16 +1078,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "la recaudación federal participable que provenga de los ingresos petroleros del Gobierno Federal a que se refiere el artículo 2, fracción XXX Bis, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como de los ingresos excedentes a que se refiere el tercer párrafo del artículo 93 de la misma ley, estará integrada por los ingresos que result",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 86591,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1116,23 +1116,23 @@
       "confidence": "medium",
       "char_offset": 88794,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5675675675675675,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley Federal de Derechos y la Ley de Coordinación Fiscal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-derechos",
       "target_article": null,
       "citation_text": "nación Fiscal, sean menores a las que hubieran recibido de haber aplicado a las asignaciones vigentes en el año que corresponda, las disposiciones de la Ley Federal de Derechos y la Ley de Coordinación Fiscal vigentes hasta antes de la entrada en vigor de este Decreto, el Gobierno Federal entregará a las entidades federativas y los municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejerc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 89706,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de derechos"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1183,16 +1183,16 @@
       "source_law": "ley-de-coordinacion-fiscal",
       "source_article": "52",
       "target_law_raw": "Ley Federal de Deuda Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "ministrativa, así como en contratos, convenios y cualquier instrumento jurídico se hagan a la Ley General de Deuda Pública, se entenderán referidas a la Ley Federal de Deuda Pública.  Ciudad de México, a 17 de marzo de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Sen. Hilda Esthe",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 102638,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-de-coordinacion-fiscal",
@@ -1297,5 +1297,5 @@
       "char_offset": 5263
     }
   ],
-  "resolved_at": "2026-03-31T00:21:40.806038+00:00"
+  "resolved_at": "2026-03-31T00:29:44.623966+00:00"
 }

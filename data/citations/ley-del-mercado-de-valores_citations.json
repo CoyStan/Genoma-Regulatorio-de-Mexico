@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 1220,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
+      "resolution_score": 0.5074626865671642,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "medium",
       "char_offset": 1816,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5605095541401274,
+      "resolution_score": 0.43023255813953487,
       "resolution_matched_alias": null
     },
     {
@@ -225,7 +225,7 @@
       "confidence": "medium",
       "char_offset": 2459,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5827814569536424,
+      "resolution_score": 0.3902439024390244,
       "resolution_matched_alias": null
     },
     {
@@ -462,7 +462,7 @@
       "confidence": "medium",
       "char_offset": 555,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7428571428571429,
+      "resolution_score": 0.5074626865671642,
       "resolution_matched_alias": null
     },
     {
@@ -519,7 +519,7 @@
       "confidence": "high",
       "char_offset": 266,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6285714285714286,
+      "resolution_score": 0.4857142857142857,
       "resolution_matched_alias": null
     },
     {
@@ -549,7 +549,7 @@
       "confidence": "high",
       "char_offset": 829,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5882352941176471,
+      "resolution_score": 0.48,
       "resolution_matched_alias": null
     },
     {
@@ -789,7 +789,7 @@
       "confidence": "high",
       "char_offset": 387,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5233644859813084,
+      "resolution_score": 0.3937007874015748,
       "resolution_matched_alias": null
     },
     {
@@ -849,7 +849,7 @@
       "confidence": "high",
       "char_offset": 883,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5319148936170213,
+      "resolution_score": 0.42857142857142855,
       "resolution_matched_alias": null
     },
     {
@@ -966,7 +966,7 @@
       "confidence": "medium",
       "char_offset": 722,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4720496894409938,
+      "resolution_score": 0.41530054644808745,
       "resolution_matched_alias": null
     },
     {
@@ -981,7 +981,7 @@
       "confidence": "medium",
       "char_offset": 422,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6419753086419753,
+      "resolution_score": 0.4782608695652174,
       "resolution_matched_alias": null
     },
     {
@@ -1011,7 +1011,7 @@
       "confidence": "high",
       "char_offset": 1473,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6410256410256411,
+      "resolution_score": 0.5294117647058824,
       "resolution_matched_alias": null
     },
     {
@@ -1056,7 +1056,7 @@
       "confidence": "high",
       "char_offset": 163,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5897435897435898,
+      "resolution_score": 0.4594594594594595,
       "resolution_matched_alias": null
     },
     {
@@ -1086,7 +1086,7 @@
       "confidence": "high",
       "char_offset": 463,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5617977528089888,
+      "resolution_score": 0.45569620253164556,
       "resolution_matched_alias": null
     },
     {
@@ -1303,16 +1303,16 @@
       "source_law": "ley-del-mercado-de-valores",
       "source_article": "395",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Artículo 395.- Serán sancionados con la destitución del puesto en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, los vocales y secretario de la Junta de Gobierno de la Comisión, así como los servidores públicos de la misma que dolosamente contravengan lo establ",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 63,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-del-mercado-de-valores",
@@ -1428,7 +1428,7 @@
       "confidence": "medium",
       "char_offset": 13518,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4270833333333333,
+      "resolution_score": 0.5165562913907285,
       "resolution_matched_alias": null
     },
     {
@@ -1804,5 +1804,5 @@
       "char_offset": 13904
     }
   ],
-  "resolved_at": "2026-03-31T00:21:51.306508+00:00"
+  "resolved_at": "2026-03-31T00:29:57.576572+00:00"
 }

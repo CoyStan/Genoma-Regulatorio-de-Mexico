@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 2513,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5675675675675675,
+      "resolution_score": 0.6037735849056604,
       "resolution_matched_alias": null
     },
     {
@@ -126,7 +126,7 @@
       "confidence": "medium",
       "char_offset": 563,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5283018867924528,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -289,16 +289,16 @@
       "source_law": "ley-general-de-archivos",
       "source_article": "113",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales y su Reglamento",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "úblico y con una unidad encargada del control y vigilancia, de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales y su Reglamento; y ejercerá las facultades previstas en estos ordenamientos y los demás que le resulten aplicables.  CAPÍTULO V DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCH",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 209,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.84,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-archivos",
@@ -343,5 +343,5 @@
       "char_offset": 5449
     }
   ],
-  "resolved_at": "2026-03-31T00:21:59.384582+00:00"
+  "resolved_at": "2026-03-31T00:30:09.385774+00:00"
 }

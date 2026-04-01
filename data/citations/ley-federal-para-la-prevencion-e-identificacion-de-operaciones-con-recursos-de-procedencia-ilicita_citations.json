@@ -466,16 +466,16 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "17",
       "target_law_raw": "Ley Federal de Juegos y Sorteos y su Reglamento",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-juegos-y-sorteos",
       "target_article": null,
       "citation_text": "les aplicables, o se lleven a cabo al amparo de los permisos o autorizaciones vigentes concedidos por la Secretaría de Gobernación bajo el régimen de la Ley Federal de Juegos y Sorteos y su Reglamento. En estos casos, únicamente cuando se lleven a cabo bajo las siguientes modalidades y montos:  La venta de boletos, fichas o cualquier otro tipo de c",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 487,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7948717948717948,
+      "resolution_matched_alias": "ley federal de juegos y sorteos"
     },
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -516,7 +516,7 @@
       "confidence": "medium",
       "char_offset": 13,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4723618090452261,
+      "resolution_score": 0.3723404255319149,
       "resolution_matched_alias": null
     },
     {
@@ -531,7 +531,7 @@
       "confidence": "medium",
       "char_offset": 1761,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4444444444444444,
+      "resolution_score": 0.4221105527638191,
       "resolution_matched_alias": null
     },
     {
@@ -766,5 +766,5 @@
       "char_offset": 2712
     }
   ],
-  "resolved_at": "2026-03-31T00:21:58.688315+00:00"
+  "resolved_at": "2026-03-31T00:30:08.567754+00:00"
 }

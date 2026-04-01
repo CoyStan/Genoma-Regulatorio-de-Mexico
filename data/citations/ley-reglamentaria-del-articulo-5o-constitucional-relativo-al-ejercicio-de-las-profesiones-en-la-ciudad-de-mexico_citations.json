@@ -111,7 +111,7 @@
       "confidence": "medium",
       "char_offset": 184,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5571428571428572,
+      "resolution_score": 0.49032258064516127,
       "resolution_matched_alias": null
     },
     {
@@ -205,16 +205,16 @@
       "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
       "source_article": "22",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " y sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  México, D.F., a 29 de abril de 2010.- Dip. Francisco Javier Ramírez Acuña, Presidente.- Sen. Carlos Navarrete Ruiz, Presidente.- Dip. Jaime Arturo ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7981,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
@@ -243,7 +243,7 @@
       "confidence": "medium",
       "char_offset": 8965,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -258,7 +258,7 @@
       "confidence": "medium",
       "char_offset": 9153,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -535,16 +535,16 @@
       "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
       "source_article": "22",
       "target_law_raw": "Ley Federal de Archivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-archivos",
       "target_article": null,
       "citation_text": "iedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 10250,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9130434782608695,
+      "resolution_matched_alias": "ley general de archivos"
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
@@ -559,5 +559,5 @@
       "char_offset": 319
     }
   ],
-  "resolved_at": "2026-03-31T00:22:09.668522+00:00"
+  "resolved_at": "2026-03-31T00:30:21.931144+00:00"
 }

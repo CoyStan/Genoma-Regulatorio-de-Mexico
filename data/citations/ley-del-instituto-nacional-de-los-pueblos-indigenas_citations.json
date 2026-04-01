@@ -97,46 +97,46 @@
       "source_law": "ley-del-instituto-nacional-de-los-pueblos-indigenas",
       "source_article": "15",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "Artículo 15. La Junta de Gobierno, además de las atribuciones que le confiere el artículo 58 de la Ley Federal de las Entidades Paraestatales, tendrá las siguientes facultades:  I.\tAprobar el proyecto de presupuesto anual del Instituto y su programa operativo anual, a propuesta de su Direct",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 96,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-los-pueblos-indigenas",
       "source_article": "16",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "rsona titular de la Presidencia del Ejecutivo Federal, de quien dependerá directamente, debiendo reunir los requisitos previstos en el artículo 21 de la Ley Federal de las Entidades Paraestatales.  Además de los requisitos señalados, la persona titular de la Dirección General deberá pertenecer a un pueblo indígena o afromexicanos y preferentem",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 255,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-los-pueblos-indigenas",
       "source_article": "17",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "Artículo 17. El Director o Directora General del Instituto, además de las facultades y obligaciones que le confiere el artículo 59 de la Ley Federal de las Entidades Paraestatales, tendrá las siguientes:  I.\tPlanear, programar, organizar, dirigir, controlar y evaluar el buen funcionamiento del Instituto, dando cumplimiento a lo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 134,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-los-pueblos-indigenas",
@@ -184,16 +184,16 @@
       "source_law": "ley-del-instituto-nacional-de-los-pueblos-indigenas",
       "source_article": "25",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "o anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas y en los demás ordenamientos legales y administrativos aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 603,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-los-pueblos-indigenas",
@@ -222,7 +222,7 @@
       "confidence": "high",
       "char_offset": 112,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -282,7 +282,7 @@
       "confidence": "medium",
       "char_offset": 5100,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -312,7 +312,7 @@
       "confidence": "medium",
       "char_offset": 6507,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5777777777777777,
+      "resolution_score": 0.3769633507853403,
       "resolution_matched_alias": null
     },
     {
@@ -328,5 +328,5 @@
       "char_offset": 4197
     }
   ],
-  "resolved_at": "2026-03-31T00:21:50.604082+00:00"
+  "resolved_at": "2026-03-31T00:29:56.854497+00:00"
 }

@@ -67,16 +67,16 @@
       "source_law": "ley-federal-de-proteccion-a-la-propiedad-industrial",
       "source_article": "6",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales y en su Decreto de creación",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "- Los órganos de administración del Instituto serán la Junta de Gobierno y la persona Titular de la Dirección General, quienes tendrán las facultades previstas en la Ley Federal de las Entidades Paraestatales y en su Decreto de creación, sin perjuicio de lo previsto en los artículos 5 y 9 de esta Ley.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 161,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.75,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-de-proteccion-a-la-propiedad-industrial",
@@ -105,7 +105,7 @@
       "confidence": "medium",
       "char_offset": 771,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6486486486486487,
+      "resolution_score": 0.5573770491803278,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 1636,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.46616541353383456,
+      "resolution_score": 0.42953020134228187,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "high",
       "char_offset": 683,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -150,7 +150,7 @@
       "confidence": "high",
       "char_offset": 8982,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 2060,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -180,7 +180,7 @@
       "confidence": "high",
       "char_offset": 318,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 573,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 243,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -330,7 +330,7 @@
       "confidence": "high",
       "char_offset": 6656,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -360,7 +360,7 @@
       "confidence": "medium",
       "char_offset": 1643,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6326530612244898,
+      "resolution_score": 0.7297297297297297,
       "resolution_matched_alias": null
     },
     {
@@ -631,5 +631,5 @@
       "char_offset": 8661
     }
   ],
-  "resolved_at": "2026-03-31T00:21:56.831171+00:00"
+  "resolved_at": "2026-03-31T00:30:05.896844+00:00"
 }

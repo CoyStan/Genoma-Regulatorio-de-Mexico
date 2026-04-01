@@ -106,16 +106,16 @@
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "23",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "ada ejercicio presupuestal subsecuente.  Para los efectos de este artículo, las dependencias y entidades observarán lo dispuesto en el artículo 50 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. La información sobre estos contratos se difundirá a través de la Plataforma. Párrafo reformado DOF 28-05-2009, 16-04-2025 Reforma DOF 16-04-2025: De",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 765,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -168,7 +168,7 @@
       "confidence": "high",
       "char_offset": 1080,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -205,16 +205,16 @@
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "45",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " un solo contrato, por el costo total y la vigencia que resulte necesaria para la ejecución de los trabajos, sujetos a la autorización presupuestaria en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. Artículo reformado DOF 01-10-2007, 28-05-2009",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2147,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -228,7 +228,7 @@
       "confidence": "high",
       "char_offset": 3224,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.44755244755244755,
+      "resolution_score": 0.37410071942446044,
       "resolution_matched_alias": null
     },
     {
@@ -243,7 +243,7 @@
       "confidence": "high",
       "char_offset": 1139,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -258,7 +258,7 @@
       "confidence": "medium",
       "char_offset": 235,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6410256410256411,
+      "resolution_score": 0.4580152671755725,
       "resolution_matched_alias": null
     },
     {
@@ -460,16 +460,16 @@
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
       "source_article": "104",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": " Gobernación, Francisco Javier Ramírez Acuña.- Rúbrica.   DECRETO por el que se expide la Ley de Petróleos Mexicanos; se adicionan el artículo 3o. de la Ley Federal de las Entidades Paraestatales; el artículo 1 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y un párrafo tercero al artículo 1 de la Ley de Adquisiciones, Arr",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8234,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
@@ -558,7 +558,7 @@
       "confidence": "medium",
       "char_offset": 30228,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.509090909090909,
+      "resolution_score": 0.44025157232704404,
       "resolution_matched_alias": null
     },
     {
@@ -604,5 +604,5 @@
       "char_offset": 1992
     }
   ],
-  "resolved_at": "2026-03-31T00:21:47.195915+00:00"
+  "resolved_at": "2026-03-31T00:29:52.820715+00:00"
 }

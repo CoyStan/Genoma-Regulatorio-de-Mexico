@@ -16,47 +16,46 @@ Se construyó una red de citaciones del corpus jurídico federal mexicano. Cada 
 |---------|-------|
 | Leyes analizadas | 318 |
 | Nodos en la red | 361 (incluye leyes citadas no descargadas) |
-| Conexiones (citas entre leyes) | 4,074 |
-| Densidad de la red | 0.031 |
+| Conexiones (citas entre leyes) | 4,534 |
+| Densidad de la red | 0.035 |
 | Comunidades regulatorias detectadas | 7 |
-| Dependencias circulares (citas mutuas) | 96 |
-| Referencias huérfanas | 1,013 |
-| Leyes aisladas | 27 |
+| Dependencias circulares (citas mutuas) | 195 |
+| Leyes aisladas | 25 |
 
 ### Las 10 leyes más centrales (por PageRank)
 
 Estas leyes son las más referenciadas — reformarlas tendría el mayor impacto en cascada sobre el resto del sistema:
 
 1. **Constitución Política (CPEUM)** — citada por 316 de 318 leyes. Afecta en cascada a 317 leyes.
-2. **Ley Federal de Competencia Económica (LFCE)** — citada por 220 leyes, impacto en cascada: 230 leyes
-3. **Ley General de Sociedades Mercantiles (LGSM)** — citada por 205 leyes, impacto en cascada: 230 leyes
-4. **Ley de Petróleos Mexicanos (LPEMEX)** — citada por 169 leyes, impacto en cascada: 205 leyes
-5. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — citada por 119 leyes, impacto en cascada: 177 leyes
-6. **Ley General de Educación (LGE)** — citada por 109 leyes, impacto en cascada: 169 leyes
-7. **Ley Federal de Procedimiento Administrativo (LFPA)** — citada por 94 leyes, impacto en cascada: 111 leyes
-8. **Código Nacional de Procedimientos Penales (CNPP)** — citada por 103 leyes, impacto en cascada: 108 leyes
-9. **Ley Federal del Trabajo (LFT)** — citada por 97 leyes, impacto en cascada: 121 leyes
-10. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — citada por 83 leyes, impacto en cascada: 158 leyes
+2. **Ley General de Sociedades Mercantiles (LGSM)** — citada por 203 leyes, impacto en cascada: 269 leyes
+3. **Ley Orgánica del Poder Judicial de la Federación (LOPJF)** — citada por 138 leyes, impacto en cascada: 262 leyes
+4. **Ley Federal de Competencia Económica (LFCE)** — citada por 144 leyes, impacto en cascada: 266 leyes
+5. **Ley General de Educación (LGE)** — citada por 107 leyes, impacto en cascada: 266 leyes
+6. **Código Nacional de Procedimientos Penales (CNPP)** — citada por 102 leyes, impacto en cascada: 267 leyes
+7. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — citada por 91 leyes, impacto en cascada: 259 leyes
+8. **Ley Federal de Procedimiento Administrativo (LFPA)** — citada por 91 leyes, impacto en cascada: 267 leyes
+9. **Ley Federal del Trabajo (LFT)** — citada por 93 leyes, impacto en cascada: 257 leyes
+10. **Ley General de Instituciones y Procedimientos Electorales (LGIPE)** — citada por 82 leyes, impacto en cascada: 263 leyes
 
 ### 7 Comunidades Regulatorias
 
 | Comunidad | Leyes | Ley Central |
 |-----------|-------|-------------|
-| Constitucional / General | 87 | Constitución Política (CPEUM) |
-| Competencia / Mercantil | 76 | Ley Federal de Competencia Económica |
-| Societario / Mercantil | 73 | Ley General de Sociedades Mercantiles |
-| Energía | 50 | Ley de Petróleos Mexicanos |
-| Financiero | 33 | Ley de Instituciones de Crédito |
-| Penal | 23 | Código Nacional de Procedimientos Penales |
-| Fiscal | 18 | Ley del Impuesto sobre la Renta |
+| Constitucional / General | 100 | Constitución Política (CPEUM) |
+| Financiero / Mercantil | 64 | Ley General de Sociedades Mercantiles |
+| Competencia / Regulación | 63 | Ley Federal de Competencia Económica |
+| Propiedad Intelectual / Cultural | 55 | Ley Federal del Derecho de Autor |
+| Salud / Social | 39 | Ley General de Salud |
+| Administrativo | 27 | Ley Orgánica de la Administración Pública Federal |
+| Fiscal / Energía | 13 | Ley de Hidrocarburos |
 
-### 96 Dependencias Circulares
+### 195 Dependencias Circulares
 
 Pares de leyes que se citan mutuamente. Ejemplos notables:
 - **Ley Federal del Trabajo ↔ Ley del Seguro Social**
 - **Ley de Instituciones de Crédito ↔ Ley del Mercado de Valores**
 
-### 27 Leyes Aisladas
+### 25 Leyes Aisladas
 
 Leyes con 2 o menos conexiones: Ley de Capitalización del PROCAMPO, Ley de Recompensas de la Armada, Ley para Conservar la Neutralidad del País, entre otras.
 
@@ -72,18 +71,26 @@ Términos definidos de forma distinta en múltiples leyes:
 
 ## Limitaciones Actuales
 
-- El **85.7% de las citas fueron resueltas** — el 14.3% restante incluye referencias genéricas ("ley de la materia", "Reglamento de esta Ley") y leyes abrogadas
-- La alta centralidad de LFCE y LPEMEX puede incluir artefactos del patrón `direct_mention` — requiere verificación adicional
+- El **87.1% de las citas fueron resueltas** (10,844 de 12,444) — el 12.9% restante incluye referencias genéricas ("ley de la materia", "Reglamento de esta Ley") y leyes abrogadas
 - La extracción de citas es por patrones de texto (regex), no NLP — puede perder referencias complejas
 - El análisis es **estático** — no captura la evolución histórica de las reformas
 
 ---
 
+## Correcciones Metodológicas Aplicadas
+
+- **Falsos positivos `direct_mention`**: Se añadió filtro de contexto para excluir citas en listas de derogación, preámbulos de decretos y referencias genéricas
+- **LPEMEX falso alias**: El alias "Ley Orgánica de PEMEX" atraía todas las "Ley Orgánica de X" — eliminado
+- **LFCE falso partial match**: El mecanismo de coincidencia parcial en lookup.py mapeaba todas las "Ley Federal de X" a LFCE — corregido priorizando el registro de corpus sobre coincidencias de baja confianza
+- **Registro de corpus dinámico**: Resolución ampliada de 48 leyes hardcodeadas a las 318 del corpus completo
+
+---
+
 ## Próximos Pasos Sugeridos
 
-1. Investigar las 1,013 referencias huérfanas (nodos citados que no están en el corpus)
-2. Verificar manualmente una muestra de las 96 dependencias circulares
-3. Mejorar la clasificación de sectores para las comunidades etiquetadas como "unknown"
+1. Mejorar la clasificación de sectores para las comunidades etiquetadas como "unknown"
+2. Investigar las ~1,580 referencias huérfanas (nodos citados que no están en el corpus)
+3. Verificar manualmente una muestra de las 195 dependencias circulares
 4. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
 
 ---

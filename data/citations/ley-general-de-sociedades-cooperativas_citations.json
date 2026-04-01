@@ -264,7 +264,7 @@
       "confidence": "medium",
       "char_offset": 1320,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6984126984126984,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -279,7 +279,7 @@
       "confidence": "medium",
       "char_offset": 1430,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5494505494505495,
+      "resolution_score": 0.5217391304347826,
       "resolution_matched_alias": null
     },
     {
@@ -294,7 +294,7 @@
       "confidence": "medium",
       "char_offset": 5660,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6262626262626263,
+      "resolution_score": 0.4566929133858268,
       "resolution_matched_alias": null
     },
     {
@@ -309,7 +309,7 @@
       "confidence": "medium",
       "char_offset": 6198,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5535714285714286,
+      "resolution_score": 0.4675324675324675,
       "resolution_matched_alias": null
     },
     {
@@ -354,7 +354,7 @@
       "confidence": "medium",
       "char_offset": 19372,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -369,7 +369,7 @@
       "confidence": "medium",
       "char_offset": 19560,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -646,16 +646,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley Federal de Archivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-archivos",
       "target_article": null,
       "citation_text": "iedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20657,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9130434782608695,
+      "resolution_matched_alias": "ley general de archivos"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -676,16 +676,16 @@
       "source_law": "ley-general-de-sociedades-cooperativas",
       "source_article": "94",
       "target_law_raw": "Ley Federal de Austeridad Republicana",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-austeridad-republicana",
       "target_article": null,
       "citation_text": "el que se expide la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Austeridad Republicana; de la Ley de la Economía Social y Solidaria y de la Ley General de Sociedades Cooperativas.  Publicado en el Diario Oficial de la Federación el 16 d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 22119,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de austeridad republicana"
     },
     {
       "source_law": "ley-general-de-sociedades-cooperativas",
@@ -715,5 +715,5 @@
       "char_offset": 2499
     }
   ],
-  "resolved_at": "2026-03-31T00:22:02.920150+00:00"
+  "resolved_at": "2026-03-31T00:30:13.779488+00:00"
 }

@@ -39,7 +39,7 @@
       "confidence": "high",
       "char_offset": 5943,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -69,7 +69,7 @@
       "confidence": "high",
       "char_offset": 800,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -129,7 +129,7 @@
       "confidence": "high",
       "char_offset": 1339,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5405405405405406,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -276,7 +276,7 @@
       "confidence": "high",
       "char_offset": 1142,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -291,7 +291,7 @@
       "confidence": "high",
       "char_offset": 592,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -306,7 +306,7 @@
       "confidence": "high",
       "char_offset": 421,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -321,7 +321,7 @@
       "confidence": "high",
       "char_offset": 607,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -381,7 +381,7 @@
       "confidence": "high",
       "char_offset": 457,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5641025641025641,
+      "resolution_score": 0.4852941176470588,
       "resolution_matched_alias": null
     },
     {
@@ -418,16 +418,16 @@
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "131",
       "target_law_raw": "Ley Federal de Sanidad Animal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-animal",
       "target_article": null,
       "citation_text": "probación del cumplimiento de las disposiciones relativas a la sanidad de especies acuícolas, es aplicable de forma supletoria en lo que corresponda, lo dispuesto en la Ley Federal de Sanidad Animal.  TÍTULO DÉCIMO CUARTO INFRACCIONES, SANCIONES Y RESPONSABILIDADES  CAPÍTULO I DE LAS INFRACCIONES",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1431,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad animal"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -456,7 +456,7 @@
       "confidence": "medium",
       "char_offset": 1080,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4892703862660944,
+      "resolution_score": 0.4636363636363636,
       "resolution_matched_alias": null
     },
     {
@@ -535,31 +535,31 @@
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "148",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "a deriven, dará lugar a la responsabilidad en términos de lo establecido en el Título IV de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de Procedimiento Administrativo, y las Leyes Estatale",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 350,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "148",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "ablecido en el Título IV de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la Ley Federal de Procedimiento Administrativo, y las Leyes Estatales de Responsabilidades de los Servidores Públicos.  Las responsabilidades a que ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 414,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -630,7 +630,7 @@
       "confidence": "medium",
       "char_offset": 1640,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7076923076923077,
+      "resolution_score": 0.48,
       "resolution_matched_alias": null
     },
     {
@@ -690,7 +690,7 @@
       "confidence": "medium",
       "char_offset": 18542,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -705,7 +705,7 @@
       "confidence": "medium",
       "char_offset": 18730,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -982,16 +982,16 @@
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
       "source_article": "152",
       "target_law_raw": "Ley Federal de Archivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-archivos",
       "target_article": null,
       "citation_text": "iedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19827,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9130434782608695,
+      "resolution_matched_alias": "ley general de archivos"
     },
     {
       "source_law": "ley-general-de-pesca-y-acuacultura-sustentables",
@@ -1006,5 +1006,5 @@
       "char_offset": 3015
     }
   ],
-  "resolved_at": "2026-03-31T00:22:02.076267+00:00"
+  "resolved_at": "2026-03-31T00:30:12.643854+00:00"
 }

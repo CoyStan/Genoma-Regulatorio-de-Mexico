@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 97,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6301369863013698,
+      "resolution_score": 0.5074626865671642,
       "resolution_matched_alias": null
     },
     {
@@ -64,16 +64,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "9o",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "o.- Las armas de fuego, municiones y explosivos serán administradas por la Secretaría de la Defensa Nacional. En todo caso deberá observarse, además, lo dispuesto en la Ley Federal de Armas de Fuego y Explosivos.  Tratándose de substancias psicotrópicas, estupefacientes, psicoactivas, drogas, narcóticos, flora y fauna protegidos o en peligro de extinción, mat",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 160,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -294,7 +294,7 @@
       "confidence": "medium",
       "char_offset": 225,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6554621848739496,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -309,7 +309,7 @@
       "confidence": "high",
       "char_offset": 1542,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.5277777777777778,
       "resolution_matched_alias": null
     },
     {
@@ -324,38 +324,38 @@
       "confidence": "high",
       "char_offset": 2870,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "81",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales y otras disposiciones jurídicas",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "a condonación, por parte del Instituto, de créditos transferidos, y Fracción adicionada DOF 09-08-2019  XVIII.- Las demás que se señalen en esta Ley, la Ley Federal de las Entidades Paraestatales y otras disposiciones jurídicas aplicables. Fracción adicionada DOF 23-02-2005. Reformada y recorrida DOF 09-08-2019",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3975,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "84",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "un Comisario Público y un Suplente, designados por la Secretaría de la Función Pública, quienes tendrán a su cargo las atribuciones que les confieren la Ley Federal de las Entidades Paraestatales, su reglamento y demás disposiciones aplicables.  El Comisario asistirá, con voz, pero sin voto, a las sesiones de la Junta de Gobierno del Instituto",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 227,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -391,16 +391,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "85",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "o anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública, y en los demás ordenamientos leg",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 922,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -436,16 +436,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "86",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": " encontrarse en alguno de los impedimentos que para ser miembro del Órgano de Gobierno que señalan las fracciones II, III, IV y V, del artículo 19 de la Ley Federal de las Entidades Paraestatales, y Fracción reformada DOF 09-08-2019  IV.- No formar parte de las instituciones autorizadas para recibir donativos deducibles en los términos de la L",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 681,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -486,7 +486,7 @@
       "confidence": "medium",
       "char_offset": 657,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6802721088435374,
+      "resolution_score": 0.45555555555555555,
       "resolution_matched_alias": null
     },
     {
@@ -501,7 +501,7 @@
       "confidence": "medium",
       "char_offset": 1710,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7284768211920529,
+      "resolution_score": 0.4276729559748428,
       "resolution_matched_alias": null
     },
     {
@@ -610,16 +610,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley Federal de Extinción de Dominio",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "rán armonizar su legislación respectiva con el presente Decreto.  Cuarto. Los procesos en materia de extinción de dominio iniciados con fundamento en la Ley Federal de Extinción de Dominio, Reglamentaria del artículo 22 de la Constitución Política de los Estados Unidos Mexicanos y en la legislación de las Entidades Federativas, deberán ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 15136,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8450704225352113,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -648,7 +648,7 @@
       "confidence": "medium",
       "char_offset": 20501,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7058823529411765,
+      "resolution_score": 0.47368421052631576,
       "resolution_matched_alias": null
     },
     {
@@ -925,61 +925,61 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley Federal de Variedades Vegetales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-variedades-vegetales",
       "target_article": null,
       "citation_text": "ional de Desarrollo Agropecuario, Rural, Forestal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizacio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26741,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de variedades vegetales"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley Federal de Sanidad Vegetal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-vegetal",
       "target_article": null,
       "citation_text": "restal y Pesquero, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Or",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26784,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad vegetal"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley Federal de Sanidad Animal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-sanidad-animal",
       "target_article": null,
       "citation_text": "ara la Administración y Enajenación de Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Cienci",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26822,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de sanidad animal"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
       "target_article": null,
       "citation_text": "e Bienes del Sector Público, de la Ley Federal de Variedades Vegetales, de la Ley Federal de Sanidad Vegetal, de la Ley Federal de Sanidad Animal, de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil, de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, de la Ley de Protección al Ahorro Bancario, de la Ley de los Institutos Nacionales ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 26859,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de fomento a las actividades realizadas por organizaciones de la sociedad civil"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1075,16 +1075,16 @@
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
       "source_article": "93",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "res, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de los Sistemas de Ahorro para el Retiro, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, y del Decreto por el que se extingue el organismo público desce",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 29462,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
@@ -1144,5 +1144,5 @@
       "char_offset": 3417
     }
   ],
-  "resolved_at": "2026-03-31T00:21:58.489349+00:00"
+  "resolved_at": "2026-03-31T00:30:08.388702+00:00"
 }

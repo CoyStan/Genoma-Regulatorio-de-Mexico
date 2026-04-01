@@ -22,16 +22,16 @@
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
       "source_article": "6o",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "rarán dentro de los costos totales del proyecto;  II. El registro en la cartera de programas y proyectos de inversión, en términos del artículo 34 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, cuando se consideren recursos públicos federales como parte de su financiamiento, y  III. La determinación de las contraprestaciones que el concesio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1571,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-caminos-puentes-y-autotransporte-federal",
@@ -45,7 +45,7 @@
       "confidence": "high",
       "char_offset": 317,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -60,7 +60,7 @@
       "confidence": "high",
       "char_offset": 56,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -75,7 +75,7 @@
       "confidence": "high",
       "char_offset": 144,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -90,7 +90,7 @@
       "confidence": "high",
       "char_offset": 414,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 714,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
+      "resolution_score": 0.45454545454545453,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 190,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -150,7 +150,7 @@
       "confidence": "high",
       "char_offset": 1524,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -270,7 +270,7 @@
       "confidence": "medium",
       "char_offset": 5356,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5352112676056338,
+      "resolution_score": 0.5098039215686274,
       "resolution_matched_alias": null
     },
     {
@@ -300,7 +300,7 @@
       "confidence": "medium",
       "char_offset": 17053,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6578947368421053,
+      "resolution_score": 0.5079365079365079,
       "resolution_matched_alias": null
     },
     {
@@ -391,5 +391,5 @@
       "char_offset": 2402
     }
   ],
-  "resolved_at": "2026-03-31T00:21:40.178315+00:00"
+  "resolved_at": "2026-03-31T00:29:43.822527+00:00"
 }

@@ -69,23 +69,23 @@
       "confidence": "high",
       "char_offset": 3105,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6301369863013698,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "source_article": "17",
       "target_law_raw": "Ley Federal de Monumentos y Zonas Arqueológicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
       "target_article": null,
       "citation_text": "ción Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, declarados monumentos artísticos e históricos en términos de lo dispuesto por la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos se llevará a cabo bajo la rigurosa supervisión de expertos del Instituto Nacional de Antropología e Historia o del Instituto",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 778,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7540983606557377,
+      "resolution_matched_alias": "ley federal sobre monumentos y zonas arqueológicos, artísticos e históricos"
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -153,7 +153,7 @@
       "confidence": "high",
       "char_offset": 1045,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -168,7 +168,7 @@
       "confidence": "high",
       "char_offset": 2505,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -183,7 +183,7 @@
       "confidence": "high",
       "char_offset": 1283,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -198,7 +198,7 @@
       "confidence": "high",
       "char_offset": 1276,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -228,7 +228,7 @@
       "confidence": "high",
       "char_offset": 9874,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47540983606557374,
+      "resolution_score": 0.4375,
       "resolution_matched_alias": null
     },
     {
@@ -303,7 +303,7 @@
       "confidence": "medium",
       "char_offset": 164,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6086956521739131,
+      "resolution_score": 0.6363636363636364,
       "resolution_matched_alias": null
     },
     {
@@ -318,7 +318,7 @@
       "confidence": "high",
       "char_offset": 1101,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5079365079365079,
+      "resolution_score": 0.46808510638297873,
       "resolution_matched_alias": null
     },
     {
@@ -348,7 +348,7 @@
       "confidence": "high",
       "char_offset": 897,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.584070796460177,
+      "resolution_score": 0.49230769230769234,
       "resolution_matched_alias": null
     },
     {
@@ -423,7 +423,7 @@
       "confidence": "high",
       "char_offset": 293,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6486486486486487,
+      "resolution_score": 0.4642857142857143,
       "resolution_matched_alias": null
     },
     {
@@ -438,7 +438,7 @@
       "confidence": "high",
       "char_offset": 1138,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5039370078740157,
+      "resolution_score": 0.4276729559748428,
       "resolution_matched_alias": null
     },
     {
@@ -573,7 +573,7 @@
       "confidence": "high",
       "char_offset": 576,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -835,16 +835,16 @@
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "source_article": "204",
       "target_law_raw": "Ley Federal de Responsabilidad Ambiental y se reforman",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidad-ambiental",
       "target_article": null,
       "citation_text": "o de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvest",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 60275,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.851063829787234,
+      "resolution_matched_alias": "ley federal de responsabilidad ambiental"
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -933,7 +933,7 @@
       "confidence": "medium",
       "char_offset": 71943,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -948,7 +948,7 @@
       "confidence": "medium",
       "char_offset": 72131,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -1180,16 +1180,16 @@
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "source_article": "204",
       "target_law_raw": "Ley Federal de Archivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-archivos",
       "target_article": null,
       "citation_text": "iedades Cooperativas, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley de Fomento para la Lectura y el Libro, y la Ley Federal de Archivos, en Materia de Reconocimiento de la Ciudad de México como entidad federativa, sustitución del nombre de Distrito Federal y definición, en su caso, de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 73228,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9130434782608695,
+      "resolution_matched_alias": "ley general de archivos"
     },
     {
       "source_law": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
@@ -1309,5 +1309,5 @@
       "char_offset": 2075
     }
   ],
-  "resolved_at": "2026-03-31T00:22:04.310814+00:00"
+  "resolved_at": "2026-03-31T00:30:15.619119+00:00"
 }

@@ -81,7 +81,7 @@
       "confidence": "high",
       "char_offset": 208,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6129032258064516,
+      "resolution_score": 0.5357142857142857,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "high",
       "char_offset": 600,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.631578947368421,
+      "resolution_score": 0.5277777777777778,
       "resolution_matched_alias": null
     },
     {
@@ -162,7 +162,7 @@
       "confidence": "medium",
       "char_offset": 837,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5111111111111111,
       "resolution_matched_alias": null
     },
     {
@@ -349,16 +349,16 @@
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "105",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "as erogaciones plurianuales para proyectos de inversión, a que se refieren, respectivamente, los incisos g) y ñ) de la fracción II del artículo 41 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y su evolución se incluyen en los informes trimestrales señalados en la fracción VI de este artículo, y d)\tLa Comisión Federal de Electricidad debe ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1568,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
@@ -399,38 +399,38 @@
       "confidence": "high",
       "char_offset": 399,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "107",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " Congreso de la Unión sobre las adecuaciones realizadas en términos de este párrafo, en los informes trimestrales a que se refiere el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 892,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "108",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "os totales que se eroguen por los servicios contratados se reportan en los informes trimestrales, de acuerdo con lo establecido en el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria; VIII.\tSe debe difundir de manera permanente en su página de Internet y actualizar trimestralmente la siguiente información: a)\tEl contrato colectivo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3883,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
@@ -444,53 +444,53 @@
       "confidence": "medium",
       "char_offset": 4105,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6575342465753424,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "109",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "lo 109.- La Comisión Federal de Electricidad puede realizar proyectos de infraestructura productiva de largo plazo en términos de los artículos 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18, párrafo tercero, de la Ley Federal de Deuda Pública.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 156,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9565217391304348,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "109",
       "target_law_raw": "Ley Federal de Deuda Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "ura productiva de largo plazo en términos de los artículos 32 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y 18, párrafo tercero, de la Ley Federal de Deuda Pública.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 241,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
       "source_article": "111",
       "target_law_raw": "Ley Federal de Deuda Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-deuda-publica",
       "target_article": null,
       "citation_text": "o específico de la iniciativa de Ley de Ingresos de la Federación que el Ejecutivo Federal someta al Congreso de la Unión, conforme al artículo 10 de la Ley Federal de Deuda Pública; II.\tLa Comisión Federal de Electricidad puede realizar, sin requerir autorización de la Secretaría de Hacienda y Crédito Público, negociaciones ofic",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 497,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de deuda pública"
     },
     {
       "source_law": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
@@ -504,7 +504,7 @@
       "confidence": "high",
       "char_offset": 323,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6829268292682927,
+      "resolution_score": 0.7142857142857143,
       "resolution_matched_alias": null
     },
     {
@@ -519,7 +519,7 @@
       "confidence": "high",
       "char_offset": 103,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -549,7 +549,7 @@
       "confidence": "medium",
       "char_offset": 8045,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5111111111111111,
       "resolution_matched_alias": null
     },
     {
@@ -565,5 +565,5 @@
       "char_offset": 781
     }
   ],
-  "resolved_at": "2026-03-31T00:21:45.922540+00:00"
+  "resolved_at": "2026-03-31T00:29:51.092231+00:00"
 }

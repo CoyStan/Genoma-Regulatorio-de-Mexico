@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 5107,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -37,16 +37,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "11",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "o 424 Bis;  B. De los delitos establecidos en los siguientes ordenamientos:  I. Acopio y tráfico de armas, previstos en los artículos 83 Bis y 84, de la Ley Federal de Armas de Fuego y Explosivos;  II. Tráfico de personas, previsto en el artículo 159, de la Ley de Migración;  III. Tráfico de órganos, previsto en los artículos 461, 462 y 462 Bi",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1998,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -90,7 +90,7 @@
       "confidence": "medium",
       "char_offset": 2664,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -342,7 +342,7 @@
       "confidence": "high",
       "char_offset": 1086,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -369,7 +369,7 @@
       "confidence": "medium",
       "char_offset": 557,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -384,7 +384,7 @@
       "confidence": "medium",
       "char_offset": 637,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -426,7 +426,7 @@
       "confidence": "high",
       "char_offset": 3497,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -471,7 +471,7 @@
       "confidence": "medium",
       "char_offset": 3090,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -498,7 +498,7 @@
       "confidence": "high",
       "char_offset": 110,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.5384615384615384,
       "resolution_matched_alias": null
     },
     {
@@ -543,7 +543,7 @@
       "confidence": "high",
       "char_offset": 798,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -631,31 +631,31 @@
       "source_law": "codigo-penal-federal",
       "source_article": "160",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "la reglamentación de las leyes respectivas.  Estos delitos, cuyo conocimiento compete al fuero común, se sancionarán sin perjuicio de lo previsto por la Ley Federal de Armas de Fuego y Explosivos, de aplicación federal en lo que conciernen a estos objetos. Artículo reformado DOF 15-01-1951, 13-01-1984",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 629,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "codigo-penal-federal",
       "source_article": "163",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": " a distancia para el transporte de artefactos explosivos, artefactos explosivos improvisados, armas, narcóticos, drogas sintéticas o demás materiales regulados en la Ley Federal de Armas de Fuego y Explosivos. Artículo adicionado DOF 07-06-2024",
       "pattern_name": "regulada_por",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 291,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -699,7 +699,7 @@
       "confidence": "medium",
       "char_offset": 1347,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6727272727272727,
+      "resolution_score": 0.5081967213114754,
       "resolution_matched_alias": null
     },
     {
@@ -796,16 +796,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "217",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "eración, retribución, jubilación, pensión, haber de retiro, liquidación por servicios prestados, préstamo o crédito, no autorizado de conformidad con lo dispuesto en la Ley Federal de Remuneraciones de los Servidores Públicos;  II.\tQuien reciba un pago indebido en los términos de la fracción anterior sin realizar el reporte dentro del plazo señalado en el artículo 5 de la ",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 404,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -918,7 +918,7 @@
       "confidence": "medium",
       "char_offset": 207,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6451612903225806,
       "resolution_matched_alias": null
     },
     {
@@ -1086,7 +1086,7 @@
       "confidence": "high",
       "char_offset": 397,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -1230,7 +1230,7 @@
       "confidence": "high",
       "char_offset": 229869,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6428571428571429,
+      "resolution_score": 0.6206896551724138,
       "resolution_matched_alias": null
     },
     {
@@ -1290,7 +1290,7 @@
       "confidence": "high",
       "char_offset": 232029,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.5625,
       "resolution_matched_alias": null
     },
     {
@@ -1305,7 +1305,7 @@
       "confidence": "high",
       "char_offset": 77727,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4264705882352941,
+      "resolution_score": 0.4132231404958678,
       "resolution_matched_alias": null
     },
     {
@@ -1320,7 +1320,7 @@
       "confidence": "high",
       "char_offset": 102989,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -1365,7 +1365,7 @@
       "confidence": "high",
       "char_offset": 103386,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6990291262135923,
+      "resolution_score": 0.5609756097560976,
       "resolution_matched_alias": null
     },
     {
@@ -1492,16 +1492,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "s, de la Ley de Extradición Internacional, del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, de la Ley Federal de Responsabilidades de los Servidores Públicos, de la Ley Orgánica del Tribunal Fiscal de la Federación, de la Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal, de la Ley Fed",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 12817,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -1530,7 +1530,7 @@
       "confidence": "medium",
       "char_offset": 12941,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.656,
+      "resolution_score": 0.5882352941176471,
       "resolution_matched_alias": null
     },
     {
@@ -1552,16 +1552,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": " el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; del Código Federal de Procedimientos Penales; de la Ley Federal de Armas de Fuego y Explosivos; del Código de Procedimientos Penales para el Distrito Federal; y del Código Fiscal de la Federación.  Publicado en el Diario Oficial de la Federació",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 17791,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -1815,7 +1815,7 @@
       "confidence": "medium",
       "char_offset": 71316,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6131386861313869,
+      "resolution_score": 0.47706422018348627,
       "resolution_matched_alias": null
     },
     {
@@ -1845,7 +1845,7 @@
       "confidence": "medium",
       "char_offset": 72077,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5555555555555556,
+      "resolution_score": 0.38961038961038963,
       "resolution_matched_alias": null
     },
     {
@@ -1897,16 +1897,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Sentenciados, del Código Penal Federal, de la Ley de la Policía Federal Preventiva, de la Ley Orgánica de la Procuraduría General de la República, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y de la Ley Federal de Procedimiento Contencioso Administrativo.  Publicado en el Diario Oficial de la Federación el 23 de enero de 2009  ARTÍCULO C",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 76475,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -2130,7 +2130,7 @@
       "confidence": "medium",
       "char_offset": 109257,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6530612244897959,
       "resolution_matched_alias": null
     },
     {
@@ -2212,16 +2212,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Responsabilidad Ambiental y se reforman",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidad-ambiental",
       "target_article": null,
       "citation_text": "o de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Responsabilidad Ambiental y se reforman, adicionan y derogan diversas disposiciones de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, de la Ley General de Vida Silvest",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 124553,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.851063829787234,
+      "resolution_matched_alias": "ley federal de responsabilidad ambiental"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -2317,16 +2317,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Extinción de Dominio",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "l Federal; del Código Federal de Procedimientos Penales; de la Ley Federal contra la Delincuencia Organizada; del Código Fiscal de la Federación y de la Ley Federal de Extinción de Dominio, Reglamentaria del Artículo 22 de la Constitución Política de los Estados Unidos Mexicanos.  Publicado en el Diario Oficial de la Federación el 14 de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 129246,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8450704225352113,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -2497,16 +2497,16 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-defensoria-publica",
       "target_article": null,
       "citation_text": "ia de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de Defensoría Pública, del Código Fiscal de la Federación y de la Ley de Instituciones de Crédito.  Publicado en el Diario Oficial de la Federación el 17 de junio de 2016 ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 206152,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de defensoría pública"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -2572,31 +2572,31 @@
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "siciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisici",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 254616,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "codigo-penal-federal",
       "source_article": "1",
       "target_law_raw": "Ley Federal de Remuneraciones de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": " dieciocho.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Dr. Jesús Alfonso Navarrete Prida.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Remuneraciones de los Servidores Públicos, Reglamentaria de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y se adiciona el Código Penal Federal.  Publicad",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 260399,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de remuneraciones de los servidores públicos"
     },
     {
       "source_law": "codigo-penal-federal",
@@ -2716,5 +2716,5 @@
       "char_offset": 12307
     }
   ],
-  "resolved_at": "2026-03-31T00:21:33.071173+00:00"
+  "resolved_at": "2026-03-31T00:29:35.932665+00:00"
 }

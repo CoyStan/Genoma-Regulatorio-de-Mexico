@@ -57,7 +57,7 @@
       "confidence": "high",
       "char_offset": 2279,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -72,7 +72,7 @@
       "confidence": "high",
       "char_offset": 2123,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5048543689320388,
+      "resolution_score": 0.448,
       "resolution_matched_alias": null
     },
     {
@@ -102,7 +102,7 @@
       "confidence": "high",
       "char_offset": 268,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -117,7 +117,7 @@
       "confidence": "high",
       "char_offset": 519,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -132,7 +132,7 @@
       "confidence": "high",
       "char_offset": 1332,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -147,7 +147,7 @@
       "confidence": "high",
       "char_offset": 257,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -162,7 +162,7 @@
       "confidence": "high",
       "char_offset": 228,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47058823529411764,
+      "resolution_score": 0.4603174603174603,
       "resolution_matched_alias": null
     },
     {
@@ -177,23 +177,23 @@
       "confidence": "high",
       "char_offset": 7639,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5901639344262295,
+      "resolution_score": 0.5035971223021583,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
       "source_article": "92",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos con anterioridad a la entrada",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "GUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.  TERCERO.- A las personas que hubieren cometido infracciones o delitos previstos en la Ley Federal de Armas de Fuego y Explosivos con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que hubieren realizado dichas conductas.  México, D.F., a 14 de diciembre de 1998.- Dip. S",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 14947,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
@@ -222,23 +222,23 @@
       "confidence": "medium",
       "char_offset": 5536,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4540540540540541,
+      "resolution_score": 0.4161073825503356,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
       "source_article": "92",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos para quedar como sigue",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": " ARTICULO UNICO.- Se reforman los artículos 77, 81, 82, 83, 84 y 85, y se adicionan los artículos 10 Bis, 83 Ter, 83 Quat, 84 Bis, 84 Ter y 85 Bis de la Ley Federal de Armas de Fuego y Explosivos para quedar como sigue:  ..........  TRANSITORIOS  PRIMERO.- Este Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.  SEGUN",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 14581,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
@@ -313,5 +313,5 @@
       "char_offset": 2603
     }
   ],
-  "resolved_at": "2026-03-31T00:21:53.535277+00:00"
+  "resolved_at": "2026-03-31T00:30:00.480249+00:00"
 }

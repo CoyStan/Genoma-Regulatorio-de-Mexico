@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 1557,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 172,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 207,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "medium",
       "char_offset": 13,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4782608695652174,
+      "resolution_score": 0.39655172413793105,
       "resolution_matched_alias": null
     },
     {
@@ -231,7 +231,7 @@
       "confidence": "high",
       "char_offset": 96,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
     },
     {
@@ -396,7 +396,7 @@
       "confidence": "medium",
       "char_offset": 6324,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6530612244897959,
       "resolution_matched_alias": null
     },
     {
@@ -463,16 +463,16 @@
       "source_law": "ley-general-de-turismo",
       "source_article": "73",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "Turística de México, S.A. de C.V. conservará su personalidad jurídica exclusivamente para efectos del proceso de disolución y liquidación, conforme a la Ley Federal de las Entidades Paraestatales, su Reglamento, la Ley General de Sociedades Mercantiles y los demás instrumentos aplicables a su forma societaria.  Quinto. La Secretaría de Turismo",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 35199,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-general-de-turismo",
@@ -547,5 +547,5 @@
       "char_offset": 4423
     }
   ],
-  "resolved_at": "2026-03-31T00:22:03.838015+00:00"
+  "resolved_at": "2026-03-31T00:30:14.992571+00:00"
 }

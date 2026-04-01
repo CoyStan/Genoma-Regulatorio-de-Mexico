@@ -34,31 +34,31 @@
       "source_law": "ley-que-crea-la-agencia-espacial-mexicana",
       "source_article": "11",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos y el marco legal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Artículo 11. Son causas de remoción del Director General, aquellas que marca la Ley Federal de Responsabilidades de los Servidores Públicos y el marco legal aplicable.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 77,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8740740740740741,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-que-crea-la-agencia-espacial-mexicana",
       "source_article": "14",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "información que requiera para la realización de sus funciones.  Tendrá a su cargo las atribuciones que le confieren los artículos correspondientes de la Ley Federal de las Entidades Paraestatales, así como las del Reglamento Interno de la Agencia y las demás disposiciones legales aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 424,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-que-crea-la-agencia-espacial-mexicana",
@@ -100,5 +100,5 @@
       "char_offset": 2889
     }
   ],
-  "resolved_at": "2026-03-31T00:22:09.478605+00:00"
+  "resolved_at": "2026-03-31T00:30:21.743243+00:00"
 }

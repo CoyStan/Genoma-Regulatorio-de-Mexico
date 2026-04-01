@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 4465,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -142,16 +142,16 @@
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "22",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "os serán sujetos de juicio político en términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y del Título Segundo de la Ley Federal de Responsabilidades de los Servidores Públicos.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 177,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
@@ -177,38 +177,38 @@
       "confidence": "high",
       "char_offset": 1135,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6046511627906976,
+      "resolution_score": 0.4864864864864865,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "31",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "ocedimientos a su cargo durante el desempeño de su responsabilidad.  El incumplimiento a esta disposición se sancionará en términos del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1922,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "32",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "o anterior con independencia de las responsabilidades a que se refiere el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 830,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
@@ -226,46 +226,46 @@
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "35",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Artículo 35. Para efectos de esta Ley, además de los supuestos establecidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, la persona titular de la Autoridad Investigadora podrá ser destituida del cargo por las siguientes causas de responsabilidad administrativa: Párrafo",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 63,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "47",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "Artículo 47. La Comisión se sujetará a lo dispuesto por el artículo 5, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás disposiciones legales y administrativas aplicables. Artículo reformado DOF 16-07-2025  Capítulo II Del Patrimonio",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 87,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "49",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "posiciones Regulatorias.  Lo dispuesto en este artículo se realizará sin perjuicio de los datos e informes que la Comisión deba rendir en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, de la Ley de Fiscalización Superior de la Federación y demás disposiciones aplicables.  Capítulo IV Del Régimen Laboral",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 2606,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
@@ -279,7 +279,7 @@
       "confidence": "medium",
       "char_offset": 2669,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7358490566037735,
+      "resolution_score": 0.6578947368421053,
       "resolution_matched_alias": null
     },
     {
@@ -372,7 +372,7 @@
       "confidence": "high",
       "char_offset": 8403,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45714285714285713,
+      "resolution_score": 0.3548387096774194,
       "resolution_matched_alias": null
     },
     {
@@ -409,16 +409,16 @@
       "source_law": "ley-federal-de-competencia-economica",
       "source_article": "145",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales y demás normativa",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "residente deberá realizar el registro de la Comisión Nacional Antimonopolio en el Registro Público de Organismos Descentralizados, de conformidad con lo previsto en la Ley Federal de las Entidades Paraestatales y demás normativa aplicable.  Décimo Tercero. El titular de la Autoridad Investigadora de la Comisión Federal de Competencia Económica continuará en su encargo como titular de l",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 32481,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8235294117647058,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-federal-de-competencia-economica",
@@ -553,5 +553,5 @@
       "char_offset": 1076
     }
   ],
-  "resolved_at": "2026-03-31T00:21:53.635986+00:00"
+  "resolved_at": "2026-03-31T00:30:00.998156+00:00"
 }

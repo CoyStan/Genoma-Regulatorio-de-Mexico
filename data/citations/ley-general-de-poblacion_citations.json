@@ -30,7 +30,7 @@
       "confidence": "high",
       "char_offset": 387,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
+      "resolution_score": 0.45454545454545453,
       "resolution_matched_alias": null
     },
     {
@@ -60,7 +60,7 @@
       "confidence": "medium",
       "char_offset": 4525,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.484472049689441,
       "resolution_matched_alias": null
     },
     {
@@ -120,7 +120,7 @@
       "confidence": "medium",
       "char_offset": 6938,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5352112676056338,
+      "resolution_score": 0.5098039215686274,
       "resolution_matched_alias": null
     },
     {
@@ -135,7 +135,7 @@
       "confidence": "medium",
       "char_offset": 12912,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6870229007633588,
+      "resolution_score": 0.509090909090909,
       "resolution_matched_alias": null
     },
     {
@@ -270,7 +270,7 @@
       "confidence": "medium",
       "char_offset": 16860,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6530612244897959,
       "resolution_matched_alias": null
     },
     {
@@ -307,16 +307,16 @@
       "source_law": "ley-general-de-poblacion",
       "source_article": "157",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Segundo.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.  México, D. F., a 8 de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20390,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-de-poblacion",
@@ -346,5 +346,5 @@
       "char_offset": 1263
     }
   ],
-  "resolved_at": "2026-03-31T00:22:02.126401+00:00"
+  "resolved_at": "2026-03-31T00:30:12.693921+00:00"
 }

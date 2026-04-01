@@ -1,78 +1,78 @@
 # Genoma Regulatorio de México — Diagnóstico Estructural
 
-_Generado: 2026-03-31T00:22:34.020923+00:00_
+_Generado: 2026-03-31T00:41:52.464318+00:00_
 
 ---
 
 ## 1. Referencias Huérfanas
-_(Citas a leyes abrogadas o desconocidas: 1124 encontradas)_
+_(Citas a leyes abrogadas o desconocidas: 1580 encontradas)_
 
 - **LEY del Seguro Social** → `ley-de-los-sistemas-de-ahorro-para-el-retiro` (13 referencias, tipo: unknown)
+- **PRESUPUESTO de Egresos de la Federación para el Ej** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (11 referencias, tipo: unknown)
+- **PRESUPUESTO de Egresos de la Federación para el Ej** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (11 referencias, tipo: unknown)
 - **LEY General de Contabilidad Gubernamental** → `ley-de-coordinacion-fiscal` (10 referencias, tipo: unknown)
 - **LEY del Sector Hidrocarburos** → `ley-de-ingresos-sobre-hidrocarburos` (10 referencias, tipo: unknown)
 - **LEY de Navegación y Comercio Marítimos** → `ley-de-puertos` (9 referencias, tipo: unknown)
+- **LEY de Ingresos de la Federación para el Ejercicio** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (8 referencias, tipo: unknown)
 - **LEY de Desarrollo Sustentable de la Caña de Azúcar** → `ley-de-desarrollo-rural-sustentable` (8 referencias, tipo: unknown)
+- **LEY General de Contabilidad Gubernamental** → `ley-federal-de-presupuesto-y-responsabilidad-hacendaria` (7 referencias, tipo: unknown)
 - **LEY Aduanera** → `ley-de-los-impuestos-generales-de-importacion-y-de-exportacion` (7 referencias, tipo: unknown)
-- **LEY de Capitalización del Procampo** → `ley-de-desarrollo-rural-sustentable` (7 referencias, tipo: unknown)
-- **LEY Aduanera** → `ley-de-comercio-exterior` (6 referencias, tipo: unknown)
-- **LEY de Instituciones de Crédito** → `ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros` (6 referencias, tipo: unknown)
-- **LEY de Instituciones de Crédito** → `ley-de-la-comision-nacional-bancaria-y-de-valores` (6 referencias, tipo: unknown)
 
 ## 2. Leyes Más Centrales (Columnas Vertebrales del Sistema)
 _(Ordenadas por PageRank — mayor valor = mayor importancia estructural)_
 
-1. **Constitución Política de los Estados Unidos Mexicanos (CPEUM)** — PageRank: 0.0778, citada por 316 leyes, impacto en cascada: 317 leyes
-2. **Ley Federal de Competencia Económica (LFCE)** — PageRank: 0.0310, citada por 218 leyes, impacto en cascada: 266 leyes
-3. **Ley General de Sociedades Mercantiles (LGSM)** — PageRank: 0.0275, citada por 203 leyes, impacto en cascada: 264 leyes
-4. **Ley Orgánica del Poder Judicial de la Federación (LOPJF)** — PageRank: 0.0184, citada por 138 leyes, impacto en cascada: 255 leyes
-5. **Ley General de Educación (LGE)** — PageRank: 0.0148, citada por 107 leyes, impacto en cascada: 251 leyes
-6. **Código Nacional de Procedimientos Penales (CNPP)** — PageRank: 0.0136, citada por 102 leyes, impacto en cascada: 251 leyes
-7. **Ley Federal de Procedimiento Administrativo (LFPA)** — PageRank: 0.0132, citada por 91 leyes, impacto en cascada: 251 leyes
-8. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — PageRank: 0.0127, citada por 91 leyes, impacto en cascada: 246 leyes
-9. **LEY Federal del Trabajo (LFT)** — PageRank: 0.0117, citada por 92 leyes, impacto en cascada: 239 leyes
-10. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — PageRank: 0.0109, citada por 83 leyes, impacto en cascada: 251 leyes
+1. **Constitución Política de los Estados Unidos Mexicanos (CPEUM)** — PageRank: 0.0755, citada por 316 leyes, impacto en cascada: 317 leyes
+2. **Ley General de Sociedades Mercantiles (LGSM)** — PageRank: 0.0263, citada por 203 leyes, impacto en cascada: 269 leyes
+3. **Ley Orgánica del Poder Judicial de la Federación (LOPJF)** — PageRank: 0.0184, citada por 138 leyes, impacto en cascada: 262 leyes
+4. **Ley Federal de Competencia Económica (LFCE)** — PageRank: 0.0184, citada por 144 leyes, impacto en cascada: 266 leyes
+5. **Ley General de Educación (LGE)** — PageRank: 0.0140, citada por 107 leyes, impacto en cascada: 266 leyes
+6. **Código Nacional de Procedimientos Penales (CNPP)** — PageRank: 0.0132, citada por 102 leyes, impacto en cascada: 267 leyes
+7. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — PageRank: 0.0129, citada por 91 leyes, impacto en cascada: 259 leyes
+8. **Ley Federal de Procedimiento Administrativo (LFPA)** — PageRank: 0.0128, citada por 91 leyes, impacto en cascada: 267 leyes
+9. **LEY Federal del Trabajo (LFT)** — PageRank: 0.0110, citada por 92 leyes, impacto en cascada: 257 leyes
+10. **Ley General de Instituciones y Procedimientos Electorales (LGIPE)** — PageRank: 0.0106, citada por 82 leyes, impacto en cascada: 263 leyes
 
 ## 3. Leyes Aisladas (Posiblemente Obsoletas)
-_(Leyes con 2 o menos conexiones totales: 26 encontradas)_
+_(Leyes con 2 o menos conexiones totales: 25 encontradas)_
 
 - **LEY para el uso y protección de la denominación y del emblem** — In: 0, Out: 1
 - **IMPUESTO sobre Servicios Expresamente Declarados de Interés ** — In: 0, Out: 1
 - **LEY Reglamentaria de la Fracción XVIII del Artículo 73 Const** — In: 0, Out: 1
 - **LEY de Educación Naval** — In: 0, Out: 1
 - **LEY que Establece Bases para la Ejecución en México, por el ** — In: 0, Out: 1
-- **LEY Federal de Juegos y Sorteos** — In: 0, Out: 1
 - **LEY Reglamentaria de la Fracción V del Artículo 76 de la Con** — In: 0, Out: 1
 - **LEY para el Diálogo, la Conciliación y la Paz Digna en Chiap** — In: 0, Out: 1
 - **LEY del Diario Oficial de la Federación y Gacetas Gubernamen** — In: 0, Out: 1
 - **LEY que Establece Bases para la Ejecución en México, por el ** — In: 0, Out: 1
+- **LEY que Aprueba la Adhesión de México al Convenio Constituti** — In: 0, Out: 1
 
 ## 4. Análisis de Impacto en Cascada
 _(¿Cuántas leyes se verían afectadas por una reforma a esta ley?)_
 
 1. **Constitución Política de los Estados Unidos Mexicanos (CPEUM)** — afecta directamente a 316 leyes, impacto total en 317 leyes
-2. **Ley Federal de Competencia Económica (LFCE)** — afecta directamente a 218 leyes, impacto total en 266 leyes
-3. **Ley General de Sociedades Mercantiles (LGSM)** — afecta directamente a 203 leyes, impacto total en 264 leyes
-4. **Ley Orgánica del Poder Judicial de la Federación (LOPJF)** — afecta directamente a 138 leyes, impacto total en 255 leyes
-5. **Código Nacional de Procedimientos Penales (CNPP)** — afecta directamente a 102 leyes, impacto total en 251 leyes
-6. **Ley General de Educación (LGE)** — afecta directamente a 107 leyes, impacto total en 251 leyes
-7. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — afecta directamente a 83 leyes, impacto total en 251 leyes
-8. **Ley Federal de Procedimiento Administrativo (LFPA)** — afecta directamente a 91 leyes, impacto total en 251 leyes
-9. **Ley de Petróleos Mexicanos (LPEMEX)** — afecta directamente a 36 leyes, impacto total en 250 leyes
-10. **Ley General del Sistema Nacional Anticorrupción (LGSNA)** — afecta directamente a 71 leyes, impacto total en 249 leyes
+2. **Ley General de Sociedades Mercantiles (LGSM)** — afecta directamente a 203 leyes, impacto total en 269 leyes
+3. **Código Nacional de Procedimientos Penales (CNPP)** — afecta directamente a 102 leyes, impacto total en 267 leyes
+4. **Ley Federal de Telecomunicaciones y Radiodifusión (LFTR)** — afecta directamente a 83 leyes, impacto total en 267 leyes
+5. **Ley Federal de Procedimiento Administrativo (LFPA)** — afecta directamente a 91 leyes, impacto total en 267 leyes
+6. **Ley Federal de Competencia Económica (LFCE)** — afecta directamente a 144 leyes, impacto total en 266 leyes
+7. **Ley General de Educación (LGE)** — afecta directamente a 107 leyes, impacto total en 266 leyes
+8. **Ley de Petróleos Mexicanos (LPEMEX)** — afecta directamente a 36 leyes, impacto total en 265 leyes
+9. **Ley General de Instituciones y Procedimientos Electorales (LGIPE)** — afecta directamente a 82 leyes, impacto total en 263 leyes
+10. **Ley del Instituto de Seguridad y Servicios Sociales de los T (LISSSTE)** — afecta directamente a 49 leyes, impacto total en 262 leyes
 
 ## 5. Dependencias Circulares
-_(Grupos de leyes que se referencian mutuamente: 105 encontrados)_
+_(Grupos de leyes que se referencian mutuamente: 195 encontrados)_
 
 - `codigo-penal-federal → ley-de-navegacion-y-comercio-maritimos → codigo-penal-federal` (ciclo de 2 leyes)
-- `codigo-penal-federal → ley-federal-contra-la-delincuencia-organizada → codigo-penal-federal` (ciclo de 2 leyes)
-- `ley-de-aeropuertos → ley-de-aviacion-civil → ley-de-aeropuertos` (ciclo de 2 leyes)
+- `codigo-penal-federal → ley-federal-de-armas-de-fuego-y-explosivos → codigo-penal-federal` (ciclo de 2 leyes)
 - `ley-de-ahorro-y-credito-popular → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-ahorro-y-credito-popular` (ciclo de 2 leyes)
 - `ley-de-ahorro-y-credito-popular → ley-de-los-sistemas-de-ahorro-para-el-retiro → ley-de-ahorro-y-credito-popular` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-bioseguridad-de-organismos-geneticamente-modificados → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos → ley-de-asistencia-social` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-asistencia-social` (ciclo de 2 leyes)
-- `ley-de-asistencia-social → ley-de-los-institutos-nacionales-de-salud → ley-de-asistencia-social` (ciclo de 2 leyes)
-- `ley-de-asociaciones-publico-privadas → ley-de-expropiacion → ley-de-asociaciones-publico-privadas` (ciclo de 2 leyes)
-- `ley-de-asociaciones-religiosas-y-culto-publico → ley-de-inversion-extranjera → ley-de-asociaciones-religiosas-y-culto-publico` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-de-la-economia-social-y-solidaria → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-federal-de-sanidad-vegetal → ley-de-asistencia-social` (ciclo de 2 leyes)
 
 ## 6. Conflictos de Definiciones
 _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
@@ -91,14 +91,13 @@ _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
 ## 7. Comunidades Regulatorias
 _(Grupos de leyes que se citan frecuentemente entre sí)_
 
-- **Cluster 4** (85 leyes) — Sector dominante: unknown — Ley central: Constitución Política de los Estados Unidos Mexica
-- **Cluster 6** (59 leyes) — Sector dominante: unknown — Ley central: Ley General de Sociedades Mercantiles
-- **Cluster 3** (48 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Competencia Económica
-- **Cluster 0** (41 leyes) — Sector dominante: unknown — Ley central: Código Nacional de Procedimientos Penales
-- **Cluster 7** (37 leyes) — Sector dominante: fiscal — Ley central: Ley Federal del Derecho de Autor
-- **Cluster 1** (33 leyes) — Sector dominante: unknown — Ley central: Ley Orgánica del Poder Judicial de la Federación
-- **Cluster 2** (30 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Procedimiento Administrativo
-- **Cluster 5** (28 leyes) — Sector dominante: financiero — Ley central: Ley de Instituciones de Crédito
+- **Cluster 0** (100 leyes) — Sector dominante: unknown — Ley central: Constitución Política de los Estados Unidos Mexica
+- **Cluster 6** (64 leyes) — Sector dominante: financiero — Ley central: Ley General de Sociedades Mercantiles
+- **Cluster 1** (63 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Competencia Económica
+- **Cluster 3** (55 leyes) — Sector dominante: unknown — Ley central: Ley Federal del Derecho de Autor
+- **Cluster 2** (39 leyes) — Sector dominante: unknown — Ley central: Ley General de Salud
+- **Cluster 5** (27 leyes) — Sector dominante: unknown — Ley central: Ley Orgánica de la Administración Pública Federal
+- **Cluster 4** (13 leyes) — Sector dominante: fiscal — Ley central: Ley de Hidrocarburos
 
 ---
 

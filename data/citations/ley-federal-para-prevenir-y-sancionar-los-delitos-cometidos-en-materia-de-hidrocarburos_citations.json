@@ -97,16 +97,16 @@
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "2",
       "target_law_raw": "Ley Federal de Extinción de Dominio y la Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-nacional-de-extincion-de-dominio",
       "target_article": null,
       "citation_text": "l contra la Delincuencia Organizada, la Ley de Hidrocarburos, la Ley de Seguridad Nacional, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Federal de Extinción de Dominio y la Ley de Navegación y Comercio Marítimos.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 365,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8450704225352113,
+      "resolution_matched_alias": "ley nacional de extinción de dominio"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
@@ -139,31 +139,31 @@
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "13",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "no lo denuncie ante la autoridad competente. Párrafo reformado DOF 18-05-2018  Lo anterior, independientemente de las sanciones aplicables conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 461,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "21",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": " mitad más de acuerdo con la pena prevista en la presente Ley por el delito cometido, independientemente de las sanciones correspondientes conforme a la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, cuando dicho ordenamiento resulte aplicable.  Si el responsable es franquiciatario, asignatario, contratista, permisionario o distribuidor, además d",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 409,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
@@ -204,7 +204,7 @@
       "confidence": "high",
       "char_offset": 180,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.547945205479452,
+      "resolution_score": 0.5538461538461539,
       "resolution_matched_alias": null
     },
     {
@@ -271,16 +271,16 @@
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "23",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "siciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015, deberán considerar en la determinación del costo comprobado de adquisici",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 6955,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
@@ -301,16 +301,16 @@
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "23",
       "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
       "target_article": null,
       "citation_text": "res y del Sistema Nacional de Búsqueda de Personas, de la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, de la Ley Federal de Armas de Fuego y Explosivos, del Código Penal Federal, de la Ley General de Salud, de la Ley Federal contra la Delincuencia Organizada y de la Ley de Vías Generales de Comunicac",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8428,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
     },
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
@@ -385,5 +385,5 @@
       "char_offset": 264
     }
   ],
-  "resolved_at": "2026-03-31T00:21:58.798725+00:00"
+  "resolved_at": "2026-03-31T00:30:08.730816+00:00"
 }

@@ -15,7 +15,7 @@
       "confidence": "medium",
       "char_offset": 1013,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5977011494252874,
+      "resolution_score": 0.4489795918367347,
       "resolution_matched_alias": null
     },
     {
@@ -45,7 +45,7 @@
       "confidence": "high",
       "char_offset": 221,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5180722891566265,
+      "resolution_score": 0.4294478527607362,
       "resolution_matched_alias": null
     },
     {
@@ -79,16 +79,16 @@
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "22",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "ículo deberá ser completa y oportuna. En caso de incumplimiento se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos y las demás disposiciones aplicables. Artículo adicionado DOF 12-06-2003",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1725,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
@@ -166,16 +166,16 @@
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "34",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "s que hubieran realizado la conducta que originó los daños y perjuicios de la aplicación de las sanciones administrativas que procedan en términos de la Ley Federal de Responsabilidades de los Servidores Públicos, así como de las penales y laborales que, en su caso, se deban imponer.  El cumplimiento de la responsabilidad del Servicio de Administración Tributa",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 510,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
@@ -189,7 +189,7 @@
       "confidence": "medium",
       "char_offset": 6480,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
+      "resolution_score": 0.484472049689441,
       "resolution_matched_alias": null
     },
     {
@@ -264,7 +264,7 @@
       "confidence": "medium",
       "char_offset": 8900,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5352112676056338,
+      "resolution_score": 0.5098039215686274,
       "resolution_matched_alias": null
     },
     {
@@ -280,5 +280,5 @@
       "char_offset": 5988
     }
   ],
-  "resolved_at": "2026-03-31T00:21:52.674362+00:00"
+  "resolved_at": "2026-03-31T00:29:59.162520+00:00"
 }

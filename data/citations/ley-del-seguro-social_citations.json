@@ -15,7 +15,7 @@
       "confidence": "high",
       "char_offset": 4329,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5625,
+      "resolution_score": 0.5526315789473685,
       "resolution_matched_alias": null
     },
     {
@@ -45,7 +45,7 @@
       "confidence": "high",
       "char_offset": 1983,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5833333333333334,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -60,7 +60,7 @@
       "confidence": "high",
       "char_offset": 2627,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5853658536585366,
+      "resolution_score": 0.631578947368421,
       "resolution_matched_alias": null
     },
     {
@@ -165,7 +165,7 @@
       "confidence": "high",
       "char_offset": 30,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4540540540540541,
+      "resolution_score": 0.4126984126984127,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 1638,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
+      "resolution_score": 0.45454545454545453,
       "resolution_matched_alias": null
     },
     {
@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 748,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -414,7 +414,7 @@
       "confidence": "medium",
       "char_offset": 189,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6470588235294118,
+      "resolution_score": 0.42758620689655175,
       "resolution_matched_alias": null
     },
     {
@@ -594,7 +594,7 @@
       "confidence": "medium",
       "char_offset": 736,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5714285714285714,
+      "resolution_score": 0.5142857142857142,
       "resolution_matched_alias": null
     },
     {
@@ -639,7 +639,7 @@
       "confidence": "high",
       "char_offset": 5635,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5172413793103449,
+      "resolution_score": 0.4878048780487805,
       "resolution_matched_alias": null
     },
     {
@@ -654,7 +654,7 @@
       "confidence": "high",
       "char_offset": 289,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5063291139240507,
+      "resolution_score": 0.4375,
       "resolution_matched_alias": null
     },
     {
@@ -696,23 +696,23 @@
       "confidence": "high",
       "char_offset": 1015,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5454545454545454,
+      "resolution_score": 0.5185185185185185,
       "resolution_matched_alias": null
     },
     {
       "source_law": "ley-del-seguro-social",
       "source_article": "272",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y disposiciones que de ella emanen",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "ituto, en materia de presupuesto, gasto y su contabilidad, se regirá por lo dispuesto en esta Ley y, en lo no previsto expresamente en ella, aplicará la Ley Federal de Presupuesto y Responsabilidad Hacendaria y disposiciones que de ella emanen. Párrafo reformado DOF 16-01-2009  Los servidores públicos del Instituto serán responsables de cualquier daño o perjuicio estimable en dinero que afe",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 171,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.7586206896551724,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -756,7 +756,7 @@
       "confidence": "medium",
       "char_offset": 1167,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.65,
+      "resolution_score": 0.5858585858585859,
       "resolution_matched_alias": null
     },
     {
@@ -787,16 +787,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "277",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "Artículo 277 E. Sin perjuicio de lo dispuesto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria, los ingresos y gastos de cada seguro se registrarán contablemente por separado. Los gastos indirectos comunes se sujetarán a las reglas de carácter ",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 33,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -810,7 +810,7 @@
       "confidence": "medium",
       "char_offset": 552,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6554621848739496,
+      "resolution_score": 0.5714285714285714,
       "resolution_matched_alias": null
     },
     {
@@ -849,7 +849,7 @@
       "confidence": "high",
       "char_offset": 584,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4931506849315068,
+      "resolution_score": 0.4090909090909091,
       "resolution_matched_alias": null
     },
     {
@@ -916,16 +916,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "303",
       "target_law_raw": "Ley Federal de Responsabilidades de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "Artículo 303 A. El incumplimiento de las obligaciones administrativas, que en su caso correspondan, serán sancionadas en los términos previstos en la Ley Federal de Responsabilidades de los Servidores Públicos, salvo los que se encuentren comprendidos en el artículo 5o. de dicho ordenamiento. Artículo adicionado DOF 20-12-2001  CAPÍTULO II DE LAS INFRACCION",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 134,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -939,7 +939,7 @@
       "confidence": "high",
       "char_offset": 3164,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5483870967741935,
+      "resolution_score": 0.45454545454545453,
       "resolution_matched_alias": null
     },
     {
@@ -954,7 +954,7 @@
       "confidence": "medium",
       "char_offset": 1064,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5301204819277109,
+      "resolution_score": 0.5277777777777778,
       "resolution_matched_alias": null
     },
     {
@@ -1014,7 +1014,7 @@
       "confidence": "high",
       "char_offset": 6313,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.72,
       "resolution_matched_alias": null
     },
     {
@@ -1086,7 +1086,7 @@
       "confidence": "high",
       "char_offset": 21412,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5416666666666666,
+      "resolution_score": 0.4186046511627907,
       "resolution_matched_alias": null
     },
     {
@@ -1258,16 +1258,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4594,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1288,16 +1288,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley Federal de Correduría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-correduria-publica",
       "target_article": null,
       "citation_text": "lamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera;",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 4807,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de correduría pública"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1536,7 +1536,7 @@
       "confidence": "medium",
       "char_offset": 51665,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6075949367088608,
       "resolution_matched_alias": null
     },
     {
@@ -1558,16 +1558,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
       "target_article": null,
       "citation_text": " de dos mil quince.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.   DECRETO por el que se expide la Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas, y se reforman diversas disposiciones de la Ley Federal del Trabajo; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 54735,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de declaración especial de ausencia para personas desaparecidas"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1603,16 +1603,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley Federal de la Defensoría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-defensoria-publica",
       "target_article": null,
       "citation_text": "que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de Justicia Laboral, Liber",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 57112,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9565217391304348,
+      "resolution_matched_alias": "ley federal de defensoría pública"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1753,16 +1753,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "idad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal, y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, por lo que no se autorizarán recursos adicionales para tales efectos, para el presente ejercicio fiscal ni subsecuentes.  Ciudad de México, a 06 de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 125933,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1933,16 +1933,16 @@
       "source_law": "ley-del-seguro-social",
       "source_article": "227",
       "target_law_raw": "Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-proteccion-a-la-propiedad-industrial",
       "target_article": null,
       "citation_text": "os Trabajadores del Estado; de la Ley de Planeación; de la Ley de Vivienda; de la Ley Federal del Trabajo; de la Ley Federal del Derecho de Autor; de la Ley Federal de Protección a la Propiedad Industrial y de la Ley General de Cultura y Derechos Culturales.  Publicado en el Diario Oficial de la Federación el 15 de enero de 2026  Artículo Octavo.- Se reforman los artículos 2; 3; 202; 286 J, fracción IV y",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 144290,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de protección a la propiedad industrial"
     },
     {
       "source_law": "ley-del-seguro-social",
@@ -1987,5 +1987,5 @@
       "char_offset": 2023
     }
   ],
-  "resolved_at": "2026-03-31T00:21:52.531735+00:00"
+  "resolved_at": "2026-03-31T00:29:58.938455+00:00"
 }

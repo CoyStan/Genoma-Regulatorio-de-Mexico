@@ -94,16 +94,16 @@
       "source_law": "ley-de-ahorro-y-credito-popular",
       "source_article": "34",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "e se refiere el párrafo anterior, deberá formularse en todo caso, dentro del procedimiento de verificación a que se refieren los Artículos 41 y 42 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y  IX.\tLa Unidad de Fiscalización de los Recursos de los Partidos Políticos, órgano técnico del Consejo General del Instituto Federal Electoral, par",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3163,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-ahorro-y-credito-popular",
@@ -291,7 +291,7 @@
       "confidence": "medium",
       "char_offset": 207,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5764705882352941,
+      "resolution_score": 0.425531914893617,
       "resolution_matched_alias": null
     },
     {
@@ -333,7 +333,7 @@
       "confidence": "high",
       "char_offset": 1508,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5411764705882353,
+      "resolution_score": 0.46875,
       "resolution_matched_alias": null
     },
     {
@@ -363,7 +363,7 @@
       "confidence": "high",
       "char_offset": 167,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.49142857142857144,
+      "resolution_score": 0.4358974358974359,
       "resolution_matched_alias": null
     },
     {
@@ -408,7 +408,7 @@
       "confidence": "high",
       "char_offset": 17003,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5299145299145299,
+      "resolution_score": 0.45751633986928103,
       "resolution_matched_alias": null
     },
     {
@@ -438,7 +438,7 @@
       "confidence": "high",
       "char_offset": 89486,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5740740740740741,
+      "resolution_score": 0.4264705882352941,
       "resolution_matched_alias": null
     },
     {
@@ -453,7 +453,7 @@
       "confidence": "high",
       "char_offset": 38728,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4492753623188406,
+      "resolution_score": 0.4,
       "resolution_matched_alias": null
     },
     {
@@ -483,7 +483,7 @@
       "confidence": "medium",
       "char_offset": 2725,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6262626262626263,
+      "resolution_score": 0.4566929133858268,
       "resolution_matched_alias": null
     },
     {
@@ -498,7 +498,7 @@
       "confidence": "medium",
       "char_offset": 3263,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5535714285714286,
+      "resolution_score": 0.4675324675324675,
       "resolution_matched_alias": null
     },
     {
@@ -513,7 +513,7 @@
       "confidence": "medium",
       "char_offset": 9936,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.62,
+      "resolution_score": 0.41509433962264153,
       "resolution_matched_alias": null
     },
     {
@@ -814,5 +814,5 @@
       "char_offset": 8151
     }
   ],
-  "resolved_at": "2026-03-31T00:21:38.930700+00:00"
+  "resolved_at": "2026-03-31T00:29:42.271074+00:00"
 }

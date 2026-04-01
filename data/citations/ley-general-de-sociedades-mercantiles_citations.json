@@ -15,7 +15,7 @@
       "confidence": "medium",
       "char_offset": 331,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5176470588235295,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -310,31 +310,31 @@
       "source_law": "ley-general-de-sociedades-mercantiles",
       "source_article": "4º",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "n Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.  Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011  ARTÍCULO SEGUNDO.- Se reforman los artículos 6o, fracción IV; 62, y 89 ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5366,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de procedimiento administrativo"
     },
     {
       "source_law": "ley-general-de-sociedades-mercantiles",
       "source_article": "4º",
       "target_law_raw": "Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-derechos",
       "target_article": null,
       "citation_text": " día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.  SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis m",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5951,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de derechos"
     },
     {
       "source_law": "ley-general-de-sociedades-mercantiles",
@@ -439,5 +439,5 @@
       "char_offset": 235
     }
   ],
-  "resolved_at": "2026-03-31T00:22:02.974718+00:00"
+  "resolved_at": "2026-03-31T00:30:13.830158+00:00"
 }

@@ -210,7 +210,7 @@
       "confidence": "high",
       "char_offset": 945,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5357142857142857,
+      "resolution_score": 0.46153846153846156,
       "resolution_matched_alias": null
     },
     {
@@ -232,16 +232,16 @@
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "20",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "e determine su responsabilidad mediante resolución definitiva dictada por autoridad competente, por ubicarse en alguno de los supuestos contenidos en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos. Párrafo adicionado DOF 24-06-2002",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 988,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
@@ -384,7 +384,7 @@
       "confidence": "high",
       "char_offset": 1736,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5299145299145299,
+      "resolution_score": 0.47619047619047616,
       "resolution_matched_alias": null
     },
     {
@@ -399,7 +399,7 @@
       "confidence": "high",
       "char_offset": 101,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.45588235294117646,
+      "resolution_score": 0.41509433962264153,
       "resolution_matched_alias": null
     },
     {
@@ -429,7 +429,7 @@
       "confidence": "high",
       "char_offset": 13878,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5299145299145299,
+      "resolution_score": 0.45751633986928103,
       "resolution_matched_alias": null
     },
     {
@@ -459,7 +459,7 @@
       "confidence": "medium",
       "char_offset": 4933,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4715447154471545,
+      "resolution_score": 0.4444444444444444,
       "resolution_matched_alias": null
     },
     {
@@ -564,7 +564,7 @@
       "confidence": "medium",
       "char_offset": 23217,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6716417910447762,
+      "resolution_score": 0.47244094488188976,
       "resolution_matched_alias": null
     },
     {
@@ -586,16 +586,16 @@
       "source_law": "ley-organica-del-banco-del-bienestar",
       "source_article": "38",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "s para la modernización del Banco del Bienestar con motivo de la entrada en vigor del presente Decreto, sujeto a la Ley de Ingresos de la Federación, la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como a la disponibilidad, ampliaciones y adecuaciones presupuestarias previstas en el Presupuesto de Egresos de la Federación del ejercicio fisc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 23682,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-organica-del-banco-del-bienestar",
@@ -610,5 +610,5 @@
       "char_offset": 7262
     }
   ],
-  "resolved_at": "2026-03-31T00:22:07.314787+00:00"
+  "resolved_at": "2026-03-31T00:30:19.285614+00:00"
 }

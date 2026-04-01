@@ -39,7 +39,7 @@
       "confidence": "high",
       "char_offset": 519,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -54,7 +54,7 @@
       "confidence": "high",
       "char_offset": 1717,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7272727272727273,
+      "resolution_score": 0.7333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -105,7 +105,7 @@
       "confidence": "high",
       "char_offset": 231,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6153846153846154,
+      "resolution_score": 0.5333333333333333,
       "resolution_matched_alias": null
     },
     {
@@ -207,7 +207,7 @@
       "confidence": "high",
       "char_offset": 3644,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5901639344262295,
+      "resolution_score": 0.5035971223021583,
       "resolution_matched_alias": null
     },
     {
@@ -297,7 +297,7 @@
       "confidence": "medium",
       "char_offset": 1541,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4540540540540541,
+      "resolution_score": 0.4161073825503356,
       "resolution_matched_alias": null
     },
     {
@@ -499,16 +499,16 @@
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "ción III del artículo 51 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas; se reforman los artículos 21, fracción I, de la Ley Federal de las Entidades Paraestatales, 51 de la Ley Reglamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 19864,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -529,16 +529,16 @@
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
       "target_law_raw": "Ley Federal de Correduría Pública",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-correduria-publica",
       "target_article": null,
       "citation_text": "lamentaria del Artículo 27 Constitucional en Materia Nuclear; 9, fracción I, de la Ley de la Comisión Nacional de Derechos Humanos; 8, fracción I, de la Ley Federal de Correduría Pública; 6, segundo párrafo, de la Ley Orgánica del Instituto Nacional de Antropología e Historia; 32, fracciones I a III, de la Ley de Inversión Extranjera;",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 20077,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de correduría pública"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -822,7 +822,7 @@
       "confidence": "medium",
       "char_offset": 54360,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6394557823129252,
+      "resolution_score": 0.44274809160305345,
       "resolution_matched_alias": null
     },
     {
@@ -957,7 +957,7 @@
       "confidence": "medium",
       "char_offset": 62558,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6666666666666666,
+      "resolution_score": 0.6530612244897959,
       "resolution_matched_alias": null
     },
     {
@@ -1024,16 +1024,16 @@
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "n Extranjera, de la Ley General de Sociedades Mercantiles, de la Ley Orgánica de la Administración Pública Federal, de la Ley Federal de Derechos, de la Ley Federal de Procedimiento Administrativo y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.  Publicado en el Diario Oficial de la Federación el 15 de diciembre de 2011  ARTÍCULO PRIMERO.- Se reforman los artículos 15, 16 primer párrafo y 16",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 64154,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de procedimiento administrativo"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -1054,16 +1054,16 @@
       "source_law": "ley-de-inversion-extranjera",
       "source_article": "39",
       "target_law_raw": "Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-derechos",
       "target_article": null,
       "citation_text": " día del mes de enero de 2012 por lo que se refiere a la Ley General de Sociedades Mercantiles, la Ley Orgánica de la Administración Pública Federal, la Ley Federal de Derechos y la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal.  SEGUNDO.- Las reformas a la Ley de Inversión Extranjera y a la Ley Federal de Procedimiento Administrativo, entrarán en vigor en un plazo de seis m",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 64718,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de derechos"
     },
     {
       "source_law": "ley-de-inversion-extranjera",
@@ -1243,5 +1243,5 @@
       "char_offset": 5700
     }
   ],
-  "resolved_at": "2026-03-31T00:21:45.350101+00:00"
+  "resolved_at": "2026-03-31T00:29:50.381937+00:00"
 }

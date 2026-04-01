@@ -154,16 +154,16 @@
       "source_law": "ley-federal-del-mar",
       "source_article": "21",
       "target_law_raw": "Ley Federal de Aguas y demás leyes y reglamentos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-general-de-aguas",
       "target_article": null,
       "citation_text": "dentro de las zonas marinas mexicanas, se aplicarán la Ley Federal de Protección al Ambiente, la Ley General de Salud, y sus respectivos Reglamentos, la Ley Federal de Aguas y demás leyes y reglamentos aplicables vigentes o que se adopten, incluidos la presente Ley, su reglamento y las normas pertinentes del derecho internacional para prevenir, reducir y controlar la contaminación del ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 249,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 0.9,
+      "resolution_matched_alias": "ley general de aguas"
     },
     {
       "source_law": "ley-federal-del-mar",
@@ -217,5 +217,5 @@
       "char_offset": 1699
     }
   ],
-  "resolved_at": "2026-03-31T00:21:58.025722+00:00"
+  "resolved_at": "2026-03-31T00:30:07.921158+00:00"
 }

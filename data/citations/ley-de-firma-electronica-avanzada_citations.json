@@ -120,7 +120,7 @@
       "confidence": "high",
       "char_offset": 1609,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -195,7 +195,7 @@
       "confidence": "high",
       "char_offset": 255,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -217,16 +217,16 @@
       "source_law": "ley-de-firma-electronica-avanzada",
       "source_article": "31",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "quen el incumplimiento a los preceptos establecidos en la presente Ley, dará lugar al procedimiento y a las sanciones que correspondan en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.  Cuando las infracciones a la presente Ley impliquen la posible comisión de una conducta sancionada en los términos de la legislación civil, penal o",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 213,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-firma-electronica-avanzada",
@@ -271,5 +271,5 @@
       "char_offset": 3920
     }
   ],
-  "resolved_at": "2026-03-31T00:21:42.675428+00:00"
+  "resolved_at": "2026-03-31T00:29:46.542115+00:00"
 }

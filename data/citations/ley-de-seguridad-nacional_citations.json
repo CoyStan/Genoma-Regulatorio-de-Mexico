@@ -46,16 +46,16 @@
       "source_law": "ley-de-seguridad-nacional",
       "source_article": "8",
       "target_law_raw": "Ley Federal de Responsabilidades Administrativas de los Servidores Públicos",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "target_article": null,
       "citation_text": "d Pública;  II.\tEn lo relativo al régimen disciplinario de los servidores públicos de las dependencias federales que integran el Consejo, se aplicará la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos;  III.\tCon referencia al control judicial de la inteligencia para la Seguridad Nacional, será aplicable en lo conducente el Código Nacional de Proced",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 435,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "medium",
+      "resolution_score": 0.8805970149253731,
+      "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
     },
     {
       "source_law": "ley-de-seguridad-nacional",
@@ -195,7 +195,7 @@
       "confidence": "medium",
       "char_offset": 22806,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5921052631578947,
+      "resolution_score": 0.3776223776223776,
       "resolution_matched_alias": null
     },
     {
@@ -271,5 +271,5 @@
       "char_offset": 2607
     }
   ],
-  "resolved_at": "2026-03-31T00:21:48.157678+00:00"
+  "resolved_at": "2026-03-31T00:29:53.866929+00:00"
 }

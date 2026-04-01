@@ -34,16 +34,16 @@
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
       "source_article": "2",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "mbitos de competencia.  A falta de disposición expresa en esta Ley, se aplicarán en forma supletoria y en lo conducente, la Ley General de Educación, la Ley Federal de las Entidades Paraestatales, su reglamento y demás ordenamientos en materia educativa, así como lo dispuesto en los tratados internacionales sobre el derecho a la educación cele",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 284,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
@@ -123,7 +123,7 @@
       "confidence": "high",
       "char_offset": 147,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5806451612903226,
+      "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
     },
     {
@@ -142,16 +142,16 @@
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
       "source_article": "24",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "io propio.  La autonomía presupuestaria a la que se refiere el párrafo anterior, se sujetará a lo establecido en los artículos 5, fracción II y 29 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 360,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
@@ -247,16 +247,16 @@
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
       "source_article": "65",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "á integrado por un Comisario Público propietario y un suplente designados por la Secretaría de la Función Pública. Ejercerá sus facultades conforme a la Ley Federal de las Entidades Paraestatales, su reglamento y el de la Secretaría de la Función Pública y las demás disposiciones aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 207,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de las entidades paraestatales"
     },
     {
       "source_law": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
@@ -286,5 +286,5 @@
       "char_offset": 108
     }
   ],
-  "resolved_at": "2026-03-31T00:22:09.607935+00:00"
+  "resolved_at": "2026-03-31T00:30:21.870355+00:00"
 }

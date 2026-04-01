@@ -189,7 +189,7 @@
       "confidence": "high",
       "char_offset": 24963,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -316,16 +316,16 @@
       "source_law": "ley-del-impuesto-sobre-la-renta",
       "source_article": "54",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "  b)\tLos organismos descentralizados cuyas actividades no sean preponderantemente empresariales, así como a aquellos sujetos a control presupuestario en los términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, que determine el Servicio de Administración Tributaria.  c)\tLos partidos o asociaciones políticas, legalmente reconocidos.  d)\tLas personas morales ",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 951,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-impuesto-sobre-la-renta",
@@ -339,7 +339,7 @@
       "confidence": "medium",
       "char_offset": 242,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5802469135802469,
+      "resolution_score": 0.4367816091954023,
       "resolution_matched_alias": null
     },
     {
@@ -583,16 +583,16 @@
       "source_law": "ley-del-impuesto-sobre-la-renta",
       "source_article": "79",
       "target_law_raw": "Ley Federal de Cinematografía",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-cinematografia",
       "target_article": null,
       "citation_text": "amáticas, danza, literatura, arquitectura y cinematografía, conforme a la Ley que crea al Instituto Nacional de Bellas Artes y Literatura, así como a la Ley Federal de Cinematografía.  b)\tEl apoyo a las actividades de educación e investigación artísticas de conformidad con lo señalado en el inciso anterior.  c)\tLa protección, cons",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3665,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de cinematografía"
     },
     {
       "source_law": "ley-del-impuesto-sobre-la-renta",
@@ -613,16 +613,16 @@
       "source_law": "ley-del-impuesto-sobre-la-renta",
       "source_article": "79",
       "target_law_raw": "Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
       "target_article": null,
       "citation_text": "vil.  h)\tPrestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento en términos de la Ley Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil.  i)\tPromoción y defensa de los derechos de los consumidores.  j)\tApoyo a proyectos de productores agrícolas y de artesanos, con ingresos en el ejerc",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8749,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de fomento a las actividades realizadas por organizaciones de la sociedad civil"
     },
     {
       "source_law": "ley-del-impuesto-sobre-la-renta",
@@ -816,7 +816,7 @@
       "confidence": "high",
       "char_offset": 2012,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6956521739130435,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -1167,7 +1167,7 @@
       "confidence": "medium",
       "char_offset": 241,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5802469135802469,
+      "resolution_score": 0.4367816091954023,
       "resolution_matched_alias": null
     },
     {
@@ -1227,7 +1227,7 @@
       "confidence": "medium",
       "char_offset": 2430,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.7407407407407407,
+      "resolution_score": 0.4909090909090909,
       "resolution_matched_alias": null
     },
     {
@@ -1302,7 +1302,7 @@
       "confidence": "high",
       "char_offset": 8220,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6518518518518519,
+      "resolution_score": 0.47619047619047616,
       "resolution_matched_alias": null
     },
     {
@@ -1362,7 +1362,7 @@
       "confidence": "high",
       "char_offset": 527,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6956521739130435,
+      "resolution_score": 0.6153846153846154,
       "resolution_matched_alias": null
     },
     {
@@ -1407,7 +1407,7 @@
       "confidence": "high",
       "char_offset": 14833,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -1464,7 +1464,7 @@
       "confidence": "high",
       "char_offset": 1454,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.47863247863247865,
+      "resolution_score": 0.39069767441860465,
       "resolution_matched_alias": null
     },
     {
@@ -1494,7 +1494,7 @@
       "confidence": "high",
       "char_offset": 4131,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.6101694915254238,
+      "resolution_score": 0.5238095238095238,
       "resolution_matched_alias": null
     },
     {
@@ -1795,16 +1795,16 @@
       "source_law": "ley-del-impuesto-sobre-la-renta",
       "source_article": "215",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": "siciones de la Ley del Impuesto sobre la Renta, de la Ley del Impuesto Especial sobre Producción y Servicios, del Código Fiscal de la Federación y de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  Publicado en el Diario Oficial de la Federación el 18 de noviembre de 2015  LEY DEL IMPUESTO SOBRE LA RENTA  ARTÍCULO PRIMERO.- Se reforman los art",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 73416,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-del-impuesto-sobre-la-renta",
@@ -2164,5 +2164,5 @@
       "char_offset": 72782
     }
   ],
-  "resolved_at": "2026-03-31T00:21:49.594812+00:00"
+  "resolved_at": "2026-03-31T00:29:55.508072+00:00"
 }
