@@ -1,6 +1,6 @@
 # Genoma Regulatorio de México — Diagnóstico Estructural
 
-_Generado: 2026-04-01T07:38:42.302762+00:00_
+_Generado: 2026-04-01T07:49:28.878299+00:00_
 
 ---
 
@@ -63,16 +63,16 @@ _(¿Cuántas leyes se verían afectadas por una reforma a esta ley?)_
 ## 5. Dependencias Circulares
 _(Grupos de leyes que se referencian mutuamente: 195 encontrados)_
 
-- `codigo-de-justicia-militar → ley-de-la-guardia-nacional → codigo-de-justicia-militar` (ciclo de 2 leyes)
 - `codigo-penal-federal → ley-federal-contra-la-delincuencia-organizada → codigo-penal-federal` (ciclo de 2 leyes)
-- `codigo-penal-federal → ley-federal-de-armas-de-fuego-y-explosivos → codigo-penal-federal` (ciclo de 2 leyes)
 - `ley-de-aeropuertos → ley-de-aviacion-civil → ley-de-aeropuertos` (ciclo de 2 leyes)
 - `ley-de-ahorro-y-credito-popular → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-ahorro-y-credito-popular` (ciclo de 2 leyes)
-- `ley-de-asistencia-social → ley-de-bioseguridad-de-organismos-geneticamente-modificados → ley-de-asistencia-social` (ciclo de 2 leyes)
-- `ley-de-asistencia-social → ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos → ley-de-asistencia-social` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-la-casa-de-moneda-de-mexico → ley-de-asistencia-social` (ciclo de 2 leyes)
 - `ley-de-asistencia-social → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-asistencia-social` (ciclo de 2 leyes)
-- `ley-de-asistencia-social → ley-de-la-economia-social-y-solidaria → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-federal-de-sanidad-animal → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-federal-de-sanidad-vegetal → ley-de-asistencia-social` (ciclo de 2 leyes)
+- `ley-de-asistencia-social → ley-federal-de-variedades-vegetales → ley-de-asistencia-social` (ciclo de 2 leyes)
 
 ## 6. Conflictos de Definiciones
 _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
@@ -91,13 +91,12 @@ _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
 ## 7. Comunidades Regulatorias
 _(Grupos de leyes que se citan frecuentemente entre sí)_
 
-- **Cluster 0** (100 leyes) — Sector dominante: unknown — Ley central: Constitución Política de los Estados Unidos Mexica
-- **Cluster 6** (64 leyes) — Sector dominante: financiero — Ley central: Ley General de Sociedades Mercantiles
-- **Cluster 1** (63 leyes) — Sector dominante: unknown — Ley central: Ley Federal de Competencia Económica
-- **Cluster 3** (55 leyes) — Sector dominante: unknown — Ley central: Ley Federal del Derecho de Autor
-- **Cluster 2** (39 leyes) — Sector dominante: unknown — Ley central: Ley General de Salud
-- **Cluster 5** (27 leyes) — Sector dominante: unknown — Ley central: Ley Orgánica de la Administración Pública Federal
-- **Cluster 4** (13 leyes) — Sector dominante: fiscal — Ley central: Ley de Hidrocarburos
+- **Cluster 0** (98 leyes) — Sector dominante: constitucional — Ley central: Constitución Política de los Estados Unidos Mexica
+- **Cluster 4** (65 leyes) — Sector dominante: financiero — Ley central: Ley General de Sociedades Mercantiles
+- **Cluster 1** (64 leyes) — Sector dominante: administrativo — Ley central: Ley Federal de Competencia Económica
+- **Cluster 3** (60 leyes) — Sector dominante: fiscal — Ley central: Ley Federal del Derecho de Autor
+- **Cluster 2** (41 leyes) — Sector dominante: penal — Ley central: Ley General de Salud
+- **Cluster 5** (33 leyes) — Sector dominante: administrativo — Ley central: Ley Federal de Procedimiento Administrativo
 
 ---
 

@@ -1,12 +1,12 @@
 # Genoma Regulatorio de México — Resumen de la Red
 
-_Generado: 2026-03-31 00:41 UTC_
+_Generado: 2026-04-01 07:49 UTC_
 
 ## Estadísticas generales
 - **Leyes (nodos):** 361
 - **Referencias cruzadas (aristas):** 4,534
 - **Densidad de la red:** 0.0349
-- **Comunidades detectadas:** 7
+- **Comunidades detectadas:** 6
 - **Ciclos/dependencias circulares:** 195
 - **Leyes aisladas:** 25
 
@@ -41,16 +41,16 @@ _Las leyes más referenciadas por otras leyes_
 ## Dependencias circulares (muestra)
 _Pares o grupos de leyes que se referencian mutuamente_
 
-- `codigo-penal-federal → ley-de-navegacion-y-comercio-maritimos → codigo-penal-federal`
-- `codigo-penal-federal → ley-federal-de-armas-de-fuego-y-explosivos → codigo-penal-federal`
-- `ley-de-aeropuertos → ley-de-aviacion-civil → ley-de-aeropuertos`
+- `codigo-de-justicia-militar → ley-de-la-guardia-nacional → codigo-de-justicia-militar`
 - `ley-de-asistencia-social → ley-de-bioseguridad-de-organismos-geneticamente-modificados → ley-de-asistencia-social`
-- `ley-de-asistencia-social → ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos → ley-de-asistencia-social`
-- `ley-de-asistencia-social → ley-de-la-comision-nacional-bancaria-y-de-valores → ley-de-asistencia-social`
+- `ley-de-asistencia-social → ley-de-la-economia-social-y-solidaria → ley-de-asistencia-social`
+- `ley-de-asistencia-social → ley-de-los-institutos-nacionales-de-salud → ley-de-asistencia-social`
 - `ley-de-asistencia-social → ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo → ley-de-asistencia-social`
-- `ley-de-asistencia-social → ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil → ley-de-asistencia-social`
-- `ley-de-asociaciones-publico-privadas → ley-de-expropiacion → ley-de-asociaciones-publico-privadas`
-- `ley-de-asociaciones-religiosas-y-culto-publico → ley-de-la-policia-federal → ley-de-asociaciones-religiosas-y-culto-publico`
+- `ley-de-asistencia-social → ley-federal-de-sanidad-vegetal → ley-de-asistencia-social`
+- `ley-de-asociaciones-religiosas-y-culto-publico → ley-de-inversion-extranjera → ley-de-asociaciones-religiosas-y-culto-publico`
+- `ley-de-asociaciones-religiosas-y-culto-publico → ley-federal-contra-la-delincuencia-organizada → ley-de-asociaciones-religiosas-y-culto-publico`
+- `ley-de-aviacion-civil → ley-de-aeropuertos → ley-de-aviacion-civil`
+- `ley-de-aviacion-civil → ley-de-inversion-extranjera → ley-de-aviacion-civil`
 
 ## Nota metodológica
 Las citas fueron extraídas mediante expresiones regulares de los textos legales.

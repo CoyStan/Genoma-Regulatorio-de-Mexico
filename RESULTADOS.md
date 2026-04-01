@@ -38,17 +38,16 @@ Estas leyes son las más referenciadas — reformarlas tendría el mayor impacto
 9. **Ley Federal del Trabajo (LFT)** — citada por 93 leyes, impacto en cascada: 257 leyes
 10. **Ley General de Instituciones y Procedimientos Electorales (LGIPE)** — citada por 82 leyes, impacto en cascada: 263 leyes
 
-### 7 Comunidades Regulatorias
+### 6 Comunidades Regulatorias
 
 | Comunidad | Leyes | Ley Central |
 |-----------|-------|-------------|
-| Constitucional / General | 100 | Constitución Política (CPEUM) |
-| Financiero / Mercantil | 64 | Ley General de Sociedades Mercantiles |
-| Competencia / Regulación | 63 | Ley Federal de Competencia Económica |
-| Propiedad Intelectual / Cultural | 55 | Ley Federal del Derecho de Autor |
-| Salud / Social | 39 | Ley General de Salud |
-| Administrativo | 27 | Ley Orgánica de la Administración Pública Federal |
-| Fiscal / Energía | 13 | Ley de Hidrocarburos |
+| Constitucional | 98 | Constitución Política (CPEUM) |
+| Financiero / Mercantil | 65 | Ley General de Sociedades Mercantiles |
+| Administrativo / Regulación | 64 | Ley Federal de Competencia Económica |
+| Fiscal / Cultural | 60 | Ley Federal del Derecho de Autor |
+| Penal / Salud | 41 | Ley General de Salud |
+| Administrativo / Procedimental | 33 | Ley Federal de Procedimiento Administrativo |
 
 ### 195 Dependencias Circulares
 
@@ -89,7 +88,7 @@ Términos definidos de forma distinta en múltiples leyes:
 
 ## Próximos Pasos Sugeridos
 
-1. Mejorar la clasificación de sectores para las comunidades etiquetadas como "unknown"
+1. ~~Mejorar la clasificación de sectores~~ — resuelto: 0 leyes con sector desconocido (era 136); todas las comunidades etiquetadas
 2. ~~Investigar las referencias huérfanas~~ — resuelto: 1,580 falsas alarmas corregidas; solo 18 referencias reales (todas a Ley de Vías Generales de Comunicación, abrogada)
 3. Verificar manualmente una muestra de las 195 dependencias circulares
 4. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
