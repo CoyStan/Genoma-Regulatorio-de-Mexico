@@ -48,3 +48,7 @@ htmlcov/
 !data/definitions/.gitkeep
 !data/graph/.gitkeep
 !data/lookup/.gitkeep
+
+# Allow docs/ for GitHub Pages deployment
+!docs/
+!docs/**
