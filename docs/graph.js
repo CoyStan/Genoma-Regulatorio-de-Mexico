@@ -108,10 +108,13 @@ function renderGraph(data) {
         state.selectedNode = null;
         refreshColors();
       })
-      .d3Force("charge").strength(-42)
-      .d3Force("link").distance(20)
       .cooldownTicks(120)
       .warmupTicks(30);
+
+    // d3Force must be configured after the graph instance is created —
+    // chaining .d3Force("charge") returns the force object, not the graph.
+    state.fg.d3Force("charge").strength(-42);
+    state.fg.d3Force("link").distance(20);
 
     state.fg.controls().enableDamping = true;
     state.fg.controls().dampingFactor = 0.08;
