@@ -69,6 +69,44 @@ Términos definidos de forma distinta en múltiples leyes:
 
 ---
 
+## Análisis de Simplificación Regulatoria
+
+Basado en la red de citas, se cuantificó el potencial de reducir la complejidad del sistema legal federal.
+
+| Métrica | Valor |
+|---------|-------|
+| Leyes candidatas a abrogación (score ≥ 80) | 217 (60% del corpus) |
+| Leyes completamente aisladas (0 conexiones relevantes) | 23 |
+| Pares candidatos a fusión (citan mutuamente, mismo sector) | 40 |
+| Leyes que requieren reforma urgente (alta ambigüedad + ciclos) | 40 |
+
+### Candidatas a Abrogación
+
+El **score de seguridad** (0–100) pondera: baja dependencia entrante (50%), bajo impacto en cascada (35%) y ausencia de ciclos (15%). Las 23 leyes completamente aisladas incluyen:
+
+- **Ley para Conservar la Neutralidad del País** — ninguna ley la cita; cita solo 1
+- **Ley de Recompensas de la Armada de México** — 0 dependencias, cita 2 leyes
+- **Ley de Capitalización del PROCAMPO** — sin dependencias circulares, impacto mínimo
+- **Ley de Responsabilidad Civil por Daños Nucleares** — citada por 0 leyes
+
+### Pares Candidatos a Fusión
+
+| Par | Sector | Score |
+|-----|--------|-------|
+| Ley Nacional de Competencia Mercantil ↔ Ley de Puertos y Uso Especial | mercantil | 88.3 |
+| Ley de Disciplina Financiera de EF y M ↔ Ley General de Deuda Pública | fiscal | 88.0 |
+| Ley de Amnistía ↔ Ley Nacional del Registro de Detenciones | penal | 75+ |
+
+### Leyes que Requieren Reforma (no abrogación)
+
+Leyes muy referenciadas con alta ambigüedad — eliminarlas rompería el sistema, pero concentran conflictos de definición y dependencias circulares:
+
+1. **LFFAOSC** (Ley Federal de Fomento a Organizaciones de la Sociedad Civil) — score 375
+2. **LCNBV** (Ley de la Comisión Nacional Bancaria y de Valores) — score 361
+3. **CPEUM** — involucrada en el mayor número de dependencias circulares por volumen
+
+---
+
 ## Limitaciones Actuales
 
 - El **87.1% de las citas fueron resueltas** (10,844 de 12,444) — el 12.9% restante incluye referencias genéricas ("ley de la materia", "Reglamento de esta Ley") y leyes abrogadas
@@ -90,8 +128,9 @@ Términos definidos de forma distinta en múltiples leyes:
 
 1. ~~Mejorar la clasificación de sectores~~ — resuelto: 0 leyes con sector desconocido (era 136); todas las comunidades etiquetadas
 2. ~~Investigar las referencias huérfanas~~ — resuelto: 1,580 falsas alarmas corregidas; solo 18 referencias reales (todas a Ley de Vías Generales de Comunicación, abrogada)
-3. Verificar manualmente una muestra de las 195 dependencias circulares
-4. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
+3. ~~Análisis de simplificación regulatoria~~ — resuelto: 217 candidatas a abrogación, 40 pares a fusionar, 40 a reformar
+4. Verificar manualmente una muestra de las 195 dependencias circulares
+5. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
 
 ---
 
