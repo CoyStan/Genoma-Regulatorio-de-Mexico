@@ -28,6 +28,19 @@
     </section>
 
     <section>
+      <h2>Optimización</h2>
+      <label for="max-nodes-range">Artículos visibles: <strong id="max-nodes-label">2500</strong></label>
+      <input id="max-nodes-range" type="range" min="800" max="5000" step="100" value="2500" />
+
+      <label for="edge-weight-range">Peso mínimo de enlace: <strong id="edge-weight-label">1</strong></label>
+      <input id="edge-weight-range" type="range" min="1" max="8" step="1" value="1" />
+
+      <label for="focus-law-select">Modo enfoque por ley</label>
+      <select id="focus-law-select"><option value="">Sin enfoque (todas)</option></select>
+      <button id="apply-performance">Aplicar filtros</button>
+    </section>
+
+    <section>
       <h2>Resaltado por ley</h2>
       <p class="hint">Selecciona hasta <strong id="max-laws-label">6</strong> leyes para colorearlas.</p>
       <div class="row">
