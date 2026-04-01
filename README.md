@@ -5,11 +5,13 @@ Una red de citación interactiva de todo el corpus jurídico federal mexicano.
 Cada ley federal es un nodo. Cada referencia cruzada entre leyes es una arista dirigida.
 El resultado es un mapa navegable de la estructura del derecho mexicano.
 
+**👉 [Ver dashboard 3D en vivo](https://coystan.github.io/Genoma-Regulatorio-de-Mexico)**
+
 ---
 
 ## ¿Por qué?
 
-México tiene ~296 leyes federales vigentes que se referencian entre sí miles de veces.
+México tiene ~318 leyes federales vigentes que se referencian entre sí miles de veces.
 Nadie ha visualizado esta red completa. Sin ver la estructura, es imposible reformarla
 con coherencia.
 
@@ -20,6 +22,24 @@ Este proyecto construye la infraestructura para responder preguntas como:
 - ¿Qué sectores regulatorios están más interconectados?
 - Si se reforma la Ley X, ¿cuántas otras leyes se verían afectadas?
 - ¿Dónde hay conflictos entre definiciones de leyes del mismo sector?
+- ¿Qué leyes podrían abrogarse o fusionarse sin romper el sistema?
+
+---
+
+## Resultados
+
+| Métrica | Valor |
+|---------|-------|
+| Leyes analizadas | 318 |
+| Citas extraídas | 10,844 |
+| Conexiones en la red | 4,534 |
+| Comunidades regulatorias | 7 |
+| Dependencias circulares (pares) | 262 |
+| Candidatas a abrogación (score ≥ 80) | 217 (60% del corpus) |
+| Pares candidatos a fusión | 40 |
+| Términos con definición conflictiva | 50 |
+
+Ver análisis completo en [`RESULTADOS.md`](RESULTADOS.md).
 
 ---
 
@@ -28,35 +48,49 @@ Este proyecto construye la infraestructura para responder preguntas como:
 ```
 genoma-regulatorio/
 ├── data/
-│   ├── raw/                    # HTML raspado de cada ley
+│   ├── raw/                    # HTML/DOC raspado de cada ley
 │   ├── processed/              # Leyes limpias con artículos indexados
-│   ├── citations/              # Citas extraídas (por ley)
-│   ├── definitions/            # Definiciones extraídas
-│   ├── graph/                  # Red de citación (GraphML, JSON)
+│   ├── citations/              # Citas extraídas por ley (_citations.json)
+│   ├── definitions/            # Definiciones extraídas (_definitions.json)
+│   ├── graph/
+│   │   ├── graph.json          # Red completa (D3-compatible)
+│   │   ├── graph.graphml       # Red en formato GraphML
+│   │   ├── metrics.json        # PageRank, betweenness, cascada por ley
+│   │   ├── diagnostics.json    # Diagnósticos estructurales
+│   │   ├── article_graph.json  # Red a nivel artículo (para dashboard 3D)
+│   │   ├── simplification.json # Candidatas a abrogación/fusión/reforma
+│   │   ├── cycles_dataset.csv  # 262 pares cíclicos con texto literal
+│   │   └── cycles_dataset.json # Ídem en JSON
 │   └── lookup/                 # Tablas de resolución de entidades
 ├── scripts/
-│   ├── 01_scrape.py           # Raspado del corpus
-│   ├── 02_parse.py            # Limpieza y estructuración
-│   ├── 03_extract_citations.py # Extracción de citas
-│   ├── 04_resolve_entities.py  # Resolución de nombres a IDs
-│   ├── 05_extract_definitions.py # Extracción de definiciones
-│   ├── 06_build_graph.py      # Construcción de la red
-│   ├── 07_diagnostics.py      # Diagnósticos estructurales
+│   ├── 01_scrape.py            # Raspado del corpus (diputados.gob.mx)
+│   ├── 02_parse.py             # Limpieza y estructuración de artículos
+│   ├── 03_extract_citations.py # Extracción de citas por regex
+│   ├── 04_resolve_entities.py  # Resolución de nombres a IDs canónicos
+│   ├── 05_extract_definitions.py # Extracción de definiciones legales
+│   ├── 06_build_graph.py       # Construcción de la red + métricas NetworkX
+│   ├── 07_diagnostics.py       # Diagnósticos estructurales
+│   ├── 09_article_stats.py     # Estadísticas por artículo para dashboard
+│   ├── 10_build_article_graph.py # Red 3D a nivel artículo
+│   ├── 11_simplification_report.py # Análisis de simplificación regulatoria
+│   ├── 12_generate_charts.py   # Gráficas para Twitter/publicaciones
+│   ├── 13_export_cycles.py     # Dataset de ciclos con texto literal
 │   └── utils/
-│       ├── patterns.py         # Regex de citas jurídicas
-│       ├── lookup.py           # Tabla canónica de leyes
-│       └── metrics.py          # Métricas de red (NetworkX)
-├── frontend/
-│   ├── index.html             # Visualizador interactivo
-│   ├── graph.js               # D3.js force-directed graph
-│   └── style.css
+│       ├── patterns.py         # 19 regex de citas jurídicas
+│       ├── lookup.py           # Tabla canónica de 318 leyes + aliases
+│       └── metrics.py          # Métricas de red (PageRank, HITS, Louvain)
+├── docs/                       # GitHub Pages — dashboard en vivo
+│   ├── index.html              # Visualizador 3D (Three.js + 3d-force-graph)
+│   ├── graph.js                # Lógica del grafo 3D
+│   ├── articles.js             # Tab de análisis por artículo
+│   ├── style.css
+│   ├── assets/charts/          # Gráficas PNG para publicaciones
+│   └── thread_twitter.md       # Borrador del hilo de Twitter
 ├── tests/
-│   ├── test_patterns.py       # Tests de extracción de citas
-│   └── test_resolution.py     # Tests de resolución de entidades
-└── docs/
-    ├── methodology.md          # Metodología detallada
-    ├── data_dictionary.md      # Esquema de datos
-    └── limitations.md          # Limitaciones conocidas
+│   ├── test_patterns.py        # ~35 casos de prueba con texto real
+│   └── test_resolution.py      # Tests de resolución de entidades
+├── RESULTADOS.md               # Hallazgos principales en español
+└── CLAUDE.md                   # Guía para Claude Code
 ```
 
 ---
@@ -64,62 +98,48 @@ genoma-regulatorio/
 ## Instalación
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/quetzali-rg/genoma-regulatorio-mx
-cd genoma-regulatorio-mx
-
-# Crear entorno virtual
-python -m venv venv
-source venv/bin/activate  # o venv\Scripts\activate en Windows
-
-# Instalar dependencias
+git clone https://github.com/CoyStan/Genoma-Regulatorio-de-Mexico
+cd Genoma-Regulatorio-de-Mexico
 pip install -r requirements.txt
 ```
 
 ---
 
-## Uso: Pipeline completo
+## Pipeline completo
 
 ```bash
-# Paso 1: Raspar el corpus (tarda ~30-60 min, respeta delays)
-python scripts/01_scrape.py
+# ETL principal
+python scripts/01_scrape.py              # Raspar corpus (~30-60 min)
+python scripts/02_parse.py              # Estructurar artículos
+python scripts/03_extract_citations.py  # Extraer citas (regex)
+python scripts/04_resolve_entities.py   # Resolver nombres → IDs
+python scripts/05_extract_definitions.py # Extraer definiciones (opcional)
+python scripts/06_build_graph.py        # Construir red + métricas
+python scripts/07_diagnostics.py        # Diagnósticos estructurales
 
-# Paso 2: Limpiar y estructurar los textos
-python scripts/02_parse.py
-
-# Paso 3: Extraer citas de cada ley
-python scripts/03_extract_citations.py
-
-# Paso 4: Resolver nombres a IDs canónicos
-python scripts/04_resolve_entities.py
-
-# Paso 5: Extraer definiciones (opcional pero recomendado)
-python scripts/05_extract_definitions.py
-
-# Paso 6: Construir el grafo y calcular métricas
-python scripts/06_build_graph.py
-
-# Paso 7: Construir red 3D a nivel artículo para dashboard
-python scripts/10_build_article_graph.py
-
-# Paso 8: Ejecutar diagnósticos estructurales
-python scripts/07_diagnostics.py
+# Análisis adicionales
+python scripts/09_article_stats.py      # Estadísticas para tab de artículos
+python scripts/10_build_article_graph.py # Red 3D a nivel artículo
+python scripts/11_simplification_report.py # Reporte de simplificación
+python scripts/12_generate_charts.py    # Gráficas PNG
+python scripts/13_export_cycles.py      # Dataset de ciclos con texto
 ```
-
-Después de correr el pipeline, abrir `frontend/index.html` en un navegador
-(o servir con `python -m http.server` desde el directorio `frontend/`).
 
 ---
 
-## Uso: Visualización de demostración
+## Dashboard
 
-Si no quieres correr el pipeline completo, el visualizador incluye un **modo de
-demostración** con datos de muestra de 20 leyes:
+El dashboard 3D está disponible en:
+**[coystan.github.io/Genoma-Regulatorio-de-Mexico](https://coystan.github.io/Genoma-Regulatorio-de-Mexico)**
 
+Incluye:
+- **Tab Grafo**: red 3D navegable, resaltado por ley, filtros de rendimiento
+- **Tab Artículos**: top 100 artículos más citados + drilldown por ley
+
+Para correr localmente:
 ```bash
-cd frontend
-python -m http.server 8080
-# Abrir http://localhost:8080 y hacer clic en "Cargar demostración"
+cd docs && python -m http.server 8080
+# Abrir http://localhost:8080
 ```
 
 ---
@@ -127,14 +147,10 @@ python -m http.server 8080
 ## Tests
 
 ```bash
-pip install pytest
 python -m pytest tests/ -v
 ```
 
-Los tests cubren:
-- Extracción de citas: ~35 casos de prueba con texto real
-- Resolución de entidades: exacta, acrónimos, alias, fuzzy, no resolvibles
-- Integridad de la tabla canónica de leyes
+Cubre extracción de citas (~35 casos reales), resolución de entidades e integridad de la tabla canónica.
 
 ---
 
@@ -144,56 +160,18 @@ Los tests cubren:
 |------------|-----------|
 | Scraping | `requests` + `BeautifulSoup4` |
 | Análisis de texto | `re` (regex), `difflib` |
-| Análisis de red | `NetworkX` |
-| Detección de comunidades | `python-louvain` |
-| Frontend | `three.js` + `3d-force-graph` |
-| Almacenamiento | JSON (SQLite en roadmap) |
-
----
-
-## Resultados preliminares (muestra)
-
-> _Requiere correr el pipeline completo para obtener resultados reales._
-
-Con datos completos, el análisis revela:
-
-- **Nodo más central**: La Constitución (in-degree altísimo — casi toda ley la referencia)
-- **Leyes más citadas después de la Constitución**: CFF, LFT, LSS, LOAPF
-- **Comunidades detectadas**: ~12-15 clusters sectoriales (fiscal, laboral, financiero, penal, ambiental, etc.)
-- **Referencias huérfanas**: Citas a leyes abrogadas en reformas de 2024
-- **Dependencias circulares**: Varios pares de leyes complementarias que se referencian mutuamente
-
----
-
-## Diagnósticos estructurales incluidos
-
-1. **Referencias huérfanas**: Citas a leyes abrogadas o inexistentes
-2. **Leyes más centrales**: Top 20 por PageRank — las "columnas vertebrales"
-3. **Leyes aisladas**: Nodos con muy pocas conexiones — posiblemente obsoletas
-4. **Análisis de cascada**: ¿Cuántas leyes se verían afectadas por una reforma?
-5. **Dependencias circulares**: Leyes que se referencian mutuamente (A→B→A)
-6. **Conflictos de definición**: El mismo término definido de forma distinta
-7. **Comunidades regulatorias**: Clusters de leyes densamente interconectadas
+| Análisis de red | `NetworkX` + `python-louvain` |
+| Visualización estática | `matplotlib` |
+| Dashboard 3D | `Three.js` + `3d-force-graph` |
+| Despliegue | GitHub Pages |
+| Almacenamiento | JSON |
 
 ---
 
 ## Datos
 
 - **Fuente primaria**: [Cámara de Diputados — Leyes Federales](https://www.diputados.gob.mx/LeyesBiblio/index.htm)
-- **Fuente de respaldo**: [Justia México](https://mexico.justia.com/federales/)
 - **Fecha del corpus**: Documentada en `data/scrape.log`
-
----
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Áreas prioritarias:
-
-1. **Mejora de patrones de citas**: Patrones adicionales o correcciones a los existentes.
-2. **Tabla de alias**: Agregar nombres alternativos para leyes no cubiertas.
-3. **Leyes abrogadas**: Completar el listado en `07_diagnostics.py`.
-4. **Frontend**: Mejoras a la visualización (filtros, animaciones, exportación).
-5. **Validación**: Revisión manual de casos ambiguos en `data/lookup/unresolved.json`.
 
 ---
 
