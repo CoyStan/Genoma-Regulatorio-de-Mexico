@@ -47,6 +47,7 @@ input[type="text"], select {
   width: 100%; padding: 9px; border: 1px solid var(--line); border-radius: 10px;
   background: #fff; color: var(--ink);
 }
+input[type="range"] { width: 100%; accent-color: var(--accent); margin: 4px 0 10px; }
 button {
   width: 100%; margin-top: 8px; padding: 9px; border-radius: 10px;
   border: 1px solid var(--line); background: #fff; cursor: pointer;
