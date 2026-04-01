@@ -1,20 +1,27 @@
 "use strict";
 
 const CONFIG = {
-  articleGraphPath: "../data/graph/article_graph.json",
+  articleGraphPaths: ["./data/graph/article_graph.json", "../data/graph/article_graph.json"],
   maxHighlights: 6,
+  defaultVisibleNodes: 2500,
   highlightPalette: ["#ef476f", "#118ab2", "#06d6a0", "#f78c6b", "#7b61ff", "#ffbf69"],
   neutralNode: "#9db2c8",
   neutralLink: "rgba(142, 166, 192, 0.28)",
 };
 
 const state = {
-  graph: null,
+  fullGraph: null,
+  viewGraph: null,
   fg: null,
   selectedNode: null,
   highlights: new Map(),
   showLinks: true,
   showArticleInTooltip: true,
+  maxNodes: CONFIG.defaultVisibleNodes,
+  minEdgeWeight: 1,
+  focusLaw: "",
+  hoverMoveHandler: null,
+  rebuildTimer: null,
 };
 
 const el = {
@@ -25,6 +32,7 @@ const el = {
   empty: document.getElementById("empty"),
   tooltip: document.getElementById("tooltip"),
   lawSelect: document.getElementById("law-select"),
+  focusLawSelect: document.getElementById("focus-law-select"),
   addHighlight: document.getElementById("add-highlight"),
   highlightList: document.getElementById("highlight-list"),
   resetCamera: document.getElementById("reset-camera"),
@@ -34,51 +42,109 @@ const el = {
   searchInput: document.getElementById("search-input"),
   searchResults: document.getElementById("search-results"),
   loadDemo: document.getElementById("load-demo"),
+  maxNodesRange: document.getElementById("max-nodes-range"),
+  maxNodesLabel: document.getElementById("max-nodes-label"),
+  edgeWeightRange: document.getElementById("edge-weight-range"),
+  edgeWeightLabel: document.getElementById("edge-weight-label"),
+  applyPerformance: document.getElementById("apply-performance"),
 };
 
 function getNodeColor(node) {
   return state.highlights.get(node.law_id)?.color || CONFIG.neutralNode;
 }
 
-function buildGraph(data) {
-  state.graph = data;
+function computeViewGraph() {
+  const full = state.fullGraph;
+  if (!full) return null;
+
+  let nodes = full.nodes;
+  if (state.focusLaw) {
+    nodes = nodes.filter(n => n.law_id === state.focusLaw);
+  }
+
+  nodes = [...nodes]
+    .sort((a, b) => (b.weight || 0) - (a.weight || 0))
+    .slice(0, state.maxNodes);
+
+  const keep = new Set(nodes.map(n => n.id));
+
+  const links = full.links.filter(l => {
+    const s = typeof l.source === "object" ? l.source.id : l.source;
+    const t = typeof l.target === "object" ? l.target.id : l.target;
+    return keep.has(s) && keep.has(t) && (l.weight || 1) >= state.minEdgeWeight;
+  });
+
+  // keep orphan nodes out for cleaner view
+  const connected = new Set();
+  links.forEach(l => {
+    const s = typeof l.source === "object" ? l.source.id : l.source;
+    const t = typeof l.target === "object" ? l.target.id : l.target;
+    connected.add(s); connected.add(t);
+  });
+
+  const filteredNodes = nodes.filter(n => connected.has(n.id));
+  const laws = new Set(filteredNodes.map(n => n.law_id));
+
+  return { nodes: filteredNodes, links, meta: { laws_count: laws.size } };
+}
+
+function renderGraph(data) {
+  state.viewGraph = data;
 
   el.nodes.textContent = data.nodes.length.toLocaleString("es-MX");
   el.edges.textContent = data.links.length.toLocaleString("es-MX");
   el.laws.textContent = data.meta?.laws_count?.toLocaleString("es-MX") || "—";
 
-  fillLawSelector(data.law_catalog || []);
+  if (!state.fg) {
+    state.fg = ForceGraph3D()(document.getElementById("graph-3d"))
+      .backgroundColor("#eef3fb")
+      .nodeLabel(() => "")
+      .nodeVal(n => Math.max(1.8, Math.min(8, (n.weight || 1) * 0.7)))
+      .linkOpacity(0.22)
+      .linkWidth(l => Math.min(1.8, 0.4 + (l.weight || 1) * 0.15))
+      .onNodeHover(handleNodeHover)
+      .onNodeClick(handleNodeClick)
+      .onBackgroundClick(() => {
+        state.selectedNode = null;
+        refreshColors();
+      })
+      .d3Force("charge").strength(-42)
+      .d3Force("link").distance(20)
+      .cooldownTicks(120)
+      .warmupTicks(30);
 
-  const fg = ForceGraph3D()(document.getElementById("graph-3d"))
-    .graphData(data)
-    .backgroundColor("#eef3fb")
-    .nodeLabel(() => "")
-    .nodeColor(getNodeColor)
-    .nodeVal(n => Math.max(1.8, Math.min(8, (n.weight || 1) * 0.7)))
-    .linkColor(() => state.showLinks ? CONFIG.neutralLink : "rgba(0,0,0,0)")
-    .linkOpacity(0.23)
-    .linkWidth(l => Math.min(1.8, 0.4 + (l.weight || 1) * 0.15))
-    .onNodeHover(handleNodeHover)
-    .onNodeClick(handleNodeClick)
-    .onBackgroundClick(() => {
-      state.selectedNode = null;
-      refreshColors();
-    })
-    .d3Force("charge").strength(-45)
-    .d3Force("link").distance(22)
-    .cooldownTicks(150)
-    .warmupTicks(35);
+    state.fg.controls().enableDamping = true;
+    state.fg.controls().dampingFactor = 0.08;
+  }
 
-  fg.controls().enableDamping = true;
-  fg.controls().dampingFactor = 0.08;
-
-  state.fg = fg;
+  state.fg.graphData(data);
   refreshColors();
+}
+
+function rebuildAndRender() {
+  const view = computeViewGraph();
+  if (view) renderGraph(view);
+}
+
+function scheduleRebuild() {
+  if (state.rebuildTimer) clearTimeout(state.rebuildTimer);
+  state.rebuildTimer = setTimeout(() => {
+    state.rebuildTimer = null;
+    rebuildAndRender();
+  }, 180);
+}
+
+function clearTooltipTracking() {
+  if (state.hoverMoveHandler) {
+    window.removeEventListener("mousemove", state.hoverMoveHandler);
+    state.hoverMoveHandler = null;
+  }
 }
 
 function handleNodeHover(node) {
   if (!node) {
     el.tooltip.classList.add("hidden");
+    clearTooltipTracking();
     return;
   }
 
@@ -93,10 +159,12 @@ function handleNodeHover(node) {
   `;
   el.tooltip.classList.remove("hidden");
 
-  window.onmousemove = (ev) => {
+  clearTooltipTracking();
+  state.hoverMoveHandler = (ev) => {
     el.tooltip.style.left = `${ev.clientX + 12}px`;
     el.tooltip.style.top = `${ev.clientY + 12}px`;
   };
+  window.addEventListener("mousemove", state.hoverMoveHandler);
 }
 
 function handleNodeClick(node) {
@@ -113,7 +181,7 @@ function handleNodeClick(node) {
 }
 
 function refreshColors() {
-  if (!state.fg) return;
+  if (!state.fg || !state.viewGraph) return;
   const selectedId = state.selectedNode?.id;
   const neighbors = selectedId ? buildNeighborSet(selectedId) : null;
 
@@ -134,7 +202,7 @@ function refreshColors() {
 
 function buildNeighborSet(id) {
   const set = new Set([id]);
-  for (const l of state.graph.links) {
+  for (const l of state.viewGraph.links) {
     const s = typeof l.source === "object" ? l.source.id : l.source;
     const t = typeof l.target === "object" ? l.target.id : l.target;
     if (s === id) set.add(t);
@@ -144,14 +212,25 @@ function buildNeighborSet(id) {
 }
 
 function fillLawSelector(catalog) {
-  const frag = document.createDocumentFragment();
+  while (el.lawSelect.options.length > 1) el.lawSelect.remove(1);
+  while (el.focusLawSelect.options.length > 1) el.focusLawSelect.remove(1);
+
+  const fragA = document.createDocumentFragment();
+  const fragB = document.createDocumentFragment();
   catalog.forEach((law) => {
-    const opt = document.createElement("option");
-    opt.value = law.id;
-    opt.textContent = `${law.short || law.id} · ${law.name}`;
-    frag.appendChild(opt);
+    const text = `${law.short || law.id} · ${law.name}`;
+    const optA = document.createElement("option");
+    optA.value = law.id;
+    optA.textContent = text;
+    fragA.appendChild(optA);
+
+    const optB = document.createElement("option");
+    optB.value = law.id;
+    optB.textContent = text;
+    fragB.appendChild(optB);
   });
-  el.lawSelect.appendChild(frag);
+  el.lawSelect.appendChild(fragA);
+  el.focusLawSelect.appendChild(fragB);
 }
 
 function addHighlightLaw() {
@@ -194,11 +273,11 @@ function setupSearch() {
   el.searchInput.addEventListener("input", () => {
     const q = el.searchInput.value.trim().toLowerCase();
     el.searchResults.innerHTML = "";
-    if (!q || !state.graph) {
+    if (!q || !state.viewGraph) {
       el.searchResults.classList.add("hidden");
       return;
     }
-    const matches = state.graph.nodes
+    const matches = state.viewGraph.nodes
       .filter(n => (n.law_name || "").toLowerCase().includes(q) || (n.article || "").toLowerCase().includes(q) || n.id.toLowerCase().includes(q))
       .slice(0, 8);
     matches.forEach((n) => {
@@ -217,12 +296,22 @@ function setupSearch() {
 
 async function loadRealData() {
   try {
-    const res = await fetch(CONFIG.articleGraphPath);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    if (!data?.nodes?.length) throw new Error("empty graph");
+    let data = null;
+    for (const path of CONFIG.articleGraphPaths) {
+      const res = await fetch(path);
+      if (res.ok) {
+        const payload = await res.json();
+        if (payload?.nodes?.length) {
+          data = payload;
+          break;
+        }
+      }
+    }
+    if (!data) throw new Error("empty graph");
+    state.fullGraph = data;
+    fillLawSelector(data.law_catalog || []);
     el.loading.classList.add("hidden");
-    buildGraph(data);
+    rebuildAndRender();
   } catch {
     el.loading.classList.add("hidden");
     el.empty.classList.remove("hidden");
@@ -240,39 +329,17 @@ function demoData() {
   const nodes = [];
   const links = [];
   laws.forEach(([id, name, short], li) => {
-    for (let a = 1; a <= 22; a++) {
-      nodes.push({
-        id: `${id}::${a}`,
-        law_id: id,
-        law_name: name,
-        law_short: short,
-        article: String(a),
-        weight: 1 + (a % 4),
-        in_degree: 0,
-        out_degree: 0,
-      });
+    for (let a = 1; a <= 120; a++) {
+      nodes.push({ id: `${id}::${a}`, law_id: id, law_name: name, law_short: short, article: String(a), weight: 1 + (a % 5) });
       if (a > 1) links.push({ source: `${id}::${a}`, target: `${id}::${a - 1}`, weight: 1 });
-      if (li > 0 && a % 3 === 0) links.push({ source: `${id}::${a}`, target: `constitucion-politica::${(a % 15) + 1}`, weight: 2 });
+      if (li > 0 && a % 5 === 0) links.push({ source: `${id}::${a}`, target: `constitucion-politica::${(a % 60) + 1}`, weight: 2 });
     }
-  });
-  const degree = new Map();
-  links.forEach(l => {
-    const s = l.source; const t = l.target;
-    degree.set(s, (degree.get(s) || { in: 0, out: 0 }));
-    degree.set(t, (degree.get(t) || { in: 0, out: 0 }));
-    degree.get(s).out += 1;
-    degree.get(t).in += 1;
-  });
-  nodes.forEach(n => {
-    const d = degree.get(n.id) || { in: 0, out: 0 };
-    n.in_degree = d.in;
-    n.out_degree = d.out;
   });
   return {
     nodes,
     links,
     law_catalog: laws.map(([id, name, short]) => ({ id, name, short })),
-    meta: { laws_count: laws.length }
+    meta: { laws_count: laws.length },
   };
 }
 
@@ -291,9 +358,34 @@ function bindUI() {
   el.toggleArticles.addEventListener("change", (e) => {
     state.showArticleInTooltip = e.target.checked;
   });
+
+  el.maxNodesRange.addEventListener("input", (e) => {
+    state.maxNodes = Number(e.target.value);
+    el.maxNodesLabel.textContent = String(state.maxNodes);
+    scheduleRebuild();
+  });
+  el.edgeWeightRange.addEventListener("input", (e) => {
+    state.minEdgeWeight = Number(e.target.value);
+    el.edgeWeightLabel.textContent = String(state.minEdgeWeight);
+    scheduleRebuild();
+  });
+  el.focusLawSelect.addEventListener("change", (e) => {
+    state.focusLaw = e.target.value;
+    scheduleRebuild();
+  });
+  el.applyPerformance.addEventListener("click", () => {
+    if (state.rebuildTimer) {
+      clearTimeout(state.rebuildTimer);
+      state.rebuildTimer = null;
+    }
+    rebuildAndRender();
+  });
+
   el.loadDemo.addEventListener("click", () => {
     el.empty.classList.add("hidden");
-    buildGraph(demoData());
+    state.fullGraph = demoData();
+    fillLawSelector(state.fullGraph.law_catalog || []);
+    rebuildAndRender();
   });
 }
 
