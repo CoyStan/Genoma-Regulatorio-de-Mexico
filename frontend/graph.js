@@ -20,6 +20,8 @@ const state = {
   maxNodes: CONFIG.defaultVisibleNodes,
   minEdgeWeight: 1,
   focusLaw: "",
+  hoverMoveHandler: null,
+  rebuildTimer: null,
 };
 
 const el = {
@@ -124,9 +126,25 @@ function rebuildAndRender() {
   if (view) renderGraph(view);
 }
 
+function scheduleRebuild() {
+  if (state.rebuildTimer) clearTimeout(state.rebuildTimer);
+  state.rebuildTimer = setTimeout(() => {
+    state.rebuildTimer = null;
+    rebuildAndRender();
+  }, 180);
+}
+
+function clearTooltipTracking() {
+  if (state.hoverMoveHandler) {
+    window.removeEventListener("mousemove", state.hoverMoveHandler);
+    state.hoverMoveHandler = null;
+  }
+}
+
 function handleNodeHover(node) {
   if (!node) {
     el.tooltip.classList.add("hidden");
+    clearTooltipTracking();
     return;
   }
 
@@ -141,10 +159,12 @@ function handleNodeHover(node) {
   `;
   el.tooltip.classList.remove("hidden");
 
-  window.onmousemove = (ev) => {
+  clearTooltipTracking();
+  state.hoverMoveHandler = (ev) => {
     el.tooltip.style.left = `${ev.clientX + 12}px`;
     el.tooltip.style.top = `${ev.clientY + 12}px`;
   };
+  window.addEventListener("mousemove", state.hoverMoveHandler);
 }
 
 function handleNodeClick(node) {
@@ -192,6 +212,9 @@ function buildNeighborSet(id) {
 }
 
 function fillLawSelector(catalog) {
+  while (el.lawSelect.options.length > 1) el.lawSelect.remove(1);
+  while (el.focusLawSelect.options.length > 1) el.focusLawSelect.remove(1);
+
   const fragA = document.createDocumentFragment();
   const fragB = document.createDocumentFragment();
   catalog.forEach((law) => {
@@ -339,15 +362,24 @@ function bindUI() {
   el.maxNodesRange.addEventListener("input", (e) => {
     state.maxNodes = Number(e.target.value);
     el.maxNodesLabel.textContent = String(state.maxNodes);
+    scheduleRebuild();
   });
   el.edgeWeightRange.addEventListener("input", (e) => {
     state.minEdgeWeight = Number(e.target.value);
     el.edgeWeightLabel.textContent = String(state.minEdgeWeight);
+    scheduleRebuild();
   });
   el.focusLawSelect.addEventListener("change", (e) => {
     state.focusLaw = e.target.value;
+    scheduleRebuild();
   });
-  el.applyPerformance.addEventListener("click", rebuildAndRender);
+  el.applyPerformance.addEventListener("click", () => {
+    if (state.rebuildTimer) {
+      clearTimeout(state.rebuildTimer);
+      state.rebuildTimer = null;
+    }
+    rebuildAndRender();
+  });
 
   el.loadDemo.addEventListener("click", () => {
     el.empty.classList.add("hidden");

@@ -146,7 +146,7 @@ Los tests cubren:
 | Análisis de texto | `re` (regex), `difflib` |
 | Análisis de red | `NetworkX` |
 | Detección de comunidades | `python-louvain` |
-| Frontend | `D3.js v7` |
+| Frontend | `three.js` + `3d-force-graph` |
 | Almacenamiento | JSON (SQLite en roadmap) |
 
 ---
