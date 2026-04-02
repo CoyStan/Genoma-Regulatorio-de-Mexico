@@ -15,11 +15,11 @@ Se construyó una red de citaciones del corpus jurídico federal mexicano. Cada 
 | Métrica | Valor |
 |---------|-------|
 | Leyes analizadas | 318 |
-| Nodos en la red | 361 (incluye leyes citadas no descargadas) |
-| Conexiones (citas entre leyes) | 4,534 |
-| Densidad de la red | 0.035 |
-| Comunidades regulatorias detectadas | 7 |
-| Dependencias circulares (citas mutuas) | 195 |
+| Nodos en la red | 318 (sin nodos fantasma) |
+| Conexiones (citas entre leyes) | 4,497 |
+| Densidad de la red | 0.045 |
+| Comunidades regulatorias detectadas | 6 |
+| Dependencias circulares (citas mutuas) | 500 |
 | Leyes aisladas | 25 |
 | Referencias huérfanas reales | 18 (todas a Ley de Vías Generales de Comunicación, abrogada) |
 
@@ -27,16 +27,16 @@ Se construyó una red de citaciones del corpus jurídico federal mexicano. Cada 
 
 Estas leyes son las más referenciadas — reformarlas tendría el mayor impacto en cascada sobre el resto del sistema:
 
-1. **Constitución Política (CPEUM)** — citada por 316 de 318 leyes. Afecta en cascada a 317 leyes.
-2. **Ley General de Sociedades Mercantiles (LGSM)** — citada por 203 leyes, impacto en cascada: 269 leyes
-3. **Ley Orgánica del Poder Judicial de la Federación (LOPJF)** — citada por 138 leyes, impacto en cascada: 262 leyes
-4. **Ley Federal de Competencia Económica (LFCE)** — citada por 144 leyes, impacto en cascada: 266 leyes
-5. **Ley General de Educación (LGE)** — citada por 107 leyes, impacto en cascada: 266 leyes
-6. **Código Nacional de Procedimientos Penales (CNPP)** — citada por 102 leyes, impacto en cascada: 267 leyes
-7. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — citada por 91 leyes, impacto en cascada: 259 leyes
-8. **Ley Federal de Procedimiento Administrativo (LFPA)** — citada por 91 leyes, impacto en cascada: 267 leyes
-9. **Ley Federal del Trabajo (LFT)** — citada por 93 leyes, impacto en cascada: 257 leyes
-10. **Ley General de Instituciones y Procedimientos Electorales (LGIPE)** — citada por 82 leyes, impacto en cascada: 263 leyes
+1. **Constitución Política (CPEUM)** — citada por 316 de 318 leyes
+2. **Ley General de Sociedades Mercantiles (LGSM)** — citada por 202 leyes
+3. **Ley Orgánica del Poder Judicial de la Federación (LOPJF)** — citada por 137 leyes
+4. **Ley Federal de Competencia Económica (LFCE)** — citada por 143 leyes
+5. **Ley General de Educación (LGE)** — citada por 106 leyes
+6. **Código Nacional de Procedimientos Penales (CNPP)** — citada por 101 leyes
+7. **Ley Federal de Procedimiento Administrativo (LFPA)** — citada por 96 leyes
+8. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — citada por 90 leyes
+9. **Ley Federal del Trabajo (LFT)** — citada por 92 leyes
+10. **Ley en Materia de Telecomunicaciones y Radiodifusión (LFTR)** — citada por 82 leyes
 
 ### 6 Comunidades Regulatorias
 
@@ -49,7 +49,9 @@ Estas leyes son las más referenciadas — reformarlas tendría el mayor impacto
 | Penal / Salud | 41 | Ley General de Salud |
 | Administrativo / Procedimental | 33 | Ley Federal de Procedimiento Administrativo |
 
-### 195 Dependencias Circulares
+> _Nota: Con la corrección de nodos fragmentados el número de comunidades pasó de 7 a 6, al unificarse los stubs con sus nodos reales._
+
+### 500 Dependencias Circulares
 
 Pares de leyes que se citan mutuamente. Ejemplos notables:
 - **Ley Federal del Trabajo ↔ Ley del Seguro Social**
@@ -75,10 +77,12 @@ Basado en la red de citas, se cuantificó el potencial de reducir la complejidad
 
 | Métrica | Valor |
 |---------|-------|
-| Leyes candidatas a abrogación (score ≥ 80) | 217 (60% del corpus) |
+| Leyes candidatas a abrogación (score ≥ 80) | 160 (50% del corpus) |
 | Leyes completamente aisladas (0 conexiones relevantes) | 23 |
 | Pares candidatos a fusión (citan mutuamente, mismo sector) | 40 |
 | Leyes que requieren reforma urgente (alta ambigüedad + ciclos) | 40 |
+
+> _Nota: El número bajó de 217 a 160 tras corregir los nodos fragmentados — muchas leyes que parecían aisladas en realidad tienen dependencias reales._
 
 ### Candidatas a Abrogación
 
@@ -128,7 +132,7 @@ Leyes muy referenciadas con alta ambigüedad — eliminarlas rompería el sistem
 
 1. ~~Mejorar la clasificación de sectores~~ — resuelto: 0 leyes con sector desconocido (era 136); todas las comunidades etiquetadas
 2. ~~Investigar las referencias huérfanas~~ — resuelto: 1,580 falsas alarmas corregidas; solo 18 referencias reales (todas a Ley de Vías Generales de Comunicación, abrogada)
-3. ~~Análisis de simplificación regulatoria~~ — resuelto: 217 candidatas a abrogación, 40 pares a fusionar, 40 a reformar
+3. ~~Análisis de simplificación regulatoria~~ — resuelto: 160 candidatas a abrogación (50%), 40 pares a fusionar, 40 a reformar
 4. Verificar manualmente una muestra de las 195 dependencias circulares
 5. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
 

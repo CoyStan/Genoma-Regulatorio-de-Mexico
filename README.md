@@ -32,10 +32,10 @@ Este proyecto construye la infraestructura para responder preguntas como:
 |---------|-------|
 | Leyes analizadas | 318 |
 | Citas extraídas | 10,844 |
-| Conexiones en la red | 4,534 |
-| Comunidades regulatorias | 7 |
-| Dependencias circulares (pares) | 262 |
-| Candidatas a abrogación (score ≥ 80) | 217 (60% del corpus) |
+| Conexiones en la red | 4,497 |
+| Comunidades regulatorias | 6 |
+| Dependencias circulares (pares) | 599 |
+| Candidatas a abrogación (score ≥ 80) | 160 (50% del corpus) |
 | Pares candidatos a fusión | 40 |
 | Términos con definición conflictiva | 50 |
 
