@@ -7,7 +7,7 @@
       "source_law": "ley-de-geotermia",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25, párrafo quinto, 27, párrafos cuarto y sexto y 28, párrafo cuarto,",
       "citation_text": "Artículo 1.- La presente Ley es reglamentaria de los artículos 25, párrafo quinto, 27, párrafos cuarto y sexto y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, y tiene por objeto regular la Exploración y la Explotación de Recursos Geotérmicos para el aprovechamiento sustentable de la energía térmica del sub",
       "pattern_name": "constitucion_full",
@@ -64,7 +64,7 @@
       "source_law": "ley-de-geotermia",
       "source_article": "6",
       "target_law_raw": "Ley de Aguas Nacionales",
-      "target_law_id": "ley-aguas-nacionales",
+      "target_law_id": "ley-de-aguas-nacionales",
       "target_article": null,
       "citation_text": "Artículo 6.- Tratándose de aguas diferentes al Agua Geotérmica, se está a lo dispuesto en la Ley de Aguas Nacionales. Lo anterior, es aplicable al agua del subsuelo en cualquier estado, cuando se trata de su manejo en superficie e introducción al Yacimiento Geotérmi",
       "pattern_name": "lo_dispuesto",
@@ -199,7 +199,7 @@
       "source_law": "ley-de-geotermia",
       "source_article": "53",
       "target_law_raw": "Ley de Aguas Nacionales",
-      "target_law_id": "ley-aguas-nacionales",
+      "target_law_id": "ley-de-aguas-nacionales",
       "target_article": null,
       "citation_text": "e los Yacimientos Geotérmicos, los trámites para el otorgamiento de la concesión de aguas requerida en términos de lo dispuesto por el artículo 81 de la Ley de Aguas Nacionales, deben realizarse por la persona solicitante ante la Secretaría, la cual debe verificar el debido cumplimiento de estos.  Una vez que la Secretaría r",
       "pattern_name": "direct_mention",
@@ -244,7 +244,7 @@
       "source_law": "ley-de-geotermia",
       "source_article": "63",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
-      "target_law_id": "lfpa",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "titutiva de la infracción;  III.\tLa gravedad de la infracción, y  IV.\tLa reincidencia del infractor.  Para la aplicación de las sanciones se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.  Sin perjuicio de lo anterior, quien realice actividades de Exploración o Explotación de Áreas Geotérmicas del territorio nacional, sin contar con e",
       "pattern_name": "lo_dispuesto",
@@ -259,7 +259,7 @@
       "source_law": "ley-de-geotermia",
       "source_article": "66",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
-      "target_law_id": "lfpa",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "que dicte la Secretaría con motivo de la aplicación de las disposiciones de la presente Ley y su Reglamento, pueden ser recurridas de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo.  Transitorios  Primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se",
       "pattern_name": "lo_dispuesto",
@@ -289,7 +289,7 @@
       "source_law": "ley-de-geotermia",
       "source_article": "66",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "rónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de",
       "pattern_name": "constitucion_full",
@@ -298,5 +298,5 @@
       "char_offset": 4256
     }
   ],
-  "resolved_at": "2026-03-31T00:29:47.582452+00:00"
+  "resolved_at": "2026-04-01T18:20:18.197702+00:00"
 }

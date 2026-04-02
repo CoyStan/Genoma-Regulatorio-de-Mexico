@@ -7,7 +7,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "2",
       "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_id": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "target_article": null,
       "citation_text": "o con la reglamentación respectiva, procederá al ajuste y cómputo del tiempo de servicios de los militares en los casos siguientes:  I.\tAplicación de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;  II.\tRequerimiento de autoridad competente;  III.\tRatificación de grados militares en el Senado de la República o la Comisión Permanente, y  IV.\tPet",
       "pattern_name": "direct_mention",
@@ -37,7 +37,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "13",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "lopjf",
+      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
       "citation_text": "fije en el nombramiento o patente respectivo y se tendrán en cuenta las deducciones que procedan, de acuerdo con lo dispuesto en la presente Ley y en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.",
       "pattern_name": "direct_mention",
@@ -67,7 +67,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "20",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "de servicios ni de antigüedad, el de duración de la licencia especial para desempeñar cargos de elección popular y el de la licencia por edad límite, de conformidad con la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos. Artículo reformado DOF 12-06-2009",
       "pattern_name": "conformidad",
@@ -172,7 +172,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "36",
       "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas o por licencia ilimitada",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_id": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "target_article": null,
       "citation_text": "ntes causales:  a)\tInutilidad;  b)\tEdad límite, y  c)\tRetiro potestativo, cuando el interesado haya cumplido el tiempo mínimo de servicios conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas o por licencia ilimitada.  II.\tPor pasar a la reserva;  III.\tPara otorgar beneficios a deudos, y  IV.\tPor requerimiento de autoridad competente.",
       "pattern_name": "direct_mention",
@@ -202,7 +202,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
       "source_article": "37",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": ". Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -211,5 +211,5 @@
       "char_offset": 2259
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.187585+00:00"
+  "resolved_at": "2026-04-01T18:20:42.840484+00:00"
 }

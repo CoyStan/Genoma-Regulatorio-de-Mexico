@@ -22,7 +22,7 @@
       "source_law": "ley-organica-de-la-universidad-nacional-autonoma-de-mexico",
       "source_article": "15",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "es y recursos que a continuación se enumeran:  I.- Los inmuebles y créditos que son actualmente de su propiedad, en virtud de habérsele afectado para la constitución de su patrimonio, por las leyes de 10 de julio de 1929 y de 19 de octubre de 1933, y los que con posterioridad haya adquirido;  II.- Los inmuebles qu",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-organica-de-la-universidad-nacional-autonoma-de-mexico",
       "source_article": "8",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "Padilla, D. S.- Eugenio Prado, S. P.- Melquiades Ramírez, D. S.- Nabor Ojeda, S. S.- Rúbricas.  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Fed",
       "pattern_name": "constitucion_full",
@@ -43,5 +43,5 @@
       "char_offset": 287
     }
   ],
-  "resolved_at": "2026-03-31T00:30:18.955087+00:00"
+  "resolved_at": "2026-04-01T18:20:40.802687+00:00"
 }

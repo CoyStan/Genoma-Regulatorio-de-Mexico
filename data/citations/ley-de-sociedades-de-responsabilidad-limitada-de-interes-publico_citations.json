@@ -7,7 +7,7 @@
       "source_law": "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
       "source_article": "5",
       "target_law_raw": "Ley de Sociedades Mercantiles y por las especiales relativas a las sociedades de responsabilidad limitada",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "ARTICULO 5°.- Salvo lo previsto por la presente Ley, la sociedad se regirá por las disposiciones generales de la Ley de Sociedades Mercantiles y por las especiales relativas a las sociedades de responsabilidad limitada.",
       "pattern_name": "direct_mention",
@@ -22,7 +22,7 @@
       "source_law": "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
       "source_article": "13",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "nistradores de la sociedad garantizarán su manejo en la forma que prevenga el contrato social.  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo la presente Ley, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los ve",
       "pattern_name": "constitucion_full",
@@ -31,5 +31,5 @@
       "char_offset": 172
     }
   ],
-  "resolved_at": "2026-03-31T00:29:53.934381+00:00"
+  "resolved_at": "2026-04-01T18:20:22.710575+00:00"
 }

@@ -7,7 +7,7 @@
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25",
       "citation_text": "Artículo 1. La presente Ley es reglamentaria del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización de Trámites y Servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de",
       "pattern_name": "constitucion_full",
@@ -19,7 +19,7 @@
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "3",
       "target_law_raw": "Ley General de Población",
-      "target_law_id": "ley-general-educacion",
+      "target_law_id": "ley-general-de-educacion",
       "target_article": null,
       "citation_text": "y generen el menor costo burocrático; X.\tCURP: la Clave Única de Registro de Población asignada por el Registro Nacional de Población, en términos de la Ley General de Población, como fuente única de identidad de las personas; XI.\tCosto burocrático: los costos económicos y sociales que las personas asumen para cumplir con las",
       "pattern_name": "direct_mention",
@@ -64,7 +64,7 @@
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "53",
       "target_law_raw": "Ley General de Responsabilidades Administrativas y demás normatividad",
-      "target_law_id": "ley-responsabilidades-administrativas",
+      "target_law_id": "ley-general-de-responsabilidades-administrativas",
       "target_article": null,
       "citation_text": " Regulación correspondiente. La falta de corrección o actualización en los términos previstos en el presente artículo, será sancionada en términos de la Ley General de Responsabilidades Administrativas y demás normatividad aplicable.",
       "pattern_name": "direct_mention",
@@ -79,7 +79,7 @@
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "113",
       "target_law_raw": "Ley General de Responsabilidades Administrativas",
-      "target_law_id": "ley-responsabilidades-administrativas",
+      "target_law_id": "ley-general-de-responsabilidades-administrativas",
       "target_article": null,
       "citation_text": "iones establecidas por la presente Ley, por parte de las personas servidoras públicas de los tres órdenes de gobierno, será sancionado en términos de la Ley General de Responsabilidades Administrativas, o en su caso, con las leyes locales en la materia y demás disposiciones jurídicas aplicables.",
       "pattern_name": "direct_mention",
@@ -109,7 +109,7 @@
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "114",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": " Julieta Villalpando Riquelme, Secretaria.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de",
       "pattern_name": "constitucion_full",
@@ -118,5 +118,5 @@
       "char_offset": 10357
     }
   ],
-  "resolved_at": "2026-03-31T00:30:18.121215+00:00"
+  "resolved_at": "2026-04-01T18:20:40.088022+00:00"
 }

@@ -22,7 +22,7 @@
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "imal, así como todas las demás disposiciones que se opongan a los términos de la presente ley.  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los sie",
       "pattern_name": "constitucion_full",
@@ -34,7 +34,7 @@
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ARTICULO 14. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, autorizará la constitución, organización y funcionamiento de las Asociaciones Agrícolas creadas de acuerdo con lo dispuesto por la presente Ley; con esa autorización las mismas",
       "pattern_name": "constitucion_bare",
@@ -73,5 +73,5 @@
       "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-03-31T00:30:22.292259+00:00"
+  "resolved_at": "2026-04-01T18:20:43.799398+00:00"
 }

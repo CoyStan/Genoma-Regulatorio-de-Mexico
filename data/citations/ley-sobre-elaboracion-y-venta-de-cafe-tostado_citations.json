@@ -37,7 +37,7 @@
       "source_law": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
       "source_article": "9o",
       "target_law_raw": "Ley General de Salud y la Ley Federal de Protección al Consumidor",
-      "target_law_id": "ley-federal-proteccion-consumidor",
+      "target_law_id": "ley-federal-de-proteccion-al-consumidor",
       "target_article": null,
       "citation_text": "las sanciones administrativas correspondientes.  Las demás infracciones serán sancionadas conforme a la Ley Federal sobre Metrología y Normalización, la Ley General de Salud y la Ley Federal de Protección al Consumidor. Artículo reformado DOF 08-01-1974; 22-07-1991  TRANSITORIOS  Artículo Primero.- Esta Ley entrará en vigor a los noventa días de su publicación en el",
       "pattern_name": "direct_mention",
@@ -52,7 +52,7 @@
       "source_law": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
       "source_article": "9o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "es Díaz. S. P.- Marco Antonio Espinosa Pablos, D. S.- Juan Sabines Gutiérrez, S. S.- Rúbricas.  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
@@ -61,5 +61,5 @@
       "char_offset": 1568
     }
   ],
-  "resolved_at": "2026-03-31T00:30:22.378647+00:00"
+  "resolved_at": "2026-04-01T18:20:43.887399+00:00"
 }

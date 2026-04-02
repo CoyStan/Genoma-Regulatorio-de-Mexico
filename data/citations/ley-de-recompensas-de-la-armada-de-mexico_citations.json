@@ -82,7 +82,7 @@
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
       "source_article": "69",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "quierdo, D.P.- Rafael Armando Herrera Morales, S.S.- Arturo Contreras Cuevas, D.S.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
@@ -91,5 +91,5 @@
       "char_offset": 1190
     }
   ],
-  "resolved_at": "2026-03-31T00:29:53.865283+00:00"
+  "resolved_at": "2026-04-01T18:20:22.639629+00:00"
 }

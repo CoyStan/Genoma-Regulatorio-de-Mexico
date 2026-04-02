@@ -7,7 +7,7 @@
       "source_law": "ley-de-ayuda-alimentaria-para-los-trabajadores",
       "source_article": "2o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "ue prestan a una persona física o moral un trabajo personal subordinado, que sus relaciones laborales se encuentren comprendidas en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_full",
@@ -19,7 +19,7 @@
       "source_law": "ley-de-ayuda-alimentaria-para-los-trabajadores",
       "source_article": "9o",
       "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-salud",
+      "target_law_id": "ley-general-de-salud",
       "target_article": null,
       "citation_text": "blecimientos de consumo de alimentos a los que se refieren los incisos b) y c) de la fracción I del artículo 7 de esta ley en los términos que señala la Ley General de Salud.",
       "pattern_name": "direct_mention",
@@ -34,7 +34,7 @@
       "source_law": "ley-de-ayuda-alimentaria-para-los-trabajadores",
       "source_article": "16",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo o equivalentes en las entidades federativas",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
       "citation_text": "nto administrativo establecido en las leyes sustantivas aplicables en materia sanitaria y laboral y, de forma supletoria a éstas, a lo que prescriben la Ley Federal de Procedimiento Administrativo o equivalentes en las entidades federativas, según corresponda.  TÍTULO CUARTO SANCIONES  Capítulo Único",
       "pattern_name": "direct_mention",
@@ -49,7 +49,7 @@
       "source_law": "ley-de-ayuda-alimentaria-para-los-trabajadores",
       "source_article": "18",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo o equivalentes en las entidades federativas",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
       "citation_text": "iento administrativo establecido en las leyes sustantivas aplicables en materia sanitaria y laboral y, de forma supletoria a éstas, lo que prescriben la Ley Federal de Procedimiento Administrativo o equivalentes en las entidades federativas, según corresponda.",
       "pattern_name": "direct_mention",
@@ -64,7 +64,7 @@
       "source_law": "ley-de-ayuda-alimentaria-para-los-trabajadores",
       "source_article": "22",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "ria de Jesus Aguirre Maldonado, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -73,5 +73,5 @@
       "char_offset": 1055
     }
   ],
-  "resolved_at": "2026-03-31T00:29:43.608131+00:00"
+  "resolved_at": "2026-04-01T18:20:14.733433+00:00"
 }

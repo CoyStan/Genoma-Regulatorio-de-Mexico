@@ -7,7 +7,7 @@
       "source_law": "ley-de-puertos",
       "source_article": "4o",
       "target_law_raw": "Código de Comercio",
-      "target_law_id": "codigo-comercio",
+      "target_law_id": "codigo-de-comercio",
       "target_article": null,
       "citation_text": "ernacionales, se aplicaran:  I. Las leyes de Navegación y Comercio Marítimos, de Vías Generales de Comunicación, y General de Bienes Nacionales;  II. El Código de Comercio, y  III. Las disposiciones de la legislación común.  CAPITULO II Puertos, terminales, marinas e instalaciones portuarias",
       "pattern_name": "direct_mention",
@@ -97,7 +97,7 @@
       "source_law": "ley-de-puertos",
       "source_article": "37",
       "target_law_raw": "Ley Federal de Derechos",
-      "target_law_id": "lfda",
+      "target_law_id": "ley-federal-del-derecho-de-autor",
       "target_article": null,
       "citation_text": "y Crédito Público a propuesta de la Secretaría.  Los permisionarios a que se refiere esta ley pagarán, como única contraprestación, la que se fije en la Ley Federal de Derechos.  CAPITULO V Administración portuaria integral",
       "pattern_name": "direct_mention",
@@ -217,7 +217,7 @@
       "source_law": "ley-de-puertos",
       "source_article": "69",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "ip. Luis Moreno Bustamante, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito ",
       "pattern_name": "constitucion_full",
@@ -226,5 +226,5 @@
       "char_offset": 4334
     }
   ],
-  "resolved_at": "2026-03-31T00:29:53.759723+00:00"
+  "resolved_at": "2026-04-01T18:20:22.529775+00:00"
 }

@@ -7,7 +7,7 @@
       "source_law": "ley-del-servicio-postal-mexicano",
       "source_article": "14",
       "target_law_raw": "Ley Federal de Derechos",
-      "target_law_id": "lfda",
+      "target_law_id": "ley-federal-del-derecho-de-autor",
       "target_article": null,
       "citation_text": " de los derechos se hizo en efectivo. No se considerarán en esta disposición la correspondencia o envíos con derechos por cobrar y las exceptuadas en la Ley Federal de Derechos.  II.- Los insuficientemente franqueados que son aquellos en los que se hubieren cubierto parcialmente los derechos.  III.- Los que carezcan en lo ab",
       "pattern_name": "direct_mention",
@@ -22,7 +22,7 @@
       "source_law": "ley-del-servicio-postal-mexicano",
       "source_article": "62",
       "target_law_raw": "Ley Federal de Derechos",
-      "target_law_id": "lfda",
+      "target_law_id": "ley-federal-del-derecho-de-autor",
       "target_article": null,
       "citation_text": "ARTICULO 62.- Por la prestación de los servicios de franqueo se pagarán previamente las cuotas que señale la Ley Federal de Derechos.  Los pagos que excepcionalmente hayan de hacerse con posterioridad a la prestación de un servicio, estarán sujetos a las cuotas previstas por la Ley",
       "pattern_name": "direct_mention",
@@ -37,7 +37,7 @@
       "source_law": "ley-del-servicio-postal-mexicano",
       "source_article": "62",
       "target_law_raw": "Ley Federal de Derechos y se harán de acuerdo con la normatividad",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
       "citation_text": "rechos.  Los pagos que excepcionalmente hayan de hacerse con posterioridad a la prestación de un servicio, estarán sujetos a las cuotas previstas por la Ley Federal de Derechos y se harán de acuerdo con la normatividad aplicable.",
       "pattern_name": "direct_mention",
@@ -52,7 +52,7 @@
       "source_law": "ley-del-servicio-postal-mexicano",
       "source_article": "72",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "nando Mendoza Contreras, Secretario.- Dip. Ma. Guadalupe Ponce Torres, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -61,5 +61,5 @@
       "char_offset": 1851
     }
   ],
-  "resolved_at": "2026-03-31T00:29:59.517045+00:00"
+  "resolved_at": "2026-04-01T18:20:27.392670+00:00"
 }

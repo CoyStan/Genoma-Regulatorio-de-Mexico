@@ -7,7 +7,7 @@
       "source_law": "ley-para-el-dialogo-la-conciliacion-y-la-paz-digna-en-chiapas",
       "source_article": "13",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "Sen. Jorge Rodríguez León, Secretario.- Dip. Marcelino Miranda Añorve, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -16,5 +16,5 @@
       "char_offset": 1259
     }
   ],
-  "resolved_at": "2026-03-31T00:30:20.986774+00:00"
+  "resolved_at": "2026-04-01T18:20:42.618264+00:00"
 }

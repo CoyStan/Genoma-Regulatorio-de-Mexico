@@ -7,7 +7,7 @@
       "source_law": "ley-de-sociedades-de-solidaridad-social",
       "source_article": "4o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ARTICULO 4o.- Para la constitución de la sociedad se requiere un mínimo de cinco socios. Artículo reformado DOF 24-04-2018",
       "pattern_name": "constitucion_bare",
@@ -19,7 +19,7 @@
       "source_law": "ley-de-sociedades-de-solidaridad-social",
       "source_article": "28",
       "target_law_raw": "Ley General de Educación",
-      "target_law_id": "ley-general-educacion",
+      "target_law_id": "ley-general-de-educacion",
       "target_article": null,
       "citation_text": "educación para la totalidad de los socios, tomando como base los principios que consagra el Artículo 3o. de la Constitución General de la República y la Ley General de Educación. Fracción reformada DOF 24-04-2018  II.- La formación de los socios con sentido de la solidaridad social, de la conducta responsable y con espíritu d",
       "pattern_name": "direct_mention",
@@ -34,7 +34,7 @@
       "source_law": "ley-de-sociedades-de-solidaridad-social",
       "source_article": "28",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "os siguientes objetivos:  I.- Procurar la educación para la totalidad de los socios, tomando como base los principios que consagra el Artículo 3o. de la Constitución General de la República y la Ley General de Educación. Fracción reformada DOF 24-04-2018  II.- La formación de los socios con sentido de la solidarid",
       "pattern_name": "constitucion_bare",
@@ -61,7 +61,7 @@
       "source_law": "ley-de-sociedades-de-solidaridad-social",
       "source_article": "43",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "zález Pedrero, S.P.- Rogelio García González, D.S.- José Castillo Hernández, S. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
@@ -70,5 +70,5 @@
       "char_offset": 970
     }
   ],
-  "resolved_at": "2026-03-31T00:29:53.934752+00:00"
+  "resolved_at": "2026-04-01T18:20:22.710844+00:00"
 }

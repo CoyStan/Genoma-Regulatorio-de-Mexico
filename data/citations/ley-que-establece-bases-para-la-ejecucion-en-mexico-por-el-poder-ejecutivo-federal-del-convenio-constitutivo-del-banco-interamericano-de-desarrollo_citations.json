@@ -7,7 +7,7 @@
       "source_law": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-del-banco-interamericano-de-desarrollo",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "73",
       "citation_text": "Artículo 1o.- Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.",
       "pattern_name": "constitucion_full",
@@ -19,7 +19,7 @@
       "source_law": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-del-banco-interamericano-de-desarrollo",
       "source_article": "12",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "76, fracción I, segundo párrafo,",
       "citation_text": "Artículo 12.- El Gobierno Federal requerirá exclusivamente la aprobación del Senado, de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, para la terminación, denuncia, suspensión, modificación, enmienda, retiro de reservas y formulación de declaraciones interpretativas del Convenio Co",
       "pattern_name": "constitucion_full",
@@ -28,5 +28,5 @@
       "char_offset": 123
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.791851+00:00"
+  "resolved_at": "2026-04-01T18:20:43.311470+00:00"
 }

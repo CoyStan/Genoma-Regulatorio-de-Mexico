@@ -22,7 +22,7 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ara el desistimiento de la conducta del agresor;  II.\tLegalidad: para que la acción de las instituciones de seguridad se realice con estricto apego a la Constitución, a las leyes y a los Tratados Internacionales de los que el Estado mexicano sea parte;  III.\tPrevención: para que los operativos para el cumplimiento",
       "pattern_name": "constitucion_bare",
@@ -49,7 +49,7 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "18",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "ley-federal-anticorrupcion",
+      "target_law_id": "ley-general-del-sistema-nacional-anticorrupcion",
       "target_article": null,
       "citation_text": "es serán objeto de examen periódico, de conformidad con las disposiciones aplicables.  Lo anterior, de conformidad con las disposiciones relativas de la Ley General del Sistema Nacional de Seguridad Pública, y demás normatividad aplicable.",
       "pattern_name": "direct_mention",
@@ -124,7 +124,7 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "44",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": " Nancy de la Sierra Arámburo, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de",
       "pattern_name": "constitucion_full",
@@ -133,5 +133,5 @@
       "char_offset": 1039
     }
   ],
-  "resolved_at": "2026-03-31T00:30:18.171922+00:00"
+  "resolved_at": "2026-04-01T18:20:40.088630+00:00"
 }

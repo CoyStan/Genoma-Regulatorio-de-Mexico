@@ -1,6 +1,6 @@
 {
-  "count": 1600,
-  "generated_at": "2026-03-31T00:30:24.629831+00:00",
+  "count": 1590,
+  "generated_at": "2026-04-01T18:20:45.436372+00:00",
   "unresolved_citations": [
     {
       "source_law": "codigo-civil-federal",
@@ -584,7 +584,7 @@
       "confidence": "medium",
       "char_offset": 533,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.4857142857142857,
+      "resolution_score": 0.5,
       "resolution_matched_alias": null
     },
     {
@@ -599,7 +599,7 @@
       "confidence": "medium",
       "char_offset": 1282,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5070422535211268,
+      "resolution_score": 0.5151515151515151,
       "resolution_matched_alias": null
     },
     {
@@ -1919,7 +1919,7 @@
       "confidence": "medium",
       "char_offset": 1203,
       "resolution_confidence": "unresolved",
-      "resolution_score": 0.5070422535211268,
+      "resolution_score": 0.5151515151515151,
       "resolution_matched_alias": null
     },
     {

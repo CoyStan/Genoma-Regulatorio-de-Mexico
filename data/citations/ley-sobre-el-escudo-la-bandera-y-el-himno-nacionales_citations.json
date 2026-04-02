@@ -7,7 +7,7 @@
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "18",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " ser votadas a nivel federal;  41.\t18 de octubre:  Aniversario del Natalicio de Servando Teresa de Mier, en 1765;  42.\t22 de octubre:  Aniversario de la constitución del Ejército Insurgente Libertador, en 1810;  43.\t23 de octubre:  Día Nacional de la Aviación;  44.\t24 de octubre:  Día de las Naciones Unidas;  45.\t",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "41",
       "target_law_raw": "Ley Federal de Telecomunicaciones y Radiodifusión están obligados a transmitir",
-      "target_law_id": "lftr",
+      "target_law_id": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "target_article": null,
       "citation_text": "ARTÍCULO 41.- Los concesionarios de uso comercial, público y social que presten servicios de radiodifusión a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión están obligados a transmitir, dentro de los tiempos del Estado, el Himno Nacional a las seis y veinticuatro horas y, en el caso de la televisión, además, simultáneamente la image",
       "pattern_name": "a_que_refiere",
@@ -49,7 +49,7 @@
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "42",
       "target_law_raw": "Ley General de Cultura Física y Deporte",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "erminará con la repetición de la del coro.  En los eventos deportivos organizados en territorio nacional por las asociaciones o sociedades deportivas a que se refiere la Ley General de Cultura Física y Deporte, podrán rendir honores a la Bandera Nacional con la interpretación del Himno Nacional de manera previa a la realización de dichos eventos. Los honore",
       "pattern_name": "a_que_refiere",
@@ -64,7 +64,7 @@
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "46",
       "target_law_raw": "Ley General de Educación convocarán a un concurso de coros infantiles sobre la interpretación del Himno Nacional",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "ARTÍCULO 46.- Es obligatoria la enseñanza del Himno Nacional en todas las escuelas de educación básica.  Cada año las autoridades educativas señaladas en la Ley General de Educación convocarán a un concurso de coros infantiles sobre la interpretación del Himno Nacional, donde participen los alumnos de educación básica del Sistema Educativo Nacional. Artículo reformado DOF 07-12-2005, 11-05-2018",
       "pattern_name": "senalada_en",
@@ -79,7 +79,7 @@
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "56",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
-      "target_law_id": "lfpa",
+      "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
       "citation_text": "- El procedimiento para imponer las sanciones a las infracciones a que se refiere el artículo anterior, se tramitará en términos del Título Cuarto de la Ley Federal de Procedimiento Administrativo. Artículo adicionado DOF 11-05-2018",
       "pattern_name": "direct_mention",
@@ -109,7 +109,7 @@
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "60",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": ". P.-Luz Lajous, D. P.-Guillermo Mercado Romero, S. S.-Enrique León Martínez, D. S.-Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
@@ -118,5 +118,5 @@
       "char_offset": 1082
     }
   ],
-  "resolved_at": "2026-03-31T00:30:22.378203+00:00"
+  "resolved_at": "2026-04-01T18:20:43.886995+00:00"
 }

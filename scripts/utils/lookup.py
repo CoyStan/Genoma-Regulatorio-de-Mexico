@@ -5,6 +5,9 @@ Covers all ~296 federal laws with known abbreviations and alternate names.
 Structure:
     CANONICAL_LAWS: dict[law_id, dict] — master registry of all laws
     ALIASES: dict[alias_string, law_id] — reverse lookup (name/acronym → id)
+
+NOTE: All law_id keys must match the actual citation file slugs
+      (data/citations/<law_id>_citations.json).
 """
 
 from __future__ import annotations
@@ -20,7 +23,7 @@ from typing import Optional
 
 CANONICAL_LAWS: dict[str, dict] = {
     # Constitutional
-    "constitucion-politica": {
+    "constitucion-politica-de-los-estados-unidos-mexicanos": {
         "name": "Constitución Política de los Estados Unidos Mexicanos",
         "short": "CPEUM",
         "aliases": [
@@ -56,7 +59,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "seguridad-social",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf",
     },
-    "ley-del-infonavit": {
+    "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores": {
         "name": "Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
         "short": "LINFONAVIT",
         "aliases": [
@@ -66,7 +69,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "vivienda",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LINFONAVIT.pdf",
     },
-    "ley-issste": {
+    "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado": {
         "name": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
         "short": "LISSSTE",
         "aliases": [
@@ -77,7 +80,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf",
     },
     # Leyes fiscales
-    "codigo-fiscal-federacion": {
+    "codigo-fiscal-de-la-federacion": {
         "name": "Código Fiscal de la Federación",
         "short": "CFF",
         "aliases": [
@@ -87,7 +90,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "fiscal",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CFF.pdf",
     },
-    "ley-isr": {
+    "ley-del-impuesto-sobre-la-renta": {
         "name": "Ley del Impuesto sobre la Renta",
         "short": "LISR",
         "aliases": [
@@ -98,7 +101,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "fiscal",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISR.pdf",
     },
-    "ley-iva": {
+    "ley-del-impuesto-al-valor-agregado": {
         "name": "Ley del Impuesto al Valor Agregado",
         "short": "LIVA",
         "aliases": [
@@ -108,7 +111,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "fiscal",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIVA.pdf",
     },
-    "ley-ieps": {
+    "ley-del-impuesto-especial-sobre-produccion-y-servicios": {
         "name": "Ley del Impuesto Especial sobre Producción y Servicios",
         "short": "LIEPS",
         "aliases": [
@@ -128,7 +131,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LA.pdf",
     },
     # Leyes de comercio y economía
-    "codigo-comercio": {
+    "codigo-de-comercio": {
         "name": "Código de Comercio",
         "short": "CCom",
         "aliases": [
@@ -138,7 +141,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "comercio",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCom.pdf",
     },
-    "ley-federal-competencia-economica": {
+    "ley-federal-de-competencia-economica": {
         "name": "Ley Federal de Competencia Económica",
         "short": "LFCE",
         "aliases": [
@@ -148,7 +151,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "competencia",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFCE.pdf",
     },
-    "ley-federal-proteccion-consumidor": {
+    "ley-federal-de-proteccion-al-consumidor": {
         "name": "Ley Federal de Protección al Consumidor",
         "short": "LFPC",
         "aliases": [
@@ -159,7 +162,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "consumidor",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPC.pdf",
     },
-    "ley-general-sociedades-mercantiles": {
+    "ley-general-de-sociedades-mercantiles": {
         "name": "Ley General de Sociedades Mercantiles",
         "short": "LGSM",
         "aliases": [
@@ -169,7 +172,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "mercantil",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSM.pdf",
     },
-    "ley-mercado-valores": {
+    "ley-del-mercado-de-valores": {
         "name": "Ley del Mercado de Valores",
         "short": "LMV",
         "aliases": [
@@ -180,7 +183,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LMV.pdf",
     },
     # Leyes financieras
-    "ley-instituciones-credito": {
+    "ley-de-instituciones-de-credito": {
         "name": "Ley de Instituciones de Crédito",
         "short": "LIC",
         "aliases": [
@@ -191,7 +194,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "financiero",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIC.pdf",
     },
-    "ley-banco-mexico": {
+    "ley-del-banco-de-mexico": {
         "name": "Ley del Banco de México",
         "short": "LBM",
         "aliases": [
@@ -201,14 +204,14 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "financiero",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LBM.pdf",
     },
-    "ley-sistemas-pagos": {
+    "ley-de-sistemas-de-pagos": {
         "name": "Ley del Sistema de Pagos",
         "short": "LSP",
         "aliases": [],
         "sector": "financiero",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSP.pdf",
     },
-    "ley-fintech": {
+    "ley-para-regular-las-instituciones-de-tecnologia-financiera": {
         "name": "Ley para Regular las Instituciones de Tecnología Financiera",
         "short": "LRITF",
         "aliases": [
@@ -229,7 +232,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "civil",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf",
     },
-    "codigo-federal-procedimientos-civiles": {
+    "codigo-federal-de-procedimientos-civiles": {
         "name": "Código Federal de Procedimientos Civiles",
         "short": "CFPC",
         "aliases": [
@@ -250,7 +253,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "penal",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPF.pdf",
     },
-    "codigo-nacional-procedimientos-penales": {
+    "codigo-nacional-de-procedimientos-penales": {
         "name": "Código Nacional de Procedimientos Penales",
         "short": "CNPP",
         "aliases": [
@@ -260,7 +263,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "penal",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP.pdf",
     },
-    "ley-federal-anticorrupcion": {
+    "ley-general-del-sistema-nacional-anticorrupcion": {
         "name": "Ley General del Sistema Nacional Anticorrupción",
         "short": "LGSNA",
         "aliases": [
@@ -272,7 +275,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA.pdf",
     },
     # Leyes ambientales
-    "lgeepa": {
+    "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente": {
         "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
         "short": "LGEEPA",
         "aliases": [
@@ -284,7 +287,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "ambiental",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGEEPA.pdf",
     },
-    "ley-aguas-nacionales": {
+    "ley-de-aguas-nacionales": {
         "name": "Ley de Aguas Nacionales",
         "short": "LAN",
         "aliases": [
@@ -295,7 +298,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAN.pdf",
     },
     # Leyes de salud
-    "ley-general-salud": {
+    "ley-general-de-salud": {
         "name": "Ley General de Salud",
         "short": "LGS",
         "aliases": [
@@ -307,7 +310,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGS.pdf",
     },
     # Leyes de educación
-    "ley-general-educacion": {
+    "ley-general-de-educacion": {
         "name": "Ley General de Educación",
         "short": "LGE",
         "aliases": [
@@ -318,7 +321,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGE.pdf",
     },
     # Leyes de transparencia y acceso a la información
-    "lgtaip": {
+    "ley-general-de-transparencia-y-acceso-a-la-informacion-publica": {
         "name": "Ley General de Transparencia y Acceso a la Información Pública",
         "short": "LGTAIP",
         "aliases": [
@@ -329,7 +332,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "transparencia",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf",
     },
-    "lfpdppp": {
+    "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares": {
         "name": "Ley Federal de Protección de Datos Personales en Posesión de los Particulares",
         "short": "LFPDPPP",
         "aliases": [
@@ -341,7 +344,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf",
     },
     # Leyes de telecomunicaciones
-    "lftr": {
+    "ley-en-materia-de-telecomunicaciones-y-radiodifusion": {
         "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
         "short": "LFTR",
         "aliases": [
@@ -353,28 +356,31 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTR.pdf",
     },
     # Leyes de energía
-    "ley-industria-electrica": {
+    "ley-del-sector-electrico": {
         "name": "Ley de la Industria Eléctrica",
         "short": "LIE",
         "aliases": [
             "Ley Eléctrica",
             "Ley de Electricidad",
             "Ley de la CFE",
+            "Ley del Sector Eléctrico",
         ],
         "sector": "energia",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIE.pdf",
     },
-    "ley-hidrocarburos": {
+    "ley-del-sector-hidrocarburos": {
         "name": "Ley de Hidrocarburos",
         "short": "LH",
         "aliases": [
             "Ley del Petróleo",
             "Ley Petrolera",
+            "Ley de Hidrocarburos",
+            "Ley del Sector Hidrocarburos",
         ],
         "sector": "energia",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LH.pdf",
     },
-    "ley-pemex": {
+    "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos": {
         "name": "Ley de Petróleos Mexicanos",
         "short": "LPEMEX",
         "aliases": [
@@ -385,7 +391,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LPEMEX.pdf",
     },
     # Leyes administrativas y de organización del Estado
-    "lopjf": {
+    "ley-organica-del-poder-judicial-de-la-federacion": {
         "name": "Ley Orgánica del Poder Judicial de la Federación",
         "short": "LOPJF",
         "aliases": [
@@ -395,7 +401,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "judicial",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPJF.pdf",
     },
-    "loapf": {
+    "ley-organica-de-la-administracion-publica-federal": {
         "name": "Ley Orgánica de la Administración Pública Federal",
         "short": "LOAPF",
         "aliases": [
@@ -406,7 +412,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "administrativo",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOAPF.pdf",
     },
-    "lfpa": {
+    "ley-federal-de-procedimiento-administrativo": {
         "name": "Ley Federal de Procedimiento Administrativo",
         "short": "LFPA",
         "aliases": [
@@ -416,9 +422,9 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "administrativo",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf",
     },
-    "ley-amparo": {
+    "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos": {
         "name": "Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución",
-        "short": "LA",
+        "short": "LAmp",
         "aliases": [
             "Ley de Amparo",
             "Ley del Amparo",
@@ -427,7 +433,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "judicial",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp.pdf",
     },
-    "ley-contrataciones-publicas": {
+    "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico": {
         "name": "Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público",
         "short": "LAASSP",
         "aliases": [
@@ -438,7 +444,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "administrativo",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LAASSP.pdf",
     },
-    "ley-obras-publicas": {
+    "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas": {
         "name": "Ley de Obras Públicas y Servicios Relacionados con las Mismas",
         "short": "LOPSRM",
         "aliases": [
@@ -448,7 +454,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "administrativo",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LOPSRM.pdf",
     },
-    "ley-responsabilidades-administrativas": {
+    "ley-general-de-responsabilidades-administrativas": {
         "name": "Ley General de Responsabilidades Administrativas",
         "short": "LGRA",
         "aliases": [
@@ -459,7 +465,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA.pdf",
     },
     # Leyes electorales
-    "lgipe": {
+    "ley-general-de-instituciones-y-procedimientos-electorales": {
         "name": "Ley General de Instituciones y Procedimientos Electorales",
         "short": "LGIPE",
         "aliases": [
@@ -470,7 +476,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "electoral",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPE.pdf",
     },
-    "lgpp": {
+    "ley-general-de-partidos-politicos": {
         "name": "Ley General de Partidos Políticos",
         "short": "LGPP",
         "aliases": [
@@ -481,7 +487,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPP.pdf",
     },
     # Otras leyes importantes
-    "ley-propiedad-industrial": {
+    "ley-federal-de-proteccion-a-la-propiedad-industrial": {
         "name": "Ley Federal de Protección a la Propiedad Industrial",
         "short": "LFPPI",
         "aliases": [
@@ -492,7 +498,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "propiedad-intelectual",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPPI.pdf",
     },
-    "lfda": {
+    "ley-federal-del-derecho-de-autor": {
         "name": "Ley Federal del Derecho de Autor",
         "short": "LFDA",
         "aliases": [
@@ -502,7 +508,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "propiedad-intelectual",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFDA.pdf",
     },
-    "ley-inmigracion": {
+    "ley-de-migracion": {
         "name": "Ley de Migración",
         "short": "LM",
         "aliases": [
@@ -512,7 +518,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "migracion",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LM.pdf",
     },
-    "ley-seguridad-nacional": {
+    "ley-de-seguridad-nacional": {
         "name": "Ley de Seguridad Nacional",
         "short": "LSN",
         "aliases": [
@@ -522,7 +528,7 @@ CANONICAL_LAWS: dict[str, dict] = {
         "sector": "seguridad",
         "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSN.pdf",
     },
-    "ley-prevencion-lavado-dinero": {
+    "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita": {
         "name": "Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
         "short": "LFPIORPI",
         "aliases": [

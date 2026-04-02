@@ -22,7 +22,7 @@
       "source_law": "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "- El servicio de las armas exige que el militar lleve el cumplimiento del deber hasta el sacrificio y que anteponga al interés personal, el respeto a la Constitución Política de los Estados Unidos Mexicanos, la soberanía de la Nación, la lealtad a las instituciones y el honor del Ejército, Fuerza Aérea y Guardia N",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "17",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " como pertenecer al estado eclesiástico o desempeñarse como ministro de cualquier culto religioso, sin que por ello pierda los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos. Artículo reformado DOF 11-12-1995",
       "pattern_name": "constitucion_bare",
@@ -76,7 +76,7 @@
       "source_law": "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "1",
       "target_law_raw": "Ley Orgánica del Ejército y Armada Nacionales de la citada fecha de 11 de marzo de 1926",
-      "target_law_id": "lopjf",
+      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
       "citation_text": "nza General del Ejército de fecha 11 de diciembre de 1911, 38 de la Ley de Disciplina del Ejército y Armada Nacionales de 11 de marzo de 1926 y 6° de la Ley Orgánica del Ejército y Armada Nacionales de la citada fecha de 11 de marzo de 1926, en cuanto se opongan a esta Ley.",
       "pattern_name": "direct_mention",
@@ -151,7 +151,7 @@
       "source_law": "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "3",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
+      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "ía Alcalde Luján.- Rúbrica.   DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas de",
       "pattern_name": "direct_mention",
@@ -166,7 +166,7 @@
       "source_law": "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "3",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
-      "target_law_id": "lopjf",
+      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
       "citation_text": "á su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.  Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el",
       "pattern_name": "direct_mention",
@@ -196,7 +196,7 @@
       "source_law": "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": " V. P.- A. S. Rodríguez, S. P. S.- Gilberto Fabila, D. P.- Andrés H. Peralta, D. S.- Rúbricas.  En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo Federal, en México, D. F., a los veinti",
       "pattern_name": "constitucion_full",
@@ -205,5 +205,5 @@
       "char_offset": 254
     }
   ],
-  "resolved_at": "2026-03-31T00:29:45.651865+00:00"
+  "resolved_at": "2026-04-01T18:20:16.442836+00:00"
 }

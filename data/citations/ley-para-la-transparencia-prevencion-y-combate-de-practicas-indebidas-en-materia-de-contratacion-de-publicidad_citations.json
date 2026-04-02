@@ -7,7 +7,7 @@
       "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "28",
       "citation_text": ". La presente Ley es de orden público, interés general y de aplicación en todo el territorio nacional. En atención a los objetivos establecidos en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, tiene por objeto promover la transparencia en el mercado de la publicidad, así como la prevención y el combate a prácticas comerciales que constituy",
       "pattern_name": "constitucion_full",
@@ -19,7 +19,7 @@
       "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
       "source_article": "3",
       "target_law_raw": "Ley para la Transparencia",
-      "target_law_id": "lgtaip",
+      "target_law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "target_article": null,
       "citation_text": "to de dar a conocer la existencia o características de un producto o servicio para inducir su comercialización a través de cualquier Medio;  VI.\tLey: La Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad;  VII.\tMedio de Comunicación o Medio: Persona física o moral qu",
       "pattern_name": "direct_mention",
@@ -34,7 +34,7 @@
       "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
       "source_article": "9",
       "target_law_raw": "Ley General de Comunicación Social y demás ordenamientos",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "ón se lleve a cabo por un ente público, sin perjuicio de las disposiciones de esta Ley, se deberá atender a los criterios, principios y disposiciones previstas en la Ley General de Comunicación Social y demás ordenamientos aplicables en la materia.",
       "pattern_name": "prevista_en",
@@ -49,7 +49,7 @@
       "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
       "source_article": "11",
       "target_law_raw": "Ley Federal de Competencia Económica",
-      "target_law_id": "ley-federal-competencia-economica",
+      "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
       "citation_text": " de la presente Ley se sustanciarán y procesarán por la Comisión Federal de Competencia Económica de conformidad con los procedimientos previstos por la Ley Federal de Competencia Económica.",
       "pattern_name": "direct_mention",
@@ -64,7 +64,7 @@
       "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
       "source_article": "13",
       "target_law_raw": "Ley para la Transparencia",
-      "target_law_id": "lgtaip",
+      "target_law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "target_article": null,
       "citation_text": "entes:  PRIMERO. Es procedente y fundada la presente controversia constitucional.  SEGUNDO. Se declara la invalidez del DECRETO por el que se expide la Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad, publicado en el Diario Oficial de la Federación el tres de jun",
       "pattern_name": "direct_mention",
@@ -79,7 +79,7 @@
       "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
       "source_article": "13",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "rita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de",
       "pattern_name": "constitucion_full",
@@ -88,5 +88,5 @@
       "char_offset": 679
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.229190+00:00"
+  "resolved_at": "2026-04-01T18:20:42.880695+00:00"
 }

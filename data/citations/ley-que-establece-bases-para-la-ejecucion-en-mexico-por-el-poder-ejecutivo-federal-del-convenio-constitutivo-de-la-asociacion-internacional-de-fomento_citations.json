@@ -7,7 +7,7 @@
       "source_law": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "73",
       "citation_text": "ARTICULO 1o.- Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.",
       "pattern_name": "constitucion_full",
@@ -34,7 +34,7 @@
       "source_law": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "76, fracción I, segundo párrafo,",
       "citation_text": "ción de declaraciones interpretativas del Convenio Constitutivo de la Asociación Internacional de Fomento. Esto de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos. Artículo reformado DOF 06-06-2025  TRANSITORIO  UNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Fed",
       "pattern_name": "constitucion_full",
@@ -43,5 +43,5 @@
       "char_offset": 372
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.791444+00:00"
+  "resolved_at": "2026-04-01T18:20:43.311022+00:00"
 }

@@ -7,7 +7,7 @@
       "source_law": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
       "source_article": "16",
       "target_law_raw": "Ley de Premios",
-      "target_law_id": "ley-pemex",
+      "target_law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
       "target_article": null,
       "citation_text": "ARTICULO 16.- Corresponderá a la Secretaría de Cultura, a través del Instituto otorgar el premio nacional de Arte y Literatura, en términos de la Ley de Premios, Estímulos y Recompensas Civiles. Artículo reformado DOF 17-12-2015  TRANSITORIOS:  PRIMERO.- La Secretaría de Educación Pública, de acuerdo con la d",
       "pattern_name": "direct_mention",
@@ -22,7 +22,7 @@
       "source_law": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
       "source_article": "16",
       "target_law_raw": "Ley General de Bienes Nacionales",
-      "target_law_id": "ley-general-sociedades-mercantiles",
+      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "jecutivo Federal destinarlo al uso de la Secretaría de Bienes Nacionales e Inspección Administrativa, con la facultad que le otorga el artículo 28 de la Ley General de Bienes Nacionales en vigor.  Pedro Guerrero Martínez, S. P.- Tito Ortega Sánchez, D. P.- Ruffo Figueroa Figueroa, S. S.- J. Rodolfo Suárez Coello, D. S.- Rúbricas\".  En cumplim",
       "pattern_name": "direct_mention",
@@ -37,7 +37,7 @@
       "source_law": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
       "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": ". P.- Rubén Vizcarra, S. S.- José López Bermúdez, D. P.- César M. Cervantes, D. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., ",
       "pattern_name": "constitucion_full",
@@ -46,5 +46,5 @@
       "char_offset": 1415
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.600216+00:00"
+  "resolved_at": "2026-04-01T18:20:43.262401+00:00"
 }

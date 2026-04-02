@@ -37,7 +37,7 @@
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25, 27 fracción XX y demás dispositivos correspondientes",
       "citation_text": "Artículo 1o. Se emite la presente Ley de Capitalización del PROCAMPO, en el marco de los artículos 25, 27 fracción XX y demás dispositivos correspondientes de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Desarrollo Rural Sustentable, y otras disposiciones aplicables.  La presente ley es de aplicación general y regirá en todo el territorio d",
       "pattern_name": "constitucion_full",
@@ -139,7 +139,7 @@
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "22",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "ip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -148,5 +148,5 @@
       "char_offset": 1471
     }
   ],
-  "resolved_at": "2026-03-31T00:29:43.905832+00:00"
+  "resolved_at": "2026-04-01T18:20:14.946630+00:00"
 }

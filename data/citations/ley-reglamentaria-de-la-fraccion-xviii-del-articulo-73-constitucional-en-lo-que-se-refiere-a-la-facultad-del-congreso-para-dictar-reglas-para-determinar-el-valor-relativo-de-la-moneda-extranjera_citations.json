@@ -7,7 +7,7 @@
       "source_law": "ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-que-se-refiere-a-la-facultad-del-congreso-para-dictar-reglas-para-determinar-el-valor-relativo-de-la-moneda-extranjera",
       "source_article": "0",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "Piña Olaya, D.P.- Alfonso Segbe Sanen, S.S.- Hilda Anderson Nevárez de Rojas, D.S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
@@ -16,5 +16,5 @@
       "char_offset": 2285
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.793600+00:00"
+  "resolved_at": "2026-04-01T18:20:43.313128+00:00"
 }

@@ -1,56 +1,56 @@
 # Genoma Regulatorio de México — Resumen de la Red
 
-_Generado: 2026-04-01 07:49 UTC_
+_Generado: 2026-04-02 10:20 UTC_
 
 ## Estadísticas generales
-- **Leyes (nodos):** 361
-- **Referencias cruzadas (aristas):** 4,534
-- **Densidad de la red:** 0.0349
+- **Leyes (nodos):** 318
+- **Referencias cruzadas (aristas):** 4,497
+- **Densidad de la red:** 0.0446
 - **Comunidades detectadas:** 6
-- **Ciclos/dependencias circulares:** 195
+- **Ciclos/dependencias circulares:** 500
 - **Leyes aisladas:** 25
 
 ## Leyes más centrales (por PageRank)
 _Las leyes con mayor PageRank son las 'columnas vertebrales' del sistema jurídico_
 
-1. **CPEUM — Constitución Política de los Estados Unidos Mexicanos** (PageRank: 0.1269)
-2. **LGSM — Ley General de Sociedades Mercantiles** (PageRank: 0.0405)
-3. **LOPJF — Ley Orgánica del Poder Judicial de la Federación** (PageRank: 0.0258)
-4. **LFCE — Ley Federal de Competencia Económica** (PageRank: 0.0164)
-5. **CNPP — Código Nacional de Procedimientos Penales** (PageRank: 0.0134)
-6. **LGE — Ley General de Educación** (PageRank: 0.0124)
-7. **LFPA — Ley Federal de Procedimiento Administrativo** (PageRank: 0.0117)
-8. **LIC — Ley de Instituciones de Crédito** (PageRank: 0.0110)
-9. **LFT — LEY Federal del Trabajo** (PageRank: 0.0108)
-10. **LOAPF — Ley Orgánica de la Administración Pública Federal** (PageRank: 0.0092)
+1. **CPEUM — CONSTITUCIÓN Política de los Estados Unidos Mexicanos** (PageRank: 0.2054)
+2. **LGSM — LEY General de Sociedades Mercantiles** (PageRank: 0.0577)
+3. **LOPJF — LEY Orgánica del Poder Judicial de la Federación** (PageRank: 0.0451)
+4. **LGIPE — LEY General de Instituciones y Procedimientos Electorales** (PageRank: 0.0348)
+5. **LGSNA — LEY General del Sistema Nacional Anticorrupción** (PageRank: 0.0301)
+6. **LFCE — LEY Federal de Competencia Económica** (PageRank: 0.0236)
+7. **LGRA — LEY General de Responsabilidades Administrativas** (PageRank: 0.0234)
+8. **LOAPF — LEY Orgánica de la Administración Pública Federal** (PageRank: 0.0201)
+9. **CNPP — CÓDIGO Nacional de Procedimientos Penales** (PageRank: 0.0186)
+10. **LOCG — LEY Orgánica del Congreso General de los Estados Unidos Mexi** (PageRank: 0.0176)
 
 ## Leyes más citadas (por grado de entrada)
 _Las leyes más referenciadas por otras leyes_
 
-1. **CPEUM — Constitución Política de los Estados Unidos Mexicanos** (citada por 316 leyes)
-2. **LGSM — Ley General de Sociedades Mercantiles** (citada por 203 leyes)
-3. **LFCE — Ley Federal de Competencia Económica** (citada por 144 leyes)
-4. **LOPJF — Ley Orgánica del Poder Judicial de la Federación** (citada por 138 leyes)
-5. **LGE — Ley General de Educación** (citada por 107 leyes)
-6. **CNPP — Código Nacional de Procedimientos Penales** (citada por 102 leyes)
-7. **LFT — LEY Federal del Trabajo** (citada por 92 leyes)
-8. **LOAPF — Ley Orgánica de la Administración Pública Federal** (citada por 91 leyes)
-9. **LFPA — Ley Federal de Procedimiento Administrativo** (citada por 91 leyes)
-10. **LFTR — Ley Federal de Telecomunicaciones y Radiodifusión** (citada por 83 leyes)
+1. **CPEUM — CONSTITUCIÓN Política de los Estados Unidos Mexicanos** (citada por 316 leyes)
+2. **LGSM — LEY General de Sociedades Mercantiles** (citada por 202 leyes)
+3. **LFCE — LEY Federal de Competencia Económica** (citada por 143 leyes)
+4. **LOPJF — LEY Orgánica del Poder Judicial de la Federación** (citada por 137 leyes)
+5. **LGE — LEY General de Educación** (citada por 106 leyes)
+6. **CNPP — CÓDIGO Nacional de Procedimientos Penales** (citada por 101 leyes)
+7. **LFPA — LEY Federal de Procedimiento Administrativo** (citada por 96 leyes)
+8. **LFT — LEY Federal del Trabajo** (citada por 92 leyes)
+9. **LOAPF — LEY Orgánica de la Administración Pública Federal** (citada por 90 leyes)
+10. **LMTR — LEY en Materia de Telecomunicaciones y Radiodifusión** (citada por 82 leyes)
 
 ## Dependencias circulares (muestra)
 _Pares o grupos de leyes que se referencian mutuamente_
 
-- `codigo-de-justicia-militar → ley-de-la-guardia-nacional → codigo-de-justicia-militar`
-- `ley-de-asistencia-social → ley-de-bioseguridad-de-organismos-geneticamente-modificados → ley-de-asistencia-social`
-- `ley-de-asistencia-social → ley-de-la-economia-social-y-solidaria → ley-de-asistencia-social`
-- `ley-de-asistencia-social → ley-de-los-institutos-nacionales-de-salud → ley-de-asistencia-social`
-- `ley-de-asistencia-social → ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo → ley-de-asistencia-social`
-- `ley-de-asistencia-social → ley-federal-de-sanidad-vegetal → ley-de-asistencia-social`
-- `ley-de-asociaciones-religiosas-y-culto-publico → ley-de-inversion-extranjera → ley-de-asociaciones-religiosas-y-culto-publico`
-- `ley-de-asociaciones-religiosas-y-culto-publico → ley-federal-contra-la-delincuencia-organizada → ley-de-asociaciones-religiosas-y-culto-publico`
-- `ley-de-aviacion-civil → ley-de-aeropuertos → ley-de-aviacion-civil`
-- `ley-de-aviacion-civil → ley-de-inversion-extranjera → ley-de-aviacion-civil`
+- `codigo-civil-federal → codigo-nacional-de-procedimientos-penales → codigo-civil-federal`
+- `codigo-de-comercio → codigo-penal-federal → codigo-de-comercio`
+- `codigo-de-comercio → ley-del-mercado-de-valores → codigo-de-comercio`
+- `codigo-de-comercio → ley-federal-de-proteccion-al-consumidor → codigo-de-comercio`
+- `codigo-federal-de-procedimientos-civiles → codigo-civil-federal → codigo-federal-de-procedimientos-civiles`
+- `codigo-federal-de-procedimientos-civiles → codigo-nacional-de-procedimientos-penales → codigo-federal-de-procedimientos-civiles`
+- `codigo-fiscal-de-la-federacion → codigo-nacional-de-procedimientos-penales → codigo-fiscal-de-la-federacion`
+- `codigo-fiscal-de-la-federacion → ley-aduanera → codigo-fiscal-de-la-federacion`
+- `codigo-fiscal-de-la-federacion → ley-de-los-sistemas-de-ahorro-para-el-retiro → codigo-fiscal-de-la-federacion`
+- `codigo-fiscal-de-la-federacion → ley-del-impuesto-especial-sobre-produccion-y-servicios → codigo-fiscal-de-la-federacion`
 
 ## Nota metodológica
 Las citas fueron extraídas mediante expresiones regulares de los textos legales.

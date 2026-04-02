@@ -37,7 +37,7 @@
       "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
       "source_article": "15",
       "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-isr",
+      "target_law_id": "ley-del-impuesto-sobre-la-renta",
       "target_article": null,
       "citation_text": " Público y las personas morales que se dediquen a actividades agrícolas, ganaderas, silvícolas o pesqueras que en 1989 tributaban en el Título III de la Ley del Impuesto sobre la Renta, gozarán de los siguientes beneficios:  I.- Se les condona el impuesto sobre la renta y el impuesto al activo que hubieren causado por los meses de o",
       "pattern_name": "direct_mention",
@@ -52,7 +52,7 @@
       "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
       "source_article": "15",
       "target_law_raw": "Ley del impuesto mencionado",
-      "target_law_id": "ley-isr",
+      "target_law_id": "ley-del-impuesto-sobre-la-renta",
       "target_article": null,
       "citation_text": " ingresos que no excedieron de trescientos millones de pesos y que puedan considerar como salida la prevista en la fracción XII del artículo 119-E de la Ley del impuesto mencionado, no estarán obligados a cumplir con requisito alguno para considerar dicha salida.  QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impue",
       "pattern_name": "direct_mention",
@@ -67,7 +67,7 @@
       "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
       "source_article": "15",
       "target_law_raw": "Ley del Impuesto al Valor Agregado y 8o",
-      "target_law_id": "ley-iva",
+      "target_law_id": "ley-del-impuesto-al-valor-agregado",
       "target_article": null,
       "citation_text": "uesto mencionado, no estarán obligados a cumplir con requisito alguno para considerar dicha salida.  QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.  SEXTO.- Se ratifican los acuerdos",
       "pattern_name": "direct_mention",
@@ -82,7 +82,7 @@
       "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
       "source_article": "15",
       "target_law_raw": "Ley del Impuesto Especial sobre Producción y Servicios",
-      "target_law_id": "ley-ieps",
+      "target_law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "target_article": null,
       "citation_text": "on requisito alguno para considerar dicha salida.  QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.  SEXTO.- Se ratifican los acuerdos en materia fiscal otorgados durante 1990 a los contribuyentes qu",
       "pattern_name": "direct_mention",
@@ -97,7 +97,7 @@
       "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
       "source_article": "15",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " Verdugo Rosas, Secretario.- Sen. Gustavo Almaraz Montaño, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo ",
       "pattern_name": "constitucion_bare",
@@ -106,5 +106,5 @@
       "char_offset": 5397
     }
   ],
-  "resolved_at": "2026-03-31T00:29:44.079015+00:00"
+  "resolved_at": "2026-04-01T18:20:15.053741+00:00"
 }

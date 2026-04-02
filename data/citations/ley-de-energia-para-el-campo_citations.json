@@ -22,7 +22,7 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25, 27 fracción XX y 28",
       "citation_text": "Artículo 1o. La presente Ley es reglamentaria de los artículos 25, 27 fracción XX y 28 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República Mexicana.  Sus disposiciones son de orden público y están dirigidas a coadyuvar al desarrollo rural ",
       "pattern_name": "constitucion_full",
@@ -49,7 +49,7 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "3o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "oductivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura, acuacultura y pesca ribereña;  II. CONSTITUCIÓN.- La Constitución Política de los Estados Unidos Mexicanos;  III. CUOTA ENERGÉTICA.- El volumen de consumo de energético agropecuario que se establezca para cada benef",
       "pattern_name": "constitucion_bare",
@@ -76,7 +76,7 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "5o",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "loapf",
+      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "rollo de las actividades agropecuarias.  La Secretaría de Hacienda y Crédito Público, con fundamento en lo dispuesto en el artículo 31 fracción X, de la Ley Orgánica de la Administración Pública Federal, en coordinación con la Secretaría de Energía, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y la Secretaría de Med",
       "pattern_name": "direct_mention",
@@ -121,7 +121,7 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "ip. Adrián Rivera Pérez, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -130,5 +130,5 @@
       "char_offset": 1028
     }
   ],
-  "resolved_at": "2026-03-31T00:29:46.298679+00:00"
+  "resolved_at": "2026-04-01T18:20:17.046494+00:00"
 }

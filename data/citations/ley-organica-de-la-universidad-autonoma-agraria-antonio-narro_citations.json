@@ -7,7 +7,7 @@
       "source_law": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "3",
       "citation_text": "n organismo público descentralizado, con personalidad jurídica propia, patrimonio propio y dotado de Autonomía en los términos de la Fracción VII del Artículo 3 de la Constitución Política de los Estados Unidos Mexicanos, con todas las facultades que en el mismo se establecen.",
       "pattern_name": "constitucion_full",
@@ -19,7 +19,7 @@
       "source_law": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
       "source_article": "4",
       "target_law_raw": "Ley Orgánica",
-      "target_law_id": "loapf",
+      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": " de la Universidad Autónoma Agraria Antonio Narro creada por el Congreso del Estado de Coahuila, en Decreto de 4 de Abril de 1989, como su patrimonio en los términos de la Ley Orgánica, así como los bienes que haya adquirido con posterioridad;  II. El subsidio ordinario anual y los extraordinarios que el Ejecutivo Federal incluya en",
       "pattern_name": "en_los_terminos",
@@ -94,7 +94,7 @@
       "source_law": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
       "source_article": "26",
       "target_law_raw": "Ley Orgánica de la Universidad Agraria Antonio Narro del 4 de abril de 1989",
-      "target_law_id": "lopjf",
+      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
       "citation_text": ". Congreso del Estado apruebe y el Titular del Ejecutivo Estatal publique en el Periódico Oficial del Estado de Coahuila de Zaragoza la Abrogación de la Ley Orgánica de la Universidad Agraria Antonio Narro del 4 de abril de 1989, y la desincorporación de todos los bienes muebles e inmuebles que conforman el patrimonio de la Universidad.  SEGUNDO. El H. Consejo Universitario d",
       "pattern_name": "direct_mention",
@@ -124,7 +124,7 @@
       "source_law": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
       "source_article": "26",
       "target_law_raw": "Ley Orgánica",
-      "target_law_id": "loapf",
+      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": " fueron electas o designadas conforme a la Ley Orgánica anterior. Concluido dicho término, las nuevas autoridades se designarán o elegirán conforme a la Ley Orgánica en vigor, y al estatuto y los reglamentos que de ella emanen.  México, D.F., a 7 de marzo de 2006.- Dip. Marcela González Salas P., Presidenta.- Sen. Enrique ",
       "pattern_name": "direct_mention",
@@ -139,7 +139,7 @@
       "source_law": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
       "source_article": "26",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": ". Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -148,5 +148,5 @@
       "char_offset": 1996
     }
   ],
-  "resolved_at": "2026-03-31T00:30:18.954027+00:00"
+  "resolved_at": "2026-04-01T18:20:40.801523+00:00"
 }

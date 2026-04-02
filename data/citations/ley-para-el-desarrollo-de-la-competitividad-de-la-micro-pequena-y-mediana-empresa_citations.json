@@ -22,7 +22,7 @@
       "source_law": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "nsiderarse los siguientes Programas:  I. Capacitación y formación empresarial, así como de asesoría y Consultoría para las MIPYMES;  II. Fomento para la constitución de incubadoras de empresas y formación de emprendedores;  III. Formación, integración y apoyo a las Cadenas Productivas, Agrupamientos Empresariales ",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "d en las MIPYMES a través de la detección de necesidades en Capacitación, Asesoría y Consultoría; Fracción reformada DOF 21-01-2015  II. El fomento a la constitución de incubadoras de empresas, y a la iniciativa y creatividad de los emprendedores;  III. La formación de especialistas en Consultoría y Capacitación; ",
       "pattern_name": "constitucion_bare",
@@ -46,7 +46,7 @@
       "source_law": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
       "source_article": "22",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "cadeo, tecnología y procesos de producción, diseño de producto y financiamiento, así como en materia de normalización y certificación;  III. Fomentar la constitución de incubadoras de empresas, y la iniciativa y creatividad de los emprendedores;  IV. Procurar la formación de especialistas en Consultoría y Capacita",
       "pattern_name": "constitucion_bare",
@@ -73,7 +73,7 @@
       "source_law": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
       "source_article": "26",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": ".- Dip. Adrián Rivera Pérez, Secretario.- Sen. Rafael Melgoza Radillo, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -82,5 +82,5 @@
       "char_offset": 2507
     }
   ],
-  "resolved_at": "2026-03-31T00:30:20.986466+00:00"
+  "resolved_at": "2026-04-01T18:20:42.617941+00:00"
 }

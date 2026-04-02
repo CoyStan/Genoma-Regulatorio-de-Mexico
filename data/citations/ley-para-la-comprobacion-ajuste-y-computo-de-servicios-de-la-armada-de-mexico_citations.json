@@ -7,7 +7,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
       "source_article": "5",
       "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_id": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "target_article": null,
       "citation_text": "situación del personal naval dentro de la Armada de México y serán formulados por la unidad administrativa correspondiente, conforme a lo ordenado en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.",
       "pattern_name": "direct_mention",
@@ -22,7 +22,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
       "source_article": "6",
       "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
-      "target_law_id": "ley-del-infonavit",
+      "target_law_id": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
       "target_article": null,
       "citation_text": "s, y  II.- Formular las hojas de servicios, así como el cómputo y ajuste de tiempo de servicios correspondientes, en los siguientes casos:  a) En los señalados en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;  b) Cuando lo ordene el Alto Mando o lo requiera una autoridad competente;  c) Para su remisión al Senado de la República, en los casos en que deba ",
       "pattern_name": "senalada_en",
@@ -52,7 +52,7 @@
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
       "source_article": "25",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "e.- Dip. Marcos Morales Torres, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -61,5 +61,5 @@
       "char_offset": 845
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.066007+00:00"
+  "resolved_at": "2026-04-01T18:20:42.703438+00:00"
 }

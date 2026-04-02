@@ -22,7 +22,7 @@
       "source_law": "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja",
       "source_article": "20",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "Zoreda Novelo, Secretario.- Dip. Eduardo Sergio de la Torre Jaramillo, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -31,5 +31,5 @@
       "char_offset": 1166
     }
   ],
-  "resolved_at": "2026-03-31T00:30:21.064830+00:00"
+  "resolved_at": "2026-04-01T18:20:42.702187+00:00"
 }
