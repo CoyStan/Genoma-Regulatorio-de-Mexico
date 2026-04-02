@@ -1,111 +1,110 @@
 {
-  "total_citations": 10893,
+  "total_citations": 7367,
   "by_pattern": {
-    "direct_mention": 6069,
-    "constitucion_bare": 1128,
-    "constitucion_full": 794,
-    "lo_dispuesto": 512,
-    "establecida_en": 485,
-    "prevista_en": 447,
-    "en_los_terminos": 349,
-    "conformidad": 243,
-    "a_que_refiere": 188,
-    "lo_previsto": 175,
-    "articulo_constitucional": 164,
+    "direct_mention": 3261,
+    "constitucion_bare": 1140,
+    "constitucion_full": 483,
+    "lo_dispuesto": 436,
+    "establecida_en": 417,
+    "prevista_en": 370,
+    "en_los_terminos": 296,
+    "conformidad": 202,
+    "articulo_constitucional": 165,
+    "lo_previsto": 160,
+    "a_que_refiere": 149,
     "senalada_en": 84,
-    "conforme_dispuesto": 84,
-    "de_acuerdo": 72,
-    "regulada_por": 36,
-    "terminos_establecido": 24,
-    "para_efectos": 21,
+    "conforme_dispuesto": 73,
+    "de_acuerdo": 59,
+    "regulada_por": 30,
+    "terminos_establecido": 21,
     "ley_y_reglamentos": 11,
-    "fundamento_articulo": 5,
-    "materia_conforme": 2
+    "para_efectos": 9,
+    "materia_conforme": 1
   },
   "by_confidence": {
-    "medium": 7231,
-    "high": 3662
+    "medium": 4422,
+    "high": 2945
   },
   "top_cited_laws_raw": [
     {
       "name": "Constitución Política de los Estados Unidos Mexicanos",
-      "count": 2086
+      "count": 1788
     },
     {
       "name": "Ley Federal de Procedimiento Administrativo",
-      "count": 144
+      "count": 142
     },
     {
       "name": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "count": 140
-    },
-    {
-      "name": "Ley de Instituciones de Crédito",
-      "count": 122
+      "count": 113
     },
     {
       "name": "Ley General de Responsabilidades Administrativas",
-      "count": 117
-    },
-    {
-      "name": "Ley Federal del Trabajo",
-      "count": 114
-    },
-    {
-      "name": "Ley General de Sociedades Mercantiles",
-      "count": 112
-    },
-    {
-      "name": "Ley del Mercado de Valores",
-      "count": 103
+      "count": 111
     },
     {
       "name": "Código Nacional de Procedimientos Civiles y Familiares",
       "count": 98
     },
     {
-      "name": "Ley del Impuesto sobre la Renta",
+      "name": "Ley General de Sociedades Mercantiles",
+      "count": 97
+    },
+    {
+      "name": "Ley de Instituciones de Crédito",
       "count": 96
     },
     {
-      "name": "ley de la materia",
+      "name": "Ley del Mercado de Valores",
       "count": 91
     },
     {
-      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "name": "Ley Federal del Trabajo",
       "count": 88
-    },
-    {
-      "name": "Ley Federal de las Entidades Paraestatales",
-      "count": 85
     },
     {
       "name": "Reglamento de esta Ley",
       "count": 83
     },
     {
-      "name": "Código Fiscal de la Federación",
-      "count": 82
-    },
-    {
-      "name": "Ley Orgánica de la Administración Pública Federal",
+      "name": "Ley del Impuesto sobre la Renta",
       "count": 81
     },
     {
-      "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
-      "count": 80
+      "name": "ley de la materia",
+      "count": 81
+    },
+    {
+      "name": "Código Fiscal de la Federación",
+      "count": 79
     },
     {
       "name": "Ley General de Salud",
-      "count": 78
+      "count": 68
     },
     {
-      "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "count": 75
+      "name": "Ley Federal de las Entidades Paraestatales",
+      "count": 62
+    },
+    {
+      "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
+      "count": 61
     },
     {
       "name": "Ley General de Títulos y Operaciones de Crédito",
-      "count": 69
+      "count": 56
+    },
+    {
+      "name": "Ley General del Sistema Nacional de Seguridad Pública",
+      "count": 55
+    },
+    {
+      "name": "Código Nacional de Procedimientos Penales",
+      "count": 50
+    },
+    {
+      "name": "Ley de Coordinación Fiscal",
+      "count": 49
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea",
-  "extracted_at": "2026-04-02T10:38:44.642785+00:00",
-  "total_citations": 2,
+  "extracted_at": "2026-04-02T11:09:24.432047+00:00",
+  "total_citations": 1,
   "citations": [
     {
       "source_law": "ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea",
@@ -17,19 +17,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica del ejército y fuerza aérea mexicanos"
-    },
-    {
-      "source_law": "ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea",
-      "source_article": "7o",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Toro Calero, D. P.- Germán Corona del Rosal, S. S.- Rogelio García González, D. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1101
     }
   ],
-  "resolved_at": "2026-04-02T10:40:37.439271+00:00"
+  "resolved_at": "2026-04-02T11:11:08.882080+00:00"
 }

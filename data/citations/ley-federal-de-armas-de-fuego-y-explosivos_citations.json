@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
-  "extracted_at": "2026-04-02T10:38:39.823096+00:00",
-  "total_citations": 17,
+  "extracted_at": "2026-04-02T11:09:21.044695+00:00",
+  "total_citations": 11,
   "citations": [
     {
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
@@ -22,7 +22,7 @@
       "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89 fracción VI",
       "citation_text": "quier instrumento, máquina o ingenio con aplicación al uso de explosivos;  VII.-\tFuerza Armada Permanente, las instituciones a que hace referencia el artículo 89 fracción VI de la Constitución Política de los Estados Unidos Mexicanos;  VIII.-\tFuncionamiento semiautomático de un arma, la función que requiere que el tirador accione el disparador en cada disparo;  IX.-\tFuncionamiento",
       "pattern_name": "constitucion_full",
@@ -164,94 +164,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4603174603174603,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "92",
-      "target_law_raw": "Decreto para el Fomento y Modernización de la Industria Automotriz",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "iedades mexicanas dedicadas a las actividades de fabricación y ensamble de partes, equipo y accesorios para la industria automotriz, sin perjuicio de lo dispuesto por el Decreto para el Fomento y Modernización de la Industria Automotriz. A partir del primero de enero de 1999, la inversión extranjera podrá participar hasta el 100% en el capital social de sociedades mexicanas, sin nece",
-      "pattern_name": "lo_dispuesto",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 7639,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5035971223021583,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "92",
-      "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos con anterioridad a la entrada",
-      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "target_article": null,
-      "citation_text": "GUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.  TERCERO.- A las personas que hubieren cometido infracciones o delitos previstos en la Ley Federal de Armas de Fuego y Explosivos con anterioridad a la entrada en vigor del presente Decreto, les serán aplicables las sanciones vigentes al momento en que hubieren realizado dichas conductas.  México, D.F., a 14 de diciembre de 1998.- Dip. S",
-      "pattern_name": "prevista_en",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 14947,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "92",
-      "target_law_raw": "Ley Orgánica de la Fracción I del Artículo 27 Constitucional",
-      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
-      "target_article": null,
-      "citation_text": "y para Promover la Inversión Mexicana y Regular la Inversión Extranjera, publicada en el Diario Oficial de la Federación el 9 de marzo de 1973;  II.- La Ley Orgánica de la Fracción I del Artículo 27 Constitucional, publicada en el Diario Oficial de la Federación el 21 de enero de 1926; y  III.- El Decreto que establece la necesidad transitoria de obtener permis",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4753,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "92",
-      "target_law_raw": "Reglamento de la Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s legales, reglamentarias y administrativas de carácter general que se opongan a esta Ley.  CUARTO.- En tanto se expiden los Reglamentos de esta Ley, el Reglamento de la Ley para Promover la Inversión Mexicana y Regular la Inversión Extranjera, publicado en el Diario Oficial de la Federación el 16 de mayo de 1989, seguirá vigente en todo lo que no se oponga a la misma.  QUINTO.- Los inversi",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5536,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4161073825503356,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "92",
-      "target_law_raw": "Ley Federal de Armas de Fuego y Explosivos para quedar como sigue",
-      "target_law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "target_article": null,
-      "citation_text": " ARTICULO UNICO.- Se reforman los artículos 77, 81, 82, 83, 84 y 85, y se adicionan los artículos 10 Bis, 83 Ter, 83 Quat, 84 Bis, 84 Ter y 85 Bis de la Ley Federal de Armas de Fuego y Explosivos para quedar como sigue:  ..........  TRANSITORIOS  PRIMERO.- Este Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.  SEGUN",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14581,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de armas de fuego y explosivos"
-    },
-    {
-      "source_law": "ley-federal-de-armas-de-fuego-y-explosivos",
-      "source_article": "92",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "sés Calleja, D. P.- Juan Sabines Gutiérrez, S. S.- Marco Antonio Espinosa P., D. S.- Rúbricas.  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2603
     }
   ],
-  "resolved_at": "2026-04-02T10:39:56.112800+00:00"
+  "resolved_at": "2026-04-02T11:10:39.537112+00:00"
 }

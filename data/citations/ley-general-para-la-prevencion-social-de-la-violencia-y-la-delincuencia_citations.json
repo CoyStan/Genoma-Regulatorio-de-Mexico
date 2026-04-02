@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
-  "extracted_at": "2026-04-02T10:38:43.509442+00:00",
-  "total_citations": 10,
+  "extracted_at": "2026-04-02T11:09:23.579559+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "21",
       "citation_text": "os Municipios en materia de prevención social de la violencia y la delincuencia en el marco del Sistema Nacional de Seguridad Pública, previsto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_full",
@@ -119,34 +119,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
-    },
-    {
-      "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
-      "source_article": "30",
-      "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "target_article": null,
-      "citation_text": " sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  México, D.F., a 8 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1341,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
-    },
-    {
-      "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
-      "source_article": "30",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ina Menchaca Castellanos, Secretaria.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1686
     }
   ],
-  "resolved_at": "2026-04-02T10:40:27.752747+00:00"
+  "resolved_at": "2026-04-02T11:11:00.624552+00:00"
 }

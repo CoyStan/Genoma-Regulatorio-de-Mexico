@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
-  "extracted_at": "2026-04-02T10:38:39.662388+00:00",
-  "total_citations": 39,
+  "extracted_at": "2026-04-02T11:09:20.935925+00:00",
+  "total_citations": 37,
   "citations": [
     {
       "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
@@ -52,7 +52,7 @@
       "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "21",
       "citation_text": "Artículo 1. Objeto La presente Ley es reglamentaria del párrafo décimo tercero del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; es de orden público, interés social, observancia general en toda la República Mexicana, y tiene por objeto establecer los fines y regular la integra",
       "pattern_name": "constitucion_full",
@@ -229,7 +229,7 @@
       "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
       "source_article": "12",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "21",
       "citation_text": "Artículo 12. Atribuciones de la persona titular de la Secretaría De acuerdo con lo establecido en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, a la Secretaría le corresponde la coordinación del Sistema Nacional, por lo que podrá coordinar acciones de colaboración en los tres órdenes de gobi",
       "pattern_name": "constitucion_full",
@@ -466,7 +466,7 @@
       "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
       "source_article": "35",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "n, el robo de hidrocarburos, el robo de transporte con violencia y, en general, todos aquellos cometidos por la delincuencia organizada, previstos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal contra la Delincuencia Organizada y en otras leyes.  Tratándose de la prevención, investi",
       "pattern_name": "constitucion_bare",
@@ -478,7 +478,7 @@
       "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
       "source_article": "44",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 44. Acciones de investigación e inteligencia de la Guardia Nacional Para el cumplimiento de sus funciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las leyes aplicables, así como para el mejor ejercicio de sus atribuciones, la Guardia Nacional realiza",
       "pattern_name": "constitucion_bare",
@@ -545,34 +545,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
-    },
-    {
-      "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
-      "source_article": "51",
-      "target_law_raw": "Ley de Seguridad Nacional",
-      "target_law_id": "ley-de-seguridad-nacional",
-      "target_article": null,
-      "citation_text": "so de la Unión, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de la presente Ley, deberá aprobar las reformas necesarias a la Ley de Seguridad Nacional, a fin de armonizarlas con lo dispuesto en esta Ley.  Ciudad de México, a 1 de julio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. G",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2352,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de seguridad nacional"
-    },
-    {
-      "source_law": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
-      "source_article": "51",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "sé Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2725
     }
   ],
-  "resolved_at": "2026-04-02T10:39:55.203931+00:00"
+  "resolved_at": "2026-04-02T11:10:38.689968+00:00"
 }

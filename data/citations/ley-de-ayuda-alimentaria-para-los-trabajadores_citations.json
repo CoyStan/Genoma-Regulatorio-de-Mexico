@@ -1,13 +1,13 @@
 {
   "law_id": "ley-de-ayuda-alimentaria-para-los-trabajadores",
-  "extracted_at": "2026-04-02T10:38:36.276917+00:00",
-  "total_citations": 5,
+  "extracted_at": "2026-04-02T11:09:18.514603+00:00",
+  "total_citations": 4,
   "citations": [
     {
       "source_law": "ley-de-ayuda-alimentaria-para-los-trabajadores",
       "source_article": "2o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "ue prestan a una persona física o moral un trabajo personal subordinado, que sus relaciones laborales se encuentren comprendidas en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_full",
@@ -59,19 +59,7 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-ayuda-alimentaria-para-los-trabajadores",
-      "source_article": "22",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ria de Jesus Aguirre Maldonado, Secretaria.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1055
     }
   ],
-  "resolved_at": "2026-04-02T10:39:15.422186+00:00"
+  "resolved_at": "2026-04-02T11:10:11.857690+00:00"
 }

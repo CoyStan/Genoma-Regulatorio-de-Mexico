@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-variedades-vegetales",
-  "extracted_at": "2026-04-02T10:38:40.875851+00:00",
-  "total_citations": 8,
+  "extracted_at": "2026-04-02T11:09:21.668390+00:00",
+  "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-federal-de-variedades-vegetales",
@@ -77,49 +77,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-federal-de-variedades-vegetales",
-      "source_article": "48",
-      "target_law_raw": "Ley Sobre Producción",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "presente ley.  ARTÍCULO CUARTO.- Las variedades vegetales que hayan sido inscritas en el Registro Nacional de Variedades de Plantas al que se refiere la Ley Sobre Producción, Certificación y Comercio de Semillas, serán susceptibles de otorgamiento de título de obtentor, previo cumplimiento de las condiciones previstas en ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2945,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.7222222222222222,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-variedades-vegetales",
-      "source_article": "48",
-      "target_law_raw": "Ley de Fomento y Protección de la Propiedad Industrial",
-      "target_law_id": "ley-federal-de-proteccion-a-la-propiedad-industrial",
-      "target_article": null,
-      "citation_text": "eración el 2 de agosto de 1994.  Respecto de las solicitudes de patentes para proteger variedades vegetales que se encuentren en trámite al amparo de la Ley de Fomento y Protección de la Propiedad Industrial, los solicitantes podrán acogerse a los beneficios que otorga este ordenamiento dentro de los seis meses siguientes a su entrada en vigor, mediante p",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4173,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8380952380952381,
-      "resolution_matched_alias": "ley federal de protección a la propiedad industrial"
-    },
-    {
-      "source_law": "ley-federal-de-variedades-vegetales",
-      "source_article": "48",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Dip. Sabino González Alba, Secretario.- Sen. Eduardo Andrade Sánchez, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 5148
     }
   ],
-  "resolved_at": "2026-04-02T10:40:07.384766+00:00"
+  "resolved_at": "2026-04-02T11:10:45.886373+00:00"
 }

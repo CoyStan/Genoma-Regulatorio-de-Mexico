@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-  "extracted_at": "2026-04-02T10:38:41.350256+00:00",
-  "total_citations": 41,
+  "extracted_at": "2026-04-02T11:09:22.021858+00:00",
+  "total_citations": 40,
   "citations": [
     {
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
@@ -157,7 +157,7 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "26",
       "citation_text": "Secretaría de Hacienda y Crédito Público; Fracción reformada DOF 16-07-2025  XIII Bis. UMA, a la Unidad de Medida y Actualización a que se refiere el artículo 26 de la Constitución Política de los Estados Unidos Mexicanos y la Ley para determinar el valor de la Unidad de Medida y Actualización; y Fracción adicionada DOF 16-07-2025  XIV.\tUnidad, a la Unidad Especializad",
       "pattern_name": "constitucion_full",
@@ -244,7 +244,7 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "12",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "21",
       "citation_text": "siguientes obligaciones:  I. Observar, en el ejercicio de esta Ley, los principios rectores de las instituciones de seguridad pública señalados en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;  II. Coordinar sus acciones, en el ámbito de sus respectivas competencias, para el cumplimiento del objeto de esta Ley;  III. Abstenerse de proporci",
       "pattern_name": "constitucion_full",
@@ -451,7 +451,7 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "17",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "es;  c) El manejo de cuentas bancarias, de ahorro o de valores;  d) La organización de aportaciones de capital o cualquier otro tipo de recursos para la constitución, operación y administración de sociedades mercantiles, o  e) La constitución, escisión, fusión, operación y administración de personas morales o vehí",
       "pattern_name": "constitucion_bare",
@@ -538,7 +538,7 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "41",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "20",
       "citation_text": "sonales de los servidores públicos que intervengan en cualquier acto derivado de la aplicación de la Ley, observando, en su caso, lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_full",
@@ -580,26 +580,14 @@
       "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
       "source_article": "51",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "28",
       "citation_text": "uivalente a nivel local.  La dependencia encargada de conducir y supervisar la política energética del país en materia energética a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, deberá proporcionar la información que tenga conforme a sus facultades y le sea requerida por la Secretaría en el ejercicio de sus atribuciones.  La",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 1029
-    },
-    {
-      "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-      "source_article": "65",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "p. Javier Orozco Gomez, Secretario.- Sen. Iris Vianey Mendoza Mendoza, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2712
     }
   ],
-  "resolved_at": "2026-04-02T10:40:10.435186+00:00"
+  "resolved_at": "2026-04-02T11:10:47.755242+00:00"
 }

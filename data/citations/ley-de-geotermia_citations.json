@@ -1,13 +1,13 @@
 {
   "law_id": "ley-de-geotermia",
-  "extracted_at": "2026-04-02T10:38:36.891950+00:00",
-  "total_citations": 20,
+  "extracted_at": "2026-04-02T11:09:18.977983+00:00",
+  "total_citations": 18,
   "citations": [
     {
       "source_law": "ley-de-geotermia",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25, párrafo quinto, 27, párrafos cuarto y sexto y 28, párrafo cuarto,",
       "citation_text": "Artículo 1.- La presente Ley es reglamentaria de los artículos 25, párrafo quinto, 27, párrafos cuarto y sexto y 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, y tiene por objeto regular la Exploración y la Explotación de Recursos Geotérmicos para el aprovechamiento sustentable de la energía térmica del sub",
       "pattern_name": "constitucion_full",
@@ -261,7 +261,7 @@
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
       "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
-      "citation_text": "que dicte la Secretaría con motivo de la aplicación de las disposiciones de la presente Ley y su Reglamento, pueden ser recurridas de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo.  Transitorios  Primero.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.  Segundo.- Se",
+      "citation_text": "que dicte la Secretaría con motivo de la aplicación de las disposiciones de la presente Ley y su Reglamento, pueden ser recurridas de conformidad con lo dispuesto en la Ley Federal de Procedimiento Administrativo.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
@@ -269,34 +269,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-de-geotermia",
-      "source_article": "66",
-      "target_law_raw": "Ley de Energía Geotérmica se entienden hechas en lo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ficadas o sustituidas, en términos de las disposiciones de esta Ley y las demás disposiciones aplicables.  Las referencias legales o reglamentarias a la Ley de Energía Geotérmica se entienden hechas en lo aplicable, a la Ley de Geotermia.  Cuarto.- En tanto se expiden el Reglamento, la Secretaría tiene facultad para ejercer las atribuciones que le otorga la pres",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 997,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.45569620253164556,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-geotermia",
-      "source_article": "66",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "rónica Noemí Camino Farjat, Secretaria.- Dip. José Luis Montalvo Luna, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 18 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 4256
     }
   ],
-  "resolved_at": "2026-04-02T10:39:25.067322+00:00"
+  "resolved_at": "2026-04-02T11:10:18.911512+00:00"
 }

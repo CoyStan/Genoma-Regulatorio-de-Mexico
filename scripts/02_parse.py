@@ -383,6 +383,11 @@ ARTICLE_PATTERNS = [
     re.compile(r"^Art\.\s+(\d+[\w\-]*)[.\s\-\u2013]*(.*)$", re.IGNORECASE),
 ]
 
+TRANSITORIOS_PATTERN = re.compile(
+    r"^(?:ART[IÍ]CULOS?\s+)?TRANSITORIOS?\.?\s*$",
+    re.IGNORECASE,
+)
+
 YEAR_PATTERN      = re.compile(r"\b(19[4-9]\d|20[0-2]\d)\b")
 REFORM_PATTERN    = re.compile(
     r"[ÚU]ltima\s+reforma\s+publicada[^0-9]*(\d{1,2}\s+de\s+\w+\s+de\s+\d{4})",
@@ -405,6 +410,10 @@ def extract_articles(text: str) -> list[dict]:
             if current_lines:
                 current_lines.append("")
             continue
+
+        # Stop at the TRANSITORIOS section — these articles are not substantive law
+        if TRANSITORIOS_PATTERN.match(line):
+            break
 
         match = None
         for pat in ARTICLE_PATTERNS:

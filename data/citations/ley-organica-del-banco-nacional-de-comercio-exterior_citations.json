@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-banco-nacional-de-comercio-exterior",
-  "extracted_at": "2026-04-02T10:38:44.086483+00:00",
-  "total_citations": 18,
+  "extracted_at": "2026-04-02T11:09:23.985872+00:00",
+  "total_citations": 12,
   "citations": [
     {
       "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
@@ -182,94 +182,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
-      "target_law_raw": "Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de 180 días",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "sposiciones aplicables, continuarán en vigor hasta que no sean revocados o modificados por los órganos y autoridades competentes.  Artículo Tercero.- El Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de 180 días, contados a partir de la fecha de la vigencia de la presente Ley. Hasta en tanto, continuará en vigor el expedido el 26 de julio de 1985.  Artículo C",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1957,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.42105263157894735,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
-      "target_law_raw": "Reglamento Orgánico a que se refiere el artículo anterior",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "a de la vigencia de la presente Ley. Hasta en tanto, continuará en vigor el expedido el 26 de julio de 1985.  Artículo Cuarto.- En tanto no se expida el Reglamento Orgánico a que se refiere el artículo anterior, el domicilio social del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, será la ciudad de Méx",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2224,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4580152671755725,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
-      "target_law_raw": "Ley de Instituciones de Crédito",
-      "target_law_id": "ley-de-instituciones-de-credito",
-      "target_article": null,
-      "citation_text": "ULO SEGUNDO.- La Secretaría de Hacienda y Crédito Público dará a conocer las reglas para determinar las cuotas a que se refiere el artículo 55 bis de la Ley de Instituciones de Crédito, así como el régimen de inversión de los fideicomisos, que deberán constituir las instituciones de banca de desarrollo dentro de los siguientes noven",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5480,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
-      "target_law_raw": "Ley Orgánica de Nacional Financiera",
-      "target_law_id": "ley-organica-de-nacional-financiera",
-      "target_article": null,
-      "citation_text": "ábiles siguientes a la fecha en que entre en vigor el presente Decreto.  ARTICULO OCTAVO.- Por lo que se refiere a la modificación al artículo 7o. de la Ley Orgánica de Nacional Financiera, las referencias contenidas en los ordenamientos jurídicos en donde se señale que los depósitos de títulos, valores o sumas en efectivo que tengan qu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6884,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de nacional financiera"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
-      "target_law_raw": "Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros",
-      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
-      "target_article": null,
-      "citation_text": "do en términos del artículo 55 Bis de la Ley de Instituciones de Crédito.  IV.\tLas funciones de banca social previstas en la reforma al artículo 3 de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, se deberán implementar por la institución a partir del 1o de enero de 2014, por lo que en el PRESUPUESTO DE EGRESOS DE LA FEDERACIÓN PARA EL EJERCIC",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 14600,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
-    },
-    {
-      "source_law": "ley-organica-del-banco-nacional-de-comercio-exterior",
-      "source_article": "36",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "és Calleja, Dip. Secretario.- Rúbrica.- Guillermo Mercado Romero, Sen. Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2761
     }
   ],
-  "resolved_at": "2026-04-02T10:40:33.673159+00:00"
+  "resolved_at": "2026-04-02T11:11:05.373712+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-sanidad-vegetal",
-  "extracted_at": "2026-04-02T10:38:40.850575+00:00",
-  "total_citations": 10,
+  "extracted_at": "2026-04-02T11:09:21.649603+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-federal-de-sanidad-vegetal",
@@ -122,34 +122,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-federal-de-sanidad-vegetal",
-      "source_article": "77",
-      "target_law_raw": "Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos y la Ley Vitivinícola",
-      "target_law_id": "ley-monetaria-de-los-estados-unidos-mexicanos",
-      "target_article": null,
-      "citation_text": "NSITORIOS  PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se abrogan la Ley de Sanidad Fitopecuaria de los Estados Unidos Mexicanos y la Ley Vitivinícola, publicadas en el Diario Oficial de la Federación el 13 de diciembre de 1974 y el 25 de marzo de 1943, respectivamente.  En tanto no se expidan las d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 689,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8076923076923077,
-      "resolution_matched_alias": "ley monetaria de los estados unidos mexicanos"
-    },
-    {
-      "source_law": "ley-federal-de-sanidad-vegetal",
-      "source_article": "77",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Antonio Melgar Aranda.- Secretario.- Dip. Sergio González Santa Cruz.- Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2240
     }
   ],
-  "resolved_at": "2026-04-02T10:40:07.288508+00:00"
+  "resolved_at": "2026-04-02T11:10:45.811574+00:00"
 }

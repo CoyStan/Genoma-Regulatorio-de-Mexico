@@ -1,7 +1,7 @@
 {
   "law_id": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
-  "extracted_at": "2026-04-02T10:38:44.806019+00:00",
-  "total_citations": 4,
+  "extracted_at": "2026-04-02T11:09:24.534846+00:00",
+  "total_citations": 3,
   "citations": [
     {
       "source_law": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
@@ -24,11 +24,11 @@
       "target_law_raw": "Ley Federal sobre Metrología y Normalización",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "strial procederá a determinar las Organizaciones y organismos o entidades de productores, industriales, comercializadores y consumidores de café que, en los términos de la Ley Federal sobre Metrología y Normalización, procederán a constituir un Comité Consultivo de Normalización que se aboque a elaborar el o los proyectos de las normas a que se refiere esta Ley an",
-      "pattern_name": "en_los_terminos",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 4513,
+      "citation_text": "República en materia de Fuero Federal, además de las sanciones administrativas correspondientes.  Las demás infracciones serán sancionadas conforme a la Ley Federal sobre Metrología y Normalización, la Ley General de Salud y la Ley Federal de Protección al Consumidor. Artículo reformado DOF 08-01-1974; 22-07-1991",
+      "pattern_name": "direct_mention",
+      "pattern_group": "secondary",
+      "confidence": "medium",
+      "char_offset": 480,
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
@@ -39,7 +39,7 @@
       "target_law_raw": "Ley General de Salud y la Ley Federal de Protección al Consumidor",
       "target_law_id": "ley-general-de-salud",
       "target_article": null,
-      "citation_text": "las sanciones administrativas correspondientes.  Las demás infracciones serán sancionadas conforme a la Ley Federal sobre Metrología y Normalización, la Ley General de Salud y la Ley Federal de Protección al Consumidor. Artículo reformado DOF 08-01-1974; 22-07-1991  TRANSITORIOS  Artículo Primero.- Esta Ley entrará en vigor a los noventa días de su publicación en el",
+      "citation_text": "las sanciones administrativas correspondientes.  Las demás infracciones serán sancionadas conforme a la Ley Federal sobre Metrología y Normalización, la Ley General de Salud y la Ley Federal de Protección al Consumidor. Artículo reformado DOF 08-01-1974; 22-07-1991",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
@@ -47,19 +47,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
-      "source_article": "9o",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "es Díaz. S. P.- Marco Antonio Espinosa Pablos, D. S.- Juan Sabines Gutiérrez, S. S.- Rúbricas.  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1568
     }
   ],
-  "resolved_at": "2026-04-02T10:40:38.737102+00:00"
+  "resolved_at": "2026-04-02T11:11:10.122863+00:00"
 }

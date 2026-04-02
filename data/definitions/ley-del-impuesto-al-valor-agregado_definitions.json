@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-impuesto-al-valor-agregado",
-  "extracted_at": "2026-04-02T10:42:08.648290+00:00",
-  "total_definitions": 9,
+  "extracted_at": "2026-04-02T11:11:13.557556+00:00",
+  "total_definitions": 4,
   "definitions": [
     {
       "law_id": "ley-del-impuesto-al-valor-agregado",
@@ -32,46 +32,6 @@
       "law_id": "ley-del-impuesto-al-valor-agregado",
       "law_name": "LEY del Impuesto al Valor Agregado",
       "article": "41",
-      "term": "el albergue sin incluir",
-      "definition_text": "los alimentos y demás servicios relacionados con los mismos",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "que la actividad se realiza en el local que sirva de base",
-      "definition_text": "la persona que proporcione dichos servicios",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "equivalente",
-      "definition_text": "la diferencia entre el monto del impuesto establecido en este Ordenamiento y las cantidades que de acuerdo con el mismo pudieren ser acreditadas",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "equivalente",
-      "definition_text": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "el albergue sin incluir",
-      "definition_text": "los alimentos y demás servicios relacionados con los mismos",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
       "term": "el albergue sin incluir",
       "definition_text": "los alimentos y demás servicios relacionados con los mismos",
       "extraction_method": "se_considera"

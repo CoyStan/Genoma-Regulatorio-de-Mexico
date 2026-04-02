@@ -1,13 +1,13 @@
 {
   "law_id": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
-  "extracted_at": "2026-04-02T10:38:43.748371+00:00",
-  "total_citations": 6,
+  "extracted_at": "2026-04-02T11:09:23.762507+00:00",
+  "total_citations": 3,
   "citations": [
     {
       "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "y será aplicable para los hechos delictivos que sean competencia de los órdenes federal y local en el marco de los principios y derechos previstos en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano sea parte.  La competencia de las Instituciones",
       "pattern_name": "constitucion_bare",
@@ -44,49 +44,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.4,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
-      "source_article": "52",
-      "target_law_raw": "Ley Nacional de Mecanismos Alternativos de Solución de Controversias",
-      "target_law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
-      "target_article": null,
-      "citation_text": "ara los procedimientos iniciados con anterioridad a la entrada en vigor del sistema de justicia penal acusatorio y se sustanciarán de conformidad con lo previsto en la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.  SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.  TERCERO. A partir de la entrada en vigor del presente Decreto, el ",
-      "pattern_name": "lo_previsto",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 3236,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9333333333333333,
-      "resolution_matched_alias": "ley general de mecanismos alternativos de solución de controversias"
-    },
-    {
-      "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
-      "source_article": "52",
-      "target_law_raw": "Código Nacional de Procedimientos Penales",
-      "target_law_id": "codigo-nacional-de-procedimientos-penales",
-      "target_article": null,
-      "citation_text": "nal de Mecanismos Alternativos de Solución de Controversias en Materia Penal entrará en vigor en los mismos términos y plazos en que entrará en vigor el Código Nacional de Procedimientos Penales, de conformidad con lo previsto en el artículo segundo transitorio del Decreto por el que se expide el Código Nacional de Procedimientos Penales.  La",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2558,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "código nacional de procedimientos penales"
-    },
-    {
-      "source_law": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
-      "source_article": "52",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Barrera Tapia, Secretaria.- Dip. Magdalena del Socorro Núñez Monreal, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 5661
     }
   ],
-  "resolved_at": "2026-04-02T10:40:29.847735+00:00"
+  "resolved_at": "2026-04-02T11:11:02.492800+00:00"
 }

@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
-  "extracted_at": "2026-04-02T10:38:42.474146+00:00",
-  "total_citations": 17,
+  "extracted_at": "2026-04-02T11:09:22.871669+00:00",
+  "total_citations": 12,
   "citations": [
     {
       "source_law": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "terno, las cuales tendrán preeminencia, deberán observar lo dispuesto en esta Ley. Los derechos laborales colectivos o individuales consagrados en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos para las hijas e hijos de trabajadores y trabajadoras en materia de guarderías y prestaciones sociales reconocidos por sus leyes reglamentarias en ma",
       "pattern_name": "constitucion_full",
@@ -49,7 +49,7 @@
       "source_law": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
       "source_article": "10",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ción, cuidado y desarrollo integral infantil, niñas y niños, sin discriminación de ningún tipo en los términos de lo dispuesto por el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_bare",
@@ -176,79 +176,7 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8805970149253731,
       "resolution_matched_alias": "ley federal de responsabilidades de los servidores públicos"
-    },
-    {
-      "source_law": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
-      "source_article": "75",
-      "target_law_raw": "Ley que se expide por virtud del presente Decreto",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.  México, D.F., a 6 ",
-      "pattern_name": "lo_previsto",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 7812,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.49382716049382713,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
-      "source_article": "75",
-      "target_law_raw": "Ley General de los Derechos de Niñas",
-      "target_law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
-      "target_article": null,
-      "citation_text": "ca.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se expide la Ley General de los Derechos de Niñas, Niños y Adolescentes, y se reforman diversas disposiciones de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3083,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7659574468085106,
-      "resolution_matched_alias": "ley general de los derechos de niñas, niños y adolescentes"
-    },
-    {
-      "source_law": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
-      "source_article": "75",
-      "target_law_raw": "Ley General de Prestación de Servicios para la Atención",
-      "target_law_id": "ley-general-de-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "RETOS DE REFORMA  DECRETO por el que se expide la Ley General de los Derechos de Niñas, Niños y Adolescentes, y se reforman diversas disposiciones de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.  Publicado en el Diario Oficial de la Federación el 4 de diciembre de 2014  ARTÍCULO SEGUNDO. Se reforman lo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3186,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
-      "source_article": "75",
-      "target_law_raw": "Ley General de Derechos de Niñas",
-      "target_law_id": "ley-federal-del-derecho-de-autor",
-      "target_article": null,
-      "citation_text": "eberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 129 de la Ley General de Derechos de Niñas, Niños y Adolescentes.  El Presidente del Sistema Nacional de Protección Integral realizará las acciones necesarias para la elaboración del Programa ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5828,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.78125,
-      "resolution_matched_alias": "ley federal del derecho de autor"
-    },
-    {
-      "source_law": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
-      "source_article": "75",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Cleominio Zoreda Novelo, Secretario.- Dip. Cora Cecilia Pinedo Alonso, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2618
     }
   ],
-  "resolved_at": "2026-04-02T10:40:19.526980+00:00"
+  "resolved_at": "2026-04-02T11:10:54.817752+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "codigo-fiscal-de-la-federacion",
-  "extracted_at": "2026-04-02T10:42:07.536690+00:00",
-  "total_definitions": 14,
+  "extracted_at": "2026-04-02T11:11:12.770404+00:00",
+  "total_definitions": 10,
   "definitions": [
     {
       "law_id": "codigo-fiscal-de-la-federacion",
@@ -86,38 +86,6 @@
       "definition_text": "a) La documentación aduanal exigida por la Ley.",
       "raw_snippet": "Para los efectos del Artículo anterior:",
       "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "263",
-      "term": "que la devolución está",
-      "definition_text": "disposición del contribuyente cuando se le notifique la autorización de la devolución respectiva",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "263",
-      "term": "que la actualización de las cantidades",
-      "definition_text": "que se refiere dicho párrafo se ha realizado por última vez en el mes de julio de 2003, salvo las cantidades a que se refiere el Capítulo II del Título IV de dicho ordenamiento, mismas que deberán ser actualizadas en el mes de enero de 2004, a partir de la última actualización que hayan sufrido",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "84",
-      "term": "como fecha de presentación de la declaración,",
-      "definition_text": "en que sea recibida la forma oficial que contenga la declaración correspondiente, presentada para efectos de la asignación del pago de conformidad con la presente regla",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "21",
-      "term": "hasta la centésima y, en su caso, se ajustará",
-      "definition_text": "la centésima inmediata superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado",
-      "extraction_method": "se_considera"
     }
   ]
 }

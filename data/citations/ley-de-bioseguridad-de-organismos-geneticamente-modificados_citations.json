@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-  "extracted_at": "2026-04-02T10:38:36.325095+00:00",
-  "total_citations": 36,
+  "extracted_at": "2026-04-02T11:09:18.553578+00:00",
+  "total_citations": 29,
   "citations": [
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
@@ -426,40 +426,10 @@
     {
       "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "source_article": "124",
-      "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento",
-      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "target_article": null,
-      "citation_text": "nvestigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorería de la Federación, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corre",
-      "pattern_name": "lo_dispuesto",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 11201,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.873015873015873,
-      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Ley Federal sobre Metrología y Normalización",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ación, dentro de un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente ordenamiento, de conformidad y para los efectos establecidos en la Ley Federal sobre Metrología y Normalización.  Los anteproyectos de las demás normas oficiales mexicanas a que se refiere esta Ley, se presentarán dentro del plazo de un año contado a partir de ",
-      "pattern_name": "establecida_en",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 4623,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5945945945945946,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
       "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
-      "citation_text": " trámites relativos a la substanciación del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.  TRANSITORIOS  ARTÍCULO PRIMERO.- La presente Ley entrará en vigor a los treinta días hábiles siguientes de su publicación en el Diario Oficial de l",
+      "citation_text": " trámites relativos a la substanciación del recurso de revisión a que se refiere el artículo anterior, se estará a lo dispuesto en el Título Sexto de la Ley Federal de Procedimiento Administrativo.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
@@ -467,79 +437,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda",
-      "target_law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
-      "target_article": null,
-      "citation_text": "pondan para que a más tardar dentro de los 30 días naturales contados a partir de la entrada en vigor del presente Decreto concentren, en términos de la Ley de Ingresos de la Federación para el ejercicio fiscal que corresponda, en la Tesorería de la Federación la totalidad de los recursos públicos federales que formen parte de los fideicomisos, mandatos y análogos públicos ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8245,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8695652173913043,
-      "resolution_matched_alias": "ley de ingresos de la federación para el ejercicio fiscal de 2026"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Ley de Ciencia y Tecnología",
-      "target_law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
-      "target_article": null,
-      "citation_text": "ecnología, así como los Centros Públicos de Investigación llevarán a cabo las acciones necesarias para que los fideicomisos constituidos al amparo de la Ley de Ciencia y Tecnología, se ajusten a lo dispuesto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, y en consecuencia concentren en la Tesorerí",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11156,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de ciencia y tecnología"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "entación oficial obtengan o hayan obtenido una o más medallas en Juegos Olímpicos o Paralímpicos, con cargo a su presupuesto autorizado, para lo cual el Reglamento de la Ley General de Cultura Física y Deporte establecerá los criterios y bases para el otorgamiento de dicho reconocimiento.  Décimo Primero. Dentro de un plazo de ciento ochenta días naturales, el Ejecutivo Federal deberá reformar los Reglamentos de las leyes que se refor",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 16233,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.37185929648241206,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Ley del FIPAGO",
-      "target_law_id": "ley-del-impuesto-al-valor-agregado",
-      "target_article": null,
-      "citation_text": "que no se paguen con cargo al patrimonio del Fideicomiso.  Vigésimo. Se faculta a la SHCP, para que en coordinación con la Fiduciaria establecida por la Ley del FIPAGO, en su caso, realice los convenios, acuerdos, y todos los actos jurídicos que sean necesarios, para dar cumplimiento a las obligaciones contraídas y ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 22495,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8,
-      "resolution_matched_alias": "ley del iva"
-    },
-    {
-      "source_law": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
-      "source_article": "124",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 5856
     }
   ],
-  "resolved_at": "2026-04-02T10:39:15.682760+00:00"
+  "resolved_at": "2026-04-02T11:10:12.051741+00:00"
 }

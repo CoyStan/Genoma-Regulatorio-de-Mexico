@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
-  "extracted_at": "2026-04-02T10:38:42.194370+00:00",
-  "total_citations": 19,
+  "extracted_at": "2026-04-02T11:09:22.667229+00:00",
+  "total_citations": 17,
   "citations": [
     {
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "17, 41, 60 y 99",
       "citation_text": "Artículo 1. 1. La presente Ley es de orden público, de observancia general en toda la República y reglamentaria de los artículos 17, 41, 60 y 99 de la Constitución Política de los Estados Unidos Mexicanos.  2. A falta de disposición expresa, esta Ley es de aplicación supletoria en materia de impartición de justicia electoral en las entidades federativa",
       "pattern_name": "constitucion_full",
@@ -34,7 +34,7 @@
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "en materia electoral se deben sustanciar y resolver de acuerdo con las formas y procedimientos que establezca esta Ley. Se ajustarán a lo que dispone la Constitución Política de los Estados Unidos Mexicanos y la normativa electoral aplicable. En caso de duda, las normas se interpretarán conforme a los criterios gr",
       "pattern_name": "constitucion_bare",
@@ -61,7 +61,7 @@
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "105",
       "citation_text": " jurisdicción en términos de esta Ley.  4. Las Salas del Tribunal Electoral del Poder Judicial de la Federación, sin perjuicio de lo dispuesto por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, pueden resolver la inaplicación de leyes en materia electoral contrarias a dicha Constitución. Los efectos de las resoluciones se limitarán al caso ",
       "pattern_name": "constitucion_full",
@@ -73,7 +73,7 @@
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "10",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "105",
       "citation_text": "a general en materia electoral, cuya validez haya sido declarada por la Suprema Corte de Justicia de la Nación, en los términos de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, y  g) Cuando se pretenda impugnar resoluciones dictadas por las Salas del Tribunal Electoral del Poder Judicial de la Federación que son de su exclu",
       "pattern_name": "constitucion_full",
@@ -175,7 +175,7 @@
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "46",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": " aplicarán en forma supletoria y en el orden siguiente:  a) Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional;  b) Ley Federal del Trabajo;  c) Código Federal de Procedimientos Civiles;  d) Leyes de orden común;  e) Principios generales de derecho, y  f) Equi",
       "pattern_name": "articulo_constitucional",
@@ -202,7 +202,7 @@
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "47",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "41,",
       "citation_text": "ectorales y el Estatuto del Servicio Profesional Electoral, instrumentos que, de conformidad con el segundo párrafo del apartado A, de la Base V, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos, norman las relaciones laborales del Instituto Nacional Electoral con sus personas servidoras públicas.",
       "pattern_name": "constitucion_full",
@@ -228,38 +228,8 @@
     {
       "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
       "source_article": "70",
-      "target_law_raw": "Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto",
-      "target_law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "target_article": null,
-      "citation_text": "adecuaciones de sus estructuras orgánicas para establecer la estructura ocupacional mínima señalada en el artículo 99, párrafos 3 y 4 de la reforma a la Ley General de Instituciones y Procedimientos Electorales contenida en el presente Decreto, antes de noventa días del inicio del proceso electoral local de 2023-2024.  Vigésimo Primero. Se ratifica a los actuales Consejeros Electorales del ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 9321,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7755102040816326,
-      "resolution_matched_alias": "ley general de instituciones y procedimientos electorales"
-    },
-    {
-      "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
-      "source_article": "70",
-      "target_law_raw": "Ley General de Partidos Políticos serán",
-      "target_law_id": "ley-general-de-partidos-politicos",
-      "target_article": null,
-      "citation_text": "tavo. Las normas establecidas en los artículos 11 bis, párrafo 1, de la Ley General de instituciones y Procedimientos Electorales y 44, párrafo 2, de la Ley General de Partidos Políticos serán vigentes, en tanto no se homogenicen las fechas de elección de las personas titulares de los poderes ejecutivos de las entidades federativas para garantizar q",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12737,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9166666666666666,
-      "resolution_matched_alias": "ley general de partidos políticos"
-    },
-    {
-      "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
-      "source_article": "70",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "41,",
       "citation_text": "ículo 70. 1. Las elecciones federales o locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos.  2. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia en",
       "pattern_name": "constitucion_full",
@@ -268,5 +238,5 @@
       "char_offset": 153
     }
   ],
-  "resolved_at": "2026-04-02T10:40:17.352241+00:00"
+  "resolved_at": "2026-04-02T11:10:53.138982+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-zonas-economicas-especiales",
-  "extracted_at": "2026-04-02T10:38:40.895234+00:00",
-  "total_citations": 25,
+  "extracted_at": "2026-04-02T11:09:21.685785+00:00",
+  "total_citations": 22,
   "citations": [
     {
       "source_law": "ley-federal-de-zonas-economicas-especiales",
@@ -332,49 +332,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
-    },
-    {
-      "source_law": "ley-federal-de-zonas-economicas-especiales",
-      "source_article": "50",
-      "target_law_raw": "Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " cubrirse con cargo a su presupuesto autorizado para el ejercicio fiscal que corresponda.  Cuarto.- En tanto entra en vigor la legislación secundaria a que se refiere el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Desindexación del Salario Mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016, las referencias contenidas e",
-      "pattern_name": "a_que_refiere",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 1146,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5955056179775281,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-federal-de-zonas-economicas-especiales",
-      "source_article": "50",
-      "target_law_raw": "Reglamento de la Ley Federal de Zonas Económicas Especiales",
-      "target_law_id": "ley-federal-de-zonas-economicas-especiales",
-      "target_article": null,
-      "citation_text": " Diario Oficial de la Federación.  Segundo.- El Ejecutivo Federal, en un plazo de 180 días posteriores a la entrada en vigor de este Decreto, emitirá el Reglamento de la Ley Federal de Zonas Económicas Especiales.  Tercero.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades paraestatales de la Administración Pública Federal con motiv",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 731,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8316831683168316,
-      "resolution_matched_alias": "ley federal de zonas económicas especiales"
-    },
-    {
-      "source_law": "ley-federal-de-zonas-economicas-especiales",
-      "source_article": "50",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". María Elena Barrera Tapia, Secretaria.- Dip. Ramón Bañales Arambula, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en Lázaro Cárdenas, Michoacán, a treinta y uno de mayo de dos mil dieciséis.-",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1872
     }
   ],
-  "resolved_at": "2026-04-02T10:40:07.757355+00:00"
+  "resolved_at": "2026-04-02T11:10:46.127556+00:00"
 }

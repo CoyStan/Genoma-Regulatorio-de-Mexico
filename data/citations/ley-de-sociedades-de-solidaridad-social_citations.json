@@ -1,13 +1,13 @@
 {
   "law_id": "ley-de-sociedades-de-solidaridad-social",
-  "extracted_at": "2026-04-02T10:38:38.297133+00:00",
+  "extracted_at": "2026-04-02T11:09:19.988914+00:00",
   "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-de-sociedades-de-solidaridad-social",
       "source_article": "4o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ARTICULO 4o.- Para la constitución de la sociedad se requiere un mínimo de cinco socios. Artículo reformado DOF 24-04-2018",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-de-sociedades-de-solidaridad-social",
       "source_article": "28",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "os siguientes objetivos:  I.- Procurar la educación para la totalidad de los socios, tomando como base los principios que consagra el Artículo 3o. de la Constitución General de la República y la Ley General de Educación. Fracción reformada DOF 24-04-2018  II.- La formación de los socios con sentido de la solidarid",
       "pattern_name": "constitucion_bare",
@@ -61,14 +61,14 @@
       "source_law": "ley-de-sociedades-de-solidaridad-social",
       "source_article": "43",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "zález Pedrero, S.P.- Rogelio García González, D.S.- José Castillo Hernández, S. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "target_article": "",
+      "citation_text": "ARTICULO 43.- La constitución, atribuciones, administración y funcionamiento de las Federaciones Estatales, así como de la Confederación Nacional de Sociedades de Solidaridad Soci",
+      "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 970
+      "confidence": "medium",
+      "char_offset": 14
     }
   ],
-  "resolved_at": "2026-04-02T10:39:40.258354+00:00"
+  "resolved_at": "2026-04-02T11:10:28.992143+00:00"
 }

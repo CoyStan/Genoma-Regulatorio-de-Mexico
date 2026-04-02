@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-  "extracted_at": "2026-04-02T10:38:35.833048+00:00",
-  "total_citations": 33,
+  "extracted_at": "2026-04-02T11:09:18.208236+00:00",
+  "total_citations": 30,
   "citations": [
     {
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
@@ -22,7 +22,7 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "134",
       "citation_text": "Artículo 1. La presente Ley es de orden público y tiene por objeto reglamentar la aplicación del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos en materia de las adquisiciones, arrendamientos de bienes muebles y prestación de servicios de cualquier naturaleza, que realicen: I.\tLas unidades ad",
       "pattern_name": "constitucion_full",
@@ -34,7 +34,7 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "43",
       "citation_text": "das en las fracciones III y IV del artículo 1 de esta Ley; IV.\tEntidades Federativas: los Estados de la Federación y la Ciudad de México, conforme al artículo 43 de la Constitución Política de los Estados Unidos Mexicanos; V.\tHacienda: la Secretaría de Hacienda y Crédito Público; VI.\tInterpósita persona: aquella que actúe en nombre propio, pero en interés de otra u otr",
       "pattern_name": "constitucion_full",
@@ -106,7 +106,7 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "21",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "35 de esta Ley, considerando lo establecido en el artículo 134",
       "citation_text": "opondrá el procedimiento de contratación a realizar, de acuerdo con el resultado de la investigación de mercado a que se refiere el sexto párrafo del artículo 35 de esta Ley, considerando lo establecido en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos. La Secretaría participará de manera preventiva en los actos de los procedimientos de contratación consolidados que se realicen, conforme a los linea",
       "pattern_name": "constitucion_full",
@@ -178,7 +178,7 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "36",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "134",
       "citation_text": "la convocatoria, para efectos de llevarlos a cabo y suscribir las actas correspondientes. Dichos actos se considerarán como públicos, en términos del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos. A los actos a que se refiere el segundo párrafo del presente artículo, se invitará a un representante del órgano interno de control en la dependenci",
       "pattern_name": "constitucion_full",
@@ -205,7 +205,7 @@
       "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "source_article": "38",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "75 y 127",
       "citation_text": " contratación, mismos que no podrán exceder los montos de las remuneraciones máximas permitidas a las personas servidoras públicas en términos de los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones jurídicas aplicables. Capítulo Tercero De la Licitación Pública",
       "pattern_name": "constitucion_full",
@@ -437,49 +437,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de responsabilidades administrativas"
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "120",
-      "target_law_raw": "Ley de Adquisiciones",
-      "target_law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "target_article": null,
-      "citation_text": "as necesarios para realizar los procedimientos de contratación en materia de adquisiciones, arrendamientos y servicios previstos en el artículo 81 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, deberán estar en completa operación dentro de los dieciocho meses siguientes a la entrada en vigor de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1066,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de adquisiciones"
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "120",
-      "target_law_raw": "Ley General de Sociedades Cooperativas",
-      "target_law_id": "ley-general-de-sociedades-cooperativas",
-      "target_article": null,
-      "citation_text": " Sociedades Cooperativas, conforme a las disposiciones que establezca el Instituto. Décimo Tercero.- Para efectos del cumplimiento del artículo 17 de la Ley General de Sociedades Cooperativas, se otorgan los siguientes plazos: I.\tCuatro meses a partir de la entrada en vigor del presente Decreto, para emitir el Acuerdo a que se refiere su p",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5104,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de sociedades cooperativas"
-    },
-    {
-      "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
-      "source_article": "120",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "osé Luis Montalvo Luna, Secretario.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 16 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 8133
     }
   ],
-  "resolved_at": "2026-04-02T10:39:10.461165+00:00"
+  "resolved_at": "2026-04-02T11:10:07.950851+00:00"
 }

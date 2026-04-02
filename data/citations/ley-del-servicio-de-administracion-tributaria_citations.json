@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-servicio-de-administracion-tributaria",
-  "extracted_at": "2026-04-02T10:38:39.536542+00:00",
-  "total_citations": 19,
+  "extracted_at": "2026-04-02T11:09:20.854556+00:00",
+  "total_citations": 14,
   "citations": [
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
@@ -67,7 +67,7 @@
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "20",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "ículo 20. Las relaciones laborales entre el Servicio de Administración Tributaria y sus trabajadores se regirán por lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, por la Ley Federal de los Trabajadores al Servicio del Estado y demás ordenamientos jurídicos aplicables.",
       "pattern_name": "constitucion_full",
@@ -109,7 +109,7 @@
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "22",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "tración Tributaria proporcione en los términos de este artículo deberá ser completa y oportuna. En caso de incumplimiento se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal de Responsabilidades de los Servidores Públicos, la Ley Orgánica del Congreso General de los",
       "pattern_name": "constitucion_bare",
@@ -195,83 +195,8 @@
     {
       "source_law": "ley-del-servicio-de-administracion-tributaria",
       "source_article": "35",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
-      "target_article": null,
-      "citation_text": "conferidas por este Decreto, las cuales corresponderán a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.  TERCERO.- Se faculta a",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7348,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-del-servicio-de-administracion-tributaria",
-      "source_article": "35",
-      "target_law_raw": "Ley General de Población",
-      "target_law_id": "ley-general-de-poblacion",
-      "target_article": null,
-      "citation_text": " a las policías administrativas que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.  TERCERO.- Se faculta al Ejecutivo Federal para dict",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7402,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de población"
-    },
-    {
-      "source_law": "ley-del-servicio-de-administracion-tributaria",
-      "source_article": "35",
-      "target_law_raw": "Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto",
-      "target_law_id": "ley-de-vias-generales-de-comunicacion",
-      "target_article": null,
-      "citation_text": "as que han venido realizándolas con fundamento en disposiciones de la Ley Orgánica de la Administración Pública Federal, la Ley General de Población, la Ley de Vías Generales de Comunicación y los demás ordenamientos reformados por este Decreto.  TERCERO.- Se faculta al Ejecutivo Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución poli",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7431,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de vías generales de comunicación"
-    },
-    {
-      "source_law": "ley-del-servicio-de-administracion-tributaria",
-      "source_article": "35",
-      "target_law_raw": "Ley de la Policía Federal Preventiva",
-      "target_law_id": "ley-de-la-policia-federal",
-      "target_article": null,
-      "citation_text": "o Federal para dictar los acuerdos que estime necesarios, con el fin de que las atribuciones de la institución policial previstas en el artículo 4 de la Ley de la Policía Federal Preventiva, sean asumidas con la gradualidad que permita asegurar la continuidad de las respectivas funciones y puedan llevarse a cabo las transferencias de rec",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7710,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.819672131147541,
-      "resolution_matched_alias": "ley de la policía federal"
-    },
-    {
-      "source_law": "ley-del-servicio-de-administracion-tributaria",
-      "source_article": "35",
-      "target_law_raw": "Ley para su ingreso o permanencia",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "olicías administrativas antes citadas exclusivamente podrán formar parte de la Policía Federal Preventiva si cumplen con los requisitos que establece la Ley para su ingreso o permanencia.  CUARTO.- Los derechos de los miembros de las policías administrativas de Migración, Fiscal Federal y Federal de Caminos, serán respetados conforme ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8900,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5098039215686274,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-servicio-de-administracion-tributaria",
-      "source_article": "35",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "ip. Emilio Solórzano Solís, Secretario.- Sen. Jorge G. López Tijerina, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
@@ -280,5 +205,5 @@
       "char_offset": 5988
     }
   ],
-  "resolved_at": "2026-04-02T10:39:53.271335+00:00"
+  "resolved_at": "2026-04-02T11:10:37.329940+00:00"
 }

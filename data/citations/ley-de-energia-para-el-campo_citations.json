@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-energia-para-el-campo",
-  "extracted_at": "2026-04-02T10:38:36.692098+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-04-02T11:09:18.819597+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-de-energia-para-el-campo",
@@ -22,7 +22,7 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25, 27 fracción XX y 28",
       "citation_text": "Artículo 1o. La presente Ley es reglamentaria de los artículos 25, 27 fracción XX y 28 de la Constitución Política de los Estados Unidos Mexicanos y es de observancia general en toda la República Mexicana.  Sus disposiciones son de orden público y están dirigidas a coadyuvar al desarrollo rural ",
       "pattern_name": "constitucion_full",
@@ -49,7 +49,7 @@
       "source_law": "ley-de-energia-para-el-campo",
       "source_article": "3o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "oductivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura, acuacultura y pesca ribereña;  II. CONSTITUCIÓN.- La Constitución Política de los Estados Unidos Mexicanos;  III. CUOTA ENERGÉTICA.- El volumen de consumo de energético agropecuario que se establezca para cada benef",
       "pattern_name": "constitucion_bare",
@@ -116,19 +116,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.45528455284552843,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-energia-para-el-campo",
-      "source_article": "14",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ip. Adrián Rivera Pérez, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1028
     }
   ],
-  "resolved_at": "2026-04-02T10:39:21.022476+00:00"
+  "resolved_at": "2026-04-02T11:10:15.531193+00:00"
 }

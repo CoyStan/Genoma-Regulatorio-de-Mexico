@@ -1,13 +1,13 @@
 {
   "law_id": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
-  "extracted_at": "2026-04-02T10:38:44.375780+00:00",
-  "total_citations": 6,
+  "extracted_at": "2026-04-02T11:09:24.192568+00:00",
+  "total_citations": 4,
   "citations": [
     {
       "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "28",
       "citation_text": ". La presente Ley es de orden público, interés general y de aplicación en todo el territorio nacional. En atención a los objetivos establecidos en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, tiene por objeto promover la transparencia en el mercado de la publicidad, así como la prevención y el combate a prácticas comerciales que constituy",
       "pattern_name": "constitucion_full",
@@ -59,34 +59,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
-      "source_article": "13",
-      "target_law_raw": "Ley para la Transparencia",
-      "target_law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
-      "target_article": null,
-      "citation_text": "entes:  PRIMERO. Es procedente y fundada la presente controversia constitucional.  SEGUNDO. Se declara la invalidez del DECRETO por el que se expide la Ley para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad, publicado en el Diario Oficial de la Federación el tres de jun",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2165,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8,
-      "resolution_matched_alias": "ley de transparencia"
-    },
-    {
-      "source_law": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
-      "source_article": "13",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "rita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 28 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 679
     }
   ],
-  "resolved_at": "2026-04-02T10:40:36.560804+00:00"
+  "resolved_at": "2026-04-02T11:11:07.996800+00:00"
 }

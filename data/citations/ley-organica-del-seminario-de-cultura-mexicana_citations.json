@@ -1,20 +1,7 @@
 {
   "law_id": "ley-organica-del-seminario-de-cultura-mexicana",
-  "extracted_at": "2026-04-02T10:38:44.292670+00:00",
-  "total_citations": 1,
-  "citations": [
-    {
-      "source_law": "ley-organica-del-seminario-de-cultura-mexicana",
-      "source_article": "16",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Games Orozco, S. P.- Rafael Suárez Ocaña, D. S.- Alfonso Corona del Rosal, S. S.- Rúbricas\".  En cumplimiento por lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D.F., a los ",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 741
-    }
-  ],
-  "resolved_at": "2026-04-02T10:40:35.768685+00:00"
+  "extracted_at": "2026-04-02T11:09:24.133821+00:00",
+  "total_citations": 0,
+  "citations": [],
+  "resolved_at": "2026-04-02T11:11:07.225462+00:00"
 }

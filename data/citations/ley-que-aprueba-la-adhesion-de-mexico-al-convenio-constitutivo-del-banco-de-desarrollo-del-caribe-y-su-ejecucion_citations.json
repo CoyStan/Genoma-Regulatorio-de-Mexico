@@ -1,20 +1,7 @@
 {
   "law_id": "ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe-y-su-ejecucion",
-  "extracted_at": "2026-04-02T10:38:44.625482+00:00",
-  "total_citations": 1,
-  "citations": [
-    {
-      "source_law": "ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe-y-su-ejecucion",
-      "source_article": "10o",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Antonio Aguilar Cortés, D.P.- Luis León Aponte, S.S.- Silvio Lagos Martínez, D.S.- Rúbricas\".  En cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 667
-    }
-  ],
-  "resolved_at": "2026-04-02T10:40:37.225107+00:00"
+  "extracted_at": "2026-04-02T11:09:24.417904+00:00",
+  "total_citations": 0,
+  "citations": [],
+  "resolved_at": "2026-04-02T11:11:08.672649+00:00"
 }

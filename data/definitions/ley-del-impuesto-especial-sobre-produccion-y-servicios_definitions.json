@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-  "extracted_at": "2026-04-02T10:42:08.676828+00:00",
-  "total_definitions": 5,
+  "extracted_at": "2026-04-02T11:11:13.567056+00:00",
+  "total_definitions": 4,
   "definitions": [
     {
       "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
@@ -33,14 +33,6 @@
       "article": "18-A",
       "term": "que se prestan los servicios en territorio nacional,",
       "definition_text": "través de una o más redes públicas de telecomunicaciones a que se refiere el artículo 2o., fracción II, inciso C), de esta Ley, cuando éstos se lleven a cabo en el mismo, total o parcialmente",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-      "law_name": "LEY del Impuesto Especial sobre Producción y Servicios",
-      "article": "29",
-      "term": "equivalente",
-      "definition_text": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas",
       "extraction_method": "se_considera"
     }
   ]

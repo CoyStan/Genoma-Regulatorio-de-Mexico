@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-  "extracted_at": "2026-04-02T10:38:37.534494+00:00",
-  "total_citations": 34,
+  "extracted_at": "2026-04-02T11:09:19.448499+00:00",
+  "total_citations": 33,
   "citations": [
     {
       "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
@@ -487,26 +487,14 @@
       "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
       "source_article": "37",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "134",
       "citation_text": "ertura de gastos necesarios para cumplir con sus funciones en posteriores ejercicios fiscales, respetando los principios a los que hace referencia el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y estando sujetos a la evaluación y al control de la Auditoría Superior de la Federación y de la Secretaría de la Función Pública;  III.\tNo podrán ac",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 665
-    },
-    {
-      "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
-      "source_article": "38",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "en. María Elena Barrera Tapia, Secretaria.- Dip. Xavier Azuara Zúñiga, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 4621
     }
   ],
-  "resolved_at": "2026-04-02T10:39:32.742224+00:00"
+  "resolved_at": "2026-04-02T11:10:23.564776+00:00"
 }

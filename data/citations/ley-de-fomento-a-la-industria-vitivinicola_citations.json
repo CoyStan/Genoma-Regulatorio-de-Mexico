@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-fomento-a-la-industria-vitivinicola",
-  "extracted_at": "2026-04-02T10:38:36.766958+00:00",
-  "total_citations": 6,
+  "extracted_at": "2026-04-02T11:09:18.873564+00:00",
+  "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
@@ -77,19 +77,7 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8115942028985508,
       "resolution_matched_alias": "ley de planeación y transición energética"
-    },
-    {
-      "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
-      "source_article": "35",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Gerardo Flores Ramírez, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia expido el presente Decreto en Villahermosa, Tabasco, a veintidós de mayo de dos mil dieciocho.- Enrique P",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1247
     }
   ],
-  "resolved_at": "2026-04-02T10:39:23.203083+00:00"
+  "resolved_at": "2026-04-02T11:10:17.587012+00:00"
 }

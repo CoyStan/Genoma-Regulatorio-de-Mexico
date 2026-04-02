@@ -1,7 +1,7 @@
 {
   "law_id": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
-  "extracted_at": "2026-04-02T10:38:44.122515+00:00",
-  "total_citations": 26,
+  "extracted_at": "2026-04-02T11:09:24.007841+00:00",
+  "total_citations": 24,
   "citations": [
     {
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
@@ -37,7 +37,7 @@
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123, Apartado A, fracción XX,",
       "citation_text": "oda la República Mexicana, y tienen como objeto establecer la organización y funcionamiento del organismo descentralizado federal a que se refiere el artículo 123, Apartado A, fracción XX, de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.",
       "pattern_name": "constitucion_full",
@@ -64,7 +64,7 @@
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 3. Para los efectos de esta Ley se entenderá por:  I.\tCentro: El Centro Federal de Conciliación y Registro Laboral;  II.\tConstitución: La Constitución Política de los Estados Unidos Mexicanos;  III.\tDirector (a) del Centro: Persona encargada de la Dirección General del Centro;  IV.\tJunta de Gobierno",
       "pattern_name": "constitucion_bare",
@@ -91,7 +91,7 @@
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "iduales y colectivos del orden federal, conforme lo establecido por los párrafos segundo y tercero de la fracción XX del artículo 123, Apartado A, de la Constitución y artículos 684-A a 684-E de la Ley Federal del Trabajo.  Además, será competente para registrar, a nivel nacional, todos los contratos colectivos de",
       "pattern_name": "constitucion_bare",
@@ -133,7 +133,7 @@
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "8",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": " de trabajo entre el Centro y su personal se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.  Título Segundo De las Atribuciones del Centro",
       "pattern_name": "constitucion_full",
@@ -190,7 +190,7 @@
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "9",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "tribuciones:  I.\tRealizar en el ámbito federal la función conciliatoria individual prevista en el párrafo cuarto de la fracción XX del Apartado A del artículo 123 Constitucional;  II.\tRealizar en el ámbito federal la función conciliatoria colectiva, misma que se brindará a petición de las partes o de la autoridad judicial;  I",
       "pattern_name": "articulo_constitucional",
@@ -247,7 +247,7 @@
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "20",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "culo 20. El o la Director (a) General del Centro será designado conforme a lo dispuesto en el artículo 123, Apartado A, fracción XX, párrafo sexto de la Constitución, el cuál desempeñará su cargo por seis años y podrá ser reelecto por un periodo más, por una sola ocasión. No podrá tener otro empleo, cargo o comisi",
       "pattern_name": "constitucion_bare",
@@ -274,7 +274,7 @@
       "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
       "source_article": "21",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 21. Para ser Director (a) General del Centro, adicionalmente a los requisitos establecidos en la Constitución, se deberá cumplir lo siguiente:  I.\tSer mexicano o mexicana por nacimiento, y estar en pleno goce de sus derechos civiles y políticos;  II.\tTener po",
       "pattern_name": "constitucion_bare",
@@ -341,34 +341,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.46987951807228917,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
-      "source_article": "25",
-      "target_law_raw": "Ley Federal del Trabajo",
-      "target_law_id": "ley-federal-del-trabajo",
-      "target_article": null,
-      "citation_text": "ro Federal de Conciliación y Registro Laboral, el cual podrá determinar la terminación de aquellos contratos colectivos que no cumplan los requisitos previstos en la Ley Federal del Trabajo.  Para la verificación de los procedimientos de legitimación de contratos colectivos de trabajo, el Centro Federal de Conciliación y Registro Laboral",
-      "pattern_name": "prevista_en",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 2278,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal del trabajo"
-    },
-    {
-      "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
-      "source_article": "25",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ".- Dip. Mónica Bautista Rodríguez, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 3 de ",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 3172
     }
   ],
-  "resolved_at": "2026-04-02T10:40:34.132524+00:00"
+  "resolved_at": "2026-04-02T11:11:05.739873+00:00"
 }

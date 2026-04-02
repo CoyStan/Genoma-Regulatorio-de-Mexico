@@ -1,13 +1,13 @@
 {
   "law_id": "ley-organica-del-instituto-politecnico-nacional",
-  "extracted_at": "2026-04-02T10:38:44.225994+00:00",
-  "total_citations": 8,
+  "extracted_at": "2026-04-02T11:09:24.073494+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": ", Cultural y Política para alcanzar el progreso social de la Nación, de acuerdo con los objetivos Históricos de la Revolución Mexicana, contenidos en la Constitución Política de los Estados Unidos Mexicanos. Fe de erratas al artículo DOF 28-05-1982",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "l sistema nacional de producción y le permitan coadyuvar al desarrollo de la comunidad; Fe de erratas a la fracción DOF 28-05-1982  X.- Participar en la constitución de asociaciones, sociedades y patronatos que tengan por objeto impulsar el desarrollo de sus actividades y en la coordinación de las personas físicas",
       "pattern_name": "constitucion_bare",
@@ -76,41 +76,14 @@
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "33",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "nstituto Politécnico Nacional queda sujeto al régimen de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y al de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
       "pattern_name": "articulo_constitucional",
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 181
-    },
-    {
-      "source_law": "ley-organica-del-instituto-politecnico-nacional",
-      "source_article": "34",
-      "target_law_raw": "Reglamento del Instituto Politécnico Nacional expedido el 9 de marzo de 1959",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ica del Instituto Politécnico Nacional expedida el 13 de diciembre de 1974 publicada en el Diario Oficial de la Federación el 16 del mismo mes y año; El Reglamento del Instituto Politécnico Nacional expedido el 9 de marzo de 1959, publicado en el Diario Oficial de la Federación el 10 del mismo mes y año; y la rectificación a dicho Reglamento de fecha 20 de marzo de 1959 y publ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 481,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5100671140939598,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-organica-del-instituto-politecnico-nacional",
-      "source_article": "34",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "umacero Sánchez, S.P.- Armando Thomae Cerna, D.S.- José Luis Escobar Herrera, S.S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia de Poder Ejecutivo Federal, en la ciudad de México, Distrito ",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1405
     }
   ],
-  "resolved_at": "2026-04-02T10:40:34.903636+00:00"
+  "resolved_at": "2026-04-02T11:11:06.362258+00:00"
 }

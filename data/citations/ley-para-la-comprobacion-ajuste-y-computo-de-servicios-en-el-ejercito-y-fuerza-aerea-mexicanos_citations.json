@@ -1,7 +1,7 @@
 {
   "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
-  "extracted_at": "2026-04-02T10:38:44.354789+00:00",
-  "total_citations": 14,
+  "extracted_at": "2026-04-02T11:09:24.183296+00:00",
+  "total_citations": 12,
   "citations": [
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
@@ -182,34 +182,7 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.8520710059171598,
       "resolution_matched_alias": "ley del instituto de seguridad social para las fuerzas armadas mexicanas"
-    },
-    {
-      "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "37",
-      "target_law_raw": "Ley para la Comprobación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "do en el Diario Oficial de la Federación el 12 de junio de 2009  Artículo Tercero.- Se reforman los artículos 18, fracción I, párrafo primero y 20 de la Ley para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:  .  Transitorios  Artículo Primero.- El presente Decr",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3286,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6296296296296297,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
-      "source_article": "37",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2259
     }
   ],
-  "resolved_at": "2026-04-02T10:40:36.487470+00:00"
+  "resolved_at": "2026-04-02T11:11:07.923173+00:00"
 }

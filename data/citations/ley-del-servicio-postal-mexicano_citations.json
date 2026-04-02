@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-servicio-postal-mexicano",
-  "extracted_at": "2026-04-02T10:38:39.582938+00:00",
-  "total_citations": 4,
+  "extracted_at": "2026-04-02T11:09:20.885799+00:00",
+  "total_citations": 3,
   "citations": [
     {
       "source_law": "ley-del-servicio-postal-mexicano",
@@ -47,19 +47,7 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-del-servicio-postal-mexicano",
-      "source_article": "72",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "nando Mendoza Contreras, Secretario.- Dip. Ma. Guadalupe Ponce Torres, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1851
     }
   ],
-  "resolved_at": "2026-04-02T10:39:54.102912+00:00"
+  "resolved_at": "2026-04-02T11:10:37.962992+00:00"
 }

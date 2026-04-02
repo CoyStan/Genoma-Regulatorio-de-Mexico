@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-de-movilidad-y-seguridad-vial",
-  "extracted_at": "2026-04-02T10:38:42.245827+00:00",
-  "total_citations": 20,
+  "extracted_at": "2026-04-02T11:09:22.715688+00:00",
+  "total_citations": 19,
   "citations": [
     {
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "servancia general en todo el territorio nacional, en términos de lo dispuesto en el párrafo décimo séptimo del artículo 4o. y 73, fracción XXIX-C, de la Constitución Política de los Estados Unidos Mexicanos, en materia de movilidad y seguridad vial, y tiene por objeto establecer las bases y principios para garanti",
       "pattern_name": "constitucion_bare",
@@ -19,7 +19,7 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 2. Esta Ley se interpretará de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de los que el Estado Mexicano sea parte, favoreciendo en todo tiempo a la",
       "pattern_name": "constitucion_bare",
@@ -76,7 +76,7 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "a alguna de las personas usuarias de la vía;  VI.\tLos derechos de las víctimas se deberán reconocer y garantizar de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Víctimas y los Tratados Internacionales de los que el Estado Mexicano sea parte;  VII.",
       "pattern_name": "constitucion_bare",
@@ -88,7 +88,7 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "8",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "rdinación, información y participación correspondientes, con el objetivo de garantizar el derecho a la movilidad con las condiciones establecidas por la Constitución Política de los Estados Unidos Mexicanos.  CAPÍTULO II Del derecho a la movilidad",
       "pattern_name": "constitucion_bare",
@@ -130,7 +130,7 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "23",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "s, para lo cual los procedimientos deben considerar las condiciones de vulnerabilidad que les afecten, y  VI.\tTodos los demás derechos reconocidos en la Constitución, en los Tratados Internacionales en materia de derechos humanos de los que el Estado Mexicano es parte y demás instrumentos internacionales en la mat",
       "pattern_name": "constitucion_bare",
@@ -232,7 +232,7 @@
       "source_law": "ley-general-de-movilidad-y-seguridad-vial",
       "source_article": "74",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ón, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de la competencia que les otorga la Constitución Política de los Estados Unidos Mexicanos y esta Ley, así como a través de los mecanismos de coordinación y colaboración que se generen, respetando de",
       "pattern_name": "constitucion_bare",
@@ -269,19 +269,7 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-general-de-movilidad-y-seguridad-vial",
-      "source_article": "82",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "acarena Chávez Flores, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 10 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2489
     }
   ],
-  "resolved_at": "2026-04-02T10:40:17.902142+00:00"
+  "resolved_at": "2026-04-02T11:10:53.537522+00:00"
 }

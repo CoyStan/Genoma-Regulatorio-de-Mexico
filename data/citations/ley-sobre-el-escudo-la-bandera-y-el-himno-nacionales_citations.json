@@ -1,13 +1,13 @@
 {
   "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-  "extracted_at": "2026-04-02T10:38:44.802888+00:00",
-  "total_citations": 8,
+  "extracted_at": "2026-04-02T11:09:24.533292+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
       "source_article": "18",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " ser votadas a nivel federal;  41.\t18 de octubre:  Aniversario del Natalicio de Servando Teresa de Mier, en 1765;  42.\t22 de octubre:  Aniversario de la constitución del Ejército Insurgente Libertador, en 1810;  43.\t23 de octubre:  Día Nacional de la Aviación;  44.\t24 de octubre:  Día de las Naciones Unidas;  45.\t",
       "pattern_name": "constitucion_bare",
@@ -89,34 +89,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-      "source_article": "60",
-      "target_law_raw": "Ley sobre el Escudo",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Distrito Federal, Ramón Aguirre Velázquez.-Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  DECRETO por el que se modifican disposiciones de la Ley sobre el Escudo, la Bandera y el Himno Nacionales.  Publicado en el Diario Oficial de la Federación el 9 de enero de 1991  ARTICULO PRIMERO.- Se modifica el inciso a",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2960,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
-      "source_article": "60",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". P.-Luz Lajous, D. P.-Guillermo Mercado Romero, S. S.-Enrique León Martínez, D. S.-Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1082
     }
   ],
-  "resolved_at": "2026-04-02T10:40:38.725026+00:00"
+  "resolved_at": "2026-04-02T11:11:10.110862+00:00"
 }

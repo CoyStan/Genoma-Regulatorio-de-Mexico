@@ -1,7 +1,7 @@
 {
   "law_id": "ley-nacional-del-registro-de-detenciones",
-  "extracted_at": "2026-04-02T10:38:43.753895+00:00",
-  "total_citations": 8,
+  "extracted_at": "2026-04-02T11:09:23.767107+00:00",
+  "total_citations": 7,
   "citations": [
     {
       "source_law": "ley-nacional-del-registro-de-detenciones",
@@ -22,7 +22,7 @@
       "source_law": "ley-nacional-del-registro-de-detenciones",
       "source_article": "7",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": ", integridad, rendición de cuentas, eficacia y responsabilidad en el tratamiento de datos personales y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte.",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-nacional-del-registro-de-detenciones",
       "source_article": "8",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 8. Las disposiciones de esta Ley se interpretarán de modo que no restrinjan ni menoscaben los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y por los Tratados Internacionales en la materia de los que el Estado mexicano sea parte.  Capítulo III Trat",
       "pattern_name": "constitucion_bare",
@@ -101,19 +101,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
-    },
-    {
-      "source_law": "ley-nacional-del-registro-de-detenciones",
-      "source_article": "36",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones",
-      "citation_text": "presupuesto de la Secretaría y sus órganos administrativos desconcentrados vinculados a la materia de la presente Ley.  Quinto. De conformidad con el artículo Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de Guardia Nacional, publicado en el Diario Oficial de la Federación el 26 de marzo de 2019, la Fuerza Armada permanente que realice tare",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1490
     }
   ],
-  "resolved_at": "2026-04-02T10:40:29.865231+00:00"
+  "resolved_at": "2026-04-02T11:11:02.510034+00:00"
 }

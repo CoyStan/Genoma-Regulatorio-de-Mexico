@@ -1,13 +1,13 @@
 {
   "law_id": "ley-que-crea-la-agencia-espacial-mexicana",
-  "extracted_at": "2026-04-02T10:38:44.638387+00:00",
-  "total_citations": 7,
+  "extracted_at": "2026-04-02T11:09:24.427977+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-que-crea-la-agencia-espacial-mexicana",
       "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " en la materia, en colaboración con las dependencias nacionales y organismos extranjeros e internacionales competentes;  II. Difundir lo dispuesto en la Constitución, esta Ley y los tratados internacionales ratificados por México en la materia, para aprovechar las oportunidades de desarrollo que puedan permitir es",
       "pattern_name": "constitucion_bare",
@@ -79,26 +79,14 @@
       "source_law": "ley-que-crea-la-agencia-espacial-mexicana",
       "source_article": "15",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "Artículo 15. Las relaciones laborales entre la Agencia Espacial Mexicana y sus trabajadores se regirán por lo dispuesto en el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones legales y reglamentarias de la misma.  CAPÍTULO III Del Presupuesto y Patrimonio",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 141
-    },
-    {
-      "source_law": "ley-que-crea-la-agencia-espacial-mexicana",
-      "source_article": "17",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ha Leticia Sosa Govea, Secretaria.- Dip. Jaime Arturo Vazquez Aguilar, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2889
     }
   ],
-  "resolved_at": "2026-04-02T10:40:37.432950+00:00"
+  "resolved_at": "2026-04-02T11:11:08.876014+00:00"
 }

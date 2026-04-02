@@ -1,7 +1,7 @@
 {
   "law_id": "ley-sobre-el-contrato-de-seguro",
-  "extracted_at": "2026-04-02T10:38:44.785375+00:00",
-  "total_citations": 12,
+  "extracted_at": "2026-04-02T11:09:24.525086+00:00",
+  "total_citations": 11,
   "citations": [
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
@@ -82,7 +82,7 @@
       "source_law": "ley-sobre-el-contrato-de-seguro",
       "source_article": "167",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "constar por escrito para toda designación del beneficiario, así como para la trasmisión del beneficio del contrato, para la cesión de derechos o para la constitución de prenda, salvo cuando estas tres últimas operaciones se celebren con la empresa aseguradora. Fe de erratas al artículo DOF 13-09-1935. Reformado DO",
       "pattern_name": "constitucion_bare",
@@ -109,7 +109,7 @@
       "source_law": "ley-sobre-el-contrato-de-seguro",
       "source_article": "207",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "egales que se opongan a la presente ley. Artículo recorrido (antes artículo 196) DOF 04-04-2013  En cumplimiento de lo dispuesto en la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los",
       "pattern_name": "constitucion_full",
@@ -135,38 +135,23 @@
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
       "source_article": "181",
-      "target_law_raw": "Ley sobre el Contrato de Seguro para quedar como sigue",
-      "target_law_id": "ley-sobre-el-contrato-de-seguro",
+      "target_law_raw": "Ley Sobre el Contrato de Seguro para quedar redactado en los siguientes términos",
+      "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "ONAN los artículos 40 con un segundo párrafo, 111 con un cuarto párrafo, 145 con un segundo párrafo, 145 Bis, 150 Bis y 152 con un tercer párrafo, de la Ley sobre el Contrato de Seguro para quedar como sigue:  .........  TRANSITORIO  ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.  Méxi",
+      "citation_text": "a el artículo 41 de la ley mencionada para quedar redactado en los siguientes términos:  ..........  ARTICULO SEPTIMO.- Se reforma el artículo 180 de la Ley Sobre el Contrato de Seguro para quedar redactado en los siguientes términos:  ..........",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
-      "char_offset": 4698,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley sobre el contrato de seguro"
-    },
-    {
-      "source_law": "ley-sobre-el-contrato-de-seguro",
-      "source_article": "181",
-      "target_law_raw": "Ley General de Instituciones y Sociedades Mutualistas de Seguros",
-      "target_law_id": "ley-general-de-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "GUNDO.- A las instituciones de seguros que a la entrada en vigor del presente Decreto cuenten con la autorización a que se refiere el artículo 7o. de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, para practicar el ramo de seguro de crédito y otras operaciones o ramos, no les será aplicable la limitación prevista en el penúltimo párrafo que se",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6385,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
+      "char_offset": 2932,
+      "resolution_confidence": "unresolved",
+      "resolution_score": 0.4691358024691358,
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-el-contrato-de-seguro",
       "source_article": "181",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "astillo Torre, S. P.- Juan Fernández Albarrán, D. S.- Arturo Martínez Adame, S. S.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a",
       "pattern_name": "constitucion_full",
@@ -175,5 +160,5 @@
       "char_offset": 809
     }
   ],
-  "resolved_at": "2026-04-02T10:40:38.579845+00:00"
+  "resolved_at": "2026-04-02T11:11:09.966401+00:00"
 }

@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-04-02T10:38:43.579430+00:00",
-  "total_citations": 23,
+  "extracted_at": "2026-04-02T11:09:23.636137+00:00",
+  "total_citations": 20,
   "citations": [
     {
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "o, interés social y de observancia general en todo el territorio nacional, en términos de lo dispuesto por el artículo 73, fracción XXI, inciso a) de la Constitución Política de los Estados Unidos Mexicanos, en materia de extorsión.",
       "pattern_name": "constitucion_bare",
@@ -94,7 +94,7 @@
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "gobierno la aplicación de la presente Ley en el ámbito de sus respectivas competencias con irrestricto respeto a los derechos humanos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano sea parte.",
       "pattern_name": "constitucion_bare",
@@ -121,7 +121,7 @@
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "7",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "73",
       "citation_text": " municipal; IV.\tLey: a la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; V.\tPolicía: a la Policía Federal Ministerial y a los cuerpos policiales con facultades de investigación federal y del fuero común, y VI.\tSecretaría ",
       "pattern_name": "constitucion_full",
@@ -238,7 +238,7 @@
       "source_law": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
       "source_article": "27",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "20",
       "citation_text": "te si se actualiza la fuente independiente, el vínculo atenuado o el descubrimiento inevitable sobre las mismas, de conformidad con lo previsto en el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_full",
@@ -290,49 +290,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.37349397590361444,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "43",
-      "target_law_raw": "Ley General para Prevenir",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": " el Código Penal Federal, los códigos penales de las entidades federativas o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Esta",
-      "pattern_name": "prevista_en",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 1713,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "43",
-      "target_law_raw": "Ley General para Prevenir y Sancionar los Delitos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos. Ciudad de México, a 25 de noviembre de",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 5536,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5609756097560976,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
-      "source_article": "43",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "73",
-      "citation_text": " extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos. Tercero. Se derogan todas las disposiciones legales que se opongan al presente Decreto. Cuarto. En los procesos pendientes de dictarse sentencia en ",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1852
     }
   ],
-  "resolved_at": "2026-04-02T10:40:28.431527+00:00"
+  "resolved_at": "2026-04-02T11:11:01.167911+00:00"
 }

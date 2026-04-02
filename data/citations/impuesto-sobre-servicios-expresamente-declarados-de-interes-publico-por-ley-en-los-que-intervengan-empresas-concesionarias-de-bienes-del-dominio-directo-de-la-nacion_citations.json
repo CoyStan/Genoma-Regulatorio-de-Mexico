@@ -1,13 +1,13 @@
 {
   "law_id": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
-  "extracted_at": "2026-04-02T10:38:35.622719+00:00",
+  "extracted_at": "2026-04-02T11:09:18.032788+00:00",
   "total_citations": 1,
   "citations": [
     {
       "source_law": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
       "source_article": "0",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "ellaneda, S. P.- Hesiquio Aguilar Marañón, D. S.- Lic. Diódoro Rivera Uribe, S. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
@@ -16,5 +16,5 @@
       "char_offset": 6421
     }
   ],
-  "resolved_at": "2026-04-02T10:39:07.787897+00:00"
+  "resolved_at": "2026-04-02T11:10:06.084035+00:00"
 }

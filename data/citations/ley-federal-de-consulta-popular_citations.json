@@ -1,13 +1,13 @@
 {
   "law_id": "ley-federal-de-consulta-popular",
-  "extracted_at": "2026-04-02T10:38:39.914924+00:00",
+  "extracted_at": "2026-04-02T11:09:21.107888+00:00",
   "total_citations": 13,
   "citations": [
     {
       "source_law": "ley-federal-de-consulta-popular",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "35",
       "citation_text": "Artículo 1. La presente Ley es reglamentaria de la fracción VIII del artículo 35 de la Constitución Política de los Estados Unidos Mexicanos, es de orden público e interés social; y de observancia en el orden federal.",
       "pattern_name": "constitucion_full",
@@ -34,7 +34,7 @@
       "source_law": "ley-federal-de-consulta-popular",
       "source_article": "10",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 10. Son requisitos para participar en la consulta popular:  I.\tSer ciudadano mexicano conforme al artículo 34 de la Constitución;  II.\tEstar inscrito en el Padrón Electoral;  III.\tTener credencial para votar con fotografía vigente, y  IV.\tNo estar suspendido en sus derechos pol",
       "pattern_name": "constitucion_bare",
@@ -46,7 +46,7 @@
       "source_law": "ley-federal-de-consulta-popular",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 11. No podrán ser objeto de consulta popular:  I.\tLa restricción de los derechos humanos reconocidos por la Constitución y los respectivos tratados internacionales de los que el Estado Mexicano sea parte; Fracción reformada DOF 19-05-2021  II.\tLos principios consagrados",
       "pattern_name": "constitucion_bare",
@@ -58,7 +58,7 @@
       "source_law": "ley-federal-de-consulta-popular",
       "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "12, previa declaración de",
       "citation_text": "s y ciudadanos, la Convocatoria se expedirá respecto de aquellas que hubieran reunido el apoyo ciudadano a que se hace mención en la fracción III del artículo 12, previa declaración de constitucionalidad y aprobación de la trascendencia nacional o regional a cargo de la Suprema Corte. Párrafo reformado DOF 19-05-2021",
       "pattern_name": "articulo_constitucional",
@@ -100,7 +100,7 @@
       "source_law": "ley-federal-de-consulta-popular",
       "source_article": "28",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "e treinta días naturales, verifique que ha sido suscrita bajo los parámetros establecidos en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución Federal y la fracción III del artículo 12 de la presente Ley; Fracción reformada DOF 19-05-2021  II.\tEn el caso de que el Instituto determine que no ",
       "pattern_name": "constitucion_bare",
@@ -112,7 +112,7 @@
       "source_law": "ley-federal-de-consulta-popular",
       "source_article": "32",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 32. Al Instituto le corresponde verificar el porcentaje establecido en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución.  Para tal efecto, el Instituto contará con un plazo no mayor a treinta días naturales, contados a partir de la recepción del expediente que le remit",
       "pattern_name": "constitucion_bare",
@@ -169,14 +169,14 @@
       "source_law": "ley-federal-de-consulta-popular",
       "source_article": "65",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "is Vianey Mendoza Mendoza, Secretaria.- Dip. Angelina Carreño Mijares, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "target_article": "",
+      "citation_text": "rio Ejecutivo del Instituto sobre el resultado de la verificación del porcentaje señalado en el artículo 35, fracción VIII, numeral 1o., inciso c) de la Constitución, así como el informe del Consejo General respecto del resultado de la consulta popular.",
+      "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1948
+      "confidence": "medium",
+      "char_offset": 333
     }
   ],
-  "resolved_at": "2026-04-02T10:39:56.824070+00:00"
+  "resolved_at": "2026-04-02T11:10:39.901117+00:00"
 }

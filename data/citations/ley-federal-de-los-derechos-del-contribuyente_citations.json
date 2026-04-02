@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-los-derechos-del-contribuyente",
-  "extracted_at": "2026-04-02T10:38:40.366895+00:00",
-  "total_citations": 6,
+  "extracted_at": "2026-04-02T11:09:21.322818+00:00",
+  "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-federal-de-los-derechos-del-contribuyente",
@@ -77,19 +77,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "código fiscal de la federación"
-    },
-    {
-      "source_law": "ley-federal-de-los-derechos-del-contribuyente",
-      "source_article": "24",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2655
     }
   ],
-  "resolved_at": "2026-04-02T10:40:02.209682+00:00"
+  "resolved_at": "2026-04-02T11:10:41.926959+00:00"
 }

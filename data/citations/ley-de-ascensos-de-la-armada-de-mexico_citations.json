@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-ascensos-de-la-armada-de-mexico",
-  "extracted_at": "2026-04-02T10:38:36.129960+00:00",
-  "total_citations": 7,
+  "extracted_at": "2026-04-02T11:09:18.419227+00:00",
+  "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
@@ -22,7 +22,7 @@
       "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
       "source_article": "2o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89, fracción IV",
       "citation_text": "do Supremo ascender al personal de Vicealmirantes, Contralmirantes, Capitanes de Navío y Capitanes de Fragata, de conformidad con lo dispuesto por el artículo 89, fracción IV de la Constitución Política de los Estados Unidos Mexicanos y la presente Ley. Artículo reformado DOF 27-08-2010, 17-12-2025",
       "pattern_name": "constitucion_full",
@@ -74,34 +74,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley orgánica de la armada de méxico"
-    },
-    {
-      "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
-      "source_article": "56",
-      "target_law_raw": "Ley Orgánica de la Armada de México reformada y adicionada el 24 diciembre de 1993 y el 12 de diciembre de 1995",
-      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
-      "target_article": null,
-      "citation_text": "s disposiciones aplicables de la Ley de Ascensos de la Armada de México publicada en el Diario Oficial de la Federación el 24 de diciembre de 1984, y la Ley Orgánica de la Armada de México reformada y adicionada el 24 diciembre de 1993 y el 12 de diciembre de 1995, hasta pasar a situación del retiro o causar baja en los términos que establecen las disposiciones aplicables.  México, D.F., a 28 de abril de 2004.-",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 995,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
-    },
-    {
-      "source_law": "ley-de-ascensos-de-la-armada-de-mexico",
-      "source_article": "56",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Amalín Yabur Elías, Secretaria.- Sen. Yolanda E. González Hernández, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1502
     }
   ],
-  "resolved_at": "2026-04-02T10:39:13.722477+00:00"
+  "resolved_at": "2026-04-02T11:10:10.463354+00:00"
 }

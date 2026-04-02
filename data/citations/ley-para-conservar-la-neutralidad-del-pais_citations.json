@@ -1,13 +1,13 @@
 {
   "law_id": "ley-para-conservar-la-neutralidad-del-pais",
-  "extracted_at": "2026-04-02T10:38:44.318427+00:00",
+  "extracted_at": "2026-04-02T11:09:24.155366+00:00",
   "total_citations": 1,
   "citations": [
     {
       "source_law": "ley-para-conservar-la-neutralidad-del-pais",
       "source_article": "0",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "D. P.- Guillermo Flores Muñoz, S. P.- José Zavala Ruiz, D. S.- Mauro Angulo, S. S.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a lo",
       "pattern_name": "constitucion_full",
@@ -16,5 +16,5 @@
       "char_offset": 1413
     }
   ],
-  "resolved_at": "2026-04-02T10:40:36.081913+00:00"
+  "resolved_at": "2026-04-02T11:11:07.517523+00:00"
 }

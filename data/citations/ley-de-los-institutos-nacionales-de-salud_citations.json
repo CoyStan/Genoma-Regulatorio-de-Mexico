@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-los-institutos-nacionales-de-salud",
-  "extracted_at": "2026-04-02T10:38:37.819180+00:00",
-  "total_citations": 15,
+  "extracted_at": "2026-04-02T11:09:19.646119+00:00",
+  "total_citations": 11,
   "citations": [
     {
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
@@ -127,7 +127,7 @@
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "35",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": " Salud y sus trabajadores se regirán por lo dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional. El personal continuará incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
       "pattern_name": "articulo_constitucional",
@@ -154,71 +154,14 @@
       "source_law": "ley-de-los-institutos-nacionales-de-salud",
       "source_article": "36",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "empeñen las funciones a que se refiere el artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del artículo 123 Constitucional.  TÍTULO TERCERO Ámbito de los Institutos  Capítulo I Investigación",
       "pattern_name": "articulo_constitucional",
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 327
-    },
-    {
-      "source_law": "ley-de-los-institutos-nacionales-de-salud",
-      "source_article": "58",
-      "target_law_raw": "Ley de los Institutos Nacionales de Salud para quedar como sigue",
-      "target_law_id": "ley-de-los-institutos-nacionales-de-salud",
-      "target_article": null,
-      "citation_text": "de Salud.  Publicado en el Diario Oficial de la Federación el 22 de junio de 2005  ARTÍCULO ÚNICO. Se adiciona una fracción VIII Bis al artículo 5 de la Ley de los Institutos Nacionales de Salud para quedar como sigue:  ..........  TRANSITORIOS  Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Feder",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6958,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de los institutos nacionales de salud"
-    },
-    {
-      "source_law": "ley-de-los-institutos-nacionales-de-salud",
-      "source_article": "58",
-      "target_law_raw": "Ley General de Salud con los recursos asignados al Sistema de Protección Social en Salud para dicho ejercicio",
-      "target_law_id": "ley-general-de-sociedades-mercantiles",
-      "target_article": null,
-      "citation_text": "cal 2019, los gobiernos de las entidades federativas continuarán prestando los servicios de atención médica a que se refiere el Título Tercero Bis de la Ley General de Salud con los recursos asignados al Sistema de Protección Social en Salud para dicho ejercicio.  Para tales efectos, dichos gobiernos locales podrán ejercer los recursos correspondientes al ejercicio fiscal 2019 a través de la totalidad de las ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 20443,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
-    },
-    {
-      "source_law": "ley-de-los-institutos-nacionales-de-salud",
-      "source_article": "58",
-      "target_law_raw": "Ley General de Salud",
-      "target_law_id": "ley-general-de-salud",
-      "target_article": null,
-      "citation_text": " tanto se dé cumplimiento en su totalidad a las obligaciones establecidas en los acuerdos de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas deberán establecer y operar un sistema en los mismos términos de la fracción XI del artículo 77 bis 35 de la misma Ley.  E",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 23029,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-de-los-institutos-nacionales-de-salud",
-      "source_article": "58",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Marta Laura Carranza Aguayo, Secretario.- Sen. Raúl Juárez Valencia, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 3363
     }
   ],
-  "resolved_at": "2026-04-02T10:39:36.219384+00:00"
+  "resolved_at": "2026-04-02T11:10:26.172703+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
-  "extracted_at": "2026-04-02T10:38:40.320835+00:00",
-  "total_citations": 5,
+  "extracted_at": "2026-04-02T11:09:21.305040+00:00",
+  "total_citations": 4,
   "citations": [
     {
       "source_law": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
@@ -54,7 +54,7 @@
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
       "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
-      "citation_text": "En contra de las resoluciones que se dicten conforme a esta ley, su Reglamento y demás disposiciones aplicables, procederán los medios de impugnación establecidos en la Ley Federal de Procedimiento Administrativo.  Transitorios  Primero. La presente ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. La Comi",
+      "citation_text": "En contra de las resoluciones que se dicten conforme a esta ley, su Reglamento y demás disposiciones aplicables, procederán los medios de impugnación establecidos en la Ley Federal de Procedimiento Administrativo.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
@@ -62,19 +62,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
-      "source_article": "32",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Yolanda E. González Hernández, Secretario.- Dip. Amalín Yabur Elías, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2033
     }
   ],
-  "resolved_at": "2026-04-02T10:40:01.645198+00:00"
+  "resolved_at": "2026-04-02T11:10:41.561169+00:00"
 }

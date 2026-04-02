@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-puertos",
-  "extracted_at": "2026-04-02T10:38:38.238871+00:00",
-  "total_citations": 15,
+  "extracted_at": "2026-04-02T11:09:19.946517+00:00",
+  "total_citations": 10,
   "citations": [
     {
       "source_law": "ley-de-puertos",
@@ -152,79 +152,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Ley de Navegación y Comercio Marítimos",
-      "target_law_id": "ley-de-navegacion-y-comercio-maritimos",
-      "target_article": null,
-      "citation_text": "I, incisos f), g) y h), y IV; 11; 14-H; 14-I; 14-J; 17, fracciones I a IV y VI; 18, fracciones III, IV y VIII; 27; 33; 35; 43 a 52; 272; 273 y 274 de la Ley de Navegación y Comercio Marítimos, y  III. Todas las disposiciones que se opongan a lo previsto en esta ley.  Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comuni",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1004,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de navegación y comercio marítimos"
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Ley de Vías Generales de Comunicación sólo por lo que hace a puertos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "de Navegación y Comercio Marítimos, y  III. Todas las disposiciones que se opongan a lo previsto en esta ley.  Se deja sin efectos el artículo 110 de la Ley de Vías Generales de Comunicación sólo por lo que hace a puertos, terminales, marinas e instalaciones portuarias, así como a servicios portuarios.  CUARTO. Las concesiones otorgadas con anterioridad a la fecha de e",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 1161,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.48148148148148145,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Ley de Puertos y de las disposiciones administrativas necesarias",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "s y administrativas que se opongan al presente Decreto.  Tercero. El Ejecutivo Federal y la Secretaría expedirán las modificaciones del Reglamento de la Ley de Puertos y de las disposiciones administrativas necesarias, respectivamente, que resulten necesarias para dar cumplimiento al presente Decreto, en un plazo que no excederá de un año, contado a partir de la en",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6047,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.625,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Reglamento de la Ley de Puertos y en los ordenamientos administrativos",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ecutivo Federal y la Secretaría, en un plazo no mayor a 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, incluirán en el Reglamento de la Ley de Puertos y en los ordenamientos administrativos, respectivamente, las disposiciones que resulten necesarias para el funcionamiento y organización del Comité de Planeación previsto en el artículo 58",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7083,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.616822429906542,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-puertos",
-      "source_article": "69",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ip. Luis Moreno Bustamante, Secretario.- Sen. Gustavo Salinas Iñiguez, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito ",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 4334
     }
   ],
-  "resolved_at": "2026-04-02T10:39:39.733942+00:00"
+  "resolved_at": "2026-04-02T11:10:28.513661+00:00"
 }

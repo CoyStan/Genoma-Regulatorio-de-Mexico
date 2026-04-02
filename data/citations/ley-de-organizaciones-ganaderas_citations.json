@@ -1,13 +1,13 @@
 {
   "law_id": "ley-de-organizaciones-ganaderas",
-  "extracted_at": "2026-04-02T10:38:38.084904+00:00",
-  "total_citations": 12,
+  "extracted_at": "2026-04-02T11:09:19.848468+00:00",
+  "total_citations": 10,
   "citations": [
     {
       "source_law": "ley-de-organizaciones-ganaderas",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "CULO 1o.- La presente Ley es de interés público y de observancia general en todo el país. Tiene por objeto establecer las bases y procedimientos para la constitución, organización y funcionamiento de las organizaciones ganaderas en el país, que se integren para la protección de los intereses de sus miembros; así c",
       "pattern_name": "constitucion_bare",
@@ -49,7 +49,7 @@
       "source_law": "ley-de-organizaciones-ganaderas",
       "source_article": "5o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "cción nacional; y  XV. Las demás que se deriven de su naturaleza, de sus estatutos y las que les señalen otros ordenamientos legales.  CAPÍTULO II De la constitución, organización y registro",
       "pattern_name": "constitucion_bare",
@@ -61,7 +61,7 @@
       "source_law": "ley-de-organizaciones-ganaderas",
       "source_article": "6o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "noveno",
       "citation_text": "ARTÍCULO 6o.- Los ganaderos del país tendrán en todo momento el derecho de asociarse libre y voluntariamente, de conformidad al artículo noveno Constitucional.  Las asociaciones ganaderas locales y las uniones ganaderas regionales podrán ser de carácter general o especializado.",
       "pattern_name": "articulo_constitucional",
@@ -73,7 +73,7 @@
       "source_law": "ley-de-organizaciones-ganaderas",
       "source_article": "7o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ARTÍCULO 7o.- La Secretaría registrará la constitución, organización y funcionamiento de las organizaciones ganaderas, previo cumplimiento de los requisitos establecidos en la presente Ley, sus Reglamento",
       "pattern_name": "constitucion_bare",
@@ -100,7 +100,7 @@
       "source_law": "ley-de-organizaciones-ganaderas",
       "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "35, fracción III y 41, fracción I, parte final del segundo párrafo",
       "citation_text": "ta alguna.  La participación política de sus agremiados en lo individual, se realizará libre y voluntariamente en los términos de lo señalado por los artículos 35, fracción III y 41, fracción I, parte final del segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.  CAPÍTULO III De la disolución",
       "pattern_name": "constitucion_full",
@@ -137,34 +137,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-de-organizaciones-ganaderas",
-      "source_article": "26",
-      "target_law_raw": "Ley que se abroga",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "stituyeron y de los beneficios que les otorga el artículo 11 de esta Ley.  QUINTO.- Los órganos directivos de las agrupaciones ganaderas constituidas de conformidad con la Ley que se abroga, y que a la entrada en vigor de este ordenamiento no hayan concluido el periodo para el cual fueron electos, continuarán desempeñando su encargo, a c",
-      "pattern_name": "conformidad",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 1563,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6206896551724138,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-organizaciones-ganaderas",
-      "source_article": "26",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Clarisa Torres Méndez, Secretario.- Sen. Gabriel Covarrubias Ibarra, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2958
     }
   ],
-  "resolved_at": "2026-04-02T10:39:38.108850+00:00"
+  "resolved_at": "2026-04-02T11:10:27.589938+00:00"
 }

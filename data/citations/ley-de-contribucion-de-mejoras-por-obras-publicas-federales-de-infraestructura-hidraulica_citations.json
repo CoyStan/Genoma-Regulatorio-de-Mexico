@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-  "extracted_at": "2026-04-02T10:38:36.472213+00:00",
-  "total_citations": 7,
+  "extracted_at": "2026-04-02T11:09:18.669918+00:00",
+  "total_citations": 1,
   "citations": [
     {
       "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
@@ -17,94 +17,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de coordinación fiscal"
-    },
-    {
-      "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-      "source_article": "15",
-      "target_law_raw": "Ley de Contribución de Mejoras por Obras Públicas de Infraestructura Hidráulica",
-      "target_law_id": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-      "target_article": null,
-      "citation_text": "raestructura hidráulica, seguirán vigentes.  ARTICULO CUARTO.- Los contribuyentes que venían cubriendo el importe de los créditos fiscales a su cargo en los términos de la Ley de Contribución de Mejoras por Obras Públicas de Infraestructura Hidráulica, en vigor hasta el 31 de diciembre de 1990, lo continuarán haciendo en los términos de dicha Ley.  ARTICULO QUINTO.- Las obras públicas que se pongan",
-      "pattern_name": "en_los_terminos",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 1059,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9404761904761905,
-      "resolution_matched_alias": "ley de contribución de mejoras por obras públicas federales de infraestructura hidráulica"
-    },
-    {
-      "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-      "source_article": "15",
-      "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-del-impuesto-sobre-la-renta",
-      "target_article": null,
-      "citation_text": " Público y las personas morales que se dediquen a actividades agrícolas, ganaderas, silvícolas o pesqueras que en 1989 tributaban en el Título III de la Ley del Impuesto sobre la Renta, gozarán de los siguientes beneficios:  I.- Se les condona el impuesto sobre la renta y el impuesto al activo que hubieren causado por los meses de o",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2590,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-      "source_article": "15",
-      "target_law_raw": "Ley del impuesto mencionado",
-      "target_law_id": "ley-del-impuesto-sobre-la-renta",
-      "target_article": null,
-      "citation_text": " ingresos que no excedieron de trescientos millones de pesos y que puedan considerar como salida la prevista en la fracción XII del artículo 119-E de la Ley del impuesto mencionado, no estarán obligados a cumplir con requisito alguno para considerar dicha salida.  QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impue",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4097,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-      "source_article": "15",
-      "target_law_raw": "Ley del Impuesto al Valor Agregado y 8o",
-      "target_law_id": "ley-del-impuesto-al-valor-agregado",
-      "target_article": null,
-      "citation_text": "uesto mencionado, no estarán obligados a cumplir con requisito alguno para considerar dicha salida.  QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.  SEXTO.- Se ratifican los acuerdos",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4261,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9315068493150684,
-      "resolution_matched_alias": "ley del impuesto al valor agregado"
-    },
-    {
-      "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-      "source_article": "15",
-      "target_law_raw": "Ley del Impuesto Especial sobre Producción y Servicios",
-      "target_law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-      "target_article": null,
-      "citation_text": "on requisito alguno para considerar dicha salida.  QUINTO.- Lo dispuesto en los artículos 2o.- D de la Ley del Impuesto al Valor Agregado y 8o.- B de la Ley del Impuesto Especial sobre Producción y Servicios, se aplicará a partir del 1o. de octubre de 1990.  SEXTO.- Se ratifican los acuerdos en materia fiscal otorgados durante 1990 a los contribuyentes qu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4311,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto especial sobre producción y servicios"
-    },
-    {
-      "source_law": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
-      "source_article": "15",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "",
-      "citation_text": " Verdugo Rosas, Secretario.- Sen. Gustavo Almaraz Montaño, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo ",
-      "pattern_name": "constitucion_bare",
-      "pattern_group": "constitutional",
-      "confidence": "medium",
-      "char_offset": 5397
     }
   ],
-  "resolved_at": "2026-04-02T10:39:16.749695+00:00"
+  "resolved_at": "2026-04-02T11:10:12.697333+00:00"
 }

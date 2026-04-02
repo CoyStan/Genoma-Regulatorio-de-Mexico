@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-premios-estimulos-y-recompensas-civiles",
-  "extracted_at": "2026-04-02T10:38:38.148557+00:00",
-  "total_citations": 13,
+  "extracted_at": "2026-04-02T11:09:19.888691+00:00",
+  "total_citations": 9,
   "citations": [
     {
       "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
@@ -52,7 +52,7 @@
       "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
       "source_article": "87",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": " de entre los servidores públicos que prestan sus servicios en las dependencias o entidades cuyas relaciones laborales se rigen por el apartado B del artículo 123 Constitucional, de conformidad con lo dispuesto por el artículo 98 de la presente Ley. Artículo adicionado DOF 15-01-1980. Reformado DOF 07-03-2003 (renumerado, ant",
       "pattern_name": "articulo_constitucional",
@@ -64,7 +64,7 @@
       "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
       "source_article": "92",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "seleccionados de entre aquéllos que prestan sus servicios en las dependencias y entidades cuyas relaciones laborales se rigen por el apartado \"B\" del artículo 123 Constitucional.  Para el otorgamiento de los estímulos y recompensas a que se refiere el párrafo anterior, deberá seleccionarse de entre los servidores públicos a a",
       "pattern_name": "articulo_constitucional",
@@ -76,7 +76,7 @@
       "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
       "source_article": "112",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " post mortem, para honrar la memoria de defensores de los derechos humanos que hayan luchado por la vigencia efectiva de las garantías consignadas en la Constitución Política de los Estados Unidos Mexicanos, así como lo establecido en las convenciones internacionales suscritas por el Gobierno de la República en ma",
       "pattern_name": "constitucion_bare",
@@ -117,68 +117,8 @@
     {
       "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
       "source_article": "131",
-      "target_law_raw": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
-      "target_law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "target_article": null,
-      "citation_text": "rnación, Santiago Creel Miranda.- Rúbrica.   DECRETO por el que se expide la Ley General de Desarrollo Forestal Sustentable y se reforman y adicionan la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Orgánica de la Administración Pública Federal y la Ley de Premios, Estímulos y Recompensas Civiles.  Publicado en el Diario Oficial de la Fed",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10952,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general del equilibrio ecológico y la protección al ambiente"
-    },
-    {
-      "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
-      "source_article": "131",
-      "target_law_raw": "Ley Orgánica de la Administración Pública Federal y la Ley de Premios",
-      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
-      "target_article": null,
-      "citation_text": "pide la Ley General de Desarrollo Forestal Sustentable y se reforman y adicionan la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Orgánica de la Administración Pública Federal y la Ley de Premios, Estímulos y Recompensas Civiles.  Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003  ARTICULOS TRANSITORIOS DE LA LEY GENERAL",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11021,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
-    },
-    {
-      "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
-      "source_article": "131",
-      "target_law_raw": "LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE",
-      "target_law_id": "ley-general-de-desarrollo-forestal-sustentable",
-      "target_article": null,
-      "citation_text": "Ley de Premios, Estímulos y Recompensas Civiles.  Publicado en el Diario Oficial de la Federación el 25 de febrero de 2003  ARTICULOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE  PRIMERO.- ..........  SEGUNDO.- La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.  TERCER",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11229,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de desarrollo forestal sustentable"
-    },
-    {
-      "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
-      "source_article": "131",
-      "target_law_raw": "LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE",
-      "target_law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
-      "target_article": null,
-      "citation_text": "l 91-D de la Ley de Premios, Estímulos y Recompensas Civiles, para quedar como sigue:  ..........  ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.  ARTICULO UNICO. Las presentes reformas entrar",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11729,
-      "resolution_confidence": "high",
-      "resolution_score": 0.96875,
-      "resolution_matched_alias": "ley general del equilibrio ecológico y la protección al ambiente"
-    },
-    {
-      "source_law": "ley-de-premios-estimulos-y-recompensas-civiles",
-      "source_article": "131",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": " Zayas, D. P.- Germán Corona del Rosal, S. S.- José Luis Estrada Delgadillo, D. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
@@ -187,5 +127,5 @@
       "char_offset": 1277
     }
   ],
-  "resolved_at": "2026-04-02T10:39:38.907982+00:00"
+  "resolved_at": "2026-04-02T11:10:28.143539+00:00"
 }

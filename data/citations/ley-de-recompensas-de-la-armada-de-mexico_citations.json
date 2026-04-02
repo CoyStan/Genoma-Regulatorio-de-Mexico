@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-recompensas-de-la-armada-de-mexico",
-  "extracted_at": "2026-04-02T10:38:38.249134+00:00",
-  "total_citations": 6,
+  "extracted_at": "2026-04-02T11:09:19.955576+00:00",
+  "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
@@ -77,19 +77,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5306122448979592,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
-      "source_article": "69",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "quierdo, D.P.- Rafael Armando Herrera Morales, S.S.- Arturo Contreras Cuevas, D.S.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1190
     }
   ],
-  "resolved_at": "2026-04-02T10:39:39.841083+00:00"
+  "resolved_at": "2026-04-02T11:10:28.623110+00:00"
 }

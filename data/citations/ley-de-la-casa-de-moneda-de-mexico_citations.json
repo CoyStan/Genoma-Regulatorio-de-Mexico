@@ -1,13 +1,13 @@
 {
   "law_id": "ley-de-la-casa-de-moneda-de-mexico",
-  "extracted_at": "2026-04-02T10:38:37.541501+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-04-02T11:09:19.451562+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "28",
       "citation_text": "ARTICULO 1o.- La acuñación de moneda es una función que ejerce de manera exclusiva el Estado en los términos del Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y de las leyes y decretos del Congreso de la Unión, y conforme a las políticas y lineamientos establecidos por el Ejecutivo Federal, a través de la S",
       "pattern_name": "constitucion_full",
@@ -108,30 +108,15 @@
     {
       "source_law": "ley-de-la-casa-de-moneda-de-mexico",
       "source_article": "17",
-      "target_law_raw": "Ley de la Casa de Moneda",
-      "target_law_id": "ley-de-la-casa-de-moneda-de-mexico",
-      "target_article": null,
-      "citation_text": "rio de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  FE de erratas a la Ley de la Casa de Moneda publicada el 20 de enero de 1986.  Publicada en el Diario Oficial de la Federación el 21 de enero de 1986  En la página cinco, primera columna, quinto párrafo, 6o. y 7o. renglones, d",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 2864,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8275862068965517,
-      "resolution_matched_alias": "ley de la casa de moneda de méxico"
-    },
-    {
-      "source_law": "ley-de-la-casa-de-moneda-de-mexico",
-      "source_article": "17",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
-      "citation_text": "ARTICULO 17.- Las relaciones de trabajo entre la Casa de Moneda de México y sus trabajadores, se regirán por el apartado \"B\" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.  TRANSITORIOS  PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. ",
+      "citation_text": "ARTICULO 17.- Las relaciones de trabajo entre la Casa de Moneda de México y sus trabajadores, se regirán por el apartado \"B\" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria.",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
       "char_offset": 129
     }
   ],
-  "resolved_at": "2026-04-02T10:39:32.869768+00:00"
+  "resolved_at": "2026-04-02T11:10:23.667629+00:00"
 }

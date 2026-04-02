@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
-  "extracted_at": "2026-04-02T10:38:39.932483+00:00",
-  "total_citations": 7,
+  "extracted_at": "2026-04-02T11:09:21.118447+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
@@ -22,7 +22,7 @@
       "source_law": "ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " se interpretará favoreciendo en todo tiempo la protección más amplia de los derechos de la Persona Desaparecida y sus Familiares, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales en materia de derechos humanos en los que el Estado Mexicano sea parte, la",
       "pattern_name": "constitucion_bare",
@@ -79,26 +79,14 @@
       "source_law": "ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
       "source_article": "22",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 22.- La Declaración Especial de Ausencia tendrá efectos de carácter general y universal de acuerdo a los criterios del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos y de los tratados internacionales en materia de derechos humanos en los que el Estado Mexicano sea parte, as",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 144
-    },
-    {
-      "source_law": "ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
-      "source_article": "33",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Juan Gerardo Flores Ramírez, Secretario.- Dip. Ernestina Godoy Ramos, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a trece",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1479
     }
   ],
-  "resolved_at": "2026-04-02T10:39:56.960243+00:00"
+  "resolved_at": "2026-04-02T11:10:39.984789+00:00"
 }

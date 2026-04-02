@@ -1,13 +1,13 @@
 {
   "law_id": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
-  "extracted_at": "2026-04-02T10:38:44.808627+00:00",
-  "total_citations": 8,
+  "extracted_at": "2026-04-02T11:09:24.537103+00:00",
+  "total_citations": 7,
   "citations": [
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "93 de la Constitución General de la República en materia de las facultades",
       "citation_text": "Artículo 1. Esta ley es de orden público y tiene como objeto reglamentar el artículo 93 de la Constitución General de la República en materia de las facultades constitucionales del Senado de requerir información a los secretarios de estado, jefes de departamento administrativo, así como a los directores de los organismos des",
       "pattern_name": "articulo_constitucional",
@@ -34,7 +34,7 @@
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "rtículo 2. Para los efectos de esta ley se entenderá por tratados lo establecido por la Ley Sobre la Celebración de Tratados.  Estarán de acuerdo con la Constitución General de la República respetando:  I. Las garantías individuales, y  II. La división de poderes, la distribución de facultades y las potestades de ",
       "pattern_name": "constitucion_bare",
@@ -46,7 +46,7 @@
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "Promover la transparencia en las relaciones comerciales internacionales y el pleno respeto a los principios de política exterior de la fracción X del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos.  SECCIÓN II OBJETIVOS PARTICULARES",
       "pattern_name": "constitucion_full",
@@ -75,7 +75,7 @@
       "target_law_raw": "Ley de Comercio Exterior",
       "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
-      "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.  ARTÍCULOS TRANSITORIOS  PRIMERO. La presente Ley entrará",
+      "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
@@ -90,7 +90,7 @@
       "target_law_raw": "Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten",
       "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
-      "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.  ARTÍCULOS TRANSITORIOS  PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUND",
+      "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
@@ -98,19 +98,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley sobre la celebración de tratados"
-    },
-    {
-      "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
-      "source_article": "14",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "e.- Sen. Lydia Madero García, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 887
     }
   ],
-  "resolved_at": "2026-04-02T10:40:38.750608+00:00"
+  "resolved_at": "2026-04-02T11:11:10.135994+00:00"
 }

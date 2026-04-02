@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-02T10:42:10.511658+00:00",
-  "total_definitions": 925,
-  "total_conflicts": 55,
+  "generated_at": "2026-04-02T11:11:14.959068+00:00",
+  "total_definitions": 888,
+  "total_conflicts": 54,
   "top_conflicts": [
     {
       "term": "secretaría",
@@ -782,32 +782,6 @@
       ]
     },
     {
-      "term": "equivalente",
-      "num_laws": 3,
-      "laws": [
-        "ley-del-impuesto-al-valor-agregado",
-        "ley-del-impuesto-al-valor-agregado",
-        "ley-del-impuesto-especial-sobre-produccion-y-servicios"
-      ],
-      "definitions": [
-        {
-          "law_id": "ley-del-impuesto-al-valor-agregado",
-          "article": "43",
-          "definition": "la diferencia entre el monto del impuesto establecido en este Ordenamiento y las cantidades que de acuerdo con el mismo pudieren ser acreditadas"
-        },
-        {
-          "law_id": "ley-del-impuesto-al-valor-agregado",
-          "article": "43",
-          "definition": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas"
-        },
-        {
-          "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-          "article": "29",
-          "definition": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas"
-        }
-      ]
-    },
-    {
       "term": "fondo",
       "num_laws": 3,
       "laws": [
@@ -1440,6 +1414,26 @@
           "definition": "ingreso acumulable un monto equivalente al 3% del monto deducido conforme a esta fracción, en cada uno de los ejercicios que transcurran desde el ejercicio en el que se adquirió el terreno y hasta el "
         }
       ]
+    },
+    {
+      "term": "trabajadores",
+      "num_laws": 2,
+      "laws": [
+        "ley-federal-del-trabajo",
+        "ley-federal-del-trabajo"
+      ],
+      "definitions": [
+        {
+          "law_id": "ley-federal-del-trabajo",
+          "article": "729",
+          "definition": "los apoderados, y\nFracción reformada DOF 30-11-2012, 01-05-2019\n\nIII"
+        },
+        {
+          "law_id": "ley-federal-del-trabajo",
+          "article": "731",
+          "definition": "los apoderados ni a los funcionarios públicos que incumplan o sean omisos con un requerimiento u orden judicial"
+        }
+      ]
     }
   ],
   "all_definitions": [
@@ -1600,38 +1594,6 @@
       "definition_text": "a) La documentación aduanal exigida por la Ley.",
       "raw_snippet": "Para los efectos del Artículo anterior:",
       "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "263",
-      "term": "que la devolución está",
-      "definition_text": "disposición del contribuyente cuando se le notifique la autorización de la devolución respectiva",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "263",
-      "term": "que la actualización de las cantidades",
-      "definition_text": "que se refiere dicho párrafo se ha realizado por última vez en el mes de julio de 2003, salvo las cantidades a que se refiere el Capítulo II del Título IV de dicho ordenamiento, mismas que deberán ser actualizadas en el mes de enero de 2004, a partir de la última actualización que hayan sufrido",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "84",
-      "term": "como fecha de presentación de la declaración,",
-      "definition_text": "en que sea recibida la forma oficial que contenga la declaración correspondiente, presentada para efectos de la asignación del pago de conformidad con la presente regla",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "codigo-fiscal-de-la-federacion",
-      "law_name": "CÓDIGO Fiscal de la Federación",
-      "article": "21",
-      "term": "hasta la centésima y, en su caso, se ajustará",
-      "definition_text": "la centésima inmediata superior cuando el dígito de la milésima sea igual o mayor a 5 y cuando la milésima sea menor a 5 se mantendrá la tasa a la centésima que haya resultado",
-      "extraction_method": "se_considera"
     },
     {
       "law_id": "codigo-militar-de-procedimientos-penales",
@@ -4436,46 +4398,6 @@
       "extraction_method": "se_considera"
     },
     {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "que la actividad se realiza en el local que sirva de base",
-      "definition_text": "la persona que proporcione dichos servicios",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "equivalente",
-      "definition_text": "la diferencia entre el monto del impuesto establecido en este Ordenamiento y las cantidades que de acuerdo con el mismo pudieren ser acreditadas",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "equivalente",
-      "definition_text": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "el albergue sin incluir",
-      "definition_text": "los alimentos y demás servicios relacionados con los mismos",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-al-valor-agregado",
-      "law_name": "LEY del Impuesto al Valor Agregado",
-      "article": "43",
-      "term": "el albergue sin incluir",
-      "definition_text": "los alimentos y demás servicios relacionados con los mismos",
-      "extraction_method": "se_considera"
-    },
-    {
       "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
       "law_name": "LEY del Impuesto Especial sobre Producción y Servicios",
       "article": "7o",
@@ -4505,14 +4427,6 @@
       "article": "18-A",
       "term": "que se prestan los servicios en territorio nacional,",
       "definition_text": "través de una o más redes públicas de telecomunicaciones a que se refiere el artículo 2o., fracción II, inciso C), de esta Ley, cuando éstos se lleven a cabo en el mismo, total o parcialmente",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
-      "law_name": "LEY del Impuesto Especial sobre Producción y Servicios",
-      "article": "29",
-      "term": "equivalente",
-      "definition_text": "la diferencia entre el monto del impuesto establecido en este ordenamiento y las cantidades, que de acuerdo con el mismo pudieren ser acreditadas",
       "extraction_method": "se_considera"
     },
     {
@@ -5237,238 +5151,6 @@
       "definition_text": "Aquélla que de divulgarse pueda causar un daño o perjuicio en la posición competitiva de quie",
       "raw_snippet": "Para los efectos de esta Ley,",
       "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "los siguientes campos",
-      "definition_text": "a)\tEn el área de Magallanes Cinco Presidentes:",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "blasillo",
-      "definition_text": "2.\tCinco Presidentes;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "la venta",
-      "definition_text": "4.\tMagallanes;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "ogarrio",
-      "definition_text": "6.\tOtates;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "rodador",
-      "definition_text": "8.\tSan Alfonso, y",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "san ramón",
-      "definition_text": "b)\tEn el área de Arenque:",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "arenque",
-      "definition_text": "2.\tAtún;\n\n3.\tBagre;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "carpa",
-      "definition_text": "5.\tEscualo;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "isla de lobos",
-      "definition_text": "7.\tJurel;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "lobina",
-      "definition_text": "9.\tMarsopa;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "mejillón",
-      "definition_text": "11.\tMorsa;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "en el área de altamira",
-      "definition_text": "1.\tAltamira;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "barcodón",
-      "definition_text": "3.\tCacalilao;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "corcovado",
-      "definition_text": "5.\tÉbano;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "limón",
-      "definition_text": "7.\tPánuco;",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "salinas",
-      "definition_text": "9.\tTamaulipas Constituciones, y",
-      "raw_snippet": "Para los efectos del artículo 258 Quater de la Ley Federal de Derechos, el inventario de campos marg",
-      "extraction_method": "definition_block"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como fecha de presentación de la declaración,",
-      "definition_text": "en que sea recibida la forma oficial que contenga la declaración correspondiente, presentada para efectos de la asignación del pago de conformidad con la presente regla",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
-    },
-    {
-      "law_id": "ley-federal-de-derechos",
-      "law_name": "LEY Federal de Derechos",
-      "article": "292",
-      "term": "como capital mínimo requerido para funcionar",
-      "definition_text": "casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión",
-      "extraction_method": "se_considera"
     },
     {
       "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",

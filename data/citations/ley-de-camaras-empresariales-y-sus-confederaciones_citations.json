@@ -1,13 +1,13 @@
 {
   "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
-  "extracted_at": "2026-04-02T10:38:36.337119+00:00",
-  "total_citations": 10,
+  "extracted_at": "2026-04-02T11:09:18.564139+00:00",
+  "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 1.- La presente Ley es de orden público y de observancia en todo el territorio nacional.  Tiene por objeto normar la constitución y funcionamiento de las Cámaras de Comercio, Servicios y Turismo y de las Cámaras de Industria, así como de las Confederaciones que las agrupan.  Tam",
       "pattern_name": "constitucion_bare",
@@ -19,7 +19,7 @@
       "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "el territorio nacional y es regida por un gobierno conformado por los Poderes Ejecutivo, Legislativo y Judicial en un Estado de Derecho enmarcado por la Constitución General de la República y las Leyes que se derivan de ella.  II. Secretaría: la Secretaría de Economía.  III. Comerciantes: las personas físicas y mo",
       "pattern_name": "constitucion_bare",
@@ -31,7 +31,7 @@
       "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 6.- La Secretaría tendrá las siguientes atribuciones y facultades:  I. Autorizar, previa opinión de la Confederación correspondiente, la constitución de nuevas Cámaras;  II. Registrar las delegaciones de las Cámaras;  III. Coadyuvar al fortalecimiento de las Cámaras y sus Confederaciones;  IV. Auto",
       "pattern_name": "constitucion_bare",
@@ -43,7 +43,7 @@
       "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " cumplimiento de su objeto, en los términos establecidos en el capítulo VIII del presente título de esta Ley y de su Reglamento.  Capítulo Tercero De la Constitución de las Cámaras",
       "pattern_name": "constitucion_bare",
@@ -55,7 +55,7 @@
       "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
       "source_article": "12",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "or parte de la o las Cámaras afectadas y se cumple con lo estipulado en los artículos 13 y 14 de esta Ley, publicará el proyecto de autorización para la constitución de la Cámara en el Diario Oficial de la Federación, a efecto de que dentro de los sesenta días naturales siguientes, quienes tengan interés jurídico ",
       "pattern_name": "constitucion_bare",
@@ -99,7 +99,7 @@
       "target_law_raw": "Ley Federal de Procedimiento Administrativo",
       "target_law_id": "ley-federal-de-procedimiento-administrativo",
       "target_article": null,
-      "citation_text": "as resoluciones dictadas por la Secretaría, con fundamento en esta Ley y demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los términos de la Ley Federal de Procedimiento Administrativo.  TRANSITORIOS  ARTÍCULO PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  ARTÍCULO SEGU",
+      "citation_text": "as resoluciones dictadas por la Secretaría, con fundamento en esta Ley y demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los términos de la Ley Federal de Procedimiento Administrativo.",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
@@ -107,34 +107,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
-      "source_article": "45",
-      "target_law_raw": "Ley de Cámaras Empresariales",
-      "target_law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
-      "target_article": null,
-      "citation_text": "adiciona una fracción VIII, recorriéndose las fracciones VIII a X, manteniendo su contenido para quedar como fracciones IX, X y XI del artículo 22 de la Ley de Cámaras Empresariales y sus Confederaciones, para quedar como sigue:  .  TRANSITORIO  Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de l",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3035,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de cámaras empresariales"
-    },
-    {
-      "source_law": "ley-de-camaras-empresariales-y-sus-confederaciones",
-      "source_article": "45",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2162
     }
   ],
-  "resolved_at": "2026-04-02T10:39:15.684110+00:00"
+  "resolved_at": "2026-04-02T11:10:12.052899+00:00"
 }

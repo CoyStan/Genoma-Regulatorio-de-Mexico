@@ -1,13 +1,13 @@
 {
   "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
-  "extracted_at": "2026-04-02T10:38:38.185711+00:00",
-  "total_citations": 7,
+  "extracted_at": "2026-04-02T11:09:19.910307+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 1. La presente Ley es reglamentaria de los artículos 27, 48 y 73, fracción XXIX-M, de la Constitución Política de los Estados Unidos Mexicanos, en materia de seguridad y protección del Espacio Aéreo Mexicano. Sus disposiciones son de observancia gener",
       "pattern_name": "constitucion_bare",
@@ -89,19 +89,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de aviación civil"
-    },
-    {
-      "source_law": "ley-de-proteccion-del-espacio-aereo-mexicano",
-      "source_article": "26",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2456
     }
   ],
-  "resolved_at": "2026-04-02T10:39:39.177990+00:00"
+  "resolved_at": "2026-04-02T11:10:28.223285+00:00"
 }

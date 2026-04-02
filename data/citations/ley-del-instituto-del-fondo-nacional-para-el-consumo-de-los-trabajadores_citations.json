@@ -1,7 +1,7 @@
 {
   "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-  "extracted_at": "2026-04-02T10:38:39.116682+00:00",
-  "total_citations": 18,
+  "extracted_at": "2026-04-02T11:09:20.519691+00:00",
+  "total_citations": 15,
   "citations": [
     {
       "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
@@ -82,7 +82,7 @@
       "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
       "source_article": "7",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "Artículo 7.- Las relaciones de trabajo entre el Instituto y su personal se regirán por la Ley Federal del Trabajo, reglamentaria del Apartado \"A\" del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.  CAPÍTULO II De las Atribuciones del Instituto",
       "pattern_name": "constitucion_full",
@@ -216,7 +216,7 @@
       "target_law_raw": "Ley de Instituciones de Crédito y su importe se cargará al patrimonio líquido del Instituto",
       "target_law_id": "ley-de-instituciones-de-credito",
       "target_article": null,
-      "citation_text": " cincuenta mil veces el salario mínimo general vigente en el Distrito Federal. Para la imposición de las multas, la Comisión seguirá el procedimiento establecido en la Ley de Instituciones de Crédito y su importe se cargará al patrimonio líquido del Instituto.  TRANSITORIOS  PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- Se de",
+      "citation_text": " cincuenta mil veces el salario mínimo general vigente en el Distrito Federal. Para la imposición de las multas, la Comisión seguirá el procedimiento establecido en la Ley de Instituciones de Crédito y su importe se cargará al patrimonio líquido del Instituto.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
@@ -224,49 +224,7 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley de instituciones de crédito"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-      "source_article": "33",
-      "target_law_raw": "Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas",
-      "target_law_id": "ley-federal-de-competencia-economica",
-      "target_article": null,
-      "citation_text": "mendaciones a las autoridades financieras para mejorar la competencia en este sistema y sus mercados y ejercer las demás atribuciones que le confiere la Ley Federal de Competencia Económica a fin de evitar prácticas monopólicas, concentraciones y demás restricciones al funcionamiento eficiente de los mercados en este sistema, incluyendo, según corresponda, ordenar medidas pa",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8584,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-      "source_article": "33",
-      "target_law_raw": "Ley de Protección y Defensa al Usuario de Servicios Financieros respecto a la información del Buró de Entidades Financieras",
-      "target_law_id": "ley-federal-de-proteccion-al-consumidor",
-      "target_article": null,
-      "citation_text": " el Buró de Entidades Financieras, contados a partir de la entrada en vigor del presente Decreto.  Además de lo estipulado por el artículo 8o. Bis de la Ley de Protección y Defensa al Usuario de Servicios Financieros respecto a la información del Buró de Entidades Financieras; se deberá incluir como mínimo la información relacionada con reclamaciones, consultas, dictámenes, sanciones administrativas, así como, la eliminaci",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10286,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de protección al consumidor"
-    },
-    {
-      "source_law": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
-      "source_article": "33",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ta.- Sen. Saúl López Sollano, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 6906
     }
   ],
-  "resolved_at": "2026-04-02T10:39:49.005774+00:00"
+  "resolved_at": "2026-04-02T11:10:34.101960+00:00"
 }

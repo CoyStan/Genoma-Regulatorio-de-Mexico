@@ -1,6 +1,6 @@
 {
   "law_id": "ley-que-crea-la-universidad-autonoma-chapingo",
-  "extracted_at": "2026-04-02T10:38:44.641561+00:00",
+  "extracted_at": "2026-04-02T11:09:24.431128+00:00",
   "total_citations": 8,
   "citations": [
     {
@@ -22,7 +22,7 @@
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "4o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "arta;  VI.- Establecer las políticas de ingreso y permanencia de alumnos y del personal académico, atendiendo para ello lo señalado en el Art. 3o. de la Constitución Política y en el Art. 5o. de la Ley Federal de Educación, y demás leyes aplicables;  VII.- Prestar asistencia técnica y servicio social a comunidades",
       "pattern_name": "constitucion_bare",
@@ -49,7 +49,7 @@
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "idad Autónoma Chapingo y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.",
       "pattern_name": "articulo_constitucional",
@@ -76,7 +76,7 @@
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "15",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": ", de conformidad con lo dispuesto por el Artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.",
       "pattern_name": "articulo_constitucional",
@@ -103,7 +103,7 @@
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "isco Luna Kan, S. P.- José Octavio Ferrer Guzmán, D. S.- Carlos Pérez Cámara, S. S.- Rúbricas\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, D. F., ",
       "pattern_name": "constitucion_full",
@@ -112,5 +112,5 @@
       "char_offset": 2542
     }
   ],
-  "resolved_at": "2026-04-02T10:40:37.438867+00:00"
+  "resolved_at": "2026-04-02T11:11:08.881682+00:00"
 }

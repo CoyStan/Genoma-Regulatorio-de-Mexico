@@ -1,7 +1,7 @@
 {
   "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
-  "extracted_at": "2026-04-02T10:38:43.831431+00:00",
-  "total_citations": 9,
+  "extracted_at": "2026-04-02T11:09:23.838636+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
@@ -22,7 +22,7 @@
       "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ara el desistimiento de la conducta del agresor;  II.\tLegalidad: para que la acción de las instituciones de seguridad se realice con estricto apego a la Constitución, a las leyes y a los Tratados Internacionales de los que el Estado mexicano sea parte;  III.\tPrevención: para que los operativos para el cumplimiento",
       "pattern_name": "constitucion_bare",
@@ -89,49 +89,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.6666666666666666,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
-      "source_article": "44",
-      "target_law_raw": "Ley Nacional sobre el Uso de la Fuerza en su integridad",
-      "target_law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
-      "target_article": null,
-      "citation_text": " se resuelve la acción de inconstitucionalidad 64/2019 promovida por la Comisión Nacional de los Derechos Humanos, en la que solicita la invalidez de la Ley Nacional sobre el Uso de la Fuerza en su integridad, con motivo de diversas omisiones legislativas relativas en competencia de ejercicio obligatorio, así como la invalidez, en particular, de los artícu",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7519,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8172043010752689,
-      "resolution_matched_alias": "ley nacional sobre el uso de la fuerza"
-    },
-    {
-      "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
-      "source_article": "44",
-      "target_law_raw": "Ley Nacional Sobre Uso de la Fuerza",
-      "target_law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
-      "target_article": null,
-      "citation_text": "s artículos 6, fracción VI, en la porción normativa fuerza epiletal, 27, primer párrafo, 28 y 36, en la porción normativa desde la planeación, de la Ley Nacional Sobre Uso de la Fuerza, expedida por Decreto publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve.    227.\tEn términos de lo expuest",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7869,
-      "resolution_confidence": "high",
-      "resolution_score": 0.958904109589041,
-      "resolution_matched_alias": "ley nacional sobre el uso de la fuerza"
-    },
-    {
-      "source_law": "ley-nacional-sobre-el-uso-de-la-fuerza",
-      "source_article": "44",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Nancy de la Sierra Arámburo, Secretaria.- Dip. Julieta Macías Rábago, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 27 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1039
     }
   ],
-  "resolved_at": "2026-04-02T10:40:30.866031+00:00"
+  "resolved_at": "2026-04-02T11:11:03.376550+00:00"
 }

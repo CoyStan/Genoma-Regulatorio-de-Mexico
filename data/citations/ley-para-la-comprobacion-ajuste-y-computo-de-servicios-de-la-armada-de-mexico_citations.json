@@ -1,7 +1,7 @@
 {
   "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
-  "extracted_at": "2026-04-02T10:38:44.346916+00:00",
-  "total_citations": 4,
+  "extracted_at": "2026-04-02T11:09:24.176839+00:00",
+  "total_citations": 2,
   "citations": [
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
@@ -32,34 +32,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del instituto de seguridad social para las fuerzas armadas mexicanas"
-    },
-    {
-      "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
-      "source_article": "25",
-      "target_law_raw": "Ley para la Comprobación",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "sciplinario.  TRANSITORIO  ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México publicada el 24 de diciembre de 1984 y sus reformas del 26 de diciembre de 1997.  México, D.F.,",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 408,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.6296296296296297,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
-      "source_article": "25",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "e.- Dip. Marcos Morales Torres, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 845
     }
   ],
-  "resolved_at": "2026-04-02T10:40:36.221347+00:00"
+  "resolved_at": "2026-04-02T11:11:07.656510+00:00"
 }

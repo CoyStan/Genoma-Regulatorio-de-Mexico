@@ -31,13 +31,13 @@ Este proyecto construye la infraestructura para responder preguntas como:
 | Métrica | Valor |
 |---------|-------|
 | Leyes analizadas | 318 |
-| Citas extraídas | 10,844 |
-| Conexiones en la red | 4,089 |
-| Comunidades regulatorias | 6 |
-| Dependencias circulares (pares) | 544 |
-| Candidatas a abrogación (score ≥ 80) | 100 (31% del corpus) |
+| Citas extraídas | 7,367 |
+| Conexiones en la red | 2,469 |
+| Comunidades regulatorias | 12 |
+| Dependencias circulares (pares) | 204 |
+| Candidatas a abrogación (score ≥ 80) | 121 (38% del corpus) |
 | Pares candidatos a fusión | 40 |
-| Términos con definición conflictiva | 50 |
+| Términos con definición conflictiva | 54 |
 
 Ver análisis completo en [`RESULTADOS.md`](RESULTADOS.md).
 

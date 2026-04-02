@@ -1,13 +1,13 @@
 {
   "law_id": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
-  "extracted_at": "2026-04-02T10:38:44.654094+00:00",
+  "extracted_at": "2026-04-02T11:09:24.437580+00:00",
   "total_citations": 4,
   "citations": [
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "2o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "uevos titulares.  V.- Promovieren o adoptaren forma de gobierno o base de organización política distintas de las fijadas en los artículos 40 y 115 de la Constitución General de la República.",
       "pattern_name": "constitucion_bare",
@@ -19,7 +19,7 @@
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "9o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "te podrá ser designado como gobernador provisional quien reúna los requisitos que establecen el artículo 115, fracción III, inciso b), 2o. párrafo de la Constitución General de la República y la Constitución del Estado de que se trate.",
       "pattern_name": "constitucion_bare",
@@ -31,7 +31,7 @@
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ARTICULO 11.- El gobernador provisional deberá:  I.- Convocar conforme a la Constitución del Estado, dentro de los tres meses siguientes a la asunción del cargo, a elecciones de gobernador y a integrantes del Congreso o legislatura estata",
       "pattern_name": "constitucion_bare",
@@ -43,14 +43,14 @@
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "15",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "lacio López, D.P.- Joaquín E. Repetto Ocampo, S.S.- Abelardo Carrillo Zavala, D.S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
-      "pattern_name": "constitucion_full",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "target_article": "",
+      "citation_text": "tes del poder judicial, los secretarios de los juzgados resolverán sobre los términos a que se refieren los artículos 19 y 20, fracciones I y III, de la Constitución General de la República.",
+      "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 599
+      "confidence": "medium",
+      "char_offset": 205
     }
   ],
-  "resolved_at": "2026-04-02T10:40:37.486222+00:00"
+  "resolved_at": "2026-04-02T11:11:08.883024+00:00"
 }

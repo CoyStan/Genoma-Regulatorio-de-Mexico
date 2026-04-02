@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-de-cultura-y-derechos-culturales",
-  "extracted_at": "2026-04-02T10:38:41.745378+00:00",
-  "total_citations": 11,
+  "extracted_at": "2026-04-02T11:09:22.291153+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-general-de-cultura-y-derechos-culturales",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 1.- La presente Ley regula el derecho a la cultura que tiene toda persona en los términos de los artículos 4o. y 73, fracción XXIX-Ñ de la Constitución Política de los Estados Unidos Mexicanos. Promueve y protege el ejercicio de los derechos culturales y establece las bases de coordinación para el ac",
       "pattern_name": "constitucion_bare",
@@ -49,7 +49,7 @@
       "source_law": "ley-general-de-cultura-y-derechos-culturales",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " tecnologías de la información y las comunicaciones para el ejercicio de los derechos culturales, y  X.\tLos demás que en la materia se establezcan en la Constitución, en los tratados internacionales de los que el Estado mexicano sea parte y en otras leyes.",
       "pattern_name": "constitucion_bare",
@@ -86,79 +86,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
-    },
-    {
-      "source_law": "ley-general-de-cultura-y-derechos-culturales",
-      "source_article": "42",
-      "target_law_raw": "Ley en un plazo no mayor de 180 días naturales",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "ustituirlas.  TERCERO. El Ejecutivo Federal expedirá el Reglamento y las disposiciones reglamentarias que sean necesarias para la debida ejecución de la Ley en un plazo no mayor de 180 días naturales, contados a partir del día de la entrada en vigor de la presente Ley.  CUARTO. El Ejecutivo Federal y las entidades federativas, en el ámbito de sus ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 878,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.5,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-cultura-y-derechos-culturales",
-      "source_article": "42",
-      "target_law_raw": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
-      "target_law_id": "ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
-      "target_article": null,
-      "citation_text": "ones que se opongan a lo dispuesto en el presente Decreto.  Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.  Cuarto. Las autoridades competentes de la Federac",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 11222,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9924812030075187,
-      "resolution_matched_alias": "ley general de acceso de las mujeres a una vida libre de violencias"
-    },
-    {
-      "source_law": "ley-general-de-cultura-y-derechos-culturales",
-      "source_article": "42",
-      "target_law_raw": "Ley General para la Igualdad entre Mujeres y Hombres",
-      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
-      "target_article": null,
-      "citation_text": " 7 de junio de 2023 en el Diario Oficial de la Federación.  Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Ken",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12439,
-      "resolution_confidence": "high",
-      "resolution_score": 0.9043478260869565,
-      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
-    },
-    {
-      "source_law": "ley-general-de-cultura-y-derechos-culturales",
-      "source_article": "42",
-      "target_law_raw": "Ley General para la Igualdad Sustantiva entre Mujeres y Hombres",
-      "target_law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
-      "target_article": null,
-      "citation_text": "s que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.  Ciudad de México, a 9 de diciembre de 2025.- Dip. Kenia López Rabadán, Presidenta.- Sen. Laura Itzel Castillo Juárez, Presidenta.- Dip. Julieta Vil",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 12522,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general para la igualdad sustantiva entre mujeres y hombres"
-    },
-    {
-      "source_law": "ley-general-de-cultura-y-derechos-culturales",
-      "source_article": "42",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Lorena Cuéllar Cisneros, Secretaria.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a dieci",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2201
     }
   ],
-  "resolved_at": "2026-04-02T10:40:13.318944+00:00"
+  "resolved_at": "2026-04-02T11:10:49.899262+00:00"
 }

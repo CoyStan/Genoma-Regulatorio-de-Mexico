@@ -16,52 +16,46 @@ Se construyó una red de citaciones del corpus jurídico federal mexicano. Cada 
 |---------|-------|
 | Leyes analizadas | 318 |
 | Nodos en la red | 318 (sin nodos fantasma) |
-| Conexiones (citas entre leyes) | 4,089 |
-| Densidad de la red | 0.040 |
-| Comunidades regulatorias detectadas | 6 |
-| Dependencias circulares (citas mutuas) | 544 |
-| Leyes aisladas | 25 |
-| Referencias huérfanas reales | 18 (todas a Ley de Vías Generales de Comunicación, abrogada) |
+| Conexiones (citas entre leyes) | 2,469 |
+| Densidad de la red | 0.025 |
+| Comunidades regulatorias detectadas | 12 |
+| Dependencias circulares (citas mutuas) | 204 |
+| Leyes aisladas | 46 |
+| Referencias huérfanas reales | 4 |
 
 ### Las 10 leyes más centrales (por PageRank)
 
 Estas leyes son las más referenciadas — reformarlas tendría el mayor impacto en cascada sobre el resto del sistema:
 
-1. **Constitución Política (CPEUM)** — citada por 316 de 318 leyes
-2. **Ley General de Sociedades Mercantiles (LGSM)** — citada por 202 leyes
-3. **Ley Orgánica del Poder Judicial de la Federación (LOPJF)** — citada por 137 leyes
-4. **Ley Federal de Competencia Económica (LFCE)** — citada por 143 leyes
-5. **Ley General de Educación (LGE)** — citada por 106 leyes
-6. **Código Nacional de Procedimientos Penales (CNPP)** — citada por 101 leyes
-7. **Ley Federal de Procedimiento Administrativo (LFPA)** — citada por 96 leyes
-8. **Ley Orgánica de la Administración Pública Federal (LOAPF)** — citada por 90 leyes
-9. **Ley Federal del Trabajo (LFT)** — citada por 92 leyes
-10. **Ley en Materia de Telecomunicaciones y Radiodifusión (LFTR)** — citada por 82 leyes
+1. **Constitución Política (CPEUM)** — citada por 260 de 318 leyes (PageRank: 0.2518)
+2. **Ley Orgánica del Congreso General (LOCG)** — PageRank: 0.0798
+3. **Ley General de Instituciones y Procedimientos Electorales (LGIPE)** — PageRank: 0.0514
+4. **Ley Federal del Trabajo (LFT)** — citada por 54 leyes (PageRank: 0.0350)
+5. **Ley del Seguro Social (LSS)** — PageRank: 0.0288
+6. **Ley del Impuesto sobre la Renta (LISR)** — citada por 47 leyes (PageRank: 0.0248)
+7. **Ley del ISSSTE** — PageRank: 0.0200
+8. **Ley General de Sociedades Mercantiles (LGSM)** — citada por 99 leyes (PageRank: 0.0191)
+9. **Ley Nacional del Registro de Detenciones (LNRD)** — PageRank: 0.0186
+10. **Ley Federal de Competencia Económica (LFCE)** — citada por 105 leyes (PageRank: 0.0176)
 
-### 6 Comunidades Regulatorias
+### 12 Comunidades Regulatorias
 
-| Comunidad | Leyes | Ley Central |
-|-----------|-------|-------------|
-| Constitucional | 98 | Constitución Política (CPEUM) |
-| Financiero / Mercantil | 65 | Ley General de Sociedades Mercantiles |
-| Administrativo / Regulación | 64 | Ley Federal de Competencia Económica |
-| Fiscal / Cultural | 60 | Ley Federal del Derecho de Autor |
-| Penal / Salud | 41 | Ley General de Salud |
-| Administrativo / Procedimental | 33 | Ley Federal de Procedimiento Administrativo |
+La red detecta 12 comunidades con la corrección de artículos transitorios (que inflan artificialmente la conectividad entre leyes). Las comunidades reflejan con mayor fidelidad la estructura real del sistema jurídico.
 
-> _Nota: Con la corrección de nodos fragmentados el número de comunidades pasó de 7 a 6, al unificarse los stubs con sus nodos reales._
+> _Nota: El aumento de 6 a 12 comunidades se explica por la exclusión de artículos transitorios del análisis. Los transitorios concentraban citas de derogación y reforma que creaban conexiones artificiales entre sectores. Sin ellos, la red es más dispersa pero más precisa._
 
-### 544 Dependencias Circulares
+### 204 Dependencias Circulares
 
-Pares de leyes que se citan mutuamente. Ejemplos notables:
-- **Ley Federal del Trabajo ↔ Ley del Seguro Social**
-- **Ley de Instituciones de Crédito ↔ Ley del Mercado de Valores**
+Pares de leyes que se citan mutuamente en su texto sustantivo (excluidos artículos transitorios). Ejemplos notables:
+- **Código Civil Federal ↔ Código Federal de Procedimientos Civiles**
+- **Código Fiscal de la Federación ↔ Ley Aduanera**
+- **Código Fiscal de la Federación ↔ Ley del Impuesto sobre la Renta**
 
-### 25 Leyes Aisladas
+### 46 Leyes Aisladas
 
-Leyes con 2 o menos conexiones: Ley de Capitalización del PROCAMPO, Ley de Recompensas de la Armada, Ley para Conservar la Neutralidad del País, entre otras.
+Leyes con pocas o ninguna conexión en su texto sustantivo: Ley de Capitalización del PROCAMPO, Ley de Recompensas de la Armada, Ley para Conservar la Neutralidad del País, entre otras.
 
-### 50 Conflictos de Definición
+### 54 Conflictos de Definición
 
 Términos definidos de forma distinta en múltiples leyes:
 - **"secretaría"** — definido en 11 leyes distintas
@@ -77,12 +71,12 @@ Basado en la red de citas, se cuantificó el potencial de reducir la complejidad
 
 | Métrica | Valor |
 |---------|-------|
-| Leyes candidatas a abrogación (score ≥ 80) | 100 (31% del corpus) |
-| Leyes completamente aisladas (0 conexiones relevantes) | 23 |
+| Leyes candidatas a abrogación (score ≥ 80) | 121 (38% del corpus) |
+| Leyes completamente aisladas (0 conexiones relevantes) | 37 |
 | Pares candidatos a fusión (citan mutuamente, mismo sector) | 40 |
 | Leyes que requieren reforma urgente (alta ambigüedad + ciclos) | 40 |
 
-> _Nota: El número convergió a 100 tras tres rondas de corrección metodológica: (1) unificación de nodos fragmentados, (2) corrección de resoluciones fuzzy erróneas por prefijo compartido "Ley General de", (3) filtrado de listas de enumeración en direct_mention. El 31% corresponde a leyes con baja integración estructural — no a leyes sin utilidad jurídica._
+> _Nota: El análisis excluye artículos transitorios del cómputo de citas. Los transitorios concentran citas de derogación y reforma que no reflejan dependencias funcionales entre leyes. El 38% corresponde a leyes con baja integración estructural en su texto sustantivo — no a leyes sin utilidad jurídica._
 
 ### Candidatas a Abrogación
 
@@ -113,7 +107,7 @@ Leyes muy referenciadas con alta ambigüedad — eliminarlas rompería el sistem
 
 ## Limitaciones Actuales
 
-- El **87.1% de las citas fueron resueltas** (10,844 de 12,444) — el 12.9% restante incluye referencias genéricas ("ley de la materia", "Reglamento de esta Ley") y leyes abrogadas
+- El **84.8% de las citas fueron resueltas** (6,249 de 7,367) — el 15.2% restante incluye referencias genéricas ("ley de la materia", "Reglamento de esta Ley") y leyes abrogadas
 - La extracción de citas es por patrones de texto (regex), no NLP — puede perder referencias complejas
 - El análisis es **estático** — no captura la evolución histórica de las reformas
 
@@ -121,7 +115,9 @@ Leyes muy referenciadas con alta ambigüedad — eliminarlas rompería el sistem
 
 ## Correcciones Metodológicas Aplicadas
 
+- **Artículos transitorios excluidos**: El parseador de artículos ahora detiene la extracción al encontrar la sección "TRANSITORIOS". Esto elimina citas de derogación/reforma que no representan dependencias funcionales entre leyes, reduciendo el total de citas de ~10,844 a 7,367 y los ciclos de 544 a 204.
 - **Falsos positivos `direct_mention`**: Se añadió filtro de contexto para excluir citas en listas de derogación, preámbulos de decretos y referencias genéricas
+- **Nodo fantasma CPEUM**: El ID hardcodeado `"constitucion-politica"` fue corregido a `"constitucion-politica-de-los-estados-unidos-mexicanos"` en el extractor de patrones constitucionales
 - **LPEMEX falso alias**: El alias "Ley Orgánica de PEMEX" atraía todas las "Ley Orgánica de X" — eliminado
 - **LFCE falso partial match**: El mecanismo de coincidencia parcial en lookup.py mapeaba todas las "Ley Federal de X" a LFCE — corregido priorizando el registro de corpus sobre coincidencias de baja confianza
 - **Registro de corpus dinámico**: Resolución ampliada de 48 leyes hardcodeadas a las 318 del corpus completo

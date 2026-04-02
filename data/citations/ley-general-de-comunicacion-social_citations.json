@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-de-comunicacion-social",
-  "extracted_at": "2026-04-02T10:38:41.651968+00:00",
-  "total_citations": 19,
+  "extracted_at": "2026-04-02T11:09:22.234727+00:00",
+  "total_citations": 18,
   "citations": [
     {
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "134",
       "citation_text": "rtículo 1.- [La presente Ley es de orden público e interés social, de observancia general en toda la República y reglamentaria del párrafo octavo del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, relativo a la propaganda, bajo cualquier modalidad de Comunicación Social.] Artículo reformado DOF 27-12-2022 Artículo declarado inválido por Resolu",
       "pattern_name": "constitucion_full",
@@ -19,7 +19,7 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 3.- [Son sujetos obligados al cumplimiento de lo dispuesto en esta Ley, los poderes públicos, los órganos a los que la Constitución Política de los Estados Unidos Mexicanos dota de autonomía, las dependencias y entidades de la administración pública y cualquier otro Ente Público d",
       "pattern_name": "constitucion_bare",
@@ -136,7 +136,7 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "rcicio del desarrollo a la libertad de expresión en la contratación y difusión de propaganda gubernamental, en términos de los artículos 6o. y 7o. de la Constitución Política de los Estados Unidos Mexicanos.] Artículo reformado DOF 27-12-2022 Artículo declarado inválido por Resolutivos de la SCJN a Acción de Incon",
       "pattern_name": "constitucion_bare",
@@ -193,7 +193,7 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "17",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "o en el caso de los Tiempos Oficiales que en distintos momentos corresponda administrar al Instituto Nacional Electoral, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y a la legislación de la materia.  La distribución de los Tiempos Fiscales se realizará en la proporción sig",
       "pattern_name": "constitucion_bare",
@@ -220,7 +220,7 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "30",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 30.- [Las dos Cámaras del Congreso de la Unión, el Poder Judicial de la Federación, así como los Órganos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, deberán prever en su Reglamento Interior u ordenamiento equivalente, el mecanismo para",
       "pattern_name": "constitucion_bare",
@@ -232,7 +232,7 @@
       "source_law": "ley-general-de-comunicacion-social",
       "source_article": "32",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 32.- [Las dos Cámaras del Congreso de la Unión, el Poder Judicial de la Federación, así como los Órganos a los que la Constitución Política de los Estados Unidos Mexicanos les otorga autonomía, deberán prever en su Reglamento Interior u ordenamiento equivalente, el mecanismo para",
       "pattern_name": "constitucion_bare",
@@ -254,19 +254,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de fiscalización y rendición de cuentas de la federación"
-    },
-    {
-      "source_law": "ley-general-de-comunicacion-social",
-      "source_article": "45",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ía Eugenia Ocampo Bedolla, Secretaria.- Sen. Itzel S. Ríos de la Mora, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a ocho ",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 3222
     }
   ],
-  "resolved_at": "2026-04-02T10:40:12.468233+00:00"
+  "resolved_at": "2026-04-02T11:10:49.200901+00:00"
 }

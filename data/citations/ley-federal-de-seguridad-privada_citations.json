@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-de-seguridad-privada",
-  "extracted_at": "2026-04-02T10:38:40.865309+00:00",
-  "total_citations": 17,
+  "extracted_at": "2026-04-02T11:09:21.661604+00:00",
+  "total_citations": 16,
   "citations": [
     {
       "source_law": "ley-federal-de-seguridad-privada",
@@ -112,7 +112,7 @@
       "source_law": "ley-federal-de-seguridad-privada",
       "source_article": "19",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "lice aquellas documentales que así lo ameriten, tales como inventarios, movimientos de personal, pago de derechos, póliza de fianza, modificaciones a la constitución de la empresa y representación de la misma, planes y programas de capacitación y adiestramiento, y demás requisitos que por su naturaleza lo requiera",
       "pattern_name": "constitucion_bare",
@@ -239,19 +239,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley federal de procedimiento administrativo"
-    },
-    {
-      "source_law": "ley-federal-de-seguridad-privada",
-      "source_article": "50",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2911
     }
   ],
-  "resolved_at": "2026-04-02T10:40:07.363327+00:00"
+  "resolved_at": "2026-04-02T11:10:45.885686+00:00"
 }

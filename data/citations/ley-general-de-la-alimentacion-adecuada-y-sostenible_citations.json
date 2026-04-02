@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
-  "extracted_at": "2026-04-02T10:38:42.118031+00:00",
-  "total_citations": 16,
+  "extracted_at": "2026-04-02T11:09:22.609144+00:00",
+  "total_citations": 14,
   "citations": [
     {
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " alimentación adecuada, en los términos establecidos en los artículos 4o., tercer párrafo; 27, fracción XX, segundo párrafo y 73, fracción XXIX-E, de la Constitución Política de los Estados Unidos Mexicanos. Sus disposiciones son de orden público, interés social y de observancia general en la República Mexicana. T",
       "pattern_name": "constitucion_bare",
@@ -19,7 +19,7 @@
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, en los términos del párrafo sexto del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, y su legislación reglamentaria.",
       "pattern_name": "constitucion_bare",
@@ -31,7 +31,7 @@
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
       "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " una alimentación adecuada.  Las obligaciones del Estado a las que se refiere el párrafo anterior se cumplirán en los términos previstos en esta Ley, la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en materia de derechos humanos de los que México sea parte, y en las demás ",
       "pattern_name": "constitucion_bare",
@@ -163,7 +163,7 @@
       "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
       "source_article": "79",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 79. La constitución del Comité de Alimentación se realizará mediante una asamblea general pública que celebren los interesados, en la que se elegirá democráticamente a u",
       "pattern_name": "constitucion_bare",
@@ -200,34 +200,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de responsabilidades administrativas"
-    },
-    {
-      "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
-      "source_article": "111",
-      "target_law_raw": "Reglamento de la Ley que se expide",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "Dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto, la persona titular del Poder Ejecutivo Federal deberá emitir el Reglamento de la Ley que se expide.  El Reglamento deberá contemplar, al menos, las disposiciones necesarias para:  I.\tLa integración, instalación y funcionamiento del SINSAMAC;  II.\tE",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 526,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4126984126984127,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
-      "source_article": "111",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Sen. Ricardo Velázquez Meza, Secretario.- Dip. Pedro Vázquez González, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 12 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 3144
     }
   ],
-  "resolved_at": "2026-04-02T10:40:16.619624+00:00"
+  "resolved_at": "2026-04-02T11:10:52.595560+00:00"
 }

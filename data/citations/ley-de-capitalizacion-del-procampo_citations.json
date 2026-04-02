@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-capitalizacion-del-procampo",
-  "extracted_at": "2026-04-02T10:38:36.365138+00:00",
-  "total_citations": 10,
+  "extracted_at": "2026-04-02T11:09:18.581955+00:00",
+  "total_citations": 9,
   "citations": [
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
@@ -37,7 +37,7 @@
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25, 27 fracción XX y demás dispositivos correspondientes",
       "citation_text": "Artículo 1o. Se emite la presente Ley de Capitalización del PROCAMPO, en el marco de los artículos 25, 27 fracción XX y demás dispositivos correspondientes de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Desarrollo Rural Sustentable, y otras disposiciones aplicables.  La presente ley es de aplicación general y regirá en todo el territorio d",
       "pattern_name": "constitucion_full",
@@ -134,19 +134,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley de desarrollo rural sustentable"
-    },
-    {
-      "source_law": "ley-de-capitalizacion-del-procampo",
-      "source_article": "22",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1471
     }
   ],
-  "resolved_at": "2026-04-02T10:39:15.845197+00:00"
+  "resolved_at": "2026-04-02T11:10:12.165178+00:00"
 }

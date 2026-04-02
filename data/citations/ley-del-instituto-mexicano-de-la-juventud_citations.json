@@ -1,13 +1,13 @@
 {
   "law_id": "ley-del-instituto-mexicano-de-la-juventud",
-  "extracted_at": "2026-04-02T10:38:39.125738+00:00",
-  "total_citations": 14,
+  "extracted_at": "2026-04-02T11:09:20.525081+00:00",
+  "total_citations": 11,
   "citations": [
     {
       "source_law": "ley-del-instituto-mexicano-de-la-juventud",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ciones que aseguren a la juventud un desarrollo pleno e integral, en condiciones de igualdad y no discriminación de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, ordenamientos legales y Tratados Internacionales suscritos por el Estado mexicano; Fracción adicionada DOF ",
       "pattern_name": "constitucion_bare",
@@ -34,7 +34,7 @@
       "source_law": "ley-del-instituto-mexicano-de-la-juventud",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ado, las políticas, acciones y programas tendientes al desarrollo integral de la juventud y la difusión de sus derechos y obligaciones reconocidos en la Constitución Política de los Estados Unidos Mexicanos y Tratados Internacionales de los que nuestro país sea parte, así como los mecanismos para su exigibilidad; ",
       "pattern_name": "constitucion_bare",
@@ -136,7 +136,7 @@
       "source_law": "ley-del-instituto-mexicano-de-la-juventud",
       "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "ajo entre el Instituto y sus trabajadores, se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del Artículo 123 Constitucional.",
       "pattern_name": "articulo_constitucional",
@@ -147,25 +147,10 @@
     {
       "source_law": "ley-del-instituto-mexicano-de-la-juventud",
       "source_article": "17",
-      "target_law_raw": "Estatuto Orgánico",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "as, deberá expedir el Estatuto Orgánico del Instituto.  Las bases para la convocatoria pública para seleccionar a los miembros de este Consejo, serán previstas en el Estatuto Orgánico.  México, D.F., a 21 de diciembre de 1998.- Sen. Mario Vargas Aguiar, Presidente.- Dip. Jaime Moreno Garavilla, Presidente.- Sen. Víctor H. Islas Her",
-      "pattern_name": "prevista_en",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 1540,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4864864864864865,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-del-instituto-mexicano-de-la-juventud",
-      "source_article": "17",
       "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
       "target_law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
       "target_article": null,
-      "citation_text": "Artículo 17. Los trabajadores del Instituto quedan incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.  TRANSITORIOS  PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO. La Secr",
+      "citation_text": "Artículo 17. Los trabajadores del Instituto quedan incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
@@ -173,34 +158,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
-    },
-    {
-      "source_law": "ley-del-instituto-mexicano-de-la-juventud",
-      "source_article": "17",
-      "target_law_raw": "Ley de Premios",
-      "target_law_id": "ley-de-puertos",
-      "target_article": null,
-      "citation_text": "TO por el que se reforman los artículos 3 Bis y 9, fracción XIV, de la Ley del Instituto Mexicano de la Juventud y el artículo 73, primer párrafo, de la Ley de Premios, Estímulos y Recompensas Civiles.  Publicado en el Diario Oficial de la Federación el 2 de abril de 2015  Artículo Primero.- Se reforman los artículo",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 10371,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7857142857142857,
-      "resolution_matched_alias": "ley de puertos"
-    },
-    {
-      "source_law": "ley-del-instituto-mexicano-de-la-juventud",
-      "source_article": "17",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": ". Islas Hernández, Secretario.- Dip. José Ernesto Manrique Villarreal, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1862
     }
   ],
-  "resolved_at": "2026-04-02T10:39:49.108884+00:00"
+  "resolved_at": "2026-04-02T11:10:34.202728+00:00"
 }

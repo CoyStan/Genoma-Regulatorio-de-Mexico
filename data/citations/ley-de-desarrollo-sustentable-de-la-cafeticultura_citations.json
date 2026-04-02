@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
-  "extracted_at": "2026-04-02T10:38:36.612760+00:00",
-  "total_citations": 16,
+  "extracted_at": "2026-04-02T11:09:18.756520+00:00",
+  "total_citations": 15,
   "citations": [
     {
       "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
@@ -219,7 +219,7 @@
       "target_law_raw": "Ley General de Responsabilidades Administrativas",
       "target_law_id": "ley-general-de-responsabilidades-administrativas",
       "target_article": null,
-      "citation_text": "Artículo 85. La persona servidora pública que viole esta y otras leyes o Normas Oficiales Mexicanas en la materia, será sancionada en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas. Transitorios Primero. La presente Ley entrará en vigor a los ciento ochenta días de su publicación en el Diario Oficial de la Federación. Segundo. S",
+      "citation_text": "Artículo 85. La persona servidora pública que viole esta y otras leyes o Normas Oficiales Mexicanas en la materia, será sancionada en términos de lo dispuesto por la Ley General de Responsabilidades Administrativas.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
@@ -227,19 +227,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de responsabilidades administrativas"
-    },
-    {
-      "source_law": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
-      "source_article": "85",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Irais Ballesteros Mancilla, Secretaria.- Sen. María Martina Kantún Can, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1640
     }
   ],
-  "resolved_at": "2026-04-02T10:39:19.662067+00:00"
+  "resolved_at": "2026-04-02T11:10:14.394500+00:00"
 }

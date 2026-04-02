@@ -1,7 +1,7 @@
 {
   "law_id": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
-  "extracted_at": "2026-04-02T10:38:44.319532+00:00",
-  "total_citations": 2,
+  "extracted_at": "2026-04-02T11:09:24.156119+00:00",
+  "total_citations": 1,
   "citations": [
     {
       "source_law": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
@@ -17,19 +17,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley del sistema nacional de información estadística y geográfica"
-    },
-    {
-      "source_law": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
-      "source_article": "5",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "p. Ernestina Godoy Ramos, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a veint",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1189
     }
   ],
-  "resolved_at": "2026-04-02T10:40:36.082181+00:00"
+  "resolved_at": "2026-04-02T11:11:07.517752+00:00"
 }

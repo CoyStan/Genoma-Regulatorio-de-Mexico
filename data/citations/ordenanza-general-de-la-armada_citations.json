@@ -1,7 +1,7 @@
 {
   "law_id": "ordenanza-general-de-la-armada",
-  "extracted_at": "2026-04-02T10:38:44.956978+00:00",
-  "total_citations": 16,
+  "extracted_at": "2026-04-02T11:09:24.679266+00:00",
+  "total_citations": 15,
   "citations": [
     {
       "source_law": "ordenanza-general-de-la-armada",
@@ -187,13 +187,13 @@
       "source_law": "ordenanza-general-de-la-armada",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "erdo. D. P.- Rafael Armando Herrera Morales, S. S.- Arturo Contreras Cuevas. D. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito ",
-      "pattern_name": "constitucion_full",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "target_article": "",
+      "citation_text": "Jefes y Oficiales comprendidos en este Título, prestarán ante las autoridades designadas para darles posesión, la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, con sus adiciones y reformas. De esta protesta se levantará acta por triplicado, enviando un ejemplar a la ",
+      "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1829
+      "confidence": "medium",
+      "char_offset": 177
     },
     {
       "source_law": "ordenanza-general-de-la-armada",
@@ -224,22 +224,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5660377358490566,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ordenanza-general-de-la-armada",
-      "source_article": "1",
-      "target_law_raw": "Reglamento del Ceremonial Militar",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "e la Ordenanza General de la Armada de México.  TERCERO.- Para las formalidades no comprendidas en el presente Reglamento se aplicará supletoriamente el Reglamento del Ceremonial Militar y demás disposiciones legales aplicables.  Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de octubre de dos mil.- Ernest",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 3095,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4927536231884058,
-      "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-04-02T10:40:39.433454+00:00"
+  "resolved_at": "2026-04-02T11:11:10.604560+00:00"
 }

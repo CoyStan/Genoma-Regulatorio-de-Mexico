@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-productos-organicos",
-  "extracted_at": "2026-04-02T10:38:38.156209+00:00",
-  "total_citations": 11,
+  "extracted_at": "2026-04-02T11:09:19.895476+00:00",
+  "total_citations": 10,
   "citations": [
     {
       "source_law": "ley-de-productos-organicos",
@@ -144,7 +144,7 @@
       "target_law_raw": "Ley Federal sobre Metrología y Normalización",
       "target_law_id": "unresolved",
       "target_article": null,
-      "citation_text": "drán presentar las reclamaciones que consideren pertinentes, las cuales se sustanciarán y resolverán en los términos previstos por el artículo 122 de la Ley Federal sobre Metrología y Normalización.  TRANSITORIOS  ARTÍCULO PRIMERO. La presente Ley entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.  ARTÍCUL",
+      "citation_text": "drán presentar las reclamaciones que consideren pertinentes, las cuales se sustanciarán y resolverán en los términos previstos por el artículo 122 de la Ley Federal sobre Metrología y Normalización.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
@@ -152,19 +152,7 @@
       "resolution_confidence": "unresolved",
       "resolution_score": 0.5945945945945946,
       "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-de-productos-organicos",
-      "source_article": "50",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "Isabel Castellanos Cortés, Secretaria.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1635
     }
   ],
-  "resolved_at": "2026-04-02T10:39:38.908781+00:00"
+  "resolved_at": "2026-04-02T11:10:28.144251+00:00"
 }

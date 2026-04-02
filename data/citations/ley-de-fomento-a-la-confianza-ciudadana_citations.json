@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-fomento-a-la-confianza-ciudadana",
-  "extracted_at": "2026-04-02T10:38:36.761814+00:00",
-  "total_citations": 11,
+  "extracted_at": "2026-04-02T11:09:18.868693+00:00",
+  "total_citations": 10,
   "citations": [
     {
       "source_law": "ley-de-fomento-a-la-confianza-ciudadana",
@@ -144,7 +144,7 @@
       "target_law_raw": "Ley Federal de Procedimiento Administrativo o conforme a la ley de la materia que regule el acto",
       "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
-      "citation_text": "Artículo 17. Para la aplicación de las sanciones señaladas en el artículo anterior, se observará el procedimiento establecido en la Ley Federal de Procedimiento Administrativo o conforme a la ley de la materia que regule el acto.  Transitorios  Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo. Las ero",
+      "citation_text": "Artículo 17. Para la aplicación de las sanciones señaladas en el artículo anterior, se observará el procedimiento establecido en la Ley Federal de Procedimiento Administrativo o conforme a la ley de la materia que regule el acto.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
@@ -152,19 +152,7 @@
       "resolution_confidence": "low",
       "resolution_score": 0.85,
       "resolution_matched_alias": "ley federal de competencia económica"
-    },
-    {
-      "source_law": "ley-de-fomento-a-la-confianza-ciudadana",
-      "source_article": "17",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "identa.- Dip. Lizbeth Mata Lozano, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 17 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1216
     }
   ],
-  "resolved_at": "2026-04-02T10:39:23.019771+00:00"
+  "resolved_at": "2026-04-02T11:10:17.407744+00:00"
 }

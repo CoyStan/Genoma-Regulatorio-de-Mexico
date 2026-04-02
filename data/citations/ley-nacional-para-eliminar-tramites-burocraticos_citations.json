@@ -1,13 +1,13 @@
 {
   "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
-  "extracted_at": "2026-04-02T10:38:43.821735+00:00",
-  "total_citations": 8,
+  "extracted_at": "2026-04-02T11:09:23.832056+00:00",
+  "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "25",
       "citation_text": "Artículo 1. La presente Ley es reglamentaria del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización de Trámites y Servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de",
       "pattern_name": "constitucion_full",
@@ -89,34 +89,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de responsabilidades administrativas"
-    },
-    {
-      "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
-      "source_article": "114",
-      "target_law_raw": "Ley Nacional para Eliminar Trámites Burocráticos contenida en el presente Decreto",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "nforme a sus leyes locales y normativa aplicable. Una vez que entren en funcionamiento las nuevas autoridades de simplificación, éstas se regirán por la Ley Nacional para Eliminar Trámites Burocráticos contenida en el presente Decreto. Los asuntos que se encuentren en trámite ante las autoridades estatales de Mejora Regulatoria al momento de su extinción continuarán a cargo de las ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 8061,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.45255474452554745,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
-      "source_article": "114",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": " Julieta Villalpando Riquelme, Secretaria.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 10357
     }
   ],
-  "resolved_at": "2026-04-02T10:40:30.740596+00:00"
+  "resolved_at": "2026-04-02T11:11:03.329630+00:00"
 }

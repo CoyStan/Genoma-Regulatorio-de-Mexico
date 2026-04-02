@@ -1,13 +1,13 @@
 {
   "law_id": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
-  "extracted_at": "2026-04-02T10:38:43.460087+00:00",
-  "total_citations": 12,
+  "extracted_at": "2026-04-02T11:09:23.544844+00:00",
+  "total_citations": 9,
   "citations": [
     {
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": " de las personas con la condición del espectro autista, mediante la protección de sus derechos y necesidades fundamentales que les son reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales, sin perjuicio de los derechos tutelados por otras leyes u ordenamientos.",
       "pattern_name": "constitucion_bare",
@@ -19,7 +19,7 @@
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "s de su competencia, atienden la gestión y, en su caso, la resolución de un fenómeno social;  VI.\tDerechos humanos: Aquellos derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano forma parte y que se caracterizan por garantiza",
       "pattern_name": "constitucion_bare",
@@ -31,7 +31,7 @@
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
       "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "autista, y  X.\tLos demás que respondan a la interpretación de los principios rectores en materia de derechos humanos contenidos en el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_bare",
@@ -88,7 +88,7 @@
       "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
       "source_article": "10",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ista y/o de sus familias, en los términos de las disposiciones aplicables, los siguientes:  I.\tGozar plenamente de los derechos humanos que garantiza la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables;  II.\tRecibir el apoyo y la protección de sus derechos constitucionales y legales por",
       "pattern_name": "constitucion_bare",
@@ -125,49 +125,7 @@
       "resolution_confidence": "high",
       "resolution_score": 1.0,
       "resolution_matched_alias": "ley general de salud"
-    },
-    {
-      "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
-      "source_article": "18",
-      "target_law_raw": "Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista",
-      "target_law_id": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
-      "target_article": null,
-      "citation_text": "nsecuencia, se establece que la declaratoria de invalidez de los artículos 3, fracción III, 10, fracción VI, 16, fracción VI, y 17, fracción VIII, de la Ley General para la Atención y Protección a Personas con la Condición de Espectro Autista, surtirá sus efectos cuando se notifiquen los puntos resolutivos de la presente ejecutoria, respectivamente, al Congreso de la Unión y al Presidente ",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 4435,
-      "resolution_confidence": "high",
-      "resolution_score": 0.994413407821229,
-      "resolution_matched_alias": "ley general para la atención y protección a personas con la condición del espectro autista"
-    },
-    {
-      "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
-      "source_article": "18",
-      "target_law_raw": "ley en su totalidad debe declararse inválida por contener un vicio formal",
-      "target_law_id": "unresolved",
-      "target_article": null,
-      "citation_text": "o Autista. Los señores Ministros Gutiérrez Ortiz Mena, Cossío Díaz, Franco González Salas y Zaldívar Lelo de Larrea votaron en contra, al estimar que la ley en su totalidad debe declararse inválida por contener un vicio formal, y anunciaron sendos votos particulares. El señor Ministro Medina Mora I. anunció voto concurrente.  En relación con el punto resolutivo segundo:  Se",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 7709,
-      "resolution_confidence": "unresolved",
-      "resolution_score": 0.4230769230769231,
-      "resolution_matched_alias": null
-    },
-    {
-      "source_law": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
-      "source_article": "18",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "ena Corrales Corrales, Secretaria.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 2306
     }
   ],
-  "resolved_at": "2026-04-02T10:40:27.399870+00:00"
+  "resolved_at": "2026-04-02T11:11:00.276096+00:00"
 }

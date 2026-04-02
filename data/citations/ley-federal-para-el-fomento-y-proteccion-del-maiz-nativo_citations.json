@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
-  "extracted_at": "2026-04-02T10:38:41.290619+00:00",
-  "total_citations": 7,
+  "extracted_at": "2026-04-02T11:09:21.979923+00:00",
+  "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
@@ -22,7 +22,7 @@
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "l Estado para garantizar el derecho humano a la alimentación nutritiva, suficiente y de calidad, establecido en el tercer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, y  III.\tEstablecer mecanismos institucionales para la protección y fomento del Maíz Nativo y en Diversifica",
       "pattern_name": "constitucion_bare",
@@ -64,41 +64,14 @@
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "l Estado para garantizar el derecho humano a la alimentación nutritiva, suficiente y de calidad, establecido en el tercer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.  El Estado deberá garantizar y fomentar, a través de todas las autoridades competentes, que todas las perso",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
       "char_offset": 324
-    },
-    {
-      "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
-      "source_article": "13",
-      "target_law_raw": "Ley Federal de Producción",
-      "target_law_id": "ley-general-de-educacion",
-      "target_article": null,
-      "citation_text": ", revisará y, en su caso, modificará los programas de semillas existentes para que se ajusten al objeto de esta Ley de conformidad con las facultades previstas en la Ley Federal de Producción, Certificación y Comercio de Semillas.  Quinto. El Congreso de la Unión, en un plazo que no exceda de trescientos sesenta y cinco días naturales post",
-      "pattern_name": "prevista_en",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 963,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.8163265306122449,
-      "resolution_matched_alias": "ley general de educación"
-    },
-    {
-      "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
-      "source_article": "13",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "denta.- Dip. Julieta Macias Rabago, Secretaria, Sen. Primo Dothé Mata, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de ",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1892
     }
   ],
-  "resolved_at": "2026-04-02T10:40:09.587619+00:00"
+  "resolved_at": "2026-04-02T11:10:47.045244+00:00"
 }

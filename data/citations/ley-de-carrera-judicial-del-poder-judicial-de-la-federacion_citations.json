@@ -1,7 +1,7 @@
 {
   "law_id": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
-  "extracted_at": "2026-04-02T10:38:36.379226+00:00",
-  "total_citations": 14,
+  "extracted_at": "2026-04-02T11:09:18.595275+00:00",
+  "total_citations": 13,
   "citations": [
     {
       "source_law": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
@@ -37,7 +37,7 @@
       "source_law": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "103 y 107",
       "citation_text": " lo previsto en esta Ley, la Carrera Judicial se rige por la Ley Orgánica del Poder Judicial de la Federación, la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, los acuerdos generales que emitan las instancias competentes del Poder Judicial de la Federación y las demás disposiciones jurídicas aplicables.  TÍ",
       "pattern_name": "constitucion_full",
@@ -49,7 +49,7 @@
       "source_law": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
       "source_article": "12",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 12. Servicio público Las categorías de la Carrera Judicial deberán observar los requisitos contemplados en esta Ley y lo dispuesto por la Constitución General para el servicio público.",
       "pattern_name": "constitucion_bare",
@@ -91,7 +91,7 @@
       "source_law": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
       "source_article": "28",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 28. Facultad de nombramiento del personal Para los efectos de la atribución prevista en el párrafo quinto del artículo 97 de la Constitución, las y los titulares cubrirán las vacantes de personal jurisdiccional de entre aquellas personas que figuren en el diez por ciento superior de las li",
       "pattern_name": "constitucion_bare",
@@ -165,7 +165,7 @@
       "target_law_raw": "Ley Orgánica del Poder Judicial de la Federación",
       "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
-      "citation_text": "des Para los efectos de las responsabilidades administrativas de las servidoras públicas y los servidores públicos de la Carrera Judicial se estará a lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, la Ley General de Responsabilidades Administrativas y los acuerdos generales aplicables.  Transitorios  Primero.- El presente Decreto entrará en vig",
+      "citation_text": "des Para los efectos de las responsabilidades administrativas de las servidoras públicas y los servidores públicos de la Carrera Judicial se estará a lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, la Ley General de Responsabilidades Administrativas y los acuerdos generales aplicables.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
@@ -180,7 +180,7 @@
       "target_law_raw": "Ley General de Responsabilidades Administrativas y los acuerdos generales",
       "target_law_id": "ley-general-de-responsabilidades-administrativas",
       "target_article": null,
-      "citation_text": "ervidoras públicas y los servidores públicos de la Carrera Judicial se estará a lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, la Ley General de Responsabilidades Administrativas y los acuerdos generales aplicables.  Transitorios  Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  Segundo.- L",
+      "citation_text": "ervidoras públicas y los servidores públicos de la Carrera Judicial se estará a lo dispuesto por la Ley Orgánica del Poder Judicial de la Federación, la Ley General de Responsabilidades Administrativas y los acuerdos generales aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
@@ -188,19 +188,7 @@
       "resolution_confidence": "medium",
       "resolution_score": 0.7933884297520661,
       "resolution_matched_alias": "ley general de responsabilidades administrativas"
-    },
-    {
-      "source_law": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
-      "source_article": "74",
-      "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
-      "target_article": "89",
-      "citation_text": "a Noemí Camino Farjat, Secretaria.- Dip. Julieta Villalpando Riquelme, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 31 de",
-      "pattern_name": "constitucion_full",
-      "pattern_group": "constitutional",
-      "confidence": "high",
-      "char_offset": 1795
     }
   ],
-  "resolved_at": "2026-04-02T10:39:16.084797+00:00"
+  "resolved_at": "2026-04-02T11:10:12.405106+00:00"
 }

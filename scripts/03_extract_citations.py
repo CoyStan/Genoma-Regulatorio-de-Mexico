@@ -173,7 +173,7 @@ def extract_citations_from_article(
                 "source_law": source_law_id,
                 "source_article": article_number,
                 "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-                "target_law_id": "constitucion-politica",  # always resolved
+                "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",  # always resolved
                 "target_article": article_ref,
                 "citation_text": context,
                 "pattern_name": pat_info["name"],

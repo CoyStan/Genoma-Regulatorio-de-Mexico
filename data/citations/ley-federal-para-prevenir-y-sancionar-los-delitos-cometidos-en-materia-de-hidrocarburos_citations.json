@@ -1,7 +1,7 @@
 {
   "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
-  "extracted_at": "2026-04-02T10:38:41.403796+00:00",
-  "total_citations": 19,
+  "extracted_at": "2026-04-02T11:09:22.053660+00:00",
+  "total_citations": 17,
   "citations": [
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
@@ -127,7 +127,7 @@
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "27",
       "citation_text": "ciones o aeronaves salvo aquellas que sean requeridas para la operación de las plataformas en las actividades a que se refiere el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.  III.\tDerivación clandestina: Es una conexión para extraer por cualquier medio de manera ilegal o no autorizada, hidrocarburos, petrolíferos o petro",
       "pattern_name": "constitucion_full",
@@ -184,7 +184,7 @@
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "22",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "strucciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, e",
       "pattern_name": "constitucion_bare",
@@ -225,21 +225,6 @@
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "23",
-      "target_law_raw": "Ley Federal para Prevenir y Sancionar los Delitos Cometidos",
-      "target_law_id": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
-      "target_article": null,
-      "citation_text": "pondientes.] Fracción declarada inválida por sentencia de la SCJN a Acción de Inconstitucionalidad DOF 18-05-2021  Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.  Quinto.- Las erogaciones que se g",
-      "pattern_name": "prevista_en",
-      "pattern_group": "primary",
-      "confidence": "high",
-      "char_offset": 2408,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal para la prevención e identificación de operaciones con recursos de procedencia ilícita"
-    },
-    {
-      "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
-      "source_article": "23",
       "target_law_raw": "Ley en la materia",
       "target_law_id": "unresolved",
       "target_article": null,
@@ -255,23 +240,8 @@
     {
       "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
       "source_article": "23",
-      "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-del-impuesto-sobre-la-renta",
-      "target_article": null,
-      "citation_text": " las disposiciones que contravengan las modificaciones al artículo 108 de la Ley Aduanera.  Quinto. Para efectos de lo dispuesto en el artículo 22 de la Ley del Impuesto sobre la Renta vigente o de los artículos correlativos en las leyes vigentes con anterioridad a dicha ley, los contribuyentes que estuvieron a lo dispuesto en la fracción VIII del artículo segundo de las disposiciones transitorias del Decreto por el que s",
-      "pattern_name": "direct_mention",
-      "pattern_group": "secondary",
-      "confidence": "medium",
-      "char_offset": 6484,
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
-    },
-    {
-      "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
-      "source_article": "23",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica",
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "27",
       "citation_text": "entos del personal o vehículos de asignatarios, contratistas o permisionarios que se vinculen con las actividades previstas en el párrafo séptimo del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, será considerada información de Seguridad Nacional en términos de la Ley en la materia. Lo anterior, sin perjuicio de las obligaciones establecidas ",
       "pattern_name": "constitucion_full",
@@ -280,5 +250,5 @@
       "char_offset": 264
     }
   ],
-  "resolved_at": "2026-04-02T10:40:10.580160+00:00"
+  "resolved_at": "2026-04-02T11:10:47.939875+00:00"
 }
