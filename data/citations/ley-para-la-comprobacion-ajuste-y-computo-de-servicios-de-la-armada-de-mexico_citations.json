@@ -1,68 +1,65 @@
 {
   "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
-  "extracted_at": "2026-03-30T12:18:26.657235+00:00",
+  "extracted_at": "2026-04-02T10:38:44.346916+00:00",
   "total_citations": 4,
   "citations": [
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
       "source_article": "5",
       "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "target_law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "target_article": null,
       "citation_text": "situación del personal naval dentro de la Armada de México y serán formulados por la unidad administrativa correspondiente, conforme a lo ordenado en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 241,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad social para las fuerzas armadas mexicanas",
-      "target_law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley del instituto de seguridad social para las fuerzas armadas mexicanas"
     },
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
       "source_article": "6",
       "target_law_raw": "Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "target_law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
       "target_article": null,
       "citation_text": "s, y  II.- Formular las hojas de servicios, así como el cómputo y ajuste de tiempo de servicios correspondientes, en los siguientes casos:  a) En los señalados en la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;  b) Cuando lo ordene el Alto Mando o lo requiera una autoridad competente;  c) Para su remisión al Senado de la República, en los casos en que deba ",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 403,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad social para las fuerzas armadas mexicanas",
-      "target_law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley del instituto de seguridad social para las fuerzas armadas mexicanas"
     },
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
       "source_article": "25",
       "target_law_raw": "Ley para la Comprobación",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "sciplinario.  TRANSITORIO  ÚNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación y abroga la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México publicada el 24 de diciembre de 1984 y sus reformas del 26 de diciembre de 1997.  México, D.F.,",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 408,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.6296296296296297,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
       "source_article": "25",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "e.- Dip. Marcos Morales Torres, Secretario.- Sen. Lydia Madero García, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 845,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 845
     }
   ],
-  "resolved_at": "2026-04-02T10:33:18.819121+00:00"
+  "resolved_at": "2026-04-02T10:40:36.221347+00:00"
 }

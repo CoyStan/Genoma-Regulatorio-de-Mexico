@@ -58,6 +58,16 @@ _AMENDMENT_CTX = re.compile(
     r"\bDECRETO\s+por\s+el\s+que\s+se\s+(?:reform|adic)",
     re.IGNORECASE,
 )
+# Enumeration lists: "de la Ley X, de la Ley Y" or "I. La Ley X; II. La Ley Y"
+# These appear in definitional articles and transitories that enumerate governing laws.
+_LIST_CTX = re.compile(
+    r"(?:"
+    r"(?:de\s+la\s+Ley|del\s+(?:Código|Reglamento))[^;,\n]{5,80}[,;]\s*(?:de\s+la\s+Ley|del\s+(?:Código|Reglamento))"
+    r"|"
+    r"[IVX]+\.\s+(?:La\s+)?(?:Ley|Código)[^;\n]{5,80};\s*[IVX]+\.\s+(?:La\s+)?(?:Ley|Código)"
+    r")",
+    re.IGNORECASE,
+)
 _GENERIC_RAW = re.compile(
     r"(?:de\s+la\s+materia"
     r"|de\s+esta\s+[Ll]ey"
@@ -83,6 +93,8 @@ def _is_direct_mention_false_positive(raw_name: str, context: str) -> bool:
     if _DEROGATION_CTX.search(context):
         return True
     if _AMENDMENT_CTX.search(context):
+        return True
+    if _LIST_CTX.search(context):
         return True
     if _GENERIC_RAW.search(raw_name):
         return True

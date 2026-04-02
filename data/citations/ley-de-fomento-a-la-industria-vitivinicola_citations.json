@@ -1,98 +1,95 @@
 {
   "law_id": "ley-de-fomento-a-la-industria-vitivinicola",
-  "extracted_at": "2026-03-30T12:18:19.086727+00:00",
+  "extracted_at": "2026-04-02T10:38:36.766958+00:00",
   "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
       "source_article": "1",
       "target_law_raw": "Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "target_law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
       "target_article": null,
       "citation_text": "rden público e interés general y tiene por objeto impulsar, fomentar, promover y difundir las actividades relacionadas al Sector, en concordancia con la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, la Ley Federal sobre Metrología y Normalización y la Ley de Desarrollo Rural Sustentable, y demás ordenamientos legales aplicables, para impulsar un",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 185,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley para impulsar el incremento sostenido de la productividad y la competitividad de la economía nacional",
-      "target_law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley para impulsar el incremento sostenido de la productividad y la competitividad de la economía nacional"
     },
     {
       "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
       "source_article": "1",
       "target_law_raw": "Ley Federal sobre Metrología y Normalización y la Ley de Desarrollo Rural Sustentable",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "cionadas al Sector, en concordancia con la Ley para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional, la Ley Federal sobre Metrología y Normalización y la Ley de Desarrollo Rural Sustentable, y demás ordenamientos legales aplicables, para impulsar una mayor productividad y competitividad de la actividad. Además de establecer las bases par",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 295,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.4852941176470588,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
       "source_article": "3",
       "target_law_raw": "Reglamento de la Ley de Fomento a la Industria Vitivinícola",
+      "target_law_id": "ley-de-fomento-a-la-industria-vitivinicola",
       "target_article": null,
       "citation_text": "los productos elaborados y almacenaje, gestión y conservación de los mismos.  IV.\tLey: La Ley de Fomento a la Industria Vitivinícola.  V.\tReglamento: El Reglamento de la Ley de Fomento a la Industria Vitivinícola.  VI.\tProductor: Persona dedicada al cultivo, producción, elaboración y transformación de la uva destinada a la elaboración de Vino.  VII.\tRegistro: ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 718,
+      "resolution_confidence": "medium",
       "resolution_score": 0.8316831683168316,
-      "resolution_matched_alias": "ley de fomento a la industria vitivinícola",
-      "target_law_id": "ley-de-fomento-a-la-industria-vitivinicola",
-      "resolution_confidence": "medium"
+      "resolution_matched_alias": "ley de fomento a la industria vitivinícola"
     },
     {
       "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
       "source_article": "20",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "es, distribuidores, importadores y exportadores de Vino; el cual será parte del Sistema Nacional de Información para el Desarrollo Rural Sustentable, establecido en la Ley de Desarrollo Rural Sustentable;  III.\tAsesorar a los productores para que en el desarrollo de cultivos destinados a la producción de insumos para la vitivinicultura se realicen de ",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 805,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
       "source_article": "28",
       "target_law_raw": "Ley de Transición Energética",
+      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
       "target_article": null,
       "citation_text": "bles en los diferentes procesos de producción del Vino Mexicano, y  II.\tPromover las energías renovables utilizadas en la vitivinicultura, en apego a la Ley de Transición Energética.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 369,
+      "resolution_confidence": "medium",
       "resolution_score": 0.8115942028985508,
-      "resolution_matched_alias": "ley de planeación y transición energética",
-      "target_law_id": "ley-de-planeacion-y-transicion-energetica",
-      "resolution_confidence": "medium"
+      "resolution_matched_alias": "ley de planeación y transición energética"
     },
     {
       "source_law": "ley-de-fomento-a-la-industria-vitivinicola",
       "source_article": "35",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": " Gerardo Flores Ramírez, Secretario.- Dip. Ana Guadalupe Perea Santos, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia expido el presente Decreto en Villahermosa, Tabasco, a veintidós de mayo de dos mil dieciocho.- Enrique P",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1247,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 1247
     }
   ],
-  "resolved_at": "2026-04-02T10:32:06.168569+00:00"
+  "resolved_at": "2026-04-02T10:39:23.203083+00:00"
 }

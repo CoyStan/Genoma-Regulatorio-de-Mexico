@@ -54,6 +54,8 @@ seen = set()
 pairs = []
 
 for (src, tgt) in edge_citations:
+    if src == tgt:
+        continue  # skip self-references
     if (tgt, src) in edge_citations and (tgt, src) not in seen:
         seen.add((src, tgt))
 

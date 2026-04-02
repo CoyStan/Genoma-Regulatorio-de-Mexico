@@ -1,158 +1,152 @@
 {
   "law_id": "ley-de-capitalizacion-del-procampo",
-  "extracted_at": "2026-03-30T12:18:18.697442+00:00",
+  "extracted_at": "2026-04-02T10:38:36.365138+00:00",
   "total_citations": 10,
   "citations": [
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "1o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable y demás ordenamientos",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "nen derecho los beneficiarios del Programa de Apoyos Directos al Campo, en adelante \"PROCAMPO\", cuando así convenga a sus intereses de acuerdo con lo establecido en la Ley de Desarrollo Rural Sustentable y demás ordenamientos aplicables.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 750,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "1o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "O, en el marco de los artículos 25, 27 fracción XX y demás dispositivos correspondientes de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Desarrollo Rural Sustentable, y otras disposiciones aplicables.  La presente ley es de aplicación general y regirá en todo el territorio de los Estados Unidos Mexicanos; sus disp",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 217,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "25, 27 fracción XX y demás dispositivos correspondientes",
       "citation_text": "Artículo 1o. Se emite la presente Ley de Capitalización del PROCAMPO, en el marco de los artículos 25, 27 fracción XX y demás dispositivos correspondientes de la Constitución Política de los Estados Unidos Mexicanos, la Ley de Desarrollo Rural Sustentable, y otras disposiciones aplicables.  La presente ley es de aplicación general y regirá en todo el territorio d",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 89,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 89
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "4o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "to Federal y municipales.  Para todo propósito correlativo con lo anterior, la Secretaría procederá tomando en cuenta las disposiciones contenidas en la Ley de Desarrollo Rural Sustentable, en cuanto a los procedimientos de planeación, organización, ejecución y evaluación, incluyendo la participación del Consejo Nacional, los Estatales,",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 525,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "7o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable en cuanto a equidad entre regiones y grupos menos favorecidos",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "Artículo 7o. La aplicación de la presente Ley seguirá invariablemente las prioridades, orientaciones y disposiciones previstas por la Ley de Desarrollo Rural Sustentable en cuanto a equidad entre regiones y grupos menos favorecidos, así como la conservación y mejoramiento de los recursos naturales y los servicios ambientales.  TÍTULO SEGUNDO DEL SISTEMA DE GARANTÍAS Y ACCESO ANT",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 131,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.4025974025974026,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "8o",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable y demás ordenamientos",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "rocedimiento de calificación, selección y evaluación de proyectos, el cual reflejará las prioridades y orientaciones establecidas en la presente Ley, la Ley de Desarrollo Rural Sustentable y demás ordenamientos aplicables. Dicho procedimiento será difundido ampliamente entre los beneficiarios del PROCAMPO.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1221,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "14",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "e competencia en el mercado internacional se continuarán aportando a los productores apoyos directos determinados por el Ejecutivo, de acuerdo con lo establecido en la Ley de Desarrollo Rural Sustentable.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 872,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "14",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable en su artículo séptimo y demás",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "nes de vida de la población rural y responder a los desequilibrios del mercado internacional, con las condiciones y para los propósitos que establece la Ley de Desarrollo Rural Sustentable en su artículo séptimo y demás aplicables.  Mientras persistan condiciones desfavorables de competencia en el mercado internacional se continuarán aportando a los productores apoyos directos ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 593,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "21",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "Artículo 21. La Secretaría definirá, en el seno de la Comisión Intersecretarial, contemplada en la Ley de Desarrollo Rural Sustentable, con la participación del Consejo Mexicano para el Desarrollo Rural Sustentable, los mecanismos para determinar las tasas máximas de crédito a aplica",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 96,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-de-capitalizacion-del-procampo",
       "source_article": "22",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "ip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1471,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 1471
     }
   ],
-  "resolved_at": "2026-04-02T10:31:58.867475+00:00"
+  "resolved_at": "2026-04-02T10:39:15.845197+00:00"
 }

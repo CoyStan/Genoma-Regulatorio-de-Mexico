@@ -1,83 +1,77 @@
 {
   "law_id": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
-  "extracted_at": "2026-03-30T12:18:27.074516+00:00",
+  "extracted_at": "2026-04-02T10:38:44.764822+00:00",
   "total_citations": 5,
   "citations": [
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
       "target_law_raw": "Ley de Desarrollo Rural Sustentable",
+      "target_law_id": "ley-de-desarrollo-rural-sustentable",
       "target_article": null,
       "citation_text": "emiados, para ello deberán constituirse con apego al primer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley de Desarrollo Rural Sustentable, de acuerdo con las finalidades indicadas en el artículo siguiente. Artículo reformado DOF 30-11-2010",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 407,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de desarrollo rural sustentable",
-      "target_law_id": "ley-de-desarrollo-rural-sustentable",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley de desarrollo rural sustentable"
     },
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "imal, así como todas las demás disposiciones que se opongan a los términos de la presente ley.  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los sie",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 3017,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 3017
     },
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "",
       "citation_text": "ARTICULO 14. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, autorizará la constitución, organización y funcionamiento de las Asociaciones Agrícolas creadas de acuerdo con lo dispuesto por la presente Ley; con esa autorización las mismas",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 105,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 105
     },
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
       "target_law_raw": "Ley sobre Cámaras Agrícolas",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "gosto de 1932.- El Secretario de Gobernación, Juan José Ríos.- Rúbrica.  Al C......   ARTÍCULOS TRANSITORIOS DE DECRETOS DE REFORMA  FE DE ERRATAS de la Ley sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas.  Publicada en el Diario Oficial de la Federación el 1º de septiembre de 1932  Por defectos",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 914,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.6,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
       "source_article": "2º",
       "target_law_raw": "Ley de Asociaciones Agrícolas",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "e de 2010  Artículo Único. Se reforman los artículos 2o. y 5o. y se adiciona una fracción VIII al artículo 3o. y un segundo párrafo al artículo 12 de la Ley de Asociaciones Agrícolas, para quedar como sigue:  .  TRANSITORIOS  Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3815,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.6530612244897959,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     }
   ],
-  "resolved_at": "2026-04-02T10:33:21.008732+00:00"
+  "resolved_at": "2026-04-02T10:40:38.434906+00:00"
 }

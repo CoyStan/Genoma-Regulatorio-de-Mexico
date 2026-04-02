@@ -1,98 +1,95 @@
 {
   "law_id": "ley-de-recompensas-de-la-armada-de-mexico",
-  "extracted_at": "2026-03-30T12:18:20.530741+00:00",
+  "extracted_at": "2026-04-02T10:38:38.249134+00:00",
   "total_citations": 6,
   "citations": [
     {
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
       "source_article": "7o",
       "target_law_raw": "Reglamento de Uniformes",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "ARTICULO 7o.- Las condecoraciones y distintivos, deberán portarse de acuerdo con lo que previene el Reglamento de Uniformes, Divisas y Distintivos para la Armada de México.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 97,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.5306122448979592,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
       "source_article": "45",
       "target_law_raw": "LEY DE DIECISIETE DE DICIEMBRE DE MIL NOVECIENTOS CUARENTA Y CINCO\"",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": " estará inscrito en un círculo imaginario de cuarenta milímetros de diámetro. Al centro del reverso la joya llevará la siguiente leyenda: \"CREADA POR LA LEY DE DIECISIETE DE DICIEMBRE DE MIL NOVECIENTOS CUARENTA Y CINCO\", en letras mayúsculas.  II.- Listón. Será en popotillo de seda en forma rectangular de treinta milímetros de ancho y cuarenta y cinco milímetros de l",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1099,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.4626865671641791,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
       "source_article": "51",
       "target_law_raw": "Ley para la Comprobación",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "ARTICULO 51.- El tiempo de servicios para otorgar la Condecoración de Perseverancia Excepcional se determinará de acuerdo a lo establecido en la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 127,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.6296296296296297,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
       "source_article": "55",
       "target_law_raw": "Ley para la Comprobación",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "ARTICULO 55.- El tiempo de servicios para otorgar la Condecoración de Perseverancia se determinará de acuerdo a lo establecido en la Ley para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 115,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.6296296296296297,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
       "source_article": "68",
       "target_law_raw": "Reglamento de Uniformes",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "na conducta, se le concederá como distintivo de constancia por cada tres años de servicios ininterrumpidos, el uso de un ángulo dorado de acuerdo con lo previsto en el Reglamento de Uniformes, Divisas y Distintivos para la Armada de México. Este distintivo sólo se portará mientras el interesado conserve su categoría de clase o marinero, si",
       "pattern_name": "lo_previsto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 221,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.5306122448979592,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-recompensas-de-la-armada-de-mexico",
       "source_article": "69",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "quierdo, D.P.- Rafael Armando Herrera Morales, S.S.- Arturo Contreras Cuevas, D.S.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1190,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 1190
     }
   ],
-  "resolved_at": "2026-04-02T10:32:22.793230+00:00"
+  "resolved_at": "2026-04-02T10:39:39.841083+00:00"
 }

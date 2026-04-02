@@ -1,50 +1,45 @@
 {
-  "generated_at": "2026-04-02T10:33:24.116317+00:00",
-  "total_citations": 12444,
-  "resolved": 10854,
-  "unresolved": 1590,
-  "resolution_rate": 0.8722,
+  "generated_at": "2026-04-02T10:40:41.505012+00:00",
+  "total_citations": 10893,
+  "resolved": 9319,
+  "unresolved": 1574,
+  "resolution_rate": 0.8555,
   "by_confidence": {
-    "high": 8461,
-    "unresolved": 1590,
-    "medium": 956,
-    "low": 1437
+    "unresolved": 3660,
+    "high": 5081,
+    "medium": 877,
+    "low": 1275
   },
   "top_cited_laws": [
     {
-      "law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "name": "Constitución Política de los Estados Unidos Mexicanos",
-      "citation_count": 2087
+      "law_id": "constitucion-politica",
+      "name": "constitucion-politica",
+      "citation_count": 2086
     },
     {
       "law_id": "ley-general-de-sociedades-mercantiles",
       "name": "Ley General de Sociedades Mercantiles",
-      "citation_count": 449
+      "citation_count": 427
     },
     {
       "law_id": "ley-federal-de-competencia-economica",
       "name": "Ley Federal de Competencia Económica",
-      "citation_count": 382
+      "citation_count": 335
     },
     {
       "law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "name": "Ley Orgánica del Poder Judicial de la Federación",
-      "citation_count": 311
+      "citation_count": 229
     },
     {
       "law_id": "ley-de-instituciones-de-credito",
       "name": "Ley de Instituciones de Crédito",
-      "citation_count": 229
+      "citation_count": 207
     },
     {
       "law_id": "ley-del-impuesto-sobre-la-renta",
       "name": "Ley del Impuesto sobre la Renta",
-      "citation_count": 213
-    },
-    {
-      "law_id": "ley-federal-del-trabajo",
-      "name": "Ley Federal del Trabajo",
-      "citation_count": 191
+      "citation_count": 200
     },
     {
       "law_id": "codigo-nacional-de-procedimientos-penales",
@@ -52,19 +47,24 @@
       "citation_count": 188
     },
     {
-      "law_id": "ley-federal-de-procedimiento-administrativo",
-      "name": "Ley Federal de Procedimiento Administrativo",
+      "law_id": "ley-federal-del-trabajo",
+      "name": "Ley Federal del Trabajo",
       "citation_count": 173
     },
     {
       "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "name": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "citation_count": 169
+      "citation_count": 163
+    },
+    {
+      "law_id": "ley-federal-de-procedimiento-administrativo",
+      "name": "Ley Federal de Procedimiento Administrativo",
+      "citation_count": 161
     },
     {
       "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
       "name": "Ley General de Instituciones y Procedimientos Electorales",
-      "citation_count": 160
+      "citation_count": 147
     },
     {
       "law_id": "ley-general-de-responsabilidades-administrativas",
@@ -74,42 +74,37 @@
     {
       "law_id": "ley-del-mercado-de-valores",
       "name": "Ley del Mercado de Valores",
-      "citation_count": 141
-    },
-    {
-      "law_id": "ley-del-seguro-social",
-      "name": "Ley del Seguro Social",
-      "citation_count": 134
+      "citation_count": 129
     },
     {
       "law_id": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
       "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
-      "citation_count": 125
+      "citation_count": 121
     },
     {
       "law_id": "ley-organica-de-la-administracion-publica-federal",
       "name": "Ley Orgánica de la Administración Pública Federal",
-      "citation_count": 125
+      "citation_count": 120
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "name": "Ley del Seguro Social",
+      "citation_count": 119
     },
     {
       "law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "name": "Ley General de Transparencia y Acceso a la Información Pública",
-      "citation_count": 123
+      "citation_count": 117
     },
     {
       "law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
       "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
-      "citation_count": 109
-    },
-    {
-      "law_id": "ley-general-de-salud",
-      "name": "Ley General de Salud",
-      "citation_count": 108
+      "citation_count": 105
     },
     {
       "law_id": "ley-federal-de-las-entidades-paraestatales",
       "name": "ley-federal-de-las-entidades-paraestatales",
-      "citation_count": 104
+      "citation_count": 103
     },
     {
       "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
@@ -117,49 +112,54 @@
       "citation_count": 102
     },
     {
-      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "name": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "citation_count": 101
-    },
-    {
       "law_id": "codigo-fiscal-de-la-federacion",
       "name": "Código Fiscal de la Federación",
       "citation_count": 100
     },
     {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "name": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "citation_count": 87
+    },
+    {
       "law_id": "ley-general-del-sistema-nacional-anticorrupcion",
       "name": "Ley General del Sistema Nacional Anticorrupción",
-      "citation_count": 93
+      "citation_count": 87
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "name": "Ley General de Salud",
+      "citation_count": 85
     },
     {
       "law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
       "name": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
-      "citation_count": 91
-    },
-    {
-      "law_id": "ley-de-planeacion",
-      "name": "ley-de-planeacion",
-      "citation_count": 87
-    },
-    {
-      "law_id": "ley-general-de-educacion",
-      "name": "Ley General de Educación",
-      "citation_count": 84
+      "citation_count": 83
     },
     {
       "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
       "name": "ley-general-de-titulos-y-operaciones-de-credito",
-      "citation_count": 81
-    },
-    {
-      "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
-      "name": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "citation_count": 76
+      "citation_count": 74
     },
     {
       "law_id": "ley-de-coordinacion-fiscal",
       "name": "ley-de-coordinacion-fiscal",
       "citation_count": 74
+    },
+    {
+      "law_id": "ley-de-planeacion",
+      "name": "ley-de-planeacion",
+      "citation_count": 70
+    },
+    {
+      "law_id": "ley-general-de-educacion",
+      "name": "Ley General de Educación",
+      "citation_count": 65
+    },
+    {
+      "law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+      "name": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+      "citation_count": 58
     }
   ],
   "top_unresolved": [
@@ -221,7 +221,7 @@
     },
     {
       "raw_name": "Reglamento de la Ley",
-      "count": 12
+      "count": 11
     },
     {
       "raw_name": "Reglamento de Reclutamiento de Personal para el Ejército",
@@ -292,19 +292,11 @@
       "count": 5
     },
     {
-      "raw_name": "Ley para la Protección de los Derechos de Niñas",
-      "count": 5
-    },
-    {
       "raw_name": "Ley de Ingresos por un factor de 0",
       "count": 5
     },
     {
       "raw_name": "Ley del Notariado para el Distrito Federal y Territorios",
-      "count": 4
-    },
-    {
-      "raw_name": "Ley del Tribunal de lo Contencioso Administrativo del Distrito Federal",
       "count": 4
     },
     {
@@ -352,16 +344,24 @@
       "count": 4
     },
     {
-      "raw_name": "Ley de Fiscalización Superior de la Federación",
-      "count": 4
-    },
-    {
       "raw_name": "Decreto por el que se reforman",
       "count": 4
     },
     {
       "raw_name": "Ley Federal Anticorrupción en Contrataciones Públicas",
       "count": 4
+    },
+    {
+      "raw_name": "Reglamento del Registro Público de Comercio",
+      "count": 3
+    },
+    {
+      "raw_name": "acuerdo de arbitraje o contiene decisiones que exceden los términos del acuerdo de arbitraje",
+      "count": 3
+    },
+    {
+      "raw_name": "código de seguridad a que se refiere el artículo 19",
+      "count": 3
     }
   ]
 }

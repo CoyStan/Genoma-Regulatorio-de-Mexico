@@ -16,10 +16,10 @@ Se construyó una red de citaciones del corpus jurídico federal mexicano. Cada 
 |---------|-------|
 | Leyes analizadas | 318 |
 | Nodos en la red | 318 (sin nodos fantasma) |
-| Conexiones (citas entre leyes) | 5,281 |
-| Densidad de la red | 0.052 |
-| Comunidades regulatorias detectadas | 8 |
-| Dependencias circulares (citas mutuas) | 1,046 |
+| Conexiones (citas entre leyes) | 4,089 |
+| Densidad de la red | 0.040 |
+| Comunidades regulatorias detectadas | 6 |
+| Dependencias circulares (citas mutuas) | 544 |
 | Leyes aisladas | 25 |
 | Referencias huérfanas reales | 18 (todas a Ley de Vías Generales de Comunicación, abrogada) |
 
@@ -51,7 +51,7 @@ Estas leyes son las más referenciadas — reformarlas tendría el mayor impacto
 
 > _Nota: Con la corrección de nodos fragmentados el número de comunidades pasó de 7 a 6, al unificarse los stubs con sus nodos reales._
 
-### 500 Dependencias Circulares
+### 544 Dependencias Circulares
 
 Pares de leyes que se citan mutuamente. Ejemplos notables:
 - **Ley Federal del Trabajo ↔ Ley del Seguro Social**
@@ -77,12 +77,12 @@ Basado en la red de citas, se cuantificó el potencial de reducir la complejidad
 
 | Métrica | Valor |
 |---------|-------|
-| Leyes candidatas a abrogación (score ≥ 80) | 89 (28% del corpus) |
+| Leyes candidatas a abrogación (score ≥ 80) | 100 (31% del corpus) |
 | Leyes completamente aisladas (0 conexiones relevantes) | 23 |
 | Pares candidatos a fusión (citan mutuamente, mismo sector) | 40 |
 | Leyes que requieren reforma urgente (alta ambigüedad + ciclos) | 40 |
 
-> _Nota: El número bajó de 217 → 160 → 89 tras dos rondas de corrección: primero unificando nodos fragmentados (stubs), luego corrigiendo resoluciones erróneas por coincidencia fuzzy (LGDS, LGTOC, LPAB, LGCG, LMIN, LFPCA y otras eran resueltas incorrectamente a LGSM por prefijo compartido "Ley General de"). El 28% es el número metodológicamente más defendible._
+> _Nota: El número convergió a 100 tras tres rondas de corrección metodológica: (1) unificación de nodos fragmentados, (2) corrección de resoluciones fuzzy erróneas por prefijo compartido "Ley General de", (3) filtrado de listas de enumeración en direct_mention. El 31% corresponde a leyes con baja integración estructural — no a leyes sin utilidad jurídica._
 
 ### Candidatas a Abrogación
 
@@ -132,7 +132,7 @@ Leyes muy referenciadas con alta ambigüedad — eliminarlas rompería el sistem
 
 1. ~~Mejorar la clasificación de sectores~~ — resuelto: 0 leyes con sector desconocido (era 136); todas las comunidades etiquetadas
 2. ~~Investigar las referencias huérfanas~~ — resuelto: 1,580 falsas alarmas corregidas; solo 18 referencias reales (todas a Ley de Vías Generales de Comunicación, abrogada)
-3. ~~Análisis de simplificación regulatoria~~ — resuelto: 89 candidatas a abrogación (28%), 40 pares a fusionar, 40 a reformar
+3. ~~Análisis de simplificación regulatoria~~ — resuelto: 100 candidatas a abrogación (31%), 40 pares a fusionar, 40 a reformar
 4. Verificar manualmente una muestra de las 195 dependencias circulares
 5. Análisis temporal: incorporar fechas de reforma para ver cómo evoluciona la red
 

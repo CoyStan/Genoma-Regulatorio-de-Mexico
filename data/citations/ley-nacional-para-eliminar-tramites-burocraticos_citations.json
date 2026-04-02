@@ -1,128 +1,122 @@
 {
   "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
-  "extracted_at": "2026-03-30T12:18:26.126675+00:00",
+  "extracted_at": "2026-04-02T10:38:43.821735+00:00",
   "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "25",
       "citation_text": "Artículo 1. La presente Ley es reglamentaria del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en materia de simplificación administrativa y digitalización de Trámites y Servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 49,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 49
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "3",
       "target_law_raw": "Ley General de Población",
+      "target_law_id": "ley-general-de-poblacion",
       "target_article": null,
       "citation_text": "y generen el menor costo burocrático; X.\tCURP: la Clave Única de Registro de Población asignada por el Registro Nacional de Población, en términos de la Ley General de Población, como fuente única de identidad de las personas; XI.\tCosto burocrático: los costos económicos y sociales que las personas asumen para cumplir con las",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1761,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de población",
-      "target_law_id": "ley-general-de-poblacion",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley general de población"
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "3",
       "target_law_raw": "Reglamento de la Ley",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": " como acuerdos, normas, reglamentos, circulares, lineamientos, reglas, manuales o cualquier otra disposición de naturaleza análoga; XXIX.\tReglamento: el Reglamento de la Ley; XXX.\tRepositorio Nacional de Tecnología Pública: instrumento que concentra, organiza, almacena y preserva el código fuente de las soluciones tecnoló",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5763,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "9",
       "target_law_raw": "Ley sobre la Celebración de Tratados",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "interinstitucionales en el ámbito internacional en materia de buenas prácticas regulatorias, simplificación y digitalización de Trámites y Servicios, en los términos de la Ley sobre la Celebración de Tratados; XIV.\tOrganizar y participar en foros, conferencias, coloquios, diplomados, seminarios, talleres, reuniones, eventos, convenciones y congresos que se",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2378,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley sobre la celebración de tratados",
-      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley sobre la celebración de tratados"
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "53",
       "target_law_raw": "Ley General de Responsabilidades Administrativas y demás normatividad",
+      "target_law_id": "ley-general-de-responsabilidades-administrativas",
       "target_article": null,
       "citation_text": " Regulación correspondiente. La falta de corrección o actualización en los términos previstos en el presente artículo, será sancionada en términos de la Ley General de Responsabilidades Administrativas y demás normatividad aplicable.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 892,
+      "resolution_confidence": "medium",
       "resolution_score": 0.8205128205128205,
-      "resolution_matched_alias": "ley general de responsabilidades administrativas",
-      "target_law_id": "ley-general-de-responsabilidades-administrativas",
-      "resolution_confidence": "medium"
+      "resolution_matched_alias": "ley general de responsabilidades administrativas"
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "113",
       "target_law_raw": "Ley General de Responsabilidades Administrativas",
+      "target_law_id": "ley-general-de-responsabilidades-administrativas",
       "target_article": null,
       "citation_text": "iones establecidas por la presente Ley, por parte de las personas servidoras públicas de los tres órdenes de gobierno, será sancionado en términos de la Ley General de Responsabilidades Administrativas, o en su caso, con las leyes locales en la materia y demás disposiciones jurídicas aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 196,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general de responsabilidades administrativas",
-      "target_law_id": "ley-general-de-responsabilidades-administrativas",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley general de responsabilidades administrativas"
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "114",
       "target_law_raw": "Ley Nacional para Eliminar Trámites Burocráticos contenida en el presente Decreto",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "nforme a sus leyes locales y normativa aplicable. Una vez que entren en funcionamiento las nuevas autoridades de simplificación, éstas se regirán por la Ley Nacional para Eliminar Trámites Burocráticos contenida en el presente Decreto. Los asuntos que se encuentren en trámite ante las autoridades estatales de Mejora Regulatoria al momento de su extinción continuarán a cargo de las ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 8061,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.45255474452554745,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-nacional-para-eliminar-tramites-burocraticos",
       "source_article": "114",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": " Julieta Villalpando Riquelme, Secretaria.- Sen. Lizeth Sánchez García, Secretaria.- Rúbricas.\" En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 15 de",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 10357,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 10357
     }
   ],
-  "resolved_at": "2026-04-02T10:33:13.418214+00:00"
+  "resolved_at": "2026-04-02T10:40:30.740596+00:00"
 }

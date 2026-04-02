@@ -1,7 +1,7 @@
 {
-  "total_citations": 12444,
+  "total_citations": 10893,
   "by_pattern": {
-    "direct_mention": 7620,
+    "direct_mention": 6069,
     "constitucion_bare": 1128,
     "constitucion_full": 794,
     "lo_dispuesto": 512,
@@ -23,7 +23,7 @@
     "materia_conforme": 2
   },
   "by_confidence": {
-    "medium": 8782,
+    "medium": 7231,
     "high": 3662
   },
   "top_cited_laws_raw": [
@@ -33,26 +33,22 @@
     },
     {
       "name": "Ley Federal de Procedimiento Administrativo",
-      "count": 151
+      "count": 144
     },
     {
       "name": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
-      "count": 146
+      "count": 140
     },
     {
       "name": "Ley de Instituciones de Crédito",
-      "count": 136
-    },
-    {
-      "name": "Ley Federal del Trabajo",
-      "count": 131
+      "count": 122
     },
     {
       "name": "Ley General de Responsabilidades Administrativas",
       "count": 117
     },
     {
-      "name": "Ley del Mercado de Valores",
+      "name": "Ley Federal del Trabajo",
       "count": 114
     },
     {
@@ -60,40 +56,28 @@
       "count": 112
     },
     {
-      "name": "Ley del Impuesto sobre la Renta",
-      "count": 102
-    },
-    {
-      "name": "Ley General de Salud",
-      "count": 101
+      "name": "Ley del Mercado de Valores",
+      "count": 103
     },
     {
       "name": "Código Nacional de Procedimientos Civiles y Familiares",
       "count": 98
     },
     {
-      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
-      "count": 92
+      "name": "Ley del Impuesto sobre la Renta",
+      "count": 96
     },
     {
       "name": "ley de la materia",
       "count": 91
     },
     {
-      "name": "Ley Federal de los Trabajadores al Servicio del Estado",
-      "count": 89
+      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "count": 88
     },
     {
       "name": "Ley Federal de las Entidades Paraestatales",
-      "count": 86
-    },
-    {
-      "name": "Ley Orgánica de la Administración Pública Federal",
-      "count": 84
-    },
-    {
-      "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
-      "count": 84
+      "count": 85
     },
     {
       "name": "Reglamento de esta Ley",
@@ -104,8 +88,24 @@
       "count": 82
     },
     {
-      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "name": "Ley Orgánica de la Administración Pública Federal",
+      "count": 81
+    },
+    {
+      "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
       "count": 80
+    },
+    {
+      "name": "Ley General de Salud",
+      "count": 78
+    },
+    {
+      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "count": 75
+    },
+    {
+      "name": "Ley General de Títulos y Operaciones de Crédito",
+      "count": 69
     }
   ]
 }

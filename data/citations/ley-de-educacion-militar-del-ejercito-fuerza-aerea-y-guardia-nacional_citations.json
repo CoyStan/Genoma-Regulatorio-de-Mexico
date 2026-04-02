@@ -1,128 +1,125 @@
 {
   "law_id": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
-  "extracted_at": "2026-03-30T12:18:19.009663+00:00",
+  "extracted_at": "2026-04-02T10:38:36.686242+00:00",
   "total_citations": 8,
   "citations": [
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "2",
       "target_law_raw": "Ley de Educación Militar del Ejército",
+      "target_law_id": "ley-general-de-educacion",
       "target_article": null,
       "citation_text": "Artículo 2.- Para los efectos de esta Ley, se entenderá por:  I.\tLey, la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional; Fracción reformada DOF 16-07-2025  II. Secretaría, la Secretaría de la Defensa Nacional, y  III.\tDirección y Rector",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 70,
+      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de educación",
-      "target_law_id": "ley-general-de-educacion",
-      "resolution_confidence": "low"
+      "resolution_matched_alias": "ley de educación"
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Reglamento",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "ersona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.  Ciudad de México, a 30 de junio de 2025.- Dip. Sergio Carlos Gutiérrez Luna, Presidente.- Sen. Gerardo Fernández Noroña, Presidente.- Dip. José Lui",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 8016,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.5217391304347826,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos",
+      "target_law_id": "ley-general-de-educacion",
       "target_article": null,
       "citation_text": "icanos.  Publicado en el Diario Oficial de la Federación el 22 de mayo de 2018  Artículo Único.- Se reforman los artículos 1, párrafo primero y 28 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, para quedar como sigue:  ..  Transitorio  Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1539,
+      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de educación",
-      "target_law_id": "ley-general-de-educacion",
-      "resolution_confidence": "low"
+      "resolution_matched_alias": "ley de educación"
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Ley de la Guardia Nacional y se reforman",
+      "target_law_id": "ley-de-la-guardia-nacional",
       "target_article": null,
       "citation_text": "2.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.   DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexican",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5145,
+      "resolution_confidence": "medium",
       "resolution_score": 0.7878787878787878,
-      "resolution_matched_alias": "ley de la guardia nacional",
-      "target_law_id": "ley-de-la-guardia-nacional",
-      "resolution_confidence": "medium"
+      "resolution_matched_alias": "ley de la guardia nacional"
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
+      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": " López Hernández.- Rúbrica.   DECRETO por el que se expide la Ley de la Guardia Nacional y se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal; Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos; Ley de Ascensos y Recompensas de",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 5236,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal",
-      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley orgánica de la administración pública federal"
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Ley Orgánica del Ejército y Fuerza Aérea Mexicanos",
+      "target_law_id": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
       "target_article": null,
       "citation_text": "á su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.  Séptimo.- Por lo que hace a la reforma de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, el personal militar que pase de la clasificación de auxiliar a la de especialista y que no cuente con un Nombramiento o Patente, se les extenderá el",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7562,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica del ejército y fuerza aérea mexicanos",
-      "target_law_id": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley orgánica del ejército y fuerza aérea mexicanos"
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Reglamento de Reclutamiento de Personal para el Ejército",
+      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "rá el correspondiente, respetando su antigüedad en el empleo y especialidad.  Octavo.- Hasta en tanto la persona titular del Ejecutivo Federal expida el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional, se aplicará lo dispuesto en el Reglamento vigente en la materia.  Ciudad de México, a 30 de junio de 2025.- Dip. Se",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 7910,
+      "resolution_confidence": "unresolved",
       "resolution_score": 0.45569620253164556,
-      "resolution_matched_alias": null,
-      "target_law_id": "unresolved",
-      "resolution_confidence": "unresolved"
+      "resolution_matched_alias": null
     },
     {
       "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
       "source_article": "51",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "nda E. González Hernández, Secretaria.- Dip. Patricia Garduño Morales, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 830,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 830
     }
   ],
-  "resolved_at": "2026-04-02T10:32:03.899821+00:00"
+  "resolved_at": "2026-04-02T10:39:20.921315+00:00"
 }

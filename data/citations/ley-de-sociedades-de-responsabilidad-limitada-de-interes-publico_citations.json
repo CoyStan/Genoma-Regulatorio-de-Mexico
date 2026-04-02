@@ -1,38 +1,35 @@
 {
   "law_id": "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
-  "extracted_at": "2026-03-30T12:18:20.575094+00:00",
+  "extracted_at": "2026-04-02T10:38:38.291209+00:00",
   "total_citations": 2,
   "citations": [
     {
       "source_law": "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
       "source_article": "5",
       "target_law_raw": "Ley de Sociedades Mercantiles y por las especiales relativas a las sociedades de responsabilidad limitada",
+      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "ARTICULO 5°.- Salvo lo previsto por la presente Ley, la sociedad se regirá por las disposiciones generales de la Ley de Sociedades Mercantiles y por las especiales relativas a las sociedades de responsabilidad limitada.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 110,
+      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley de sociedades mercantiles",
-      "target_law_id": "ley-general-de-sociedades-mercantiles",
-      "resolution_confidence": "low"
+      "resolution_matched_alias": "ley de sociedades mercantiles"
     },
     {
       "source_law": "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
       "source_article": "13",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "nistradores de la sociedad garantizarán su manejo en la forma que prevenga el contrato social.  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, promulgo la presente Ley, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los ve",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 172,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 172
     }
   ],
-  "resolved_at": "2026-04-02T10:32:23.197737+00:00"
+  "resolved_at": "2026-04-02T10:39:40.257837+00:00"
 }

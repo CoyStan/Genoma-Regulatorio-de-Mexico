@@ -1,53 +1,47 @@
 {
   "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
-  "extracted_at": "2026-03-30T12:18:20.092789+00:00",
+  "extracted_at": "2026-04-02T10:38:37.802520+00:00",
   "total_citations": 3,
   "citations": [
     {
       "source_law": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
       "source_article": "1",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal tengan asignada competencia sobre la materia que regula el presente ordenamiento",
+      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
       "citation_text": "son de orden público e interés general; su aplicación y vigilancia está a cargo del Ejecutivo Federal por conducto de las dependencias que conforme a la Ley Orgánica de la Administración Pública Federal tengan asignada competencia sobre la materia que regula el presente ordenamiento.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 258,
+      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica del poder judicial de la federación",
-      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
-      "resolution_confidence": "low"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
     },
     {
       "source_law": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
       "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "72",
       "citation_text": "vas relacionadas con el párrafo anterior, deberá solicitar la opinión de la Secretaría de Gobernación previo a iniciar el trámite a que se refiere el artículo 72 Constitucional.  Tratándose de entidades federativas o municipios que colinden con otra entidad federativa o demarcación territorial extranjera, con un huso horario",
       "pattern_name": "articulo_constitucional",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 927,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 927
     },
     {
       "source_law": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
       "source_article": "7",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "Brenda Espinoza Lopez, Secretaria.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en La Paz, Baja California Sur, a los 28 días del mes de octubre de 2022.- An",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1345,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 1345
     }
   ],
-  "resolved_at": "2026-04-02T10:32:18.945062+00:00"
+  "resolved_at": "2026-04-02T10:39:36.123586+00:00"
 }

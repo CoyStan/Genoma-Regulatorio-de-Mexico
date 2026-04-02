@@ -8,12 +8,12 @@ _Generado: 2026-04-02_
 
 | Métrica | Valor |
 |---------|-------|
-| Leyes en el corpus | 318 |
-| Candidatas a abrogación | 89 |
-| Leyes aisladas (0 vínculos) | 23 |
+| Leyes en el corpus | 319 |
+| Candidatas a abrogación | 100 |
+| Leyes aisladas (0 vínculos) | 25 |
 | Pares candidatos a fusión | 40 |
 | Leyes que requieren reforma urgente | 40 |
-| Reducción potencial del corpus | 89 leyes (28% del corpus) |
+| Reducción potencial del corpus | 100 leyes (31% del corpus) |
 
 > **Lectura:** Una ley candidata a abrogación tiene bajo impacto en cascada — su eliminación no requeriría reformar muchas otras leyes. Una ley candidata a fusión se solapa funcionalmente con otra del mismo sector.
 
@@ -41,46 +41,46 @@ _Score de seguridad: 0 = difícil de eliminar (CPEUM), 100 = completamente aisla
 | 14 | **LUPDECR** | salud | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 1 leyes (bajo acoplamiento) |
 | 15 | **LFPPCPCIA** | educacion | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
 | 16 | **LGPSDMS** | constitucional | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 17 | **LTPCPIMCP** | anticorrupcion | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 4 leyes (bajo acoplamiento) |
-| 18 | **LRSF** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 19 | **LSPM** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 3 leyes (bajo acoplamiento) |
-| 20 | **LRART27_MN** | constitucional | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 21 | **LIMJ** | salud | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 22 | **LEVCT** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 2 leyes (bajo acoplamiento) |
-| 23 | **LRART5_PROF** | constitucional | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 24 | **LPCINECDI** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 2 leyes (bajo acoplamiento) |
-| 25 | **LIFNCT** | vivienda | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 26 | **LFCPQ** | penal | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 5 leyes (bajo acoplamiento) |
-| 27 | **LOUAM** | educacion | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 3 leyes (bajo acoplamiento) |
-| 28 | **PEF_2026** | fiscal | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 29 | **LGMDFP** | penal | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
-| 30 | **LGMIME** | electoral | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 17 | **LCID** | administrativo | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 18 | **LTPCPIMCP** | anticorrupcion | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 4 leyes (bajo acoplamiento) |
+| 19 | **LRSF** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 20 | **LSPM** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 3 leyes (bajo acoplamiento) |
+| 21 | **LRART27_MN** | constitucional | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 22 | **LIMJ** | salud | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 23 | **LEVCT** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 2 leyes (bajo acoplamiento) |
+| 24 | **LRART5_PROF** | constitucional | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 25 | **LPCINECDI** | mercantil | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 2 leyes (bajo acoplamiento) |
+| 26 | **LIFNCT** | vivienda | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 27 | **LCMM** | financiero | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
+| 28 | **LFCPQ** | penal | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 5 leyes (bajo acoplamiento) |
+| 29 | **LOUAM** | educacion | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares; cita solo 3 leyes (bajo acoplamiento) |
+| 30 | **PEF_2026** | fiscal | 0 | 0 | 100.0 | ninguna ley la cita; impacto en cascada mínimo; sin dependencias circulares |
 
 ## 2. Candidatas a Fusión
 _Pares de leyes que se citan mutuamente y comparten sector — podrían consolidarse en un solo instrumento._
 
 | # | Ley A | Ley B | Sector | Score | Razón |
 |---|-------|-------|--------|-------|-------|
-| 1 | **LONF** | **LOBNOSP** | financiero | 97 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 2 | **LOBNOSP** | **LOBNCE** | financiero | 97 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 3 | **LOBNCE** | **LONF** | financiero | 97 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 4 | **LINPI** | **LGDLPI** | social | 96 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 5 | **LOCG** | **REG_DIPUTADOS** | administrativo | 96 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 6 | **LDPARM** | **LOAM** | seguridad | 95 | se citan mutuamente; mismo sector jurídico |
-| 7 | **LAAM** | **LOAM** | seguridad | 95 | se citan mutuamente; mismo sector jurídico |
-| 8 | **LGPDPPSO** | **LFPDPPP** | transparencia | 95 | se citan mutuamente; mismo sector jurídico |
-| 9 | **LRSIC** | **LTFCCG** | financiero | 90.4 | se citan mutuamente; mismo sector jurídico |
-| 10 | **LIEPS** | **LFISAN** | fiscal | 89.8 | se citan mutuamente; mismo sector jurídico |
-| 11 | **LFPCA** | **LFRPE** | administrativo | 84.6 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 12 | **LDFEFM** | **LGDP** | fiscal | 83.6 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 13 | **LTOSF** | **LTFCCG** | financiero | 83.6 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
-| 14 | **LSH** | **LMIN** | energia | 83.0 | se citan mutuamente; mismo sector jurídico |
-| 15 | **LNCM** | **LPUE** | mercantil | 82.6 | se citan mutuamente; mismo sector jurídico |
-| 16 | **LOPSRM** | **LEXP** | administrativo | 81.8 | se citan mutuamente; mismo sector jurídico |
-| 17 | **LGDP** | **LFRCF** | fiscal | 81.6 | se citan mutuamente; mismo sector jurídico |
-| 18 | **LAMP** | **LRFIYII_ART105** | judicial | 81.6 | se citan mutuamente; mismo sector jurídico |
-| 19 | **LGSNSP** | **LSN** | seguridad | 81.1 | se citan mutuamente; mismo sector jurídico |
-| 20 | **LGP** | **LGT** | educacion | 80.6 | se citan mutuamente; mismo sector jurídico |
+| 1 | **REG_DIPUTADOS** | **LOCG** | administrativo | 97 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
+| 2 | **LGDLPI** | **LINPI** | social | 96 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
+| 3 | **LDPARM** | **LOAM** | seguridad | 95 | se citan mutuamente; mismo sector jurídico |
+| 4 | **LGPDPPSO** | **LFPDPPP** | transparencia | 95 | se citan mutuamente; mismo sector jurídico |
+| 5 | **LOAM** | **LAAM** | seguridad | 95 | se citan mutuamente; mismo sector jurídico |
+| 6 | **LFISAN** | **LIEPS** | fiscal | 93.4 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
+| 7 | **LNCM** | **LPUE** | mercantil | 91.4 | se citan mutuamente; mismo sector jurídico |
+| 8 | **LRFIYII_ART105** | **LAMP** | judicial | 91.1 | se citan mutuamente; mismo sector jurídico |
+| 9 | **LMIN** | **LSH** | energia | 90.4 | se citan mutuamente; mismo sector jurídico |
+| 10 | **LGV** | **LGDLPI** | social | 87.8 | se citan mutuamente; mismo sector jurídico |
+| 11 | **LSE** | **LBIO** | energia | 86.8 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
+| 12 | **LFPCA** | **LFRPE** | administrativo | 85.6 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
+| 13 | **LRSIC** | **LTOSF** | financiero | 85.0 | se citan mutuamente; mismo sector jurídico |
+| 14 | **LINPI** | **LGV** | social | 83.8 | se citan mutuamente; mismo sector jurídico |
+| 15 | **LEPEPM** | **LSE** | energia | 83.6 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
+| 16 | **LGDP** | **LDFEFM** | fiscal | 83.6 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
+| 17 | **LSN** | **LGSNSP** | seguridad | 83.1 | se citan mutuamente; mismo sector jurídico |
+| 18 | **LOCG** | **LFRSP** | administrativo | 83 | se citan mutuamente; mismo sector jurídico |
+| 19 | **LUC** | **LGTOC** | financiero | 82.8 | se citan mutuamente; mismo sector jurídico |
+| 20 | **LASOC** | **LGDNNA** | salud | 81.8 | se citan mutuamente; mismo sector jurídico; baja dependencia externa |
 
 ## 3. Reforma Urgente (Alta Complejidad)
 _Leyes muy referenciadas que concentran ambigüedad: definiciones conflictivas y dependencias circulares._
@@ -88,26 +88,26 @@ _No conviene abrogarlas — conviene clarificarlas y desambiguarlas._
 
 | # | Ley | Sector | Dep. Circulares | Conflictos def. | Score |
 |---|-----|--------|----------------|-----------------|-------|
-| 1 | **LCNBV** | financiero | 46 | 0 | 707 |
-| 2 | **LSS** | seguridad-social | 35 | 3 | 601 |
-| 3 | **LFT** | trabajo | 37 | 0 | 577 |
-| 4 | **LOAPF** | administrativo | 36 | 0 | 564 |
-| 5 | **LAN** | ambiental | 32 | 3 | 553 |
-| 6 | **LGCC** | electoral | 35 | 0 | 540 |
-| 7 | **CNPP** | penal | 22 | 9 | 535 |
-| 8 | **LFFAOSC** | civil | 21 | 10 | 526 |
-| 9 | **LGDS** | social | 34 | 0 | 525 |
-| 10 | **LIC** | financiero | 32 | 1 | 517 |
-| 11 | **LFMPED** | financiero | 27 | 4 | 497 |
-| 12 | **LFAEBSP** | administrativo | 32 | 0 | 494 |
-| 13 | **CPEUM** | constitucional | 29 | 0 | 465 |
-| 14 | **LCM** | mercantil | 28 | 0 | 434 |
-| 15 | **LFPRH** | fiscal | 27 | 0 | 426 |
-| 16 | **LBOGM** | salud | 24 | 2 | 411 |
-| 17 | **LIE** | financiero | 25 | 1 | 407 |
-| 18 | **LGS** | salud | 26 | 0 | 407 |
-| 19 | **LFD** | propiedad-intelectual | 26 | 0 | 404 |
-| 20 | **LGBN** | administrativo | 24 | 0 | 375 |
+| 1 | **LOAPF** | administrativo | 31 | 0 | 488 |
+| 2 | **CNPP** | penal | 16 | 9 | 444 |
+| 3 | **LFT** | trabajo | 24 | 0 | 380 |
+| 4 | **LSS** | seguridad-social | 19 | 3 | 358 |
+| 5 | **LGEEPA** | ambiental | 22 | 0 | 344 |
+| 6 | **LGBN** | administrativo | 22 | 0 | 344 |
+| 7 | **LIC** | financiero | 20 | 1 | 334 |
+| 8 | **LISR** | fiscal | 16 | 4 | 333 |
+| 9 | **LIE** | financiero | 19 | 1 | 317 |
+| 10 | **LBM** | financiero | 20 | 0 | 313 |
+| 11 | **LCNBV** | financiero | 20 | 0 | 312 |
+| 12 | **LAC** | civil | 17 | 2 | 305 |
+| 13 | **LFPRH** | fiscal | 19 | 0 | 305 |
+| 14 | **CFF** | fiscal | 19 | 0 | 298 |
+| 15 | **LOEFAM** | seguridad | 19 | 0 | 296 |
+| 16 | **LFEP** | administrativo | 18 | 0 | 287 |
+| 17 | **LSAR** | financiero | 18 | 0 | 281 |
+| 18 | **LFD** | propiedad-intelectual | 18 | 0 | 281 |
+| 19 | **LGCFD** | educacion | 12 | 4 | 270 |
+| 20 | **LGCG** | anticorrupcion | 16 | 0 | 251 |
 
 ## 4. Términos con Definición Conflictiva
 _Términos clave definidos de forma diferente en múltiples leyes — fuente de ambigüedad jurídica._

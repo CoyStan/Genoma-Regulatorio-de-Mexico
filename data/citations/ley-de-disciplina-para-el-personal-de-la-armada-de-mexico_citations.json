@@ -1,38 +1,35 @@
 {
   "law_id": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
-  "extracted_at": "2026-03-30T12:18:19.003347+00:00",
+  "extracted_at": "2026-04-02T10:38:36.680040+00:00",
   "total_citations": 2,
   "citations": [
     {
       "source_law": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
       "source_article": "1",
       "target_law_raw": "Ley Orgánica de la Armada de México",
+      "target_law_id": "ley-organica-de-la-armada-de-mexico",
       "target_article": null,
       "citation_text": "Artículo 1.- La presente Ley se aplicará a todo el personal de acuerdo con lo establecido en la Ley Orgánica de la Armada de México.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 78,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la armada de méxico",
-      "target_law_id": "ley-organica-de-la-armada-de-mexico",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley orgánica de la armada de méxico"
     },
     {
       "source_law": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
       "source_article": "80",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "olanda E. González Hernández, Secretario.- Dip. Adela Cerezo Bautista, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 832,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 832
     }
   ],
-  "resolved_at": "2026-04-02T10:32:03.811792+00:00"
+  "resolved_at": "2026-04-02T10:39:20.833007+00:00"
 }

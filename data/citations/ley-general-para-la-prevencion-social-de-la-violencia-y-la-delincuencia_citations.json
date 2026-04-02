@@ -1,158 +1,152 @@
 {
   "law_id": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
-  "extracted_at": "2026-03-30T12:18:25.795204+00:00",
+  "extracted_at": "2026-04-02T10:38:43.509442+00:00",
   "total_citations": 10,
   "citations": [
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "21",
       "citation_text": "os Municipios en materia de prevención social de la violencia y la delincuencia en el marco del Sistema Nacional de Seguridad Pública, previsto en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 385,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 385
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "4",
       "target_law_raw": "Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia",
+      "target_law_id": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "target_article": null,
       "citation_text": "ra la Prevención Social de la Violencia y la Delincuencia;  VII. Programa anual: El programa de trabajo anual del Centro Nacional;  VIII. Reglamento: El Reglamento de la Ley General para la Prevención Social de la Violencia y la Delincuencia;  IX. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;  X. Secretario Ejecutivo: El Titular del Secretari",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 903,
+      "resolution_confidence": "medium",
       "resolution_score": 0.8930817610062893,
-      "resolution_matched_alias": "ley general para la prevención social de la violencia y la delincuencia",
-      "target_law_id": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
-      "resolution_confidence": "medium"
+      "resolution_matched_alias": "ley general para la prevención social de la violencia y la delincuencia"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "5",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "Artículo 5.- En lo no previsto por la presente Ley, se aplicarán, conforme a su naturaleza y de forma supletoria, las disposiciones contenidas en la Ley General del Sistema Nacional de Seguridad Pública.  CAPÍTULO SEGUNDO DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA Y LA ATENCIÓN A LAS VÍCTIMAS",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 146,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública",
-      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "12",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública y demás normativa",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "tar la política de prevención social de la violencia y la delincuencia, y éste se apoyará para ello en el Centro Nacional, en los términos que señala la Ley General del Sistema Nacional de Seguridad Pública y demás normativa aplicable.  Para dar seguimiento al cumplimiento de las disposiciones aplicables, el Secretariado Ejecutivo se coordinará con la Comisión.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 440,
+      "resolution_confidence": "medium",
       "resolution_score": 0.8548387096774194,
-      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública",
-      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "resolution_confidence": "medium"
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "14",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "idencia delictiva y de prevención social de la violencia y la delincuencia, y  V. Todas aquellas atribuciones conferidas al Secretariado Ejecutivo en la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales.  Sección Tercera Del Centro Nacional de Prevención del Delito y Participación Ciudadana",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 934,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública",
-      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "15",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "Artículo 15.- El Centro Nacional tendrá, además de las que le confiere la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, las siguientes atribuciones:  I. Participar en la elaboración del Programa Nacional de Prevención Social de la Violencia y la Delincuencia;  II. Ela",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 71,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública",
-      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "16",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "Artículo 16.- La Comisión tendrá, además de las que le confiere la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones aplicables, las siguientes atribuciones:  I. Apoyar al Secretariado Ejecutivo en el seguimiento del cumplimiento de los programas generales, especiales e instit",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 64,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública",
-      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "27",
       "target_law_raw": "Ley General del Sistema Nacional de Seguridad Pública",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": " la violencia y de la delincuencia, deberán cubrirse con cargo a sus respectivos presupuestos y sujetarse a las bases que establecen la presente Ley, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 274,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública",
-      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley general del sistema nacional de seguridad pública"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "30",
       "target_law_raw": "Ley Federal de Presupuesto y Responsabilidad Hacendaria",
+      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "target_article": null,
       "citation_text": " sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en el Presupuesto de Egresos de la Federación y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.  México, D.F., a 8 de diciembre de 2011.- Sen. Jose Gonzalez Morfin, Presidente.- Dip. Emilio Chuayffet Chemor, Presidente.- Sen. Ludivina Menchaca ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1341,
+      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria",
-      "target_law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "resolution_confidence": "high"
+      "resolution_matched_alias": "ley federal de presupuesto y responsabilidad hacendaria"
     },
     {
       "source_law": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
       "source_article": "30",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
+      "target_law_id": "constitucion-politica",
       "target_article": "89",
       "citation_text": "ina Menchaca Castellanos, Secretaria.- Dip. Guadalupe Pérez Domínguez, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1686,
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "resolution_confidence": "high",
-      "resolution_score": 1.0,
-      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
+      "char_offset": 1686
     }
   ],
-  "resolved_at": "2026-04-02T10:33:10.364877+00:00"
+  "resolved_at": "2026-04-02T10:40:27.752747+00:00"
 }
