@@ -7,104 +7,122 @@
       "source_law": "ley-general-de-aguas",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 1. La presente Ley es reglamentaria del artículo 4o., párrafo octavo, de la Constitución Política de los Estados Unidos Mexicanos en materia del derecho humano al acceso, disposición y saneamiento del agua para consumo personal y doméstic",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 82
+      "char_offset": 82,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-general-de-aguas",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "romover, respetar, proteger y garantizar el derecho humano al agua para consumo personal y doméstico, su acceso, disposición y saneamiento acorde con la Constitución y los tratados internacionales en materia de derechos humanos de los que el Estado mexicano sea parte;  III.\tEstablecer las instancias, instrumentos ",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 332
+      "char_offset": 332,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-general-de-aguas",
       "source_article": "5",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "Artículo 5. Toda persona gozará del derecho humano al agua conforme a lo establecido en la Constitución y a los tratados e instrumentos internacionales de los que el Estado mexicano sea parte.  Todas las autoridades, en el ámbito de su competencia tiene",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 88
+      "char_offset": 88,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-general-de-aguas",
       "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "raciones futuras puedan disfrutar de este recurso esencial en condiciones equitativas;  II.\tPro persona: Debe prevalecer la interpretación conforme a la Constitución y a los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia;  III.\tNo discriminación: Toda per",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 375
+      "char_offset": 375,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-general-de-aguas",
       "source_article": "29",
       "target_law_raw": "Ley de Aguas Nacionales",
-      "target_law_id": "ley-de-aguas-nacionales",
       "target_article": null,
       "citation_text": "29. La política para garantizar el derecho humano al agua y saneamiento se integra con los siguientes instrumentos:  I.\tEl Programa Nacional Hídrico, establecido en la Ley de Aguas Nacionales;  II.\tLos Programas Regionales Hídricos, regulados en la Ley de Aguas Nacionales;  III.\tLos Programas Hídricos de la Cuenca, regulados en la Ley de A",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 159,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de aguas nacionales"
+      "resolution_matched_alias": "ley de aguas nacionales",
+      "target_law_id": "ley-de-aguas-nacionales",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-general-de-aguas",
       "source_article": "43",
       "target_law_raw": "ley general",
-      "target_law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
       "target_article": null,
       "citation_text": "gua y saneamiento, y los servicios de agua para actividades productivas, administrados por los pueblos y comunidades indígenas y afromexicanas, serán regulados por la ley general reglamentaria del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.  TÍTULO SÉPTIMO  Capítulo Único Los Organismos Operadores de Agua",
       "pattern_name": "regulada_por",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 193,
-      "resolution_confidence": "medium",
       "resolution_score": 0.75,
-      "resolution_matched_alias": "ley electoral"
+      "resolution_matched_alias": "ley electoral",
+      "target_law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "resolution_confidence": "medium"
     },
     {
       "source_law": "ley-general-de-aguas",
       "source_article": "43",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ductivas, administrados por los pueblos y comunidades indígenas y afromexicanas, serán regulados por la ley general reglamentaria del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.  TÍTULO SÉPTIMO  Capítulo Único Los Organismos Operadores de Agua",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 256
+      "char_offset": 256,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-general-de-aguas",
       "source_article": "45",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "na del Socorro Núñez Monreal, Secretaria.- Sen. Simey Olvera Bautista, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 09 de",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 2062
+      "char_offset": 2062,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:33.460330+00:00"
+  "resolved_at": "2026-04-02T10:32:54.002772+00:00"
 }

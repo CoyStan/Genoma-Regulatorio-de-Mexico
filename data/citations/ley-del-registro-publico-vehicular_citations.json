@@ -7,59 +7,62 @@
       "source_law": "ley-del-registro-publico-vehicular",
       "source_article": "5",
       "target_law_raw": "Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública",
-      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
       "target_article": null,
       "citation_text": "Artículo 5.- En lo no previsto expresamente en esta Ley, se aplicará supletoriamente la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.  TÍTULO SEGUNDO DEL REGISTRO  CAPÍTULO I DE SU OBJETO E INTEGRACIÓN",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 85,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública"
+      "resolution_matched_alias": "ley general que establece las bases de coordinación del sistema nacional de seguridad pública",
+      "target_law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-del-registro-publico-vehicular",
       "source_article": "24",
       "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "sientos que obren en el Registro, el Secretariado Ejecutivo prevendrá a quien haya presentado el aviso para que realice las aclaraciones respectivas, de conformidad con el Reglamento de esta Ley.  TÍTULO TERCERO DE LAS INFRACCIONES Y SANCIONES",
       "pattern_name": "conformidad",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 421,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-del-registro-publico-vehicular",
       "source_article": "25",
       "target_law_raw": "Reglamento de esta Ley",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "e Ley, incurrirán en las infracciones siguientes:  I.- Efectuar extemporáneamente la inscripción de un vehículo en el Registro, excediendo los plazos señalados en el Reglamento de esta Ley;  II.- No inscribir el vehículo en el Registro, conforme lo establece el artículo 15 de esta Ley;  III.- No presentar los avisos a que se refiere el ",
       "pattern_name": "senalada_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 200,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.5238095238095238,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-del-registro-publico-vehicular",
       "source_article": "27",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": " Sen. Yolanda E. González H., Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 2256
+      "char_offset": 2256,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:25.727597+00:00"
+  "resolved_at": "2026-04-02T10:32:33.870274+00:00"
 }

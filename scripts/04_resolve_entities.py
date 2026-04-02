@@ -172,16 +172,18 @@ def resolve_cached(raw_name: str) -> dict:
         else:
             # 2. lookup.py (48 hardcoded laws)
             result = resolve_law_name(raw_name)
-            # Skip low-confidence (partial match) results — the partial match in
-            # lookup.py fires on "ley federal de " prefix, wrongly mapping ALL
-            # "Ley Federal de X" names to LFCE. The corpus registry is more precise.
-            if not result["law_id"] or result["confidence"] == "low":
+            # Fall through to corpus when lookup.py is low-confidence OR medium-confidence.
+            # Medium fuzzy matches in lookup.py (48 laws) can be wrong — e.g.
+            # "Ley General de Desarrollo Social" fuzzy-matches LGSM because they
+            # share the "ley general de " prefix. The full corpus (318 laws) is
+            # more precise and should take precedence when it finds a better match.
+            if not result["law_id"] or result["confidence"] in ("low", "medium"):
                 # 3. Corpus registry with cleaned name
                 cleaned = _clean_raw_name(raw_name)
                 corpus_result = resolve_from_corpus(cleaned)
                 if not corpus_result["law_id"] and cleaned != raw_name:
                     corpus_result = resolve_from_corpus(raw_name)
-                if corpus_result["law_id"]:
+                if corpus_result["law_id"] and corpus_result["score"] >= (result.get("score") or 0):
                     result = corpus_result
         _resolution_cache[raw_name] = result
     return _resolution_cache[raw_name]

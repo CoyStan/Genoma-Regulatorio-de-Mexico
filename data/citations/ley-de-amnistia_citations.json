@@ -7,14 +7,17 @@
       "source_law": "ley-de-amnistia",
       "source_article": "4o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "aime Ríos Velasco Grajeda, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 841
+      "char_offset": 841,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:13.637692+00:00"
+  "resolved_at": "2026-04-02T10:31:56.429790+00:00"
 }

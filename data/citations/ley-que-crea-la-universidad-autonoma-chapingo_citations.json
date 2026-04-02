@@ -7,110 +7,122 @@
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "4o",
       "target_law_raw": "Ley Federal de Educación",
-      "target_law_id": "ley-general-de-educacion",
       "target_article": null,
       "citation_text": "so y permanencia de alumnos y del personal académico, atendiendo para ello lo señalado en el Art. 3o. de la Constitución Política y en el Art. 5o. de la Ley Federal de Educación, y demás leyes aplicables;  VII.- Prestar asistencia técnica y servicio social a comunidades rurales según sus planes académicos y cuando lo juzgue c",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 881,
-      "resolution_confidence": "high",
       "resolution_score": 0.9166666666666666,
-      "resolution_matched_alias": "ley general de educación"
+      "resolution_matched_alias": "ley general de educación",
+      "target_law_id": "ley-general-de-educacion",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "4o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "arta;  VI.- Establecer las políticas de ingreso y permanencia de alumnos y del personal académico, atendiendo para ello lo señalado en el Art. 3o. de la Constitución Política y en el Art. 5o. de la Ley Federal de Educación, y demás leyes aplicables;  VII.- Prestar asistencia técnica y servicio social a comunidades",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 836
+      "char_offset": 836,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "14",
       "target_law_raw": "Ley Federal de los Trabajadores al Servicio del Estado",
-      "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
       "citation_text": "ARTICULO 14.- Las relaciones de trabajo entre la Universidad Autónoma Chapingo y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 113,
-      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_matched_alias": "ley federal de competencia económica",
+      "target_law_id": "ley-federal-de-competencia-economica",
+      "resolution_confidence": "low"
     },
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "idad Autónoma Chapingo y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.",
       "pattern_name": "articulo_constitucional",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 206
+      "char_offset": 206,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "15",
       "target_law_raw": "Ley Federal de los Trabajadores al Servicio del Estado",
-      "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
       "citation_text": "s Jefes de Departamento, los Jefes de Centro Regional y demás personal que tenga ese carácter, de conformidad con lo dispuesto por el Artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 267,
-      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_matched_alias": "ley federal de competencia económica",
+      "target_law_id": "ley-federal-de-competencia-economica",
+      "resolution_confidence": "low"
     },
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "15",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": ", de conformidad con lo dispuesto por el Artículo 5o. de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.",
       "pattern_name": "articulo_constitucional",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 360
+      "char_offset": 360,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "16",
       "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
       "target_article": null,
       "citation_text": "ARTICULO 16.- El Personal de la Universidad Autónoma Chapingo quedará incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.  TRANSITORIOS:  PRIMERO.- Esta Ley entrará en vigor a los quince días de la fecha de su publicación en el \"Diario Oficial\" de la Federación.  SEGUND",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 96,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
+      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado",
+      "target_law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-que-crea-la-universidad-autonoma-chapingo",
       "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "isco Luna Kan, S. P.- José Octavio Ferrer Guzmán, D. S.- Carlos Pérez Cámara, S. S.- Rúbricas\"  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, D. F., ",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 2542
+      "char_offset": 2542,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:43.263032+00:00"
+  "resolved_at": "2026-04-02T10:33:20.041753+00:00"
 }

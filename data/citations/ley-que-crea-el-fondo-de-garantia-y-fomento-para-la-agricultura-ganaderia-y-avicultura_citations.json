@@ -7,101 +7,107 @@
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": ". P.- Teófilo Borunda, S. P.- Ramón García Ruíz, D. S.- Efraín Brito Rosado, S. S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Fed",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1352
+      "char_offset": 1352,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "5o",
       "target_law_raw": "Ley en el Diario Oficial de la Federación",
-      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
       "citation_text": "afo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación.  La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 569,
-      "resolution_confidence": "medium",
       "resolution_score": 0.7640449438202247,
-      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación",
+      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
+      "resolution_confidence": "medium"
     },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "5o",
       "target_law_raw": "Ley de Instituciones de Crédito",
-      "target_law_id": "ley-de-instituciones-de-credito",
       "target_article": null,
       "citation_text": "lica Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.  Se deja sin efecto, en lo refer",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1146,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de instituciones de crédito"
+      "resolution_matched_alias": "ley de instituciones de crédito",
+      "target_law_id": "ley-de-instituciones-de-credito",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "5o",
       "target_law_raw": "Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley",
-      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
       "target_article": null,
       "citation_text": "do de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Públ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1188,
-      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley orgánica del poder judicial de la federación"
+      "resolution_matched_alias": "ley orgánica del poder judicial de la federación",
+      "target_law_id": "ley-organica-del-poder-judicial-de-la-federacion",
+      "resolution_confidence": "low"
     },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "5o",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "siciones que se opongan a la presente Ley.  Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artícu",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1405,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+      "resolution_matched_alias": "ley orgánica de la administración pública federal",
+      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "5o",
       "target_law_raw": "Ley de Ahorro y Crédito Popular",
-      "target_law_id": "ley-de-ahorro-y-credito-popular",
       "target_article": null,
       "citation_text": "as Uniones de Crédito que reciban de sus socios depósitos de ahorro, deberán ajustarse a los plazos, requisitos, términos y condiciones que establece la Ley de Ahorro y Crédito Popular, así como sus reformas subsecuentes.  México, D.F., a 10 de marzo de 2005.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Manlio Fabio Be",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 3272,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de ahorro y crédito popular"
+      "resolution_matched_alias": "ley de ahorro y crédito popular",
+      "target_law_id": "ley-de-ahorro-y-credito-popular",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
       "source_article": "5o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "ergio González Santa Cruz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1959
+      "char_offset": 1959,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:43.262062+00:00"
+  "resolved_at": "2026-04-02T10:33:19.832171+00:00"
 }

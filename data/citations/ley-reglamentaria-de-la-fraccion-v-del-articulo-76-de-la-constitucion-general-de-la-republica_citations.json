@@ -7,50 +7,62 @@
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "2o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "uevos titulares.  V.- Promovieren o adoptaren forma de gobierno o base de organización política distintas de las fijadas en los artículos 40 y 115 de la Constitución General de la República.",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 886
+      "char_offset": 886,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "9o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "te podrá ser designado como gobernador provisional quien reúna los requisitos que establecen el artículo 115, fracción III, inciso b), 2o. párrafo de la Constitución General de la República y la Constitución del Estado de que se trate.",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 172
+      "char_offset": 172,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "ARTICULO 11.- El gobernador provisional deberá:  I.- Convocar conforme a la Constitución del Estado, dentro de los tres meses siguientes a la asunción del cargo, a elecciones de gobernador y a integrantes del Congreso o legislatura estata",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 73
+      "char_offset": 73,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
       "source_article": "15",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "lacio López, D.P.- Joaquín E. Repetto Ocampo, S.S.- Abelardo Carrillo Zavala, D.S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 599
+      "char_offset": 599,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:43.311751+00:00"
+  "resolved_at": "2026-04-02T10:33:20.089664+00:00"
 }

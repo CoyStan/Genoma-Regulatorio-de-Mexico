@@ -7,29 +7,32 @@
       "source_law": "ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-y-las-demas-substancias-de-las-cuales-se-obtengan-isotopos-hendibles-que-puedan-producir-energia-nuclear",
       "source_article": "9",
       "target_law_raw": "Ley General de Bienes Nacionales",
-      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "les establecidas en esta Ley, el Ejecutivo Federal podrá proceder al rescate de la respectiva concesión, conforme a lo dispuesto en el artículo 14 de la Ley General de Bienes Nacionales.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 260,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de bienes nacionales",
+      "target_law_id": "ley-general-de-bienes-nacionales",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-y-las-demas-substancias-de-las-cuales-se-obtengan-isotopos-hendibles-que-puedan-producir-energia-nuclear",
       "source_article": "16",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "avo A. Uruchurtu, S.P.- Rafael Suárez Ocaña, D. S.- Alfonso Corona del Rosal, S.S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida aplicación y observancia, expido la presente Ley, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Fe",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 453
+      "char_offset": 453,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:43.263621+00:00"
+  "resolved_at": "2026-04-02T10:33:20.042597+00:00"
 }

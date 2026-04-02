@@ -7,41 +7,47 @@
       "source_law": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento",
       "source_article": "1o",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "73",
       "citation_text": "ARTICULO 1o.- Se aprueba el Convenio Constitutivo de la Asociación Internacional de Fomento, para los efectos de la fracción VIII del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 26 de enero de 1960.",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 134
+      "char_offset": 134,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento",
       "source_article": "11",
       "target_law_raw": "Ley que Establece Bases para la Ejecución en México",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "1988 y 26 de julio de 1990, para quedar como sigue:  ..........  ARTICULO SEGUNDO.- Se autoriza al Ejecutivo Federal para actualizar las aportaciones a que se refiere la Ley que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio Constitutivo de la Asociación Internacional de Fomento, para dar cumplimiento a lo dispuesto en el artí",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 2341,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.47619047619047616,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "76, fracción I, segundo párrafo,",
       "citation_text": "ción de declaraciones interpretativas del Convenio Constitutivo de la Asociación Internacional de Fomento. Esto de conformidad con lo dispuesto en el artículo 76, fracción I, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos. Artículo reformado DOF 06-06-2025  TRANSITORIO  UNICO.- El presente decreto entrará en vigor el día de su publicación en el Diario Oficial de la Fed",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 372
+      "char_offset": 372,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:43.311022+00:00"
+  "resolved_at": "2026-04-02T10:33:20.089002+00:00"
 }

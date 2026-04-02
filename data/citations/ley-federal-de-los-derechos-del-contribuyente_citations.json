@@ -7,89 +7,92 @@
       "source_law": "ley-federal-de-los-derechos-del-contribuyente",
       "source_article": "7o",
       "target_law_raw": "Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental",
-      "target_law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
       "target_article": null,
       "citation_text": "deberán suministrar, a petición de los interesados, el texto de las resoluciones recaídas a consultas y las sentencias judiciales, de conformidad con lo dispuesto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 619,
-      "resolution_confidence": "medium",
       "resolution_score": 0.8695652173913043,
-      "resolution_matched_alias": "ley general de transparencia y acceso a la información pública"
+      "resolution_matched_alias": "ley general de transparencia y acceso a la información pública",
+      "target_law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
+      "resolution_confidence": "medium"
     },
     {
       "source_law": "ley-federal-de-los-derechos-del-contribuyente",
       "source_article": "9o",
       "target_law_raw": "Código Fiscal de la Federación",
-      "target_law_id": "codigo-fiscal-de-la-federacion",
       "target_article": null,
       "citation_text": "sí formuladas en un plazo máximo de tres meses.  Dicha contestación tendrá carácter vinculatorio para las autoridades fiscales en la forma y términos previstos en el Código Fiscal de la Federación.",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 448,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "código fiscal de la federación"
+      "resolution_matched_alias": "código fiscal de la federación",
+      "target_law_id": "codigo-fiscal-de-la-federacion",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-federal-de-los-derechos-del-contribuyente",
       "source_article": "14",
       "target_law_raw": "Código Fiscal de la Federación",
-      "target_law_id": "codigo-fiscal-de-la-federacion",
       "target_article": null,
       "citation_text": "ribuciones objeto de la revisión, mediante la presentación de la declaración normal o complementaria que, en su caso, corresponda, de conformidad con lo dispuesto en el Código Fiscal de la Federación.  Los contribuyentes podrán corregir su situación fiscal a partir del momento en el que se dé inicio al ejercicio de las facultades de comprobación y",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 341,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "código fiscal de la federación"
+      "resolution_matched_alias": "código fiscal de la federación",
+      "target_law_id": "codigo-fiscal-de-la-federacion",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-federal-de-los-derechos-del-contribuyente",
       "source_article": "16",
       "target_law_raw": "Código Fiscal de la Federación",
-      "target_law_id": "codigo-fiscal-de-la-federacion",
       "target_article": null,
       "citation_text": "e su situación fiscal, las autoridades fiscales emitirán la resolución que determine las contribuciones omitidas, de conformidad con el procedimiento establecido en el Código Fiscal de la Federación.",
       "pattern_name": "establecida_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 3077,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "código fiscal de la federación"
+      "resolution_matched_alias": "código fiscal de la federación",
+      "target_law_id": "codigo-fiscal-de-la-federacion",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-federal-de-los-derechos-del-contribuyente",
       "source_article": "17",
       "target_law_raw": "Código Fiscal de la Federación",
-      "target_law_id": "codigo-fiscal-de-la-federacion",
       "target_article": null,
       "citation_text": "omitidas, pagará una multa equivalente al 30% de las contribuciones omitidas.  Así mismo, podrán efectuar el pago en parcialidades de conformidad con lo dispuesto en el Código Fiscal de la Federación, siempre que esté garantizado el interés fiscal.",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 935,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "código fiscal de la federación"
+      "resolution_matched_alias": "código fiscal de la federación",
+      "target_law_id": "codigo-fiscal-de-la-federacion",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-federal-de-los-derechos-del-contribuyente",
       "source_article": "24",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": ". Marcos Morales Torres, Secretario.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 2655
+      "char_offset": 2655,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:29.238112+00:00"
+  "resolved_at": "2026-04-02T10:32:45.065617+00:00"
 }

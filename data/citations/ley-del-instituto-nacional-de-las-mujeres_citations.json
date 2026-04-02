@@ -7,110 +7,122 @@
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "Cuarto, párrafo segundo",
       "citation_text": "ia general en toda la República, en materia de igualdad de género e igualdad de derechos y oportunidades entre hombres y mujeres, en los términos del Artículo Cuarto, párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos. Artículo reformado DOF 16-02-2018",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 228
+      "char_offset": 228,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "6",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "133",
       "citation_text": "reformada DOF 16-02-2018  IV.\tLa promoción y monitoreo del cumplimiento de los tratados internacionales celebrados en términos de lo dispuesto por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.  La ejecución de programas de difusión e información para las mujeres de carácter gratuito y alcance nacional, que informen acerca de los derechos d",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1751
+      "char_offset": 1751,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "11",
       "target_law_raw": "Ley Federal de las Entidades Paraestatales",
-      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, en lo que no se opongan a la presente Ley se aplicarán de manera supletoria la Ley Federal de las Entidades Paraestatales, el Código Civil Federal, así como los principios generales de derecho.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 401,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal de las entidades paraestatales"
+      "resolution_matched_alias": "ley federal de las entidades paraestatales",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "11",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "133",
       "citation_text": "venios y Tratados Internacionales suscritos por el Gobierno Mexicano en la materia y ratificados por el Senado de la República, de conformidad con el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, en lo que no se opongan a la presente Ley se aplicarán de manera supletoria la Ley Federal de las Entidades Paraestatales, el Código Civil Federal, ",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 251
+      "char_offset": 251,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "15",
       "target_law_raw": "Ley Federal de Entidades Paraestatales",
-      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
       "target_article": null,
       "citation_text": "Ley, y Fracción reformada DOF 16-02-2018  V.\tNo encontrarse en uno o en varios de los impedimentos establecidos en la fracción III del artículo 21 de la Ley Federal de Entidades Paraestatales.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 828,
-      "resolution_confidence": "high",
       "resolution_score": 0.95,
-      "resolution_matched_alias": "ley federal de las entidades paraestatales"
+      "resolution_matched_alias": "ley federal de las entidades paraestatales",
+      "target_law_id": "ley-federal-de-las-entidades-paraestatales",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "35",
       "target_law_raw": "Ley en sus derechos y prestaciones",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "nal de las Mujeres. Los derechos laborales del personal que se transfiere al Instituto Nacional de las Mujeres serán reconocidos con estricto apego a la Ley en sus derechos y prestaciones.  CUARTO.- Una vez que entren en vigor las reformas y adiciones que derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Fe",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 953,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.5862068965517241,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "35",
       "target_law_raw": "Ley Orgánica de la Administración Pública Federal",
-      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
       "target_article": null,
       "citation_text": "o apego a la Ley en sus derechos y prestaciones.  CUARTO.- Una vez que entren en vigor las reformas y adiciones que derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, se incorporará a la Junta de Gobierno de este Instituto la Secretaría de Seguridad Pública y se modificará la denominación correspondiente a las Sec",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1093,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley orgánica de la administración pública federal"
+      "resolution_matched_alias": "ley orgánica de la administración pública federal",
+      "target_law_id": "ley-organica-de-la-administracion-publica-federal",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-del-instituto-nacional-de-las-mujeres",
       "source_article": "35",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "Artículo 35.- Las relaciones laborales entre el Instituto y sus trabajadores se regirán por el Apartado \"A\" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.  TRANSITORIOS  PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUNDO.- En ta",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 112
+      "char_offset": 112,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:24.921265+00:00"
+  "resolved_at": "2026-04-02T10:32:32.101868+00:00"
 }

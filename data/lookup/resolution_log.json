@@ -1,150 +1,135 @@
 {
-  "generated_at": "2026-04-01T18:20:45.434747+00:00",
+  "generated_at": "2026-04-02T10:33:24.116317+00:00",
   "total_citations": 12444,
   "resolved": 10854,
   "unresolved": 1590,
   "resolution_rate": 0.8722,
   "by_confidence": {
-    "unresolved": 3676,
-    "high": 4429,
-    "medium": 1667,
-    "low": 2672
+    "high": 8461,
+    "unresolved": 1590,
+    "medium": 956,
+    "low": 1437
   },
   "top_cited_laws": [
     {
-      "law_id": "constitucion-politica",
-      "name": "constitucion-politica",
-      "citation_count": 2090
+      "law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "Constitución Política de los Estados Unidos Mexicanos",
+      "citation_count": 2087
     },
     {
-      "law_id": "ley-general-sociedades-mercantiles",
-      "name": "ley-general-sociedades-mercantiles",
-      "citation_count": 1084
+      "law_id": "ley-general-de-sociedades-mercantiles",
+      "name": "Ley General de Sociedades Mercantiles",
+      "citation_count": 449
     },
     {
-      "law_id": "lopjf",
-      "name": "lopjf",
-      "citation_count": 528
+      "law_id": "ley-federal-de-competencia-economica",
+      "name": "Ley Federal de Competencia Económica",
+      "citation_count": 382
     },
     {
-      "law_id": "ley-federal-competencia-economica",
-      "name": "ley-federal-competencia-economica",
-      "citation_count": 346
+      "law_id": "ley-organica-del-poder-judicial-de-la-federacion",
+      "name": "Ley Orgánica del Poder Judicial de la Federación",
+      "citation_count": 311
     },
     {
-      "law_id": "codigo-nacional-procedimientos-penales",
-      "name": "codigo-nacional-procedimientos-penales",
-      "citation_count": 297
+      "law_id": "ley-de-instituciones-de-credito",
+      "name": "Ley de Instituciones de Crédito",
+      "citation_count": 229
     },
     {
-      "law_id": "ley-instituciones-credito",
-      "name": "ley-instituciones-credito",
-      "citation_count": 270
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "name": "Ley del Impuesto sobre la Renta",
+      "citation_count": 213
     },
     {
       "law_id": "ley-federal-del-trabajo",
       "name": "Ley Federal del Trabajo",
-      "citation_count": 224
+      "citation_count": 191
     },
     {
-      "law_id": "ley-general-educacion",
-      "name": "ley-general-educacion",
-      "citation_count": 223
+      "law_id": "codigo-nacional-de-procedimientos-penales",
+      "name": "Código Nacional de Procedimientos Penales",
+      "citation_count": 188
     },
     {
-      "law_id": "ley-isr",
-      "name": "ley-isr",
-      "citation_count": 219
-    },
-    {
-      "law_id": "lfpa",
-      "name": "lfpa",
-      "citation_count": 183
-    },
-    {
-      "law_id": "ley-federal-anticorrupcion",
-      "name": "ley-federal-anticorrupcion",
+      "law_id": "ley-federal-de-procedimiento-administrativo",
+      "name": "Ley Federal de Procedimiento Administrativo",
       "citation_count": 173
     },
     {
       "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
       "name": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
-      "citation_count": 173
+      "citation_count": 169
     },
     {
-      "law_id": "lfda",
-      "name": "lfda",
-      "citation_count": 172
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "name": "Ley General de Instituciones y Procedimientos Electorales",
+      "citation_count": 160
     },
     {
-      "law_id": "lgipe",
-      "name": "lgipe",
-      "citation_count": 170
+      "law_id": "ley-general-de-responsabilidades-administrativas",
+      "name": "Ley General de Responsabilidades Administrativas",
+      "citation_count": 144
     },
     {
-      "law_id": "ley-responsabilidades-administrativas",
-      "name": "ley-responsabilidades-administrativas",
-      "citation_count": 152
-    },
-    {
-      "law_id": "ley-federal-proteccion-consumidor",
-      "name": "ley-federal-proteccion-consumidor",
-      "citation_count": 145
-    },
-    {
-      "law_id": "ley-mercado-valores",
-      "name": "ley-mercado-valores",
+      "law_id": "ley-del-mercado-de-valores",
+      "name": "Ley del Mercado de Valores",
       "citation_count": 141
     },
     {
       "law_id": "ley-del-seguro-social",
       "name": "Ley del Seguro Social",
-      "citation_count": 130
+      "citation_count": 134
     },
     {
-      "law_id": "loapf",
-      "name": "loapf",
-      "citation_count": 129
+      "law_id": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
+      "name": "Ley Federal de Telecomunicaciones y Radiodifusión",
+      "citation_count": 125
     },
     {
-      "law_id": "lgtaip",
-      "name": "lgtaip",
-      "citation_count": 128
+      "law_id": "ley-organica-de-la-administracion-publica-federal",
+      "name": "Ley Orgánica de la Administración Pública Federal",
+      "citation_count": 125
     },
     {
-      "law_id": "lftr",
-      "name": "lftr",
-      "citation_count": 127
+      "law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
+      "name": "Ley General de Transparencia y Acceso a la Información Pública",
+      "citation_count": 123
     },
     {
-      "law_id": "ley-prevencion-lavado-dinero",
-      "name": "ley-prevencion-lavado-dinero",
-      "citation_count": 116
+      "law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
+      "name": "Ley General del Equilibrio Ecológico y la Protección al Ambiente",
+      "citation_count": 109
     },
     {
-      "law_id": "ley-general-salud",
-      "name": "ley-general-salud",
-      "citation_count": 116
+      "law_id": "ley-general-de-salud",
+      "name": "Ley General de Salud",
+      "citation_count": 108
     },
     {
       "law_id": "ley-federal-de-las-entidades-paraestatales",
       "name": "ley-federal-de-las-entidades-paraestatales",
-      "citation_count": 109
+      "citation_count": 104
     },
     {
-      "law_id": "lgeepa",
-      "name": "lgeepa",
-      "citation_count": 105
+      "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "name": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "citation_count": 102
     },
     {
-      "law_id": "codigo-fiscal-federacion",
-      "name": "codigo-fiscal-federacion",
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "name": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "citation_count": 101
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "name": "Código Fiscal de la Federación",
       "citation_count": 100
     },
     {
-      "law_id": "ley-fintech",
-      "name": "ley-fintech",
-      "citation_count": 97
+      "law_id": "ley-general-del-sistema-nacional-anticorrupcion",
+      "name": "Ley General del Sistema Nacional Anticorrupción",
+      "citation_count": 93
     },
     {
       "law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
@@ -152,14 +137,29 @@
       "citation_count": 91
     },
     {
-      "law_id": "lgpp",
-      "name": "lgpp",
+      "law_id": "ley-de-planeacion",
+      "name": "ley-de-planeacion",
+      "citation_count": 87
+    },
+    {
+      "law_id": "ley-general-de-educacion",
+      "name": "Ley General de Educación",
+      "citation_count": 84
+    },
+    {
+      "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
+      "name": "ley-general-de-titulos-y-operaciones-de-credito",
       "citation_count": 81
     },
     {
-      "law_id": "ley-sistemas-pagos",
-      "name": "ley-sistemas-pagos",
-      "citation_count": 80
+      "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "name": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+      "citation_count": 76
+    },
+    {
+      "law_id": "ley-de-coordinacion-fiscal",
+      "name": "ley-de-coordinacion-fiscal",
+      "citation_count": 74
     }
   ],
   "top_unresolved": [

@@ -7,110 +7,122 @@
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": ", Cultural y Política para alcanzar el progreso social de la Nación, de acuerdo con los objetivos Históricos de la Revolución Mexicana, contenidos en la Constitución Política de los Estados Unidos Mexicanos. Fe de erratas al artículo DOF 28-05-1982",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 337
+      "char_offset": 337,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "3",
       "target_law_raw": "Ley para la Coordinación de la Educación Superior y de conformidad con los acuerdos que se tomen en el propio Consejo",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": " País, coordinándose con las demás instituciones que integran el Consejo del Sistema Nacional de Educación Tecnológica, en los términos previstos por la Ley para la Coordinación de la Educación Superior y de conformidad con los acuerdos que se tomen en el propio Consejo. Fe de erratas a la fracción DOF 28-05-1982",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 1877,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.42790697674418604,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "l sistema nacional de producción y le permitan coadyuvar al desarrollo de la comunidad; Fe de erratas a la fracción DOF 28-05-1982  X.- Participar en la constitución de asociaciones, sociedades y patronatos que tengan por objeto impulsar el desarrollo de sus actividades y en la coordinación de las personas físicas",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 1902
+      "char_offset": 1902,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "33",
       "target_law_raw": "Ley Federal de los Trabajadores al Servicio del Estado",
-      "target_law_id": "ley-federal-de-competencia-economica",
       "target_article": null,
       "citation_text": "ARTICULO 33.- El personal del Instituto Politécnico Nacional queda sujeto al régimen de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y al de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 88,
-      "resolution_confidence": "low",
       "resolution_score": 0.85,
-      "resolution_matched_alias": "ley federal de competencia económica"
+      "resolution_matched_alias": "ley federal de competencia económica",
+      "target_law_id": "ley-federal-de-competencia-economica",
+      "resolution_confidence": "low"
     },
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "33",
       "target_law_raw": "Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "target_law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
       "target_article": null,
       "citation_text": "sujeto al régimen de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y al de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 217,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado"
+      "resolution_matched_alias": "ley del instituto de seguridad y servicios sociales de los trabajadores del estado",
+      "target_law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "33",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "123",
       "citation_text": "nstituto Politécnico Nacional queda sujeto al régimen de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y al de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.",
       "pattern_name": "articulo_constitucional",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 181
+      "char_offset": 181,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "34",
       "target_law_raw": "Reglamento del Instituto Politécnico Nacional expedido el 9 de marzo de 1959",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "ica del Instituto Politécnico Nacional expedida el 13 de diciembre de 1974 publicada en el Diario Oficial de la Federación el 16 del mismo mes y año; El Reglamento del Instituto Politécnico Nacional expedido el 9 de marzo de 1959, publicado en el Diario Oficial de la Federación el 10 del mismo mes y año; y la rectificación a dicho Reglamento de fecha 20 de marzo de 1959 y publ",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 481,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.5100671140939598,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-organica-del-instituto-politecnico-nacional",
       "source_article": "34",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "umacero Sánchez, S.P.- Armando Thomae Cerna, D.S.- José Luis Escobar Herrera, S.S.- Rúbricas\".  En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia de Poder Ejecutivo Federal, en la ciudad de México, Distrito ",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1405
+      "char_offset": 1405,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:42.158839+00:00"
+  "resolved_at": "2026-04-02T10:33:17.517224+00:00"
 }

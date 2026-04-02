@@ -7,110 +7,122 @@
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "93 de la Constitución General de la República en materia de las facultades",
       "citation_text": "Artículo 1. Esta ley es de orden público y tiene como objeto reglamentar el artículo 93 de la Constitución General de la República en materia de las facultades constitucionales del Senado de requerir información a los secretarios de estado, jefes de departamento administrativo, así como a los directores de los organismos des",
       "pattern_name": "articulo_constitucional",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 76
+      "char_offset": 76,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "2",
       "target_law_raw": "Ley Sobre la Celebración de Tratados",
-      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "Artículo 2. Para los efectos de esta ley se entenderá por tratados lo establecido por la Ley Sobre la Celebración de Tratados.  Estarán de acuerdo con la Constitución General de la República respetando:  I. Las garantías individuales, y  II. La división de poderes, la distri",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 86,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley sobre la celebración de tratados"
+      "resolution_matched_alias": "ley sobre la celebración de tratados",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "2",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "rtículo 2. Para los efectos de esta ley se entenderá por tratados lo establecido por la Ley Sobre la Celebración de Tratados.  Estarán de acuerdo con la Constitución General de la República respetando:  I. Las garantías individuales, y  II. La división de poderes, la distribución de facultades y las potestades de ",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 151
+      "char_offset": 151,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "3",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "Promover la transparencia en las relaciones comerciales internacionales y el pleno respeto a los principios de política exterior de la fracción X del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos.  SECCIÓN II OBJETIVOS PARTICULARES",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 684
+      "char_offset": 684,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "13",
       "target_law_raw": "Ley Federal del Trabajo",
-      "target_law_id": "ley-federal-del-trabajo",
       "target_article": null,
       "citation_text": "os que fija esta Ley se entiende por días hábiles todos los días exceptuando los sábados y domingos así como los días que establece el artículo 74 de la Ley Federal del Trabajo.",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 201,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley federal del trabajo"
+      "resolution_matched_alias": "ley federal del trabajo",
+      "target_law_id": "ley-federal-del-trabajo",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "14",
       "target_law_raw": "Ley de Comercio Exterior",
-      "target_law_id": "ley-de-comercio-exterior",
       "target_article": null,
       "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.  ARTÍCULOS TRANSITORIOS  PRIMERO. La presente Ley entrará",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 86,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de comercio exterior"
+      "resolution_matched_alias": "ley de comercio exterior",
+      "target_law_id": "ley-de-comercio-exterior",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "14",
       "target_law_raw": "Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten",
-      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
       "target_article": null,
       "citation_text": "Artículo 14. En todo lo no dispuesto por la presente Ley se aplicarán supletoriamente la Ley de Comercio Exterior, la Ley sobre la Celebración de Tratados y los demás ordenamientos que resulten aplicables.  ARTÍCULOS TRANSITORIOS  PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.  SEGUND",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 115,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley sobre la celebración de tratados"
+      "resolution_matched_alias": "ley sobre la celebración de tratados",
+      "target_law_id": "ley-sobre-la-celebracion-de-tratados",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
       "source_article": "14",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "e.- Sen. Lydia Madero García, Secretario.- Dip. Marcos Morales Torres, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrit",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 887
+      "char_offset": 887,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:43.887747+00:00"
+  "resolved_at": "2026-04-02T10:33:21.320244+00:00"
 }

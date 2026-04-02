@@ -7,74 +7,77 @@
       "source_law": "ley-general-de-bibliotecas",
       "source_article": "19",
       "target_law_raw": "Ley del Impuesto sobre la Renta",
-      "target_law_id": "ley-del-impuesto-sobre-la-renta",
       "target_article": null,
       "citation_text": "realicen en especie a la Dirección General en términos de lo dispuesto por los artículos 27, fracción I, inciso a), y 151, fracción III, inciso a) de la Ley del Impuesto sobre la Renta; y 131 de su Reglamento, siempre y cuando las donaciones realizadas sean valoradas y, en su caso, aceptadas por la Secretaría.  CAPÍTULO IV De la Adh",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 244,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley del impuesto sobre la renta"
+      "resolution_matched_alias": "ley del impuesto sobre la renta",
+      "target_law_id": "ley-del-impuesto-sobre-la-renta",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-general-de-bibliotecas",
       "source_article": "32",
       "target_law_raw": "reglamento de la Ley",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": " y aquellos que tengan un interés particular en términos de su contenido, rareza, antigüedad o estado de conservación, en los términos que establezca el reglamento de la Ley.  CAPITULO X Del Depósito Legal de Publicaciones",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 555,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.5454545454545454,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-general-de-bibliotecas",
       "source_article": "34",
       "target_law_raw": "reglamento de la Ley y tomando en cuenta los siguientes criterios",
-      "target_law_id": "unresolved",
       "target_article": null,
       "citation_text": "Artículo 34 Bis. Las obras señaladas en el artículo anterior se integrarán al Depósito Legal con base en lo que señale el reglamento de la Ley y tomando en cuenta los siguientes criterios:  I.\tRespeto a los derechos de autor y conexos;  II.\tImplementación de medidas tecnológicas de protección por parte de las Instituciones Depositarias;",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 119,
-      "resolution_confidence": "unresolved",
       "resolution_score": 0.38095238095238093,
-      "resolution_matched_alias": null
+      "resolution_matched_alias": null,
+      "target_law_id": "unresolved",
+      "resolution_confidence": "unresolved"
     },
     {
       "source_law": "ley-general-de-bibliotecas",
       "source_article": "35",
       "target_law_raw": "Ley General de Archivos",
-      "target_law_id": "ley-general-de-educacion",
       "target_article": null,
       "citation_text": "Artículo 35. No serán objeto de Depósito Legal las publicaciones y documentos a que se refiere la Ley General de Archivos.",
       "pattern_name": "a_que_refiere",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 78,
-      "resolution_confidence": "medium",
-      "resolution_score": 0.7659574468085106,
-      "resolution_matched_alias": "ley general de educación"
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de archivos",
+      "target_law_id": "ley-general-de-archivos",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-general-de-bibliotecas",
       "source_article": "44",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "rita Valdez Martínez, Secretaria.- Dip. Martha Hortencia Garay Cadena, Secretaria.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 26 de",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1419
+      "char_offset": 1419,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:33.615064+00:00"
+  "resolved_at": "2026-04-02T10:32:54.488640+00:00"
 }

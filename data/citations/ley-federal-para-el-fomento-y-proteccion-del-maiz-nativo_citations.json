@@ -7,98 +7,107 @@
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "1",
       "target_law_raw": "Ley General de Cultura y Derechos Culturales",
-      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "roducción, comercialización y consumo del Maíz Nativo y en Diversificación Constante, como manifestación cultural de conformidad con el artículo 3 de la Ley General de Cultura y Derechos Culturales;  II.\tDeclarar a la protección del Maíz Nativo y en Diversificación Constante en todo lo relativo a su producción, comercialización y consumo, como u",
       "pattern_name": "direct_mention",
       "pattern_group": "secondary",
       "confidence": "medium",
       "char_offset": 315,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de cultura y derechos culturales",
+      "target_law_id": "ley-general-de-cultura-y-derechos-culturales",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "1",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "l Estado para garantizar el derecho humano a la alimentación nutritiva, suficiente y de calidad, establecido en el tercer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, y  III.\tEstablecer mecanismos institucionales para la protección y fomento del Maíz Nativo y en Diversifica",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 678
+      "char_offset": 678,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "2",
       "target_law_raw": "Ley de Bioseguridad de Organismos Genéticamente Modificados",
-      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
       "target_article": null,
       "citation_text": "dentificadas por la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad;  VIII.\tOGM's: Organismo u organismos genéticamente modificados; en los términos de la Ley de Bioseguridad de Organismos Genéticamente Modificados;  IX.\tSADER: Secretaría de Agricultura y Desarrollo Rural, y  X.\tSEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales.  TÍTULO SEGUNDO Del Fom",
       "pattern_name": "en_los_terminos",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 1588,
-      "resolution_confidence": "high",
       "resolution_score": 1.0,
-      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados"
+      "resolution_matched_alias": "ley de bioseguridad de organismos genéticamente modificados",
+      "target_law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "3",
       "target_law_raw": "Ley General de Cultura y Derechos Culturales",
-      "target_law_id": "ley-general-de-sociedades-mercantiles",
       "target_article": null,
       "citation_text": "ción, consumo y Diversificación Constante del Maíz Nativo, como manifestación cultural nacional.  Lo establecido en el párrafo anterior se regirá por lo dispuesto en la Ley General de Cultura y Derechos Culturales.  Capítulo II Del Maíz Nativo y en Diversificación Constante como garantía del derecho humano a la alimentación",
       "pattern_name": "lo_dispuesto",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 203,
-      "resolution_confidence": "low",
-      "resolution_score": 0.85,
-      "resolution_matched_alias": "ley general de sociedades mercantiles"
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "ley general de cultura y derechos culturales",
+      "target_law_id": "ley-general-de-cultura-y-derechos-culturales",
+      "resolution_confidence": "high"
     },
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "4",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "",
       "citation_text": "l Estado para garantizar el derecho humano a la alimentación nutritiva, suficiente y de calidad, establecido en el tercer párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos.  El Estado deberá garantizar y fomentar, a través de todas las autoridades competentes, que todas las perso",
       "pattern_name": "constitucion_bare",
       "pattern_group": "constitutional",
       "confidence": "medium",
-      "char_offset": 324
+      "char_offset": 324,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     },
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "13",
       "target_law_raw": "Ley Federal de Producción",
-      "target_law_id": "ley-general-de-educacion",
       "target_article": null,
       "citation_text": ", revisará y, en su caso, modificará los programas de semillas existentes para que se ajusten al objeto de esta Ley de conformidad con las facultades previstas en la Ley Federal de Producción, Certificación y Comercio de Semillas.  Quinto. El Congreso de la Unión, en un plazo que no exceda de trescientos sesenta y cinco días naturales post",
       "pattern_name": "prevista_en",
       "pattern_group": "primary",
       "confidence": "high",
       "char_offset": 963,
-      "resolution_confidence": "medium",
       "resolution_score": 0.8163265306122449,
-      "resolution_matched_alias": "ley general de educación"
+      "resolution_matched_alias": "ley general de educación",
+      "target_law_id": "ley-general-de-educacion",
+      "resolution_confidence": "medium"
     },
     {
       "source_law": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
       "source_article": "13",
       "target_law_raw": "Constitución Política de los Estados Unidos Mexicanos",
-      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
       "target_article": "89",
       "citation_text": "denta.- Dip. Julieta Macias Rabago, Secretaria, Sen. Primo Dothé Mata, Secretario.- Rúbricas.\"  En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 7 de ",
       "pattern_name": "constitucion_full",
       "pattern_group": "constitutional",
       "confidence": "high",
-      "char_offset": 1892
+      "char_offset": 1892,
+      "target_law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "resolution_confidence": "high",
+      "resolution_score": 1.0,
+      "resolution_matched_alias": "constitución política de los estados unidos mexicanos"
     }
   ],
-  "resolved_at": "2026-04-01T18:20:32.502802+00:00"
+  "resolved_at": "2026-04-02T10:32:52.391900+00:00"
 }
