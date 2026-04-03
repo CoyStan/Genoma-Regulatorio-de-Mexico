@@ -206,12 +206,20 @@ def compute_cascade_scores(G: nx.DiGraph) -> list[dict]:
 # Diagnostic 5: Circular dependencies
 # ---------------------------------------------------------------------------
 
+CPEUM_ID = "constitucion-politica-de-los-estados-unidos-mexicanos"
+
 def find_circular_dependencies(G: nx.DiGraph) -> list[dict]:
-    """Find laws that mutually cite each other (length-2 cycles) in O(E)."""
+    """Find laws that mutually cite each other (length-2 cycles) in O(E).
+
+    CPEUM excluded: cycles with the Constitution reflect constitutional
+    hierarchy, not peer-to-peer circular dependence between laws.
+    """
     cycles = []
     edges = set(G.edges())
     seen = set()
     for u, v in edges:
+        if u == CPEUM_ID or v == CPEUM_ID:
+            continue
         if (v, u) in edges and (v, u) not in seen:
             seen.add((u, v))
             cycle_names = [G.nodes[n].get("name", n)[:50] for n in [u, v]]

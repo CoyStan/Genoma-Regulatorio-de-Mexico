@@ -1,13 +1,13 @@
 # Genoma Regulatorio de México — Resumen de la Red
 
-_Generado: 2026-04-02 11:12 UTC_
+_Generado: 2026-04-02 11:46 UTC_
 
 ## Estadísticas generales
 - **Leyes (nodos):** 318
 - **Referencias cruzadas (aristas):** 2,469
 - **Densidad de la red:** 0.0245
 - **Comunidades detectadas:** 12
-- **Ciclos/dependencias circulares:** 204
+- **Ciclos/dependencias circulares:** 196
 - **Leyes aisladas:** 46
 
 ## Leyes más centrales (por PageRank)
@@ -42,15 +42,15 @@ _Las leyes más referenciadas por otras leyes_
 _Pares o grupos de leyes que se referencian mutuamente_
 
 - `codigo-civil-federal → codigo-militar-de-procedimientos-penales → codigo-civil-federal`
-- `codigo-civil-federal → codigo-nacional-de-procedimientos-penales → codigo-civil-federal`
-- `codigo-de-comercio → codigo-penal-federal → codigo-de-comercio`
-- `codigo-de-justicia-militar → codigo-militar-de-procedimientos-penales → codigo-de-justicia-militar`
+- `codigo-civil-federal → codigo-nacional-de-procedimientos-civiles-y-familiares → codigo-civil-federal`
+- `codigo-de-comercio → ley-general-de-titulos-y-operaciones-de-credito → codigo-de-comercio`
 - `codigo-federal-de-procedimientos-civiles → codigo-civil-federal → codigo-federal-de-procedimientos-civiles`
-- `codigo-fiscal-de-la-federacion → ley-aduanera → codigo-fiscal-de-la-federacion`
 - `codigo-fiscal-de-la-federacion → ley-de-los-sistemas-de-ahorro-para-el-retiro → codigo-fiscal-de-la-federacion`
-- `codigo-fiscal-de-la-federacion → ley-de-tesoreria-de-la-federacion → codigo-fiscal-de-la-federacion`
+- `codigo-fiscal-de-la-federacion → ley-del-impuesto-al-valor-agregado → codigo-fiscal-de-la-federacion`
 - `codigo-fiscal-de-la-federacion → ley-del-impuesto-sobre-la-renta → codigo-fiscal-de-la-federacion`
+- `codigo-fiscal-de-la-federacion → ley-del-mercado-de-valores → codigo-fiscal-de-la-federacion`
 - `codigo-fiscal-de-la-federacion → ley-federal-de-derechos → codigo-fiscal-de-la-federacion`
+- `codigo-fiscal-de-la-federacion → ley-federal-de-los-derechos-del-contribuyente → codigo-fiscal-de-la-federacion`
 
 ## Nota metodológica
 Las citas fueron extraídas mediante expresiones regulares de los textos legales.

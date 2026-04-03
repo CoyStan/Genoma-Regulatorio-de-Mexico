@@ -1,6 +1,6 @@
 # Genoma Regulatorio de México — Diagnóstico Estructural
 
-_Generado: 2026-04-02T11:12:21.794728+00:00_
+_Generado: 2026-04-03T12:47:49.689235+00:00_
 
 ---
 
@@ -55,18 +55,18 @@ _(¿Cuántas leyes se verían afectadas por una reforma a esta ley?)_
 10. **LEY General de Sociedades Mercantiles (LGSM)** — afecta directamente a 99 leyes, impacto total en 309 leyes
 
 ## 5. Dependencias Circulares
-_(Grupos de leyes que se referencian mutuamente: 204 encontrados)_
+_(Grupos de leyes que se referencian mutuamente: 196 encontrados)_
 
 - `codigo-civil-federal → codigo-federal-de-procedimientos-civiles → codigo-civil-federal` (ciclo de 2 leyes)
+- `codigo-civil-federal → codigo-militar-de-procedimientos-penales → codigo-civil-federal` (ciclo de 2 leyes)
 - `codigo-civil-federal → codigo-nacional-de-procedimientos-civiles-y-familiares → codigo-civil-federal` (ciclo de 2 leyes)
+- `codigo-civil-federal → codigo-nacional-de-procedimientos-penales → codigo-civil-federal` (ciclo de 2 leyes)
 - `codigo-de-comercio → codigo-penal-federal → codigo-de-comercio` (ciclo de 2 leyes)
 - `codigo-de-comercio → ley-general-de-titulos-y-operaciones-de-credito → codigo-de-comercio` (ciclo de 2 leyes)
 - `codigo-fiscal-de-la-federacion → ley-aduanera → codigo-fiscal-de-la-federacion` (ciclo de 2 leyes)
-- `codigo-fiscal-de-la-federacion → ley-de-instituciones-de-credito → codigo-fiscal-de-la-federacion` (ciclo de 2 leyes)
-- `codigo-fiscal-de-la-federacion → ley-del-impuesto-al-valor-agregado → codigo-fiscal-de-la-federacion` (ciclo de 2 leyes)
 - `codigo-fiscal-de-la-federacion → ley-del-impuesto-sobre-la-renta → codigo-fiscal-de-la-federacion` (ciclo de 2 leyes)
 - `codigo-fiscal-de-la-federacion → ley-del-mercado-de-valores → codigo-fiscal-de-la-federacion` (ciclo de 2 leyes)
-- `codigo-fiscal-de-la-federacion → ley-federal-de-derechos → codigo-fiscal-de-la-federacion` (ciclo de 2 leyes)
+- `codigo-fiscal-de-la-federacion → ley-general-de-organizaciones-y-actividades-auxiliares-del-credito → codigo-fiscal-de-la-federacion` (ciclo de 2 leyes)
 
 ## 6. Conflictos de Definiciones
 _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
@@ -85,14 +85,14 @@ _(Términos definidos de manera diferente en múltiples leyes: 50 encontrados)_
 ## 7. Comunidades Regulatorias
 _(Grupos de leyes que se citan frecuentemente entre sí)_
 
-- **Cluster 3** (96 leyes) — Sector dominante: penal — Ley central: CONSTITUCIÓN Política de los Estados Unidos Mexica
-- **Cluster 0** (63 leyes) — Sector dominante: fiscal — Ley central: LEY Federal de Competencia Económica
-- **Cluster 2** (51 leyes) — Sector dominante: ambiental — Ley central: LEY Federal de Procedimiento Administrativo
-- **Cluster 8** (45 leyes) — Sector dominante: financiero — Ley central: CÓDIGO de Comercio
-- **Cluster 4** (34 leyes) — Sector dominante: fiscal — Ley central: LEY General de Responsabilidades Administrativas
-- **Cluster 5** (16 leyes) — Sector dominante: seguridad — Ley central: LEY del Instituto de Seguridad Social para las Fue
-- **Cluster 10** (8 leyes) — Sector dominante: salud — Ley central: LEY General de Salud
-- **Cluster 1** (1 leyes) — Sector dominante: salud — Ley central: LEY para el uso y protección de la denominación y 
+- **Cluster 3** (102 leyes) — Sector dominante: penal — Ley central: CONSTITUCIÓN Política de los Estados Unidos Mexica
+- **Cluster 2** (58 leyes) — Sector dominante: energia — Ley central: LEY Federal de Procedimiento Administrativo
+- **Cluster 11** (48 leyes) — Sector dominante: financiero — Ley central: LEY General de Títulos y Operaciones de Crédito
+- **Cluster 4** (44 leyes) — Sector dominante: fiscal — Ley central: LEY Federal del Trabajo
+- **Cluster 9** (34 leyes) — Sector dominante: fiscal — Ley central: LEY General de Responsabilidades Administrativas
+- **Cluster 7** (17 leyes) — Sector dominante: seguridad — Ley central: LEY sobre la Celebración de Tratados
+- **Cluster 1** (10 leyes) — Sector dominante: seguridad — Ley central: LEY del Instituto de Seguridad Social para las Fue
+- **Cluster 0** (1 leyes) — Sector dominante: salud — Ley central: LEY para el uso y protección de la denominación y 
 
 ---
 

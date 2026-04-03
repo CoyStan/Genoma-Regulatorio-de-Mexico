@@ -94,15 +94,23 @@ def find_strongly_connected_components(G: nx.DiGraph) -> list[set]:
     return sorted(sccs, key=len, reverse=True)
 
 
+CPEUM_ID = "constitucion-politica-de-los-estados-unidos-mexicanos"
+
 def find_circular_dependencies(G: nx.DiGraph) -> list[list[str]]:
     """
     Find mutual citations (length-2 cycles) efficiently in O(E).
     Two laws that cite each other are a circular dependency.
+
+    The Constitution (CPEUM) is excluded: cycles involving it reflect
+    constitutional hierarchy and implementation authority, not peer-to-peer
+    circular dependence between laws of the same rank.
     """
     cycles = []
     edges = set(G.edges())
     seen = set()
     for u, v in edges:
+        if u == CPEUM_ID or v == CPEUM_ID:
+            continue
         if (v, u) in edges and (v, u) not in seen:
             cycles.append([u, v])
             seen.add((u, v))

@@ -1,66 +1,7 @@
 {
-  "total_pairs": 204,
+  "total_pairs": 196,
   "note": "Cada par representa dos leyes que se citan mutuamente. Incluye hasta 3 citas textuales por dirección.",
   "pairs": [
-    {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-general-de-instituciones-y-procedimientos-electorales",
-      "law_b_name": "LEY General de Instituciones y Procedimientos Electorales",
-      "law_b_short": "LGIPE",
-      "sector_a": "constitucional",
-      "sector_b": "electoral",
-      "same_sector": false,
-      "a_to_b_count": 3,
-      "b_to_a_count": 84,
-      "a_to_b_citations": [
-        {
-          "article": "6o",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "procedimientos de revisión contra los actos que emitan los sujetos obligados. Párrafo reformado DOF 20-12-2024  Los sujetos obligados se regirán por la ley general en materia de transparencia y acceso a la información pública y protección de datos personales, en los términos que ésta se emita por el"
-        },
-        {
-          "article": "73",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "arada por el Presidente de la República en los términos del artículo 29.  2o. Aprobar anualmente los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Distrito Federal y las entidades de su sector público, conforme a las bases de la ley corr"
-        },
-        {
-          "article": "73",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "e Detenciones; Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada DOF 18-06-2008, 29-01-2016, 26-03-2019  XXIII Bis. Para expedir la ley general en materia de seguridad privada, que establezca:  a)\tLas reglas y la autoridad facultada para autorizar y regular a los prestadores de "
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "3",
-          "target_article": "34",
-          "pattern": "constitucion_full",
-          "confidence": "high",
-          "text": "to establece la presente Ley;  d) Ciudadanos o Ciudadanas: Las personas que teniendo la calidad de mexicanas reúnan los requisitos determinados en el artículo 34 de la Constitución Política de los Estados Unidos Mexicanos; Inciso reformado DOF 13-04-2020  d bis) [Paridad de género: Igualdad política"
-        },
-        {
-          "article": "126",
-          "target_article": "41",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "da DOF 24-11-2023  2. El Registro Federal de Electores es de carácter permanente y de interés público. Tiene por objeto cumplir con lo previsto en el artículo 41 constitucional sobre el Padrón Electoral.  3. Los documentos, datos e informes que los ciudadanos proporcionen al Registro Federal de Elec"
-        },
-        {
-          "article": "202",
-          "target_article": "41",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "organización y funcionamiento y aplicará los distintos mecanismos de este Servicio de conformidad con lo dispuesto en el Apartado D de la Base V del artículo 41 constitucional.  3. Los cuerpos de la función ejecutiva proveerán el personal para cubrir los cargos con atribuciones de dirección, de mand"
-        }
-      ]
-    },
     {
       "law_a": "codigo-fiscal-de-la-federacion",
       "law_a_name": "CÓDIGO Fiscal de la Federación",
@@ -169,65 +110,6 @@
           "pattern": "direct_mention",
           "confidence": "medium",
           "text": "ción en dichas sociedades mercantiles les permite tener el control de la sociedad o de su administración, en términos del artículo 2, fracción III de la Ley del Mercado de Valores.  Los ingresos totales anuales de una sociedad por acciones simplificada no podrá rebasar de $7,678,849.94. En caso de r"
-        }
-      ]
-    },
-    {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
-      "law_b_name": "LEY Orgánica del Congreso General de los Estados Unidos Mexicanos",
-      "law_b_short": "LOCG",
-      "sector_a": "constitucional",
-      "sector_b": "administrativo",
-      "same_sector": false,
-      "a_to_b_count": 5,
-      "b_to_a_count": 40,
-      "a_to_b_citations": [
-        {
-          "article": "93",
-          "target_article": null,
-          "pattern": "conformidad",
-          "confidence": "high",
-          "text": "un término no mayor a 15 días naturales a partir de su recepción. Párrafo adicionado DOF 15-08-2008  El ejercicio de estas atribuciones se realizará de conformidad con la Ley del Congreso y sus reglamentos. Párrafo adicionado DOF 15-08-2008 Artículo reformado DOF 31-01-1974  Capítulo IV Del Poder Ju"
-        },
-        {
-          "article": "35",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "s que establezca la ley; Fracción adicionada DOF 09-08-2012  VII.\tIniciar leyes, en los términos y con los requisitos que señalen esta Constitución y la Ley del Congreso. El Instituto Nacional Electoral tendrá las facultades que en esta materia le otorgue la ley; Fracción adicionada DOF 09-08-2012. "
-        },
-        {
-          "article": "69",
-          "target_article": null,
-          "pattern": "ley_y_reglamentos",
-          "confidence": "medium",
-          "text": "los Secretarios de Estado y a los directores de las entidades paraestatales, quienes comparecerán y rendirán informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad. Párrafo reformado DOF 10-02-2014  En el primer año de su mandato, en la "
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "2o",
-          "target_article": "52 y 56",
-          "pattern": "constitucion_full",
-          "confidence": "high",
-          "text": "ARTICULO 2o. 1. Cada Cámara se integrará por el número de miembros que señalan los artículos 52 y 56 de la Constitución Política de los Estados Unidos Mexicanos.  2. El ejercicio de las funciones de los diputados y los senadores durante tres años constituye una Legislatura. El año legislativo se com"
-        },
-        {
-          "article": "4o",
-          "target_article": "83",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "olongarse sino hasta el quince de diciembre del mismo año, excepto cuando el Presidente de la República inicie su encargo en la fecha prevista por el artículo 83 constitucional, caso en el cual las sesiones podrán extenderse hasta el treinta y uno de diciembre de ese mismo año. El segundo periodo no"
-        },
-        {
-          "article": "8o",
-          "target_article": "63",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "8o. 1. Para la realización de la sesión conjunta de las Cámaras, se requiere el quórum que para cada una de ellas se dispone en el primer párrafo del artículo 63 constitucional."
         }
       ]
     },
@@ -405,51 +287,6 @@
           "pattern": "en_los_terminos",
           "confidence": "high",
           "text": "mite de su cancelación del crédito ante el Instituto cuantas veces le resulte necesario, siempre que no se revoque la determinación de su incapacidad en los términos de la Ley del Seguro Social. Párrafo adicionado DOF 21-02-2025 Artículo reformado DOF 24-04-1972, 13-01-1986"
-        }
-      ]
-    },
-    {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-federal-del-trabajo",
-      "law_b_name": "LEY Federal del Trabajo",
-      "law_b_short": "LFT",
-      "sector_a": "constitucional",
-      "sector_b": "trabajo",
-      "same_sector": false,
-      "a_to_b_count": 1,
-      "b_to_a_count": 23,
-      "a_to_b_citations": [
-        {
-          "article": "3o",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "co como del administrativo, se normarán por el apartado A del artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cá"
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "132",
-          "target_article": "123",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "iata inferior, los puestos de nueva creación, las vacantes definitivas y las temporales que deban cubrirse;  XII.- Establecer y sostener las escuelas Artículo 123 Constitucional, de conformidad con lo que dispongan las leyes y la Secretaría de Educación Pública;  XIII.- Colaborar con las Autoridades"
-        },
-        {
-          "article": "590-A",
-          "target_article": "123",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "Laboral las siguientes atribuciones:  I. Realizar en materia federal la función conciliadora a que se refiere el párrafo cuarto de la fracción XX del artículo 123 constitucional;  II. Llevar el registro de todos los contratos colectivos de trabajo, reglamentos interiores de trabajo y de las organiza"
-        },
-        {
-          "article": "590-B",
-          "target_article": "123, apartado A,",
-          "pattern": "constitucion_full",
-          "confidence": "high",
-          "text": "ación que deberán agotar los trabajadores y patrones, antes de acudir a los Tribunales, conforme lo establece el párrafo quinto de la fracción XX del artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos.  Además, será competente para operar el registro de todos los c"
         }
       ]
     },
@@ -1592,51 +1429,6 @@
       ]
     },
     {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-del-impuesto-sobre-la-renta",
-      "law_b_name": "LEY del Impuesto sobre la Renta",
-      "law_b_short": "LISR",
-      "sector_a": "constitucional",
-      "sector_b": "fiscal",
-      "same_sector": false,
-      "a_to_b_count": 1,
-      "b_to_a_count": 9,
-      "a_to_b_citations": [
-        {
-          "article": "123",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "culares;  e) Para determinar el monto de las utilidades de cada empresa se tomará como base la renta gravable de conformidad con las disposiciones de la Ley del Impuesto sobre la Renta. Los trabajadores podrán formular ante la Oficina correspondiente de la Secretaría de Hacienda y Crédito Público la"
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "9",
-          "target_article": "123",
-          "pattern": "constitucion_full",
-          "confidence": "high",
-          "text": "ones autorizadas por este Título y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.  II.\tA la utilidad fiscal del ejercicio se le disminuirán, en su caso, las p"
-        },
-        {
-          "article": "14",
-          "target_article": "123",
-          "pattern": "constitucion_full",
-          "confidence": "high",
-          "text": "s conceptos:  a)\tEl monto de la participación de los trabajadores en las utilidades de las empresas pagada en el mismo ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. El citado monto de la participación de los trabajadores en las utilidades de"
-        },
-        {
-          "article": "57",
-          "target_article": "123",
-          "pattern": "constitucion_full",
-          "confidence": "high",
-          "text": "do se incrementará, en su caso, con la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.  La pérdida fiscal ocurrida en un ejercicio podrá disminuirse de la utilidad"
-        }
-      ]
-    },
-    {
       "law_a": "ley-de-instituciones-de-credito",
       "law_a_name": "LEY de Instituciones de Crédito",
       "law_a_short": "LIC",
@@ -2226,96 +2018,6 @@
           "pattern": "lo_previsto",
           "confidence": "high",
           "text": "ntía que deban otorgar las personas y sociedades que impugnen dichas multas, se estará a lo dispuesto por esta Ley, su Reglamento y supletoriamente a lo previsto en el Código Fiscal de la Federación y en lo no previsto por éste, se estará a lo previsto en el Código Nacional de Procedimientos Civiles"
-        }
-      ]
-    },
-    {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
-      "law_b_name": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
-      "law_b_short": "LISSSTE",
-      "sector_a": "constitucional",
-      "sector_b": "seguridad-social",
-      "same_sector": false,
-      "a_to_b_count": 1,
-      "b_to_a_count": 7,
-      "a_to_b_citations": [
-        {
-          "article": "115",
-          "target_article": null,
-          "pattern": "en_los_terminos",
-          "confidence": "high",
-          "text": "con apego a las leyes federales de la materia. Fracción reformada DOF 18-12-2020  VII. La policía preventiva estará al mando del presidente municipal en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que"
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "19",
-          "target_article": "45 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "da de fallo absolutorio, mientras dure la privación de la libertad;  III. Cuando el Trabajador fuere suspendido en los términos del párrafo final del artículo 45 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 Constitucional, por todo el ti"
-        },
-        {
-          "article": "39",
-          "target_article": "28 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "ria a partir del día en que el Instituto certifique el estado de embarazo. La certificación señalará la fecha probable del parto para los efectos del artículo 28 de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 Constitucional;  II.\tA la capa"
-        },
-        {
-          "article": "55",
-          "target_article": "123",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "bligaciones de las Dependencias o Entidades, derivadas de la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 Constitucional y de la Ley Federal del Trabajo, por cuanto a los mismos riesgos se refiere."
-        }
-      ]
-    },
-    {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-del-seguro-social",
-      "law_b_name": "LEY del Seguro Social",
-      "law_b_short": "LSS",
-      "sector_a": "constitucional",
-      "sector_b": "seguridad-social",
-      "same_sector": false,
-      "a_to_b_count": 1,
-      "b_to_a_count": 7,
-      "a_to_b_citations": [
-        {
-          "article": "123",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "embargos, y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.  XXIX. Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seguros de invalidez, de vejez, de vida, de cesación involuntaria del trabajo, de enfermedades y accidente"
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "256",
-          "target_article": "123",
-          "pattern": "articulo_constitucional",
-          "confidence": "high",
-          "text": "Artículo 256. Las relaciones entre el Instituto y sus trabajadores se regirán por lo dispuesto en el Apartado A del artículo 123 constitucional, la Ley Federal del Trabajo y en el caso de los trabajadores clasificados como de confianza \"A\" en el contrato colectivo de trabajo, se estará a lo d"
-        },
-        {
-          "article": "62",
-          "target_article": "",
-          "pattern": "constitucion_bare",
-          "confidence": "medium",
-          "text": "a devuelto por la aseguradora, será equivalente a la proporción que representó la suma asegurada y el saldo de la cuenta individual del trabajador en la constitución del monto constitutivo. La administradora de fondos para el retiro abrirá nuevamente la cuenta individual al trabajador con los recurs"
-        },
-        {
-          "article": "146",
-          "target_article": "",
-          "pattern": "constitucion_bare",
-          "confidence": "medium",
-          "text": "Artículo 146. Los recursos necesarios para financiar las prestaciones y los gastos administrativos del seguro de invalidez y vida, así como la constitución de las reservas técnicas, se obtendrán de las cuotas que están obligados a cubrir los patrones, los trabajadores y demás sujetos obligados, así "
         }
       ]
     },
@@ -5562,44 +5264,6 @@
       ]
     },
     {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-nacional-del-registro-de-detenciones",
-      "law_b_name": "LEY Nacional del Registro de Detenciones",
-      "law_b_short": "LNRD",
-      "sector_a": "constitucional",
-      "sector_b": "penal",
-      "same_sector": false,
-      "a_to_b_count": 1,
-      "b_to_a_count": 2,
-      "a_to_b_citations": [
-        {
-          "article": "73",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "a en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución; así como la Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro de Detenciones; Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994. Reformada DOF 18-06-2008, 29-01-2016, 26-03-"
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "7",
-          "target_article": "",
-          "pattern": "constitucion_bare",
-          "confidence": "medium",
-          "text": ", integridad, rendición de cuentas, eficacia y responsabilidad en el tratamiento de datos personales y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado mexicano sea parte."
-        },
-        {
-          "article": "8",
-          "target_article": "",
-          "pattern": "constitucion_bare",
-          "confidence": "medium",
-          "text": "Artículo 8. Las disposiciones de esta Ley se interpretarán de modo que no restrinjan ni menoscaben los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y por los Tratados Internacionales en la materia de los que el Estado mexicano sea parte.  Capítulo III Tra"
-        }
-      ]
-    },
-    {
       "law_a": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
       "law_a_name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
       "law_a_short": "LAASSP",
@@ -7288,37 +6952,6 @@
           "pattern": "establecida_en",
           "confidence": "high",
           "text": "Artículo 44.- La regla prevista en el párrafo primero del artículo anterior, se aplicará en relación a los beneficios establecidos en el Código Penal Federal y la Ley aplicable en materia de ejecución de penas. Artículo reformado DOF 16-06-2016"
-        }
-      ]
-    },
-    {
-      "law_a": "constitucion-politica-de-los-estados-unidos-mexicanos",
-      "law_a_name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
-      "law_a_short": "CPEUM",
-      "law_b": "ley-nacional-sobre-el-uso-de-la-fuerza",
-      "law_b_name": "LEY Nacional sobre el Uso de la Fuerza",
-      "law_b_short": "LNUF",
-      "sector_a": "constitucional",
-      "sector_b": "penal",
-      "same_sector": false,
-      "a_to_b_count": 1,
-      "b_to_a_count": 1,
-      "a_to_b_citations": [
-        {
-          "article": "73",
-          "target_article": null,
-          "pattern": "direct_mention",
-          "confidence": "medium",
-          "text": "y las demás instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución; así como la Ley Nacional sobre el Uso de la Fuerza, y la Ley Nacional del Registro de Detenciones; Fracción derogada DOF 06-12-1977. Adicionada DOF 31-12-1994."
-        }
-      ],
-      "b_to_a_citations": [
-        {
-          "article": "4",
-          "target_article": "",
-          "pattern": "constitucion_bare",
-          "confidence": "medium",
-          "text": "ara el desistimiento de la conducta del agresor;  II.\tLegalidad: para que la acción de las instituciones de seguridad se realice con estricto apego a la Constitución, a las leyes y a los Tratados Internacionales de los que el Estado mexicano sea parte;  III.\tPrevención: para que los operativos para "
         }
       ]
     },

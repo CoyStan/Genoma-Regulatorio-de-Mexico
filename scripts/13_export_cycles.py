@@ -53,9 +53,13 @@ print(f"Loaded {sum(len(v) for v in edge_citations.values())} citations across "
 seen = set()
 pairs = []
 
+CPEUM_ID = "constitucion-politica-de-los-estados-unidos-mexicanos"
+
 for (src, tgt) in edge_citations:
     if src == tgt:
         continue  # skip self-references
+    if src == CPEUM_ID or tgt == CPEUM_ID:
+        continue  # skip constitutional hierarchy — not peer-to-peer dependence
     if (tgt, src) in edge_citations and (tgt, src) not in seen:
         seen.add((src, tgt))
 
