@@ -12,6 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CITATIONS_DIR = ROOT / "data" / "citations"
+DEPENDENCIES_PATH = ROOT / "data" / "dependencies" / "dependencies.json"
 GRAPH_DIR = ROOT / "data" / "graph"
 GRAPH_DIR.mkdir(parents=True, exist_ok=True)
 OUT_PATH = GRAPH_DIR / "article_graph.json"
@@ -20,7 +21,25 @@ MAX_NODES = 5000
 MAX_EDGES = 20000
 
 
+def _load_dependency_lookup():
+  if not DEPENDENCIES_PATH.exists():
+    return {}
+  with open(DEPENDENCIES_PATH, "r", encoding="utf-8") as f:
+    deps = json.load(f).get("dependencies", [])
+  lookup = {}
+  for d in deps:
+    key = (
+      d.get("source_law"),
+      str(d.get("source_article") or "?"),
+      d.get("target_law_id"),
+      str(d.get("target_article") or "?"),
+    )
+    lookup[key] = d.get("dependency_type", "generic_unresolved")
+  return lookup
+
+
 def load_citations():
+  dep_lookup = _load_dependency_lookup()
   for file in CITATIONS_DIR.glob("*_citations.json"):
     with open(file, "r", encoding="utf-8") as f:
       data = json.load(f)
@@ -36,6 +55,7 @@ def load_citations():
         "target": f"{tgt_law}::{tgt_art}",
         "source_law": src_law,
         "target_law": tgt_law,
+        "dependency_type": dep_lookup.get((src_law, src_art, tgt_law, tgt_art), "generic_unresolved"),
       }
 
 
@@ -44,11 +64,13 @@ def main():
   in_degree = Counter()
   out_degree = Counter()
   law_names = {}
+  edge_type_mix = defaultdict(Counter)
 
   for c in load_citations():
     if c["source"] == c["target"]:
       continue
     edge_weights[(c["source"], c["target"])] += 1
+    edge_type_mix[(c["source"], c["target"])][c["dependency_type"]] += 1
     out_degree[c["source"]] += 1
     in_degree[c["target"]] += 1
 
@@ -68,6 +90,7 @@ def main():
   for (src, tgt), w in edge_weights.most_common(MAX_EDGES * 2):
     if src in keep_nodes and tgt in keep_nodes:
       links.append({"source": src, "target": tgt, "weight": w})
+      links[-1]["dependency_type"] = edge_type_mix[(src, tgt)].most_common(1)[0][0]
     if len(links) >= MAX_EDGES:
       break
 

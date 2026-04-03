@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Genoma Regulatorio 3D · Artículos</title>
-  <meta name="description" content="Visualizador 3D de citaciones jurídicas a nivel artículo." />
+  <title>Genoma Regulatorio · Dependencias e Impacto</title>
+  <meta name="description" content="Plataforma para trazabilidad de dependencias jurídicas e impacto de reforma." />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header class="app-header">
     <div>
-      <h1>Genoma Regulatorio 3D <span>🇲🇽</span></h1>
-      <p>Red de citaciones a nivel artículo</p>
+      <h1>Genoma Regulatorio Legal Intelligence <span>🇲🇽</span></h1>
+      <p>Trazabilidad de dependencias normativas para práctica jurídica</p>
     </div>
     <div class="stats">
       <div><strong id="stat-nodes">—</strong><span>Artículos</span></div>
@@ -51,8 +51,19 @@
       <ul id="highlight-list" class="highlight-list"></ul>
     </section>
 
+
+    <section class="legend">
+      <h2>Workflows legales (v1)</h2>
+      <ul>
+        <li>🔎 Buscar ley/artículo y contexto</li>
+        <li>🧭 Perfil de ley/artículo con dependencias</li>
+        <li>📌 Revisión de impacto de reforma</li>
+        <li>📚 Trazabilidad de definiciones</li>
+        <li>⚠️ Referencias frágiles / no resueltas</li>
+      </ul>
+    </section>
     <section>
-      <h2>Vista</h2>
+      <h2>Vista de apoyo
       <label><input id="toggle-links" type="checkbox" checked /> Mostrar enlaces</label>
       <label><input id="toggle-articles" type="checkbox" checked /> Mostrar texto de artículo en tooltip</label>
       <button id="reset-camera">Restablecer cámara</button>
@@ -71,6 +82,7 @@
   </aside>
 
   <main id="graph-wrap">
+    <aside id="workflow-summary" class="workflow-summary"></aside>
     <div id="graph-3d"></div>
     <div id="loading" class="overlay">Cargando red 3D…</div>
     <div id="empty" class="overlay hidden">

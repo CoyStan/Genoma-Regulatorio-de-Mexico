@@ -98,6 +98,7 @@ _sector_for = _build_sector_lookup()
 PROCESSED_DIR = Path(__file__).parent.parent / "data" / "processed"
 CITATIONS_DIR = Path(__file__).parent.parent / "data" / "citations"
 GRAPH_DIR = Path(__file__).parent.parent / "data" / "graph"
+DEPENDENCIES_PATH = Path(__file__).parent.parent / "data" / "dependencies" / "dependencies.json"
 GRAPH_DIR.mkdir(parents=True, exist_ok=True)
 
 # Minimum confidence level to include a citation as a graph edge
@@ -195,6 +196,17 @@ def build_graph(laws: dict[str, dict], citations: list[dict]) -> nx.DiGraph:
             stub=bool(law_data.get("stub", False)),
         )
 
+    dependency_type_lookup: dict[tuple, Counter] = defaultdict(Counter)
+    if DEPENDENCIES_PATH.exists():
+        try:
+            with open(DEPENDENCIES_PATH, encoding="utf-8") as f:
+                dep_data = json.load(f)
+            for dep in dep_data.get("dependencies", []):
+                key = (dep.get("source_law"), dep.get("target_law_id"))
+                dependency_type_lookup[key][dep.get("dependency_type", "generic_unresolved")] += 1
+        except Exception as e:
+            log.warning(f"Could not load dependency layer ({DEPENDENCIES_PATH}): {e}")
+
     # Aggregate citations into edges
     # Key: (source_law, target_law) → {count, confidence, articles}
     edge_data: dict[tuple, dict] = defaultdict(lambda: {
@@ -242,6 +254,9 @@ def build_graph(laws: dict[str, dict], citations: list[dict]) -> nx.DiGraph:
 
     # Add edges to graph
     for (source, target), data in edge_data.items():
+        dominant_dependency_type = "generic_unresolved"
+        if dependency_type_lookup[(source, target)]:
+            dominant_dependency_type = dependency_type_lookup[(source, target)].most_common(1)[0][0]
         G.add_edge(
             source,
             target,
@@ -249,6 +264,7 @@ def build_graph(laws: dict[str, dict], citations: list[dict]) -> nx.DiGraph:
             citation_count=data["count"],
             sample_article=", ".join(str(a) for a in data["articles"]),
             weight=float(data["count"]),
+            dependency_type=dominant_dependency_type,
         )
 
     log.info(f"Graph built: {G.number_of_nodes()} nodes, {G.number_of_edges()} edges")
