@@ -2,6 +2,8 @@
 
 Plataforma de **inteligencia de dependencias normativas** y **análisis de impacto de reforma** para legislación federal mexicana.
 
+> Rama de trabajo recomendada para este pivote: `pivot/legal-dependency-intelligence`.
+
 > Enfoque principal: workflows para despachos medianos y top-tier en México (laboral, fiscal, regulatorio/administrativo, contratación pública/infraestructura, constitucional/amparo y monitoreo legislativo).
 
 ---
