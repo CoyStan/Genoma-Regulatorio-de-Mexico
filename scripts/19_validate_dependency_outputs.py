@@ -42,8 +42,8 @@ def main() -> None:
         if missing:
             errors.append(f"Dependency row {idx} missing fields: {sorted(missing)}")
 
-    if "by_resolution_method" not in lookup:
-        errors.append("resolution_log.json missing 'by_resolution_method'")
+    if "by_confidence" not in lookup and "by_resolution_method" not in lookup:
+        errors.append("resolution_log.json missing resolution breakdown ('by_confidence' or 'by_resolution_method')")
 
     if errors:
         print("Validation failed:")

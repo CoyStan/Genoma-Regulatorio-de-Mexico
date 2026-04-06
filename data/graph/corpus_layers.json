@@ -1,0 +1,2239 @@
+{
+  "generated_at": "2026-04-06T19:14:56.529335+00:00",
+  "layers_summary": {
+    "layer_1_normative_core": 314,
+    "layer_3_interpretive_prepared": 4
+  },
+  "records": [
+    {
+      "law_id": "codigo-civil-federal",
+      "name": "CÓDIGO Civil Federal",
+      "short_name": "CCF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-de-comercio",
+      "name": "CÓDIGO de Comercio",
+      "short_name": "CCom",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-de-justicia-militar",
+      "name": "CÓDIGO de Justicia Militar",
+      "short_name": "CJM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-federal-de-procedimientos-civiles",
+      "name": "CÓDIGO Federal de Procedimientos Civiles",
+      "short_name": "CFPC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "name": "CÓDIGO Fiscal de la Federación",
+      "short_name": "CFF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-militar-de-procedimientos-penales",
+      "name": "CÓDIGO Militar de Procedimientos Penales",
+      "short_name": "CMPP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "name": "CÓDIGO Nacional de Procedimientos Civiles y Familiares",
+      "short_name": "CNPCF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-nacional-de-procedimientos-penales",
+      "name": "CÓDIGO Nacional de Procedimientos Penales",
+      "short_name": "CNPP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "codigo-penal-federal",
+      "name": "CÓDIGO Penal Federal",
+      "short_name": "CPF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "CONSTITUCIÓN Política de los Estados Unidos Mexicanos",
+      "short_name": "CPEUM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "estatuto-de-gobierno-del-distrito-federal",
+      "name": "ESTATUTO de Gobierno del Distrito Federal",
+      "short_name": "EGDF",
+      "layer": "layer_3_interpretive_prepared",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "impuesto-sobre-servicios-expresamente-declarados-de-interes-publico-por-ley-en-los-que-intervengan-empresas-concesionarias-de-bienes-del-dominio-directo-de-la-nacion",
+      "name": "IMPUESTO sobre Servicios Expresamente Declarados de Interés Público \r\n\t\t\t\tpor Ley, en los que Intervengan Empresas Concesionarias de Bienes \r\n\t\t\t\tdel Dominio Directo de la Nación",
+      "short_name": "LISIPL",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-aduanera",
+      "name": "LEY Aduanera",
+      "short_name": "LA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-agraria",
+      "name": "LEY Agraria",
+      "short_name": "LAGRA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "name": "LEY de Adquisiciones, Arrendamientos y Servicios del Sector Público",
+      "short_name": "LAASSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-aeropuertos",
+      "name": "LEY de Aeropuertos",
+      "short_name": "LAERO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-aguas-nacionales",
+      "name": "LEY de Aguas Nacionales",
+      "short_name": "LAN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-ahorro-y-credito-popular",
+      "name": "LEY de Ahorro y Crédito Popular",
+      "short_name": "LACP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-amnistia",
+      "name": "LEY de Amnistía",
+      "short_name": "LAMNI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "LEY de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos",
+      "short_name": "LAmp",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-ascensos-de-la-armada-de-mexico",
+      "name": "LEY de Ascensos de la Armada de México",
+      "short_name": "LAAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "name": "LEY de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional",
+      "short_name": "LAREFAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-asistencia-social",
+      "name": "LEY de Asistencia Social",
+      "short_name": "LASOC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-asociaciones-publico-privadas",
+      "name": "LEY de Asociaciones Público Privadas",
+      "short_name": "LAPP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-asociaciones-religiosas-y-culto-publico",
+      "name": "LEY de Asociaciones Religiosas y Culto Público",
+      "short_name": "LARCP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "name": "LEY de Aviación Civil",
+      "short_name": "LAC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-ayuda-alimentaria-para-los-trabajadores",
+      "name": "LEY de Ayuda Alimentaria para los Trabajadores",
+      "short_name": "LAAT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-biocombustibles",
+      "name": "LEY de Biocombustibles",
+      "short_name": "LBIO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-bioseguridad-de-organismos-geneticamente-modificados",
+      "name": "LEY de Bioseguridad de Organismos Genéticamente Modificados",
+      "short_name": "LBOGM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-camaras-empresariales-y-sus-confederaciones",
+      "name": "LEY de Cámaras Empresariales y sus Confederaciones",
+      "short_name": "LCEC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-caminos-puentes-y-autotransporte-federal",
+      "name": "LEY de Caminos, Puentes y Autotransporte Federal",
+      "short_name": "LCPAF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-capitalizacion-del-procampo",
+      "name": "LEY de Capitalización del Procampo",
+      "short_name": "LCPRO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-carrera-judicial-del-poder-judicial-de-la-federacion",
+      "name": "LEY de Carrera Judicial del Poder Judicial de la Federación",
+      "short_name": "LCJPJF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "name": "LEY de Comercio Exterior",
+      "short_name": "LCE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-concursos-mercantiles",
+      "name": "LEY de Concursos Mercantiles",
+      "short_name": "LCM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-contribucion-de-mejoras-por-obras-publicas-federales-de-infraestructura-hidraulica",
+      "name": "LEY de Contribución de Mejoras por Obras Públicas Federales de Infraestructura Hidráulica",
+      "short_name": "LCMOPFIH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-cooperacion-internacional-para-el-desarrollo",
+      "name": "LEY de Cooperación Internacional para el Desarrollo",
+      "short_name": "LCID",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-coordinacion-fiscal",
+      "name": "LEY de Coordinación Fiscal",
+      "short_name": "LCF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-desarrollo-rural-sustentable",
+      "name": "LEY de Desarrollo Rural Sustentable",
+      "short_name": "LDRS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-desarrollo-sustentable-de-la-cafeticultura",
+      "name": "LEY de Desarrollo Sustentable de la Cafeticultura",
+      "short_name": "LDSC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-desarrollo-sustentable-de-la-cana-de-azucar",
+      "name": "LEY de Desarrollo Sustentable de la Caña de Azúcar",
+      "short_name": "LDSCA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-disciplina-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "name": "LEY de Disciplina del Ejército, Fuerza Aérea y Guardia Nacional",
+      "short_name": "LDEFAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "name": "LEY de Disciplina Financiera de las Entidades Federativas y los Municipios",
+      "short_name": "LDFEFM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-disciplina-para-el-personal-de-la-armada-de-mexico",
+      "name": "LEY de Disciplina para el Personal de la Armada de México",
+      "short_name": "LDPARM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "name": "LEY de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional",
+      "short_name": "LEMEFAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-educacion-naval",
+      "name": "LEY de Educación Naval",
+      "short_name": "LEN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-energia-para-el-campo",
+      "name": "LEY de Energía para el Campo",
+      "short_name": "LEC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-expropiacion",
+      "name": "LEY de Expropiación",
+      "short_name": "LEXP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-extradicion-internacional",
+      "name": "LEY de Extradición Internacional",
+      "short_name": "LEI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-firma-electronica-avanzada",
+      "name": "LEY de Firma Electrónica Avanzada",
+      "short_name": "LFEA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "name": "LEY de Fiscalización y Rendición de Cuentas de la Federación",
+      "short_name": "LFRCF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-fomento-a-la-confianza-ciudadana",
+      "name": "LEY de Fomento a la Confianza Ciudadana",
+      "short_name": "LFCC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-fomento-a-la-industria-vitivinicola",
+      "name": "LEY de Fomento a la Industria Vitivinícola",
+      "short_name": "LFIV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-fomento-para-la-lectura-y-el-libro",
+      "name": "LEY de Fomento para la Lectura y el Libro",
+      "short_name": "LFLL",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
+      "name": "LEY de Fondos de Aseguramiento Agropecuario y Rural",
+      "short_name": "LFAAR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-fondos-de-inversion",
+      "name": "LEY de Fondos de Inversión",
+      "short_name": "LFI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-geotermia",
+      "name": "LEY de Geotermia",
+      "short_name": "LGEO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "name": "LEY de Infraestructura de la Calidad",
+      "short_name": "LICAL",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
+      "name": "LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2025",
+      "short_name": "LIF_2025",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+      "name": "LEY de Ingresos de la Federación para el Ejercicio Fiscal de 2026",
+      "short_name": "LIF_2026",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "name": "LEY de Ingresos sobre Hidrocarburos",
+      "short_name": "LIH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-instituciones-de-credito",
+      "name": "LEY de Instituciones de Crédito",
+      "short_name": "LIC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-instituciones-de-seguros-y-de-fianzas",
+      "name": "LEY de Instituciones de Seguros y de Fianzas",
+      "short_name": "LISF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-inversion-extranjera",
+      "name": "LEY de Inversión Extranjera",
+      "short_name": "LIE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
+      "name": "LEY de la Agencia Nacional de Seguridad Industrial y de Protección al Medio Ambiente del Sector Hidrocarburos",
+      "short_name": "LANSI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-casa-de-moneda-de-mexico",
+      "name": "LEY de la Casa de Moneda de México",
+      "short_name": "LCMM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "name": "LEY de la Comisión Nacional Bancaria y de Valores",
+      "short_name": "LCNBV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-comision-nacional-de-energia",
+      "name": "LEY de la Comisión Nacional de Energía",
+      "short_name": "LCNE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-comision-nacional-de-los-derechos-humanos",
+      "name": "LEY de la Comisión Nacional de los Derechos Humanos",
+      "short_name": "LCNDH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-economia-social-y-solidaria",
+      "name": "LEY de la Economía Social y Solidaria",
+      "short_name": "LESS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad",
+      "name": "LEY de la Empresa Pública del Estado, Comisión Federal de Electricidad",
+      "short_name": "LEPECFE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos",
+      "name": "LEY de la Empresa Pública del Estado, Petróleos Mexicanos",
+      "short_name": "LPEMEX",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-fiscalia-general-de-la-republica",
+      "name": "LEY de la Fiscalía General de la República",
+      "short_name": "LFGR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-guardia-nacional",
+      "name": "LEY de la Guardia Nacional",
+      "short_name": "LGN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-la-policia-federal",
+      "name": "LEY de la Policía Federal",
+      "short_name": "LPF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-los-derechos-de-las-personas-adultas-mayores",
+      "name": "LEY de los Derechos de las Personas Adultas Mayores",
+      "short_name": "LDPAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-los-husos-horarios-en-los-estados-unidos-mexicanos",
+      "name": "LEY de los Husos Horarios en los Estados Unidos Mexicanos",
+      "short_name": "LHHEUM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
+      "name": "LEY de los Impuestos Generales de Importación y de Exportación",
+      "short_name": "LIGIE_2022",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-los-institutos-nacionales-de-salud",
+      "name": "LEY de los Institutos Nacionales de Salud",
+      "short_name": "LINS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+      "name": "LEY de los Sistemas de Ahorro para el Retiro",
+      "short_name": "LSAR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-migracion",
+      "name": "LEY de Migración",
+      "short_name": "LM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-mineria",
+      "name": "LEY de Minería",
+      "short_name": "LMIN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-nacionalidad",
+      "name": "LEY de Nacionalidad",
+      "short_name": "LNAC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-navegacion-y-comercio-maritimos",
+      "name": "LEY de Navegación y Comercio Marítimos",
+      "short_name": "LNCM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "name": "LEY de Obras Públicas y Servicios Relacionados con las Mismas",
+      "short_name": "LOPSRM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-organizaciones-ganaderas",
+      "name": "LEY de Organizaciones Ganaderas",
+      "short_name": "LOG",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-planeacion-y-transicion-energetica",
+      "name": "LEY de Planeación y Transición Energética",
+      "short_name": "LPTE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-planeacion",
+      "name": "LEY de Planeación",
+      "short_name": "LPLAN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-premios-estimulos-y-recompensas-civiles",
+      "name": "LEY de Premios, Estímulos y Recompensas Civiles",
+      "short_name": "LPERC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-productos-organicos",
+      "name": "LEY de Productos Orgánicos",
+      "short_name": "LPO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-proteccion-al-ahorro-bancario",
+      "name": "LEY de Protección al Ahorro Bancario",
+      "short_name": "LPAB",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-proteccion-al-comercio-y-la-inversion-de-normas-extranjeras-que-contravengan-el-derecho-internacional",
+      "name": "LEY de Protección al Comercio y la Inversión de Normas Extranjeras que Contravengan el Derecho Internacional",
+      "short_name": "LPCINECDI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-proteccion-del-espacio-aereo-mexicano",
+      "name": "LEY de Protección del Espacio Aéreo Mexicano",
+      "short_name": "LPEAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+      "name": "LEY de Protección y Defensa al Usuario de Servicios Financieros",
+      "short_name": "LPDUSF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "name": "LEY de Puertos",
+      "short_name": "LPUE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-recompensas-de-la-armada-de-mexico",
+      "name": "LEY de Recompensas de la Armada de México",
+      "short_name": "LRAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-responsabilidad-civil-por-danos-nucleares",
+      "name": "LEY de Responsabilidad Civil por Daños Nucleares",
+      "short_name": "LRCDN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-seguridad-interior",
+      "name": "LEY de Seguridad Interior",
+      "short_name": "LSINT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "name": "LEY de Seguridad Nacional",
+      "short_name": "LSN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-sistemas-de-pagos",
+      "name": "LEY de Sistemas de Pagos",
+      "short_name": "LSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-sociedades-de-responsabilidad-limitada-de-interes-publico",
+      "name": "LEY de Sociedades de Responsabilidad Limitada de Interés Público",
+      "short_name": "LSRLIP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-sociedades-de-solidaridad-social",
+      "name": "LEY de Sociedades de Solidaridad Social",
+      "short_name": "LSSS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-tesoreria-de-la-federacion",
+      "name": "LEY de Tesorería de la Federación",
+      "short_name": "LTF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-transparencia-y-de-fomento-a-la-competencia-en-el-credito-garantizado",
+      "name": "LEY de Transparencia y de Fomento a la Competencia en el Crédito Garantizado",
+      "short_name": "LTFCCG",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-uniones-de-credito",
+      "name": "LEY de Uniones de Crédito",
+      "short_name": "LUC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-vertimientos-en-las-zonas-marinas-mexicanas",
+      "name": "LEY de Vertimientos en las Zonas Marinas Mexicanas",
+      "short_name": "LVZMM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-vias-generales-de-comunicacion",
+      "name": "LEY de Vías Generales de Comunicación",
+      "short_name": "LVGC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-de-vivienda",
+      "name": "LEY de Vivienda",
+      "short_name": "LVIV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-banco-de-mexico",
+      "name": "LEY del Banco de México",
+      "short_name": "LBM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-diario-oficial-de-la-federacion-y-gacetas-gubernamentales",
+      "name": "LEY del Diario Oficial de la Federación y Gacetas Gubernamentales",
+      "short_name": "LDOFGG",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-fondo-mexicano-del-petroleo-para-la-estabilizacion-y-el-desarrollo",
+      "name": "LEY del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo",
+      "short_name": "LFMPED",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "name": "LEY del Impuesto al Valor Agregado",
+      "short_name": "LIVA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+      "name": "LEY del Impuesto Especial sobre Producción y Servicios",
+      "short_name": "LIEPS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "name": "LEY del Impuesto sobre la Renta",
+      "short_name": "LISR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+      "name": "LEY del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas",
+      "short_name": "LISSFAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "name": "LEY del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado",
+      "short_name": "LISSSTE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
+      "name": "LEY del Instituto del Fondo Nacional de la Vivienda para los Trabajadores",
+      "short_name": "LINFONAVIT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-instituto-del-fondo-nacional-para-el-consumo-de-los-trabajadores",
+      "name": "LEY del Instituto del Fondo Nacional para el Consumo de los Trabajadores",
+      "short_name": "LIFNCT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-instituto-mexicano-de-la-juventud",
+      "name": "LEY del Instituto Mexicano de la Juventud",
+      "short_name": "LIMJ",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-instituto-nacional-de-las-mujeres",
+      "name": "LEY del Instituto Nacional de las Mujeres",
+      "short_name": "LINM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-instituto-nacional-de-los-pueblos-indigenas",
+      "name": "LEY del Instituto Nacional de los Pueblos Indígenas",
+      "short_name": "LINPI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-mercado-de-valores",
+      "name": "LEY del Mercado de Valores",
+      "short_name": "LMV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-registro-publico-vehicular",
+      "name": "LEY del Registro Público Vehicular",
+      "short_name": "LRPV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "name": "LEY del Sector Eléctrico",
+      "short_name": "LIE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-sector-hidrocarburos",
+      "name": "LEY del Sector Hidrocarburos",
+      "short_name": "LH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "name": "LEY del Seguro Social",
+      "short_name": "LSS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-servicio-de-administracion-tributaria",
+      "name": "LEY del Servicio de Administración Tributaria",
+      "short_name": "LSAT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-servicio-exterior-mexicano",
+      "name": "LEY del Servicio Exterior Mexicano",
+      "short_name": "LSEM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-servicio-militar",
+      "name": "LEY del Servicio Militar",
+      "short_name": "LSM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-servicio-postal-mexicano",
+      "name": "LEY del Servicio Postal Mexicano",
+      "short_name": "LSPM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
+      "name": "LEY del Servicio Profesional de Carrera en la Administración Pública Federal",
+      "short_name": "LSPCAPF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-informacion-estadistica-y-geografica",
+      "name": "LEY del Sistema Nacional de Información Estadística y Geográfica",
+      "short_name": "LSNIEG",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+      "name": "LEY del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública",
+      "short_name": "LSNIIMSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-del-sistema-publico-de-radiodifusion-del-estado-mexicano",
+      "name": "LEY del Sistema Público de Radiodifusión del Estado Mexicano",
+      "short_name": "LSPREM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
+      "name": "LEY en Materia de Telecomunicaciones y Radiodifusión",
+      "short_name": "LFTR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-contra-la-delincuencia-organizada",
+      "name": "LEY Federal contra la Delincuencia Organizada",
+      "short_name": "LFCDO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
+      "name": "LEY Federal de Armas de Fuego y Explosivos",
+      "short_name": "LFAFE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-austeridad-republicana",
+      "name": "LEY Federal de Austeridad Republicana",
+      "short_name": "LFAR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-cinematografia",
+      "name": "LEY Federal de Cinematografía",
+      "short_name": "LFC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "name": "LEY Federal de Competencia Económica",
+      "short_name": "LFCE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-consulta-popular",
+      "name": "LEY Federal de Consulta Popular",
+      "short_name": "LFCPO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-correduria-publica",
+      "name": "LEY Federal de Correduría Pública",
+      "short_name": "LFCP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-declaracion-especial-de-ausencia-para-personas-desaparecidas",
+      "name": "LEY Federal de Declaración Especial de Ausencia para Personas Desaparecidas",
+      "short_name": "LFDEAPD",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-defensoria-publica",
+      "name": "LEY Federal de Defensoría Pública",
+      "short_name": "LFDEFP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-derechos",
+      "name": "LEY Federal de Derechos",
+      "short_name": "LFD",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-deuda-publica",
+      "name": "LEY Federal de Deuda Pública",
+      "short_name": "LGDP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-fomento-a-las-actividades-realizadas-por-organizaciones-de-la-sociedad-civil",
+      "name": "LEY Federal de Fomento a las Actividades Realizadas por Organizaciones de la Sociedad Civil",
+      "short_name": "LFFAOSC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-juegos-y-sorteos",
+      "name": "LEY Federal de Juegos y Sorteos",
+      "short_name": "LFJS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-las-entidades-paraestatales",
+      "name": "LEY Federal de las Entidades Paraestatales",
+      "short_name": "LFEP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-los-derechos-del-contribuyente",
+      "name": "LEY Federal de los Derechos del Contribuyente",
+      "short_name": "LFDC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-los-trabajadores-al-servicio-del-estado-reglamentaria-del-apartado-b-del-articulo-123-constitucional",
+      "name": "LEY Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional",
+      "short_name": "LFTSE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "name": "LEY Federal de Presupuesto y Responsabilidad Hacendaria",
+      "short_name": "LFPRH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-procedimiento-administrativo",
+      "name": "LEY Federal de Procedimiento Administrativo",
+      "short_name": "LFPA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-procedimiento-contencioso-administrativo",
+      "name": "LEY Federal de Procedimiento Contencioso Administrativo",
+      "short_name": "LFPCA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-produccion-certificacion-y-comercio-de-semillas",
+      "name": "LEY Federal de Producción, Certificación y Comercio de Semillas",
+      "short_name": "LFPCCS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-a-la-propiedad-industrial",
+      "name": "LEY Federal de Protección a la Propiedad Industrial",
+      "short_name": "LFPPI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-al-consumidor",
+      "name": "LEY Federal de Protección al Consumidor",
+      "short_name": "LFPC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "name": "LEY Federal de Protección de Datos Personales en Posesión de los Particulares",
+      "short_name": "LFPDPPP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-del-patrimonio-cultural-de-los-pueblos-y-comunidades-indigenas-y-afromexicanas",
+      "name": "Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas",
+      "short_name": "LFPPCPCIA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
+      "name": "LEY Federal de Remuneraciones de los Servidores Públicos",
+      "short_name": "LFREMSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidad-ambiental",
+      "name": "LEY Federal de Responsabilidad Ambiental",
+      "short_name": "LFRA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidad-patrimonial-del-estado",
+      "name": "LEY Federal de Responsabilidad Patrimonial del Estado",
+      "short_name": "LFRPE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
+      "name": "LEY Federal de Responsabilidades de los Servidores Públicos",
+      "short_name": "LFRSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-revocacion-de-mandato",
+      "name": "LEY Federal de Revocación de Mandato",
+      "short_name": "LFRM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-sanidad-animal",
+      "name": "LEY Federal de Sanidad Animal",
+      "short_name": "LFSA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-sanidad-vegetal",
+      "name": "LEY Federal de Sanidad Vegetal",
+      "short_name": "LFSV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-seguridad-privada",
+      "name": "LEY Federal de Seguridad Privada",
+      "short_name": "LFSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-variedades-vegetales",
+      "name": "LEY Federal de Variedades Vegetales",
+      "short_name": "LFVV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-de-zonas-economicas-especiales",
+      "name": "LEY Federal de Zonas Económicas Especiales",
+      "short_name": "LFZEE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-del-derecho-de-autor",
+      "name": "LEY Federal del Derecho de Autor",
+      "short_name": "LFDA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
+      "name": "LEY Federal del Impuesto sobre Automóviles Nuevos",
+      "short_name": "LFISAN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-del-mar",
+      "name": "LEY Federal del Mar",
+      "short_name": "LFM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "name": "LEY Federal del Trabajo",
+      "short_name": "LFT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-el-control-de-precursores-quimicos-productos-quimicos-esenciales-y-maquinas-para-elaborar-capsulas-tabletas-yo-comprimidos",
+      "name": "LEY Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para \r\n\t\t\t\tElaborar Cápsulas, Tabletas y/o Comprimidos",
+      "short_name": "LFCPQ",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-el-control-de-sustancias-quimicas-susceptibles-de-desvio-para-la-fabricacion-de-armas-quimicas",
+      "name": "LEY Federal para el Control de Sustancias Químicas Susceptibles de Desvío para la Fabricación de Armas \r\n\t\t\t\tQuímicas",
+      "short_name": "LFCSQ",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-el-fomento-de-la-microindustria-y-la-actividad-artesanal",
+      "name": "LEY Federal para el Fomento de la Microindustria y la Actividad Artesanal",
+      "short_name": "LFFMAA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-el-fomento-y-proteccion-del-maiz-nativo",
+      "name": "LEY Federal para el Fomento y Protección del Maíz Nativo",
+      "short_name": "LFFPMN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
+      "name": "LEY Federal para la Administración y Enajenación de Bienes del Sector Público",
+      "short_name": "LFAEBSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+      "name": "LEY Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita",
+      "short_name": "LFPIORPI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-la-proteccion-a-personas-que-intervienen-en-el-procedimiento-penal",
+      "name": "LEY Federal para la Protección a Personas que Intervienen en el Procedimiento Penal",
+      "short_name": "LFPPIPP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
+      "name": "LEY Federal para Prevenir y Eliminar la Discriminación",
+      "short_name": "LFPED",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+      "name": "LEY Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos",
+      "short_name": "LFPSDMH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
+      "name": "LEY Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos",
+      "short_name": "LFMZAAH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
+      "name": "LEY General de Acceso de las Mujeres a una Vida Libre de Violencias",
+      "short_name": "LGAMVLV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-aguas",
+      "name": "LEY General de Aguas",
+      "short_name": "LGAG",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-archivos",
+      "name": "LEY General de Archivos",
+      "short_name": "LGA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "name": "LEY General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano",
+      "short_name": "LGAHOTDU",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-bibliotecas",
+      "name": "LEY General de Bibliotecas",
+      "short_name": "LGB",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-bienes-nacionales",
+      "name": "LEY General de Bienes Nacionales",
+      "short_name": "LGBN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-cambio-climatico",
+      "name": "LEY General de Cambio Climático",
+      "short_name": "LGCC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-comunicacion-social",
+      "name": "LEY General de Comunicación Social",
+      "short_name": "LGCS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-contabilidad-gubernamental",
+      "name": "LEY General de Contabilidad Gubernamental",
+      "short_name": "LGCG",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "name": "LEY General de Cultura Física y Deporte",
+      "short_name": "LGCFD",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-cultura-y-derechos-culturales",
+      "name": "LEY General de Cultura y Derechos Culturales",
+      "short_name": "LGCDC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-derechos-linguisticos-de-los-pueblos-indigenas",
+      "name": "LEY General de Derechos Lingüísticos de los Pueblos Indígenas",
+      "short_name": "LGDLPI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-desarrollo-forestal-sustentable",
+      "name": "LEY General de Desarrollo Forestal Sustentable",
+      "short_name": "LGDFS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-desarrollo-social",
+      "name": "LEY General de Desarrollo Social",
+      "short_name": "LGDS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-economia-circular",
+      "name": "LEY General de Economía Circular",
+      "short_name": "LGEC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-educacion-superior",
+      "name": "LEY General de Educación Superior",
+      "short_name": "LGES",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-educacion",
+      "name": "LEY General de Educación",
+      "short_name": "LGE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "name": "LEY General de Instituciones y Procedimientos Electorales",
+      "short_name": "LGIPE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-la-alimentacion-adecuada-y-sostenible",
+      "name": "LEY General de la Alimentación Adecuada y Sostenible",
+      "short_name": "LGAAS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "name": "LEY General de los Derechos de Niñas, Niños y Adolescentes",
+      "short_name": "LGDNNA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
+      "name": "LEY General de los Medios de Impugnación en Materia Electoral",
+      "short_name": "LGMIME",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
+      "name": "LEY General de Mecanismos Alternativos de Solución de Controversias",
+      "short_name": "LGMASC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-movilidad-y-seguridad-vial",
+      "name": "LEY General de Movilidad y Seguridad Vial",
+      "short_name": "LGMSV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+      "name": "LEY General de Organizaciones y Actividades Auxiliares del Crédito",
+      "short_name": "LGOAAC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "name": "LEY General de Partidos Políticos",
+      "short_name": "LGPP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-pesca-y-acuacultura-sustentables",
+      "name": "LEY General de Pesca y Acuacultura Sustentables",
+      "short_name": "LGPAS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-poblacion",
+      "name": "LEY General de Población",
+      "short_name": "LGP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-prestacion-de-servicios-para-la-atencion-cuidado-y-desarrollo-integral-infantil",
+      "name": "LEY General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil",
+      "short_name": "LGPSACDII",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-proteccion-civil",
+      "name": "LEY General de Protección Civil",
+      "short_name": "LGPC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-proteccion-de-datos-personales-en-posesion-de-sujetos-obligados",
+      "name": "LEY General de Protección de Datos Personales en Posesión de Sujetos Obligados",
+      "short_name": "LGPDPPSO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-responsabilidades-administrativas",
+      "name": "LEY General de Responsabilidades Administrativas",
+      "short_name": "LGRA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "name": "LEY General de Salud",
+      "short_name": "LGS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-sociedades-cooperativas",
+      "name": "LEY General de Sociedades Cooperativas",
+      "short_name": "LGSC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-sociedades-mercantiles",
+      "name": "LEY General de Sociedades Mercantiles",
+      "short_name": "LGSM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
+      "name": "LEY General de Títulos y Operaciones de Crédito",
+      "short_name": "LGTOC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
+      "name": "LEY General de Transparencia y Acceso a la Información Pública",
+      "short_name": "LGTAIP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-turismo",
+      "name": "LEY General de Turismo",
+      "short_name": "LGT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "name": "LEY General de Víctimas",
+      "short_name": "LGV",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-de-vida-silvestre",
+      "name": "LEY General de Vida Silvestre",
+      "short_name": "LGVS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
+      "name": "LEY General del Equilibrio Ecológico y la Protección al Ambiente",
+      "short_name": "LGEEPA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
+      "name": "LEY General del Sistema de Medios de Impugnación en Materia Electoral",
+      "short_name": "LGSMIME",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-anticorrupcion",
+      "name": "LEY General del Sistema Nacional Anticorrupción",
+      "short_name": "LGSNA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "name": "LEY General del Sistema Nacional de Seguridad Pública",
+      "short_name": "LGSNSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-del-sistema-para-la-carrera-de-las-maestras-y-los-maestros",
+      "name": "LEY General del Sistema para la Carrera de las Maestras y los Maestros",
+      "short_name": "LGSCMM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-en-materia-de-delitos-electorales",
+      "name": "LEY General en Materia de Delitos Electorales",
+      "short_name": "LGMDE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+      "name": "LEY General en Materia de Desaparición Forzada de Personas, Desaparición \r\n\t\t\t\tCometida por Particulares y del Sistema Nacional de Búsqueda de Personas",
+      "short_name": "LGMDFP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "name": "LEY General en materia de Humanidades, Ciencias, Tecnologías e Innovación",
+      "short_name": "LGMHCTI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-el-control-del-tabaco",
+      "name": "LEY General para el Control del Tabaco",
+      "short_name": "LGCT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-la-atencion-y-proteccion-a-personas-con-la-condicion-del-espectro-autista",
+      "name": "LEY General para la Atención y Protección a Personas con la Condición del Espectro Autista",
+      "short_name": "LGAPPCEA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-la-deteccion-oportuna-del-cancer-en-la-infancia-y-la-adolescencia",
+      "name": "LEY General para la Detección Oportuna del Cáncer en la Infancia y la Adolescencia",
+      "short_name": "LGDOCIA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-la-igualdad-sustantiva-entre-mujeres-y-hombres",
+      "name": "LEY General para la Igualdad Sustantiva entre Mujeres y Hombres",
+      "short_name": "LGIMH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-la-inclusion-de-las-personas-con-discapacidad",
+      "name": "LEY General para la Inclusión de las Personas con Discapacidad",
+      "short_name": "LGIPD",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-la-prevencion-social-de-la-violencia-y-la-delincuencia",
+      "name": "LEY General para la Prevención Social de la Violencia y la Delincuencia",
+      "short_name": "LGPSVD",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
+      "name": "LEY General para la Prevención y Gestión Integral de los Residuos",
+      "short_name": "LGPGIR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-prevenir-investigar-y-sancionar-la-tortura-y-otros-tratos-o-penas-crueles-inhumanos-o-degradantes",
+      "name": "LEY General para Prevenir, Investigar y Sancionar la Tortura y Otros \r\n\t\t\t\tTratos o Penas Crueles, Inhumanos o Degradantes",
+      "short_name": "LGPIST",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-prevenir-investigar-y-sancionar-los-delitos-en-materia-de-extorsion-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, \r\n\t\t\t\tReglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+      "short_name": "LGPISDME",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
+      "name": "LEY General para Prevenir, Sancionar y Erradicar los Delitos en Materia \r\n\t\t\t\tde Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos",
+      "short_name": "LGPSEDMTP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-general-para-prevenir-y-sancionar-los-delitos-en-materia-de-secuestro-reglamentaria-de-la-fraccion-xxi-del-articulo-73-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "LEY General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI \r\n\t\t\t\tdel artículo 73 de la Constitución Política de los Estados Unidos Mexicanos",
+      "short_name": "LGPSDMS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-monetaria-de-los-estados-unidos-mexicanos",
+      "name": "LEY Monetaria de los Estados Unidos Mexicanos",
+      "short_name": "LMEUM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-nacional-de-ejecucion-penal",
+      "name": "LEY Nacional de Ejecución Penal",
+      "short_name": "LNEP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-nacional-de-extincion-de-dominio",
+      "name": "LEY Nacional de Extinción de Dominio",
+      "short_name": "LNED",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-nacional-de-mecanismos-alternativos-de-solucion-de-controversias-en-materia-penal",
+      "name": "LEY Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal",
+      "short_name": "LNMASCMP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-nacional-del-registro-de-detenciones",
+      "name": "LEY Nacional del Registro de Detenciones",
+      "short_name": "LNRD",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes",
+      "name": "LEY Nacional del Sistema Integral de Justicia Penal para Adolescentes",
+      "short_name": "LNSIJPA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-nacional-para-eliminar-tramites-burocraticos",
+      "name": "LEY Nacional para Eliminar Trámites Burocráticos",
+      "short_name": "LNETB",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-nacional-sobre-el-uso-de-la-fuerza",
+      "name": "LEY Nacional sobre el Uso de la Fuerza",
+      "short_name": "LNUF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-la-administracion-publica-federal",
+      "name": "LEY Orgánica de la Administración Pública Federal",
+      "short_name": "LOAPF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-la-armada-de-mexico",
+      "name": "LEY Orgánica de la Armada de México",
+      "short_name": "LOAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-la-procuraduria-de-la-defensa-del-contribuyente",
+      "name": "LEY Orgánica de la Procuraduría de la Defensa del Contribuyente",
+      "short_name": "LOPDC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal",
+      "name": "LEY Orgánica de la Procuraduría General de Justicia del Distrito Federal",
+      "short_name": "LOPGJDF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-la-universidad-autonoma-agraria-antonio-narro",
+      "name": "LEY Orgánica de la Universidad Autónoma Agraria Antonio Narro",
+      "short_name": "LOUAAAN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-la-universidad-autonoma-metropolitana",
+      "name": "LEY Orgánica de la Universidad Autónoma Metropolitana",
+      "short_name": "LOUAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-la-universidad-nacional-autonoma-de-mexico",
+      "name": "LEY Orgánica de la Universidad Nacional Autónoma de México",
+      "short_name": "LOUNAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-los-tribunales-agrarios",
+      "name": "LEY Orgánica de los Tribunales Agrarios",
+      "short_name": "LOTA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-nacional-financiera",
+      "name": "LEY Orgánica de Nacional Financiera",
+      "short_name": "LONF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-de-sociedad-hipotecaria-federal",
+      "name": "LEY Orgánica de Sociedad Hipotecaria Federal",
+      "short_name": "LOSHF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-banco-del-bienestar",
+      "name": "LEY Orgánica del Banco del Bienestar",
+      "short_name": "LOBB",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-banco-nacional-de-comercio-exterior",
+      "name": "LEY Orgánica del Banco Nacional de Comercio Exterior",
+      "short_name": "LOBNCE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-banco-nacional-de-obras-y-servicios-publicos",
+      "name": "LEY Orgánica del Banco Nacional de Obras y Servicios Públicos",
+      "short_name": "LOBNOSP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-banco-nacional-del-ejercito-fuerza-aerea-y-armada",
+      "name": "LEY Orgánica del Banco Nacional del Ejército, Fuerza Aérea y Armada",
+      "short_name": "LOBNEFAA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
+      "name": "LEY Orgánica del Centro Federal de Conciliación y Registro Laboral",
+      "short_name": "LOCFCRL",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
+      "name": "LEY Orgánica del Congreso General de los Estados Unidos Mexicanos",
+      "short_name": "LOCG",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
+      "name": "LEY Orgánica del Ejército y Fuerza Aérea Mexicanos",
+      "short_name": "LOEFAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-instituto-nacional-de-antropologia-e-historia",
+      "name": "LEY Orgánica del Instituto Nacional de Antropología e Historia",
+      "short_name": "LOINAH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-instituto-politecnico-nacional",
+      "name": "LEY Orgánica del Instituto Politécnico Nacional",
+      "short_name": "LOIPN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-poder-judicial-de-la-federacion",
+      "name": "LEY Orgánica del Poder Judicial de la Federación",
+      "short_name": "LOPJF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-seminario-de-cultura-mexicana",
+      "name": "LEY Orgánica del Seminario de Cultura Mexicana",
+      "short_name": "LOSCM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-organica-del-tribunal-federal-de-justicia-administrativa",
+      "name": "LEY Orgánica del Tribunal Federal de Justicia Administrativa",
+      "short_name": "LOTFJA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-conservar-la-neutralidad-del-pais",
+      "name": "LEY para Conservar la Neutralidad del País",
+      "short_name": "LCNP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-determinar-el-valor-de-la-unidad-de-medida-y-actualizacion",
+      "name": "LEY para Determinar el Valor de la Unidad de Medida y Actualización",
+      "short_name": "LDVUMA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-el-desarrollo-de-la-competitividad-de-la-micro-pequena-y-mediana-empresa",
+      "name": "LEY para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa",
+      "short_name": "LDCMPME",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-el-dialogo-la-conciliacion-y-la-paz-digna-en-chiapas",
+      "name": "LEY para el Diálogo, la Conciliación y la Paz Digna en Chiapas",
+      "short_name": "LDCPDCH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-el-uso-y-proteccion-de-la-denominacion-y-del-emblema-de-la-cruz-roja",
+      "name": "LEY para el uso y protección de la denominación y del emblema de la Cruz Roja",
+      "short_name": "LUPDECR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+      "name": "LEY para Impulsar el Incremento Sostenido de la Productividad y la Competitividad de la Economía Nacional",
+      "short_name": "LIISPCEN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-de-la-armada-de-mexico",
+      "name": "LEY para la Comprobación, Ajuste y Cómputo de Servicios de la Armada de México",
+      "short_name": "LCACSAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-el-ejercito-y-fuerza-aerea-mexicanos",
+      "name": "LEY para la Comprobación, Ajuste y Cómputo de Servicios en el Ejército y Fuerza Aérea Mexicanos",
+      "short_name": "LCACSEFAM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-la-proteccion-de-personas-defensoras-de-derechos-humanos-y-periodistas",
+      "name": "LEY para la Protección de Personas Defensoras de Derechos Humanos y Periodistas",
+      "short_name": "LPPDDHP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-la-transparencia-prevencion-y-combate-de-practicas-indebidas-en-materia-de-contratacion-de-publicidad",
+      "name": "LEY para la Transparencia, Prevención y Combate de Prácticas Indebidas en Materia de Contratación de Publicidad",
+      "short_name": "LTPCPIMCP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+      "name": "LEY para la Transparencia y Ordenamiento de los Servicios Financieros",
+      "short_name": "LTOSF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+      "name": "LEY para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo",
+      "short_name": "LRASCAP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-regular-las-agrupaciones-financieras",
+      "name": "LEY para Regular las Agrupaciones Financieras",
+      "short_name": "LRAF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
+      "name": "LEY para Regular las Instituciones de Tecnología Financiera",
+      "short_name": "LRITF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+      "name": "LEY para Regular las Sociedades de Información Crediticia",
+      "short_name": "LRSIC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-aprueba-la-adhesion-de-mexico-al-convenio-constitutivo-del-banco-de-desarrollo-del-caribe-y-su-ejecucion",
+      "name": "LEY que Aprueba la Adhesión de México al Convenio Constitutivo del Banco de Desarrollo del Caribe y su Ejecución",
+      "short_name": "LMCCBDC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-crea-el-fondo-de-garantia-y-fomento-para-la-agricultura-ganaderia-y-avicultura",
+      "name": "LEY que Crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura",
+      "short_name": "LFGFAGA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-crea-el-instituto-nacional-de-bellas-artes-y-literatura",
+      "name": "LEY que crea el Instituto Nacional de Bellas Artes y Literatura",
+      "short_name": "LINBAL",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-crea-la-agencia-espacial-mexicana",
+      "name": "LEY que crea la Agencia Espacial Mexicana",
+      "short_name": "LAEM",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-crea-la-universidad-autonoma-chapingo",
+      "name": "LEY que crea la Universidad Autónoma Chapingo",
+      "short_name": "LUACH",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-crea-la-universidad-del-ejercito-y-fuerza-aerea",
+      "name": "LEY que Crea la Universidad del Ejército y Fuerza Aérea",
+      "short_name": "LUEFA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-declara-reservas-mineras-nacionales-los-yacimientos-de-uranio-torio-y-las-demas-substancias-de-las-cuales-se-obtengan-isotopos-hendibles-que-puedan-producir-energia-nuclear",
+      "name": "LEY que Declara Reservas Mineras Nacionales los Yacimientos de Uranio, Torio y las demás Substancias \r\n\t\t\t\tde las cuales se Obtengan Isótopos Hendibles que puedan Producir Energía Nuclear",
+      "short_name": "LRMNYUT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-de-la-asociacion-internacional-de-fomento",
+      "name": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio \r\n\t\t\t\tConstitutivo de la Asociación Internacional de Fomento",
+      "short_name": "LCCAIF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-que-establece-bases-para-la-ejecucion-en-mexico-por-el-poder-ejecutivo-federal-del-convenio-constitutivo-del-banco-interamericano-de-desarrollo",
+      "name": "LEY que Establece Bases para la Ejecución en México, por el Poder Ejecutivo Federal, del Convenio \r\n\t\t\t\tConstitutivo del Banco Interamericano de Desarrollo",
+      "short_name": "LCCBID",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-de-la-fraccion-v-del-articulo-76-de-la-constitucion-general-de-la-republica",
+      "name": "LEY Reglamentaria de la Fracción V del Artículo 76 de la Constitución General de la República",
+      "short_name": "LRFV_ART76",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-de-la-fraccion-vi-del-articulo-76-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "LEY Reglamentaria de la fracción VI del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos",
+      "short_name": "LRART76_FRACVI",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-de-la-fraccion-xiii-bis-del-apartado-b-del-articulo-123-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "LEY Reglamentaria de la Fracción XIII Bis del Apartado B, del Artículo 123 de la Constitución Política de \r\n\t\t\t\tlos Estados Unidos Mexicanos",
+      "short_name": "LRFXIIIB_ART123",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-de-la-fraccion-xviii-del-articulo-73-constitucional-en-lo-que-se-refiere-a-la-facultad-del-congreso-para-dictar-reglas-para-determinar-el-valor-relativo-de-la-moneda-extranjera",
+      "name": "LEY Reglamentaria de la Fracción XVIII del Artículo 73 Constitucional, en lo que se Refiere a la \r\n\t\t\t\tFacultad del Congreso para Dictar Reglas para Determinar el Valor Relativo de la Moneda Extranjera",
+      "short_name": "LRFXVIII_ART73",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "name": "LEY Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos",
+      "short_name": "LRFIYII_ART105",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-del-articulo-27-constitucional-en-materia-nuclear",
+      "name": "LEY Reglamentaria del Artículo 27 Constitucional en Materia Nuclear",
+      "short_name": "LRART27_MN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion",
+      "name": "LEY Reglamentaria del Artículo 3o. de la Constitución Política de los \r\n\t\t\t\tEstados Unidos Mexicanos, en materia de Mejora Continua de la Educación",
+      "short_name": "LRART3_MMCE",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-del-articulo-5o-constitucional-relativo-al-ejercicio-de-las-profesiones-en-la-ciudad-de-mexico",
+      "name": "LEY Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México",
+      "short_name": "LRART5_PROF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-del-articulo-6o-parrafo-primero-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-del-derecho-de-replica",
+      "name": "LEY Reglamentaria del artículo 6o., párrafo primero, de la Constitución \r\n\t\t\t\tPolítica de los Estados Unidos Mexicanos, en materia del Derecho de Réplica",
+      "short_name": "LRART6_MDR",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-reglamentaria-del-servicio-ferroviario",
+      "name": "LEY Reglamentaria del Servicio Ferroviario",
+      "short_name": "LRSF",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-sobre-camaras-agricolas-que-en-lo-sucesivo-se-denominaran-asociaciones-agricolas",
+      "name": "LEY sobre Cámaras Agrícolas, que en lo sucesivo se denominarán Asociaciones Agrícolas",
+      "short_name": "LCAAA",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-sobre-el-contrato-de-seguro",
+      "name": "LEY Sobre el Contrato de Seguro",
+      "short_name": "LCS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-sobre-el-escudo-la-bandera-y-el-himno-nacionales",
+      "name": "LEY sobre el Escudo, la Bandera y el Himno Nacionales",
+      "short_name": "LEBHN",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-sobre-elaboracion-y-venta-de-cafe-tostado",
+      "name": "LEY sobre Elaboración y Venta de Café Tostado",
+      "short_name": "LEVCT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
+      "name": "LEY Sobre la Aprobación de Tratados Internacionales en Materia Económica",
+      "short_name": "LATIME",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-sobre-la-celebracion-de-tratados",
+      "name": "LEY sobre la Celebración de Tratados",
+      "short_name": "LSCT",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ley-sobre-refugiados-proteccion-complementaria-y-asilo-politico",
+      "name": "LEY sobre Refugiados, Protección Complementaria y Asilo Político",
+      "short_name": "LRPCAP",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "ordenanza-general-de-la-armada",
+      "name": "ORDENANZA General de la Armada",
+      "short_name": "OGA",
+      "layer": "layer_3_interpretive_prepared",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
+      "name": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2025",
+      "short_name": "PEF_2025",
+      "layer": "layer_3_interpretive_prepared",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
+      "name": "PRESUPUESTO de Egresos de la Federación para el Ejercicio Fiscal 2026",
+      "short_name": "PEF_2026",
+      "layer": "layer_3_interpretive_prepared",
+      "is_reglamento": false
+    },
+    {
+      "law_id": "reglamento-de-la-camara-de-diputados",
+      "name": "REGLAMENTO de la Cámara de Diputados",
+      "short_name": "REG_DIPUTADOS",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": true
+    },
+    {
+      "law_id": "reglamento-del-senado-de-la-republica",
+      "name": "REGLAMENTO del Senado de la República",
+      "short_name": "REG_SENADO",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": true
+    },
+    {
+      "law_id": "reglamento-para-el-gobierno-interior-del-congreso-general-de-los-estados-unidos-mexicanos",
+      "name": "REGLAMENTO para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos",
+      "short_name": "RGIC",
+      "layer": "layer_1_normative_core",
+      "is_reglamento": true
+    }
+  ],
+  "notes": [
+    "Este archivo soporta segmentación del corpus para workflows de abogados.",
+    "La clasificación de capa es heurística y puede revisarse por dominio/práctica."
+  ]
+}

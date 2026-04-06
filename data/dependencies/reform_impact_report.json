@@ -1,0 +1,1428 @@
+{
+  "generated_at": "2026-04-06T19:14:04.010545+00:00",
+  "method": "graph-neighborhood-over-typed-dependencies-v1",
+  "top_reform_impact_laws": [
+    {
+      "law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "inbound_dependencies": 1789,
+      "outbound_dependencies": 14,
+      "spillover_score": 3592,
+      "article_touchpoints_count": 386,
+      "dependency_type_mix": {
+        "constitutional_grounding": 1254,
+        "procedural": 110,
+        "sanctioning": 45,
+        "institutional": 221,
+        "definitional": 18,
+        "implementation_operative": 94,
+        "fiscal_financial": 40,
+        "supletory": 7
+      }
+    },
+    {
+      "law_id": "ley-general-de-sociedades-mercantiles",
+      "inbound_dependencies": 282,
+      "outbound_dependencies": 19,
+      "spillover_score": 583,
+      "article_touchpoints_count": 155,
+      "dependency_type_mix": {
+        "implementation_operative": 14,
+        "generic_unresolved": 162,
+        "procedural": 18,
+        "sanctioning": 10,
+        "fiscal_financial": 5,
+        "constitutional_grounding": 10,
+        "institutional": 40,
+        "definitional": 8,
+        "supletory": 15
+      }
+    },
+    {
+      "law_id": "ley-federal-de-competencia-economica",
+      "inbound_dependencies": 186,
+      "outbound_dependencies": 24,
+      "spillover_score": 396,
+      "article_touchpoints_count": 101,
+      "dependency_type_mix": {
+        "institutional": 54,
+        "generic_unresolved": 35,
+        "procedural": 33,
+        "sanctioning": 15,
+        "implementation_operative": 7,
+        "constitutional_grounding": 32,
+        "fiscal_financial": 4,
+        "supletory": 6
+      }
+    },
+    {
+      "law_id": "ley-federal-de-procedimiento-administrativo",
+      "inbound_dependencies": 159,
+      "outbound_dependencies": 3,
+      "spillover_score": 321,
+      "article_touchpoints_count": 108,
+      "dependency_type_mix": {
+        "procedural": 156,
+        "definitional": 3
+      }
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "inbound_dependencies": 133,
+      "outbound_dependencies": 107,
+      "spillover_score": 373,
+      "article_touchpoints_count": 89,
+      "dependency_type_mix": {
+        "fiscal_financial": 99,
+        "institutional": 10,
+        "procedural": 10,
+        "sanctioning": 7,
+        "definitional": 7
+      }
+    },
+    {
+      "law_id": "ley-general-de-responsabilidades-administrativas",
+      "inbound_dependencies": 129,
+      "outbound_dependencies": 25,
+      "spillover_score": 283,
+      "article_touchpoints_count": 98,
+      "dependency_type_mix": {
+        "generic_unresolved": 52,
+        "institutional": 24,
+        "sanctioning": 22,
+        "implementation_operative": 10,
+        "fiscal_financial": 2,
+        "procedural": 15,
+        "definitional": 2,
+        "constitutional_grounding": 2
+      }
+    },
+    {
+      "law_id": "ley-de-instituciones-de-credito",
+      "inbound_dependencies": 128,
+      "outbound_dependencies": 148,
+      "spillover_score": 404,
+      "article_touchpoints_count": 84,
+      "dependency_type_mix": {
+        "generic_unresolved": 82,
+        "procedural": 12,
+        "institutional": 31,
+        "implementation_operative": 1,
+        "sanctioning": 1,
+        "constitutional_grounding": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "inbound_dependencies": 123,
+      "outbound_dependencies": 59,
+      "spillover_score": 305,
+      "article_touchpoints_count": 71,
+      "dependency_type_mix": {
+        "sanctioning": 87,
+        "definitional": 5,
+        "institutional": 22,
+        "supletory": 4,
+        "procedural": 5
+      }
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "inbound_dependencies": 112,
+      "outbound_dependencies": 53,
+      "spillover_score": 277,
+      "article_touchpoints_count": 75,
+      "dependency_type_mix": {
+        "generic_unresolved": 58,
+        "constitutional_grounding": 16,
+        "institutional": 13,
+        "procedural": 2,
+        "sanctioning": 4,
+        "implementation_operative": 7,
+        "fiscal_financial": 5,
+        "definitional": 4,
+        "supletory": 3
+      }
+    },
+    {
+      "law_id": "ley-del-mercado-de-valores",
+      "inbound_dependencies": 106,
+      "outbound_dependencies": 80,
+      "spillover_score": 292,
+      "article_touchpoints_count": 89,
+      "dependency_type_mix": {
+        "institutional": 18,
+        "generic_unresolved": 76,
+        "implementation_operative": 1,
+        "definitional": 5,
+        "sanctioning": 2,
+        "procedural": 2,
+        "fiscal_financial": 2
+      }
+    },
+    {
+      "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "inbound_dependencies": 102,
+      "outbound_dependencies": 46,
+      "spillover_score": 250,
+      "article_touchpoints_count": 92,
+      "dependency_type_mix": {
+        "generic_unresolved": 53,
+        "procedural": 24,
+        "supletory": 14,
+        "institutional": 6,
+        "implementation_operative": 1,
+        "constitutional_grounding": 2,
+        "definitional": 1,
+        "sanctioning": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
+      "inbound_dependencies": 101,
+      "outbound_dependencies": 23,
+      "spillover_score": 225,
+      "article_touchpoints_count": 66,
+      "dependency_type_mix": {
+        "generic_unresolved": 57,
+        "implementation_operative": 6,
+        "institutional": 18,
+        "constitutional_grounding": 5,
+        "procedural": 6,
+        "fiscal_financial": 1,
+        "sanctioning": 5,
+        "definitional": 3
+      }
+    },
+    {
+      "law_id": "codigo-nacional-de-procedimientos-penales",
+      "inbound_dependencies": 100,
+      "outbound_dependencies": 45,
+      "spillover_score": 245,
+      "article_touchpoints_count": 69,
+      "dependency_type_mix": {
+        "procedural": 7,
+        "generic_unresolved": 43,
+        "sanctioning": 11,
+        "implementation_operative": 4,
+        "definitional": 1,
+        "institutional": 20,
+        "constitutional_grounding": 7,
+        "supletory": 6,
+        "fiscal_financial": 1
+      }
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "inbound_dependencies": 93,
+      "outbound_dependencies": 119,
+      "spillover_score": 305,
+      "article_touchpoints_count": 77,
+      "dependency_type_mix": {
+        "fiscal_financial": 65,
+        "institutional": 5,
+        "procedural": 18,
+        "definitional": 1,
+        "supletory": 1,
+        "sanctioning": 3
+      }
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "inbound_dependencies": 90,
+      "outbound_dependencies": 117,
+      "spillover_score": 297,
+      "article_touchpoints_count": 61,
+      "dependency_type_mix": {
+        "definitional": 3,
+        "institutional": 11,
+        "generic_unresolved": 39,
+        "fiscal_financial": 13,
+        "constitutional_grounding": 7,
+        "procedural": 10,
+        "supletory": 1,
+        "sanctioning": 6
+      }
+    },
+    {
+      "law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
+      "inbound_dependencies": 78,
+      "outbound_dependencies": 33,
+      "spillover_score": 189,
+      "article_touchpoints_count": 61,
+      "dependency_type_mix": {
+        "institutional": 18,
+        "generic_unresolved": 35,
+        "implementation_operative": 14,
+        "procedural": 4,
+        "constitutional_grounding": 1,
+        "definitional": 3,
+        "supletory": 1,
+        "sanctioning": 2
+      }
+    },
+    {
+      "law_id": "ley-federal-de-las-entidades-paraestatales",
+      "inbound_dependencies": 77,
+      "outbound_dependencies": 15,
+      "spillover_score": 169,
+      "article_touchpoints_count": 50,
+      "dependency_type_mix": {
+        "generic_unresolved": 30,
+        "institutional": 33,
+        "procedural": 2,
+        "implementation_operative": 7,
+        "supletory": 3,
+        "fiscal_financial": 1,
+        "constitutional_grounding": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-salud",
+      "inbound_dependencies": 74,
+      "outbound_dependencies": 36,
+      "spillover_score": 184,
+      "article_touchpoints_count": 55,
+      "dependency_type_mix": {
+        "generic_unresolved": 49,
+        "institutional": 13,
+        "fiscal_financial": 3,
+        "sanctioning": 5,
+        "implementation_operative": 3,
+        "supletory": 1
+      }
+    },
+    {
+      "law_id": "ley-organica-del-poder-judicial-de-la-federacion",
+      "inbound_dependencies": 71,
+      "outbound_dependencies": 110,
+      "spillover_score": 252,
+      "article_touchpoints_count": 56,
+      "dependency_type_mix": {
+        "generic_unresolved": 26,
+        "institutional": 25,
+        "procedural": 10,
+        "implementation_operative": 2,
+        "constitutional_grounding": 4,
+        "sanctioning": 1,
+        "supletory": 3
+      }
+    },
+    {
+      "law_id": "ley-organica-de-la-administracion-publica-federal",
+      "inbound_dependencies": 71,
+      "outbound_dependencies": 35,
+      "spillover_score": 177,
+      "article_touchpoints_count": 51,
+      "dependency_type_mix": {
+        "generic_unresolved": 30,
+        "institutional": 38,
+        "sanctioning": 1,
+        "procedural": 1,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
+      "inbound_dependencies": 69,
+      "outbound_dependencies": 9,
+      "spillover_score": 147,
+      "article_touchpoints_count": 56,
+      "dependency_type_mix": {
+        "generic_unresolved": 16,
+        "procedural": 19,
+        "institutional": 10,
+        "sanctioning": 12,
+        "implementation_operative": 3,
+        "definitional": 2,
+        "constitutional_grounding": 6,
+        "fiscal_financial": 1
+      }
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-de-seguridad-publica",
+      "inbound_dependencies": 66,
+      "outbound_dependencies": 28,
+      "spillover_score": 160,
+      "article_touchpoints_count": 47,
+      "dependency_type_mix": {
+        "implementation_operative": 8,
+        "generic_unresolved": 36,
+        "institutional": 6,
+        "procedural": 2,
+        "supletory": 4,
+        "sanctioning": 4,
+        "constitutional_grounding": 6
+      }
+    },
+    {
+      "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
+      "inbound_dependencies": 57,
+      "outbound_dependencies": 24,
+      "spillover_score": 138,
+      "article_touchpoints_count": 49,
+      "dependency_type_mix": {
+        "generic_unresolved": 42,
+        "procedural": 3,
+        "definitional": 2,
+        "institutional": 5,
+        "supletory": 4,
+        "fiscal_financial": 1
+      }
+    },
+    {
+      "law_id": "ley-de-coordinacion-fiscal",
+      "inbound_dependencies": 51,
+      "outbound_dependencies": 44,
+      "spillover_score": 146,
+      "article_touchpoints_count": 41,
+      "dependency_type_mix": {
+        "fiscal_financial": 39,
+        "definitional": 2,
+        "institutional": 6,
+        "sanctioning": 2,
+        "procedural": 2
+      }
+    },
+    {
+      "law_id": "ley-del-seguro-social",
+      "inbound_dependencies": 50,
+      "outbound_dependencies": 47,
+      "spillover_score": 147,
+      "article_touchpoints_count": 39,
+      "dependency_type_mix": {
+        "generic_unresolved": 45,
+        "fiscal_financial": 1,
+        "implementation_operative": 1,
+        "procedural": 1,
+        "institutional": 2
+      }
+    },
+    {
+      "law_id": "ley-de-planeacion",
+      "inbound_dependencies": 44,
+      "outbound_dependencies": 11,
+      "spillover_score": 99,
+      "article_touchpoints_count": 34,
+      "dependency_type_mix": {
+        "generic_unresolved": 26,
+        "implementation_operative": 7,
+        "fiscal_financial": 4,
+        "institutional": 5,
+        "sanctioning": 1,
+        "constitutional_grounding": 1
+      }
+    },
+    {
+      "law_id": "codigo-de-comercio",
+      "inbound_dependencies": 43,
+      "outbound_dependencies": 15,
+      "spillover_score": 101,
+      "article_touchpoints_count": 37,
+      "dependency_type_mix": {
+        "generic_unresolved": 14,
+        "procedural": 14,
+        "implementation_operative": 5,
+        "constitutional_grounding": 1,
+        "supletory": 6,
+        "institutional": 3
+      }
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+      "inbound_dependencies": 43,
+      "outbound_dependencies": 33,
+      "spillover_score": 119,
+      "article_touchpoints_count": 37,
+      "dependency_type_mix": {
+        "generic_unresolved": 32,
+        "fiscal_financial": 4,
+        "constitutional_grounding": 3,
+        "institutional": 3,
+        "supletory": 1
+      }
+    },
+    {
+      "law_id": "ley-de-desarrollo-rural-sustentable",
+      "inbound_dependencies": 42,
+      "outbound_dependencies": 34,
+      "spillover_score": 118,
+      "article_touchpoints_count": 33,
+      "dependency_type_mix": {
+        "generic_unresolved": 25,
+        "implementation_operative": 4,
+        "institutional": 8,
+        "procedural": 2,
+        "constitutional_grounding": 2,
+        "fiscal_financial": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-educacion",
+      "inbound_dependencies": 40,
+      "outbound_dependencies": 46,
+      "spillover_score": 126,
+      "article_touchpoints_count": 36,
+      "dependency_type_mix": {
+        "generic_unresolved": 24,
+        "institutional": 4,
+        "definitional": 1,
+        "constitutional_grounding": 5,
+        "procedural": 5,
+        "sanctioning": 1
+      }
+    },
+    {
+      "law_id": "ley-del-sector-hidrocarburos",
+      "inbound_dependencies": 35,
+      "outbound_dependencies": 31,
+      "spillover_score": 101,
+      "article_touchpoints_count": 22,
+      "dependency_type_mix": {
+        "definitional": 5,
+        "generic_unresolved": 8,
+        "implementation_operative": 3,
+        "constitutional_grounding": 2,
+        "institutional": 9,
+        "fiscal_financial": 5,
+        "supletory": 1,
+        "procedural": 2
+      }
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "inbound_dependencies": 34,
+      "outbound_dependencies": 25,
+      "spillover_score": 93,
+      "article_touchpoints_count": 31,
+      "dependency_type_mix": {
+        "procedural": 3,
+        "generic_unresolved": 21,
+        "definitional": 2,
+        "institutional": 3,
+        "sanctioning": 4,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-al-consumidor",
+      "inbound_dependencies": 31,
+      "outbound_dependencies": 25,
+      "spillover_score": 87,
+      "article_touchpoints_count": 28,
+      "dependency_type_mix": {
+        "sanctioning": 1,
+        "generic_unresolved": 23,
+        "implementation_operative": 1,
+        "institutional": 4,
+        "definitional": 1,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "inbound_dependencies": 30,
+      "outbound_dependencies": 40,
+      "spillover_score": 100,
+      "article_touchpoints_count": 28,
+      "dependency_type_mix": {
+        "generic_unresolved": 17,
+        "procedural": 4,
+        "implementation_operative": 4,
+        "constitutional_grounding": 2,
+        "institutional": 2,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-anticorrupcion",
+      "inbound_dependencies": 30,
+      "outbound_dependencies": 14,
+      "spillover_score": 74,
+      "article_touchpoints_count": 25,
+      "dependency_type_mix": {
+        "fiscal_financial": 3,
+        "generic_unresolved": 16,
+        "institutional": 5,
+        "supletory": 2,
+        "definitional": 1,
+        "sanctioning": 3
+      }
+    },
+    {
+      "law_id": "ley-del-banco-de-mexico",
+      "inbound_dependencies": 30,
+      "outbound_dependencies": 12,
+      "spillover_score": 72,
+      "article_touchpoints_count": 26,
+      "dependency_type_mix": {
+        "generic_unresolved": 11,
+        "procedural": 4,
+        "supletory": 2,
+        "institutional": 7,
+        "sanctioning": 1,
+        "implementation_operative": 3,
+        "fiscal_financial": 1,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
+      "inbound_dependencies": 29,
+      "outbound_dependencies": 12,
+      "spillover_score": 70,
+      "article_touchpoints_count": 25,
+      "dependency_type_mix": {
+        "generic_unresolved": 20,
+        "definitional": 2,
+        "supletory": 2,
+        "institutional": 3,
+        "constitutional_grounding": 1,
+        "sanctioning": 1
+      }
+    },
+    {
+      "law_id": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+      "inbound_dependencies": 29,
+      "outbound_dependencies": 33,
+      "spillover_score": 91,
+      "article_touchpoints_count": 28,
+      "dependency_type_mix": {
+        "generic_unresolved": 20,
+        "institutional": 3,
+        "implementation_operative": 4,
+        "constitutional_grounding": 1,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "inbound_dependencies": 29,
+      "outbound_dependencies": 37,
+      "spillover_score": 95,
+      "article_touchpoints_count": 27,
+      "dependency_type_mix": {
+        "procedural": 8,
+        "definitional": 2,
+        "constitutional_grounding": 12,
+        "generic_unresolved": 2,
+        "institutional": 2,
+        "supletory": 3
+      }
+    },
+    {
+      "law_id": "ley-general-de-bienes-nacionales",
+      "inbound_dependencies": 29,
+      "outbound_dependencies": 43,
+      "spillover_score": 101,
+      "article_touchpoints_count": 27,
+      "dependency_type_mix": {
+        "generic_unresolved": 19,
+        "institutional": 4,
+        "constitutional_grounding": 3,
+        "supletory": 1,
+        "fiscal_financial": 2
+      }
+    },
+    {
+      "law_id": "ley-de-proteccion-al-ahorro-bancario",
+      "inbound_dependencies": 29,
+      "outbound_dependencies": 15,
+      "spillover_score": 73,
+      "article_touchpoints_count": 29,
+      "dependency_type_mix": {
+        "generic_unresolved": 21,
+        "fiscal_financial": 1,
+        "sanctioning": 1,
+        "definitional": 2,
+        "procedural": 3,
+        "supletory": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-de-derechos",
+      "inbound_dependencies": 28,
+      "outbound_dependencies": 95,
+      "spillover_score": 151,
+      "article_touchpoints_count": 23,
+      "dependency_type_mix": {
+        "generic_unresolved": 16,
+        "institutional": 6,
+        "fiscal_financial": 2,
+        "procedural": 3,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-contabilidad-gubernamental",
+      "inbound_dependencies": 28,
+      "outbound_dependencies": 23,
+      "spillover_score": 79,
+      "article_touchpoints_count": 21,
+      "dependency_type_mix": {
+        "fiscal_financial": 3,
+        "institutional": 4,
+        "supletory": 1,
+        "generic_unresolved": 12,
+        "sanctioning": 4,
+        "constitutional_grounding": 2,
+        "implementation_operative": 2
+      }
+    },
+    {
+      "law_id": "ley-de-tesoreria-de-la-federacion",
+      "inbound_dependencies": 26,
+      "outbound_dependencies": 18,
+      "spillover_score": 70,
+      "article_touchpoints_count": 24,
+      "dependency_type_mix": {
+        "fiscal_financial": 14,
+        "procedural": 3,
+        "institutional": 3,
+        "implementation_operative": 3,
+        "sanctioning": 1,
+        "generic_unresolved": 2
+      }
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "inbound_dependencies": 26,
+      "outbound_dependencies": 25,
+      "spillover_score": 77,
+      "article_touchpoints_count": 19,
+      "dependency_type_mix": {
+        "generic_unresolved": 10,
+        "definitional": 2,
+        "procedural": 2,
+        "institutional": 9,
+        "implementation_operative": 1,
+        "fiscal_financial": 2
+      }
+    },
+    {
+      "law_id": "ley-de-concursos-mercantiles",
+      "inbound_dependencies": 24,
+      "outbound_dependencies": 22,
+      "spillover_score": 70,
+      "article_touchpoints_count": 24,
+      "dependency_type_mix": {
+        "procedural": 1,
+        "generic_unresolved": 15,
+        "institutional": 7,
+        "supletory": 1
+      }
+    },
+    {
+      "law_id": "ley-para-regular-las-agrupaciones-financieras",
+      "inbound_dependencies": 24,
+      "outbound_dependencies": 39,
+      "spillover_score": 87,
+      "article_touchpoints_count": 21,
+      "dependency_type_mix": {
+        "generic_unresolved": 23,
+        "institutional": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-victimas",
+      "inbound_dependencies": 23,
+      "outbound_dependencies": 27,
+      "spillover_score": 73,
+      "article_touchpoints_count": 23,
+      "dependency_type_mix": {
+        "generic_unresolved": 15,
+        "institutional": 5,
+        "sanctioning": 1,
+        "procedural": 1,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+      "inbound_dependencies": 23,
+      "outbound_dependencies": 24,
+      "spillover_score": 70,
+      "article_touchpoints_count": 21,
+      "dependency_type_mix": {
+        "procedural": 3,
+        "generic_unresolved": 15,
+        "institutional": 5
+      }
+    },
+    {
+      "law_id": "ley-de-aguas-nacionales",
+      "inbound_dependencies": 23,
+      "outbound_dependencies": 55,
+      "spillover_score": 101,
+      "article_touchpoints_count": 22,
+      "dependency_type_mix": {
+        "generic_unresolved": 13,
+        "implementation_operative": 4,
+        "procedural": 1,
+        "institutional": 4,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "inbound_dependencies": 22,
+      "outbound_dependencies": 31,
+      "spillover_score": 75,
+      "article_touchpoints_count": 22,
+      "dependency_type_mix": {
+        "fiscal_financial": 16,
+        "procedural": 3,
+        "institutional": 1,
+        "definitional": 1,
+        "sanctioning": 1
+      }
+    },
+    {
+      "law_id": "ley-aduanera",
+      "inbound_dependencies": 22,
+      "outbound_dependencies": 45,
+      "spillover_score": 89,
+      "article_touchpoints_count": 22,
+      "dependency_type_mix": {
+        "institutional": 2,
+        "sanctioning": 1,
+        "procedural": 2,
+        "generic_unresolved": 11,
+        "fiscal_financial": 6
+      }
+    },
+    {
+      "law_id": "codigo-civil-federal",
+      "inbound_dependencies": 21,
+      "outbound_dependencies": 75,
+      "spillover_score": 117,
+      "article_touchpoints_count": 19,
+      "dependency_type_mix": {
+        "generic_unresolved": 12,
+        "procedural": 2,
+        "institutional": 6,
+        "sanctioning": 1
+      }
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "inbound_dependencies": 21,
+      "outbound_dependencies": 6,
+      "spillover_score": 48,
+      "article_touchpoints_count": 20,
+      "dependency_type_mix": {
+        "institutional": 3,
+        "generic_unresolved": 15,
+        "fiscal_financial": 2,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "codigo-federal-de-procedimientos-civiles",
+      "inbound_dependencies": 20,
+      "outbound_dependencies": 14,
+      "spillover_score": 54,
+      "article_touchpoints_count": 18,
+      "dependency_type_mix": {
+        "procedural": 4,
+        "generic_unresolved": 9,
+        "constitutional_grounding": 2,
+        "sanctioning": 1,
+        "institutional": 3,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+      "inbound_dependencies": 20,
+      "outbound_dependencies": 11,
+      "spillover_score": 51,
+      "article_touchpoints_count": 20,
+      "dependency_type_mix": {
+        "generic_unresolved": 5,
+        "definitional": 5,
+        "institutional": 7,
+        "procedural": 3
+      }
+    },
+    {
+      "law_id": "ley-de-ingresos-sobre-hidrocarburos",
+      "inbound_dependencies": 20,
+      "outbound_dependencies": 25,
+      "spillover_score": 65,
+      "article_touchpoints_count": 19,
+      "dependency_type_mix": {
+        "fiscal_financial": 13,
+        "institutional": 6,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "codigo-penal-federal",
+      "inbound_dependencies": 19,
+      "outbound_dependencies": 67,
+      "spillover_score": 105,
+      "article_touchpoints_count": 17,
+      "dependency_type_mix": {
+        "generic_unresolved": 8,
+        "institutional": 4,
+        "procedural": 1,
+        "sanctioning": 4,
+        "implementation_operative": 1,
+        "fiscal_financial": 1
+      }
+    },
+    {
+      "law_id": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
+      "inbound_dependencies": 19,
+      "outbound_dependencies": 48,
+      "spillover_score": 86,
+      "article_touchpoints_count": 17,
+      "dependency_type_mix": {
+        "institutional": 6,
+        "generic_unresolved": 4,
+        "procedural": 7,
+        "supletory": 1,
+        "constitutional_grounding": 1
+      }
+    },
+    {
+      "law_id": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+      "inbound_dependencies": 19,
+      "outbound_dependencies": 19,
+      "spillover_score": 57,
+      "article_touchpoints_count": 19,
+      "dependency_type_mix": {
+        "generic_unresolved": 12,
+        "institutional": 5,
+        "procedural": 2
+      }
+    },
+    {
+      "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+      "inbound_dependencies": 18,
+      "outbound_dependencies": 17,
+      "spillover_score": 53,
+      "article_touchpoints_count": 18,
+      "dependency_type_mix": {
+        "fiscal_financial": 13,
+        "institutional": 1,
+        "procedural": 1,
+        "sanctioning": 2,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
+      "inbound_dependencies": 18,
+      "outbound_dependencies": 30,
+      "spillover_score": 66,
+      "article_touchpoints_count": 16,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "institutional": 6,
+        "procedural": 1,
+        "implementation_operative": 1,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+      "inbound_dependencies": 18,
+      "outbound_dependencies": 38,
+      "spillover_score": 74,
+      "article_touchpoints_count": 15,
+      "dependency_type_mix": {
+        "generic_unresolved": 12,
+        "sanctioning": 1,
+        "institutional": 3,
+        "definitional": 1,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-de-comercio-exterior",
+      "inbound_dependencies": 18,
+      "outbound_dependencies": 8,
+      "spillover_score": 44,
+      "article_touchpoints_count": 17,
+      "dependency_type_mix": {
+        "generic_unresolved": 6,
+        "institutional": 6,
+        "implementation_operative": 3,
+        "procedural": 2,
+        "supletory": 1
+      }
+    },
+    {
+      "law_id": "ley-de-infraestructura-de-la-calidad",
+      "inbound_dependencies": 18,
+      "outbound_dependencies": 15,
+      "spillover_score": 51,
+      "article_touchpoints_count": 16,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "institutional": 4,
+        "implementation_operative": 5
+      }
+    },
+    {
+      "law_id": "ley-federal-contra-la-delincuencia-organizada",
+      "inbound_dependencies": 17,
+      "outbound_dependencies": 14,
+      "spillover_score": 48,
+      "article_touchpoints_count": 16,
+      "dependency_type_mix": {
+        "definitional": 1,
+        "sanctioning": 4,
+        "institutional": 3,
+        "constitutional_grounding": 3,
+        "generic_unresolved": 4,
+        "supletory": 1,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+      "inbound_dependencies": 17,
+      "outbound_dependencies": 75,
+      "spillover_score": 109,
+      "article_touchpoints_count": 16,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "institutional": 2,
+        "sanctioning": 2,
+        "procedural": 2,
+        "implementation_operative": 1,
+        "fiscal_financial": 1
+      }
+    },
+    {
+      "law_id": "ley-de-seguridad-nacional",
+      "inbound_dependencies": 17,
+      "outbound_dependencies": 13,
+      "spillover_score": 47,
+      "article_touchpoints_count": 16,
+      "dependency_type_mix": {
+        "generic_unresolved": 11,
+        "institutional": 4,
+        "implementation_operative": 1,
+        "supletory": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-del-derecho-de-autor",
+      "inbound_dependencies": 16,
+      "outbound_dependencies": 14,
+      "spillover_score": 46,
+      "article_touchpoints_count": 14,
+      "dependency_type_mix": {
+        "generic_unresolved": 8,
+        "institutional": 3,
+        "implementation_operative": 2,
+        "fiscal_financial": 1,
+        "sanctioning": 1,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-de-datos-personales-en-posesion-de-los-particulares",
+      "inbound_dependencies": 16,
+      "outbound_dependencies": 4,
+      "spillover_score": 36,
+      "article_touchpoints_count": 15,
+      "dependency_type_mix": {
+        "generic_unresolved": 14,
+        "institutional": 1,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+      "inbound_dependencies": 16,
+      "outbound_dependencies": 11,
+      "spillover_score": 43,
+      "article_touchpoints_count": 16,
+      "dependency_type_mix": {
+        "definitional": 1,
+        "generic_unresolved": 12,
+        "institutional": 2,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-de-migracion",
+      "inbound_dependencies": 16,
+      "outbound_dependencies": 38,
+      "spillover_score": 70,
+      "article_touchpoints_count": 16,
+      "dependency_type_mix": {
+        "institutional": 4,
+        "generic_unresolved": 7,
+        "sanctioning": 2,
+        "fiscal_financial": 1,
+        "implementation_operative": 1,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-sociedades-cooperativas",
+      "inbound_dependencies": 16,
+      "outbound_dependencies": 15,
+      "spillover_score": 47,
+      "article_touchpoints_count": 15,
+      "dependency_type_mix": {
+        "generic_unresolved": 10,
+        "constitutional_grounding": 1,
+        "fiscal_financial": 1,
+        "institutional": 3,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+      "inbound_dependencies": 15,
+      "outbound_dependencies": 59,
+      "spillover_score": 89,
+      "article_touchpoints_count": 14,
+      "dependency_type_mix": {
+        "generic_unresolved": 12,
+        "institutional": 2,
+        "constitutional_grounding": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
+      "inbound_dependencies": 15,
+      "outbound_dependencies": 22,
+      "spillover_score": 52,
+      "article_touchpoints_count": 14,
+      "dependency_type_mix": {
+        "procedural": 1,
+        "institutional": 1,
+        "definitional": 1,
+        "generic_unresolved": 8,
+        "sanctioning": 1,
+        "supletory": 1,
+        "implementation_operative": 2
+      }
+    },
+    {
+      "law_id": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+      "inbound_dependencies": 15,
+      "outbound_dependencies": 40,
+      "spillover_score": 70,
+      "article_touchpoints_count": 13,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "institutional": 2,
+        "implementation_operative": 1,
+        "procedural": 1,
+        "sanctioning": 1,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "ley-de-ahorro-y-credito-popular",
+      "inbound_dependencies": 15,
+      "outbound_dependencies": 22,
+      "spillover_score": 52,
+      "article_touchpoints_count": 12,
+      "dependency_type_mix": {
+        "generic_unresolved": 10,
+        "institutional": 2,
+        "procedural": 2,
+        "sanctioning": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-partidos-politicos",
+      "inbound_dependencies": 15,
+      "outbound_dependencies": 30,
+      "spillover_score": 60,
+      "article_touchpoints_count": 15,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "institutional": 5,
+        "fiscal_financial": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-sobre-monumentos-y-zonas-arqueologicos-artisticos-e-historicos",
+      "inbound_dependencies": 15,
+      "outbound_dependencies": 6,
+      "spillover_score": 36,
+      "article_touchpoints_count": 15,
+      "dependency_type_mix": {
+        "generic_unresolved": 10,
+        "constitutional_grounding": 2,
+        "institutional": 2,
+        "implementation_operative": 1
+      }
+    },
+    {
+      "law_id": "ley-en-materia-de-telecomunicaciones-y-radiodifusion",
+      "inbound_dependencies": 14,
+      "outbound_dependencies": 47,
+      "spillover_score": 75,
+      "article_touchpoints_count": 13,
+      "dependency_type_mix": {
+        "institutional": 4,
+        "generic_unresolved": 6,
+        "procedural": 2,
+        "fiscal_financial": 1,
+        "constitutional_grounding": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-de-deuda-publica",
+      "inbound_dependencies": 14,
+      "outbound_dependencies": 5,
+      "spillover_score": 33,
+      "article_touchpoints_count": 12,
+      "dependency_type_mix": {
+        "fiscal_financial": 4,
+        "generic_unresolved": 4,
+        "procedural": 4,
+        "institutional": 2
+      }
+    },
+    {
+      "law_id": "ley-de-disciplina-financiera-de-las-entidades-federativas-y-los-municipios",
+      "inbound_dependencies": 14,
+      "outbound_dependencies": 36,
+      "spillover_score": 64,
+      "article_touchpoints_count": 13,
+      "dependency_type_mix": {
+        "generic_unresolved": 8,
+        "fiscal_financial": 1,
+        "procedural": 1,
+        "sanctioning": 3,
+        "institutional": 1
+      }
+    },
+    {
+      "law_id": "ley-de-sistemas-de-pagos",
+      "inbound_dependencies": 14,
+      "outbound_dependencies": 9,
+      "spillover_score": 37,
+      "article_touchpoints_count": 12,
+      "dependency_type_mix": {
+        "generic_unresolved": 10,
+        "implementation_operative": 2,
+        "sanctioning": 1,
+        "institutional": 1
+      }
+    },
+    {
+      "law_id": "ley-federal-del-mar",
+      "inbound_dependencies": 12,
+      "outbound_dependencies": 15,
+      "spillover_score": 39,
+      "article_touchpoints_count": 11,
+      "dependency_type_mix": {
+        "institutional": 3,
+        "definitional": 2,
+        "sanctioning": 1,
+        "constitutional_grounding": 1,
+        "generic_unresolved": 5
+      }
+    },
+    {
+      "law_id": "ley-federal-de-procedimiento-contencioso-administrativo",
+      "inbound_dependencies": 12,
+      "outbound_dependencies": 20,
+      "spillover_score": 44,
+      "article_touchpoints_count": 12,
+      "dependency_type_mix": {
+        "procedural": 12
+      }
+    },
+    {
+      "law_id": "ley-federal-de-armas-de-fuego-y-explosivos",
+      "inbound_dependencies": 12,
+      "outbound_dependencies": 4,
+      "spillover_score": 28,
+      "article_touchpoints_count": 12,
+      "dependency_type_mix": {
+        "generic_unresolved": 7,
+        "implementation_operative": 1,
+        "sanctioning": 1,
+        "institutional": 3
+      }
+    },
+    {
+      "law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "inbound_dependencies": 12,
+      "outbound_dependencies": 16,
+      "spillover_score": 40,
+      "article_touchpoints_count": 12,
+      "dependency_type_mix": {
+        "definitional": 6,
+        "institutional": 6
+      }
+    },
+    {
+      "law_id": "ley-del-instituto-de-seguridad-social-para-las-fuerzas-armadas-mexicanas",
+      "inbound_dependencies": 12,
+      "outbound_dependencies": 22,
+      "spillover_score": 46,
+      "article_touchpoints_count": 12,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "institutional": 3
+      }
+    },
+    {
+      "law_id": "ley-general-de-desarrollo-forestal-sustentable",
+      "inbound_dependencies": 12,
+      "outbound_dependencies": 29,
+      "spillover_score": 53,
+      "article_touchpoints_count": 10,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "procedural": 1,
+        "implementation_operative": 1,
+        "institutional": 1
+      }
+    },
+    {
+      "law_id": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+      "inbound_dependencies": 12,
+      "outbound_dependencies": 56,
+      "spillover_score": 80,
+      "article_touchpoints_count": 10,
+      "dependency_type_mix": {
+        "fiscal_financial": 12
+      }
+    },
+    {
+      "law_id": "ley-del-servicio-exterior-mexicano",
+      "inbound_dependencies": 11,
+      "outbound_dependencies": 23,
+      "spillover_score": 45,
+      "article_touchpoints_count": 11,
+      "dependency_type_mix": {
+        "implementation_operative": 4,
+        "generic_unresolved": 5,
+        "institutional": 2
+      }
+    },
+    {
+      "law_id": "ley-de-fondos-de-inversion",
+      "inbound_dependencies": 11,
+      "outbound_dependencies": 62,
+      "spillover_score": 84,
+      "article_touchpoints_count": 11,
+      "dependency_type_mix": {
+        "generic_unresolved": 8,
+        "fiscal_financial": 2,
+        "institutional": 1
+      }
+    },
+    {
+      "law_id": "ley-de-planeacion-y-transicion-energetica",
+      "inbound_dependencies": 11,
+      "outbound_dependencies": 26,
+      "spillover_score": 48,
+      "article_touchpoints_count": 7,
+      "dependency_type_mix": {
+        "definitional": 3,
+        "generic_unresolved": 3,
+        "procedural": 1,
+        "institutional": 2,
+        "fiscal_financial": 1,
+        "sanctioning": 1
+      }
+    },
+    {
+      "law_id": "ley-general-de-desarrollo-social",
+      "inbound_dependencies": 11,
+      "outbound_dependencies": 9,
+      "spillover_score": 31,
+      "article_touchpoints_count": 10,
+      "dependency_type_mix": {
+        "generic_unresolved": 8,
+        "institutional": 3
+      }
+    },
+    {
+      "law_id": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
+      "inbound_dependencies": 10,
+      "outbound_dependencies": 21,
+      "spillover_score": 41,
+      "article_touchpoints_count": 6,
+      "dependency_type_mix": {
+        "procedural": 1,
+        "generic_unresolved": 3,
+        "sanctioning": 2,
+        "fiscal_financial": 2,
+        "institutional": 2
+      }
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidad-ambiental",
+      "inbound_dependencies": 10,
+      "outbound_dependencies": 34,
+      "spillover_score": 54,
+      "article_touchpoints_count": 9,
+      "dependency_type_mix": {
+        "sanctioning": 9,
+        "procedural": 1
+      }
+    },
+    {
+      "law_id": "ley-de-mineria",
+      "inbound_dependencies": 10,
+      "outbound_dependencies": 16,
+      "spillover_score": 36,
+      "article_touchpoints_count": 10,
+      "dependency_type_mix": {
+        "implementation_operative": 1,
+        "generic_unresolved": 5,
+        "fiscal_financial": 2,
+        "institutional": 2
+      }
+    },
+    {
+      "law_id": "ley-general-en-materia-de-humanidades-ciencias-tecnologias-e-innovacion",
+      "inbound_dependencies": 10,
+      "outbound_dependencies": 35,
+      "spillover_score": 55,
+      "article_touchpoints_count": 10,
+      "dependency_type_mix": {
+        "generic_unresolved": 9,
+        "supletory": 1
+      }
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "inbound_dependencies": 9,
+      "outbound_dependencies": 20,
+      "spillover_score": 38,
+      "article_touchpoints_count": 9,
+      "dependency_type_mix": {
+        "institutional": 4,
+        "procedural": 1,
+        "generic_unresolved": 3,
+        "definitional": 1
+      }
+    },
+    {
+      "law_id": "ley-sobre-la-celebracion-de-tratados",
+      "inbound_dependencies": 9,
+      "outbound_dependencies": 4,
+      "spillover_score": 22,
+      "article_touchpoints_count": 7,
+      "dependency_type_mix": {
+        "generic_unresolved": 5,
+        "institutional": 2,
+        "definitional": 1,
+        "supletory": 1
+      }
+    }
+  ],
+  "notes": [
+    "Score alto sugiere que una reforma puede irradiar efectos a múltiples leyes y artículos.",
+    "No reemplaza análisis doctrinal, jurisprudencial o de técnica legislativa."
+  ]
+}

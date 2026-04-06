@@ -1,0 +1,1457 @@
+{
+  "generated_at": "2026-04-06T19:14:04.078117+00:00",
+  "definition_dependency_targets": [
+    {
+      "law_id": "constitucion-politica-de-los-estados-unidos-mexicanos",
+      "dependent_provisions": [
+        {
+          "source_law": "codigo-fiscal-de-la-federacion",
+          "source_article": "8o",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-agraria",
+          "source_article": "149",
+          "target_article": "27",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+          "source_article": "36",
+          "target_article": "134",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-aguas-nacionales",
+          "source_article": "3",
+          "target_article": "27",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-concursos-mercantiles",
+          "source_article": "66",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
+          "source_article": "2o",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+          "source_article": "5o",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-inversion-extranjera",
+          "source_article": "14",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-la-fiscalia-general-de-la-republica",
+          "source_article": "9",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
+          "source_article": "6",
+          "target_article": "127",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-de-revocacion-de-mandato",
+          "source_article": "6",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-para-prevenir-y-eliminar-la-discriminacion",
+          "source_article": "1",
+          "target_article": "1",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-desarrollo-forestal-sustentable",
+          "source_article": "58",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-titulos-y-operaciones-de-credito",
+          "source_article": "399",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-para-prevenir-sancionar-y-erradicar-los-delitos-en-materia-de-trata-de-personas-y-para-la-proteccion-y-asistencia-a-las-victimas-de-estos-delitos",
+          "source_article": "4o",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-organica-del-centro-federal-de-conciliacion-y-registro-laboral",
+          "source_article": "3",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos",
+          "source_article": "29",
+          "target_article": "79",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
+          "source_article": "2",
+          "target_article": "",
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 18
+    },
+    {
+      "law_id": "ley-general-de-sociedades-mercantiles",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-aguas-nacionales",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "29",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "216",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
+          "source_article": "426",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-de-remuneraciones-de-los-servidores-publicos",
+          "source_article": "34",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+          "source_article": "81-A",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025",
+          "source_article": "1",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026",
+          "source_article": "1",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 8
+    },
+    {
+      "law_id": "ley-del-impuesto-sobre-la-renta",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
+          "source_article": "22",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+          "source_article": "25",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-del-impuesto-al-valor-agregado",
+          "source_article": "5o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-del-impuesto-al-valor-agregado",
+          "source_article": "14",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-del-impuesto-sobre-la-renta",
+          "source_article": "215",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-del-impuesto-sobre-la-renta",
+          "source_article": "215",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-de-derechos",
+          "source_article": "3o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 7
+    },
+    {
+      "law_id": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-ahorro-y-credito-popular",
+          "source_article": "146",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "110",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-uniones-de-credito",
+          "source_article": "133",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-del-mercado-de-valores",
+          "source_article": "399",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+          "source_article": "101",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+          "source_article": "120",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 6
+    },
+    {
+      "law_id": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-aeropuertos",
+          "source_article": "10",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
+          "source_article": "1o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+          "source_article": "1o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-puertos",
+          "source_article": "23",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 5
+    },
+    {
+      "law_id": "ley-del-sector-hidrocarburos",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-biocombustibles",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-ingresos-sobre-hidrocarburos",
+          "source_article": "64",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-la-comision-nacional-de-energia",
+          "source_article": "6",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-planeacion-y-transicion-energetica",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-para-prevenir-y-sancionar-los-delitos-cometidos-en-materia-de-hidrocarburos",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 5
+    },
+    {
+      "law_id": "ley-del-mercado-de-valores",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-fondos-de-inversion",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-fondos-de-inversion",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-fondos-de-inversion",
+          "source_article": "5",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-fondos-de-inversion",
+          "source_article": "5",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-del-trabajo",
+          "source_article": "13",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 5
+    },
+    {
+      "law_id": "ley-de-proteccion-y-defensa-al-usuario-de-servicios-financieros",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "110",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
+          "source_article": "207",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+          "source_article": "37",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+          "source_article": "87-N",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-para-la-transparencia-y-ordenamiento-de-los-servicios-financieros",
+          "source_article": "13",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 5
+    },
+    {
+      "law_id": "ley-federal-del-trabajo",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-del-impuesto-sobre-la-renta",
+          "source_article": "86",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-del-impuesto-sobre-la-renta",
+          "source_article": "99",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-del-seguro-social",
+          "source_article": "9",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-para-impulsar-el-incremento-sostenido-de-la-productividad-y-la-competitividad-de-la-economia-nacional",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 4
+    },
+    {
+      "law_id": "ley-general-de-instituciones-y-procedimientos-electorales",
+      "dependent_provisions": [
+        {
+          "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+          "source_article": "20",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-los-medios-de-impugnacion-en-materia-electoral",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 3
+    },
+    {
+      "law_id": "ley-federal-de-procedimiento-administrativo",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-ahorro-y-credito-popular",
+          "source_article": "8o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+          "source_article": "51",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+          "source_article": "4o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 3
+    },
+    {
+      "law_id": "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-asociaciones-publico-privadas",
+          "source_article": "22",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-la-agencia-nacional-de-seguridad-industrial-y-de-proteccion-al-medio-ambiente-del-sector-hidrocarburos",
+          "source_article": "3o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-economia-circular",
+          "source_article": "35",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 3
+    },
+    {
+      "law_id": "ley-de-planeacion-y-transicion-energetica",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-biocombustibles",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-geotermia",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-la-comision-nacional-de-energia",
+          "source_article": "6",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 3
+    },
+    {
+      "law_id": "ley-general-de-transparencia-y-acceso-a-la-informacion-publica",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-para-regular-las-agrupaciones-financieras",
+          "source_article": "181",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-para-regular-las-agrupaciones-financieras",
+          "source_article": "186",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-para-regular-las-agrupaciones-financieras",
+          "source_article": "191",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 3
+    },
+    {
+      "law_id": "ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencias",
+      "dependent_provisions": [
+        {
+          "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+          "source_article": "554",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+          "source_article": "573",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-agraria",
+          "source_article": "166",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "146",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-de-geotermia",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-aguas-nacionales",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-planeacion-y-transicion-energetica",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-federal-del-mar",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-aguas-nacionales",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-de-coordinacion-fiscal",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-asociaciones-publico-privadas",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-de-salud",
+          "source_article": "77",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-del-sector-electrico",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-geotermia",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-la-comision-nacional-de-energia",
+          "source_article": "6",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-del-servicio-de-administracion-tributaria",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2025",
+          "source_article": "23",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-de-2026",
+          "source_article": "26",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-publico",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "30",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-general-de-titulos-y-operaciones-de-credito",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "71",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-uniones-de-credito",
+          "source_article": "60",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-de-proteccion-al-ahorro-bancario",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "123",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "187",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-federal-de-responsabilidades-de-los-servidores-publicos",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado",
+          "source_article": "71",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-federal-de-competencia-economica",
+          "source_article": "35",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-general-de-responsabilidades-administrativas",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
+          "source_article": "126",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        },
+        {
+          "source_law": "ley-general-del-sistema-nacional-anticorrupcion",
+          "source_article": "53",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 2
+    },
+    {
+      "law_id": "ley-federal-contra-la-delincuencia-organizada",
+      "dependent_provisions": [
+        {
+          "source_law": "codigo-de-justicia-militar",
+          "source_article": "275",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-federal-del-impuesto-sobre-automoviles-nuevos",
+      "dependent_provisions": [
+        {
+          "source_law": "codigo-fiscal-de-la-federacion",
+          "source_article": "29-A",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-para-regular-las-sociedades-de-informacion-crediticia",
+      "dependent_provisions": [
+        {
+          "source_law": "codigo-fiscal-de-la-federacion",
+          "source_article": "69",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-los-impuestos-generales-de-importacion-y-de-exportacion",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-aduanera",
+          "source_article": "36-A",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-general-para-la-prevencion-y-gestion-integral-de-los-residuos",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-biocombustibles",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-coordinacion-fiscal",
+          "source_article": "10-D",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-general-de-educacion",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-educacion-militar-del-ejercito-fuerza-aerea-y-guardia-nacional",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-federal-de-proteccion-al-consumidor",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-instituciones-de-credito",
+          "source_article": "149",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "codigo-fiscal-de-la-federacion",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-fondos-de-aseguramiento-agropecuario-y-rural",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-instituciones-de-seguros-y-de-fianzas",
+          "source_article": "31",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-la-comision-nacional-bancaria-y-de-valores",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "codigo-nacional-de-procedimientos-penales",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-la-fiscalia-general-de-la-republica",
+          "source_article": "9",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-la-fiscalia-general-de-la-republica",
+          "source_article": "40",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-amnistia",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-obras-publicas-y-servicios-relacionados-con-las-mismas",
+          "source_article": "40",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-biocombustibles",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-planeacion-y-transicion-energetica",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-aviacion-civil",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-de-vertimientos-en-las-zonas-marinas-mexicanas",
+          "source_article": "37",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-del-impuesto-al-valor-agregado",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-del-impuesto-especial-sobre-produccion-y-servicios",
+          "source_article": "2o",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-aguas-nacionales",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-federal-de-derechos",
+          "source_article": "277",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-puertos",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-federal-de-deuda-publica",
+          "source_article": "18",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-para-regular-las-instituciones-de-tecnologia-financiera",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-federal-para-la-prevencion-e-identificacion-de-operaciones-con-recursos-de-procedencia-ilicita",
+          "source_article": "17",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-agraria",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+          "source_article": "62",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-federal-para-la-administracion-y-enajenacion-de-bienes-del-sector-publico",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-bienes-nacionales",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-general-de-cultura-fisica-y-deporte",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-cultura-fisica-y-deporte",
+          "source_article": "4",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "codigo-nacional-de-procedimientos-civiles-y-familiares",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-mecanismos-alternativos-de-solucion-de-controversias",
+          "source_article": "86",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-monetaria-de-los-estados-unidos-mexicanos",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+          "source_article": "81",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-del-banco-de-mexico",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-organizaciones-y-actividades-auxiliares-del-credito",
+          "source_article": "81",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-general-del-sistema-nacional-anticorrupcion",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-responsabilidades-administrativas",
+          "source_article": "3",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-de-sociedades-cooperativas",
+          "source_article": "33",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas",
+          "source_article": "10",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-del-servicio-profesional-de-carrera-en-la-administracion-publica-federal",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-organica-de-la-administracion-publica-federal",
+          "source_article": "17",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-nacional-de-extincion-de-dominio",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-organica-de-la-administracion-publica-federal",
+          "source_article": "44",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "codigo-de-justicia-militar",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-organica-de-la-armada-de-mexico",
+          "source_article": "77",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-de-ascensos-y-recompensas-del-ejercito-fuerza-aerea-y-guardia-nacional",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-organica-del-ejercito-y-fuerza-aerea-mexicanos",
+          "source_article": "199",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    },
+    {
+      "law_id": "ley-sobre-la-celebracion-de-tratados",
+      "dependent_provisions": [
+        {
+          "source_law": "ley-sobre-la-aprobacion-de-tratados-internacionales-en-materia-economica",
+          "source_article": "2",
+          "target_article": null,
+          "dependency_subtype": "term_definition_reference",
+          "confidence": "high",
+          "reason": "El contexto sugiere remisión para interpretar definiciones o conceptos."
+        }
+      ],
+      "dependent_count": 1
+    }
+  ],
+  "notes": [
+    "Este reporte identifica leyes que prestan definiciones a otras disposiciones.",
+    "Útil para revisar consistencia conceptual antes de reformas o litigio estratégico."
+  ]
+}

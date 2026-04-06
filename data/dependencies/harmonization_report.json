@@ -1,0 +1,1588 @@
+{
+  "generated_at": "2026-04-06T19:14:04.155067+00:00",
+  "harmonization_candidates": [
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-instituciones-y-procedimientos-electorales"
+      ],
+      "cross_reference_count": 87,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "generic_unresolved": 1,
+        "fiscal_financial": 2,
+        "institutional": 12,
+        "constitutional_grounding": 66,
+        "implementation_operative": 2,
+        "procedural": 4
+      },
+      "review_priority_score": 96.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "reglamento-del-senado-de-la-republica"
+      ],
+      "cross_reference_count": 74,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 44,
+        "institutional": 11,
+        "implementation_operative": 9,
+        "procedural": 10
+      },
+      "review_priority_score": 80.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-fiscal-de-la-federacion",
+        "ley-del-impuesto-sobre-la-renta"
+      ],
+      "cross_reference_count": 71,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "fiscal_financial": 54,
+        "institutional": 2,
+        "procedural": 7,
+        "sanctioning": 8
+      },
+      "review_priority_score": 77.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-organica-del-poder-judicial-de-la-federacion"
+      ],
+      "cross_reference_count": 53,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 37,
+        "procedural": 10,
+        "institutional": 4,
+        "implementation_operative": 2
+      },
+      "review_priority_score": 59.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-del-mercado-de-valores",
+        "ley-general-de-sociedades-mercantiles"
+      ],
+      "cross_reference_count": 52,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "institutional": 2,
+        "supletory": 10,
+        "generic_unresolved": 36,
+        "sanctioning": 2,
+        "implementation_operative": 1,
+        "fiscal_financial": 1
+      },
+      "review_priority_score": 61.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-organica-del-congreso-general-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 45,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "institutional": 13,
+        "generic_unresolved": 3,
+        "constitutional_grounding": 25,
+        "definitional": 1,
+        "procedural": 2,
+        "sanctioning": 1
+      },
+      "review_priority_score": 54.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "reglamento-de-la-camara-de-diputados"
+      ],
+      "cross_reference_count": 43,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "constitutional_grounding": 25,
+        "institutional": 6,
+        "implementation_operative": 6,
+        "sanctioning": 1,
+        "procedural": 5
+      },
+      "review_priority_score": 50.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "estatuto-de-gobierno-del-distrito-federal"
+      ],
+      "cross_reference_count": 42,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 36,
+        "institutional": 4,
+        "implementation_operative": 2
+      },
+      "review_priority_score": 46.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-civil-federal",
+        "constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 40,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 36,
+        "procedural": 2,
+        "sanctioning": 2
+      },
+      "review_priority_score": 44.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-de-proteccion-al-ahorro-bancario"
+      ],
+      "cross_reference_count": 34,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "generic_unresolved": 24,
+        "sanctioning": 1,
+        "definitional": 2,
+        "procedural": 5,
+        "supletory": 1,
+        "institutional": 1
+      },
+      "review_priority_score": 43.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-civil-federal",
+        "codigo-nacional-de-procedimientos-civiles-y-familiares"
+      ],
+      "cross_reference_count": 33,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "generic_unresolved": 23,
+        "procedural": 5,
+        "institutional": 5
+      },
+      "review_priority_score": 37.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 30,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "institutional": 4,
+        "constitutional_grounding": 18,
+        "procedural": 6,
+        "implementation_operative": 2
+      },
+      "review_priority_score": 36.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-del-seguro-social",
+        "ley-federal-del-trabajo"
+      ],
+      "cross_reference_count": 30,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "generic_unresolved": 21,
+        "definitional": 1,
+        "implementation_operative": 2,
+        "institutional": 3,
+        "procedural": 1,
+        "sanctioning": 2
+      },
+      "review_priority_score": 39.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-nacional-de-procedimientos-penales",
+        "constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 25,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "institutional": 3,
+        "constitutional_grounding": 16,
+        "procedural": 5,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 31.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-la-fiscalia-general-de-la-republica"
+      ],
+      "cross_reference_count": 25,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "constitutional_grounding": 11,
+        "institutional": 5,
+        "procedural": 5,
+        "definitional": 1,
+        "sanctioning": 3
+      },
+      "review_priority_score": 32.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-federal-del-trabajo"
+      ],
+      "cross_reference_count": 24,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 21,
+        "institutional": 1,
+        "implementation_operative": 1,
+        "sanctioning": 1
+      },
+      "review_priority_score": 30.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-fondos-de-inversion",
+        "ley-del-mercado-de-valores"
+      ],
+      "cross_reference_count": 24,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "implementation_operative": 1,
+        "definitional": 4,
+        "generic_unresolved": 13,
+        "institutional": 3,
+        "sanctioning": 2,
+        "procedural": 1
+      },
+      "review_priority_score": 33.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-militar-de-procedimientos-penales",
+        "constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 23,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 17,
+        "institutional": 2,
+        "sanctioning": 1,
+        "procedural": 3
+      },
+      "review_priority_score": 29.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes"
+      ],
+      "cross_reference_count": 22,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 20,
+        "sanctioning": 1,
+        "institutional": 1
+      },
+      "review_priority_score": 26.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-en-materia-de-telecomunicaciones-y-radiodifusion"
+      ],
+      "cross_reference_count": 21,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 11,
+        "institutional": 7,
+        "implementation_operative": 3
+      },
+      "review_priority_score": 25.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-instituciones-y-procedimientos-electorales",
+        "ley-general-de-partidos-politicos"
+      ],
+      "cross_reference_count": 21,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "generic_unresolved": 11,
+        "institutional": 5,
+        "fiscal_financial": 2,
+        "supletory": 1,
+        "sanctioning": 1,
+        "constitutional_grounding": 1
+      },
+      "review_priority_score": 30.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-ingresos-sobre-hidrocarburos",
+        "ley-del-sector-hidrocarburos"
+      ],
+      "cross_reference_count": 20,
+      "dependency_type_diversity": 7,
+      "type_breakdown": {
+        "constitutional_grounding": 1,
+        "generic_unresolved": 1,
+        "institutional": 7,
+        "implementation_operative": 1,
+        "fiscal_financial": 8,
+        "definitional": 1,
+        "procedural": 1
+      },
+      "review_priority_score": 30.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-educacion-superior"
+      ],
+      "cross_reference_count": 20,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 17,
+        "institutional": 2,
+        "procedural": 1
+      },
+      "review_priority_score": 24.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-educacion"
+      ],
+      "cross_reference_count": 20,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 16,
+        "institutional": 3,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 24.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-victimas"
+      ],
+      "cross_reference_count": 19,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 14,
+        "institutional": 4,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 23.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-vida-silvestre",
+        "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente"
+      ],
+      "cross_reference_count": 19,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "generic_unresolved": 13,
+        "institutional": 5,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 23.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-partidos-politicos"
+      ],
+      "cross_reference_count": 18,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 16,
+        "implementation_operative": 1,
+        "institutional": 1
+      },
+      "review_priority_score": 22.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "reglamento-para-el-gobierno-interior-del-congreso-general-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 18,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 10,
+        "institutional": 7,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 22.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion",
+        "ley-general-de-responsabilidades-administrativas"
+      ],
+      "cross_reference_count": 17,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "institutional": 4,
+        "fiscal_financial": 1,
+        "procedural": 4,
+        "generic_unresolved": 6,
+        "sanctioning": 2
+      },
+      "review_priority_score": 24.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-instituciones-de-seguros-y-de-fianzas"
+      ],
+      "cross_reference_count": 17,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 13,
+        "institutional": 1,
+        "procedural": 2,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 23.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-del-impuesto-al-valor-agregado",
+        "ley-del-impuesto-sobre-la-renta"
+      ],
+      "cross_reference_count": 17,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "fiscal_financial": 13,
+        "procedural": 1,
+        "definitional": 2,
+        "sanctioning": 1
+      },
+      "review_priority_score": 23.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-fiscal-de-la-federacion",
+        "ley-aduanera"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "institutional": 2,
+        "sanctioning": 1,
+        "procedural": 5,
+        "generic_unresolved": 2,
+        "fiscal_financial": 6
+      },
+      "review_priority_score": 23.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-aguas-nacionales",
+        "ley-general-del-equilibrio-ecologico-y-la-proteccion-al-ambiente"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "institutional": 5,
+        "procedural": 1,
+        "constitutional_grounding": 1,
+        "generic_unresolved": 7,
+        "implementation_operative": 2
+      },
+      "review_priority_score": 23.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-la-constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-organica-del-poder-judicial-de-la-federacion"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "institutional": 3,
+        "generic_unresolved": 1,
+        "constitutional_grounding": 8,
+        "procedural": 2,
+        "supletory": 2
+      },
+      "review_priority_score": 23.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-desarrollo-rural-sustentable"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 14,
+        "procedural": 1,
+        "institutional": 1
+      },
+      "review_priority_score": 20.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-fiscalizacion-y-rendicion-de-cuentas-de-la-federacion"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 8,
+        "procedural": 2,
+        "institutional": 3,
+        "implementation_operative": 3
+      },
+      "review_priority_score": 22.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-seguros-y-de-fianzas",
+        "ley-del-mercado-de-valores"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "generic_unresolved": 12,
+        "institutional": 4
+      },
+      "review_priority_score": 19.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-bienes-nacionales"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 13,
+        "procedural": 1,
+        "implementation_operative": 1,
+        "institutional": 1
+      },
+      "review_priority_score": 22.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-del-sistema-de-medios-de-impugnacion-en-materia-electoral"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 10,
+        "institutional": 1,
+        "implementation_operative": 2,
+        "procedural": 3
+      },
+      "review_priority_score": 22.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-nacional-de-ejecucion-penal"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 10,
+        "institutional": 4,
+        "implementation_operative": 1,
+        "sanctioning": 1
+      },
+      "review_priority_score": 22.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-organica-de-la-procuraduria-general-de-justicia-del-distrito-federal"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 13,
+        "institutional": 2,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 20.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-organica-del-banco-del-bienestar"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "generic_unresolved": 10,
+        "institutional": 5,
+        "procedural": 1
+      },
+      "review_priority_score": 20.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-responsabilidades-administrativas",
+        "ley-organica-del-poder-judicial-de-la-federacion"
+      ],
+      "cross_reference_count": 16,
+      "dependency_type_diversity": 7,
+      "type_breakdown": {
+        "fiscal_financial": 1,
+        "institutional": 3,
+        "generic_unresolved": 4,
+        "sanctioning": 4,
+        "constitutional_grounding": 2,
+        "procedural": 1,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 26.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-instituciones-de-credito"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "procedural": 1,
+        "institutional": 4,
+        "constitutional_grounding": 9,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 21.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-del-mercado-de-valores"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "generic_unresolved": 12,
+        "institutional": 3
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-general-de-titulos-y-operaciones-de-credito"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "generic_unresolved": 11,
+        "definitional": 1,
+        "procedural": 2,
+        "institutional": 1
+      },
+      "review_priority_score": 21.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-seguros-y-de-fianzas",
+        "ley-general-de-sociedades-mercantiles"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "generic_unresolved": 11,
+        "procedural": 1,
+        "supletory": 1,
+        "definitional": 1,
+        "institutional": 1
+      },
+      "review_priority_score": 22.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+        "ley-del-seguro-social"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "generic_unresolved": 12,
+        "institutional": 1,
+        "constitutional_grounding": 1,
+        "procedural": 1
+      },
+      "review_priority_score": 21.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-salud"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "constitutional_grounding": 12,
+        "institutional": 3
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-sociedades-mercantiles"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "sanctioning": 1,
+        "constitutional_grounding": 11,
+        "institutional": 2,
+        "procedural": 1
+      },
+      "review_priority_score": 21.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes"
+      ],
+      "cross_reference_count": 15,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "constitutional_grounding": 3,
+        "institutional": 2,
+        "implementation_operative": 2,
+        "generic_unresolved": 6,
+        "supletory": 1,
+        "procedural": 1
+      },
+      "review_priority_score": 24.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-sociedades-cooperativas",
+        "ley-para-regular-las-actividades-de-las-sociedades-cooperativas-de-ahorro-y-prestamo"
+      ],
+      "cross_reference_count": 14,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "definitional": 1,
+        "generic_unresolved": 9,
+        "institutional": 3,
+        "procedural": 1
+      },
+      "review_priority_score": 20.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-nacional-del-sistema-integral-de-justicia-penal-para-adolescentes"
+      ],
+      "cross_reference_count": 14,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "institutional": 2,
+        "constitutional_grounding": 7,
+        "implementation_operative": 1,
+        "sanctioning": 3,
+        "procedural": 1
+      },
+      "review_priority_score": 21.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-fiscal-de-la-federacion",
+        "ley-del-impuesto-especial-sobre-produccion-y-servicios"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "fiscal_financial": 9,
+        "institutional": 1,
+        "procedural": 1,
+        "sanctioning": 2
+      },
+      "review_priority_score": 19.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-penal-federal",
+        "constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "fiscal_financial": 1,
+        "sanctioning": 5,
+        "constitutional_grounding": 6,
+        "procedural": 1
+      },
+      "review_priority_score": 19.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-general-de-sociedades-mercantiles"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "generic_unresolved": 7,
+        "procedural": 2,
+        "definitional": 2,
+        "institutional": 2
+      },
+      "review_priority_score": 19.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-migracion"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "constitutional_grounding": 12,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 16.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 8,
+        "institutional": 4,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 17.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-de-titulos-y-operaciones-de-credito"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 11,
+        "implementation_operative": 1,
+        "definitional": 1
+      },
+      "review_priority_score": 17.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-general-del-sistema-nacional-de-seguridad-publica"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "constitutional_grounding": 9,
+        "institutional": 1,
+        "procedural": 1,
+        "implementation_operative": 1,
+        "fiscal_financial": 1
+      },
+      "review_priority_score": 20.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-salud",
+        "ley-general-para-el-control-del-tabaco"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "supletory": 1,
+        "generic_unresolved": 4,
+        "institutional": 4,
+        "sanctioning": 2,
+        "implementation_operative": 2
+      },
+      "review_priority_score": 20.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-organica-de-sociedad-hipotecaria-federal"
+      ],
+      "cross_reference_count": 13,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "institutional": 4,
+        "procedural": 1,
+        "generic_unresolved": 7,
+        "constitutional_grounding": 1
+      },
+      "review_priority_score": 19.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-aduanera",
+        "ley-del-impuesto-sobre-la-renta"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "fiscal_financial": 7,
+        "procedural": 2,
+        "institutional": 1,
+        "generic_unresolved": 2
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-fondos-de-inversion",
+        "ley-general-de-sociedades-mercantiles"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "supletory": 1,
+        "generic_unresolved": 9,
+        "sanctioning": 1,
+        "institutional": 1
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-de-instituciones-de-seguros-y-de-fianzas"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "generic_unresolved": 8,
+        "institutional": 3,
+        "procedural": 1
+      },
+      "review_priority_score": 16.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-la-empresa-publica-del-estado-comision-federal-de-electricidad"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 5,
+        "institutional": 6,
+        "sanctioning": 1
+      },
+      "review_priority_score": 16.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-migracion",
+        "ley-general-de-los-derechos-de-ninas-ninos-y-adolescentes"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "implementation_operative": 3,
+        "constitutional_grounding": 1,
+        "generic_unresolved": 5,
+        "institutional": 2,
+        "procedural": 1
+      },
+      "review_priority_score": 19.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-vivienda"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 7,
+        "implementation_operative": 2,
+        "institutional": 2,
+        "fiscal_financial": 1
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-del-instituto-del-fondo-nacional-de-la-vivienda-para-los-trabajadores",
+        "ley-del-seguro-social"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 1,
+      "type_breakdown": {
+        "generic_unresolved": 12
+      },
+      "review_priority_score": 13.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-educacion",
+        "ley-general-de-educacion-superior"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "generic_unresolved": 9,
+        "constitutional_grounding": 1,
+        "procedural": 1,
+        "sanctioning": 1
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-nacional-de-extincion-de-dominio"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 8,
+        "procedural": 2,
+        "sanctioning": 1,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-organica-de-la-administracion-publica-federal"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "constitutional_grounding": 7,
+        "fiscal_financial": 1,
+        "institutional": 1,
+        "implementation_operative": 2,
+        "procedural": 1
+      },
+      "review_priority_score": 19.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-reglamentaria-de-las-fracciones-i-y-ii-del-articulo-105-de-la-constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 12,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 6,
+        "implementation_operative": 3,
+        "sanctioning": 2,
+        "procedural": 1
+      },
+      "review_priority_score": 18.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-fiscal-de-la-federacion",
+        "ley-del-impuesto-al-valor-agregado"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "fiscal_financial": 9,
+        "procedural": 2
+      },
+      "review_priority_score": 14.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-nacional-de-procedimientos-civiles-y-familiares",
+        "constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 7,
+        "institutional": 1,
+        "procedural": 2,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 17.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-concursos-mercantiles"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 5,
+      "type_breakdown": {
+        "constitutional_grounding": 7,
+        "fiscal_financial": 1,
+        "definitional": 1,
+        "institutional": 1,
+        "procedural": 1
+      },
+      "review_priority_score": 18.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-coordinacion-fiscal",
+        "ley-general-de-contabilidad-gubernamental"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "fiscal_financial": 6,
+        "institutional": 4,
+        "sanctioning": 1
+      },
+      "review_priority_score": 15.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-coordinacion-fiscal",
+        "ley-federal-de-presupuesto-y-responsabilidad-hacendaria"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "sanctioning": 6,
+        "institutional": 1,
+        "fiscal_financial": 4
+      },
+      "review_priority_score": 15.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-la-empresa-publica-del-estado-petroleos-mexicanos"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 9,
+        "implementation_operative": 1,
+        "sanctioning": 1
+      },
+      "review_priority_score": 15.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-la-policia-federal"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "institutional": 1,
+        "constitutional_grounding": 10
+      },
+      "review_priority_score": 14.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-federal-de-competencia-economica"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "institutional": 3,
+        "constitutional_grounding": 7,
+        "procedural": 1
+      },
+      "review_priority_score": 15.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-federal-de-remuneraciones-de-los-servidores-publicos"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "constitutional_grounding": 5,
+        "institutional": 1,
+        "fiscal_financial": 2,
+        "definitional": 1,
+        "sanctioning": 1,
+        "procedural": 1
+      },
+      "review_priority_score": 20.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-general-en-materia-de-desaparicion-forzada-de-personas-desaparicion-cometida-por-particulares-y-del-sistema-nacional-de-busqueda-de-personas"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "supletory": 1,
+        "generic_unresolved": 5,
+        "institutional": 5
+      },
+      "review_priority_score": 15.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-responsabilidades-administrativas",
+        "ley-organica-del-tribunal-federal-de-justicia-administrativa"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "generic_unresolved": 6,
+        "implementation_operative": 2,
+        "sanctioning": 2,
+        "institutional": 1
+      },
+      "review_priority_score": 17.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-general-de-sociedades-mercantiles",
+        "ley-para-regular-las-agrupaciones-financieras"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "procedural": 1,
+        "generic_unresolved": 10
+      },
+      "review_priority_score": 14.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-reglamentaria-del-articulo-3o-de-la-constitucion-politica-de-los-estados-unidos-mexicanos-en-materia-de-mejora-continua-de-la-educacion"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "constitutional_grounding": 7,
+        "institutional": 4
+      },
+      "review_priority_score": 14.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2025"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "sanctioning": 9,
+        "institutional": 1,
+        "procedural": 1
+      },
+      "review_priority_score": 15.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-federal-de-presupuesto-y-responsabilidad-hacendaria",
+        "presupuesto-de-egresos-de-la-federacion-para-el-ejercicio-fiscal-2026"
+      ],
+      "cross_reference_count": 11,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "sanctioning": 9,
+        "institutional": 1,
+        "procedural": 1
+      },
+      "review_priority_score": 15.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-de-justicia-militar",
+        "constitucion-politica-de-los-estados-unidos-mexicanos"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "institutional": 2,
+        "constitutional_grounding": 8
+      },
+      "review_priority_score": 13.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-del-impuesto-sobre-la-renta"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "institutional": 1,
+        "fiscal_financial": 5,
+        "constitutional_grounding": 4
+      },
+      "review_priority_score": 14.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-instituciones-de-credito",
+        "ley-para-regular-las-agrupaciones-financieras"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "generic_unresolved": 9,
+        "institutional": 1
+      },
+      "review_priority_score": 13.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-la-comision-nacional-de-los-derechos-humanos"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 4,
+      "type_breakdown": {
+        "constitutional_grounding": 4,
+        "sanctioning": 1,
+        "supletory": 1,
+        "institutional": 4
+      },
+      "review_priority_score": 16.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "codigo-nacional-de-procedimientos-penales",
+        "ley-de-la-fiscalia-general-de-la-republica"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 6,
+      "type_breakdown": {
+        "definitional": 1,
+        "institutional": 3,
+        "sanctioning": 2,
+        "procedural": 1,
+        "generic_unresolved": 2,
+        "constitutional_grounding": 1
+      },
+      "review_priority_score": 19.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-de-la-guardia-nacional"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "implementation_operative": 2,
+        "constitutional_grounding": 8
+      },
+      "review_priority_score": 13.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-los-sistemas-de-ahorro-para-el-retiro",
+        "ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-trabajadores-del-estado"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "generic_unresolved": 7,
+        "institutional": 2,
+        "implementation_operative": 1
+      },
+      "review_priority_score": 14.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-de-navegacion-y-comercio-maritimos",
+        "ley-de-puertos"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 1,
+      "type_breakdown": {
+        "generic_unresolved": 10
+      },
+      "review_priority_score": 11.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-del-impuesto-sobre-la-renta",
+        "ley-del-mercado-de-valores"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "generic_unresolved": 7,
+        "institutional": 2,
+        "fiscal_financial": 1
+      },
+      "review_priority_score": 14.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-del-sector-electrico"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "constitutional_grounding": 7,
+        "institutional": 2,
+        "procedural": 1
+      },
+      "review_priority_score": 14.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "ley-del-sistema-nacional-de-investigacion-e-inteligencia-en-materia-de-seguridad-publica",
+        "ley-general-de-transparencia-y-acceso-a-la-informacion-publica"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 2,
+      "type_breakdown": {
+        "generic_unresolved": 9,
+        "institutional": 1
+      },
+      "review_priority_score": 13.0,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    },
+    {
+      "law_pair": [
+        "constitucion-politica-de-los-estados-unidos-mexicanos",
+        "ley-federal-de-presupuesto-y-responsabilidad-hacendaria"
+      ],
+      "cross_reference_count": 10,
+      "dependency_type_diversity": 3,
+      "type_breakdown": {
+        "fiscal_financial": 5,
+        "constitutional_grounding": 4,
+        "procedural": 1
+      },
+      "review_priority_score": 14.5,
+      "review_rationale": "Alta interacción y diversidad de tipos de dependencia; revisar armónicamente."
+    }
+  ],
+  "notes": [
+    "Lista orientada a revisión jurídica coordinada entre estatutos y reglamentos.",
+    "Puntaje no equivale a invalidez normativa; es una señal de coordinación potencial."
+  ]
+}
