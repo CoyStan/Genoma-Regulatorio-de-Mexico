@@ -116,3 +116,33 @@ def infer_corpus_layer(law_meta: dict) -> str:
     if any(token in full for token in ["decreto", "transitorio", "acuerdo"]):
         return "layer_2_change_layer"
     return "layer_3_interpretive_prepared"
+
+
+def classify_normative_instrument(name: str) -> str:
+    """
+    Classify instrument type for lawyer-facing ordering.
+    Returns one of:
+      constitutional_norm | regulation_norm | technical_norm | statute_law | other_instrument
+    """
+    n = (name or "").lower()
+    if "constituci" in n:
+        return "constitutional_norm"
+    if "reglamento" in n:
+        return "regulation_norm"
+    if "norma oficial mexicana" in n or n.startswith("nom-"):
+        return "technical_norm"
+    if "ley" in n or "código" in n:
+        return "statute_law"
+    return "other_instrument"
+
+
+def normative_priority(instrument_type: str) -> int:
+    """Lower value means higher display priority."""
+    order = {
+        "constitutional_norm": 0,
+        "regulation_norm": 1,
+        "technical_norm": 2,
+        "statute_law": 3,
+        "other_instrument": 4,
+    }
+    return order.get(instrument_type, 99)

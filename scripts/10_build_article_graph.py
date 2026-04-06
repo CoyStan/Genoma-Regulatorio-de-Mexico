@@ -7,10 +7,15 @@ Output:
 """
 
 import json
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT))
+
+from scripts.utils.dependency_taxonomy import classify_normative_instrument, normative_priority
+
 CITATIONS_DIR = ROOT / "data" / "citations"
 DEPENDENCIES_PATH = ROOT / "data" / "dependencies" / "dependencies.json"
 GRAPH_DIR = ROOT / "data" / "graph"
@@ -109,10 +114,21 @@ def main():
       "weight": in_degree[nid] + out_degree[nid],
     })
 
-  law_catalog = [
-    {"id": law_id, "name": law_names.get(law_id, law_id), "short": law_id[:18]}
-    for law_id, _ in by_law_count.most_common()
-  ]
+  law_catalog = []
+  for law_id, count in by_law_count.items():
+    law_name = law_names.get(law_id, law_id)
+    instrument_type = classify_normative_instrument(law_name)
+    law_catalog.append({
+      "id": law_id,
+      "name": law_name,
+      "short": law_id[:18],
+      "instrument_type": instrument_type,
+      "priority": normative_priority(instrument_type),
+      "article_nodes": count,
+    })
+
+  # Put normas (constitucionales/reglamentarias/técnicas) on top of leyes in selector lists.
+  law_catalog.sort(key=lambda x: (x["priority"], -x["article_nodes"], x["name"]))
 
   payload = {
     "nodes": nodes,

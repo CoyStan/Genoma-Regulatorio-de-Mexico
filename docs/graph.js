@@ -225,10 +225,18 @@ function fillLawSelector(catalog) {
   while (el.lawSelect.options.length > 1) el.lawSelect.remove(1);
   while (el.focusLawSelect.options.length > 1) el.focusLawSelect.remove(1);
 
+  const orderedCatalog = [...catalog].sort((a, b) => {
+    const pa = Number.isFinite(a.priority) ? a.priority : 99;
+    const pb = Number.isFinite(b.priority) ? b.priority : 99;
+    if (pa !== pb) return pa - pb;
+    return (a.name || "").localeCompare((b.name || ""), "es");
+  });
+
   const fragA = document.createDocumentFragment();
   const fragB = document.createDocumentFragment();
-  catalog.forEach((law) => {
-    const text = `${law.short || law.id} · ${law.name}`;
+  orderedCatalog.forEach((law) => {
+    const normPrefix = (law.instrument_type && law.instrument_type !== "statute_law") ? "[NORMA] " : "";
+    const text = `${normPrefix}${law.short || law.id} · ${law.name}`;
     const optA = document.createElement("option");
     optA.value = law.id;
     optA.textContent = text;
