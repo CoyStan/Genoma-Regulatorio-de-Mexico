@@ -117,6 +117,7 @@ def resolve_from_corpus(raw_name: str) -> dict:
             "confidence": "high",
             "matched_alias": cleaned,
             "score": 1.0,
+            "resolution_method": "exact_corpus",
         }
 
     # Fuzzy match
@@ -137,9 +138,16 @@ def resolve_from_corpus(raw_name: str) -> dict:
             "confidence": confidence,
             "matched_alias": best_alias,
             "score": best_score,
+            "resolution_method": "fuzzy_corpus",
         }
 
-    return {"law_id": None, "confidence": "unresolved", "matched_alias": None, "score": best_score}
+    return {
+        "law_id": None,
+        "confidence": "unresolved",
+        "matched_alias": None,
+        "score": best_score,
+        "resolution_method": "unresolved",
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -168,10 +176,24 @@ def resolve_cached(raw_name: str) -> dict:
                 "confidence": "high",
                 "matched_alias": lower,
                 "score": 1.0,
+                "resolution_method": "manual_override",
             }
         else:
             # 2. lookup.py (48 hardcoded laws)
             result = resolve_law_name(raw_name)
+            # Make strategy explicit for observability.
+            if result.get("law_id"):
+                if result.get("score") == 1.0 and result.get("matched_alias", "").lower() == lower:
+                    method = "exact_alias"
+                elif result.get("score") == 1.0 and len(result.get("matched_alias", "")) <= 12:
+                    method = "acronym_alias"
+                elif result.get("score", 0) >= 0.75:
+                    method = "fuzzy_alias"
+                else:
+                    method = "partial_alias"
+            else:
+                method = "unresolved"
+            result["resolution_method"] = method
             # Fall through to corpus when lookup.py is low-confidence OR medium-confidence.
             # Medium fuzzy matches in lookup.py (48 laws) can be wrong — e.g.
             # "Ley General de Desarrollo Social" fuzzy-matches LGSM because they
@@ -223,6 +245,7 @@ def resolve_citations_file(citations_path: Path) -> tuple[int, int, int]:
         citation["resolution_confidence"] = result["confidence"]
         citation["resolution_score"] = result["score"]
         citation["resolution_matched_alias"] = result["matched_alias"]
+        citation["resolution_method"] = result.get("resolution_method", "unresolved")
 
         if result["law_id"]:
             resolved += 1
@@ -256,6 +279,7 @@ def build_resolution_report(all_citations: list[dict]) -> dict:
 
     # Resolution confidence distribution
     confidence_dist = Counter(c.get("resolution_confidence", "unresolved") for c in all_citations)
+    method_dist = Counter(c.get("resolution_method", "unresolved") for c in all_citations)
 
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -264,6 +288,7 @@ def build_resolution_report(all_citations: list[dict]) -> dict:
         "unresolved": len(unresolved),
         "resolution_rate": round(len(resolved) / total, 4) if total > 0 else 0,
         "by_confidence": dict(confidence_dist),
+        "by_resolution_method": dict(method_dist),
         "top_cited_laws": [
             {
                 "law_id": law_id,
