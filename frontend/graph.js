@@ -1,6 +1,11 @@
 "use strict";
 
 const CONFIG = {
+  workflowReports: {
+    reformImpactPaths: ["./data/dependencies/reform_impact_report.json", "../data/dependencies/reform_impact_report.json"],
+    definitionTracePaths: ["./data/dependencies/definition_trace_report.json", "../data/dependencies/definition_trace_report.json"],
+    fragilityPaths: ["./data/dependencies/reference_fragility_report.json", "../data/dependencies/reference_fragility_report.json"],
+  },
   articleGraphPaths: ["./data/graph/article_graph.json", "../data/graph/article_graph.json"],
   maxHighlights: 6,
   defaultVisibleNodes: 2500,
@@ -29,6 +34,7 @@ const el = {
   edges: document.getElementById("stat-edges"),
   laws: document.getElementById("stat-laws"),
   loading: document.getElementById("loading"),
+  workflowSummary: document.getElementById("workflow-summary"),
   empty: document.getElementById("empty"),
   tooltip: document.getElementById("tooltip"),
   lawSelect: document.getElementById("law-select"),
@@ -108,10 +114,11 @@ function renderGraph(data) {
         state.selectedNode = null;
         refreshColors();
       })
-      .d3Force("charge").strength(-42)
-      .d3Force("link").distance(20)
       .cooldownTicks(120)
       .warmupTicks(30);
+
+    state.fg.d3Force("charge").strength(-42);
+    state.fg.d3Force("link").distance(20);
 
     state.fg.controls().enableDamping = true;
     state.fg.controls().dampingFactor = 0.08;
@@ -131,6 +138,7 @@ function scheduleRebuild() {
   state.rebuildTimer = setTimeout(() => {
     state.rebuildTimer = null;
     rebuildAndRender();
+    loadWorkflowSummary();
   }, 180);
 }
 
@@ -215,10 +223,18 @@ function fillLawSelector(catalog) {
   while (el.lawSelect.options.length > 1) el.lawSelect.remove(1);
   while (el.focusLawSelect.options.length > 1) el.focusLawSelect.remove(1);
 
+  const orderedCatalog = [...catalog].sort((a, b) => {
+    const pa = Number.isFinite(a.priority) ? a.priority : 99;
+    const pb = Number.isFinite(b.priority) ? b.priority : 99;
+    if (pa !== pb) return pa - pb;
+    return (a.name || "").localeCompare((b.name || ""), "es");
+  });
+
   const fragA = document.createDocumentFragment();
   const fragB = document.createDocumentFragment();
-  catalog.forEach((law) => {
-    const text = `${law.short || law.id} · ${law.name}`;
+  orderedCatalog.forEach((law) => {
+    const normPrefix = (law.instrument_type && law.instrument_type !== "statute_law") ? "[NORMA] " : "";
+    const text = `${normPrefix}${law.short || law.id} · ${law.name}`;
     const optA = document.createElement("option");
     optA.value = law.id;
     optA.textContent = text;
@@ -294,6 +310,36 @@ function setupSearch() {
   });
 }
 
+
+async function loadWorkflowSummary() {
+  if (!el.workflowSummary) return;
+
+  const read = async (paths) => {
+    for (const p of paths) {
+      try {
+        const res = await fetch(p);
+        if (res.ok) return await res.json();
+      } catch (_) {}
+    }
+    return null;
+  };
+
+  const reform = await read(CONFIG.workflowReports.reformImpactPaths);
+  const defs = await read(CONFIG.workflowReports.definitionTracePaths);
+  const frag = await read(CONFIG.workflowReports.fragilityPaths);
+
+  const topImpact = reform?.top_reform_impact_laws?.[0];
+  const topDef = defs?.definition_dependency_targets?.[0];
+
+  el.workflowSummary.innerHTML = `
+    <h2>Resumen analítico</h2>
+    <p><strong>Impacto de reforma:</strong> ${topImpact ? `${topImpact.law_id} (score ${topImpact.spillover_score})` : "sin datos aún"}</p>
+    <p><strong>Trazabilidad de definiciones:</strong> ${topDef ? `${topDef.law_id} (${topDef.dependent_count} dependencias)` : "sin datos aún"}</p>
+    <p><strong>Referencias frágiles:</strong> ${frag?.unresolved_reference_count ?? "—"} no resueltas</p>
+    <p class="hint">Corre scripts 14-18 para poblar esta sección.</p>
+  `;
+}
+
 async function loadRealData() {
   try {
     let data = null;
@@ -312,6 +358,7 @@ async function loadRealData() {
     fillLawSelector(data.law_catalog || []);
     el.loading.classList.add("hidden");
     rebuildAndRender();
+    loadWorkflowSummary();
   } catch {
     el.loading.classList.add("hidden");
     el.empty.classList.remove("hidden");
@@ -379,6 +426,7 @@ function bindUI() {
       state.rebuildTimer = null;
     }
     rebuildAndRender();
+    loadWorkflowSummary();
   });
 
   el.loadDemo.addEventListener("click", () => {
@@ -386,6 +434,7 @@ function bindUI() {
     state.fullGraph = demoData();
     fillLawSelector(state.fullGraph.law_catalog || []);
     rebuildAndRender();
+    loadWorkflowSummary();
   });
 }
 

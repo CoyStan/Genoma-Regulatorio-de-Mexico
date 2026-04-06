@@ -84,3 +84,25 @@ button:hover { border-color: var(--accent); color: var(--accent); }
 .search-results div:hover { background: #f3f8ff; }
 .legend ul { margin: 6px 0 0 16px; padding: 0; color: var(--muted); font-size: 12px; }
 .sr-only { position: absolute; left: -9999px; }
+
+.workflow-summary {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  max-width: 340px;
+  background: rgba(255,255,255,0.92);
+  border: 1px solid #d6e1ef;
+  border-radius: 10px;
+  padding: 10px 12px;
+  color: #274060;
+  font-size: 13px;
+  line-height: 1.35;
+  z-index: 11;
+}
+.workflow-summary h2 {
+  margin: 0 0 8px;
+  font-size: 14px;
+}
+.workflow-summary p {
+  margin: 4px 0;
+}

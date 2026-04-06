@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-11_simplification_report.py — Identify laws that could be removed, merged, or reformed
-to reduce complexity in the Mexican federal legal system.
+11_simplification_report.py — Exploratory simplification layer (secondary use).
 
 Reads:  data/graph/graph.json
         data/graph/diagnostics.json
@@ -9,6 +8,8 @@ Reads:  data/graph/graph.json
 
 Writes: data/graph/simplification.json
         data/graph/simplification_report.md
+        data/graph/policy_exploratory_simplification.json
+        data/graph/policy_exploratory_simplification.md
 """
 
 import json
@@ -359,7 +360,7 @@ def generate_report(summary, removal, mergers, reform, def_conflicts):
         "- **Score de complejidad** (reforma): suma dependencias circulares × 15 + conflictos de definición × 20.",
         "- Fuente: red de 318 leyes federales, 4,534 aristas, 10,844 citas totales.",
         "",
-        "_Este análisis es exploratorio. Toda decisión de abrogación o fusión requiere revisión jurídica experta._",
+        "_Este análisis es exploratorio/experimental y secundario respecto a trazabilidad de dependencias. Toda decisión de abrogación o fusión requiere revisión jurídica experta._",
     ]
 
     return "\n".join(lines)
@@ -404,6 +405,17 @@ def main():
     with open(out_md, "w", encoding="utf-8") as f:
         f.write(report)
     print(f"Saved: {out_md}")
+
+    # Alternate naming to make secondary status explicit for product framing.
+    exploratory_json = GRAPH_DIR / "policy_exploratory_simplification.json"
+    with open(exploratory_json, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+    print(f"Saved: {exploratory_json}")
+
+    exploratory_md = GRAPH_DIR / "policy_exploratory_simplification.md"
+    with open(exploratory_md, "w", encoding="utf-8") as f:
+        f.write(report)
+    print(f"Saved: {exploratory_md}")
 
     print("\n=== Summary ===")
     for k, v in summary.items():
