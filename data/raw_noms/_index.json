@@ -1,0 +1,5522 @@
+{
+  "NOM-018-NUCL-2025": {
+    "codp": 9700,
+    "nom_code": "NOM-018-NUCL-2025",
+    "nom_id": "nom-018-nucl-2025",
+    "title": "NOM-018-NUCL-2025",
+    "ministry": "NUCL",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9700&view=si",
+    "scraped_at": "2026-04-06T23:22:24.829906+00:00"
+  },
+  "NOM-016-SEMARNAT-2013": {
+    "codp": 5039,
+    "nom_code": "NOM-016-SEMARNAT-2013",
+    "nom_id": "nom-016-semarnat-2013",
+    "title": "NOM-016-SEMARNAT-2013",
+    "ministry": "SEMARNAT",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5039&view=si",
+    "scraped_at": "2026-04-06T20:20:34.301252+00:00"
+  },
+  "NOM-164-SSA1-2013": {
+    "codp": 5148,
+    "nom_code": "NOM-164-SSA1-2013",
+    "nom_id": "nom-164-ssa1-2013",
+    "title": "NOM-164-SSA1-2013",
+    "ministry": "SSA1",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5148&view=si",
+    "scraped_at": "2026-04-06T20:24:49.705155+00:00"
+  },
+  "NOM-059-SSA1-2013": {
+    "codp": 5384,
+    "nom_code": "NOM-059-SSA1-2013",
+    "nom_id": "nom-059-ssa1-2013",
+    "title": "NOM-059-SSA1-2013",
+    "ministry": "SSA1",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5384&view=si",
+    "scraped_at": "2026-04-06T20:34:02.124916+00:00"
+  },
+  "NOM-008-SCT2-2013": {
+    "codp": 5238,
+    "nom_code": "NOM-008-SCT2-2013",
+    "nom_id": "nom-008-sct2-2013",
+    "title": "NOM-008-SCT2-2013",
+    "ministry": "SCT2",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5238&view=si",
+    "scraped_at": "2026-04-06T20:28:20.785528+00:00"
+  },
+  "NOM-024-SCFI-2013": {
+    "codp": 5178,
+    "nom_code": "NOM-024-SCFI-2013",
+    "nom_id": "nom-024-scfi-2013",
+    "title": "NOM-024-SCFI-2013",
+    "ministry": "SCFI",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5178&view=si",
+    "scraped_at": "2026-04-06T20:25:59.996190+00:00"
+  },
+  "NOM-041-NUCL-2013": {
+    "codp": 5107,
+    "nom_code": "NOM-041-NUCL-2013",
+    "nom_id": "nom-041-nucl-2013",
+    "title": "NOM-041-NUCL-2013",
+    "ministry": "NUCL",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5107&view=si",
+    "scraped_at": "2026-04-06T20:23:13.808164+00:00"
+  },
+  "NOM-257-SSA1-2013": {
+    "codp": 5517,
+    "nom_code": "NOM-257-SSA1-2013",
+    "nom_id": "nom-257-ssa1-2013",
+    "title": "NOM-257-SSA1-2013",
+    "ministry": "SSA1",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5517&view=si",
+    "scraped_at": "2026-04-06T20:39:14.010700+00:00"
+  },
+  "NOM-177-SSA1-2013": {
+    "codp": 9349,
+    "nom_code": "NOM-177-SSA1-2013",
+    "nom_id": "nom-177-ssa1-2013",
+    "title": "NOM-177-SSA1-2013",
+    "ministry": "SSA1",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9349&view=si",
+    "scraped_at": "2026-04-06T23:08:42.832969+00:00"
+  },
+  "NOM-210-SSA1-2013": {
+    "codp": 5651,
+    "nom_code": "NOM-210-SSA1-2013",
+    "nom_id": "nom-210-ssa1-2013",
+    "title": "NOM-210-SSA1-2013",
+    "ministry": "SSA1",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5651&view=si",
+    "scraped_at": "2026-04-06T20:44:27.693827+00:00"
+  },
+  "NOM-004-NUCL-2013": {
+    "codp": 5114,
+    "nom_code": "NOM-004-NUCL-2013",
+    "nom_id": "nom-004-nucl-2013",
+    "title": "NOM-004-NUCL-2013",
+    "ministry": "NUCL",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5114&view=si",
+    "scraped_at": "2026-04-06T20:23:30.131225+00:00"
+  },
+  "NOM-035-NUCL-2013": {
+    "codp": 5115,
+    "nom_code": "NOM-035-NUCL-2013",
+    "nom_id": "nom-035-nucl-2013",
+    "title": "NOM-035-NUCL-2013",
+    "ministry": "NUCL",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5115&view=si",
+    "scraped_at": "2026-04-06T20:23:32.511670+00:00"
+  },
+  "NOM-032-ENER-2013": {
+    "codp": 5298,
+    "nom_code": "NOM-032-ENER-2013",
+    "nom_id": "nom-032-ener-2013",
+    "title": "NOM-032-ENER-2013",
+    "ministry": "ENER",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5298&view=si",
+    "scraped_at": "2026-04-06T20:30:40.997469+00:00"
+  },
+  "NOM-160-SCFI-2013": {
+    "codp": 5449,
+    "nom_code": "NOM-160-SCFI-2013",
+    "nom_id": "nom-160-scfi-2013",
+    "title": "NOM-160-SCFI-2013",
+    "ministry": "SCFI",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5449&view=si",
+    "scraped_at": "2026-04-06T20:36:34.971047+00:00"
+  },
+  "NOM-004-SSA1-2013": {
+    "codp": 5362,
+    "nom_code": "NOM-004-SSA1-2013",
+    "nom_id": "nom-004-ssa1-2013",
+    "title": "NOM-004-SSA1-2013",
+    "ministry": "SSA1",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5362&view=si",
+    "scraped_at": "2026-04-06T20:33:10.200467+00:00"
+  },
+  "NOM-013-ENER-2013": {
+    "codp": 5262,
+    "nom_code": "NOM-013-ENER-2013",
+    "nom_id": "nom-013-ener-2013",
+    "title": "NOM-013-ENER-2013",
+    "ministry": "ENER",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5262&view=si",
+    "scraped_at": "2026-04-06T20:29:16.949778+00:00"
+  },
+  "NOM-025-ENER-2013": {
+    "codp": 5141,
+    "nom_code": "NOM-025-ENER-2013",
+    "nom_id": "nom-025-ener-2013",
+    "title": "NOM-025-ENER-2013",
+    "ministry": "ENER",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5141&view=si",
+    "scraped_at": "2026-04-06T20:24:33.378281+00:00"
+  },
+  "NOM-008-STPS-2013": {
+    "codp": 5236,
+    "nom_code": "NOM-008-STPS-2013",
+    "nom_id": "nom-008-stps-2013",
+    "title": "NOM-008-STPS-2013",
+    "ministry": "STPS",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5236&view=si",
+    "scraped_at": "2026-04-06T20:28:16.104306+00:00"
+  },
+  "NOM-090-SCFI-2013": {
+    "codp": 5392,
+    "nom_code": "NOM-090-SCFI-2013",
+    "nom_id": "nom-090-scfi-2013",
+    "title": "NOM-090-SCFI-2013",
+    "ministry": "SCFI",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5392&view=si",
+    "scraped_at": "2026-04-06T20:34:20.811959+00:00"
+  },
+  "NOM-009-ENER-2013": {
+    "codp": 5403,
+    "nom_code": "NOM-009-ENER-2013",
+    "nom_id": "nom-009-ener-2013",
+    "title": "NOM-009-ENER-2013",
+    "ministry": "ENER",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5403&view=si",
+    "scraped_at": "2026-04-06T20:34:46.542153+00:00"
+  },
+  "NOM-019-SSA3-2013": {
+    "codp": 5196,
+    "nom_code": "NOM-019-SSA3-2013",
+    "nom_id": "nom-019-ssa3-2013",
+    "title": "NOM-019-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5196&view=si",
+    "scraped_at": "2026-04-06T20:26:42.315222+00:00"
+  },
+  "NOM-027-SSA3-2013": {
+    "codp": 5199,
+    "nom_code": "NOM-027-SSA3-2013",
+    "nom_id": "nom-027-ssa3-2013",
+    "title": "NOM-027-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5199&view=si",
+    "scraped_at": "2026-04-06T20:26:49.344641+00:00"
+  },
+  "NOM-030-SSA3-2013": {
+    "codp": 5210,
+    "nom_code": "NOM-030-SSA3-2013",
+    "nom_id": "nom-030-ssa3-2013",
+    "title": "NOM-030-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5210&view=si",
+    "scraped_at": "2026-04-06T20:27:15.034640+00:00"
+  },
+  "NOM-025-SSA3-2013": {
+    "codp": 5212,
+    "nom_code": "NOM-025-SSA3-2013",
+    "nom_id": "nom-025-ssa3-2013",
+    "title": "NOM-025-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5212&view=si",
+    "scraped_at": "2026-04-06T20:27:19.705622+00:00"
+  },
+  "NOM-001-SESH-2013": {
+    "codp": 5445,
+    "nom_code": "NOM-001-SESH-2013",
+    "nom_id": "nom-001-sesh-2013",
+    "title": "NOM-001-SESH-2013",
+    "ministry": "SESH",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5445&view=si",
+    "scraped_at": "2026-04-06T20:36:25.502067+00:00"
+  },
+  "NOM-014-SESH-2013": {
+    "codp": 5226,
+    "nom_code": "NOM-014-SESH-2013",
+    "nom_id": "nom-014-sesh-2013",
+    "title": "NOM-014-SESH-2013",
+    "ministry": "SESH",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5226&view=si",
+    "scraped_at": "2026-04-06T20:27:52.661983+00:00"
+  },
+  "NOM-015-SESH-2013": {
+    "codp": 5227,
+    "nom_code": "NOM-015-SESH-2013",
+    "nom_id": "nom-015-sesh-2013",
+    "title": "NOM-015-SESH-2013",
+    "ministry": "SESH",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5227&view=si",
+    "scraped_at": "2026-04-06T20:27:54.958648+00:00"
+  },
+  "NOM-033-SCT4-2013": {
+    "codp": 5324,
+    "nom_code": "NOM-033-SCT4-2013",
+    "nom_id": "nom-033-sct4-2013",
+    "title": "NOM-033-SCT4-2013",
+    "ministry": "SCT4",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5324&view=si",
+    "scraped_at": "2026-04-06T20:31:41.642544+00:00"
+  },
+  "NOM-006-SSA2-2013": {
+    "codp": 5249,
+    "nom_code": "NOM-006-SSA2-2013",
+    "nom_id": "nom-006-ssa2-2013",
+    "title": "NOM-006-SSA2-2013",
+    "ministry": "SSA2",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5249&view=si",
+    "scraped_at": "2026-04-06T20:28:46.434377+00:00"
+  },
+  "NOM-001-NUCL-2013": {
+    "codp": 8450,
+    "nom_code": "NOM-001-NUCL-2013",
+    "nom_id": "nom-001-nucl-2013",
+    "title": "NOM-001-NUCL-2013",
+    "ministry": "NUCL",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8450&view=si",
+    "scraped_at": "2026-04-06T22:33:39.857973+00:00"
+  },
+  "NOM-009-SSA2-2013": {
+    "codp": 5267,
+    "nom_code": "NOM-009-SSA2-2013",
+    "nom_id": "nom-009-ssa2-2013",
+    "title": "NOM-009-SSA2-2013",
+    "ministry": "SSA2",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5267&view=si",
+    "scraped_at": "2026-04-06T20:29:28.571770+00:00"
+  },
+  "NOM-015-SECRE-2013": {
+    "codp": 5270,
+    "nom_code": "NOM-015-SECRE-2013",
+    "nom_id": "nom-015-secre-2013",
+    "title": "NOM-015-SECRE-2013",
+    "ministry": "SECRE",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5270&view=si",
+    "scraped_at": "2026-04-06T20:29:35.609795+00:00"
+  },
+  "NOM-193-SCFI-2013": {
+    "codp": 5551,
+    "nom_code": "NOM-193-SCFI-2013",
+    "nom_id": "nom-193-scfi-2013",
+    "title": "NOM-193-SCFI-2013",
+    "ministry": "SCFI",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5551&view=si",
+    "scraped_at": "2026-04-06T20:40:33.620003+00:00"
+  },
+  "NOM-001-ENER-2013": {
+    "codp": 5402,
+    "nom_code": "NOM-001-ENER-2013",
+    "nom_id": "nom-001-ener-2013",
+    "title": "NOM-001-ENER-2013",
+    "ministry": "ENER",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5402&view=si",
+    "scraped_at": "2026-04-06T20:34:44.208463+00:00"
+  },
+  "NOM-004-ENER-2013": {
+    "codp": 5285,
+    "nom_code": "NOM-004-ENER-2013",
+    "nom_id": "nom-004-ener-2013",
+    "title": "NOM-004-ENER-2013",
+    "ministry": "ENER",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5285&view=si",
+    "scraped_at": "2026-04-06T20:30:10.630539+00:00"
+  },
+  "NOM-016-SESH-2013": {
+    "codp": 5287,
+    "nom_code": "NOM-016-SESH-2013",
+    "nom_id": "nom-016-sesh-2013",
+    "title": "NOM-016-SESH-2013",
+    "ministry": "SESH",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5287&view=si",
+    "scraped_at": "2026-04-06T20:30:15.238072+00:00"
+  },
+  "NOM-017-SESH-2013": {
+    "codp": 5288,
+    "nom_code": "NOM-017-SESH-2013",
+    "nom_id": "nom-017-sesh-2013",
+    "title": "NOM-017-SESH-2013",
+    "ministry": "SESH",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5288&view=si",
+    "scraped_at": "2026-04-06T20:30:17.616603+00:00"
+  },
+  "NOM-165-SEMARNAT-2013": {
+    "codp": 5302,
+    "nom_code": "NOM-165-SEMARNAT-2013",
+    "nom_id": "nom-165-semarnat-2013",
+    "title": "NOM-165-SEMARNAT-2013",
+    "ministry": "SEMARNAT",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5302&view=si",
+    "scraped_at": "2026-04-06T20:30:50.284799+00:00"
+  },
+  "NOM-003-SCFI-2013": {
+    "codp": 5688,
+    "nom_code": "NOM-003-SCFI-2013",
+    "nom_id": "nom-003-scfi-2013",
+    "title": "NOM-003-SCFI-2013",
+    "ministry": "SCFI",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5688&view=si",
+    "scraped_at": "2026-04-06T20:45:54.317639+00:00"
+  },
+  "NOM-007-ENER-2013": {
+    "codp": 5406,
+    "nom_code": "NOM-007-ENER-2013",
+    "nom_id": "nom-007-ener-2013",
+    "title": "NOM-007-ENER-2013",
+    "ministry": "ENER",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5406&view=si",
+    "scraped_at": "2026-04-06T20:34:53.567012+00:00"
+  },
+  "NOM-201-SSA1-2013": {
+    "codp": 5860,
+    "nom_code": "NOM-201-SSA1-2013",
+    "nom_id": "nom-201-ssa1-2013",
+    "title": "NOM-201-SSA1-2013",
+    "ministry": "SSA1",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5860&view=si",
+    "scraped_at": "2026-04-06T20:52:36.850961+00:00"
+  },
+  "NOM-137-SEMARNAT-2013": {
+    "codp": 5318,
+    "nom_code": "NOM-137-SEMARNAT-2013",
+    "nom_id": "nom-137-semarnat-2013",
+    "title": "NOM-137-SEMARNAT-2013",
+    "ministry": "SEMARNAT",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5318&view=si",
+    "scraped_at": "2026-04-06T20:31:27.673238+00:00"
+  },
+  "NOM-002-SCT4-2013": {
+    "codp": 5323,
+    "nom_code": "NOM-002-SCT4-2013",
+    "nom_id": "nom-002-sct4-2013",
+    "title": "NOM-002-SCT4-2013",
+    "ministry": "SCT4",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5323&view=si",
+    "scraped_at": "2026-04-06T20:31:39.328518+00:00"
+  },
+  "NOM-166-SEMARNAT-2014": {
+    "codp": 5569,
+    "nom_code": "NOM-166-SEMARNAT-2014",
+    "nom_id": "nom-166-semarnat-2014",
+    "title": "NOM-166-SEMARNAT-2014",
+    "ministry": "SEMARNAT",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5569&view=si",
+    "scraped_at": "2026-04-06T20:41:15.853175+00:00"
+  },
+  "NOM-010-STPS-2014": {
+    "codp": 5395,
+    "nom_code": "NOM-010-STPS-2014",
+    "nom_id": "nom-010-stps-2014",
+    "title": "NOM-010-STPS-2014",
+    "ministry": "STPS",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5395&view=si",
+    "scraped_at": "2026-04-06T20:34:27.911958+00:00"
+  },
+  "NOM-020-SSA1-2014": {
+    "codp": 5451,
+    "nom_code": "NOM-020-SSA1-2014",
+    "nom_id": "nom-020-ssa1-2014",
+    "title": "NOM-020-SSA1-2014",
+    "ministry": "SSA1",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5451&view=si",
+    "scraped_at": "2026-04-06T20:36:39.566677+00:00"
+  },
+  "NOM-025-SSA1-2014": {
+    "codp": 5453,
+    "nom_code": "NOM-025-SSA1-2014",
+    "nom_id": "nom-025-ssa1-2014",
+    "title": "NOM-025-SSA1-2014",
+    "ministry": "SSA1",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5453&view=si",
+    "scraped_at": "2026-04-06T20:36:44.233461+00:00"
+  },
+  "NOM-117-SCT3-2013": {
+    "codp": 6649,
+    "nom_code": "NOM-117-SCT3-2013",
+    "nom_id": "nom-117-sct3-2013",
+    "title": "NOM-117-SCT3-2013",
+    "ministry": "SCT3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6649&view=si",
+    "scraped_at": "2026-04-06T21:23:23.713290+00:00"
+  },
+  "NOM-034-SSA2-2013": {
+    "codp": 5396,
+    "nom_code": "NOM-034-SSA2-2013",
+    "nom_id": "nom-034-ssa2-2013",
+    "title": "NOM-034-SSA2-2013",
+    "ministry": "SSA2",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5396&view=si",
+    "scraped_at": "2026-04-06T20:34:30.236457+00:00"
+  },
+  "NOM-090-SCFI-2014": {
+    "codp": 5702,
+    "nom_code": "NOM-090-SCFI-2014",
+    "nom_id": "nom-090-scfi-2014",
+    "title": "NOM-090-SCFI-2014",
+    "ministry": "SCFI",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5702&view=si",
+    "scraped_at": "2026-04-06T20:46:27.076782+00:00"
+  },
+  "NOM-006-ENER-2014": {
+    "codp": 5652,
+    "nom_code": "NOM-006-ENER-2014",
+    "nom_id": "nom-006-ener-2014",
+    "title": "NOM-006-ENER-2014",
+    "ministry": "ENER",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5652&view=si",
+    "scraped_at": "2026-04-06T20:44:30.049270+00:00"
+  },
+  "NOM-039-SSA2-2014": {
+    "codp": 6857,
+    "nom_code": "NOM-039-SSA2-2014",
+    "nom_id": "nom-039-ssa2-2014",
+    "title": "NOM-039-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6857&view=si",
+    "scraped_at": "2026-04-06T21:31:29.799900+00:00"
+  },
+  "NOM-047-SSA2-2014": {
+    "codp": 5759,
+    "nom_code": "NOM-047-SSA2-2014",
+    "nom_id": "nom-047-ssa2-2014",
+    "title": "NOM-047-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5759&view=si",
+    "scraped_at": "2026-04-06T20:48:40.317187+00:00"
+  },
+  "NOM-009-SSA3-2013": {
+    "codp": 5438,
+    "nom_code": "NOM-009-SSA3-2013",
+    "nom_id": "nom-009-ssa3-2013",
+    "title": "NOM-009-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5438&view=si",
+    "scraped_at": "2026-04-06T20:36:08.826507+00:00"
+  },
+  "NOM-001-ENER-2014": {
+    "codp": 5436,
+    "nom_code": "NOM-001-ENER-2014",
+    "nom_id": "nom-001-ener-2014",
+    "title": "NOM-001-ENER-2014",
+    "ministry": "ENER",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5436&view=si",
+    "scraped_at": "2026-04-06T20:36:04.119883+00:00"
+  },
+  "NOM-007-ENER-2014": {
+    "codp": 5437,
+    "nom_code": "NOM-007-ENER-2014",
+    "nom_id": "nom-007-ener-2014",
+    "title": "NOM-007-ENER-2014",
+    "ministry": "ENER",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5437&view=si",
+    "scraped_at": "2026-04-06T20:36:06.468620+00:00"
+  },
+  "NOM-009-ENER-2014": {
+    "codp": 5439,
+    "nom_code": "NOM-009-ENER-2014",
+    "nom_id": "nom-009-ener-2014",
+    "title": "NOM-009-ENER-2014",
+    "ministry": "ENER",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5439&view=si",
+    "scraped_at": "2026-04-06T20:36:11.141566+00:00"
+  },
+  "NOM-250-SSA1-2014": {
+    "codp": 7487,
+    "nom_code": "NOM-250-SSA1-2014",
+    "nom_id": "nom-250-ssa1-2014",
+    "title": "NOM-250-SSA1-2014",
+    "ministry": "SSA1",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7487&view=si",
+    "scraped_at": "2026-04-06T21:56:06.914670+00:00"
+  },
+  "NOM-032-SSA2-2014": {
+    "codp": 5661,
+    "nom_code": "NOM-032-SSA2-2014",
+    "nom_id": "nom-032-ssa2-2014",
+    "title": "NOM-032-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5661&view=si",
+    "scraped_at": "2026-04-06T20:44:51.051646+00:00"
+  },
+  "NOM-160-SCFI-2014": {
+    "codp": 7362,
+    "nom_code": "NOM-160-SCFI-2014",
+    "nom_id": "nom-160-scfi-2014",
+    "title": "NOM-160-SCFI-2014",
+    "ministry": "SCFI",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7362&view=si",
+    "scraped_at": "2026-04-06T21:51:14.179775+00:00"
+  },
+  "NOM-037-SSA3-2013": {
+    "codp": 6410,
+    "nom_code": "NOM-037-SSA3-2013",
+    "nom_id": "nom-037-ssa3-2013",
+    "title": "NOM-037-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6410&view=si",
+    "scraped_at": "2026-04-06T21:14:04.556821+00:00"
+  },
+  "NOM-006-STPS-2014": {
+    "codp": 6884,
+    "nom_code": "NOM-006-STPS-2014",
+    "nom_id": "nom-006-stps-2014",
+    "title": "NOM-006-STPS-2014",
+    "ministry": "STPS",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6884&view=si",
+    "scraped_at": "2026-04-06T21:32:32.770289+00:00"
+  },
+  "NOM-034-SSA3-2013": {
+    "codp": 5473,
+    "nom_code": "NOM-034-SSA3-2013",
+    "nom_id": "nom-034-ssa3-2013",
+    "title": "NOM-034-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5473&view=si",
+    "scraped_at": "2026-04-06T20:37:31.048633+00:00"
+  },
+  "NOM-002-SECRE-2014": {
+    "codp": 5608,
+    "nom_code": "NOM-002-SECRE-2014",
+    "nom_id": "nom-002-secre-2014",
+    "title": "NOM-002-SECRE-2014",
+    "ministry": "SECRE",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5608&view=si",
+    "scraped_at": "2026-04-06T20:42:46.985393+00:00"
+  },
+  "NOM-004-ENER-2014": {
+    "codp": 5476,
+    "nom_code": "NOM-004-ENER-2014",
+    "nom_id": "nom-004-ener-2014",
+    "title": "NOM-004-ENER-2014",
+    "ministry": "ENER",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5476&view=si",
+    "scraped_at": "2026-04-06T20:37:38.040783+00:00"
+  },
+  "NOM-001-SESH-2014": {
+    "codp": 5497,
+    "nom_code": "NOM-001-SESH-2014",
+    "nom_id": "nom-001-sesh-2014",
+    "title": "NOM-001-SESH-2014",
+    "ministry": "SESH",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5497&view=si",
+    "scraped_at": "2026-04-06T20:38:27.210526+00:00"
+  },
+  "NOM-033-STPS-2014": {
+    "codp": 5681,
+    "nom_code": "NOM-033-STPS-2014",
+    "nom_id": "nom-033-stps-2014",
+    "title": "NOM-033-STPS-2014",
+    "ministry": "STPS",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5681&view=si",
+    "scraped_at": "2026-04-06T20:45:37.949702+00:00"
+  },
+  "NOM-018-STPS-2014": {
+    "codp": 5510,
+    "nom_code": "NOM-018-STPS-2014",
+    "nom_id": "nom-018-stps-2014",
+    "title": "NOM-018-STPS-2014",
+    "ministry": "STPS",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5510&view=si",
+    "scraped_at": "2026-04-06T20:38:57.615026+00:00"
+  },
+  "NOM-014-SSA3-2013": {
+    "codp": 5511,
+    "nom_code": "NOM-014-SSA3-2013",
+    "nom_id": "nom-014-ssa3-2013",
+    "title": "NOM-014-SSA3-2013",
+    "ministry": "SSA3",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5511&view=si",
+    "scraped_at": "2026-04-06T20:38:59.938188+00:00"
+  },
+  "NOM-036-SSA2-2014": {
+    "codp": 5515,
+    "nom_code": "NOM-036-SSA2-2014",
+    "nom_id": "nom-036-ssa2-2014",
+    "title": "NOM-036-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5515&view=si",
+    "scraped_at": "2026-04-06T20:39:09.291198+00:00"
+  },
+  "NOM-047-SEMARNAT-2014": {
+    "codp": 5518,
+    "nom_code": "NOM-047-SEMARNAT-2014",
+    "nom_id": "nom-047-semarnat-2014",
+    "title": "NOM-047-SEMARNAT-2014",
+    "ministry": "SEMARNAT",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5518&view=si",
+    "scraped_at": "2026-04-06T20:39:16.362871+00:00"
+  },
+  "NOM-013-SSA2-2014": {
+    "codp": 6214,
+    "nom_code": "NOM-013-SSA2-2014",
+    "nom_id": "nom-013-ssa2-2014",
+    "title": "NOM-013-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6214&view=si",
+    "scraped_at": "2026-04-06T21:06:26.237382+00:00"
+  },
+  "NOM-011-SSA3-2014": {
+    "codp": 5539,
+    "nom_code": "NOM-011-SSA3-2014",
+    "nom_id": "nom-011-ssa3-2014",
+    "title": "NOM-011-SSA3-2014",
+    "ministry": "SSA3",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5539&view=si",
+    "scraped_at": "2026-04-06T20:40:05.668547+00:00"
+  },
+  "NOM-257-SSA1-2014": {
+    "codp": 5543,
+    "nom_code": "NOM-257-SSA1-2014",
+    "nom_id": "nom-257-ssa1-2014",
+    "title": "NOM-257-SSA1-2014",
+    "ministry": "SSA1",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5543&view=si",
+    "scraped_at": "2026-04-06T20:40:15.034817+00:00"
+  },
+  "NOM-195-SCFI-2014": {
+    "codp": 5555,
+    "nom_code": "NOM-195-SCFI-2014",
+    "nom_id": "nom-195-scfi-2014",
+    "title": "NOM-195-SCFI-2014",
+    "ministry": "SCFI",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5555&view=si",
+    "scraped_at": "2026-04-06T20:40:43.055281+00:00"
+  },
+  "NOM-193-SCFI-2014": {
+    "codp": 5566,
+    "nom_code": "NOM-193-SCFI-2014",
+    "nom_id": "nom-193-scfi-2014",
+    "title": "NOM-193-SCFI-2014",
+    "ministry": "SCFI",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5566&view=si",
+    "scraped_at": "2026-04-06T20:41:08.760094+00:00"
+  },
+  "NOM-007-NUCL-2014": {
+    "codp": 5616,
+    "nom_code": "NOM-007-NUCL-2014",
+    "nom_id": "nom-007-nucl-2014",
+    "title": "NOM-007-NUCL-2014",
+    "ministry": "NUCL",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5616&view=si",
+    "scraped_at": "2026-04-06T20:43:05.670242+00:00"
+  },
+  "NOM-259-SSA1-2014": {
+    "codp": 9141,
+    "nom_code": "NOM-259-SSA1-2014",
+    "nom_id": "nom-259-ssa1-2014",
+    "title": "NOM-259-SSA1-2014",
+    "ministry": "SSA1",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9141&view=si",
+    "scraped_at": "2026-04-06T23:00:36.800106+00:00"
+  },
+  "NOM-194-SCFI-2014": {
+    "codp": 5975,
+    "nom_code": "NOM-194-SCFI-2014",
+    "nom_id": "nom-194-scfi-2014",
+    "title": "NOM-194-SCFI-2014",
+    "ministry": "SCFI",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5975&view=si",
+    "scraped_at": "2026-04-06T20:57:06.256886+00:00"
+  },
+  "NOM-073-SSA1-2014": {
+    "codp": 6008,
+    "nom_code": "NOM-073-SSA1-2014",
+    "nom_id": "nom-073-ssa1-2014",
+    "title": "NOM-073-SSA1-2014",
+    "ministry": "SSA1",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6008&view=si",
+    "scraped_at": "2026-04-06T20:58:23.885948+00:00"
+  },
+  "NOM-007-SECRE-2015": {
+    "codp": 5823,
+    "nom_code": "NOM-007-SECRE-2015",
+    "nom_id": "nom-007-secre-2015",
+    "title": "NOM-007-SECRE-2015",
+    "ministry": "SECRE",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5823&view=si",
+    "scraped_at": "2026-04-06T20:51:09.918107+00:00"
+  },
+  "NOM-011-CONAGUA-2015": {
+    "codp": 5633,
+    "nom_code": "NOM-011-CONAGUA-2015",
+    "nom_id": "nom-011-conagua-2015",
+    "title": "NOM-011-CONAGUA-2015",
+    "ministry": "CONAGUA",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5633&view=si",
+    "scraped_at": "2026-04-06T20:43:45.445301+00:00"
+  },
+  "NOM-005-SCFI-2015": {
+    "codp": 7343,
+    "nom_code": "NOM-005-SCFI-2015",
+    "nom_id": "nom-005-scfi-2015",
+    "title": "NOM-005-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7343&view=si",
+    "scraped_at": "2026-04-06T21:50:29.521236+00:00"
+  },
+  "NOM-185-SCFI-2015": {
+    "codp": 7282,
+    "nom_code": "NOM-185-SCFI-2015",
+    "nom_id": "nom-185-scfi-2015",
+    "title": "NOM-185-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7282&view=si",
+    "scraped_at": "2026-04-06T21:48:06.705355+00:00"
+  },
+  "NOM-010-SCFI-2014": {
+    "codp": 5675,
+    "nom_code": "NOM-010-SCFI-2014",
+    "nom_id": "nom-010-scfi-2014",
+    "title": "NOM-010-SCFI-2014",
+    "ministry": "SCFI",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5675&view=si",
+    "scraped_at": "2026-04-06T20:45:23.740773+00:00"
+  },
+  "NOM-006-ENER-2015": {
+    "codp": 5692,
+    "nom_code": "NOM-006-ENER-2015",
+    "nom_id": "nom-006-ener-2015",
+    "title": "NOM-006-ENER-2015",
+    "ministry": "ENER",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5692&view=si",
+    "scraped_at": "2026-04-06T20:46:03.692191+00:00"
+  },
+  "NOM-003-SCFI-2014": {
+    "codp": 5700,
+    "nom_code": "NOM-003-SCFI-2014",
+    "nom_id": "nom-003-scfi-2014",
+    "title": "NOM-003-SCFI-2014",
+    "ministry": "SCFI",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5700&view=si",
+    "scraped_at": "2026-04-06T20:46:22.338724+00:00"
+  },
+  "NOM-041-SEMARNAT-2015": {
+    "codp": 5835,
+    "nom_code": "NOM-041-SEMARNAT-2015",
+    "nom_id": "nom-041-semarnat-2015",
+    "title": "NOM-041-SEMARNAT-2015",
+    "ministry": "SEMARNAT",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5835&view=si",
+    "scraped_at": "2026-04-06T20:51:38.078340+00:00"
+  },
+  "NOM-210-SSA1-2014": {
+    "codp": 8773,
+    "nom_code": "NOM-210-SSA1-2014",
+    "nom_id": "nom-210-ssa1-2014",
+    "title": "NOM-210-SSA1-2014",
+    "ministry": "SSA1",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8773&view=si",
+    "scraped_at": "2026-04-06T22:46:15.855992+00:00"
+  },
+  "NOM-086-SCT2-2014": {
+    "codp": 5938,
+    "nom_code": "NOM-086-SCT2-2014",
+    "nom_id": "nom-086-sct2-2014",
+    "title": "NOM-086-SCT2-2014",
+    "ministry": "SCT2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5938&view=si",
+    "scraped_at": "2026-04-06T20:55:39.306097+00:00"
+  },
+  "NOM-026-ENER-2015": {
+    "codp": 5914,
+    "nom_code": "NOM-026-ENER-2015",
+    "nom_id": "nom-026-ener-2015",
+    "title": "NOM-026-ENER-2015",
+    "ministry": "ENER",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5914&view=si",
+    "scraped_at": "2026-04-06T20:54:43.163784+00:00"
+  },
+  "NOM-047-SSA2-2015": {
+    "codp": 5817,
+    "nom_code": "NOM-047-SSA2-2015",
+    "nom_id": "nom-047-ssa2-2015",
+    "title": "NOM-047-SSA2-2015",
+    "ministry": "SSA2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5817&view=si",
+    "scraped_at": "2026-04-06T20:50:55.783873+00:00"
+  },
+  "NOM-006-SEGOB-2015": {
+    "codp": 6429,
+    "nom_code": "NOM-006-SEGOB-2015",
+    "nom_id": "nom-006-segob-2015",
+    "title": "NOM-006-SEGOB-2015",
+    "ministry": "SEGOB",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6429&view=si",
+    "scraped_at": "2026-04-06T21:14:48.982972+00:00"
+  },
+  "NOM-033-STPS-2015": {
+    "codp": 5800,
+    "nom_code": "NOM-033-STPS-2015",
+    "nom_id": "nom-033-stps-2015",
+    "title": "NOM-033-STPS-2015",
+    "ministry": "STPS",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5800&view=si",
+    "scraped_at": "2026-04-06T20:50:15.952472+00:00"
+  },
+  "NOM-025-SSA2-2014": {
+    "codp": 5805,
+    "nom_code": "NOM-025-SSA2-2014",
+    "nom_id": "nom-025-ssa2-2014",
+    "title": "NOM-025-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5805&view=si",
+    "scraped_at": "2026-04-06T20:50:27.645194+00:00"
+  },
+  "NOM-059-SSA1-2015": {
+    "codp": 9495,
+    "nom_code": "NOM-059-SSA1-2015",
+    "nom_id": "nom-059-ssa1-2015",
+    "title": "NOM-059-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9495&view=si",
+    "scraped_at": "2026-04-06T23:14:25.114065+00:00"
+  },
+  "NOM-164-SSA1-2015": {
+    "codp": 5910,
+    "nom_code": "NOM-164-SSA1-2015",
+    "nom_id": "nom-164-ssa1-2015",
+    "title": "NOM-164-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5910&view=si",
+    "scraped_at": "2026-04-06T20:54:33.846258+00:00"
+  },
+  "NOM-040-NUCL-2015": {
+    "codp": 6036,
+    "nom_code": "NOM-040-NUCL-2015",
+    "nom_id": "nom-040-nucl-2015",
+    "title": "NOM-040-NUCL-2015",
+    "ministry": "NUCL",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6036&view=si",
+    "scraped_at": "2026-04-06T20:59:29.341496+00:00"
+  },
+  "NOM-018-STPS-2015": {
+    "codp": 5853,
+    "nom_code": "NOM-018-STPS-2015",
+    "nom_id": "nom-018-stps-2015",
+    "title": "NOM-018-STPS-2015",
+    "ministry": "STPS",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5853&view=si",
+    "scraped_at": "2026-04-06T20:52:20.223891+00:00"
+  },
+  "NOM-012-TUR-2014": {
+    "codp": 6025,
+    "nom_code": "NOM-012-TUR-2014",
+    "nom_id": "nom-012-tur-2014",
+    "title": "NOM-012-TUR-2014",
+    "ministry": "TUR",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6025&view=si",
+    "scraped_at": "2026-04-06T20:59:03.674930+00:00"
+  },
+  "NOM-002-NUCL-2015": {
+    "codp": 5842,
+    "nom_code": "NOM-002-NUCL-2015",
+    "nom_id": "nom-002-nucl-2015",
+    "title": "NOM-002-NUCL-2015",
+    "ministry": "NUCL",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5842&view=si",
+    "scraped_at": "2026-04-06T20:51:54.467768+00:00"
+  },
+  "NOM-034-STPS-2015": {
+    "codp": 5951,
+    "nom_code": "NOM-034-STPS-2015",
+    "nom_id": "nom-034-stps-2015",
+    "title": "NOM-034-STPS-2015",
+    "ministry": "STPS",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5951&view=si",
+    "scraped_at": "2026-04-06T20:56:09.710273+00:00"
+  },
+  "NOM-008-SEGOB-2015": {
+    "codp": 6087,
+    "nom_code": "NOM-008-SEGOB-2015",
+    "nom_id": "nom-008-segob-2015",
+    "title": "NOM-008-SEGOB-2015",
+    "ministry": "SEGOB",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6087&view=si",
+    "scraped_at": "2026-04-06T21:01:29.372133+00:00"
+  },
+  "NOM-031-SSA2-2014": {
+    "codp": 5861,
+    "nom_code": "NOM-031-SSA2-2014",
+    "nom_id": "nom-031-ssa2-2014",
+    "title": "NOM-031-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5861&view=si",
+    "scraped_at": "2026-04-06T20:52:39.187229+00:00"
+  },
+  "NOM-080-SCFI-2015": {
+    "codp": 6330,
+    "nom_code": "NOM-080-SCFI-2015",
+    "nom_id": "nom-080-scfi-2015",
+    "title": "NOM-080-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6330&view=si",
+    "scraped_at": "2026-04-06T21:10:57.397238+00:00"
+  },
+  "NOM-231-SSA1-2015": {
+    "codp": 6161,
+    "nom_code": "NOM-231-SSA1-2015",
+    "nom_id": "nom-231-ssa1-2015",
+    "title": "NOM-231-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6161&view=si",
+    "scraped_at": "2026-04-06T21:04:22.117494+00:00"
+  },
+  "NOM-036-SCFI-2015": {
+    "codp": 6309,
+    "nom_code": "NOM-036-SCFI-2015",
+    "nom_id": "nom-036-scfi-2015",
+    "title": "NOM-036-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6309&view=si",
+    "scraped_at": "2026-04-06T21:10:07.815761+00:00"
+  },
+  "NOM-002-SAGARPA-2015": {
+    "codp": 6212,
+    "nom_code": "NOM-002-SAGARPA-2015",
+    "nom_id": "nom-002-sagarpa-2015",
+    "title": "NOM-002-SAGARPA-2015",
+    "ministry": "SAGARPA",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6212&view=si",
+    "scraped_at": "2026-04-06T21:06:21.621399+00:00"
+  },
+  "NOM-036-SSA3-2015": {
+    "codp": 7104,
+    "nom_code": "NOM-036-SSA3-2015",
+    "nom_id": "nom-036-ssa3-2015",
+    "title": "NOM-036-SSA3-2015",
+    "ministry": "SSA3",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7104&view=si",
+    "scraped_at": "2026-04-06T21:41:08.985269+00:00"
+  },
+  "NOM-003-SAGARPA-2015": {
+    "codp": 6170,
+    "nom_code": "NOM-003-SAGARPA-2015",
+    "nom_id": "nom-003-sagarpa-2015",
+    "title": "NOM-003-SAGARPA-2015",
+    "ministry": "SAGARPA",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6170&view=si",
+    "scraped_at": "2026-04-06T21:04:43.174963+00:00"
+  },
+  "NOM-201-SSA1-2015": {
+    "codp": 5880,
+    "nom_code": "NOM-201-SSA1-2015",
+    "nom_id": "nom-201-ssa1-2015",
+    "title": "NOM-201-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5880&view=si",
+    "scraped_at": "2026-04-06T20:53:23.660311+00:00"
+  },
+  "NOM-125-SSA1-2015": {
+    "codp": 6417,
+    "nom_code": "NOM-125-SSA1-2015",
+    "nom_id": "nom-125-ssa1-2015",
+    "title": "NOM-125-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6417&view=si",
+    "scraped_at": "2026-04-06T21:14:20.842956+00:00"
+  },
+  "NOM-029-SSA2-2014": {
+    "codp": 9449,
+    "nom_code": "NOM-029-SSA2-2014",
+    "nom_id": "nom-029-ssa2-2014",
+    "title": "NOM-029-SSA2-2014",
+    "ministry": "SSA2",
+    "year": 2014,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9449&view=si",
+    "scraped_at": "2026-04-06T23:12:37.652508+00:00"
+  },
+  "NOM-006-SCT4-2015": {
+    "codp": 5898,
+    "nom_code": "NOM-006-SCT4-2015",
+    "nom_id": "nom-006-sct4-2015",
+    "title": "NOM-006-SCT4-2015",
+    "ministry": "SCT4",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5898&view=si",
+    "scraped_at": "2026-04-06T20:54:05.637475+00:00"
+  },
+  "NOM-133-SEMARNAT-2015": {
+    "codp": 5927,
+    "nom_code": "NOM-133-SEMARNAT-2015",
+    "nom_id": "nom-133-semarnat-2015",
+    "title": "NOM-133-SEMARNAT-2015",
+    "ministry": "SEMARNAT",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5927&view=si",
+    "scraped_at": "2026-04-06T20:55:13.380395+00:00"
+  },
+  "NOM-199-SCFI-2015": {
+    "codp": 6797,
+    "nom_code": "NOM-199-SCFI-2015",
+    "nom_id": "nom-199-scfi-2015",
+    "title": "NOM-199-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6797&view=si",
+    "scraped_at": "2026-04-06T21:29:09.649287+00:00"
+  },
+  "NOM-070-SCFI-2015": {
+    "codp": 6415,
+    "nom_code": "NOM-070-SCFI-2015",
+    "nom_id": "nom-070-scfi-2015",
+    "title": "NOM-070-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6415&view=si",
+    "scraped_at": "2026-04-06T21:14:16.256858+00:00"
+  },
+  "NOM-022-STPS-2015": {
+    "codp": 6006,
+    "nom_code": "NOM-022-STPS-2015",
+    "nom_id": "nom-022-stps-2015",
+    "title": "NOM-022-STPS-2015",
+    "ministry": "STPS",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6006&view=si",
+    "scraped_at": "2026-04-06T20:58:19.200706+00:00"
+  },
+  "NOM-007-SSA2-2016": {
+    "codp": 5950,
+    "nom_code": "NOM-007-SSA2-2016",
+    "nom_id": "nom-007-ssa2-2016",
+    "title": "NOM-007-SSA2-2016",
+    "ministry": "SSA2",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5950&view=si",
+    "scraped_at": "2026-04-06T20:56:07.399931+00:00"
+  },
+  "NOM-196-SCFI-2015": {
+    "codp": 6198,
+    "nom_code": "NOM-196-SCFI-2015",
+    "nom_id": "nom-196-scfi-2015",
+    "title": "NOM-196-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6198&view=si",
+    "scraped_at": "2026-04-06T21:05:48.919380+00:00"
+  },
+  "NOM-036-SCT2-2015": {
+    "codp": 5953,
+    "nom_code": "NOM-036-SCT2-2015",
+    "nom_id": "nom-036-sct2-2015",
+    "title": "NOM-036-SCT2-2015",
+    "ministry": "SCT2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5953&view=si",
+    "scraped_at": "2026-04-06T20:56:14.401018+00:00"
+  },
+  "NOM-114-SCFI-2015": {
+    "codp": 6316,
+    "nom_code": "NOM-114-SCFI-2015",
+    "nom_id": "nom-114-scfi-2015",
+    "title": "NOM-114-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6316&view=si",
+    "scraped_at": "2026-04-06T21:10:24.111689+00:00"
+  },
+  "NOM-146-SCFI-2015": {
+    "codp": 6354,
+    "nom_code": "NOM-146-SCFI-2015",
+    "nom_id": "nom-146-scfi-2015",
+    "title": "NOM-146-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6354&view=si",
+    "scraped_at": "2026-04-06T21:11:53.568826+00:00"
+  },
+  "NOM-203-SCFI-2015": {
+    "codp": 5964,
+    "nom_code": "NOM-203-SCFI-2015",
+    "nom_id": "nom-203-scfi-2015",
+    "title": "NOM-203-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5964&view=si",
+    "scraped_at": "2026-04-06T20:56:40.186530+00:00"
+  },
+  "NOM-179-SCFI-2015": {
+    "codp": 6667,
+    "nom_code": "NOM-179-SCFI-2015",
+    "nom_id": "nom-179-scfi-2015",
+    "title": "NOM-179-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6667&view=si",
+    "scraped_at": "2026-04-06T21:24:05.722854+00:00"
+  },
+  "NOM-138-SSA1-2015": {
+    "codp": 6511,
+    "nom_code": "NOM-138-SSA1-2015",
+    "nom_id": "nom-138-ssa1-2015",
+    "title": "NOM-138-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6511&view=si",
+    "scraped_at": "2026-04-06T21:18:00.692347+00:00"
+  },
+  "NOM-159-SSA1-2015": {
+    "codp": 6888,
+    "nom_code": "NOM-159-SSA1-2015",
+    "nom_id": "nom-159-ssa1-2015",
+    "title": "NOM-159-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6888&view=si",
+    "scraped_at": "2026-04-06T21:32:42.090052+00:00"
+  },
+  "NOM-005-ENER-2016": {
+    "codp": 6241,
+    "nom_code": "NOM-005-ENER-2016",
+    "nom_id": "nom-005-ener-2016",
+    "title": "NOM-005-ENER-2016",
+    "ministry": "ENER",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6241&view=si",
+    "scraped_at": "2026-04-06T21:07:29.331083+00:00"
+  },
+  "NOM-016-ENER-2016": {
+    "codp": 6242,
+    "nom_code": "NOM-016-ENER-2016",
+    "nom_id": "nom-016-ener-2016",
+    "title": "NOM-016-ENER-2016",
+    "ministry": "ENER",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6242&view=si",
+    "scraped_at": "2026-04-06T21:07:31.672286+00:00"
+  },
+  "NOM-151-SCFI-2015": {
+    "codp": 6488,
+    "nom_code": "NOM-151-SCFI-2015",
+    "nom_id": "nom-151-scfi-2015",
+    "title": "NOM-151-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6488&view=si",
+    "scraped_at": "2026-04-06T21:17:07.166203+00:00"
+  },
+  "NOM-194-SCFI-2015": {
+    "codp": 5999,
+    "nom_code": "NOM-194-SCFI-2015",
+    "nom_id": "nom-194-scfi-2015",
+    "title": "NOM-194-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=5999&view=si",
+    "scraped_at": "2026-04-06T20:58:02.599468+00:00"
+  },
+  "NOM-016-CRE-2016": {
+    "codp": 8357,
+    "nom_code": "NOM-016-CRE-2016",
+    "nom_id": "nom-016-cre-2016",
+    "title": "NOM-016-CRE-2016",
+    "ministry": "CRE",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8357&view=si",
+    "scraped_at": "2026-04-06T22:30:02.288895+00:00"
+  },
+  "NOM-005-ASEA-2016": {
+    "codp": 6221,
+    "nom_code": "NOM-005-ASEA-2016",
+    "nom_id": "nom-005-asea-2016",
+    "title": "NOM-005-ASEA-2016",
+    "ministry": "ASEA",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6221&view=si",
+    "scraped_at": "2026-04-06T21:06:42.749648+00:00"
+  },
+  "NOM-020-SCT4-2013": {
+    "codp": 6030,
+    "nom_code": "NOM-020-SCT4-2013",
+    "nom_id": "nom-020-sct4-2013",
+    "title": "NOM-020-SCT4-2013",
+    "ministry": "SCT4",
+    "year": 2013,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6030&view=si",
+    "scraped_at": "2026-04-06T20:59:15.311772+00:00"
+  },
+  "NOM-033-NUCL-2015": {
+    "codp": 6034,
+    "nom_code": "NOM-033-NUCL-2015",
+    "nom_id": "nom-033-nucl-2015",
+    "title": "NOM-033-NUCL-2015",
+    "ministry": "NUCL",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6034&view=si",
+    "scraped_at": "2026-04-06T20:59:24.658290+00:00"
+  },
+  "NOM-073-SSA1-2015": {
+    "codp": 6039,
+    "nom_code": "NOM-073-SSA1-2015",
+    "nom_id": "nom-073-ssa1-2015",
+    "title": "NOM-073-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6039&view=si",
+    "scraped_at": "2026-04-06T20:59:36.453370+00:00"
+  },
+  "NOM-012-CONAGUA-2015": {
+    "codp": 9465,
+    "nom_code": "NOM-012-CONAGUA-2015",
+    "nom_id": "nom-012-conagua-2015",
+    "title": "NOM-012-CONAGUA-2015",
+    "ministry": "CONAGUA",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9465&view=si",
+    "scraped_at": "2026-04-06T23:13:15.108080+00:00"
+  },
+  "NOM-086-SCT2-2015": {
+    "codp": 6056,
+    "nom_code": "NOM-086-SCT2-2015",
+    "nom_id": "nom-086-sct2-2015",
+    "title": "NOM-086-SCT2-2015",
+    "ministry": "SCT2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6056&view=si",
+    "scraped_at": "2026-04-06T21:00:16.439684+00:00"
+  },
+  "NOM-009-SEGOB-2015": {
+    "codp": 9420,
+    "nom_code": "NOM-009-SEGOB-2015",
+    "nom_id": "nom-009-segob-2015",
+    "title": "NOM-009-SEGOB-2015",
+    "ministry": "SEGOB",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9420&view=si",
+    "scraped_at": "2026-04-06T23:11:29.974105+00:00"
+  },
+  "NOM-034-STPS-2016": {
+    "codp": 6065,
+    "nom_code": "NOM-034-STPS-2016",
+    "nom_id": "nom-034-stps-2016",
+    "title": "NOM-034-STPS-2016",
+    "ministry": "STPS",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6065&view=si",
+    "scraped_at": "2026-04-06T21:00:37.903305+00:00"
+  },
+  "NOM-030-ENER-2016": {
+    "codp": 6353,
+    "nom_code": "NOM-030-ENER-2016",
+    "nom_id": "nom-030-ener-2016",
+    "title": "NOM-030-ENER-2016",
+    "ministry": "ENER",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6353&view=si",
+    "scraped_at": "2026-04-06T21:11:51.231950+00:00"
+  },
+  "NOM-014-CRE-2016": {
+    "codp": 6516,
+    "nom_code": "NOM-014-CRE-2016",
+    "nom_id": "nom-014-cre-2016",
+    "title": "NOM-014-CRE-2016",
+    "ministry": "CRE",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6516&view=si",
+    "scraped_at": "2026-04-06T21:18:12.401795+00:00"
+  },
+  "NOM-048-SSA2-2016": {
+    "codp": 6856,
+    "nom_code": "NOM-048-SSA2-2016",
+    "nom_id": "nom-048-ssa2-2016",
+    "title": "NOM-048-SSA2-2016",
+    "ministry": "SSA2",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6856&view=si",
+    "scraped_at": "2026-04-06T21:31:27.485604+00:00"
+  },
+  "NOM-033-NUCL-2016": {
+    "codp": 6082,
+    "nom_code": "NOM-033-NUCL-2016",
+    "nom_id": "nom-033-nucl-2016",
+    "title": "NOM-033-NUCL-2016",
+    "ministry": "NUCL",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6082&view=si",
+    "scraped_at": "2026-04-06T21:01:17.759236+00:00"
+  },
+  "NOM-040-NUCL-2016": {
+    "codp": 6083,
+    "nom_code": "NOM-040-NUCL-2016",
+    "nom_id": "nom-040-nucl-2016",
+    "title": "NOM-040-NUCL-2016",
+    "ministry": "NUCL",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6083&view=si",
+    "scraped_at": "2026-04-06T21:01:20.101601+00:00"
+  },
+  "NOM-191-SCFI-2015": {
+    "codp": 6085,
+    "nom_code": "NOM-191-SCFI-2015",
+    "nom_id": "nom-191-scfi-2015",
+    "title": "NOM-191-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6085&view=si",
+    "scraped_at": "2026-04-06T21:01:24.711195+00:00"
+  },
+  "NOM-025-SCT2-2015": {
+    "codp": 6104,
+    "nom_code": "NOM-025-SCT2-2015",
+    "nom_id": "nom-025-sct2-2015",
+    "title": "NOM-025-SCT2-2015",
+    "ministry": "SCT2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6104&view=si",
+    "scraped_at": "2026-04-06T21:02:09.050570+00:00"
+  },
+  "NOM-050-SCT2-2015": {
+    "codp": 6105,
+    "nom_code": "NOM-050-SCT2-2015",
+    "nom_id": "nom-050-sct2-2015",
+    "title": "NOM-050-SCT2-2015, PROYECTO de Norma Oficial Mexicana",
+    "ministry": "SCT2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6105&view=si",
+    "scraped_at": "2026-04-06T21:02:11.406776+00:00"
+  },
+  "NOM-055-SCT2-2015": {
+    "codp": 6106,
+    "nom_code": "NOM-055-SCT2-2015",
+    "nom_id": "nom-055-sct2-2015",
+    "title": "NOM-055-SCT2-2015",
+    "ministry": "SCT2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6106&view=si",
+    "scraped_at": "2026-04-06T21:02:13.749180+00:00"
+  },
+  "NOM-056-SCT2-2015": {
+    "codp": 6107,
+    "nom_code": "NOM-056-SCT2-2015",
+    "nom_id": "nom-056-sct2-2015",
+    "title": "NOM-056-SCT2-2015",
+    "ministry": "SCT2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6107&view=si",
+    "scraped_at": "2026-04-06T21:02:16.128899+00:00"
+  },
+  "NOM-012-TUR-2016": {
+    "codp": 6108,
+    "nom_code": "NOM-012-TUR-2016",
+    "nom_id": "nom-012-tur-2016",
+    "title": "NOM-012-TUR-2016, Norma Oficial Mexicana",
+    "ministry": "TUR",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6108&view=si",
+    "scraped_at": "2026-04-06T21:02:18.453613+00:00"
+  },
+  "NOM-010-ASEA-2016": {
+    "codp": 6731,
+    "nom_code": "NOM-010-ASEA-2016",
+    "nom_id": "nom-010-asea-2016",
+    "title": "NOM-010-ASEA-2016",
+    "ministry": "ASEA",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6731&view=si",
+    "scraped_at": "2026-04-06T21:26:35.363817+00:00"
+  },
+  "NOM-003-ASEA-2016": {
+    "codp": 6722,
+    "nom_code": "NOM-003-ASEA-2016",
+    "nom_id": "nom-003-asea-2016",
+    "title": "NOM-003-ASEA-2016",
+    "ministry": "ASEA",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6722&view=si",
+    "scraped_at": "2026-04-06T21:26:14.363036+00:00"
+  },
+  "NOM-208-SCFI-2016": {
+    "codp": 6413,
+    "nom_code": "NOM-208-SCFI-2016",
+    "nom_id": "nom-208-scfi-2016",
+    "title": "NOM-208-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6413&view=si",
+    "scraped_at": "2026-04-06T21:14:11.634445+00:00"
+  },
+  "NOM-058-SCFI-2015": {
+    "codp": 6672,
+    "nom_code": "NOM-058-SCFI-2015",
+    "nom_id": "nom-058-scfi-2015",
+    "title": "NOM-058-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6672&view=si",
+    "scraped_at": "2026-04-06T21:24:17.317166+00:00"
+  },
+  "NOM-018-ASEA-2016": {
+    "codp": 6129,
+    "nom_code": "NOM-018-ASEA-2016",
+    "nom_id": "nom-018-asea-2016",
+    "title": "NOM-018-ASEA-2016",
+    "ministry": "ASEA",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6129&view=si",
+    "scraped_at": "2026-04-06T21:03:07.559984+00:00"
+  },
+  "NOM-007-ASEA-2016": {
+    "codp": 7002,
+    "nom_code": "NOM-007-ASEA-2016",
+    "nom_id": "nom-007-asea-2016",
+    "title": "NOM-007-ASEA-2016",
+    "ministry": "ASEA",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7002&view=si",
+    "scraped_at": "2026-04-06T21:37:10.099858+00:00"
+  },
+  "NOM-220-SSA1-2015": {
+    "codp": 6624,
+    "nom_code": "NOM-220-SSA1-2015",
+    "nom_id": "nom-220-ssa1-2015",
+    "title": "NOM-220-SSA1-2015",
+    "ministry": "SSA1",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6624&view=si",
+    "scraped_at": "2026-04-06T21:22:25.105463+00:00"
+  },
+  "NOM-002-CONAGUA-2015": {
+    "codp": 9278,
+    "nom_code": "NOM-002-CONAGUA-2015",
+    "nom_id": "nom-002-conagua-2015",
+    "title": "NOM-002-CONAGUA-2015",
+    "ministry": "CONAGUA",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9278&view=si",
+    "scraped_at": "2026-04-06T23:05:56.701157+00:00"
+  },
+  "NOM-036-SCT2-2016": {
+    "codp": 6151,
+    "nom_code": "NOM-036-SCT2-2016",
+    "nom_id": "nom-036-sct2-2016",
+    "title": "NOM-036-SCT2-2016",
+    "ministry": "SCT2",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6151&view=si",
+    "scraped_at": "2026-04-06T21:03:58.848503+00:00"
+  },
+  "NOM-231-SSA1-2016": {
+    "codp": 6205,
+    "nom_code": "NOM-231-SSA1-2016",
+    "nom_id": "nom-231-ssa1-2016",
+    "title": "NOM-231-SSA1-2016",
+    "ministry": "SSA1",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6205&view=si",
+    "scraped_at": "2026-04-06T21:06:05.330822+00:00"
+  },
+  "NOM-204-SCFI-2015": {
+    "codp": 7402,
+    "nom_code": "NOM-204-SCFI-2015",
+    "nom_id": "nom-204-scfi-2015",
+    "title": "NOM-204-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7402&view=si",
+    "scraped_at": "2026-04-06T21:52:47.981572+00:00"
+  },
+  "NOM-035-STPS-2016": {
+    "codp": 6583,
+    "nom_code": "NOM-035-STPS-2016",
+    "nom_id": "nom-035-stps-2016",
+    "title": "NOM-035-STPS-2016",
+    "ministry": "STPS",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6583&view=si",
+    "scraped_at": "2026-04-06T21:20:49.150253+00:00"
+  },
+  "NOM-106-SCFI-2016": {
+    "codp": 6732,
+    "nom_code": "NOM-106-SCFI-2016",
+    "nom_id": "nom-106-scfi-2016",
+    "title": "NOM-106-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6732&view=si",
+    "scraped_at": "2026-04-06T21:26:37.768904+00:00"
+  },
+  "NOM-140-SCFI-2016": {
+    "codp": 6873,
+    "nom_code": "NOM-140-SCFI-2016",
+    "nom_id": "nom-140-scfi-2016",
+    "title": "NOM-140-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6873&view=si",
+    "scraped_at": "2026-04-06T21:32:07.151073+00:00"
+  },
+  "NOM-196-SCFI-2016": {
+    "codp": 6222,
+    "nom_code": "NOM-196-SCFI-2016",
+    "nom_id": "nom-196-scfi-2016",
+    "title": "NOM-196-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6222&view=si",
+    "scraped_at": "2026-04-06T21:06:45.055933+00:00"
+  },
+  "NOM-003-SAGARPA-2016": {
+    "codp": 6251,
+    "nom_code": "NOM-003-SAGARPA-2016",
+    "nom_id": "nom-003-sagarpa-2016",
+    "title": "NOM-003-SAGARPA-2016",
+    "ministry": "SAGARPA",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6251&view=si",
+    "scraped_at": "2026-04-06T21:07:52.524271+00:00"
+  },
+  "NOM-189-SCFI-2016": {
+    "codp": 6956,
+    "nom_code": "NOM-189-SCFI-2016",
+    "nom_id": "nom-189-scfi-2016",
+    "title": "NOM-189-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6956&view=si",
+    "scraped_at": "2026-04-06T21:35:21.485211+00:00"
+  },
+  "NOM-013-SSA2-2015": {
+    "codp": 6264,
+    "nom_code": "NOM-013-SSA2-2015",
+    "nom_id": "nom-013-ssa2-2015",
+    "title": "NOM-013-SSA2-2015",
+    "ministry": "SSA2",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6264&view=si",
+    "scraped_at": "2026-04-06T21:08:22.800623+00:00"
+  },
+  "NOM-034-NUCL-2016": {
+    "codp": 6270,
+    "nom_code": "NOM-034-NUCL-2016",
+    "nom_id": "nom-034-nucl-2016",
+    "title": "NOM-034-NUCL-2016",
+    "ministry": "NUCL",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6270&view=si",
+    "scraped_at": "2026-04-06T21:08:36.770093+00:00"
+  },
+  "NOM-002-SAGARPA-2016": {
+    "codp": 6271,
+    "nom_code": "NOM-002-SAGARPA-2016",
+    "nom_id": "nom-002-sagarpa-2016",
+    "title": "NOM-002-SAGARPA-2016",
+    "ministry": "SAGARPA",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6271&view=si",
+    "scraped_at": "2026-04-06T21:08:39.086326+00:00"
+  },
+  "NOM-029-ENER-2016": {
+    "codp": 6782,
+    "nom_code": "NOM-029-ENER-2016",
+    "nom_id": "nom-029-ener-2016",
+    "title": "NOM-029-ENER-2016",
+    "ministry": "ENER",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6782&view=si",
+    "scraped_at": "2026-04-06T21:28:34.546289+00:00"
+  },
+  "NOM-212-SCFI-2016": {
+    "codp": 7337,
+    "nom_code": "NOM-212-SCFI-2016",
+    "nom_id": "nom-212-scfi-2016",
+    "title": "NOM-212-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7337&view=si",
+    "scraped_at": "2026-04-06T21:50:15.517895+00:00"
+  },
+  "NOM-197-SCFI-2015": {
+    "codp": 7240,
+    "nom_code": "NOM-197-SCFI-2015",
+    "nom_id": "nom-197-scfi-2015",
+    "title": "NOM-197-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7240&view=si",
+    "scraped_at": "2026-04-06T21:46:28.239073+00:00"
+  },
+  "NOM-201-SCFI-2015": {
+    "codp": 7230,
+    "nom_code": "NOM-201-SCFI-2015",
+    "nom_id": "nom-201-scfi-2015",
+    "title": "NOM-201-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7230&view=si",
+    "scraped_at": "2026-04-06T21:46:04.793279+00:00"
+  },
+  "NOM-200-SCFI-2015": {
+    "codp": 7428,
+    "nom_code": "NOM-200-SCFI-2015",
+    "nom_id": "nom-200-scfi-2015",
+    "title": "NOM-200-SCFI-2015",
+    "ministry": "SCFI",
+    "year": 2015,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7428&view=si",
+    "scraped_at": "2026-04-06T21:53:48.829680+00:00"
+  },
+  "NOM-012-NUCL-2016": {
+    "codp": 6352,
+    "nom_code": "NOM-012-NUCL-2016",
+    "nom_id": "nom-012-nucl-2016",
+    "title": "NOM-012-NUCL-2016",
+    "ministry": "NUCL",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6352&view=si",
+    "scraped_at": "2026-04-06T21:11:48.879263+00:00"
+  },
+  "NOM-027-SSA2-2016": {
+    "codp": 6308,
+    "nom_code": "NOM-027-SSA2-2016",
+    "nom_id": "nom-027-ssa2-2016",
+    "title": "NOM-027-SSA2-2016",
+    "ministry": "SSA2",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6308&view=si",
+    "scraped_at": "2026-04-06T21:10:05.518172+00:00"
+  },
+  "NOM-167-SEMARNAT-2016": {
+    "codp": 6587,
+    "nom_code": "NOM-167-SEMARNAT-2016",
+    "nom_id": "nom-167-semarnat-2016",
+    "title": "NOM-167-SEMARNAT-2016",
+    "ministry": "SEMARNAT",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6587&view=si",
+    "scraped_at": "2026-04-06T21:20:58.555252+00:00"
+  },
+  "NOM-036-SCFI-2016": {
+    "codp": 6315,
+    "nom_code": "NOM-036-SCFI-2016",
+    "nom_id": "nom-036-scfi-2016",
+    "title": "NOM-036-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6315&view=si",
+    "scraped_at": "2026-04-06T21:10:21.794563+00:00"
+  },
+  "NOM-002-SSA3-2016": {
+    "codp": 6952,
+    "nom_code": "NOM-002-SSA3-2016",
+    "nom_id": "nom-002-ssa3-2016",
+    "title": "NOM-002-SSA3-2016",
+    "ministry": "SSA3",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6952&view=si",
+    "scraped_at": "2026-04-06T21:35:12.195742+00:00"
+  },
+  "NOM-038-SSA3-2016": {
+    "codp": 6361,
+    "nom_code": "NOM-038-SSA3-2016",
+    "nom_id": "nom-038-ssa3-2016",
+    "title": "NOM-038-SSA3-2016",
+    "ministry": "SSA3",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6361&view=si",
+    "scraped_at": "2026-04-06T21:12:10.108887+00:00"
+  },
+  "NOM-209-SCFI-2016": {
+    "codp": 7361,
+    "nom_code": "NOM-209-SCFI-2016",
+    "nom_id": "nom-209-scfi-2016",
+    "title": "NOM-209-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7361&view=si",
+    "scraped_at": "2026-04-06T21:51:11.857437+00:00"
+  },
+  "NOM-080-SCFI-2016": {
+    "codp": 6371,
+    "nom_code": "NOM-080-SCFI-2016",
+    "nom_id": "nom-080-scfi-2016",
+    "title": "NOM-080-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6371&view=si",
+    "scraped_at": "2026-04-06T21:12:33.567392+00:00"
+  },
+  "NOM-146-SCFI-2016": {
+    "codp": 6411,
+    "nom_code": "NOM-146-SCFI-2016",
+    "nom_id": "nom-146-scfi-2016",
+    "title": "NOM-146-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6411&view=si",
+    "scraped_at": "2026-04-06T21:14:06.985574+00:00"
+  },
+  "NOM-044-SCFI-2016": {
+    "codp": 7398,
+    "nom_code": "NOM-044-SCFI-2016",
+    "nom_id": "nom-044-scfi-2016",
+    "title": "NOM-044-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7398&view=si",
+    "scraped_at": "2026-04-06T21:52:38.672381+00:00"
+  },
+  "NOM-037-SSA3-2016": {
+    "codp": 6428,
+    "nom_code": "NOM-037-SSA3-2016",
+    "nom_id": "nom-037-ssa3-2016",
+    "title": "NOM-037-SSA3-2016",
+    "ministry": "SSA3",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6428&view=si",
+    "scraped_at": "2026-04-06T21:14:46.680655+00:00"
+  },
+  "NOM-003-STPS-2016": {
+    "codp": 6885,
+    "nom_code": "NOM-003-STPS-2016",
+    "nom_id": "nom-003-stps-2016",
+    "title": "NOM-003-STPS-2016",
+    "ministry": "STPS",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6885&view=si",
+    "scraped_at": "2026-04-06T21:32:35.085177+00:00"
+  },
+  "NOM-070-SCFI-2016": {
+    "codp": 6437,
+    "nom_code": "NOM-070-SCFI-2016",
+    "nom_id": "nom-070-scfi-2016",
+    "title": "NOM-070-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6437&view=si",
+    "scraped_at": "2026-04-06T21:15:07.659862+00:00"
+  },
+  "NOM-125-SSA1-2016": {
+    "codp": 6456,
+    "nom_code": "NOM-125-SSA1-2016",
+    "nom_id": "nom-125-ssa1-2016",
+    "title": "NOM-125-SSA1-2016",
+    "ministry": "SSA1",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6456&view=si",
+    "scraped_at": "2026-04-06T21:15:52.153986+00:00"
+  },
+  "NOM-151-SCFI-2016": {
+    "codp": 8472,
+    "nom_code": "NOM-151-SCFI-2016",
+    "nom_id": "nom-151-scfi-2016",
+    "title": "NOM-151-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8472&view=si",
+    "scraped_at": "2026-04-06T22:34:31.265470+00:00"
+  },
+  "NOM-030-SSA2-2017": {
+    "codp": 6533,
+    "nom_code": "NOM-030-SSA2-2017",
+    "nom_id": "nom-030-ssa2-2017",
+    "title": "NOM-030-SSA2-2017",
+    "ministry": "SSA2",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6533&view=si",
+    "scraped_at": "2026-04-06T21:18:52.665273+00:00"
+  },
+  "NOM-138-SSA1-2016": {
+    "codp": 6536,
+    "nom_code": "NOM-138-SSA1-2016",
+    "nom_id": "nom-138-ssa1-2016",
+    "title": "NOM-138-SSA1-2016",
+    "ministry": "SSA1",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6536&view=si",
+    "scraped_at": "2026-04-06T21:18:59.695923+00:00"
+  },
+  "NOM-025-SCT2-2016": {
+    "codp": 6580,
+    "nom_code": "NOM-025-SCT2-2016",
+    "nom_id": "nom-025-sct2-2016",
+    "title": "NOM-025-SCT2-2016",
+    "ministry": "SCT2",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6580&view=si",
+    "scraped_at": "2026-04-06T21:20:42.157975+00:00"
+  },
+  "NOM-055-SCT2-2016": {
+    "codp": 6581,
+    "nom_code": "NOM-055-SCT2-2016",
+    "nom_id": "nom-055-sct2-2016",
+    "title": "NOM-055-SCT2-2016",
+    "ministry": "SCT2",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6581&view=si",
+    "scraped_at": "2026-04-06T21:20:44.468439+00:00"
+  },
+  "NOM-056-SCT2-2016": {
+    "codp": 6582,
+    "nom_code": "NOM-056-SCT2-2016",
+    "nom_id": "nom-056-sct2-2016",
+    "title": "NOM-056-SCT2-2016",
+    "ministry": "SCT2",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6582&view=si",
+    "scraped_at": "2026-04-06T21:20:46.791869+00:00"
+  },
+  "NOM-218-SCFI-2017": {
+    "codp": 6968,
+    "nom_code": "NOM-218-SCFI-2017",
+    "nom_id": "nom-218-scfi-2017",
+    "title": "NOM-218-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6968&view=si",
+    "scraped_at": "2026-04-06T21:35:49.918127+00:00"
+  },
+  "NOM-028-ENER-2017": {
+    "codp": 7027,
+    "nom_code": "NOM-028-ENER-2017",
+    "nom_id": "nom-028-ener-2017",
+    "title": "NOM-028-ENER-2017",
+    "ministry": "ENER",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7027&view=si",
+    "scraped_at": "2026-04-06T21:38:08.474691+00:00"
+  },
+  "NOM-005-STPS-2017": {
+    "codp": 7193,
+    "nom_code": "NOM-005-STPS-2017",
+    "nom_id": "nom-005-stps-2017",
+    "title": "NOM-005-STPS-2017",
+    "ministry": "STPS",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7193&view=si",
+    "scraped_at": "2026-04-06T21:44:37.568593+00:00"
+  },
+  "NOM-050-SEMARNAT-2017": {
+    "codp": 6623,
+    "nom_code": "NOM-050-SEMARNAT-2017",
+    "nom_id": "nom-050-semarnat-2017",
+    "title": "NOM-050-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6623&view=si",
+    "scraped_at": "2026-04-06T21:22:22.779403+00:00"
+  },
+  "NOM-205-SCFI-2016": {
+    "codp": 7277,
+    "nom_code": "NOM-205-SCFI-2016",
+    "nom_id": "nom-205-scfi-2016",
+    "title": "NOM-205-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7277&view=si",
+    "scraped_at": "2026-04-06T21:47:54.960973+00:00"
+  },
+  "NOM-050-SCT2-2017": {
+    "codp": 6633,
+    "nom_code": "NOM-050-SCT2-2017",
+    "nom_id": "nom-050-sct2-2017",
+    "title": "NOM-050-SCT2-2017",
+    "ministry": "SCT2",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6633&view=si",
+    "scraped_at": "2026-04-06T21:22:46.265552+00:00"
+  },
+  "NOM-004-ASEA-2017": {
+    "codp": 6992,
+    "nom_code": "NOM-004-ASEA-2017",
+    "nom_id": "nom-004-asea-2017",
+    "title": "NOM-004-ASEA-2017",
+    "ministry": "ASEA",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6992&view=si",
+    "scraped_at": "2026-04-06T21:36:46.317004+00:00"
+  },
+  "NOM-220-SCFI-2017": {
+    "codp": 7237,
+    "nom_code": "NOM-220-SCFI-2017",
+    "nom_id": "nom-220-scfi-2017",
+    "title": "NOM-220-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7237&view=si",
+    "scraped_at": "2026-04-06T21:46:21.274062+00:00"
+  },
+  "NOM-221-SCFI-2017": {
+    "codp": 7278,
+    "nom_code": "NOM-221-SCFI-2017",
+    "nom_id": "nom-221-scfi-2017",
+    "title": "NOM-221-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7278&view=si",
+    "scraped_at": "2026-04-06T21:47:57.377707+00:00"
+  },
+  "NOM-220-SSA1-2016": {
+    "codp": 8356,
+    "nom_code": "NOM-220-SSA1-2016",
+    "nom_id": "nom-220-ssa1-2016",
+    "title": "NOM-220-SSA1-2016",
+    "ministry": "SSA1",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8356&view=si",
+    "scraped_at": "2026-04-06T22:29:59.994552+00:00"
+  },
+  "NOM-198-SCFI-2017": {
+    "codp": 8083,
+    "nom_code": "NOM-198-SCFI-2017",
+    "nom_id": "nom-198-scfi-2017",
+    "title": "NOM-198-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8083&view=si",
+    "scraped_at": "2026-04-06T22:19:20.797264+00:00"
+  },
+  "NOM-179-SCFI-2016": {
+    "codp": 6697,
+    "nom_code": "NOM-179-SCFI-2016",
+    "nom_id": "nom-179-scfi-2016",
+    "title": "NOM-179-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6697&view=si",
+    "scraped_at": "2026-04-06T21:25:15.829795+00:00"
+  },
+  "NOM-058-SCFI-2017": {
+    "codp": 6712,
+    "nom_code": "NOM-058-SCFI-2017",
+    "nom_id": "nom-058-scfi-2017",
+    "title": "NOM-058-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6712&view=si",
+    "scraped_at": "2026-04-06T21:25:50.971916+00:00"
+  },
+  "NOM-009-NUCL-2017": {
+    "codp": 7667,
+    "nom_code": "NOM-009-NUCL-2017",
+    "nom_id": "nom-009-nucl-2017",
+    "title": "NOM-009-NUCL-2017",
+    "ministry": "NUCL",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7667&view=si",
+    "scraped_at": "2026-04-06T22:03:07.954349+00:00"
+  },
+  "NOM-014-NUCL-2017": {
+    "codp": 7668,
+    "nom_code": "NOM-014-NUCL-2017",
+    "nom_id": "nom-014-nucl-2017",
+    "title": "NOM-014-NUCL-2017",
+    "ministry": "NUCL",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7668&view=si",
+    "scraped_at": "2026-04-06T22:03:10.263007+00:00"
+  },
+  "NOM-167-SEMARNAT-2017": {
+    "codp": 9334,
+    "nom_code": "NOM-167-SEMARNAT-2017",
+    "nom_id": "nom-167-semarnat-2017",
+    "title": "NOM-167-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9334&view=si",
+    "scraped_at": "2026-04-06T23:08:07.747020+00:00"
+  },
+  "NOM-042-SSA2-2017": {
+    "codp": 9445,
+    "nom_code": "NOM-042-SSA2-2017",
+    "nom_id": "nom-042-ssa2-2017",
+    "title": "NOM-042-SSA2-2017",
+    "ministry": "SSA2",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9445&view=si",
+    "scraped_at": "2026-04-06T23:12:28.212397+00:00"
+  },
+  "NOM-049-SSA2-2017": {
+    "codp": 6757,
+    "nom_code": "NOM-049-SSA2-2017",
+    "nom_id": "nom-049-ssa2-2017",
+    "title": "NOM-049-SSA2-2017",
+    "ministry": "SSA2",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6757&view=si",
+    "scraped_at": "2026-04-06T21:27:36.456619+00:00"
+  },
+  "NOM-106-SCFI-2017": {
+    "codp": 6758,
+    "nom_code": "NOM-106-SCFI-2017",
+    "nom_id": "nom-106-scfi-2017",
+    "title": "NOM-106-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6758&view=si",
+    "scraped_at": "2026-04-06T21:27:38.765538+00:00"
+  },
+  "NOM-086-SCFI-2017": {
+    "codp": 7350,
+    "nom_code": "NOM-086-SCFI-2017",
+    "nom_id": "nom-086-scfi-2017",
+    "title": "NOM-086-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7350&view=si",
+    "scraped_at": "2026-04-06T21:50:45.975034+00:00"
+  },
+  "NOM-015-ENER-2017": {
+    "codp": 7156,
+    "nom_code": "NOM-015-ENER-2017",
+    "nom_id": "nom-015-ener-2017",
+    "title": "NOM-015-ENER-2017",
+    "ministry": "ENER",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7156&view=si",
+    "scraped_at": "2026-04-06T21:43:11.084082+00:00"
+  },
+  "NOM-06-TUR-2016": {
+    "codp": 6775,
+    "nom_code": "NOM-06-TUR-2016",
+    "nom_id": "nom-06-tur-2016",
+    "title": "NOM-06-TUR-2016",
+    "ministry": "TUR",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6775&view=si",
+    "scraped_at": "2026-04-06T21:28:18.335956+00:00"
+  },
+  "NOM-107-SCT3-2016": {
+    "codp": 7844,
+    "nom_code": "NOM-107-SCT3-2016",
+    "nom_id": "nom-107-sct3-2016",
+    "title": "NOM-107-SCT3-2016",
+    "ministry": "SCT3",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7844&view=si",
+    "scraped_at": "2026-04-06T22:10:01.824856+00:00"
+  },
+  "NOM-012-ENER-2017": {
+    "codp": 7496,
+    "nom_code": "NOM-012-ENER-2017",
+    "nom_id": "nom-012-ener-2017",
+    "title": "NOM-012-ENER-2017",
+    "ministry": "ENER",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7496&view=si",
+    "scraped_at": "2026-04-06T21:56:27.891140+00:00"
+  },
+  "NOM-004-SAGARPA-2017": {
+    "codp": 8363,
+    "nom_code": "NOM-004-SAGARPA-2017",
+    "nom_id": "nom-004-sagarpa-2017",
+    "title": "NOM-004-SAGARPA-2017",
+    "ministry": "SAGARPA",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8363&view=si",
+    "scraped_at": "2026-04-06T22:30:16.237612+00:00"
+  },
+  "NOM-029-ENER-2017": {
+    "codp": 6823,
+    "nom_code": "NOM-029-ENER-2017",
+    "nom_id": "nom-029-ener-2017",
+    "title": "NOM-029-ENER-2017",
+    "ministry": "ENER",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6823&view=si",
+    "scraped_at": "2026-04-06T21:30:10.261468+00:00"
+  },
+  "NOM-199-SCFI-2017": {
+    "codp": 7827,
+    "nom_code": "NOM-199-SCFI-2017",
+    "nom_id": "nom-199-scfi-2017",
+    "title": "NOM-199-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7827&view=si",
+    "scraped_at": "2026-04-06T22:09:22.311606+00:00"
+  },
+  "NOM-009-ASEA-2017": {
+    "codp": 9301,
+    "nom_code": "NOM-009-ASEA-2017",
+    "nom_id": "nom-009-asea-2017",
+    "title": "NOM-009-ASEA-2017",
+    "ministry": "ASEA",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9301&view=si",
+    "scraped_at": "2026-04-06T23:06:50.495361+00:00"
+  },
+  "NOM-006-ASEA-2017": {
+    "codp": 7231,
+    "nom_code": "NOM-006-ASEA-2017",
+    "nom_id": "nom-006-asea-2017",
+    "title": "NOM-006-ASEA-2017",
+    "ministry": "ASEA",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7231&view=si",
+    "scraped_at": "2026-04-06T21:46:07.169875+00:00"
+  },
+  "NOM-170-SEMARNAT-2017": {
+    "codp": 6844,
+    "nom_code": "NOM-170-SEMARNAT-2017",
+    "nom_id": "nom-170-semarnat-2017",
+    "title": "NOM-170-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6844&view=si",
+    "scraped_at": "2026-04-06T21:30:59.542670+00:00"
+  },
+  "NOM-150-SEMARNAT-2017": {
+    "codp": 6846,
+    "nom_code": "NOM-150-SEMARNAT-2017",
+    "nom_id": "nom-150-semarnat-2017",
+    "title": "NOM-150-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6846&view=si",
+    "scraped_at": "2026-04-06T21:31:04.196630+00:00"
+  },
+  "NOM-117-SCT3-2016": {
+    "codp": 6865,
+    "nom_code": "NOM-117-SCT3-2016",
+    "nom_id": "nom-117-sct3-2016",
+    "title": "NOM-117-SCT3-2016",
+    "ministry": "SCT3",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6865&view=si",
+    "scraped_at": "2026-04-06T21:31:48.427916+00:00"
+  },
+  "NOM-146-SEMARNAT-2017": {
+    "codp": 6880,
+    "nom_code": "NOM-146-SEMARNAT-2017",
+    "nom_id": "nom-146-semarnat-2017",
+    "title": "NOM-146-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6880&view=si",
+    "scraped_at": "2026-04-06T21:32:23.470435+00:00"
+  },
+  "NOM-048-SSA2-2017": {
+    "codp": 6881,
+    "nom_code": "NOM-048-SSA2-2017",
+    "nom_id": "nom-048-ssa2-2017",
+    "title": "NOM-048-SSA2-2017",
+    "ministry": "SSA2",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6881&view=si",
+    "scraped_at": "2026-04-06T21:32:25.808847+00:00"
+  },
+  "NOM-019-SCFI-2016": {
+    "codp": 6882,
+    "nom_code": "NOM-019-SCFI-2016",
+    "nom_id": "nom-019-scfi-2016",
+    "title": "NOM-019-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6882&view=si",
+    "scraped_at": "2026-04-06T21:32:28.131970+00:00"
+  },
+  "NOM-001-SCFI-2017": {
+    "codp": 7822,
+    "nom_code": "NOM-001-SCFI-2017",
+    "nom_id": "nom-001-scfi-2017",
+    "title": "NOM-001-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7822&view=si",
+    "scraped_at": "2026-04-06T22:09:10.587604+00:00"
+  },
+  "NOM-213-SSA1-2017": {
+    "codp": 7601,
+    "nom_code": "NOM-213-SSA1-2017",
+    "nom_id": "nom-213-ssa1-2017",
+    "title": "NOM-213-SSA1-2017",
+    "ministry": "SSA1",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7601&view=si",
+    "scraped_at": "2026-04-06T22:00:33.478759+00:00"
+  },
+  "NOM-023-ENER-2017": {
+    "codp": 7160,
+    "nom_code": "NOM-023-ENER-2017",
+    "nom_id": "nom-023-ener-2017",
+    "title": "NOM-023-ENER-2017",
+    "ministry": "ENER",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7160&view=si",
+    "scraped_at": "2026-04-06T21:43:20.466088+00:00"
+  },
+  "NOM-006-STPS-2017": {
+    "codp": 7183,
+    "nom_code": "NOM-006-STPS-2017",
+    "nom_id": "nom-006-stps-2017",
+    "title": "NOM-006-STPS-2017",
+    "ministry": "STPS",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7183&view=si",
+    "scraped_at": "2026-04-06T21:44:14.171346+00:00"
+  },
+  "NOM-140-SCFI-2017": {
+    "codp": 6892,
+    "nom_code": "NOM-140-SCFI-2017",
+    "nom_id": "nom-140-scfi-2017",
+    "title": "NOM-140-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6892&view=si",
+    "scraped_at": "2026-04-06T21:32:51.605100+00:00"
+  },
+  "NOM-014-SCFI-2017": {
+    "codp": 8321,
+    "nom_code": "NOM-014-SCFI-2017",
+    "nom_id": "nom-014-scfi-2017",
+    "title": "NOM-014-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8321&view=si",
+    "scraped_at": "2026-04-06T22:28:38.386765+00:00"
+  },
+  "NOM-017-STPS-2017": {
+    "codp": 7184,
+    "nom_code": "NOM-017-STPS-2017",
+    "nom_id": "nom-017-stps-2017",
+    "title": "NOM-017-STPS-2017",
+    "ministry": "STPS",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7184&view=si",
+    "scraped_at": "2026-04-06T21:44:16.613165+00:00"
+  },
+  "NOM-171-SEMARNAT-2017": {
+    "codp": 7636,
+    "nom_code": "NOM-171-SEMARNAT-2017",
+    "nom_id": "nom-171-semarnat-2017",
+    "title": "NOM-171-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7636&view=si",
+    "scraped_at": "2026-04-06T22:01:55.502604+00:00"
+  },
+  "NOM-159-SSA1-2016": {
+    "codp": 7794,
+    "nom_code": "NOM-159-SSA1-2016",
+    "nom_id": "nom-159-ssa1-2016",
+    "title": "NOM-159-SSA1-2016",
+    "ministry": "SSA1",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7794&view=si",
+    "scraped_at": "2026-04-06T22:08:05.244445+00:00"
+  },
+  "NOM-172-SEMARNAT-2017": {
+    "codp": 7979,
+    "nom_code": "NOM-172-SEMARNAT-2017",
+    "nom_id": "nom-172-semarnat-2017",
+    "title": "NOM-172-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7979&view=si",
+    "scraped_at": "2026-04-06T22:15:17.084056+00:00"
+  },
+  "NOM-006-SSA3-2017": {
+    "codp": 6950,
+    "nom_code": "NOM-006-SSA3-2017",
+    "nom_id": "nom-006-ssa3-2017",
+    "title": "NOM-006-SSA3-2017",
+    "ministry": "SSA3",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6950&view=si",
+    "scraped_at": "2026-04-06T21:35:07.502444+00:00"
+  },
+  "NOM-007-SSA3-2017": {
+    "codp": 6951,
+    "nom_code": "NOM-007-SSA3-2017",
+    "nom_id": "nom-007-ssa3-2017",
+    "title": "NOM-007-SSA3-2017",
+    "ministry": "SSA3",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6951&view=si",
+    "scraped_at": "2026-04-06T21:35:09.876122+00:00"
+  },
+  "NOM-036-SCT3-2017": {
+    "codp": 9244,
+    "nom_code": "NOM-036-SCT3-2017",
+    "nom_id": "nom-036-sct3-2017",
+    "title": "NOM-036-SCT3-2017",
+    "ministry": "SCT3",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9244&view=si",
+    "scraped_at": "2026-04-06T23:04:37.467123+00:00"
+  },
+  "NOM-044-SEMARNAT-2017": {
+    "codp": 9428,
+    "nom_code": "NOM-044-SEMARNAT-2017",
+    "nom_id": "nom-044-semarnat-2017",
+    "title": "NOM-044-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9428&view=si",
+    "scraped_at": "2026-04-06T23:11:48.605177+00:00"
+  },
+  "NOM-002-SSA3-2017": {
+    "codp": 6979,
+    "nom_code": "NOM-002-SSA3-2017",
+    "nom_id": "nom-002-ssa3-2017",
+    "title": "NOM-002-SSA3-2017",
+    "ministry": "SSA3",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6979&view=si",
+    "scraped_at": "2026-04-06T21:36:15.713046+00:00"
+  },
+  "NOM-189-SCFI-2017": {
+    "codp": 7814,
+    "nom_code": "NOM-189-SCFI-2017",
+    "nom_id": "nom-189-scfi-2017",
+    "title": "NOM-189-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7814&view=si",
+    "scraped_at": "2026-04-06T22:08:51.821510+00:00"
+  },
+  "NOM-144-SEMARNAT-2017": {
+    "codp": 6987,
+    "nom_code": "NOM-144-SEMARNAT-2017",
+    "nom_id": "nom-144-semarnat-2017",
+    "title": "NOM-144-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=6987&view=si",
+    "scraped_at": "2026-04-06T21:36:34.489598+00:00"
+  },
+  "NOM-148-SCFI-2017": {
+    "codp": 7581,
+    "nom_code": "NOM-148-SCFI-2017",
+    "nom_id": "nom-148-scfi-2017",
+    "title": "NOM-148-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7581&view=si",
+    "scraped_at": "2026-04-06T21:59:46.555976+00:00"
+  },
+  "NOM-008-CONAGUA-2017": {
+    "codp": 7001,
+    "nom_code": "NOM-008-CONAGUA-2017",
+    "nom_id": "nom-008-conagua-2017",
+    "title": "NOM-008-CONAGUA-2017",
+    "ministry": "CONAGUA",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7001&view=si",
+    "scraped_at": "2026-04-06T21:37:07.787462+00:00"
+  },
+  "NOM-184-SCFI-2017": {
+    "codp": 7539,
+    "nom_code": "NOM-184-SCFI-2017",
+    "nom_id": "nom-184-scfi-2017",
+    "title": "NOM-184-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7539&view=si",
+    "scraped_at": "2026-04-06T21:58:08.586696+00:00"
+  },
+  "NOM-045-SEMARNAT-2017": {
+    "codp": 7015,
+    "nom_code": "NOM-045-SEMARNAT-2017",
+    "nom_id": "nom-045-semarnat-2017",
+    "title": "NOM-045-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7015&view=si",
+    "scraped_at": "2026-04-06T21:37:40.534682+00:00"
+  },
+  "NOM-169-SEMARNAT-2018": {
+    "codp": 7372,
+    "nom_code": "NOM-169-SEMARNAT-2018",
+    "nom_id": "nom-169-semarnat-2018",
+    "title": "NOM-169-SEMARNAT-2018",
+    "ministry": "SEMARNAT",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7372&view=si",
+    "scraped_at": "2026-04-06T21:51:37.823790+00:00"
+  },
+  "NOM-022-SSA1-2017": {
+    "codp": 7742,
+    "nom_code": "NOM-022-SSA1-2017",
+    "nom_id": "nom-022-ssa1-2017",
+    "title": "NOM-022-SSA1-2017",
+    "ministry": "SSA1",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7742&view=si",
+    "scraped_at": "2026-04-06T22:06:03.627890+00:00"
+  },
+  "NOM-019-SEMARNAT-2017": {
+    "codp": 7037,
+    "nom_code": "NOM-019-SEMARNAT-2017",
+    "nom_id": "nom-019-semarnat-2017",
+    "title": "NOM-019-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7037&view=si",
+    "scraped_at": "2026-04-06T21:38:31.847520+00:00"
+  },
+  "NOM-207-SCFI-2016": {
+    "codp": 7397,
+    "nom_code": "NOM-207-SCFI-2016",
+    "nom_id": "nom-207-scfi-2016",
+    "title": "NOM-207-SCFI-2016",
+    "ministry": "SCFI",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7397&view=si",
+    "scraped_at": "2026-04-06T21:52:36.349680+00:00"
+  },
+  "NOM-179-SSA1-2017": {
+    "codp": 8355,
+    "nom_code": "NOM-179-SSA1-2017",
+    "nom_id": "nom-179-ssa1-2017",
+    "title": "NOM-179-SSA1-2017",
+    "ministry": "SSA1",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8355&view=si",
+    "scraped_at": "2026-04-06T22:29:57.686001+00:00"
+  },
+  "NOM-06-TUR-2017": {
+    "codp": 7105,
+    "nom_code": "NOM-06-TUR-2017",
+    "nom_id": "nom-06-tur-2017",
+    "title": "NOM-06-TUR-2017",
+    "ministry": "TUR",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7105&view=si",
+    "scraped_at": "2026-04-06T21:41:11.329249+00:00"
+  },
+  "NOM-010-SSA2-2018": {
+    "codp": 9322,
+    "nom_code": "NOM-010-SSA2-2018",
+    "nom_id": "nom-010-ssa2-2018",
+    "title": "NOM-010-SSA2-2018",
+    "ministry": "SSA2",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9322&view=si",
+    "scraped_at": "2026-04-06T23:07:39.610005+00:00"
+  },
+  "NOM-050-SSA2-2018": {
+    "codp": 7110,
+    "nom_code": "NOM-050-SSA2-2018",
+    "nom_id": "nom-050-ssa2-2018",
+    "title": "NOM-050-SSA2-2018",
+    "ministry": "SSA2",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7110&view=si",
+    "scraped_at": "2026-04-06T21:41:23.058048+00:00"
+  },
+  "NOM-015-SSA2-2018": {
+    "codp": 7112,
+    "nom_code": "NOM-015-SSA2-2018",
+    "nom_id": "nom-015-ssa2-2018",
+    "title": "NOM-015-SSA2-2018",
+    "ministry": "SSA2",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7112&view=si",
+    "scraped_at": "2026-04-06T21:41:27.677876+00:00"
+  },
+  "NOM-069-SCT3-2017": {
+    "codp": 8128,
+    "nom_code": "NOM-069-SCT3-2017",
+    "nom_id": "nom-069-sct3-2017",
+    "title": "NOM-069-SCT3-2017",
+    "ministry": "SCT3",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8128&view=si",
+    "scraped_at": "2026-04-06T22:21:06.584116+00:00"
+  },
+  "NOM-036-SSA2-2018": {
+    "codp": 7124,
+    "nom_code": "NOM-036-SSA2-2018",
+    "nom_id": "nom-036-ssa2-2018",
+    "title": "NOM-036-SSA2-2018",
+    "ministry": "SSA2",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7124&view=si",
+    "scraped_at": "2026-04-06T21:41:55.970031+00:00"
+  },
+  "NOM-008-SSA3-2017": {
+    "codp": 7138,
+    "nom_code": "NOM-008-SSA3-2017",
+    "nom_id": "nom-008-ssa3-2017",
+    "title": "NOM-008-SSA3-2017",
+    "ministry": "SSA3",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7138&view=si",
+    "scraped_at": "2026-04-06T21:42:28.661875+00:00"
+  },
+  "NOM-053-SCFI-2017": {
+    "codp": 7151,
+    "nom_code": "NOM-053-SCFI-2017",
+    "nom_id": "nom-053-scfi-2017",
+    "title": "NOM-053-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7151&view=si",
+    "scraped_at": "2026-04-06T21:42:59.245818+00:00"
+  },
+  "NOM-216-SCFI-2017": {
+    "codp": 7157,
+    "nom_code": "NOM-216-SCFI-2017",
+    "nom_id": "nom-216-scfi-2017",
+    "title": "NOM-216-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7157&view=si",
+    "scraped_at": "2026-04-06T21:43:13.472933+00:00"
+  },
+  "NOM-226-SCFI-2018": {
+    "codp": 9248,
+    "nom_code": "NOM-226-SCFI-2018",
+    "nom_id": "nom-226-scfi-2018",
+    "title": "NOM-226-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9248&view=si",
+    "scraped_at": "2026-04-06T23:04:46.783568+00:00"
+  },
+  "NOM-225-SCFI-2017": {
+    "codp": 8084,
+    "nom_code": "NOM-225-SCFI-2017",
+    "nom_id": "nom-225-scfi-2017",
+    "title": "NOM-225-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8084&view=si",
+    "scraped_at": "2026-04-06T22:19:23.127927+00:00"
+  },
+  "NOM-116-SCFI-2017": {
+    "codp": 8035,
+    "nom_code": "NOM-116-SCFI-2017",
+    "nom_id": "nom-116-scfi-2017",
+    "title": "NOM-116-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8035&view=si",
+    "scraped_at": "2026-04-06T22:17:28.127538+00:00"
+  },
+  "NOM-215-SCFI-2017": {
+    "codp": 7171,
+    "nom_code": "NOM-215-SCFI-2017",
+    "nom_id": "nom-215-scfi-2017",
+    "title": "NOM-215-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7171&view=si",
+    "scraped_at": "2026-04-06T21:43:46.214721+00:00"
+  },
+  "NOM-064-SCFI-2017": {
+    "codp": 7172,
+    "nom_code": "NOM-064-SCFI-2017",
+    "nom_id": "nom-064-scfi-2017",
+    "title": "NOM-064-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7172&view=si",
+    "scraped_at": "2026-04-06T21:43:48.526304+00:00"
+  },
+  "NOM-154-SCFI-2017": {
+    "codp": 7173,
+    "nom_code": "NOM-154-SCFI-2017",
+    "nom_id": "nom-154-scfi-2017",
+    "title": "NOM-154-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7173&view=si",
+    "scraped_at": "2026-04-06T21:43:50.845376+00:00"
+  },
+  "NOM-202-SCFI-2017": {
+    "codp": 7174,
+    "nom_code": "NOM-202-SCFI-2017",
+    "nom_id": "nom-202-scfi-2017",
+    "title": "NOM-202-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7174&view=si",
+    "scraped_at": "2026-04-06T21:43:53.228589+00:00"
+  },
+  "NOM-015-ENER-2018": {
+    "codp": 7196,
+    "nom_code": "NOM-015-ENER-2018",
+    "nom_id": "nom-015-ener-2018",
+    "title": "NOM-015-ENER-2018",
+    "ministry": "ENER",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7196&view=si",
+    "scraped_at": "2026-04-06T21:44:44.602767+00:00"
+  },
+  "NOM-023-ENER-2018": {
+    "codp": 7221,
+    "nom_code": "NOM-023-ENER-2018",
+    "nom_id": "nom-023-ener-2018",
+    "title": "NOM-023-ENER-2018",
+    "ministry": "ENER",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7221&view=si",
+    "scraped_at": "2026-04-06T21:45:43.779742+00:00"
+  },
+  "NOM-008-SCFI-2017": {
+    "codp": 7227,
+    "nom_code": "NOM-008-SCFI-2017",
+    "nom_id": "nom-008-scfi-2017",
+    "title": "NOM-008-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7227&view=si",
+    "scraped_at": "2026-04-06T21:45:57.751094+00:00"
+  },
+  "NOM-010-SCFI-2017": {
+    "codp": 7239,
+    "nom_code": "NOM-010-SCFI-2017",
+    "nom_id": "nom-010-scfi-2017",
+    "title": "NOM-010-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7239&view=si",
+    "scraped_at": "2026-04-06T21:46:25.934179+00:00"
+  },
+  "NOM-001-SEDE-2018": {
+    "codp": 7494,
+    "nom_code": "NOM-001-SEDE-2018",
+    "nom_id": "nom-001-sede-2018",
+    "title": "NOM-001-SEDE-2018",
+    "ministry": "SEDE",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7494&view=si",
+    "scraped_at": "2026-04-06T21:56:23.291812+00:00"
+  },
+  "NOM-213-SCFI-2017": {
+    "codp": 7869,
+    "nom_code": "NOM-213-SCFI-2017",
+    "nom_id": "nom-213-scfi-2017",
+    "title": "NOM-213-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7869&view=si",
+    "scraped_at": "2026-04-06T22:11:00.183528+00:00"
+  },
+  "NOM-197-SCFI-2017": {
+    "codp": 7279,
+    "nom_code": "NOM-197-SCFI-2017",
+    "nom_id": "nom-197-scfi-2017",
+    "title": "NOM-197-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7279&view=si",
+    "scraped_at": "2026-04-06T21:47:59.686791+00:00"
+  },
+  "NOM-201-SCFI-2017": {
+    "codp": 7281,
+    "nom_code": "NOM-201-SCFI-2017",
+    "nom_id": "nom-201-scfi-2017",
+    "title": "NOM-201-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7281&view=si",
+    "scraped_at": "2026-04-06T21:48:04.369486+00:00"
+  },
+  "NOM-205-SCFI-2017": {
+    "codp": 7313,
+    "nom_code": "NOM-205-SCFI-2017",
+    "nom_id": "nom-205-scfi-2017",
+    "title": "NOM-205-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7313&view=si",
+    "scraped_at": "2026-04-06T21:49:19.247386+00:00"
+  },
+  "NOM-185-SCFI-2017": {
+    "codp": 7314,
+    "nom_code": "NOM-185-SCFI-2017",
+    "nom_id": "nom-185-scfi-2017",
+    "title": "NOM-185-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7314&view=si",
+    "scraped_at": "2026-04-06T21:49:21.558296+00:00"
+  },
+  "NOM-010-TUR-2018": {
+    "codp": 7349,
+    "nom_code": "NOM-010-TUR-2018",
+    "nom_id": "nom-010-tur-2018",
+    "title": "NOM-010-TUR-2018",
+    "ministry": "TUR",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7349&view=si",
+    "scraped_at": "2026-04-06T21:50:43.663784+00:00"
+  },
+  "NOM-011-TUR-2018": {
+    "codp": 7358,
+    "nom_code": "NOM-011-TUR-2018",
+    "nom_id": "nom-011-tur-2018",
+    "title": "NOM-011-TUR-2018",
+    "ministry": "TUR",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7358&view=si",
+    "scraped_at": "2026-04-06T21:51:04.734547+00:00"
+  },
+  "NOM-086-SCFI-2018": {
+    "codp": 7379,
+    "nom_code": "NOM-086-SCFI-2018",
+    "nom_id": "nom-086-scfi-2018",
+    "title": "NOM-086-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7379&view=si",
+    "scraped_at": "2026-04-06T21:51:54.183393+00:00"
+  },
+  "NOM-212-SCFI-2017": {
+    "codp": 7384,
+    "nom_code": "NOM-212-SCFI-2017",
+    "nom_id": "nom-212-scfi-2017",
+    "title": "NOM-212-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7384&view=si",
+    "scraped_at": "2026-04-06T21:52:05.817749+00:00"
+  },
+  "NOM-005-SAGARPA-2018": {
+    "codp": 7400,
+    "nom_code": "NOM-005-SAGARPA-2018",
+    "nom_id": "nom-005-sagarpa-2018",
+    "title": "NOM-005-SAGARPA-2018",
+    "ministry": "SAGARPA",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7400&view=si",
+    "scraped_at": "2026-04-06T21:52:43.323527+00:00"
+  },
+  "NOM-005-SCFI-2017": {
+    "codp": 7672,
+    "nom_code": "NOM-005-SCFI-2017",
+    "nom_id": "nom-005-scfi-2017",
+    "title": "NOM-005-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7672&view=si",
+    "scraped_at": "2026-04-06T22:03:19.630517+00:00"
+  },
+  "NOM-050-SEMARNAT-2018": {
+    "codp": 7410,
+    "nom_code": "NOM-050-SEMARNAT-2018",
+    "nom_id": "nom-050-semarnat-2018",
+    "title": "NOM-050-SEMARNAT-2018",
+    "ministry": "SEMARNAT",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7410&view=si",
+    "scraped_at": "2026-04-06T21:53:06.547630+00:00"
+  },
+  "NOM-209-SCFI-2017": {
+    "codp": 7411,
+    "nom_code": "NOM-209-SCFI-2017",
+    "nom_id": "nom-209-scfi-2017",
+    "title": "NOM-209-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7411&view=si",
+    "scraped_at": "2026-04-06T21:53:08.852443+00:00"
+  },
+  "NOM-207-SCFI-2018": {
+    "codp": 7412,
+    "nom_code": "NOM-207-SCFI-2018",
+    "nom_id": "nom-207-scfi-2018",
+    "title": "NOM-207-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7412&view=si",
+    "scraped_at": "2026-04-06T21:53:11.183608+00:00"
+  },
+  "NOM-244-SSA1-2016": {
+    "codp": 8416,
+    "nom_code": "NOM-244-SSA1-2016",
+    "nom_id": "nom-244-ssa1-2016",
+    "title": "NOM-244-SSA1-2016",
+    "ministry": "SSA1",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8416&view=si",
+    "scraped_at": "2026-04-06T22:32:20.285728+00:00"
+  },
+  "NOM-035-STPS-2018": {
+    "codp": 7415,
+    "nom_code": "NOM-035-STPS-2018",
+    "nom_id": "nom-035-stps-2018",
+    "title": "NOM-035-STPS-2018",
+    "ministry": "STPS",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7415&view=si",
+    "scraped_at": "2026-04-06T21:53:18.295825+00:00"
+  },
+  "NOM-002-ARTF-2018": {
+    "codp": 8055,
+    "nom_code": "NOM-002-ARTF-2018",
+    "nom_id": "nom-002-artf-2018",
+    "title": "NOM-002-ARTF-2018",
+    "ministry": "ARTF",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8055&view=si",
+    "scraped_at": "2026-04-06T22:18:14.999593+00:00"
+  },
+  "NOM-204-SCFI-2017": {
+    "codp": 7425,
+    "nom_code": "NOM-204-SCFI-2017",
+    "nom_id": "nom-204-scfi-2017",
+    "title": "NOM-204-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7425&view=si",
+    "scraped_at": "2026-04-06T21:53:41.637072+00:00"
+  },
+  "NOM-044-SCFI-2017": {
+    "codp": 7426,
+    "nom_code": "NOM-044-SCFI-2017",
+    "nom_id": "nom-044-scfi-2017",
+    "title": "NOM-044-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7426&view=si",
+    "scraped_at": "2026-04-06T21:53:43.995701+00:00"
+  },
+  "NOM-003-ARTF-2018": {
+    "codp": 8408,
+    "nom_code": "NOM-003-ARTF-2018",
+    "nom_id": "nom-003-artf-2018",
+    "title": "NOM-003-ARTF-2018",
+    "ministry": "ARTF",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8408&view=si",
+    "scraped_at": "2026-04-06T22:32:01.474260+00:00"
+  },
+  "NOM-039-NUCL-2018": {
+    "codp": 7932,
+    "nom_code": "NOM-039-NUCL-2018",
+    "nom_id": "nom-039-nucl-2018",
+    "title": "NOM-039-NUCL-2018",
+    "ministry": "NUCL",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7932&view=si",
+    "scraped_at": "2026-04-06T22:13:27.486746+00:00"
+  },
+  "NOM-010-SEGOB-2016": {
+    "codp": 8048,
+    "nom_code": "NOM-010-SEGOB-2016",
+    "nom_id": "nom-010-segob-2016",
+    "title": "NOM-010-SEGOB-2016",
+    "ministry": "SEGOB",
+    "year": 2016,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8048&view=si",
+    "scraped_at": "2026-04-06T22:17:58.457051+00:00"
+  },
+  "NOM-008-TUR-2018": {
+    "codp": 7462,
+    "nom_code": "NOM-008-TUR-2018",
+    "nom_id": "nom-008-tur-2018",
+    "title": "NOM-008-TUR-2018",
+    "ministry": "TUR",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7462&view=si",
+    "scraped_at": "2026-04-06T21:55:08.768195+00:00"
+  },
+  "NOM-011-NUCL-2018": {
+    "codp": 7931,
+    "nom_code": "NOM-011-NUCL-2018",
+    "nom_id": "nom-011-nucl-2018",
+    "title": "NOM-011-NUCL-2018",
+    "ministry": "NUCL",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7931&view=si",
+    "scraped_at": "2026-04-06T22:13:25.116514+00:00"
+  },
+  "NOM-200-SCFI-2017": {
+    "codp": 7464,
+    "nom_code": "NOM-200-SCFI-2017",
+    "nom_id": "nom-200-scfi-2017",
+    "title": "NOM-200-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7464&view=si",
+    "scraped_at": "2026-04-06T21:55:13.379675+00:00"
+  },
+  "NOM-001-ASEA-2018": {
+    "codp": 7664,
+    "nom_code": "NOM-001-ASEA-2018",
+    "nom_id": "nom-001-asea-2018",
+    "title": "NOM-001-ASEA-2018",
+    "ministry": "ASEA",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7664&view=si",
+    "scraped_at": "2026-04-06T22:03:00.960682+00:00"
+  },
+  "NOM-001-SSA3-2018": {
+    "codp": 7469,
+    "nom_code": "NOM-001-SSA3-2018",
+    "nom_id": "nom-001-ssa3-2018",
+    "title": "NOM-001-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7469&view=si",
+    "scraped_at": "2026-04-06T21:55:25.033222+00:00"
+  },
+  "NOM-015-SSA3-2018": {
+    "codp": 9315,
+    "nom_code": "NOM-015-SSA3-2018",
+    "nom_id": "nom-015-ssa3-2018",
+    "title": "NOM-015-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9315&view=si",
+    "scraped_at": "2026-04-06T23:07:23.200951+00:00"
+  },
+  "NOM-017-SSA3-2018": {
+    "codp": 7471,
+    "nom_code": "NOM-017-SSA3-2018",
+    "nom_id": "nom-017-ssa3-2018",
+    "title": "NOM-017-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7471&view=si",
+    "scraped_at": "2026-04-06T21:55:29.613228+00:00"
+  },
+  "NOM-008-ASEA-2018": {
+    "codp": 7714,
+    "nom_code": "NOM-008-ASEA-2018",
+    "nom_id": "nom-008-asea-2018",
+    "title": "NOM-008-ASEA-2018",
+    "ministry": "ASEA",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7714&view=si",
+    "scraped_at": "2026-04-06T22:04:57.965368+00:00"
+  },
+  "NOM-028-SSA3-2018": {
+    "codp": 7479,
+    "nom_code": "NOM-028-SSA3-2018",
+    "nom_id": "nom-028-ssa3-2018",
+    "title": "NOM-028-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7479&view=si",
+    "scraped_at": "2026-04-06T21:55:48.336555+00:00"
+  },
+  "NOM-026-SSA3-2018": {
+    "codp": 7480,
+    "nom_code": "NOM-026-SSA3-2018",
+    "nom_id": "nom-026-ssa3-2018",
+    "title": "NOM-026-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7480&view=si",
+    "scraped_at": "2026-04-06T21:55:50.646633+00:00"
+  },
+  "NOM-029-SSA3-2018": {
+    "codp": 7481,
+    "nom_code": "NOM-029-SSA3-2018",
+    "nom_id": "nom-029-ssa3-2018",
+    "title": "NOM-029-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7481&view=si",
+    "scraped_at": "2026-04-06T21:55:52.967320+00:00"
+  },
+  "NOM-033-ENER-2018": {
+    "codp": 8384,
+    "nom_code": "NOM-033-ENER-2018",
+    "nom_id": "nom-033-ener-2018",
+    "title": "NOM-033-ENER-2018",
+    "ministry": "ENER",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8384&view=si",
+    "scraped_at": "2026-04-06T22:31:05.278198+00:00"
+  },
+  "NOM-031-ENER-2018": {
+    "codp": 7961,
+    "nom_code": "NOM-031-ENER-2018",
+    "nom_id": "nom-031-ener-2018",
+    "title": "NOM-031-ENER-2018",
+    "ministry": "ENER",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7961&view=si",
+    "scraped_at": "2026-04-06T22:14:35.098591+00:00"
+  },
+  "NOM-007-TUR-2018": {
+    "codp": 7489,
+    "nom_code": "NOM-007-TUR-2018",
+    "nom_id": "nom-007-tur-2018",
+    "title": "NOM-007-TUR-2018",
+    "ministry": "TUR",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7489&view=si",
+    "scraped_at": "2026-04-06T21:56:11.567139+00:00"
+  },
+  "NOM-001-SEGOB2-2018": {
+    "codp": 7991,
+    "nom_code": "NOM-001-SEGOB2-2018",
+    "nom_id": "nom-001-segob2-2018",
+    "title": "NOM-001-SEGOB2-2018",
+    "ministry": "SEGOB2",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7991&view=si",
+    "scraped_at": "2026-04-06T22:15:45.228689+00:00"
+  },
+  "NOM-017-CRE-2018": {
+    "codp": 8097,
+    "nom_code": "NOM-017-CRE-2018",
+    "nom_id": "nom-017-cre-2018",
+    "title": "NOM-017-CRE-2018",
+    "ministry": "CRE",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8097&view=si",
+    "scraped_at": "2026-04-06T22:19:53.686066+00:00"
+  },
+  "NOM-011-ASEA-2018": {
+    "codp": 7756,
+    "nom_code": "NOM-011-ASEA-2018",
+    "nom_id": "nom-011-asea-2018",
+    "title": "NOM-011-ASEA-2018",
+    "ministry": "ASEA",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7756&view=si",
+    "scraped_at": "2026-04-06T22:06:36.238925+00:00"
+  },
+  "NOM-003-NUCL-2018": {
+    "codp": 8081,
+    "nom_code": "NOM-003-NUCL-2018",
+    "nom_id": "nom-003-nucl-2018",
+    "title": "NOM-003-NUCL-2018",
+    "ministry": "NUCL",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8081&view=si",
+    "scraped_at": "2026-04-06T22:19:16.164771+00:00"
+  },
+  "NOM-227-SCFI-2017": {
+    "codp": 7551,
+    "nom_code": "NOM-227-SCFI-2017",
+    "nom_id": "nom-227-scfi-2017",
+    "title": "NOM-227-SCFI-2017",
+    "ministry": "SCFI",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7551&view=si",
+    "scraped_at": "2026-04-06T21:58:36.451255+00:00"
+  },
+  "NOM-184-SCFI-2018": {
+    "codp": 7594,
+    "nom_code": "NOM-184-SCFI-2018",
+    "nom_id": "nom-184-scfi-2018",
+    "title": "NOM-184-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7594&view=si",
+    "scraped_at": "2026-04-06T22:00:17.069907+00:00"
+  },
+  "NOM-152-SCFI-2018": {
+    "codp": 7602,
+    "nom_code": "NOM-152-SCFI-2018",
+    "nom_id": "nom-152-scfi-2018",
+    "title": "NOM-152-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7602&view=si",
+    "scraped_at": "2026-04-06T22:00:35.839577+00:00"
+  },
+  "NOM-148-SCFI-2018": {
+    "codp": 7659,
+    "nom_code": "NOM-148-SCFI-2018",
+    "nom_id": "nom-148-scfi-2018",
+    "title": "NOM-148-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7659&view=si",
+    "scraped_at": "2026-04-06T22:02:49.187688+00:00"
+  },
+  "NOM-213-SSA1-2018": {
+    "codp": 7665,
+    "nom_code": "NOM-213-SSA1-2018",
+    "nom_id": "nom-213-ssa1-2018",
+    "title": "NOM-213-SSA1-2018",
+    "ministry": "SSA1",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7665&view=si",
+    "scraped_at": "2026-04-06T22:03:03.277026+00:00"
+  },
+  "NOM-001-ARTF-2019": {
+    "codp": 8345,
+    "nom_code": "NOM-001-ARTF-2019",
+    "nom_id": "nom-001-artf-2019",
+    "title": "NOM-001-ARTF-2019",
+    "ministry": "ARTF",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8345&view=si",
+    "scraped_at": "2026-04-06T22:29:34.468464+00:00"
+  },
+  "NOM-001-ASEA-2019": {
+    "codp": 7670,
+    "nom_code": "NOM-001-ASEA-2019",
+    "nom_id": "nom-001-asea-2019",
+    "title": "NOM-001-ASEA-2019",
+    "ministry": "ASEA",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7670&view=si",
+    "scraped_at": "2026-04-06T22:03:14.921549+00:00"
+  },
+  "NOM-008-NUCL-2019": {
+    "codp": 7671,
+    "nom_code": "NOM-008-NUCL-2019",
+    "nom_id": "nom-008-nucl-2019",
+    "title": "NOM-008-NUCL-2019",
+    "ministry": "NUCL",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7671&view=si",
+    "scraped_at": "2026-04-06T22:03:17.240277+00:00"
+  },
+  "NOM-002-ASEA-2019": {
+    "codp": 7681,
+    "nom_code": "NOM-002-ASEA-2019",
+    "nom_id": "nom-002-asea-2019",
+    "title": "NOM-002-ASEA-2019",
+    "ministry": "ASEA",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7681&view=si",
+    "scraped_at": "2026-04-06T22:03:40.565209+00:00"
+  },
+  "NOM-241-SSA1-2018": {
+    "codp": 8795,
+    "nom_code": "NOM-241-SSA1-2018",
+    "nom_id": "nom-241-ssa1-2018",
+    "title": "NOM-241-SSA1-2018",
+    "ministry": "SSA1",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8795&view=si",
+    "scraped_at": "2026-04-06T22:47:07.475340+00:00"
+  },
+  "NOM-034-SCT2-2018": {
+    "codp": 7694,
+    "nom_code": "NOM-034-SCT2-2018",
+    "nom_id": "nom-034-sct2-2018",
+    "title": "NOM-034-SCT2-2018",
+    "ministry": "SCT2",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7694&view=si",
+    "scraped_at": "2026-04-06T22:04:10.938032+00:00"
+  },
+  "NOM-008-ASEA-2019": {
+    "codp": 8362,
+    "nom_code": "NOM-008-ASEA-2019",
+    "nom_id": "nom-008-asea-2019",
+    "title": "NOM-008-ASEA-2019",
+    "ministry": "ASEA",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8362&view=si",
+    "scraped_at": "2026-04-06T22:30:13.918920+00:00"
+  },
+  "NOM-228-SCFI-2018": {
+    "codp": 7786,
+    "nom_code": "NOM-228-SCFI-2018",
+    "nom_id": "nom-228-scfi-2018",
+    "title": "NOM-228-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7786&view=si",
+    "scraped_at": "2026-04-06T22:07:46.611172+00:00"
+  },
+  "NOM-011-ASEA-2019": {
+    "codp": 8360,
+    "nom_code": "NOM-011-ASEA-2019",
+    "nom_id": "nom-011-asea-2019",
+    "title": "NOM-011-ASEA-2019",
+    "ministry": "ASEA",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8360&view=si",
+    "scraped_at": "2026-04-06T22:30:09.240551+00:00"
+  },
+  "NOM-022-SSA1-2019": {
+    "codp": 7803,
+    "nom_code": "NOM-022-SSA1-2019",
+    "nom_id": "nom-022-ssa1-2019",
+    "title": "NOM-022-SSA1-2019",
+    "ministry": "SSA1",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7803&view=si",
+    "scraped_at": "2026-04-06T22:08:26.193179+00:00"
+  },
+  "NOM-032-SSA3-2018": {
+    "codp": 7868,
+    "nom_code": "NOM-032-SSA3-2018",
+    "nom_id": "nom-032-ssa3-2018",
+    "title": "NOM-032-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7868&view=si",
+    "scraped_at": "2026-04-06T22:10:57.830301+00:00"
+  },
+  "NOM-001-SCFI-2018": {
+    "codp": 8234,
+    "nom_code": "NOM-001-SCFI-2018",
+    "nom_id": "nom-001-scfi-2018",
+    "title": "NOM-001-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8234&view=si",
+    "scraped_at": "2026-04-06T22:25:14.686135+00:00"
+  },
+  "NOM-031-SSA3-2018": {
+    "codp": 7915,
+    "nom_code": "NOM-031-SSA3-2018",
+    "nom_id": "nom-031-ssa3-2018",
+    "title": "NOM-031-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7915&view=si",
+    "scraped_at": "2026-04-06T22:12:47.784720+00:00"
+  },
+  "NOM-042-NUCL-2019": {
+    "codp": 8374,
+    "nom_code": "NOM-042-NUCL-2019",
+    "nom_id": "nom-042-nucl-2019",
+    "title": "NOM-042-NUCL-2019",
+    "ministry": "NUCL",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8374&view=si",
+    "scraped_at": "2026-04-06T22:30:41.925914+00:00"
+  },
+  "NOM-213-SCFI-2018": {
+    "codp": 7947,
+    "nom_code": "NOM-213-SCFI-2018",
+    "nom_id": "nom-213-scfi-2018",
+    "title": "NOM-213-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=7947&view=si",
+    "scraped_at": "2026-04-06T22:14:02.402137+00:00"
+  },
+  "NOM-107-SCT3-2019": {
+    "codp": 8006,
+    "nom_code": "NOM-107-SCT3-2019",
+    "nom_id": "nom-107-sct3-2019",
+    "title": "NOM-107-SCT3-2019",
+    "ministry": "SCT3",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8006&view=si",
+    "scraped_at": "2026-04-06T22:16:20.291010+00:00"
+  },
+  "NOM-171-SEMARNAT-2018": {
+    "codp": 8008,
+    "nom_code": "NOM-171-SEMARNAT-2018",
+    "nom_id": "nom-171-semarnat-2018",
+    "title": "NOM-171-SEMARNAT-2018",
+    "ministry": "SEMARNAT",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8008&view=si",
+    "scraped_at": "2026-04-06T22:16:24.955053+00:00"
+  },
+  "NOM-172-SEMARNAT-2019": {
+    "codp": 8009,
+    "nom_code": "NOM-172-SEMARNAT-2019",
+    "nom_id": "nom-172-semarnat-2019",
+    "title": "NOM-172-SEMARNAT-2019",
+    "ministry": "SEMARNAT",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8009&view=si",
+    "scraped_at": "2026-04-06T22:16:27.271845+00:00"
+  },
+  "NOM-001-SSA1-2018": {
+    "codp": 8376,
+    "nom_code": "NOM-001-SSA1-2018",
+    "nom_id": "nom-001-ssa1-2018",
+    "title": "NOM-001-SSA1-2018",
+    "ministry": "SSA1",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8376&view=si",
+    "scraped_at": "2026-04-06T22:30:46.635317+00:00"
+  },
+  "NOM-093-SCFI-2018": {
+    "codp": 8755,
+    "nom_code": "NOM-093-SCFI-2018",
+    "nom_id": "nom-093-scfi-2018",
+    "title": "NOM-093-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8755&view=si",
+    "scraped_at": "2026-04-06T22:45:33.302495+00:00"
+  },
+  "NOM-127-SSA1-2017": {
+    "codp": 9068,
+    "nom_code": "NOM-127-SSA1-2017",
+    "nom_id": "nom-127-ssa1-2017",
+    "title": "NOM-127-SSA1-2017",
+    "ministry": "SSA1",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9068&view=si",
+    "scraped_at": "2026-04-06T22:57:45.835636+00:00"
+  },
+  "NOM-116-SCFI-2018": {
+    "codp": 8043,
+    "nom_code": "NOM-116-SCFI-2018",
+    "nom_id": "nom-116-scfi-2018",
+    "title": "NOM-116-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8043&view=si",
+    "scraped_at": "2026-04-06T22:17:46.751035+00:00"
+  },
+  "NOM-007-SSPC-2019": {
+    "codp": 8056,
+    "nom_code": "NOM-007-SSPC-2019",
+    "nom_id": "nom-007-sspc-2019",
+    "title": "NOM-007-SSPC-2019",
+    "ministry": "SSPC",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8056&view=si",
+    "scraped_at": "2026-04-06T22:18:17.357935+00:00"
+  },
+  "NOM-003-SSA1-2018": {
+    "codp": 8057,
+    "nom_code": "NOM-003-SSA1-2018",
+    "nom_id": "nom-003-ssa1-2018",
+    "title": "NOM-003-SSA1-2018",
+    "ministry": "SSA1",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8057&view=si",
+    "scraped_at": "2026-04-06T22:18:19.752123+00:00"
+  },
+  "NOM-004-ARTF-2019": {
+    "codp": 8058,
+    "nom_code": "NOM-004-ARTF-2019",
+    "nom_id": "nom-004-artf-2019",
+    "title": "NOM-004-ARTF-2019",
+    "ministry": "ARTF",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8058&view=si",
+    "scraped_at": "2026-04-06T22:18:22.130633+00:00"
+  },
+  "NOM-002-ARTF-2019": {
+    "codp": 8085,
+    "nom_code": "NOM-002-ARTF-2019",
+    "nom_id": "nom-002-artf-2019",
+    "title": "NOM-002-ARTF-2019",
+    "ministry": "ARTF",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8085&view=si",
+    "scraped_at": "2026-04-06T22:19:25.519914+00:00"
+  },
+  "NOM-018-CRE-2019": {
+    "codp": 8096,
+    "nom_code": "NOM-018-CRE-2019",
+    "nom_id": "nom-018-cre-2019",
+    "title": "NOM-018-CRE-2019",
+    "ministry": "CRE",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8096&view=si",
+    "scraped_at": "2026-04-06T22:19:51.365032+00:00"
+  },
+  "NOM-198-SCFI-2018": {
+    "codp": 8109,
+    "nom_code": "NOM-198-SCFI-2018",
+    "nom_id": "nom-198-scfi-2018",
+    "title": "NOM-198-SCFI-2018",
+    "ministry": "SCFI",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8109&view=si",
+    "scraped_at": "2026-04-06T22:20:21.861622+00:00"
+  },
+  "NOM-225-SCFI-2019": {
+    "codp": 8121,
+    "nom_code": "NOM-225-SCFI-2019",
+    "nom_id": "nom-225-scfi-2019",
+    "title": "NOM-225-SCFI-2019",
+    "ministry": "SCFI",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8121&view=si",
+    "scraped_at": "2026-04-06T22:20:50.016679+00:00"
+  },
+  "NOM-017-CRE-2019": {
+    "codp": 8127,
+    "nom_code": "NOM-017-CRE-2019",
+    "nom_id": "nom-017-cre-2019",
+    "title": "NOM-017-CRE-2019",
+    "ministry": "CRE",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8127&view=si",
+    "scraped_at": "2026-04-06T22:21:04.275402+00:00"
+  },
+  "NOM-235-SE-2019": {
+    "codp": 8333,
+    "nom_code": "NOM-235-SE-2019",
+    "nom_id": "nom-235-se-2019",
+    "title": "NOM-235-SE-2019",
+    "ministry": "SE",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8333&view=si",
+    "scraped_at": "2026-04-06T22:29:06.393306+00:00"
+  },
+  "NOM-239-SE-2020": {
+    "codp": 8444,
+    "nom_code": "NOM-239-SE-2020",
+    "nom_id": "nom-239-se-2020",
+    "title": "NOM-239-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8444&view=si",
+    "scraped_at": "2026-04-06T22:33:25.640156+00:00"
+  },
+  "NOM-008-SCT2-2019": {
+    "codp": 8421,
+    "nom_code": "NOM-008-SCT2-2019",
+    "nom_id": "nom-008-sct2-2019",
+    "title": "NOM-008-SCT2-2019",
+    "ministry": "SCT2",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8421&view=si",
+    "scraped_at": "2026-04-06T22:32:31.902463+00:00"
+  },
+  "NOM-014-SCT2-2019": {
+    "codp": 8719,
+    "nom_code": "NOM-014-SCT2-2019",
+    "nom_id": "nom-014-sct2-2019",
+    "title": "NOM-014-SCT2-2019",
+    "ministry": "SCT2",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8719&view=si",
+    "scraped_at": "2026-04-06T22:44:09.138076+00:00"
+  },
+  "NOM-037-SCT2-2019": {
+    "codp": 8379,
+    "nom_code": "NOM-037-SCT2-2019",
+    "nom_id": "nom-037-sct2-2019",
+    "title": "NOM-037-SCT2-2019",
+    "ministry": "SCT2",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8379&view=si",
+    "scraped_at": "2026-04-06T22:30:53.636885+00:00"
+  },
+  "NOM-005-SSA3-2018": {
+    "codp": 8305,
+    "nom_code": "NOM-005-SSA3-2018",
+    "nom_id": "nom-005-ssa3-2018",
+    "title": "NOM-005-SSA3-2018",
+    "ministry": "SSA3",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8305&view=si",
+    "scraped_at": "2026-04-06T22:28:01.127167+00:00"
+  },
+  "NOM-231-SCFI-2019": {
+    "codp": 8308,
+    "nom_code": "NOM-231-SCFI-2019",
+    "nom_id": "nom-231-scfi-2019",
+    "title": "NOM-231-SCFI-2019",
+    "ministry": "SCFI",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8308&view=si",
+    "scraped_at": "2026-04-06T22:28:08.149397+00:00"
+  },
+  "NOM-064-SE-2020": {
+    "codp": 8319,
+    "nom_code": "NOM-064-SE-2020",
+    "nom_id": "nom-064-se-2020",
+    "title": "NOM-064-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8319&view=si",
+    "scraped_at": "2026-04-06T22:28:33.710778+00:00"
+  },
+  "NOM-235-SE-2020": {
+    "codp": 8347,
+    "nom_code": "NOM-235-SE-2020",
+    "nom_id": "nom-235-se-2020",
+    "title": "NOM-235-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8347&view=si",
+    "scraped_at": "2026-04-06T22:29:39.135928+00:00"
+  },
+  "NOM-019-SE-2020": {
+    "codp": 8349,
+    "nom_code": "NOM-019-SE-2020",
+    "nom_id": "nom-019-se-2020",
+    "title": "NOM-019-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8349&view=si",
+    "scraped_at": "2026-04-06T22:29:43.781480+00:00"
+  },
+  "NOM-020-SSA1-2020": {
+    "codp": 8763,
+    "nom_code": "NOM-020-SSA1-2020",
+    "nom_id": "nom-020-ssa1-2020",
+    "title": "NOM-020-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8763&view=si",
+    "scraped_at": "2026-04-06T22:45:52.299159+00:00"
+  },
+  "NOM-021-SSA1-2020": {
+    "codp": 8764,
+    "nom_code": "NOM-021-SSA1-2020",
+    "nom_id": "nom-021-ssa1-2020",
+    "title": "NOM-021-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8764&view=si",
+    "scraped_at": "2026-04-06T22:45:54.601831+00:00"
+  },
+  "NOM-023-SSA1-2020": {
+    "codp": 8768,
+    "nom_code": "NOM-023-SSA1-2020",
+    "nom_id": "nom-023-ssa1-2020",
+    "title": "NOM-023-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8768&view=si",
+    "scraped_at": "2026-04-06T22:46:04.063650+00:00"
+  },
+  "NOM-025-SSA1-2020": {
+    "codp": 8770,
+    "nom_code": "NOM-025-SSA1-2020",
+    "nom_id": "nom-025-ssa1-2020",
+    "title": "NOM-025-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8770&view=si",
+    "scraped_at": "2026-04-06T22:46:08.838207+00:00"
+  },
+  "NOM-026-SSA1-2020": {
+    "codp": 8772,
+    "nom_code": "NOM-026-SSA1-2020",
+    "nom_id": "nom-026-ssa1-2020",
+    "title": "NOM-026-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8772&view=si",
+    "scraped_at": "2026-04-06T22:46:13.540967+00:00"
+  },
+  "NOM-234-SCFI-2019": {
+    "codp": 8359,
+    "nom_code": "NOM-234-SCFI-2019",
+    "nom_id": "nom-234-scfi-2019",
+    "title": "NOM-234-SCFI-2019",
+    "ministry": "SCFI",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8359&view=si",
+    "scraped_at": "2026-04-06T22:30:06.905390+00:00"
+  },
+  "NOM-179-SSA1-2020": {
+    "codp": 8366,
+    "nom_code": "NOM-179-SSA1-2020",
+    "nom_id": "nom-179-ssa1-2020",
+    "title": "NOM-179-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8366&view=si",
+    "scraped_at": "2026-04-06T22:30:23.202579+00:00"
+  },
+  "NOM-004-SE-2020": {
+    "codp": 8877,
+    "nom_code": "NOM-004-SE-2020",
+    "nom_id": "nom-004-se-2020",
+    "title": "NOM-004-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8877&view=si",
+    "scraped_at": "2026-04-06T22:50:19.415823+00:00"
+  },
+  "NOM-120-SEMARNAT-2020": {
+    "codp": 8368,
+    "nom_code": "NOM-120-SEMARNAT-2020",
+    "nom_id": "nom-120-semarnat-2020",
+    "title": "NOM-120-SEMARNAT-2020",
+    "ministry": "SEMARNAT",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8368&view=si",
+    "scraped_at": "2026-04-06T22:30:27.862369+00:00"
+  },
+  "NOM-013-SEMARNAT-2020": {
+    "codp": 8369,
+    "nom_code": "NOM-013-SEMARNAT-2020",
+    "nom_id": "nom-013-semarnat-2020",
+    "title": "NOM-013-SEMARNAT-2020",
+    "ministry": "SEMARNAT",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8369&view=si",
+    "scraped_at": "2026-04-06T22:30:30.195565+00:00"
+  },
+  "NOM-004-SAGARPA-2018": {
+    "codp": 8370,
+    "nom_code": "NOM-004-SAGARPA-2018",
+    "nom_id": "nom-004-sagarpa-2018",
+    "title": "NOM-004-SAGARPA-2018",
+    "ministry": "SAGARPA",
+    "year": 2018,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8370&view=si",
+    "scraped_at": "2026-04-06T22:30:32.517033+00:00"
+  },
+  "NOM-004-ARTF-2020": {
+    "codp": 8372,
+    "nom_code": "NOM-004-ARTF-2020",
+    "nom_id": "nom-004-artf-2020",
+    "title": "NOM-004-ARTF-2020",
+    "ministry": "ARTF",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8372&view=si",
+    "scraped_at": "2026-04-06T22:30:37.203612+00:00"
+  },
+  "NOM-039-NUCL-2020": {
+    "codp": 8375,
+    "nom_code": "NOM-039-NUCL-2020",
+    "nom_id": "nom-039-nucl-2020",
+    "title": "NOM-039-NUCL-2020",
+    "ministry": "NUCL",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8375&view=si",
+    "scraped_at": "2026-04-06T22:30:44.276761+00:00"
+  },
+  "NOM-014-ENER-2020": {
+    "codp": 8518,
+    "nom_code": "NOM-014-ENER-2020",
+    "nom_id": "nom-014-ener-2020",
+    "title": "NOM-014-ENER-2020",
+    "ministry": "ENER",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8518&view=si",
+    "scraped_at": "2026-04-06T22:36:18.955894+00:00"
+  },
+  "NOM-010-ENER-2020": {
+    "codp": 8511,
+    "nom_code": "NOM-010-ENER-2020",
+    "nom_id": "nom-010-ener-2020",
+    "title": "NOM-010-ENER-2020",
+    "ministry": "ENER",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8511&view=si",
+    "scraped_at": "2026-04-06T22:36:02.558764+00:00"
+  },
+  "NOM-001-SEDATU-2020": {
+    "codp": 8933,
+    "nom_code": "NOM-001-SEDATU-2020",
+    "nom_id": "nom-001-sedatu-2020",
+    "title": "NOM-001-SEDATU-2020",
+    "ministry": "SEDATU",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8933&view=si",
+    "scraped_at": "2026-04-06T22:52:30.602382+00:00"
+  },
+  "NOM-012-ENER-2019": {
+    "codp": 8386,
+    "nom_code": "NOM-012-ENER-2019",
+    "nom_id": "nom-012-ener-2019",
+    "title": "NOM-012-ENER-2019",
+    "ministry": "ENER",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8386&view=si",
+    "scraped_at": "2026-04-06T22:31:10.031343+00:00"
+  },
+  "NOM-001-SSA1-2020": {
+    "codp": 8388,
+    "nom_code": "NOM-001-SSA1-2020",
+    "nom_id": "nom-001-ssa1-2020",
+    "title": "NOM-001-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8388&view=si",
+    "scraped_at": "2026-04-06T22:31:14.754773+00:00"
+  },
+  "NOM-029-SE-2020": {
+    "codp": 8389,
+    "nom_code": "NOM-029-SE-2020",
+    "nom_id": "nom-029-se-2020",
+    "title": "NOM-029-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8389&view=si",
+    "scraped_at": "2026-04-06T22:31:17.137878+00:00"
+  },
+  "NOM-227-SE-2020": {
+    "codp": 8396,
+    "nom_code": "NOM-227-SE-2020",
+    "nom_id": "nom-227-se-2020",
+    "title": "NOM-227-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8396&view=si",
+    "scraped_at": "2026-04-06T22:31:33.350739+00:00"
+  },
+  "NOM-003-ENER-2020": {
+    "codp": 8519,
+    "nom_code": "NOM-003-ENER-2020",
+    "nom_id": "nom-003-ener-2020",
+    "title": "NOM-003-ENER-2020",
+    "ministry": "ENER",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8519&view=si",
+    "scraped_at": "2026-04-06T22:36:21.291622+00:00"
+  },
+  "NOM-236-SE-2020": {
+    "codp": 9083,
+    "nom_code": "NOM-236-SE-2020",
+    "nom_id": "nom-236-se-2020",
+    "title": "NOM-236-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9083&view=si",
+    "scraped_at": "2026-04-06T22:58:20.958500+00:00"
+  },
+  "NOM-003-ARTF-2019": {
+    "codp": 8414,
+    "nom_code": "NOM-003-ARTF-2019",
+    "nom_id": "nom-003-artf-2019",
+    "title": "NOM-003-ARTF-2019",
+    "ministry": "ARTF",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8414&view=si",
+    "scraped_at": "2026-04-06T22:32:15.635608+00:00"
+  },
+  "NOM-004-STPS-2020": {
+    "codp": 8417,
+    "nom_code": "NOM-004-STPS-2020",
+    "nom_id": "nom-004-stps-2020",
+    "title": "NOM-004-STPS-2020",
+    "ministry": "STPS",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8417&view=si",
+    "scraped_at": "2026-04-06T22:32:22.632481+00:00"
+  },
+  "NOM-173-SE-2020": {
+    "codp": 8829,
+    "nom_code": "NOM-173-SE-2020",
+    "nom_id": "nom-173-se-2020",
+    "title": "NOM-173-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8829&view=si",
+    "scraped_at": "2026-04-06T22:48:27.068772+00:00"
+  },
+  "NOM-037-SCT2-2020": {
+    "codp": 9381,
+    "nom_code": "NOM-037-SCT2-2020",
+    "nom_id": "nom-037-sct2-2020",
+    "title": "NOM-037-SCT2-2020",
+    "ministry": "SCT2",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9381&view=si",
+    "scraped_at": "2026-04-06T23:09:58.210600+00:00"
+  },
+  "NOM-031-ENER-2019": {
+    "codp": 8429,
+    "nom_code": "NOM-031-ENER-2019",
+    "nom_id": "nom-031-ener-2019",
+    "title": "NOM-031-ENER-2019",
+    "ministry": "ENER",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8429&view=si",
+    "scraped_at": "2026-04-06T22:32:50.601198+00:00"
+  },
+  "NOM-008-SE-2020": {
+    "codp": 9382,
+    "nom_code": "NOM-008-SE-2020",
+    "nom_id": "nom-008-se-2020",
+    "title": "NOM-008-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9382&view=si",
+    "scraped_at": "2026-04-06T23:10:00.527751+00:00"
+  },
+  "NOM-244-SSA1-2020": {
+    "codp": 8822,
+    "nom_code": "NOM-244-SSA1-2020",
+    "nom_id": "nom-244-ssa1-2020",
+    "title": "NOM-244-SSA1-2020",
+    "ministry": "SSA1",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8822&view=si",
+    "scraped_at": "2026-04-06T22:48:10.612450+00:00"
+  },
+  "NOM-027-NUCL-2019": {
+    "codp": 8449,
+    "nom_code": "NOM-027-NUCL-2019",
+    "nom_id": "nom-027-nucl-2019",
+    "title": "NOM-027-NUCL-2019, RESPUESTA a los comentarios...",
+    "ministry": "NUCL",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8449&view=si",
+    "scraped_at": "2026-04-06T22:33:37.487489+00:00"
+  },
+  "NOM-008-NUCL-2020": {
+    "codp": 8451,
+    "nom_code": "NOM-008-NUCL-2020",
+    "nom_id": "nom-008-nucl-2020",
+    "title": "NOM-008-NUCL-2020",
+    "ministry": "NUCL",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8451&view=si",
+    "scraped_at": "2026-04-06T22:33:42.201928+00:00"
+  },
+  "NOM-031-NUCL-2020": {
+    "codp": 8766,
+    "nom_code": "NOM-031-NUCL-2020",
+    "nom_id": "nom-031-nucl-2020",
+    "title": "NOM-031-NUCL-2020",
+    "ministry": "NUCL",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8766&view=si",
+    "scraped_at": "2026-04-06T22:45:59.408452+00:00"
+  },
+  "NOM-002-SEDATU-2020": {
+    "codp": 9128,
+    "nom_code": "NOM-002-SEDATU-2020",
+    "nom_id": "nom-002-sedatu-2020",
+    "title": "NOM-002-SEDATU-2020",
+    "ministry": "SEDATU",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9128&view=si",
+    "scraped_at": "2026-04-06T23:00:06.445533+00:00"
+  },
+  "NOM-012-ASEA-2021": {
+    "codp": 8461,
+    "nom_code": "NOM-012-ASEA-2021",
+    "nom_id": "nom-012-asea-2021",
+    "title": "NOM-012-ASEA-2021",
+    "ministry": "ASEA",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8461&view=si",
+    "scraped_at": "2026-04-06T22:34:05.671500+00:00"
+  },
+  "NOM-013-ASEA-2021": {
+    "codp": 9292,
+    "nom_code": "NOM-013-ASEA-2021",
+    "nom_id": "nom-013-asea-2021",
+    "title": "NOM-013-ASEA-2021",
+    "ministry": "ASEA",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9292&view=si",
+    "scraped_at": "2026-04-06T23:06:29.445020+00:00"
+  },
+  "NOM-008-SCT2-2020": {
+    "codp": 8467,
+    "nom_code": "NOM-008-SCT2-2020",
+    "nom_id": "nom-008-sct2-2020",
+    "title": "NOM-008-SCT2-2020",
+    "ministry": "SCT2",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8467&view=si",
+    "scraped_at": "2026-04-06T22:34:19.596181+00:00"
+  },
+  "NOM-173-SEMARNAT-2021": {
+    "codp": 9353,
+    "nom_code": "NOM-173-SEMARNAT-2021",
+    "nom_id": "nom-173-semarnat-2021",
+    "title": "NOM-173-SEMARNAT-2021",
+    "ministry": "SEMARNAT",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9353&view=si",
+    "scraped_at": "2026-04-06T23:08:52.262666+00:00"
+  },
+  "NOM-237-SE-2020": {
+    "codp": 8478,
+    "nom_code": "NOM-237-SE-2020",
+    "nom_id": "nom-237-se-2020",
+    "title": "NOM-237-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8478&view=si",
+    "scraped_at": "2026-04-06T22:34:45.388368+00:00"
+  },
+  "NOM-217-SE-2020": {
+    "codp": 8479,
+    "nom_code": "NOM-217-SE-2020",
+    "nom_id": "nom-217-se-2020",
+    "title": "NOM-217-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8479&view=si",
+    "scraped_at": "2026-04-06T22:34:47.707132+00:00"
+  },
+  "NOM-018-CRE-2020": {
+    "codp": 8510,
+    "nom_code": "NOM-018-CRE-2020",
+    "nom_id": "nom-018-cre-2020",
+    "title": "NOM-018-CRE-2020",
+    "ministry": "CRE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8510&view=si",
+    "scraped_at": "2026-04-06T22:36:00.246995+00:00"
+  },
+  "NOM-247-SE-2021": {
+    "codp": 9057,
+    "nom_code": "NOM-247-SE-2021",
+    "nom_id": "nom-247-se-2021",
+    "title": "NOM-247-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9057&view=si",
+    "scraped_at": "2026-04-06T22:57:20.278837+00:00"
+  },
+  "NOM-152-SCFI-2019": {
+    "codp": 8561,
+    "nom_code": "NOM-152-SCFI-2019",
+    "nom_id": "nom-152-scfi-2019",
+    "title": "NOM-152-SCFI-2019",
+    "ministry": "SCFI",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8561&view=si",
+    "scraped_at": "2026-04-06T22:37:59.309779+00:00"
+  },
+  "NOM-033-ENER-2019": {
+    "codp": 8564,
+    "nom_code": "NOM-033-ENER-2019",
+    "nom_id": "nom-033-ener-2019",
+    "title": "NOM-033-ENER-2019",
+    "ministry": "ENER",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8564&view=si",
+    "scraped_at": "2026-04-06T22:38:06.325243+00:00"
+  },
+  "NOM-251-SE-2020": {
+    "codp": 8565,
+    "nom_code": "NOM-251-SE-2020",
+    "nom_id": "nom-251-se-2020",
+    "title": "NOM-251-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8565&view=si",
+    "scraped_at": "2026-04-06T22:38:08.707226+00:00"
+  },
+  "NOM-027-NUCL-2021": {
+    "codp": 8566,
+    "nom_code": "NOM-027-NUCL-2021",
+    "nom_id": "nom-027-nucl-2021",
+    "title": "NOM-027-NUCL-2021",
+    "ministry": "NUCL",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8566&view=si",
+    "scraped_at": "2026-04-06T22:38:11.052450+00:00"
+  },
+  "NOM-041-NUCL-2021": {
+    "codp": 8718,
+    "nom_code": "NOM-041-NUCL-2021",
+    "nom_id": "nom-041-nucl-2021",
+    "title": "NOM-041-NUCL-2021",
+    "ministry": "NUCL",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8718&view=si",
+    "scraped_at": "2026-04-06T22:44:06.845932+00:00"
+  },
+  "NOM-003-ENER-2021": {
+    "codp": 8724,
+    "nom_code": "NOM-003-ENER-2021",
+    "nom_id": "nom-003-ener-2021",
+    "title": "NOM-003-ENER-2021",
+    "ministry": "ENER",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8724&view=si",
+    "scraped_at": "2026-04-06T22:44:20.777641+00:00"
+  },
+  "NOM-243-SE-2020": {
+    "codp": 8732,
+    "nom_code": "NOM-243-SE-2020",
+    "nom_id": "nom-243-se-2020",
+    "title": "NOM-243-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8732&view=si",
+    "scraped_at": "2026-04-06T22:44:39.384968+00:00"
+  },
+  "NOM-194-SE-2021": {
+    "codp": 9282,
+    "nom_code": "NOM-194-SE-2021",
+    "nom_id": "nom-194-se-2021",
+    "title": "NOM-194-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9282&view=si",
+    "scraped_at": "2026-04-06T23:06:05.997459+00:00"
+  },
+  "NOM-001-NUCL-2020": {
+    "codp": 8765,
+    "nom_code": "NOM-001-NUCL-2020",
+    "nom_id": "nom-001-nucl-2020",
+    "title": "NOM-001-NUCL-2020",
+    "ministry": "NUCL",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8765&view=si",
+    "scraped_at": "2026-04-06T22:45:56.933757+00:00"
+  },
+  "NOM-003-NUCL-2021": {
+    "codp": 8769,
+    "nom_code": "NOM-003-NUCL-2021",
+    "nom_id": "nom-003-nucl-2021",
+    "title": "NOM-003-NUCL-2021",
+    "ministry": "NUCL",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8769&view=si",
+    "scraped_at": "2026-04-06T22:46:06.473650+00:00"
+  },
+  "NOM-011-NUCL-2021": {
+    "codp": 8771,
+    "nom_code": "NOM-011-NUCL-2021",
+    "nom_id": "nom-011-nucl-2021",
+    "title": "NOM-011-NUCL-2021",
+    "ministry": "NUCL",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8771&view=si",
+    "scraped_at": "2026-04-06T22:46:11.202199+00:00"
+  },
+  "NOM-023-SSA1-2021": {
+    "codp": 8777,
+    "nom_code": "NOM-023-SSA1-2021",
+    "nom_id": "nom-023-ssa1-2021",
+    "title": "NOM-023-SSA1-2021",
+    "ministry": "SSA1",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8777&view=si",
+    "scraped_at": "2026-04-06T22:46:25.163666+00:00"
+  },
+  "NOM-025-SSA1-2021": {
+    "codp": 8778,
+    "nom_code": "NOM-025-SSA1-2021",
+    "nom_id": "nom-025-ssa1-2021",
+    "title": "NOM-025-SSA1-2021",
+    "ministry": "SSA1",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8778&view=si",
+    "scraped_at": "2026-04-06T22:46:27.460012+00:00"
+  },
+  "NOM-020-SSA1-2021": {
+    "codp": 8779,
+    "nom_code": "NOM-020-SSA1-2021",
+    "nom_id": "nom-020-ssa1-2021",
+    "title": "NOM-020-SSA1-2021",
+    "ministry": "SSA1",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8779&view=si",
+    "scraped_at": "2026-04-06T22:46:29.780469+00:00"
+  },
+  "NOM-021-SSA1-2021": {
+    "codp": 8781,
+    "nom_code": "NOM-021-SSA1-2021",
+    "nom_id": "nom-021-ssa1-2021",
+    "title": "NOM-021-SSA1-2021",
+    "ministry": "SSA1",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8781&view=si",
+    "scraped_at": "2026-04-06T22:46:34.432947+00:00"
+  },
+  "NOM-026-SSA1-2021": {
+    "codp": 8782,
+    "nom_code": "NOM-026-SSA1-2021",
+    "nom_id": "nom-026-ssa1-2021",
+    "title": "NOM-026-SSA1-2021",
+    "ministry": "SSA1",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8782&view=si",
+    "scraped_at": "2026-04-06T22:46:36.729934+00:00"
+  },
+  "NOM-007-SCT2-2021": {
+    "codp": 9137,
+    "nom_code": "NOM-007-SCT2-2021",
+    "nom_id": "nom-007-sct2-2021",
+    "title": "NOM-007-SCT2-2021",
+    "ministry": "SCT2",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9137&view=si",
+    "scraped_at": "2026-04-06T23:00:27.532737+00:00"
+  },
+  "NOM-093-SCFI-2020": {
+    "codp": 8787,
+    "nom_code": "NOM-093-SCFI-2020",
+    "nom_id": "nom-093-scfi-2020",
+    "title": "NOM-093-SCFI-2020",
+    "ministry": "SCFI",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8787&view=si",
+    "scraped_at": "2026-04-06T22:46:48.577583+00:00"
+  },
+  "NOM-255-SE-2021": {
+    "codp": 9281,
+    "nom_code": "NOM-255-SE-2021",
+    "nom_id": "nom-255-se-2021",
+    "title": "NOM-255-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9281&view=si",
+    "scraped_at": "2026-04-06T23:06:03.694325+00:00"
+  },
+  "NOM-010-TUR-2021": {
+    "codp": 8823,
+    "nom_code": "NOM-010-TUR-2021",
+    "nom_id": "nom-010-tur-2021",
+    "title": "NOM-010-TUR-2021",
+    "ministry": "TUR",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8823&view=si",
+    "scraped_at": "2026-04-06T22:48:12.916794+00:00"
+  },
+  "NOM-241-SSA1-2021": {
+    "codp": 8831,
+    "nom_code": "NOM-241-SSA1-2021",
+    "nom_id": "nom-241-ssa1-2021",
+    "title": "NOM-241-SSA1-2021",
+    "ministry": "SSA1",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8831&view=si",
+    "scraped_at": "2026-04-06T22:48:31.782546+00:00"
+  },
+  "NOM-004-SE-2021": {
+    "codp": 8934,
+    "nom_code": "NOM-004-SE-2021",
+    "nom_id": "nom-004-se-2021",
+    "title": "NOM-004-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=8934&view=si",
+    "scraped_at": "2026-04-06T22:52:32.894645+00:00"
+  },
+  "NOM-001-SEMARNAT-2017": {
+    "codp": 9002,
+    "nom_code": "NOM-001-SEMARNAT-2017",
+    "nom_id": "nom-001-semarnat-2017",
+    "title": "NOM-001-SEMARNAT-2017",
+    "ministry": "SEMARNAT",
+    "year": 2017,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9002&view=si",
+    "scraped_at": "2026-04-06T22:55:12.255534+00:00"
+  },
+  "NOM-001-SEDATU-2021": {
+    "codp": 9009,
+    "nom_code": "NOM-001-SEDATU-2021",
+    "nom_id": "nom-001-sedatu-2021",
+    "title": "NOM-001-SEDATU-2021",
+    "ministry": "SEDATU",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9009&view=si",
+    "scraped_at": "2026-04-06T22:55:28.510985+00:00"
+  },
+  "NOM-007-TUR-2021": {
+    "codp": 9016,
+    "nom_code": "NOM-007-TUR-2021",
+    "nom_id": "nom-007-tur-2021",
+    "title": "NOM-007-TUR-2021",
+    "ministry": "TUR",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9016&view=si",
+    "scraped_at": "2026-04-06T22:55:44.919560+00:00"
+  },
+  "NOM-173-SE-2021": {
+    "codp": 9020,
+    "nom_code": "NOM-173-SE-2021",
+    "nom_id": "nom-173-se-2021",
+    "title": "NOM-173-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9020&view=si",
+    "scraped_at": "2026-04-06T22:55:54.245304+00:00"
+  },
+  "NOM-008-TUR-2021": {
+    "codp": 9506,
+    "nom_code": "NOM-008-TUR-2021",
+    "nom_id": "nom-008-tur-2021",
+    "title": "NOM-008-TUR-2021",
+    "ministry": "TUR",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9506&view=si",
+    "scraped_at": "2026-04-06T23:14:51.422944+00:00"
+  },
+  "NOM-029-SE-2021": {
+    "codp": 9066,
+    "nom_code": "NOM-029-SE-2021",
+    "nom_id": "nom-029-se-2021",
+    "title": "NOM-029-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9066&view=si",
+    "scraped_at": "2026-04-06T22:57:41.221066+00:00"
+  },
+  "NOM-001-SEMARNAT-2021": {
+    "codp": 9298,
+    "nom_code": "NOM-001-SEMARNAT-2021",
+    "nom_id": "nom-001-semarnat-2021",
+    "title": "NOM-001-SEMARNAT-2021",
+    "ministry": "SEMARNAT",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9298&view=si",
+    "scraped_at": "2026-04-06T23:06:43.498697+00:00"
+  },
+  "NOM-241-SE-2021": {
+    "codp": 9065,
+    "nom_code": "NOM-241-SE-2021",
+    "nom_id": "nom-241-se-2021",
+    "title": "NOM-241-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9065&view=si",
+    "scraped_at": "2026-04-06T22:57:38.896281+00:00"
+  },
+  "NOM-014-ASEA-2022": {
+    "codp": 9366,
+    "nom_code": "NOM-014-ASEA-2022",
+    "nom_id": "nom-014-asea-2022",
+    "title": "NOM-014-ASEA-2022",
+    "ministry": "ASEA",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9366&view=si",
+    "scraped_at": "2026-04-06T23:09:22.788575+00:00"
+  },
+  "NOM-257-SE-2021": {
+    "codp": 9089,
+    "nom_code": "NOM-257-SE-2021",
+    "nom_id": "nom-257-se-2021",
+    "title": "NOM-257-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9089&view=si",
+    "scraped_at": "2026-04-06T22:58:35.033916+00:00"
+  },
+  "NOM-127-SSA1-2021": {
+    "codp": 9114,
+    "nom_code": "NOM-127-SSA1-2021",
+    "nom_id": "nom-127-ssa1-2021",
+    "title": "NOM-127-SSA1-2021",
+    "ministry": "SSA1",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9114&view=si",
+    "scraped_at": "2026-04-06T22:59:33.574249+00:00"
+  },
+  "NOM-236-SE-2021": {
+    "codp": 9294,
+    "nom_code": "NOM-236-SE-2021",
+    "nom_id": "nom-236-se-2021",
+    "title": "NOM-236-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9294&view=si",
+    "scraped_at": "2026-04-06T23:06:34.110882+00:00"
+  },
+  "NOM-005-SE-2020": {
+    "codp": 9134,
+    "nom_code": "NOM-005-SE-2020",
+    "nom_id": "nom-005-se-2020",
+    "title": "NOM-005-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9134&view=si",
+    "scraped_at": "2026-04-06T23:00:20.556762+00:00"
+  },
+  "NOM-259-SE-2021": {
+    "codp": 9439,
+    "nom_code": "NOM-259-SE-2021",
+    "nom_id": "nom-259-se-2021",
+    "title": "NOM-259-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9439&view=si",
+    "scraped_at": "2026-04-06T23:12:14.260268+00:00"
+  },
+  "NOM-259-SSA1-2022": {
+    "codp": 9280,
+    "nom_code": "NOM-259-SSA1-2022",
+    "nom_id": "nom-259-ssa1-2022",
+    "title": "NOM-259-SSA1-2022",
+    "ministry": "SSA1",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9280&view=si",
+    "scraped_at": "2026-04-06T23:06:01.379201+00:00"
+  },
+  "NOM-037-STPS-2022": {
+    "codp": 9324,
+    "nom_code": "NOM-037-STPS-2022",
+    "nom_id": "nom-037-stps-2022",
+    "title": "NOM-037-STPS-2022",
+    "ministry": "STPS",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9324&view=si",
+    "scraped_at": "2026-04-06T23:07:44.334298+00:00"
+  },
+  "NOM-053-SE-2020": {
+    "codp": 9149,
+    "nom_code": "NOM-053-SE-2020",
+    "nom_id": "nom-053-se-2020",
+    "title": "NOM-053-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9149&view=si",
+    "scraped_at": "2026-04-06T23:00:55.488596+00:00"
+  },
+  "NOM-006-CONAGUA-2022": {
+    "codp": 9160,
+    "nom_code": "NOM-006-CONAGUA-2022",
+    "nom_id": "nom-006-conagua-2022",
+    "title": "NOM-006-CONAGUA-2022",
+    "ministry": "CONAGUA",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9160&view=si",
+    "scraped_at": "2026-04-06T23:01:21.111774+00:00"
+  },
+  "NOM-253-SE-2021": {
+    "codp": 9170,
+    "nom_code": "NOM-253-SE-2021",
+    "nom_id": "nom-253-se-2021",
+    "title": "NOM-253-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9170&view=si",
+    "scraped_at": "2026-04-06T23:01:44.516933+00:00"
+  },
+  "NOM-203-SE-2020": {
+    "codp": 9181,
+    "nom_code": "NOM-203-SE-2020",
+    "nom_id": "nom-203-se-2020",
+    "title": "NOM-203-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9181&view=si",
+    "scraped_at": "2026-04-06T23:02:10.300705+00:00"
+  },
+  "NOM-118-SE-2021": {
+    "codp": 9187,
+    "nom_code": "NOM-118-SE-2021",
+    "nom_id": "nom-118-se-2021",
+    "title": "NOM-118-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9187&view=si",
+    "scraped_at": "2026-04-06T23:02:24.246113+00:00"
+  },
+  "NOM-002-SEDATU-2022": {
+    "codp": 9247,
+    "nom_code": "NOM-002-SEDATU-2022",
+    "nom_id": "nom-002-sedatu-2022",
+    "title": "NOM-002-SEDATU-2022",
+    "ministry": "SEDATU",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9247&view=si",
+    "scraped_at": "2026-04-06T23:04:44.473201+00:00"
+  },
+  "NOM-215-SE-2020": {
+    "codp": 9256,
+    "nom_code": "NOM-215-SE-2020",
+    "nom_id": "nom-215-se-2020",
+    "title": "NOM-215-SE-2020",
+    "ministry": "SE",
+    "year": 2020,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9256&view=si",
+    "scraped_at": "2026-04-06T23:05:05.429472+00:00"
+  },
+  "NOM-086-SCT2-2022": {
+    "codp": 9343,
+    "nom_code": "NOM-086-SCT2-2022",
+    "nom_id": "nom-086-sct2-2022",
+    "title": "NOM-086-SCT2-2022",
+    "ministry": "SCT2",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9343&view=si",
+    "scraped_at": "2026-04-06T23:08:28.756616+00:00"
+  },
+  "NOM-069-SCT3-2019": {
+    "codp": 9274,
+    "nom_code": "NOM-069-SCT3-2019",
+    "nom_id": "nom-069-sct3-2019",
+    "title": "NOM-069-SCT3-2019",
+    "ministry": "SCT3",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9274&view=si",
+    "scraped_at": "2026-04-06T23:05:47.395488+00:00"
+  },
+  "NOM-024-SE-2022": {
+    "codp": 9279,
+    "nom_code": "NOM-024-SE-2022",
+    "nom_id": "nom-024-se-2022",
+    "title": "NOM-024-SE-2022",
+    "ministry": "SE",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9279&view=si",
+    "scraped_at": "2026-04-06T23:05:59.034291+00:00"
+  },
+  "NOM-255-SE-2022": {
+    "codp": 9284,
+    "nom_code": "NOM-255-SE-2022",
+    "nom_id": "nom-255-se-2022",
+    "title": "NOM-255-SE-2022",
+    "ministry": "SE",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9284&view=si",
+    "scraped_at": "2026-04-06T23:06:10.757695+00:00"
+  },
+  "NOM-064-SCT3-2021": {
+    "codp": 9392,
+    "nom_code": "NOM-064-SCT3-2021",
+    "nom_id": "nom-064-sct3-2021",
+    "title": "NOM-064-SCT3-2021",
+    "ministry": "SCT3",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9392&view=si",
+    "scraped_at": "2026-04-06T23:10:23.842480+00:00"
+  },
+  "NOM-002-CONAGUA-2021": {
+    "codp": 9295,
+    "nom_code": "NOM-002-CONAGUA-2021",
+    "nom_id": "nom-002-conagua-2021",
+    "title": "NOM-002-CONAGUA-2021",
+    "ministry": "CONAGUA",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9295&view=si",
+    "scraped_at": "2026-04-06T23:06:36.472222+00:00"
+  },
+  "NOM-036-SCT2-2022": {
+    "codp": 9344,
+    "nom_code": "NOM-036-SCT2-2022",
+    "nom_id": "nom-036-sct2-2022",
+    "title": "NOM-036-SCT2-2022",
+    "ministry": "SCT2",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9344&view=si",
+    "scraped_at": "2026-04-06T23:08:31.125341+00:00"
+  },
+  "NOM-015-ASEA-2023": {
+    "codp": 9372,
+    "nom_code": "NOM-015-ASEA-2023",
+    "nom_id": "nom-015-asea-2023",
+    "title": "NOM-015-ASEA-2023",
+    "ministry": "ASEA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9372&view=si",
+    "scraped_at": "2026-04-06T23:09:36.912394+00:00"
+  },
+  "NOM-012-TUR-2022": {
+    "codp": 9310,
+    "nom_code": "NOM-012-TUR-2022",
+    "nom_id": "nom-012-tur-2022",
+    "title": "NOM-012-TUR-2022",
+    "ministry": "TUR",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9310&view=si",
+    "scraped_at": "2026-04-06T23:07:11.516153+00:00"
+  },
+  "NOM-001-SSA-2023": {
+    "codp": 9417,
+    "nom_code": "NOM-001-SSA-2023",
+    "nom_id": "nom-001-ssa-2023",
+    "title": "NOM-001-SSA-2023",
+    "ministry": "SSA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9417&view=si",
+    "scraped_at": "2026-04-06T23:11:22.572412+00:00"
+  },
+  "NOM-033-SSA-2023": {
+    "codp": 9416,
+    "nom_code": "NOM-033-SSA-2023",
+    "nom_id": "nom-033-ssa-2023",
+    "title": "NOM-033-SSA-2023",
+    "ministry": "SSA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9416&view=si",
+    "scraped_at": "2026-04-06T23:11:20.245011+00:00"
+  },
+  "NOM-039-SSA-2023": {
+    "codp": 9397,
+    "nom_code": "NOM-039-SSA-2023",
+    "nom_id": "nom-039-ssa-2023",
+    "title": "NOM-039-SSA-2023",
+    "ministry": "SSA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9397&view=si",
+    "scraped_at": "2026-04-06T23:10:35.597625+00:00"
+  },
+  "NOM-172-SEMARNAT-2023": {
+    "codp": 9393,
+    "nom_code": "NOM-172-SEMARNAT-2023",
+    "nom_id": "nom-172-semarnat-2023",
+    "title": "NOM-172-SEMARNAT-2023",
+    "ministry": "SEMARNAT",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9393&view=si",
+    "scraped_at": "2026-04-06T23:10:26.217048+00:00"
+  },
+  "NOM-018-CRE-2022": {
+    "codp": 9316,
+    "nom_code": "NOM-018-CRE-2022",
+    "nom_id": "nom-018-cre-2022",
+    "title": "NOM-018-CRE-2022",
+    "ministry": "CRE",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9316&view=si",
+    "scraped_at": "2026-04-06T23:07:25.519328+00:00"
+  },
+  "NOM-016-ASEA-2023": {
+    "codp": 9355,
+    "nom_code": "NOM-016-ASEA-2023",
+    "nom_id": "nom-016-asea-2023",
+    "title": "NOM-016-ASEA-2023",
+    "ministry": "ASEA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9355&view=si",
+    "scraped_at": "2026-04-06T23:08:56.872966+00:00"
+  },
+  "NOM-005-ARTF-2023": {
+    "codp": 9383,
+    "nom_code": "NOM-005-ARTF-2023",
+    "nom_id": "nom-005-artf-2023",
+    "title": "NOM-005-ARTF-2023",
+    "ministry": "ARTF",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9383&view=si",
+    "scraped_at": "2026-04-06T23:10:02.851349+00:00"
+  },
+  "NOM-006-ARTF-2023": {
+    "codp": 9414,
+    "nom_code": "NOM-006-ARTF-2023",
+    "nom_id": "nom-006-artf-2023",
+    "title": "NOM-006-ARTF-2023",
+    "ministry": "ARTF",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9414&view=si",
+    "scraped_at": "2026-04-06T23:11:15.615392+00:00"
+  },
+  "NOM-007-ARTF-2023": {
+    "codp": 9415,
+    "nom_code": "NOM-007-ARTF-2023",
+    "nom_id": "nom-007-artf-2023",
+    "title": "NOM-007-ARTF-2023",
+    "ministry": "ARTF",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9415&view=si",
+    "scraped_at": "2026-04-06T23:11:17.938772+00:00"
+  },
+  "NOM-008-ARTF-2023": {
+    "codp": 9408,
+    "nom_code": "NOM-008-ARTF-2023",
+    "nom_id": "nom-008-artf-2023",
+    "title": "NOM-008-ARTF-2023",
+    "ministry": "ARTF",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9408&view=si",
+    "scraped_at": "2026-04-06T23:11:01.541631+00:00"
+  },
+  "NOM-010-SSA-2023": {
+    "codp": 9326,
+    "nom_code": "NOM-010-SSA-2023",
+    "nom_id": "nom-010-ssa-2023",
+    "title": "NOM-010-SSA-2023",
+    "ministry": "SSA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9326&view=si",
+    "scraped_at": "2026-04-06T23:07:49.205634+00:00"
+  },
+  "NOM-003-SEDATU-2023": {
+    "codp": 9411,
+    "nom_code": "NOM-003-SEDATU-2023",
+    "nom_id": "nom-003-sedatu-2023",
+    "title": "NOM-003-SEDATU-2023",
+    "ministry": "SEDATU",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9411&view=si",
+    "scraped_at": "2026-04-06T23:11:08.538947+00:00"
+  },
+  "NOM-001-ARTF-2023": {
+    "codp": 9387,
+    "nom_code": "NOM-001-ARTF-2023",
+    "nom_id": "nom-001-artf-2023",
+    "title": "NOM-001-ARTF-2023",
+    "ministry": "ARTF",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9387&view=si",
+    "scraped_at": "2026-04-06T23:10:12.187300+00:00"
+  },
+  "NOM-018-ASEA-2023": {
+    "codp": 9379,
+    "nom_code": "NOM-018-ASEA-2023",
+    "nom_id": "nom-018-asea-2023",
+    "title": "NOM-018-ASEA-2023",
+    "ministry": "ASEA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9379&view=si",
+    "scraped_at": "2026-04-06T23:09:53.546826+00:00"
+  },
+  "NOM-017-ASEA-2023": {
+    "codp": 9380,
+    "nom_code": "NOM-017-ASEA-2023",
+    "nom_id": "nom-017-asea-2023",
+    "title": "NOM-017-ASEA-2023",
+    "ministry": "ASEA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9380&view=si",
+    "scraped_at": "2026-04-06T23:09:55.899453+00:00"
+  },
+  "NOM-037-STPS-2023": {
+    "codp": 9333,
+    "nom_code": "NOM-037-STPS-2023",
+    "nom_id": "nom-037-stps-2023",
+    "title": "NOM-037-STPS-2023",
+    "ministry": "STPS",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9333&view=si",
+    "scraped_at": "2026-04-06T23:08:05.429745+00:00"
+  },
+  "NOM-152-SEMARNAT-2023": {
+    "codp": 9338,
+    "nom_code": "NOM-152-SEMARNAT-2023",
+    "nom_id": "nom-152-semarnat-2023",
+    "title": "NOM-152-SEMARNAT-2023",
+    "ministry": "SEMARNAT",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9338&view=si",
+    "scraped_at": "2026-04-06T23:08:17.055961+00:00"
+  },
+  "NOM-003-ARTF-2023": {
+    "codp": 9435,
+    "nom_code": "NOM-003-ARTF-2023",
+    "nom_id": "nom-003-artf-2023",
+    "title": "NOM-003-ARTF-2023",
+    "ministry": "ARTF",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9435&view=si",
+    "scraped_at": "2026-04-06T23:12:04.942381+00:00"
+  },
+  "NOM-038-STPS-2023": {
+    "codp": 9418,
+    "nom_code": "NOM-038-STPS-2023",
+    "nom_id": "nom-038-stps-2023",
+    "title": "NOM-038-STPS-2023",
+    "ministry": "STPS",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9418&view=si",
+    "scraped_at": "2026-04-06T23:11:24.914754+00:00"
+  },
+  "NOM-004-SEDATU-2023": {
+    "codp": 9421,
+    "nom_code": "NOM-004-SEDATU-2023",
+    "nom_id": "nom-004-sedatu-2023",
+    "title": "NOM-004-SEDATU-2023",
+    "ministry": "SEDATU",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9421&view=si",
+    "scraped_at": "2026-04-06T23:11:32.306892+00:00"
+  },
+  "NOM-007-SEMAR-2023": {
+    "codp": 9359,
+    "nom_code": "NOM-007-SEMAR-2023",
+    "nom_id": "nom-007-semar-2023",
+    "title": "NOM-007-SEMAR-2023",
+    "ministry": "SEMAR",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9359&view=si",
+    "scraped_at": "2026-04-06T23:09:06.223597+00:00"
+  },
+  "NOM-020-SEMAR-2023": {
+    "codp": 9423,
+    "nom_code": "NOM-020-SEMAR-2023",
+    "nom_id": "nom-020-semar-2023",
+    "title": "NOM-020-SEMAR-2023",
+    "ministry": "SEMAR",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9423&view=si",
+    "scraped_at": "2026-04-06T23:11:36.967701+00:00"
+  },
+  "NOM-034-SEMAR-2023": {
+    "codp": 9361,
+    "nom_code": "NOM-034-SEMAR-2023",
+    "nom_id": "nom-034-semar-2023",
+    "title": "NOM-034-SEMAR-2023",
+    "ministry": "SEMAR",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9361&view=si",
+    "scraped_at": "2026-04-06T23:09:10.984519+00:00"
+  },
+  "NOM-173-SEMARNAT-2023": {
+    "codp": 9367,
+    "nom_code": "NOM-173-SEMARNAT-2023",
+    "nom_id": "nom-173-semarnat-2023",
+    "title": "NOM-173-SEMARNAT-2023",
+    "ministry": "SEMARNAT",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9367&view=si",
+    "scraped_at": "2026-04-06T23:09:25.163653+00:00"
+  },
+  "NOM-086-SCT2-2023": {
+    "codp": 9374,
+    "nom_code": "NOM-086-SCT2-2023",
+    "nom_id": "nom-086-sct2-2023",
+    "title": "NOM-086-SCT2-2023",
+    "ministry": "SCT2",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9374&view=si",
+    "scraped_at": "2026-04-06T23:09:41.840943+00:00"
+  },
+  "NOM-016-CONAGUA-2023": {
+    "codp": 9376,
+    "nom_code": "NOM-016-CONAGUA-2023",
+    "nom_id": "nom-016-conagua-2023",
+    "title": "NOM-016-CONAGUA-2023",
+    "ministry": "CONAGUA",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9376&view=si",
+    "scraped_at": "2026-04-06T23:09:46.571689+00:00"
+  },
+  "NOM-008-SE-2021": {
+    "codp": 9425,
+    "nom_code": "NOM-008-SE-2021",
+    "nom_id": "nom-008-se-2021",
+    "title": "NOM-008-SE-2021",
+    "ministry": "SE",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9425&view=si",
+    "scraped_at": "2026-04-06T23:11:41.616148+00:00"
+  },
+  "NOM-003-STPS-2023": {
+    "codp": 9394,
+    "nom_code": "NOM-003-STPS-2023",
+    "nom_id": "nom-003-stps-2023",
+    "title": "NOM-003-STPS-2023",
+    "ministry": "STPS",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9394&view=si",
+    "scraped_at": "2026-04-06T23:10:28.536507+00:00"
+  },
+  "NOM-005-SEDATU-2024": {
+    "codp": 9450,
+    "nom_code": "NOM-005-SEDATU-2024",
+    "nom_id": "nom-005-sedatu-2024",
+    "title": "NOM-005-SEDATU-2024",
+    "ministry": "SEDATU",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9450&view=si",
+    "scraped_at": "2026-04-06T23:12:40.016040+00:00"
+  },
+  "NOM-007-SEDATU-2024": {
+    "codp": 9464,
+    "nom_code": "NOM-007-SEDATU-2024",
+    "nom_id": "nom-007-sedatu-2024",
+    "title": "NOM-007-SEDATU-2024",
+    "ministry": "SEDATU",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9464&view=si",
+    "scraped_at": "2026-04-06T23:13:12.745808+00:00"
+  },
+  "NOM-006-SEDATU-2024": {
+    "codp": 9463,
+    "nom_code": "NOM-006-SEDATU-2024",
+    "nom_id": "nom-006-sedatu-2024",
+    "title": "NOM-006-SEDATU-2024",
+    "ministry": "SEDATU",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9463&view=si",
+    "scraped_at": "2026-04-06T23:13:10.318511+00:00"
+  },
+  "NOM-006-STPS-2023": {
+    "codp": 9412,
+    "nom_code": "NOM-006-STPS-2023",
+    "nom_id": "nom-006-stps-2023",
+    "title": "NOM-006-STPS-2023",
+    "ministry": "STPS",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9412&view=si",
+    "scraped_at": "2026-04-06T23:11:10.917255+00:00"
+  },
+  "NOM-010-SSPC-2019": {
+    "codp": 9413,
+    "nom_code": "NOM-010-SSPC-2019",
+    "nom_id": "nom-010-sspc-2019",
+    "title": "NOM-010-SSPC-2019",
+    "ministry": "SSPC",
+    "year": 2019,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9413&view=si",
+    "scraped_at": "2026-04-06T23:11:13.248260+00:00"
+  },
+  "NOM-007-SEMAR-2024": {
+    "codp": 9422,
+    "nom_code": "NOM-007-SEMAR-2024",
+    "nom_id": "nom-007-semar-2024",
+    "title": "NOM-007-SEMAR-2024",
+    "ministry": "SEMAR",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9422&view=si",
+    "scraped_at": "2026-04-06T23:11:34.667689+00:00"
+  },
+  "NOM-034-SEMAR-2024": {
+    "codp": 9424,
+    "nom_code": "NOM-034-SEMAR-2024",
+    "nom_id": "nom-034-semar-2024",
+    "title": "NOM-034-SEMAR-2024",
+    "ministry": "SEMAR",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9424&view=si",
+    "scraped_at": "2026-04-06T23:11:39.290031+00:00"
+  },
+  "NOM-137-SSA1-2024": {
+    "codp": 9426,
+    "nom_code": "NOM-137-SSA1-2024",
+    "nom_id": "nom-137-ssa1-2024",
+    "title": "NOM-137-SSA1-2024",
+    "ministry": "SSA1",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9426&view=si",
+    "scraped_at": "2026-04-06T23:11:43.928676+00:00"
+  },
+  "NOM-262-SSA1-2024": {
+    "codp": 9427,
+    "nom_code": "NOM-262-SSA1-2024",
+    "nom_id": "nom-262-ssa1-2024",
+    "title": "NOM-262-SSA1-2024",
+    "ministry": "SSA1",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9427&view=si",
+    "scraped_at": "2026-04-06T23:11:46.322638+00:00"
+  },
+  "NOM-010-ARTF-2024": {
+    "codp": 9467,
+    "nom_code": "NOM-010-ARTF-2024",
+    "nom_id": "nom-010-artf-2024",
+    "title": "NOM-010-ARTF-2024",
+    "ministry": "ARTF",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9467&view=si",
+    "scraped_at": "2026-04-06T23:13:19.736097+00:00"
+  },
+  "NOM-012-ARTF-2024": {
+    "codp": 9468,
+    "nom_code": "NOM-012-ARTF-2024",
+    "nom_id": "nom-012-artf-2024",
+    "title": "NOM-012-ARTF-2024",
+    "ministry": "ARTF",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9468&view=si",
+    "scraped_at": "2026-04-06T23:13:22.101222+00:00"
+  },
+  "NOM-009-ARTF-2024": {
+    "codp": 9433,
+    "nom_code": "NOM-009-ARTF-2024",
+    "nom_id": "nom-009-artf-2024",
+    "title": "NOM-009-ARTF-2024",
+    "ministry": "ARTF",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9433&view=si",
+    "scraped_at": "2026-04-06T23:12:00.271880+00:00"
+  },
+  "NOM-008-NUCL-2024": {
+    "codp": 9434,
+    "nom_code": "NOM-008-NUCL-2024",
+    "nom_id": "nom-008-nucl-2024",
+    "title": "NOM-008-NUCL-2024",
+    "ministry": "NUCL",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9434&view=si",
+    "scraped_at": "2026-04-06T23:12:02.622815+00:00"
+  },
+  "NOM-033-SCT2-2024": {
+    "codp": 9504,
+    "nom_code": "NOM-033-SCT2-2024",
+    "nom_id": "nom-033-sct2-2024",
+    "title": "NOM-033-SCT2-2024",
+    "ministry": "SCT2",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9504&view=si",
+    "scraped_at": "2026-04-06T23:14:46.715998+00:00"
+  },
+  "NOM-174-SEMARNAT-2024": {
+    "codp": 9438,
+    "nom_code": "NOM-174-SEMARNAT-2024",
+    "nom_id": "nom-174-semarnat-2024",
+    "title": "NOM-174-SEMARNAT-2024",
+    "ministry": "SEMARNAT",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9438&view=si",
+    "scraped_at": "2026-04-06T23:12:11.927582+00:00"
+  },
+  "NOM-020-SEMAR-2024": {
+    "codp": 9440,
+    "nom_code": "NOM-020-SEMAR-2024",
+    "nom_id": "nom-020-semar-2024",
+    "title": "NOM-020-SEMAR-2024",
+    "ministry": "SEMAR",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9440&view=si",
+    "scraped_at": "2026-04-06T23:12:16.587214+00:00"
+  },
+  "NOM-064-SCT3-2023": {
+    "codp": 9441,
+    "nom_code": "NOM-064-SCT3-2023",
+    "nom_id": "nom-064-sct3-2023",
+    "title": "NOM-064-SCT3-2023",
+    "ministry": "SCT3",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9441&view=si",
+    "scraped_at": "2026-04-06T23:12:18.903810+00:00"
+  },
+  "NOM-011-ARTF-2024": {
+    "codp": 9442,
+    "nom_code": "NOM-011-ARTF-2024",
+    "nom_id": "nom-011-artf-2024",
+    "title": "NOM-011-ARTF-2024",
+    "ministry": "ARTF",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9442&view=si",
+    "scraped_at": "2026-04-06T23:12:21.227939+00:00"
+  },
+  "NOM-259-SE-2022": {
+    "codp": 9443,
+    "nom_code": "NOM-259-SE-2022",
+    "nom_id": "nom-259-se-2022",
+    "title": "NOM-259-SE-2022",
+    "ministry": "SE",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9443&view=si",
+    "scraped_at": "2026-04-06T23:12:23.532949+00:00"
+  },
+  "NOM-018-SSA-2024": {
+    "codp": 9444,
+    "nom_code": "NOM-018-SSA-2024",
+    "nom_id": "nom-018-ssa-2024",
+    "title": "NOM-018-SSA-2024",
+    "ministry": "SSA",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9444&view=si",
+    "scraped_at": "2026-04-06T23:12:25.899537+00:00"
+  },
+  "NOM-045-SSA-2024": {
+    "codp": 9451,
+    "nom_code": "NOM-045-SSA-2024",
+    "nom_id": "nom-045-ssa-2024",
+    "title": "NOM-045-SSA-2024",
+    "ministry": "SSA",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9451&view=si",
+    "scraped_at": "2026-04-06T23:12:42.336108+00:00"
+  },
+  "NOM-020-SSA-2024": {
+    "codp": 9490,
+    "nom_code": "NOM-020-SSA-2024",
+    "nom_id": "nom-020-ssa-2024",
+    "title": "NOM-020-SSA-2024",
+    "ministry": "SSA",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9490&view=si",
+    "scraped_at": "2026-04-06T23:14:13.350047+00:00"
+  },
+  "NOM-240-SSA1-2024": {
+    "codp": 9455,
+    "nom_code": "NOM-240-SSA1-2024",
+    "nom_id": "nom-240-ssa1-2024",
+    "title": "NOM-240-SSA1-2024",
+    "ministry": "SSA1",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9455&view=si",
+    "scraped_at": "2026-04-06T23:12:51.697979+00:00"
+  },
+  "NOM-220-SSA1-2024": {
+    "codp": 9456,
+    "nom_code": "NOM-220-SSA1-2024",
+    "nom_id": "nom-220-ssa1-2024",
+    "title": "NOM-220-SSA1-2024",
+    "ministry": "SSA1",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9456&view=si",
+    "scraped_at": "2026-04-06T23:12:54.000619+00:00"
+  },
+  "NOM-241-SSA1-2024": {
+    "codp": 9494,
+    "nom_code": "NOM-241-SSA1-2024",
+    "nom_id": "nom-241-ssa1-2024",
+    "title": "NOM-241-SSA1-2024",
+    "ministry": "SSA1",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9494&view=si",
+    "scraped_at": "2026-04-06T23:14:22.694293+00:00"
+  },
+  "NOM-042-NUCL-2024": {
+    "codp": 9459,
+    "nom_code": "NOM-042-NUCL-2024",
+    "nom_id": "nom-042-nucl-2024",
+    "title": "NOM-042-NUCL-2024",
+    "ministry": "NUCL",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9459&view=si",
+    "scraped_at": "2026-04-06T23:13:00.952812+00:00"
+  },
+  "NOM-018-NUCL-2024": {
+    "codp": 9460,
+    "nom_code": "NOM-018-NUCL-2024",
+    "nom_id": "nom-018-nucl-2024",
+    "title": "NOM-018-NUCL-2024",
+    "ministry": "NUCL",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9460&view=si",
+    "scraped_at": "2026-04-06T23:13:03.287808+00:00"
+  },
+  "NOM-031-NUCL-2024": {
+    "codp": 9461,
+    "nom_code": "NOM-031-NUCL-2024",
+    "nom_id": "nom-031-nucl-2024",
+    "title": "NOM-031-NUCL-2024",
+    "ministry": "NUCL",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9461&view=si",
+    "scraped_at": "2026-04-06T23:13:05.645315+00:00"
+  },
+  "NOM-038-STPS-2024": {
+    "codp": 9462,
+    "nom_code": "NOM-038-STPS-2024",
+    "nom_id": "nom-038-stps-2024",
+    "title": "NOM-038-STPS-2024",
+    "ministry": "STPS",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9462&view=si",
+    "scraped_at": "2026-04-06T23:13:07.986648+00:00"
+  },
+  "NOM-011-ENER-2024": {
+    "codp": 9485,
+    "nom_code": "NOM-011-ENER-2024",
+    "nom_id": "nom-011-ener-2024",
+    "title": "NOM-011-ENER-2024",
+    "ministry": "ENER",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9485&view=si",
+    "scraped_at": "2026-04-06T23:14:01.731191+00:00"
+  },
+  "NOM-018-SICT3-2024": {
+    "codp": 9544,
+    "nom_code": "NOM-018-SICT3-2024",
+    "nom_id": "nom-018-sict3-2024",
+    "title": "NOM-018-SICT3-2024",
+    "ministry": "SICT3",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9544&view=si",
+    "scraped_at": "2026-04-06T23:16:20.296373+00:00"
+  },
+  "NOM-012-CONAGUA-2021": {
+    "codp": 9474,
+    "nom_code": "NOM-012-CONAGUA-2021",
+    "nom_id": "nom-012-conagua-2021",
+    "title": "NOM-012-CONAGUA-2021",
+    "ministry": "CONAGUA",
+    "year": 2021,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9474&view=si",
+    "scraped_at": "2026-04-06T23:13:36.184518+00:00"
+  },
+  "NOM-070-SICT3-2024": {
+    "codp": 9475,
+    "nom_code": "NOM-070-SICT3-2024",
+    "nom_id": "nom-070-sict3-2024",
+    "title": "NOM-070-SICT3-2024",
+    "ministry": "SICT3",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9475&view=si",
+    "scraped_at": "2026-04-06T23:13:38.518738+00:00"
+  },
+  "NOM-014-ENER-2024": {
+    "codp": 9477,
+    "nom_code": "NOM-014-ENER-2024",
+    "nom_id": "nom-014-ener-2024",
+    "title": "NOM-014-ENER-2024",
+    "ministry": "ENER",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9477&view=si",
+    "scraped_at": "2026-04-06T23:13:43.150497+00:00"
+  },
+  "NOM-036-SCT2-2023": {
+    "codp": 9478,
+    "nom_code": "NOM-036-SCT2-2023",
+    "nom_id": "nom-036-sct2-2023",
+    "title": "NOM-036-SCT2-2023",
+    "ministry": "SCT2",
+    "year": 2023,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9478&view=si",
+    "scraped_at": "2026-04-06T23:13:45.505811+00:00"
+  },
+  "NOM-253-SSA1-2024": {
+    "codp": 9481,
+    "nom_code": "NOM-253-SSA1-2024",
+    "nom_id": "nom-253-ssa1-2024",
+    "title": "NOM-253-SSA1-2024",
+    "ministry": "SSA1",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9481&view=si",
+    "scraped_at": "2026-04-06T23:13:52.449685+00:00"
+  },
+  "NOM-016-ENER-2024": {
+    "codp": 9482,
+    "nom_code": "NOM-016-ENER-2024",
+    "nom_id": "nom-016-ener-2024",
+    "title": "NOM-016-ENER-2024",
+    "ministry": "ENER",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9482&view=si",
+    "scraped_at": "2026-04-06T23:13:54.767566+00:00"
+  },
+  "NOM-004-ENER-2024": {
+    "codp": 9484,
+    "nom_code": "NOM-004-ENER-2024",
+    "nom_id": "nom-004-ener-2024",
+    "title": "NOM-004-ENER-2024",
+    "ministry": "ENER",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9484&view=si",
+    "scraped_at": "2026-04-06T23:13:59.414201+00:00"
+  },
+  "NOM-020-SSA-2025": {
+    "codp": 9491,
+    "nom_code": "NOM-020-SSA-2025",
+    "nom_id": "nom-020-ssa-2025",
+    "title": "NOM-020-SSA-2025",
+    "ministry": "SSA",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9491&view=si",
+    "scraped_at": "2026-04-06T23:14:15.667529+00:00"
+  },
+  "NOM-019-ASEA-2024": {
+    "codp": 9527,
+    "nom_code": "NOM-019-ASEA-2024",
+    "nom_id": "nom-019-asea-2024",
+    "title": "NOM-019-ASEA-2024",
+    "ministry": "ASEA",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9527&view=si",
+    "scraped_at": "2026-04-06T23:15:40.552724+00:00"
+  },
+  "NOM-020-ASEA-2024": {
+    "codp": 9526,
+    "nom_code": "NOM-020-ASEA-2024",
+    "nom_id": "nom-020-asea-2024",
+    "title": "NOM-020-ASEA-2024",
+    "ministry": "ASEA",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9526&view=si",
+    "scraped_at": "2026-04-06T23:15:38.073489+00:00"
+  },
+  "NOM-017-STPS-2024": {
+    "codp": 9496,
+    "nom_code": "NOM-017-STPS-2024",
+    "nom_id": "nom-017-stps-2024",
+    "title": "NOM-017-STPS-2024",
+    "ministry": "STPS",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9496&view=si",
+    "scraped_at": "2026-04-06T23:14:27.859064+00:00"
+  },
+  "NOM-241-SSA1-2025": {
+    "codp": 9497,
+    "nom_code": "NOM-241-SSA1-2025",
+    "nom_id": "nom-241-ssa1-2025",
+    "title": "NOM-241-SSA1-2025",
+    "ministry": "SSA1",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9497&view=si",
+    "scraped_at": "2026-04-06T23:14:30.185808+00:00"
+  },
+  "NOM-059-SEMARNAT-2025": {
+    "codp": 9498,
+    "nom_code": "NOM-059-SEMARNAT-2025",
+    "nom_id": "nom-059-semarnat-2025",
+    "title": "NOM-059-SEMARNAT-2025",
+    "ministry": "SEMARNAT",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9498&view=si",
+    "scraped_at": "2026-04-06T23:14:32.567699+00:00"
+  },
+  "NOM-005-SSA-2025": {
+    "codp": 9500,
+    "nom_code": "NOM-005-SSA-2025",
+    "nom_id": "nom-005-ssa-2025",
+    "title": "NOM-005-SSA-2025",
+    "ministry": "SSA",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9500&view=si",
+    "scraped_at": "2026-04-06T23:14:37.262209+00:00"
+  },
+  "NOM-004-ENER-2025": {
+    "codp": 9501,
+    "nom_code": "NOM-004-ENER-2025",
+    "nom_id": "nom-004-ener-2025",
+    "title": "NOM-004-ENER-2025",
+    "ministry": "ENER",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9501&view=si",
+    "scraped_at": "2026-04-06T23:14:39.557918+00:00"
+  },
+  "NOM-011-ENER-2025": {
+    "codp": 9502,
+    "nom_code": "NOM-011-ENER-2025",
+    "nom_id": "nom-011-ener-2025",
+    "title": "NOM-011-ENER-2025",
+    "ministry": "ENER",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9502&view=si",
+    "scraped_at": "2026-04-06T23:14:41.936361+00:00"
+  },
+  "NOM-251-SE-2025": {
+    "codp": 9539,
+    "nom_code": "NOM-251-SE-2025",
+    "nom_id": "nom-251-se-2025",
+    "title": "NOM-251-SE-2025",
+    "ministry": "SE",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9539&view=si",
+    "scraped_at": "2026-04-06T23:16:08.496411+00:00"
+  },
+  "NOM-035-ENER-2024": {
+    "codp": 9509,
+    "nom_code": "NOM-035-ENER-2024",
+    "nom_id": "nom-035-ener-2024",
+    "title": "NOM-035-ENER-2024",
+    "ministry": "ENER",
+    "year": 2024,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9509&view=si",
+    "scraped_at": "2026-04-06T23:14:58.400073+00:00"
+  },
+  "NOM-021-ASEA-2025": {
+    "codp": 9510,
+    "nom_code": "NOM-021-ASEA-2025",
+    "nom_id": "nom-021-asea-2025",
+    "title": "NOM-021-ASEA-2025",
+    "ministry": "ASEA",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9510&view=si",
+    "scraped_at": "2026-04-06T23:15:00.737087+00:00"
+  },
+  "NOM-022-ASEA-2025": {
+    "codp": 9511,
+    "nom_code": "NOM-022-ASEA-2025",
+    "nom_id": "nom-022-asea-2025",
+    "title": "NOM-022-ASEA-2025",
+    "ministry": "ASEA",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9511&view=si",
+    "scraped_at": "2026-04-06T23:15:03.044693+00:00"
+  },
+  "NOM-016-ENER-2025": {
+    "codp": 9514,
+    "nom_code": "NOM-016-ENER-2025",
+    "nom_id": "nom-016-ener-2025",
+    "title": "NOM-016-ENER-2025",
+    "ministry": "ENER",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9514&view=si",
+    "scraped_at": "2026-04-06T23:15:10.009406+00:00"
+  },
+  "NOM-035-ENER-2025": {
+    "codp": 9515,
+    "nom_code": "NOM-035-ENER-2025",
+    "nom_id": "nom-035-ener-2025",
+    "title": "NOM-035-ENER-2025",
+    "ministry": "ENER",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9515&view=si",
+    "scraped_at": "2026-04-06T23:15:12.423080+00:00"
+  },
+  "NOM-011-SSPC-2025": {
+    "codp": 9519,
+    "nom_code": "NOM-011-SSPC-2025",
+    "nom_id": "nom-011-sspc-2025",
+    "title": "NOM-011-SSPC-2025",
+    "ministry": "SSPC",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9519&view=si",
+    "scraped_at": "2026-04-06T23:15:21.739585+00:00"
+  },
+  "NOM-034-ENER-2025": {
+    "codp": 9522,
+    "nom_code": "NOM-034-ENER-2025",
+    "nom_id": "nom-034-ener-2025",
+    "title": "NOM-034-ENER-2025",
+    "ministry": "ENER",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9522&view=si",
+    "scraped_at": "2026-04-06T23:15:28.794447+00:00"
+  },
+  "NOM-037-SICT2-2025": {
+    "codp": 9525,
+    "nom_code": "NOM-037-SICT2-2025",
+    "nom_id": "nom-037-sict2-2025",
+    "title": "NOM-037-SICT2-2025",
+    "ministry": "SICT2",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9525&view=si",
+    "scraped_at": "2026-04-06T23:15:35.744072+00:00"
+  },
+  "NOM-023-ASEA-2025": {
+    "codp": 9528,
+    "nom_code": "NOM-023-ASEA-2025",
+    "nom_id": "nom-023-asea-2025",
+    "title": "NOM-023-ASEA-2025",
+    "ministry": "ASEA",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9528&view=si",
+    "scraped_at": "2026-04-06T23:15:42.861913+00:00"
+  },
+  "NOM-024-ASEA-2025": {
+    "codp": 9529,
+    "nom_code": "NOM-024-ASEA-2025",
+    "nom_id": "nom-024-asea-2025",
+    "title": "NOM-024-ASEA-2025",
+    "ministry": "ASEA",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9529&view=si",
+    "scraped_at": "2026-04-06T23:15:45.162360+00:00"
+  },
+  "NOM-025-ASEA-2025": {
+    "codp": 9530,
+    "nom_code": "NOM-025-ASEA-2025",
+    "nom_id": "nom-025-asea-2025",
+    "title": "NOM-025-ASEA-2025",
+    "ministry": "ASEA",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9530&view=si",
+    "scraped_at": "2026-04-06T23:15:47.493239+00:00"
+  },
+  "NOM-003-SSA1-2025": {
+    "codp": 9532,
+    "nom_code": "NOM-003-SSA1-2025",
+    "nom_id": "nom-003-ssa1-2025",
+    "title": "NOM-003-SSA1-2025",
+    "ministry": "SSA1",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9532&view=si",
+    "scraped_at": "2026-04-06T23:15:52.148525+00:00"
+  },
+  "NOM-072-SSA1-2025": {
+    "codp": 9533,
+    "nom_code": "NOM-072-SSA1-2025",
+    "nom_id": "nom-072-ssa1-2025",
+    "title": "NOM-072-SSA1-2025",
+    "ministry": "SSA1",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9533&view=si",
+    "scraped_at": "2026-04-06T23:15:54.508864+00:00"
+  },
+  "NOM-177-SSA1-2025": {
+    "codp": 9534,
+    "nom_code": "NOM-177-SSA1-2025",
+    "nom_id": "nom-177-ssa1-2025",
+    "title": "NOM-177-SSA1-2025",
+    "ministry": "SSA1",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9534&view=si",
+    "scraped_at": "2026-04-06T23:15:56.805290+00:00"
+  },
+  "NOM-199-SSA1-2025": {
+    "codp": 9535,
+    "nom_code": "NOM-199-SSA1-2025",
+    "nom_id": "nom-199-ssa1-2025",
+    "title": "NOM-199-SSA1-2025",
+    "ministry": "SSA1",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9535&view=si",
+    "scraped_at": "2026-04-06T23:15:59.111625+00:00"
+  },
+  "NOM-249-SSA1-2025": {
+    "codp": 9536,
+    "nom_code": "NOM-249-SSA1-2025",
+    "nom_id": "nom-249-ssa1-2025",
+    "title": "NOM-249-SSA1-2025",
+    "ministry": "SSA1",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9536&view=si",
+    "scraped_at": "2026-04-06T23:16:01.426743+00:00"
+  },
+  "NOM-008-TUR-2022": {
+    "codp": 9537,
+    "nom_code": "NOM-008-TUR-2022",
+    "nom_id": "nom-008-tur-2022",
+    "title": "NOM-008-TUR-2022",
+    "ministry": "TUR",
+    "year": 2022,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9537&view=si",
+    "scraped_at": "2026-04-06T23:16:03.770957+00:00"
+  },
+  "NOM-001-NUCL-2025": {
+    "codp": 9541,
+    "nom_code": "NOM-001-NUCL-2025",
+    "nom_id": "nom-001-nucl-2025",
+    "title": "NOM-001-NUCL-2025",
+    "ministry": "NUCL",
+    "year": 2025,
+    "source_url": "https://diariooficial.gob.mx/normasOficiales.php?codp=9541&view=si",
+    "scraped_at": "2026-04-06T23:16:13.283590+00:00"
+  }
+}
