@@ -1,5 +1,11 @@
 # Genoma Regulatorio de México 🇲🇽
 
+> **Proyecto archivado (31 oct 2026).** Genoma ya no se mantiene. Sus ideas continúan en
+> [Radar Normativo MX](https://radar.palari.io/?view=conexiones): menciones entre leyes por artículo
+> sobre los textos vigentes (federales y estatales), impacto de cada reforma en los artículos que la
+> citan y remisiones supletorias o de definiciones. El código y los datos de abril de 2026 se conservan
+> aquí sin cambios. El tablero 3D de GitHub Pages ya no está publicado.
+
 Plataforma de **inteligencia de dependencias normativas** y **análisis de impacto de reforma** para legislación federal mexicana.
 
 > Rama de trabajo recomendada para este pivote: `pivot/legal-dependency-intelligence`.
